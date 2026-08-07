@@ -1,0 +1,2218 @@
+{
+  "early_0012": {
+    "item_id": "early_0012",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Die Leaf-NH-Kur für lockiges Haar, 250ml. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.188,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "early_0004": {
+    "item_id": "early_0004",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Man After Shave Lotion 100ml. In welcher Region liegt das Lager seines Lieferanten?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.077,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "serial_0018": {
+    "item_id": "serial_0018",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Mich würde interessieren, in welcher Region das Lager des Lieferanten für das Produkt Peeling Spray Peel Good Baby 80ml liegt.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.65,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0004": {
+    "item_id": "serial_0004",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du, in welcher Region das Lager von dem Lieferanten für das Fruchtaufstrich Erdbeer mit 75% Frucht 200g liegt?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.632,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0006": {
+    "item_id": "one_hop_0006",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Von welcher FEMA wird das Proteinpulver Protein Shake Vegan im Geschmack Mango Passionsfrucht mit 28 Gramm geliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.294,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "combined_0014": {
+    "item_id": "combined_0014",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Es geht um folgende Produkte. Menü Karotten mit Reis und Wildlachs ab dem 8. Monat 220 Gramm. Omega 3 plus Vitamin D3 Kids Kautabletten 27 Stück 35, 1 Gramm Nuss- und Fruchtmischung. Tropic Mix 200 Gramm Zahnpasta Zahnschmelz Professional Optischmelz 75 Milliliter. Mascara Grow & Tint Deep Black 200 Gramm. Gesichtscreme Basic Sensitive, feuchtigkeitsspendend, 50ml. Man Pre-Electric Shave Lotion, 100ml. Wie hoch ist die Summe Ihrer Einkaufspreise?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.836,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0013": {
+    "item_id": "early_0013",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Rasierklingen, Komfortkleid, Sparbreeze, 12 Stück. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0018": {
+    "item_id": "one_hop_0018",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Sag mal, von welcher Firma kommt denn der Weichspüler Mandelmilch mit 40 Waschladungen und 880 ml?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.5,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0019": {
+    "item_id": "early_0019",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Nagellack 27 Watermelon 13,5 ml. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "serial_0013": {
+    "item_id": "serial_0013",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Das Lager vom Lieferanten der Marke von dem Lidschatten Palette Quattro 37 Chocolate 4,4 g. In welcher Region liegt das, oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.381,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "select_0003": {
+    "item_id": "select_0003",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Also bei den Produkten Müslikekse ab 3 Jahren 125 Gramm, Gesichtswasser Anti-Mittesser 200 Milliliter, Kinder Badezusatz Badebombe Dragons ein Stück, Mundspülung Super Clean 500 Milliliter, Rasierklingen Smooth 4 Stück. Tomatenmark 200 Gramm und Kaffee entkoffiniert löslich 100 Gramm. Welches davon hat den höchsten Lagerbestand?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.75,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0001": {
+    "item_id": "early_0001",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Also bei der Nussmischung Nusskernmischung mit Haselnuss, Mandel, Cashew und Walnuss 150 Gramm. In welcher Region liegt das Lager von seinem Lieferanten?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.136,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "serial_0009": {
+    "item_id": "serial_0009",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hm, in welcher Region liegt eigentlich das Lager vom Lieferanten der Marke von dem Produkt Kaffee entkoffiniert löslich 100 Gramm?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.75,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0005": {
+    "item_id": "one_hop_0005",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Von welcher Firma wird die Mundspülung SuperClean 500ml geliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.556,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0019": {
+    "item_id": "select_0019",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Welches von diesen Produkten hat den höchsten Lagerbestand? Flüssigseife, Rosemary und Ginger, 250 ml. Nussmischung gerösteter Edelnussmix, 160 g. Zahnpasta, Juniorenzahn, 6-13 Jahre, 75 ml. Nagellack Effect 7 Identity 13,5 ml, Nassfutter Katze Huhn in Sauce, Revelation Mousse Multipack mit 4 x 57 g, insgesamt 228 g, Schokoriegel Milch 23 g, Getränkepulver mit 2,5 g, shake typ blaubeer 75 gramm spülmittel paradise blumen 305 300 milliliter oder",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.896,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0018": {
+    "item_id": "select_0018",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Welches von diesen Produkten hat den höchsten Lagerbestand? Duschgel 2 in 1 Dusche plus Shampoo mit 5% Urea 300ml Waffelsnack 150g Porridge Kakao Dinkel mit Haselnüssen 500g Smoothie Bowl, Pulver Benjamin Blaubeer, Blaubeer und Johannisbeer, 400 Gramm. Rasierbutter ab 40, 150 Milliliter. Entkalker, Kaffeemaschinen, 250 Milliliter. Tee Getränk Kombucha Original 0,25 Liter Einweg, Leaf-In-Hartkurve trockenes Hart 250 ml, Sesamöl 0,25 Liter oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 0.889,
+        "missing": [
+          "Leave-In Haarkur, für lockiges Haar, 250 ml"
+        ],
+        "passed": false
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.935,
+        "front_loaded": false,
+        "passed": true
+      }
+    },
+    "manual_override": {
+      "reason": "ASR orthography, not a misread. The transcript is complete (62 of 66 script words) and 8 of 9 products resolve; only \"Leave-In Haarkur, fuer lockiges Haar, 250 ml\" misses, because Whisper renders the English \"Leave-In\" as \"Leaf-In-Hartkurve\" and the mangling carries into the following words (\"trockenes Hart\" for \"lockiges Haar\"), so 3 of its 4 distinctive tokens are lost at once.",
+      "overridden_checks": [
+        "entity_presence"
+      ]
+    }
+  },
+  "serial_0001": {
+    "item_id": "serial_0001",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "In welcher Region liegt das Lager des Lieferanten für das Produkt Taschentücher Box Balsam 4-lagig 120 Stück?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.647,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0011": {
+    "item_id": "early_0011",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Nagellackgel bei 545 Tassel Free 13,5 ml In welche Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "select_0013": {
+    "item_id": "select_0013",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Ich habe hier eine Liste mit verschiedenen Produkten. Schokoriegel Vollmilch Espresso Crunch 37,5 Gramm. Shampoo Nourishing 250 Milliliter. Sonnenmilch Hydra 24 Stunden Protect LSV 30 175 Milliliter. Schokolade Mocca 80 Gramm, Proteinriegel 25 Prozent. Deluxe mit Pistazienbutter 55 Gramm. Smoothie Bowl Mango Maracuja Kokos 50 Gramm. Foundation Hauttonanpassend 30 Milliliter. Feuchttücher Fresh & Clean 4 x 80 Stück. also insgesamt 320 Stück Flüssigseife Rosemary & Ginger 250ml Taschentücher Box Balsam 4-lagig 120 Stück Kannst du mir sagen, welches von denen den höchsten Lagerbestand hat?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.798,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0000": {
+    "item_id": "one_hop_0000",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du noch, von welcher Firma das Produkt Preisschale Senfgelb ein Stück geliefert wird?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.571,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0011": {
+    "item_id": "combined_0011",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du noch, wie hoch die Summe der Einkaufspreise von diesen Produkten ist? Deo Zerstäuber Wassernilie 75ml, Direktsaft Apfelmango 0,33 Liter, Conditioner The Foundation 300ml, Smoothie Bowl Pulver Baking Soda 0,33 Liter, Benjamin Blaubeer, Blaubeer und Johannisbeer, 400 Gramm. Foundation Make-Up Classic Tint, 30 Milliliter. Frucht und Getreide Apfel-Banane mit Zwieback, ab dem 5. Monat, 250 Gramm. Shampoo Nourishing, 250 Milliliter. Müsli-Kekse ab 3 Jahre. 125 Gramm, Tuchmaske, Reißwasser, ein Stück.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.944,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0016": {
+    "item_id": "serial_0016",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "In welcher Region liegt das Lager des Lieferanten der Marke des Produktes Frucht- und Joghurtmüsli Guten Morgen ab dem 10. Monat 160 Gramm?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.522,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0010": {
+    "item_id": "select_0010",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hey, ich habe hier ein paar Produkte. Bonbon Fresh Mint Zuckerfrei 75 Gramm, Baby Waschschaum Sensitiv Nachfüllpack 250 Milliliter, vegane Mayo 250 Milliliter. Saaten, gelbe Cocktailtomaten, Yellow Clementine, ein Stück, Mascara Crow & Tint Deep Black, 12 ml, Fleckenfreier, Fleckenentferner, Fleckenteufel, Fethaltiges und Soßen, 50 ml. Vitamin K2 plus D3, 3000 Minitabletten, 30 Stück, 9,2 Gramm. Spülmittel, Reiniger, Exzellenz, 5 in 1 Gel, Power und Pearls, 60 Spülgänge, 960 ml. Welches davon hat den höchsten Lagerbestand?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.75,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0018": {
+    "item_id": "combined_0018",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Ich habe hier ein paar Produkte. Concealer Fit Me 06 Vanilla 6,8 ml. Direktsaft Apfel Mango 0,33 l. Fruchtaufstrich Waldfrucht 55% Frucht. 340 Gramm. Mascara Volume Million Lashes Panorama Black 10,5 Milliliter. Pesto Artischocken und Zitrone 120 Gramm. Quetschi wiederverwendbar 3 Stück. 3 Stück. Muffin Schoko glutenfrei 65 Gramm. Pflanzen trinken Kälte und Natur ein Liter. Wie hoch ist die Summe der Einkaufspreise?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.841,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0004": {
+    "item_id": "combined_0004",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Ich möchte die Summe der Einkaufspreise für diese Produkte wissen. Nuss- und Trockenfrüchtemischung Trail Mix 150 Gramm, Wattestäbchen mit betruckten Papierschälften, Motivbox 300 Stück. Saft Apfelbirne mit stillem Wasser ab dem 6. Monat 500ml. Antitransparent Deo Roll-On Honey & Cactus Flower Nachfüllpack. 50ml Lidschatten Palette Quattro 37 Chocolate 4,4g. Foundation Liquid HD Coverage 30 Sand Beige, 30 ml. Porridge Kakao Dinkel mit Haselnüssen, 500 g. Können Sie mir die Summe nennen, oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.806,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0011": {
+    "item_id": "select_0011",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Mich würde interessieren, welches von diesen Produkten den höchsten Lagerbestand hat. Butterkekse Dinkel 150 Gramm, Gemüsechips 90 Gramm, Bonbon Zitronenmelisse zuckerfrei in der Taschenbox 50 Gramm. Feuchttücher Fresh & Clean 4x80 Stück, also 320 Gramm. Mundspülung Total Care extra milde Minze, alkoholfrei 500 Milliliter. Küchentücher Premium 3-lagig 4x51 Blatt, also 4 Stück. Trockenfrüchte, Erdbeere, gefriergetrocknete 15 Gramm.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.912,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0016": {
+    "item_id": "early_0016",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Also bei der Nuss- und Trockenfrüchte-Mischung Trail Mix 150g, in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.158,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "serial_0014": {
+    "item_id": "serial_0014",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kannst du mir sagen, in welcher Region das Lager des Lieferanten der Marke des Produktes Spülmittel Gel Himbeer mit 500ml liegt?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.714,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0000": {
+    "item_id": "combined_0000",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hey, ich habe hier ein paar Produkte. Fruchtaufstrich Frucht Pur Mango mit 75% Frucht, 200g. Lidschattenpalette Club Soleil 01 Soleil. Say No More 5,2 Gramm Deo Spray Man Lavender Coffee Tonka Bean 150ml Abris Shave Lotion 150ml Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush 3,5 Gramm. Handcreme Repair SOS Hilfe mit Calendula und Shea Butter 75 Milliliter. Nagellackgel bei 567 Frost Yourself 13,5 Milliliter. Babykekse, Haferkekse mit Erdbeer, Banane und Apfel ab 8 Monate 100 Gramm. Weißt du, wie hoch die Summe ihrer Einkaufspreise ist?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.756,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0017": {
+    "item_id": "select_0017",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Ich habe hier eine Liste mit Produkten. Getränkepulver Milchshake Typ Blaubeer 75 Gramm. Körperbutter Mango-Matcha Latte 235 ml Still Smoothie Rote Früchte in Apfel mit Eisen 200 ml Fleckenentferner Fleckenteufel Fleckenhaltiges und Soßen 50 ml Lidschattenpalette The Nude Edition 10 Pretty & Nude 10 Gramm. Trockenfrüchte Erdbeeren gefriergetrocknet 15 Gramm. Muffin Schoko Glutenfrei 75 Gramm. Trockenfrüchte, White Crunchy Strawberry, Erdbeer mit Schokolade, 50 Gramm. Welches davon hat den höchsten Lagerbestand?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.714,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0010": {
+    "item_id": "serial_0010",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "In welcher Region liegt das Lager von dem Lieferanten, der den Fruchtaufstrich Frucht pur Himbeer mit 75% Frucht 200g liefert, oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.524,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0017": {
+    "item_id": "one_hop_0017",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du noch, von welcher Firma das Produkt Fruchtaufstrich Erdbeermyxylid 220 g geliefert wird?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.571,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0000": {
+    "item_id": "early_0000",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Knusperriegel Apfelkirsch ab 1 Jahr 25 Gramm. In welcher Region liegt das Lager seines Lieferanten?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "select_0008": {
+    "item_id": "select_0008",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Ich habe hier eine Liste mit verschiedenen Produkten. Lidschatten Stick Le Shadow 030 Nude Lights 1,4 Gramm. Nagelfolie Foil Nail Wraps 100 Stück. Nudeln Fusilli aus Emma 500 Gramm. Proteinpulver Protein Shake vegan Mango Passionsfrucht Geschmack 28 Gramm Conditioner The Foundation 300ml Concealer Fit Me 06 Vanille 6,8ml Trockenfrüchte Datteln mit Geschmack Sour Apple 100g Süßungsmittel Chunky Flavor Vanilla Perfection 90g Welches davon hat den höchsten Lagerbestand?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.687,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0013": {
+    "item_id": "combined_0013",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Sag mir wie hoch die Summe der Einkaufspreise von diesen Produkten. Frucht Mii Fruity Bears 100 Gramm Waschmittel Renew Schwarz 27 Waschladungen Kreuzkümmel gemahlen 40 Gramm Waffelsnack 150 Gramm Menü Spaghetti Bolognese nach dem 5. Monat 190 Gramm Schnuller Perfect Match Air Silikon Grün Senf 18-36 Monate 2 Stück Getränkepulver Milchshake Typ Blaubeer 75g Foundation True Match Hyaluron Tinted Balm Thor Light Medium 8g Haaröl Coconut Infused Oil 100ml Mascara Volume Million Lashes Panorama Black 10,5ml",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.908,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0002": {
+    "item_id": "early_0002",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Also bei den Zahnseide-Sticks Clean Pro Lemon Minze Fluorid Antibakteriell 48 Stück. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.136,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "select_0015": {
+    "item_id": "select_0015",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Welches von diesen Produkten hat den höchsten Lagerbestand? Duschgel PH 5,5 neutral Creme Öldusche 300ml Getränkepulver Milchshake Typ Blaubeer 75g Windeln Premiumgröße 5 für 13 bis 18 kg, 26 Stück. Taschentücher Box Balsam 4-lagig, 120 Stück. Reissirup 250 ml, Sonnenspray Sensitive Expert plus Hydrating Sun Water LFS 50, 150 ml oder",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.765,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0002": {
+    "item_id": "one_hop_0002",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hm, von welcher Firma kommt denn der Haferriegel Oat Bar Cocoa 60 Gramm?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.538,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0000": {
+    "item_id": "select_0000",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Es geht um folgende Produkte Küchenrolle Wisch & Weck Extra Lang 2x86 Blatt 2 Stück Concealer Skin Loving Sensitive 20 Medium 3,5ml Waschmittel Renew Schwarz 27 WL, Spülmittelgel Himbeer 500 ml, Tomatenmark 200 g, Haaröl Coconut Miracle Oil 100 ml. Kichererbsenwaffeln, Zartbitter 100 Gramm. Babykeks, Rübchen, Rote Beete und Pastinake ab dem 8. Monat 30 Gramm. Tuchmaske, Reiswasser 1 Stück, festes Duschgel, Ocean Dive, Bio-Aloe Vera und Meersalz 80 Gramm. Welches davon hat den höchsten Lagerbestand?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.789,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0015": {
+    "item_id": "combined_0015",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hey, ich habe hier ein paar Produkte. Shampoo, Honig, 400ml, Duschgel, pH 5,5, Hautneutral, Creme, Öldusche, 300ml, Kinder, Badezusatz, Badebombe, Dragons, ein Stück. Bibi Kekse Wundertraum Kekse mit Dinkel, Apfel und Heidelbeer ab dem 8. Monat 100g Nagellack 27 Watermelon 13,5ml Handcreme Urea 100 ml. Bonbon Fresh Mint Zuckerfrei 75 g. Erfrischungsgetränk Limonata Limone Limo Zitrone 330 ml Einweg. Wie hoch ist die Summe Ihrer Einkaufspreise?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.773,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0018": {
+    "item_id": "early_0018",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Couscous 500 Gramm. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0009": {
+    "item_id": "one_hop_0009",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Von welcher Firma wird der Nagellack 13 Mademos Rosé mit 30,5 ml geliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.385,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "combined_0017": {
+    "item_id": "combined_0017",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kannst du mir sagen, wie hoch die Summe der Einkaufspreise für folgende Produkte ist? Haaröl Hydroshine 30 ml Deo Spray Duschfrische 150 ml. Baby Snack Knusperflips Tomate Karotte ab dem 8. Monat 30 g. Butterkekse Dinkel 150 g. Windeln Premiumgröße 5, 13-18 kg, 26 Stück. Feuchttücher Ultra-Sensitive 5x48 Stück, also 240 Stück. Trockenfrüchte White Crunchy Strawberries Erdbeer mit Schokolade 50 Gramm. Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz und Moltebeere 250 ml. Fruchtaufstrich Himbeer 55% Frucht 340 g. Kindermüsli Beeren ab dem 10. Monat 200 g.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.718,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0016": {
+    "item_id": "one_hop_0016",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Der Lidschatten Stick Le Shadow 030 Nude Lights mit 1,4 Gramm. Von welcher Firma wird der geliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.059,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "combined_0019": {
+    "item_id": "combined_0019",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Sag mal, wie hoch ist die Summe der Einkaufspreise von diesen Produkten? Direktsaft Apfel-Mango 0,33 Liter. Fruchtaufstrich Frucht Pur Mango 75% Frucht 200 Gramm. Fertiggericht Nudelcup Kräutercremsoße 61 Gramm. Nussmischung gerösteter Edelnussmix 160 g. Müsli-Chocoballs glutenfrei 275 g. Spülmaschinenreiniger Excellence 5 in 1 Gel Power und Pearls 60 Spülladungen 960 ml.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 0.833,
+        "missing": [
+          "Fertiggericht, Noodle Cup Kräuter-Creme-Sauce, 61 g"
+        ],
+        "passed": false
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.745,
+        "front_loaded": false,
+        "passed": true
+      }
+    },
+    "manual_override": {
+      "reason": "ASR orthography, not a misread. The transcript is complete (51 of 53 script words) and every other product resolves; only \"Fertiggericht, Noodle Cup Kraeuter-Creme-Sauce, 61 g\" misses, because Whisper writes the English product name in German as \"Nudelcup Kraeutercremsosse\" — 2 of its 5 distinctive tokens match, just under entity_token_coverage. The same English-to-German rendering shows up as Mocca->Mokka and Excellence->Exzellenz elsewhere in the set; those cleared the threshold only because their descriptors have fewer tokens.",
+      "overridden_checks": [
+        "entity_presence"
+      ]
+    }
+  },
+  "serial_0011": {
+    "item_id": "serial_0011",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kannst du mir sagen, in welcher Region das Lager des Lieferanten der Marke des Produktes Quetschi Wiederverwendbar 3er Packung 3 Stück liegt?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.727,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0012": {
+    "item_id": "serial_0012",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "In welcher Region liegt das Lager des Lieferanten der Marke des Produktes Proteinriegel 25% Deluxe mit Pistazienbutter 55g?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.667,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0001": {
+    "item_id": "one_hop_0001",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du von welcher Firma der Pflanzendrink Cashew Natur in der 1 Liter Packung geliefert wird?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.375,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0013": {
+    "item_id": "one_hop_0013",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du von welcher Firma das Produkt Foundation Superstay Hybridis 40 9g geliefert wird?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.5,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0006": {
+    "item_id": "combined_0006",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Ich habe eine Liste mit Produkten. Saft Apfelbirne mit stillem Wasser ab dem 6. Monat 500ml. Waschmittel Renew Schwarz 27 Waschladungen. Mascara Lash Princess Sculpted Volume 12ml Maiswaffelnatur 110g Quetschi wiederverwendbar 3er Pack 3 Stück Kindermüsli, Banane, Apfel und Blaubeere ab dem ersten Jahr 220g Kinderbade Zusatz, Badebombe, Tragons, ein Stück. Schokomüsli mit Knusperflakes, glutenfrei, 375 Gramm. Rasierklinge, Komfortkleid, Spa Breeze, vier Stück. Wie hoch ist die Summe Ihrer Einkaufspreise, oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.845,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0009": {
+    "item_id": "early_0009",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "H-Gel Locken Styling Gel, 250 ml. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.062,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "early_0007": {
+    "item_id": "early_0007",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Janosch, Bärenfreund mit Fruchtgeschmack, 50 Gramm. In welcher Region liegt das Lager seines Lieferanten?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "serial_0019": {
+    "item_id": "serial_0019",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "In welcher Region liegt eigentlich das Lager vom Lieferanten der Marke von dem Produkt Gliedschattenpalette The Nude Edition 10 Pretty in Nude 10 Gramm?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.583,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0002": {
+    "item_id": "serial_0002",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Das Lager des Lieferanten für die Marke des Produktes Kinderbadezusatz Badebombe Dragons. Ein Stück liegt in welcher Region, oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.474,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0010": {
+    "item_id": "one_hop_0010",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Von welcher Firma wird das Kindermüsli Banane, Apfel und Blaubeere ab ein Jahr 220 Gramm geliefert, oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.294,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "combined_0008": {
+    "item_id": "combined_0008",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du noch, wie hoch die Summe der Einkaufspreise von diesen Produkten ist? Toilettenpapier, bewährt, dreilagig, 16x150 Blatt, 16 Stück, Allzweckreiniger, Multiflächen und Hochglanz, 500ml, Bombor Lacritz, 75g, HG Locken Styling Gel, 250ml, Wattestäbchen mit bedruckten Papierschäften, Motivbox, 300 Stück, Lidschattenpalette Club Soleil 01, Soleil Seine Aumont, 5,2g, Spülmittelgel, Himbeer, 500ml, Müsliriegel, Granola, gemischte Früchte, 6 Stück, 144g, Antitranspirant Deo Spray, Maximum Protection Fresh, 150ml, Kindershampoo und Duschgel, 2 in 1 Spaghetti Ice Monster, 230ml,",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.867,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0010": {
+    "item_id": "early_0010",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Babykeks, Rübchen, rote Beete und Pastinake ab dem 8. Monat 30 Gramm. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0019": {
+    "item_id": "one_hop_0019",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kannst du mir sagen, von welcher Firma das Produkt Süßungsmittel Chunky Flavor Vanilla Perfection 90g geliefert wird?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.529,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0017": {
+    "item_id": "early_0017",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kaugummi Refreshers Watermelon Rosberry Zuckerfrei. Acht Stück. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "serial_0008": {
+    "item_id": "serial_0008",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hm, wo genau liegt eigentlich das Lager von dem Lieferanten, der die Marke von dem festen Duschgel Ocean Dive Bio Aloe Vera und mehr Salz mit 80 Gramm beliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.552,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0002": {
+    "item_id": "select_0002",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Es geht um diese Produkte. Kakaopulver, heiße Schokolade mit Xylit, 200 Gramm. Mascara, Crow und Tint, Deep Black, 12 Milliliter. Cashewkerne, 150 Gramm. Körperpeeling, Macadamia und Reismilch, 225 Milliliter. Kinderbadezusatz, Badefitzer, 20 Gramm. Karamell, Kekscreme, Lovely Caramel, 190 Gramm. Welches davon hat den höchsten Lagerbestand? Oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.717,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0005": {
+    "item_id": "early_0005",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Sonnenspray Sensitive Expert Plus Hydratics Sun Water LFS 50, 150 ml. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "serial_0003": {
+    "item_id": "serial_0003",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Das Lager des Lieferanten der Marke von dem Fruchtaufstrich Waldfrucht mit 55% Frucht, 340 Gramm. In welcher Region liegt das, oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.381,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0008": {
+    "item_id": "one_hop_0008",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hey, von welcher Firma wird der Schokoriegel Melto Chocolate Olé glutenfrei 3 Stück 90g geliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.4,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "select_0016": {
+    "item_id": "select_0016",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Welches von diesen Produkten hat den höchsten Lagerbestand? Pflegedusche Skandinavian Memories mit Hafermilch, Sandelholz und Moltebeere 250ml Babykeks Wundertraum Kekse mit Dinkel, Apfel und Heidelbeere ab 8 Monaten 100g Nuss und Fruchtmischung Dropic Mix 200g Haaröl Traumlocken 100ml Saft Apfelbirne mit stillem Wasser ab dem 6. Monat 500ml Kinder Schamu und Duschgel 2 in 1 Spaghetti Eiswunsch 230ml Vitamin D3 10.000 IE Wochendepot Tabletten 12 Stück 6g Taschentücher Box Kids Disney 48 Stück Pesto Artischocken und Zitrone 120g Küchenrolle Wish und Weg rein weiß 8x45 Blatt 8 Stück oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.876,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0014": {
+    "item_id": "select_0014",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hey, ich habe hier eine Liste mit Produkten. Nachtcreme Beauty Expert 30ml Omega 3 Plus Vitamin D3 Kids Kautabletten 27 Stück 35,1g Glasreiniger mit Glanzschutzformel 1L Handcreme Repair SOS Hilfe mit Calendula und Shea Butter 75ml Fruchtgummi Janusperrenfreunde mit Fruchtgeschmack 50g Harspray Sensitive 250ml Taschentücherbox Balsam 44g Gelagig 120 Stück Espresso ganze Bohnen 1kg Antitransferant Deo Roll-On Original 50ml Y-Protein Pulver Vanillegeschmack 450g Welches davon hat den höchsten Lagerbestand?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.783,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0000": {
+    "item_id": "serial_0000",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Mich würde interessieren, in welcher Region das Lager des Lieferanten der Marke des Produktes Nussmischung gerösteter Erdnüsse Mix 160 Gramm liegt.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.667,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0008": {
+    "item_id": "early_0008",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kontaktlinsen, Pflegemittel, Kochsalzlösung 360 ml In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "select_0007": {
+    "item_id": "select_0007",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Meersalz jodiert, 500 Gramm, Concealer Fit Me, 0,6 Vanilla, 6,8 Milliliter, Vitamin K2 plus D3, 3000 Minitabletten, 30 Stück, 9,2 Gramm, Nussmischung, Nusskerne Mischung, mit Haselnuss, Mandel, Cashew und Walnuss, 150 Gramm, Kaffee, Café de Peru, gemahlen, 500 Gramm, Shampoo, Nourishing, 250 Milliliter, Mascara Lash Princess Sculpted Volume, 12 Milliliter, Hasper Sensitive, 250 Milliliter, Fruchtgummi, Janusperrenfreunde mit Fruchtgeschmack, 50 Gramm, Flüssigseife, Goodness Odd, Seda & Amber, 500 Milliliter, welches davon hat den höchsten Lagerbestand?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.811,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0003": {
+    "item_id": "one_hop_0003",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Von welcher Firma wird das Produkt Kinderkekse Haselnuss-Ecken ab drei Jahren 30 Gramm geliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.429,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0005": {
+    "item_id": "combined_0005",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Spülmaschinenreiniger Exzellenz 5 in 1 Gel Power and Pearls 60 Spülgänge 960ml Früchte, Apfel, Himbeer, Heidelbeer Ab dem 5. Monat 190g Lidschattenpalette Club Soleil 01 Soleil 5,2g Waffeln, Dinkel, Frischei 165g Bonbon, Fresh, Mint, Zuckerfrei 75g Smoothie Bowl, Pulver, Benjamin, Blaubeere Blaubeere und Johannisbeere 400g Deo Spray, Men, Lavender Coffee, Tonka Bean 150ml Windeln, Größe 6, Extra Large 13 plus Kilogramm Monatsbox 144 Stück Concealer, Fit Me 06 Vanilla 6,8ml Cashew Kern 150g Wie hoch ist die Summe Ihrer Einkaufspreise? Wie hoch ist die Summe Ihrer Einkaufspreise?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.736,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0017": {
+    "item_id": "serial_0017",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hi, weißt du zufällig, in welcher Region das Lager von dem Lieferanten der Marke des Körperpeelings Macadamia und Reismilch mit 225ml liegt?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.682,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0005": {
+    "item_id": "select_0005",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Welches von diesen Produkten hat den höchsten Lagerbestand? Müsli-Riegel, Granola, gemischt, Früchte mit 6 Stück und 144 Gramm, Spülmittel Paradise Bloom mit 300 Milliliter, Zahnpasta Sensitive Professional Repair & Prevent, sanftes Weiß mit 75 Milliliter, Kindersnack Kakao-Waffeln ab 3 Jahren mit 100 Gramm, Handcreme Urean mit 100 Millilitern oder Glasreiniger mit Glanzschutzformel mit 1 Liter oder",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.875,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0012": {
+    "item_id": "combined_0012",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hey, ich habe hier ein paar Produkte. Café Café de Perugue Mahlen, 500 Gramm. Dinkelzwieback, 200 Gramm. Haaröl Traumlocken, 100 Milliliter. Antitransparent Deo Roll-On Classic, 50 Milliliter. Karamellkekscreme Lovely Karamell, 190 Gramm. Bonbon Fresh Mint Zuckerfrei, 75 Gramm. Vitamin K2 Plus D3, 3000 Minitabletten, 30 Stück, 9,2 Gramm. Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten und Bambus, 250 Milliliter. Weißt du, wie hoch die Summe ihrer Einkaufspreise ist?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.716,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0002": {
+    "item_id": "combined_0002",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Ich habe hier ein paar Produkte. Nudeln und zwar Penne aus Vollkornreis. Glutenfrei 400 Gramm. Dann Karamell, Keks, Creme, Lovely Karamell 190 Gramm. Feuchttücher 9 x 60 Stück. Also insgesamt 540 Stück. Sonnenmilch Hydra 24H. Protect mit Lichtschutzfaktor 30. 175 Milliliter Körperbutter Mango Matcha Latte 235 Milliliter. Haaröl, Öl, Magic Jojoba 100 Milliliter. Weizenmehl Typ 1050 1 Kilogramm. Foundation Makeup Classic Tau 30 Milliliter. Und Flüssigseife Rosemary & Ginger 250 Milliliter. Kannst du mir sagen? Wie hoch die Summe ihrer Einkaufspreise ist?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.793,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0001": {
+    "item_id": "select_0001",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du noch, welches von diesen Produkten den höchsten Lagerbestand hat? H-Cure Night Elixir Ultimate Repair 100ml Lidschattenpalette Club Soleil 01 Soleil Say No More 5,2g Glasreiniger mit Glanzschutzformel 1L Toilettenpapier Premium 5-Lage 6x110 Blatt 6 Stück Körperbutter Creamy Blueberry Caramel Bliss 235ml Pflanzendrink Cashew Natur 1L Antitransparent Deo Roll-On Classic 50ml H-Gel Locken Styling Gel 250ml Foundation Superstay Hybrids 40,9g",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.934,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "early_0015": {
+    "item_id": "early_0015",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kinderbadezusatz Badefitzer 20 Gramm. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.0,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "early_0003": {
+    "item_id": "early_0003",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Das Produkt ist das Proteinpulver Clear Protein im Geschmack Green Apple. 300 Gramm. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.174,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "early_0006": {
+    "item_id": "early_0006",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Beim Produkt Deo Spray malen Lavender Coffee Tonkabin 150ml. In welcher Region liegt das Lager seines Lieferanten?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.294,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "combined_0003": {
+    "item_id": "combined_0003",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du noch, wie hoch die Summe der Einkaufspreise von diesem Produkt ist? Glasreiniger, Glanzschutzformel, 1 Liter, Proteinriegel, 25% Deluxe mit Pistazienbutter, 55 Gramm. Mundspülung, Total Care, extra mild, Minze, alkoholfrei, 500 Milliliter, H-Gel, Ultra Strong, Power Hold, 100 Milliliter, Waffel, Snack, 150 Gramm. Handcreme, Intense Repair, 50 Milliliter, Smoothie Ball, Mango, Maracuja, Kokos, 50 Gramm.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.875,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0009": {
+    "item_id": "combined_0009",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kannst du mir sagen, wie hoch die Summe der Einkaufspreise ist für diese Produkte? Rasierbutter 40, 150ml, Nagelfolie, Foil, Nail, Wraps, 100 Stück, natives Olivenöl extra, Amalfi Zitrone mit frischem Amalfi Zitronen, 100ml, Concealer Fit Me, 06, Vanilla, 6,8ml, Gua Sha E-Stine Rosenquarz, 1 Stück, Vitamin K2 plus D3, 3000 Mini Tabletten, 30 Stück, 9,2g, Schokolade Nougat, 100g, Rasierschaum Ultra Sensitive, 300ml.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.935,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0009": {
+    "item_id": "select_0009",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Es geht um folgende Produkte. Fleckenkissen, ein Stück. Antitranspirant Deospray, Cooling, Eukalyptus und Coconut Water, 150 ml. Direktsaft, Apfelmango, 0,33 Liter. Trinkmahlzeit Vanille 330 ml, Weizenmehl Typ 550, 1000 g, Frucht- und Getreideapfel mit Zwieback ab dem 6. Monat, 190 g. Welches davon hat den höchsten Lagerbestand?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.532,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0004": {
+    "item_id": "select_0004",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Welches von diesen Produkten hat den höchsten Lagerbestand? Fruchtgummi Janusz, Bärenfreunde mit Fruchtgeschmack 50 Gramm, Kaugummi, Refresher, Watermelon, Raspberry, Zuckerfrei, 8 Stück, Crema Con Aseto Balsamico di Modena GGA, 250 ml, Toilettenpapier Premium 5-Lagix 6x110 Blatt, 6 Stück, Vegane Mayo 250 ml, Foundation Liquid HD Coverage 30 Sandbeige 30 ml, Schokoriegel Vollmilch Espresso Crunch 37,5 Gramm, Weichspüler Mandelmilch 40 WL, 880 ml, Müsli-Riegel Granola, gemischte Früchte 6 Stück, 144 Gramm, Glasreiniger mit Landschaftsformel 1 Liter oder",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.921,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0007": {
+    "item_id": "combined_0007",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Muffin Schoko glutenfrei 65 Gramm Kontaktlinsen Pflegemittel Kochsalzlösung 360 Milliliter Rasierschaum Lychee Love 150 Milliliter Trockenfrüchte Erdbeer gefriergetrocknet 15 Gramm Espresso gemahlen 250 Gramm Nussriegel Karamell Meersalz 35 Gramm Brot Mehrkorn 5 Stück glutenfrei 250 Gramm Fruchtaufstrich rote Johannisbeere 235 Gramm Trinkmahlzeit Vanille 330 Milliliter Wie hoch ist die Summe Ihrer Einkaufspreise?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.788,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0005": {
+    "item_id": "serial_0005",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hi, weißt du in welchen Regionen das Lager von dem Lieferanten für den Müsli-Riegel Hafer-Nuss 3er Pack 105 Gramm liegt?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.65,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0016": {
+    "item_id": "combined_0016",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du noch wie hoch die Summe der Einkaufspreise von diesen Produkten ist? Nussmischung, gerösteter Edelnussmix, 160g, Wattepads Maxi mit Seide, 60 Stück, Kinderkekse Haselnussecken ab 3 Jahren, 30g, Lippenstift 2000 Calorie, Mellow Blur, 0,30, Peach Blush, 3,5g, Haaröl Coconut Miracle Oil 100ml, Antitransparent Diorollant Classic 50ml, Trockenfrüchte Datteln mit Geschmack Sour Apple 100g, Flüssigseife Rosemary & Ginger 250ml,",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.915,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "combined_0010": {
+    "item_id": "combined_0010",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Weißt du noch, wie hoch die Summe der Einkaufspreise von diesen Produkten ist? Mascara Volume Million Lashes Panorama Black 10,5ml Leave-in-Hakko für lockiges Haar 250ml Tomatenmark 200g Mascara Double Extension Waterproof Black 12ml Deo Zerstäuber Wasserlinie 75ml Nagellackgel bei 545 Tassel Free 13,5ml Rasierklingen Comfort Collide Spa Breeze 12 Stück Müsli-Riegel Hafernuss 3er Pack 105g Haarspray Sensitive 250ml Flüssigseife Goodness, Odd, Zeta & Amber 500ml",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.892,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0007": {
+    "item_id": "one_hop_0007",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Von welcher Firma wird die Mundspülung Total Care Intensive Minz Alkoholfrei 500ml geliefert, oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.357,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "early_0014": {
+    "item_id": "early_0014",
+    "category": "early",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Das Produkt Erfrischungsgetränk Limonata Limone Limo Zitrone 330 ml Einweg. In welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.1,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "select_0012": {
+    "item_id": "select_0012",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Couscous 500g, Gelbe Linsen 500g, Color Waschmittel Blütenrausch 27 Waschladungen, Vitamin K2 plus D3 2500 IE, Tabletten 30 Stück 13,1g, Bombard, Zitronen, Melisse, Zuckerfrei in der Taschenbox 50g, Direktsaft Apfelmango 0,33 Liter, Natives Olivenöl extra ausgewogen 0,5 Liter, Deozerstäuber Wasserlie, 75ml, Müsli Riegel, Granola, gemischte Früchte 6 Stück 144g, Haspray Max Hold 400ml, welches davon hat den höchsten Lagerbestand?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.864,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0011": {
+    "item_id": "one_hop_0011",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kannst du mir sagen, von welcher Firma das Produkt Nudeln Gnocchi aus Kartoffeln und Sommerdinkel 400g geliefert wird?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.5,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "select_0006": {
+    "item_id": "select_0006",
+    "category": "select",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Mich würde interessieren, welches von diesen Produkten den höchsten Lagerstand hat. Kindershampoo und Duschgel. 2 in 1 Spaghetti Ice Monster, 230 ml. Windeln Größe 6 Extra Large. Ab 13 kg Monatsbox, 144 Stück. Sors Blowy Linsen Bolognese, ab 3 Jahren, 340 g. Gelbe Linsen, 500 g. Spülmittel Paradise Blue, 300 ml. Andri Transpirant Deo Spray Maximum Protection Fresh, 150 ml. Baby Keks, Dinkel, Apfel und Vanille, ab den 8 Monaten, 100 g.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.764,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0012": {
+    "item_id": "one_hop_0012",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Das Produkt Quetschi Carrot Cat, Karotte, Mango, Banane und Birne ab 6 Monaten 100 Gramm. Von welcher Firma wird das geliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.143,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0015": {
+    "item_id": "one_hop_0015",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kannst du mir sagen, von welcher Firma das Produkt Bombard Zitronenmelisse zuckerfrei in der Taschenbox 50g geliefert wird?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.556,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0006": {
+    "item_id": "serial_0006",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "In welcher Region liegt das Lager des Lieferanten der Marke der Flüssigseife Rosemary & Ginger? 250 ml oder?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.611,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0007": {
+    "item_id": "serial_0007",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "In welcher Region liegt das Lager von dem Lieferanten der Marke von dem Produkt? Geschenkset de Super Petite Glossy Lip Butter, vierteilig ein Stück.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.583,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "serial_0015": {
+    "item_id": "serial_0015",
+    "category": "serial",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kannst du mir sagen, in welcher Region das Lager des Lieferanten für das Produkt Babykeks, Dinkel, Apfel und Vanille ab dem 8. Monat 100 Gramm liegt?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.577,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0004": {
+    "item_id": "one_hop_0004",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Hey, von welcher Firma wird das Produkt Babykeks Haferkeks mit Erdbeer, Banane und Apfel ab 8 Monaten 100 Gramm geliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.4,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "one_hop_0014": {
+    "item_id": "one_hop_0014",
+    "category": "one_hop",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Also die Walnusskerne 150 Gramm. Von welcher Firma wird das geliefert?",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.182,
+        "front_loaded": true,
+        "passed": true
+      }
+    }
+  },
+  "combined_0001": {
+    "item_id": "combined_0001",
+    "category": "combined",
+    "passed": true,
+    "failed_checks": [],
+    "transcript": "Kannst du mir sagen, wie hoch die Summe der Einkaufspreise für folgende Produkte ist? Pekanüsse 100 Gramm, Maiswaffeln Natur 110 Gramm, Lidschatten Stick, Le, Shadow 030, Nude, Lights 1,4 Gramm, Saaten, gelbe Cocktailtomaten, Yellow Clementine 1 Stück, Omega 3 plus Vitamin D3, Kids, Kautabletten 27 Stück, 35,1 Gramm, Essigreiniger Apfel 1 Liter, Haferriegel, Oat Bar, Cocoa, 60 Gramm, Spülmittelgel Himbeer 500 Milliliter, Nachcreme Beauty Hyaluron 50 Milliliter, Deo Zerstäuber, Wasserlinie 75 Milliliter.",
+    "checks": {
+      "entity_presence": {
+        "coverage": 1.0,
+        "missing": [],
+        "passed": true
+      },
+      "gold_uniqueness": {
+        "passed": true
+      },
+      "window": {
+        "last_entity_fraction": 0.944,
+        "front_loaded": false,
+        "passed": true
+      }
+    }
+  }
+}

@@ -1,0 +1,3888 @@
+[
+  {
+    "item_id": "one_hop_0000",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Breischale senfgelb, 1 St geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Breischale senfgelb, 1 St geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Pommern Transport GmbH",
+    "accepted_answers": [
+      "Pommern Transport GmbH"
+    ],
+    "gold_documents": [
+      "doc_0594"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Breischale senfgelb, 1 St?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Breischale senfgelb, 1 St"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0001",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Pflanzendrink, Cashew natur, 1 l geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Pflanzendrink, Cashew natur, 1 l geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Köln Bonner Industrie Service GmbH",
+    "accepted_answers": [
+      "Köln Bonner Industrie Service GmbH"
+    ],
+    "gold_documents": [
+      "doc_0474"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Pflanzendrink, Cashew natur, 1 l?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Pflanzendrink, Cashew natur, 1 l"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0002",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Haferriegel, Oat Bar Cocoa, 60 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Haferriegel, Oat Bar Cocoa, 60 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Hanseatic Cargo Solutions GmbH",
+    "accepted_answers": [
+      "Hanseatic Cargo Solutions GmbH"
+    ],
+    "gold_documents": [
+      "doc_0224"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Haferriegel, Oat Bar Cocoa, 60 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Haferriegel, Oat Bar Cocoa, 60 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0003",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Kinderkekse Haselnussecken, ab 3 Jahren, 30 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Kinderkekse Haselnussecken, ab 3 Jahren, 30 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Münchner Präzisionslogistik AG",
+    "accepted_answers": [
+      "Münchner Präzisionslogistik AG"
+    ],
+    "gold_documents": [
+      "doc_0458"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Kinderkekse Haselnussecken, ab 3 Jahren, 30 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Kinderkekse Haselnussecken, ab 3 Jahren, 30 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0004",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Elbe Container Services AG",
+    "accepted_answers": [
+      "Elbe Container Services AG"
+    ],
+    "gold_documents": [
+      "doc_0102"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0005",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Mundspülung Super Clean, 500 ml geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Mundspülung Super Clean, 500 ml geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Erzgebirge Bergbau AG",
+    "accepted_answers": [
+      "Erzgebirge Bergbau AG"
+    ],
+    "gold_documents": [
+      "doc_0086"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Mundspülung Super Clean, 500 ml?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Mundspülung Super Clean, 500 ml"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0006",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Hessen Rohstoffhandel GmbH",
+    "accepted_answers": [
+      "Hessen Rohstoffhandel GmbH"
+    ],
+    "gold_documents": [
+      "doc_0338"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0007",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Mundspülung Total Care Intensive Minze alkoholfrei, 500 ml geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Mundspülung Total Care Intensive Minze alkoholfrei, 500 ml geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Alpenland Kühlkette GmbH",
+    "accepted_answers": [
+      "Alpenland Kühlkette GmbH"
+    ],
+    "gold_documents": [
+      "doc_0032"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Mundspülung Total Care Intensive Minze alkoholfrei, 500 ml?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Mundspülung Total Care Intensive Minze alkoholfrei, 500 ml"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0008",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück), 90 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück), 90 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Hanseatic Cargo Solutions GmbH",
+    "accepted_answers": [
+      "Hanseatic Cargo Solutions GmbH"
+    ],
+    "gold_documents": [
+      "doc_0572"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück), 90 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück), 90 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0009",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Nagellack 13 Mademoiselle Rosé, 13,5 ml geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Nagellack 13 Mademoiselle Rosé, 13,5 ml geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Köln Bonner Industrie Service GmbH",
+    "accepted_answers": [
+      "Köln Bonner Industrie Service GmbH"
+    ],
+    "gold_documents": [
+      "doc_0106"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Nagellack 13 Mademoiselle Rosé, 13,5 ml?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Nagellack 13 Mademoiselle Rosé, 13,5 ml"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0010",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Hanseatic Cargo Solutions GmbH",
+    "accepted_answers": [
+      "Hanseatic Cargo Solutions GmbH"
+    ],
+    "gold_documents": [
+      "doc_0530"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0011",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Rhein-Main Frachtzentrum AG",
+    "accepted_answers": [
+      "Rhein-Main Frachtzentrum AG"
+    ],
+    "gold_documents": [
+      "doc_0058"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0012",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Quetschie Carrot Cat, Karotte, Mango, Banane & Birne ab 6 Monaten, 100 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Quetschie Carrot Cat, Karotte, Mango, Banane & Birne ab 6 Monaten, 100 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Sächsische Präzisionsteile GmbH",
+    "accepted_answers": [
+      "Sächsische Präzisionsteile GmbH"
+    ],
+    "gold_documents": [
+      "doc_0542"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Quetschie Carrot Cat, Karotte, Mango, Banane & Birne ab 6 Monaten, 100 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Quetschie Carrot Cat, Karotte, Mango, Banane & Birne ab 6 Monaten, 100 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0013",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Foundation Super Stay Hybrides 40, 9 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Foundation Super Stay Hybrides 40, 9 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Stuttgarter Automobilzulieferung GmbH",
+    "accepted_answers": [
+      "Stuttgarter Automobilzulieferung GmbH"
+    ],
+    "gold_documents": [
+      "doc_0272"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Foundation Super Stay Hybrides 40, 9 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Foundation Super Stay Hybrides 40, 9 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0014",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Walnusskerne, 150 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Walnusskerne, 150 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Leipziger Messe Logistik AG",
+    "accepted_answers": [
+      "Leipziger Messe Logistik AG"
+    ],
+    "gold_documents": [
+      "doc_0066"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Walnusskerne, 150 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Walnusskerne, 150 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0015",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Thüringer Maschinenbau GmbH",
+    "accepted_answers": [
+      "Thüringer Maschinenbau GmbH"
+    ],
+    "gold_documents": [
+      "doc_0344"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0016",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Mitteldeutsche Fracht GmbH",
+    "accepted_answers": [
+      "Mitteldeutsche Fracht GmbH"
+    ],
+    "gold_documents": [
+      "doc_0396"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0017",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Fruchtaufstrich, Erdbeere mit Xylit, 220 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Fruchtaufstrich, Erdbeere mit Xylit, 220 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Münchner Präzisionslogistik AG",
+    "accepted_answers": [
+      "Münchner Präzisionslogistik AG"
+    ],
+    "gold_documents": [
+      "doc_0022"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Fruchtaufstrich, Erdbeere mit Xylit, 220 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Fruchtaufstrich, Erdbeere mit Xylit, 220 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0018",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Weichspüler Mandelmilch 40WL, 880 ml geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Weichspüler Mandelmilch 40WL, 880 ml geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Nordsee Transport & Co. KG",
+    "accepted_answers": [
+      "Nordsee Transport & Co. KG"
+    ],
+    "gold_documents": [
+      "doc_0448"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Weichspüler Mandelmilch 40WL, 880 ml?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Weichspüler Mandelmilch 40WL, 880 ml"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "one_hop_0019",
+    "category": "one_hop",
+    "raw_question": "Von welcher Firma wird das Produkt Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g geliefert?",
+    "question_text": "Von welcher Firma wird das Produkt Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g geliefert?",
+    "answer_type": "name",
+    "gold_answer": "Alpenland Kühlkette GmbH",
+    "accepted_answers": [
+      "Alpenland Kühlkette GmbH"
+    ],
+    "gold_documents": [
+      "doc_0092"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g?"
+    ],
+    "dependency_graph": {
+      "type": "single",
+      "depth": 1
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g"
+      ],
+      "ask": "Von welcher Firma wird dieses Produkt geliefert?"
+    }
+  },
+  {
+    "item_id": "serial_0000",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Nussmischung, Gerösteter Edelnuss-Mix, 160 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Nussmischung, Gerösteter Edelnuss-Mix, 160 g?",
+    "answer_type": "name",
+    "gold_answer": "Seenplatte",
+    "accepted_answers": [
+      "Seenplatte"
+    ],
+    "gold_documents": [
+      "doc_0422",
+      "doc_0650",
+      "doc_0673",
+      "doc_0702"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Nussmischung, Gerösteter Edelnuss-Mix, 160 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Nussmischung, Gerösteter Edelnuss-Mix, 160 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0001",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten des Produkts Taschentücher Box Balsam 4-lagig, 120 St?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten des Produkts Taschentücher Box Balsam 4-lagig, 120 St?",
+    "answer_type": "name",
+    "gold_answer": "Nordmark",
+    "accepted_answers": [
+      "Nordmark"
+    ],
+    "gold_documents": [
+      "doc_0556",
+      "doc_0698",
+      "doc_0703"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Taschentücher Box Balsam 4-lagig, 120 St?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Taschentücher Box Balsam 4-lagig, 120 St"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0002",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Kinder Badezusatz Badebombe Dragons, 1 St?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Kinder Badezusatz Badebombe Dragons, 1 St?",
+    "answer_type": "name",
+    "gold_answer": "Mittelberg",
+    "accepted_answers": [
+      "Mittelberg"
+    ],
+    "gold_documents": [
+      "doc_0362",
+      "doc_0660",
+      "doc_0695",
+      "doc_0708"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Kinder Badezusatz Badebombe Dragons, 1 St?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Kinder Badezusatz Badebombe Dragons, 1 St"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0003",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g?",
+    "answer_type": "name",
+    "gold_answer": "Südergau",
+    "accepted_answers": [
+      "Südergau"
+    ],
+    "gold_documents": [
+      "doc_0108",
+      "doc_0638",
+      "doc_0686",
+      "doc_0713"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0004",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten des Produkts Fruchtaufstrich, Erdbeere 75% Frucht, 250 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten des Produkts Fruchtaufstrich, Erdbeere 75% Frucht, 250 g?",
+    "answer_type": "name",
+    "gold_answer": "Seenplatte",
+    "accepted_answers": [
+      "Seenplatte"
+    ],
+    "gold_documents": [
+      "doc_0370",
+      "doc_0680",
+      "doc_0700"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Fruchtaufstrich, Erdbeere 75% Frucht, 250 g?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Fruchtaufstrich, Erdbeere 75% Frucht, 250 g"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0005",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten des Produkts Müsliriegel, Hafer Nuss, 3er Pack, 105 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten des Produkts Müsliriegel, Hafer Nuss, 3er Pack, 105 g?",
+    "answer_type": "name",
+    "gold_answer": "Südergau",
+    "accepted_answers": [
+      "Südergau"
+    ],
+    "gold_documents": [
+      "doc_0554",
+      "doc_0689",
+      "doc_0713"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Müsliriegel, Hafer Nuss, 3er Pack, 105 g?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Müsliriegel, Hafer Nuss, 3er Pack, 105 g"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0006",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Flüssigseife Rosemary & Ginger, 250 ml?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Flüssigseife Rosemary & Ginger, 250 ml?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0136",
+      "doc_0662",
+      "doc_0678",
+      "doc_0710"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Flüssigseife Rosemary & Ginger, 250 ml?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Flüssigseife Rosemary & Ginger, 250 ml"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0007",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Geschenkset The Super Peptide Glossy Lip Butter 4tlg, 1 St?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Geschenkset The Super Peptide Glossy Lip Butter 4tlg, 1 St?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0510",
+      "doc_0646",
+      "doc_0683",
+      "doc_0711"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Geschenkset The Super Peptide Glossy Lip Butter 4tlg, 1 St?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Geschenkset The Super Peptide Glossy Lip Butter 4tlg, 1 St"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0008",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0270",
+      "doc_0631",
+      "doc_0697",
+      "doc_0709"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0009",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Kaffee Entkoffeiniert löslich, 100 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Kaffee Entkoffeiniert löslich, 100 g?",
+    "answer_type": "name",
+    "gold_answer": "Westfelser Mark",
+    "accepted_answers": [
+      "Westfelser Mark"
+    ],
+    "gold_documents": [
+      "doc_0196",
+      "doc_0667",
+      "doc_0672",
+      "doc_0704"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Kaffee Entkoffeiniert löslich, 100 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Kaffee Entkoffeiniert löslich, 100 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0010",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten des Produkts Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten des Produkts Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0292",
+      "doc_0676",
+      "doc_0711"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0011",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Quetschie wiederverwendbar, 3er-Pack, 3 St?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Quetschie wiederverwendbar, 3er-Pack, 3 St?",
+    "answer_type": "name",
+    "gold_answer": "Seenplatte",
+    "accepted_answers": [
+      "Seenplatte"
+    ],
+    "gold_documents": [
+      "doc_0178",
+      "doc_0659",
+      "doc_0680",
+      "doc_0700"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Quetschie wiederverwendbar, 3er-Pack, 3 St?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Quetschie wiederverwendbar, 3er-Pack, 3 St"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0012",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g?",
+    "answer_type": "name",
+    "gold_answer": "Seenplatte",
+    "accepted_answers": [
+      "Seenplatte"
+    ],
+    "gold_documents": [
+      "doc_0538",
+      "doc_0637",
+      "doc_0674",
+      "doc_0701"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0013",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Lidschatten Palette Quattro 37 Chocolate, 4,4 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Lidschatten Palette Quattro 37 Chocolate, 4,4 g?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0254",
+      "doc_0663",
+      "doc_0671",
+      "doc_0710"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Lidschatten Palette Quattro 37 Chocolate, 4,4 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Lidschatten Palette Quattro 37 Chocolate, 4,4 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0014",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Spülmittel-Gel Himbeer, 500 ml?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Spülmittel-Gel Himbeer, 500 ml?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0562",
+      "doc_0655",
+      "doc_0683",
+      "doc_0711"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Spülmittel-Gel Himbeer, 500 ml?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Spülmittel-Gel Himbeer, 500 ml"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0015",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten des Produkts Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten des Produkts Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0430",
+      "doc_0697",
+      "doc_0709"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0016",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Frucht & Joghurt Müsli Guten Morgen ab dem 10. Monat, 160 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Frucht & Joghurt Müsli Guten Morgen ab dem 10. Monat, 160 g?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0256",
+      "doc_0655",
+      "doc_0683",
+      "doc_0711"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Frucht & Joghurt Müsli Guten Morgen ab dem 10. Monat, 160 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Frucht & Joghurt Müsli Guten Morgen ab dem 10. Monat, 160 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0017",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Körperpeeling Macadamia & Reismilch, 225 ml?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Körperpeeling Macadamia & Reismilch, 225 ml?",
+    "answer_type": "name",
+    "gold_answer": "Mittelberg",
+    "accepted_answers": [
+      "Mittelberg"
+    ],
+    "gold_documents": [
+      "doc_0238",
+      "doc_0660",
+      "doc_0695",
+      "doc_0708"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Körperpeeling Macadamia & Reismilch, 225 ml?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Körperpeeling Macadamia & Reismilch, 225 ml"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0018",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten des Produkts Peeling Spray, Peel Good Baby, 80 ml?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten des Produkts Peeling Spray, Peel Good Baby, 80 ml?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0518",
+      "doc_0677",
+      "doc_0705"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Peeling Spray, Peel Good Baby, 80 ml?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Peeling Spray, Peel Good Baby, 80 ml"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "serial_0019",
+    "category": "serial",
+    "raw_question": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g?",
+    "question_text": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0468",
+      "doc_0631",
+      "doc_0697",
+      "doc_0709"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0000",
+    "category": "early",
+    "raw_question": "Beim Produkt Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g — in welcher Region liegt das Lager seines Lieferanten?",
+    "question_text": "Beim Produkt Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g — in welcher Region liegt das Lager seines Lieferanten?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0158",
+      "doc_0683",
+      "doc_0711"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0001",
+    "category": "early",
+    "raw_question": "Beim Produkt Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g — in welcher Region liegt das Lager seines Lieferanten?",
+    "question_text": "Beim Produkt Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g — in welcher Region liegt das Lager seines Lieferanten?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0246",
+      "doc_0671",
+      "doc_0710"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0002",
+    "category": "early",
+    "raw_question": "Beim Produkt Zahnseidesticks Clean PRO Lemon-Minze fluorid antibakteriell, 48 St — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Zahnseidesticks Clean PRO Lemon-Minze fluorid antibakteriell, 48 St — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Nordmark",
+    "accepted_answers": [
+      "Nordmark"
+    ],
+    "gold_documents": [
+      "doc_0122",
+      "doc_0654",
+      "doc_0698",
+      "doc_0703"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Zahnseidesticks Clean PRO Lemon-Minze fluorid antibakteriell, 48 St?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Zahnseidesticks Clean PRO Lemon-Minze fluorid antibakteriell, 48 St"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0003",
+    "category": "early",
+    "raw_question": "Beim Produkt Proteinpulver, Clear Protein Green Apple Geschmack, 300 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Proteinpulver, Clear Protein Green Apple Geschmack, 300 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Mittelberg",
+    "accepted_answers": [
+      "Mittelberg"
+    ],
+    "gold_documents": [
+      "doc_0494",
+      "doc_0660",
+      "doc_0695",
+      "doc_0708"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Proteinpulver, Clear Protein Green Apple Geschmack, 300 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Proteinpulver, Clear Protein Green Apple Geschmack, 300 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0004",
+    "category": "early",
+    "raw_question": "Beim Produkt Men After Shave Lotion, 100 ml — in welcher Region liegt das Lager seines Lieferanten?",
+    "question_text": "Beim Produkt Men After Shave Lotion, 100 ml — in welcher Region liegt das Lager seines Lieferanten?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0320",
+      "doc_0697",
+      "doc_0709"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Men After Shave Lotion, 100 ml?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Men After Shave Lotion, 100 ml"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0005",
+    "category": "early",
+    "raw_question": "Beim Produkt Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0406",
+      "doc_0664",
+      "doc_0681",
+      "doc_0710"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0006",
+    "category": "early",
+    "raw_question": "Beim Produkt Deospray Man Lavender Coffee Tonka Bean, 150 ml — in welcher Region liegt das Lager seines Lieferanten?",
+    "question_text": "Beim Produkt Deospray Man Lavender Coffee Tonka Bean, 150 ml — in welcher Region liegt das Lager seines Lieferanten?",
+    "answer_type": "name",
+    "gold_answer": "Nordmark",
+    "accepted_answers": [
+      "Nordmark"
+    ],
+    "gold_documents": [
+      "doc_0464",
+      "doc_0696",
+      "doc_0703"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Deospray Man Lavender Coffee Tonka Bean, 150 ml?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Deospray Man Lavender Coffee Tonka Bean, 150 ml"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0007",
+    "category": "early",
+    "raw_question": "Beim Produkt Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g — in welcher Region liegt das Lager seines Lieferanten?",
+    "question_text": "Beim Produkt Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g — in welcher Region liegt das Lager seines Lieferanten?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0424",
+      "doc_0671",
+      "doc_0710"
+    ],
+    "gold_subquestions": [
+      "Wer liefert Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 3
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g"
+      ],
+      "ask": "Finde den Lieferanten dieses Produkts, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0008",
+    "category": "early",
+    "raw_question": "Beim Produkt Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0200",
+      "doc_0643",
+      "doc_0681",
+      "doc_0710"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0009",
+    "category": "early",
+    "raw_question": "Beim Produkt Haargel Locken Styling Gel, 250 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Haargel Locken Styling Gel, 250 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0124",
+      "doc_0658",
+      "doc_0683",
+      "doc_0711"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Haargel Locken Styling Gel, 250 ml?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Haargel Locken Styling Gel, 250 ml"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0010",
+    "category": "early",
+    "raw_question": "Beim Produkt Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Seenplatte",
+    "accepted_answers": [
+      "Seenplatte"
+    ],
+    "gold_documents": [
+      "doc_0248",
+      "doc_0650",
+      "doc_0673",
+      "doc_0702"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0011",
+    "category": "early",
+    "raw_question": "Beim Produkt Nagellack Gel by 545 Tassel Free, 13,5 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Nagellack Gel by 545 Tassel Free, 13,5 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0182",
+      "doc_0646",
+      "doc_0683",
+      "doc_0711"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Nagellack Gel by 545 Tassel Free, 13,5 ml?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Nagellack Gel by 545 Tassel Free, 13,5 ml"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0012",
+    "category": "early",
+    "raw_question": "Beim Produkt Leave-In Haarkur, für lockiges Haar, 250 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Leave-In Haarkur, für lockiges Haar, 250 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Nordmark",
+    "accepted_answers": [
+      "Nordmark"
+    ],
+    "gold_documents": [
+      "doc_0268",
+      "doc_0630",
+      "doc_0698",
+      "doc_0703"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Leave-In Haarkur, für lockiges Haar, 250 ml?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Leave-In Haarkur, für lockiges Haar, 250 ml"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0013",
+    "category": "early",
+    "raw_question": "Beim Produkt Rasierklingen, Comfortglide Spa Breeze, 12 St — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Rasierklingen, Comfortglide Spa Breeze, 12 St — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Nordmark",
+    "accepted_answers": [
+      "Nordmark"
+    ],
+    "gold_documents": [
+      "doc_0080",
+      "doc_0636",
+      "doc_0694",
+      "doc_0703"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Rasierklingen, Comfortglide Spa Breeze, 12 St?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Rasierklingen, Comfortglide Spa Breeze, 12 St"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0014",
+    "category": "early",
+    "raw_question": "Beim Produkt Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Westfelser Mark",
+    "accepted_answers": [
+      "Westfelser Mark"
+    ],
+    "gold_documents": [
+      "doc_0156",
+      "doc_0661",
+      "doc_0672",
+      "doc_0704"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0015",
+    "category": "early",
+    "raw_question": "Beim Produkt Kinder Badezusatz Badefizzer, 20 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Kinder Badezusatz Badefizzer, 20 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Südergau",
+    "accepted_answers": [
+      "Südergau"
+    ],
+    "gold_documents": [
+      "doc_0466",
+      "doc_0642",
+      "doc_0689",
+      "doc_0713"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Kinder Badezusatz Badefizzer, 20 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Kinder Badezusatz Badefizzer, 20 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0016",
+    "category": "early",
+    "raw_question": "Beim Produkt Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Südergau",
+    "accepted_answers": [
+      "Südergau"
+    ],
+    "gold_documents": [
+      "doc_0352",
+      "doc_0642",
+      "doc_0689",
+      "doc_0713"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0017",
+    "category": "early",
+    "raw_question": "Beim Produkt Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0050",
+      "doc_0663",
+      "doc_0671",
+      "doc_0710"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0018",
+    "category": "early",
+    "raw_question": "Beim Produkt Couscous, 500 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Couscous, 500 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0416",
+      "doc_0641",
+      "doc_0678",
+      "doc_0710"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Couscous, 500 g?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Couscous, 500 g"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "early_0019",
+    "category": "early",
+    "raw_question": "Beim Produkt Nagellack 27 Watermelon, 13,5 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "question_text": "Beim Produkt Nagellack 27 Watermelon, 13,5 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
+    "answer_type": "name",
+    "gold_answer": "Ostland",
+    "accepted_answers": [
+      "Ostland"
+    ],
+    "gold_documents": [
+      "doc_0140",
+      "doc_0643",
+      "doc_0681",
+      "doc_0710"
+    ],
+    "gold_subquestions": [
+      "Welche Marke hat Nagellack 27 Watermelon, 13,5 ml?",
+      "Welcher Lieferant beliefert die Marke?",
+      "In welchem Lager lagert der Lieferant?",
+      "In welcher Region liegt das Lager?"
+    ],
+    "dependency_graph": {
+      "type": "serial",
+      "depth": 4
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Nagellack 27 Watermelon, 13,5 ml"
+      ],
+      "ask": "Finde die Marke dieses Produkts, dann den Lieferanten dieser Marke, dann das Lager dieses Lieferanten — und nenne die Region, in der dieses Lager liegt."
+    }
+  },
+  {
+    "item_id": "select_0000",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Küchenrolle Wisch&Weg eXtra Lang (2x86 Blatt), 2 St; Concealer Skin Lovin' Sensitive 20 Medium, 3,5 ml; Waschmittel Renew Schwarz, 27 Wl; Spülmittel-Gel Himbeer, 500 ml; Tomatenmark, 200 g; Haaröl Coconut Miracle Oil, 100 ml; Kichererbsenwaffeln Zartbitter, 100 g; Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g; Tuchmaske Reiswasser, 1 St; Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Küchenrolle Wisch&Weg eXtra Lang (2x86 Blatt), 2 St; Concealer Skin Lovin' Sensitive 20 Medium, 3,5 ml; Waschmittel Renew Schwarz, 27 Wl; Spülmittel-Gel Himbeer, 500 ml; Tomatenmark, 200 g; Haaröl Coconut Miracle Oil, 100 ml; Kichererbsenwaffeln Zartbitter, 100 g; Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g; Tuchmaske Reiswasser, 1 St; Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Waschmittel Renew Schwarz, 27 Wl",
+    "accepted_answers": [
+      "Waschmittel Renew Schwarz, 27 Wl"
+    ],
+    "gold_documents": [
+      "doc_0015",
+      "doc_0011",
+      "doc_0245",
+      "doc_0563",
+      "doc_0009",
+      "doc_0453",
+      "doc_0095",
+      "doc_0249",
+      "doc_0301",
+      "doc_0271"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Küchenrolle Wisch&Weg eXtra Lang (2x86 Blatt), 2 St?",
+      "Wie hoch ist der Lagerbestand von Concealer Skin Lovin' Sensitive 20 Medium, 3,5 ml?",
+      "Wie hoch ist der Lagerbestand von Waschmittel Renew Schwarz, 27 Wl?",
+      "Wie hoch ist der Lagerbestand von Spülmittel-Gel Himbeer, 500 ml?",
+      "Wie hoch ist der Lagerbestand von Tomatenmark, 200 g?",
+      "Wie hoch ist der Lagerbestand von Haaröl Coconut Miracle Oil, 100 ml?",
+      "Wie hoch ist der Lagerbestand von Kichererbsenwaffeln Zartbitter, 100 g?",
+      "Wie hoch ist der Lagerbestand von Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g?",
+      "Wie hoch ist der Lagerbestand von Tuchmaske Reiswasser, 1 St?",
+      "Wie hoch ist der Lagerbestand von Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Küchenrolle Wisch&Weg eXtra Lang (2x86 Blatt), 2 St",
+        "Concealer Skin Lovin' Sensitive 20 Medium, 3,5 ml",
+        "Waschmittel Renew Schwarz, 27 Wl",
+        "Spülmittel-Gel Himbeer, 500 ml",
+        "Tomatenmark, 200 g",
+        "Haaröl Coconut Miracle Oil, 100 ml",
+        "Kichererbsenwaffeln Zartbitter, 100 g",
+        "Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g",
+        "Tuchmaske Reiswasser, 1 St",
+        "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0001",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Haarkur Night Elixier Ultimate Repair, 100 ml; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Glasreiniger mit Glanzschutz-Formel, 1 l; Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St; Körperbutter Creamy Blueberry Caramel Bliss, 235 ml; Pflanzendrink, Cashew natur, 1 l; Antitranspirant Deo Roll-on Classic, 50 ml; Haargel Locken Styling Gel, 250 ml; Foundation Super Stay Hybrides 40, 9 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Haarkur Night Elixier Ultimate Repair, 100 ml; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Glasreiniger mit Glanzschutz-Formel, 1 l; Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St; Körperbutter Creamy Blueberry Caramel Bliss, 235 ml; Pflanzendrink, Cashew natur, 1 l; Antitranspirant Deo Roll-on Classic, 50 ml; Haargel Locken Styling Gel, 250 ml; Foundation Super Stay Hybrides 40, 9 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Pflanzendrink, Cashew natur, 1 l",
+    "accepted_answers": [
+      "Pflanzendrink, Cashew natur, 1 l"
+    ],
+    "gold_documents": [
+      "doc_0395",
+      "doc_0525",
+      "doc_0149",
+      "doc_0577",
+      "doc_0261",
+      "doc_0475",
+      "doc_0113",
+      "doc_0125",
+      "doc_0273"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Haarkur Night Elixier Ultimate Repair, 100 ml?",
+      "Wie hoch ist der Lagerbestand von Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g?",
+      "Wie hoch ist der Lagerbestand von Glasreiniger mit Glanzschutz-Formel, 1 l?",
+      "Wie hoch ist der Lagerbestand von Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St?",
+      "Wie hoch ist der Lagerbestand von Körperbutter Creamy Blueberry Caramel Bliss, 235 ml?",
+      "Wie hoch ist der Lagerbestand von Pflanzendrink, Cashew natur, 1 l?",
+      "Wie hoch ist der Lagerbestand von Antitranspirant Deo Roll-on Classic, 50 ml?",
+      "Wie hoch ist der Lagerbestand von Haargel Locken Styling Gel, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Foundation Super Stay Hybrides 40, 9 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 9
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Haarkur Night Elixier Ultimate Repair, 100 ml",
+        "Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g",
+        "Glasreiniger mit Glanzschutz-Formel, 1 l",
+        "Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St",
+        "Körperbutter Creamy Blueberry Caramel Bliss, 235 ml",
+        "Pflanzendrink, Cashew natur, 1 l",
+        "Antitranspirant Deo Roll-on Classic, 50 ml",
+        "Haargel Locken Styling Gel, 250 ml",
+        "Foundation Super Stay Hybrides 40, 9 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0002",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Kakaopulver, Heiße Schokolade mit Xylit, 200 g; Mascara Grow & Tint Deep Black, 12 ml; Cashewkerne, 150 g; Körperpeeling Macadamia & Reismilch, 225 ml; Kinder Badezusatz Badefizzer, 20 g; Karamell-Keks Creme, Lovely Caramel, 190 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Kakaopulver, Heiße Schokolade mit Xylit, 200 g; Mascara Grow & Tint Deep Black, 12 ml; Cashewkerne, 150 g; Körperpeeling Macadamia & Reismilch, 225 ml; Kinder Badezusatz Badefizzer, 20 g; Karamell-Keks Creme, Lovely Caramel, 190 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Kakaopulver, Heiße Schokolade mit Xylit, 200 g",
+    "accepted_answers": [
+      "Kakaopulver, Heiße Schokolade mit Xylit, 200 g"
+    ],
+    "gold_documents": [
+      "doc_0327",
+      "doc_0447",
+      "doc_0471",
+      "doc_0239",
+      "doc_0467",
+      "doc_0085"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Kakaopulver, Heiße Schokolade mit Xylit, 200 g?",
+      "Wie hoch ist der Lagerbestand von Mascara Grow & Tint Deep Black, 12 ml?",
+      "Wie hoch ist der Lagerbestand von Cashewkerne, 150 g?",
+      "Wie hoch ist der Lagerbestand von Körperpeeling Macadamia & Reismilch, 225 ml?",
+      "Wie hoch ist der Lagerbestand von Kinder Badezusatz Badefizzer, 20 g?",
+      "Wie hoch ist der Lagerbestand von Karamell-Keks Creme, Lovely Caramel, 190 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 6
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Kakaopulver, Heiße Schokolade mit Xylit, 200 g",
+        "Mascara Grow & Tint Deep Black, 12 ml",
+        "Cashewkerne, 150 g",
+        "Körperpeeling Macadamia & Reismilch, 225 ml",
+        "Kinder Badezusatz Badefizzer, 20 g",
+        "Karamell-Keks Creme, Lovely Caramel, 190 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0003",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Müsli Kekse, ab 3 Jahren, 125 g; Gesichtswasser Anti-Mitesser, 200 ml; Kinder Badezusatz Badebombe Dragons, 1 St; Mundspülung Super Clean, 500 ml; Rasierklingen, Smooth, 4 St; Tomatenmark, 200 g; Kaffee Entkoffeiniert löslich, 100 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Müsli Kekse, ab 3 Jahren, 125 g; Gesichtswasser Anti-Mitesser, 200 ml; Kinder Badezusatz Badebombe Dragons, 1 St; Mundspülung Super Clean, 500 ml; Rasierklingen, Smooth, 4 St; Tomatenmark, 200 g; Kaffee Entkoffeiniert löslich, 100 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Müsli Kekse, ab 3 Jahren, 125 g",
+    "accepted_answers": [
+      "Müsli Kekse, ab 3 Jahren, 125 g"
+    ],
+    "gold_documents": [
+      "doc_0401",
+      "doc_0097",
+      "doc_0363",
+      "doc_0087",
+      "doc_0565",
+      "doc_0009",
+      "doc_0197"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Müsli Kekse, ab 3 Jahren, 125 g?",
+      "Wie hoch ist der Lagerbestand von Gesichtswasser Anti-Mitesser, 200 ml?",
+      "Wie hoch ist der Lagerbestand von Kinder Badezusatz Badebombe Dragons, 1 St?",
+      "Wie hoch ist der Lagerbestand von Mundspülung Super Clean, 500 ml?",
+      "Wie hoch ist der Lagerbestand von Rasierklingen, Smooth, 4 St?",
+      "Wie hoch ist der Lagerbestand von Tomatenmark, 200 g?",
+      "Wie hoch ist der Lagerbestand von Kaffee Entkoffeiniert löslich, 100 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 7
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Müsli Kekse, ab 3 Jahren, 125 g",
+        "Gesichtswasser Anti-Mitesser, 200 ml",
+        "Kinder Badezusatz Badebombe Dragons, 1 St",
+        "Mundspülung Super Clean, 500 ml",
+        "Rasierklingen, Smooth, 4 St",
+        "Tomatenmark, 200 g",
+        "Kaffee Entkoffeiniert löslich, 100 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0004",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St; Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml; Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St; Vegane Mayo, 250 ml; Foundation Liquid HD Coverage 30 Sand Beige, 30 ml; Schokoriegel, Vollmilch Espresso Crunch, 37,5 g; Weichspüler Mandelmilch 40WL, 880 ml; Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Glasreiniger mit Glanzschutz-Formel, 1 l. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St; Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml; Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St; Vegane Mayo, 250 ml; Foundation Liquid HD Coverage 30 Sand Beige, 30 ml; Schokoriegel, Vollmilch Espresso Crunch, 37,5 g; Weichspüler Mandelmilch 40WL, 880 ml; Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Glasreiniger mit Glanzschutz-Formel, 1 l. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St",
+    "accepted_answers": [
+      "Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St"
+    ],
+    "gold_documents": [
+      "doc_0425",
+      "doc_0051",
+      "doc_0561",
+      "doc_0577",
+      "doc_0171",
+      "doc_0027",
+      "doc_0463",
+      "doc_0449",
+      "doc_0513",
+      "doc_0149"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g?",
+      "Wie hoch ist der Lagerbestand von Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St?",
+      "Wie hoch ist der Lagerbestand von Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml?",
+      "Wie hoch ist der Lagerbestand von Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St?",
+      "Wie hoch ist der Lagerbestand von Vegane Mayo, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Foundation Liquid HD Coverage 30 Sand Beige, 30 ml?",
+      "Wie hoch ist der Lagerbestand von Schokoriegel, Vollmilch Espresso Crunch, 37,5 g?",
+      "Wie hoch ist der Lagerbestand von Weichspüler Mandelmilch 40WL, 880 ml?",
+      "Wie hoch ist der Lagerbestand von Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g?",
+      "Wie hoch ist der Lagerbestand von Glasreiniger mit Glanzschutz-Formel, 1 l?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g",
+        "Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St",
+        "Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml",
+        "Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St",
+        "Vegane Mayo, 250 ml",
+        "Foundation Liquid HD Coverage 30 Sand Beige, 30 ml",
+        "Schokoriegel, Vollmilch Espresso Crunch, 37,5 g",
+        "Weichspüler Mandelmilch 40WL, 880 ml",
+        "Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g",
+        "Glasreiniger mit Glanzschutz-Formel, 1 l"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0005",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Spülmittel Paradise Bloom, 300 ml; Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml; Kindersnack Kakao Waffeln ab 3 Jahren, 100 g; Handcreme Urea, 100 ml; Glasreiniger mit Glanzschutz-Formel, 1 l. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Spülmittel Paradise Bloom, 300 ml; Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml; Kindersnack Kakao Waffeln ab 3 Jahren, 100 g; Handcreme Urea, 100 ml; Glasreiniger mit Glanzschutz-Formel, 1 l. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml",
+    "accepted_answers": [
+      "Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml"
+    ],
+    "gold_documents": [
+      "doc_0513",
+      "doc_0231",
+      "doc_0213",
+      "doc_0167",
+      "doc_0105",
+      "doc_0149"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g?",
+      "Wie hoch ist der Lagerbestand von Spülmittel Paradise Bloom, 300 ml?",
+      "Wie hoch ist der Lagerbestand von Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml?",
+      "Wie hoch ist der Lagerbestand von Kindersnack Kakao Waffeln ab 3 Jahren, 100 g?",
+      "Wie hoch ist der Lagerbestand von Handcreme Urea, 100 ml?",
+      "Wie hoch ist der Lagerbestand von Glasreiniger mit Glanzschutz-Formel, 1 l?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 6
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g",
+        "Spülmittel Paradise Bloom, 300 ml",
+        "Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml",
+        "Kindersnack Kakao Waffeln ab 3 Jahren, 100 g",
+        "Handcreme Urea, 100 ml",
+        "Glasreiniger mit Glanzschutz-Formel, 1 l"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0006",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml; Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St; Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g; Gelbe Linsen, 500 g; Spülmittel Paradise Bloom, 300 ml; Antitranspirant Deospray Maximum Protection Fresh, 150 ml; Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml; Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St; Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g; Gelbe Linsen, 500 g; Spülmittel Paradise Bloom, 300 ml; Antitranspirant Deospray Maximum Protection Fresh, 150 ml; Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St",
+    "accepted_answers": [
+      "Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St"
+    ],
+    "gold_documents": [
+      "doc_0473",
+      "doc_0285",
+      "doc_0077",
+      "doc_0073",
+      "doc_0231",
+      "doc_0337",
+      "doc_0431"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml?",
+      "Wie hoch ist der Lagerbestand von Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St?",
+      "Wie hoch ist der Lagerbestand von Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g?",
+      "Wie hoch ist der Lagerbestand von Gelbe Linsen, 500 g?",
+      "Wie hoch ist der Lagerbestand von Spülmittel Paradise Bloom, 300 ml?",
+      "Wie hoch ist der Lagerbestand von Antitranspirant Deospray Maximum Protection Fresh, 150 ml?",
+      "Wie hoch ist der Lagerbestand von Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 7
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml",
+        "Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St",
+        "Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g",
+        "Gelbe Linsen, 500 g",
+        "Spülmittel Paradise Bloom, 300 ml",
+        "Antitranspirant Deospray Maximum Protection Fresh, 150 ml",
+        "Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0007",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Meersalz, jodiert, 500 g; Concealer Fit Me 06 Vanilla, 6,8 ml; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g; Kaffee, Caffè de Peru gemahlen, 500 g; Shampoo Nourishing, 250 ml; Mascara Lash Princess Sculpted Volume, 12 ml; Haarspray Sensitive, 250 ml; Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Flüssigseife Goodness Oud, Cedar & Amber, 500 ml. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Meersalz, jodiert, 500 g; Concealer Fit Me 06 Vanilla, 6,8 ml; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g; Kaffee, Caffè de Peru gemahlen, 500 g; Shampoo Nourishing, 250 ml; Mascara Lash Princess Sculpted Volume, 12 ml; Haarspray Sensitive, 250 ml; Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Flüssigseife Goodness Oud, Cedar & Amber, 500 ml. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Meersalz, jodiert, 500 g",
+    "accepted_answers": [
+      "Meersalz, jodiert, 500 g"
+    ],
+    "gold_documents": [
+      "doc_0393",
+      "doc_0547",
+      "doc_0443",
+      "doc_0247",
+      "doc_0421",
+      "doc_0479",
+      "doc_0585",
+      "doc_0019",
+      "doc_0425",
+      "doc_0307"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Meersalz, jodiert, 500 g?",
+      "Wie hoch ist der Lagerbestand von Concealer Fit Me 06 Vanilla, 6,8 ml?",
+      "Wie hoch ist der Lagerbestand von Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g?",
+      "Wie hoch ist der Lagerbestand von Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g?",
+      "Wie hoch ist der Lagerbestand von Kaffee, Caffè de Peru gemahlen, 500 g?",
+      "Wie hoch ist der Lagerbestand von Shampoo Nourishing, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Mascara Lash Princess Sculpted Volume, 12 ml?",
+      "Wie hoch ist der Lagerbestand von Haarspray Sensitive, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g?",
+      "Wie hoch ist der Lagerbestand von Flüssigseife Goodness Oud, Cedar & Amber, 500 ml?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Meersalz, jodiert, 500 g",
+        "Concealer Fit Me 06 Vanilla, 6,8 ml",
+        "Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g",
+        "Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g",
+        "Kaffee, Caffè de Peru gemahlen, 500 g",
+        "Shampoo Nourishing, 250 ml",
+        "Mascara Lash Princess Sculpted Volume, 12 ml",
+        "Haarspray Sensitive, 250 ml",
+        "Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g",
+        "Flüssigseife Goodness Oud, Cedar & Amber, 500 ml"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0008",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g; Nagelfolie Foil Nail Wraps, 100 St; Nudeln, Fusilli aus Emmer, 500 g; Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g; Conditioner The Foundation, 300 ml; Concealer Fit Me 06 Vanilla, 6,8 ml; Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g; Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g; Nagelfolie Foil Nail Wraps, 100 St; Nudeln, Fusilli aus Emmer, 500 g; Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g; Conditioner The Foundation, 300 ml; Concealer Fit Me 06 Vanilla, 6,8 ml; Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g; Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Concealer Fit Me 06 Vanilla, 6,8 ml",
+    "accepted_answers": [
+      "Concealer Fit Me 06 Vanilla, 6,8 ml"
+    ],
+    "gold_documents": [
+      "doc_0397",
+      "doc_0527",
+      "doc_0263",
+      "doc_0339",
+      "doc_0365",
+      "doc_0547",
+      "doc_0253",
+      "doc_0093"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g?",
+      "Wie hoch ist der Lagerbestand von Nagelfolie Foil Nail Wraps, 100 St?",
+      "Wie hoch ist der Lagerbestand von Nudeln, Fusilli aus Emmer, 500 g?",
+      "Wie hoch ist der Lagerbestand von Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g?",
+      "Wie hoch ist der Lagerbestand von Conditioner The Foundation, 300 ml?",
+      "Wie hoch ist der Lagerbestand von Concealer Fit Me 06 Vanilla, 6,8 ml?",
+      "Wie hoch ist der Lagerbestand von Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g?",
+      "Wie hoch ist der Lagerbestand von Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g",
+        "Nagelfolie Foil Nail Wraps, 100 St",
+        "Nudeln, Fusilli aus Emmer, 500 g",
+        "Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g",
+        "Conditioner The Foundation, 300 ml",
+        "Concealer Fit Me 06 Vanilla, 6,8 ml",
+        "Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g",
+        "Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0009",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Fleckenkissen, 1 St; Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml; Direktsaft, Apfel-Mango, 0,33 l; Trinkmahlzeit, Vanille, 330 ml; Weizenmehl Type 550, 1.000 g; Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat, 190 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Fleckenkissen, 1 St; Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml; Direktsaft, Apfel-Mango, 0,33 l; Trinkmahlzeit, Vanille, 330 ml; Weizenmehl Type 550, 1.000 g; Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat, 190 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml",
+    "accepted_answers": [
+      "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml"
+    ],
+    "gold_documents": [
+      "doc_0259",
+      "doc_0497",
+      "doc_0485",
+      "doc_0329",
+      "doc_0387",
+      "doc_0005"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Fleckenkissen, 1 St?",
+      "Wie hoch ist der Lagerbestand von Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml?",
+      "Wie hoch ist der Lagerbestand von Direktsaft, Apfel-Mango, 0,33 l?",
+      "Wie hoch ist der Lagerbestand von Trinkmahlzeit, Vanille, 330 ml?",
+      "Wie hoch ist der Lagerbestand von Weizenmehl Type 550, 1.000 g?",
+      "Wie hoch ist der Lagerbestand von Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat, 190 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 6
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Fleckenkissen, 1 St",
+        "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml",
+        "Direktsaft, Apfel-Mango, 0,33 l",
+        "Trinkmahlzeit, Vanille, 330 ml",
+        "Weizenmehl Type 550, 1.000 g",
+        "Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat, 190 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0010",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Bonbon, Fresh Mint, zuckerfrei, 75 g; Baby Waschschaum sensitiv, Nachfüllpack, 250 ml; Vegane Mayo, 250 ml; Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St; Mascara Grow & Tint Deep Black, 12 ml; Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Bonbon, Fresh Mint, zuckerfrei, 75 g; Baby Waschschaum sensitiv, Nachfüllpack, 250 ml; Vegane Mayo, 250 ml; Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St; Mascara Grow & Tint Deep Black, 12 ml; Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml",
+    "accepted_answers": [
+      "Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml"
+    ],
+    "gold_documents": [
+      "doc_0551",
+      "doc_0117",
+      "doc_0171",
+      "doc_0047",
+      "doc_0447",
+      "doc_0593",
+      "doc_0443",
+      "doc_0461"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Bonbon, Fresh Mint, zuckerfrei, 75 g?",
+      "Wie hoch ist der Lagerbestand von Baby Waschschaum sensitiv, Nachfüllpack, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Vegane Mayo, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St?",
+      "Wie hoch ist der Lagerbestand von Mascara Grow & Tint Deep Black, 12 ml?",
+      "Wie hoch ist der Lagerbestand von Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml?",
+      "Wie hoch ist der Lagerbestand von Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g?",
+      "Wie hoch ist der Lagerbestand von Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Bonbon, Fresh Mint, zuckerfrei, 75 g",
+        "Baby Waschschaum sensitiv, Nachfüllpack, 250 ml",
+        "Vegane Mayo, 250 ml",
+        "Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St",
+        "Mascara Grow & Tint Deep Black, 12 ml",
+        "Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml",
+        "Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g",
+        "Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0011",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Butterkekse, Dinkel, 150 g; Gemüsechips, 90 g; Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g; Feuchttücher Fresh & Clean (4x80 St), 320 St; Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml; Küchentücher Premium 3-lagig (4x51 Blatt), 4 St; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Butterkekse, Dinkel, 150 g; Gemüsechips, 90 g; Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g; Feuchttücher Fresh & Clean (4x80 St), 320 St; Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml; Küchentücher Premium 3-lagig (4x51 Blatt), 4 St; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Butterkekse, Dinkel, 150 g",
+    "accepted_answers": [
+      "Butterkekse, Dinkel, 150 g"
+    ],
+    "gold_documents": [
+      "doc_0079",
+      "doc_0275",
+      "doc_0345",
+      "doc_0251",
+      "doc_0535",
+      "doc_0415",
+      "doc_0383"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Butterkekse, Dinkel, 150 g?",
+      "Wie hoch ist der Lagerbestand von Gemüsechips, 90 g?",
+      "Wie hoch ist der Lagerbestand von Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g?",
+      "Wie hoch ist der Lagerbestand von Feuchttücher Fresh & Clean (4x80 St), 320 St?",
+      "Wie hoch ist der Lagerbestand von Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml?",
+      "Wie hoch ist der Lagerbestand von Küchentücher Premium 3-lagig (4x51 Blatt), 4 St?",
+      "Wie hoch ist der Lagerbestand von Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 7
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Butterkekse, Dinkel, 150 g",
+        "Gemüsechips, 90 g",
+        "Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g",
+        "Feuchttücher Fresh & Clean (4x80 St), 320 St",
+        "Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml",
+        "Küchentücher Premium 3-lagig (4x51 Blatt), 4 St",
+        "Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0012",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Couscous, 500 g; Gelbe Linsen, 500 g; Colorwaschmittel Blütenrausch, 27 Wl; Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g; Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g; Direktsaft, Apfel-Mango, 0,33 l; Natives Olivenöl extra, ausgewogen, 0,5 l; Deo Zerstäuber Wasserlilie, 75 ml; Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Haarspray Max Hold, 400 ml. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Couscous, 500 g; Gelbe Linsen, 500 g; Colorwaschmittel Blütenrausch, 27 Wl; Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g; Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g; Direktsaft, Apfel-Mango, 0,33 l; Natives Olivenöl extra, ausgewogen, 0,5 l; Deo Zerstäuber Wasserlilie, 75 ml; Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Haarspray Max Hold, 400 ml. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Natives Olivenöl extra, ausgewogen, 0,5 l",
+    "accepted_answers": [
+      "Natives Olivenöl extra, ausgewogen, 0,5 l"
+    ],
+    "gold_documents": [
+      "doc_0417",
+      "doc_0073",
+      "doc_0135",
+      "doc_0351",
+      "doc_0345",
+      "doc_0485",
+      "doc_0515",
+      "doc_0391",
+      "doc_0513",
+      "doc_0521"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Couscous, 500 g?",
+      "Wie hoch ist der Lagerbestand von Gelbe Linsen, 500 g?",
+      "Wie hoch ist der Lagerbestand von Colorwaschmittel Blütenrausch, 27 Wl?",
+      "Wie hoch ist der Lagerbestand von Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g?",
+      "Wie hoch ist der Lagerbestand von Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g?",
+      "Wie hoch ist der Lagerbestand von Direktsaft, Apfel-Mango, 0,33 l?",
+      "Wie hoch ist der Lagerbestand von Natives Olivenöl extra, ausgewogen, 0,5 l?",
+      "Wie hoch ist der Lagerbestand von Deo Zerstäuber Wasserlilie, 75 ml?",
+      "Wie hoch ist der Lagerbestand von Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g?",
+      "Wie hoch ist der Lagerbestand von Haarspray Max Hold, 400 ml?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Couscous, 500 g",
+        "Gelbe Linsen, 500 g",
+        "Colorwaschmittel Blütenrausch, 27 Wl",
+        "Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g",
+        "Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g",
+        "Direktsaft, Apfel-Mango, 0,33 l",
+        "Natives Olivenöl extra, ausgewogen, 0,5 l",
+        "Deo Zerstäuber Wasserlilie, 75 ml",
+        "Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g",
+        "Haarspray Max Hold, 400 ml"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0013",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Schokoriegel, Vollmilch Espresso Crunch, 37,5 g; Shampoo Nourishing, 250 ml; Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml; Schokolade, Mocca, 80 g; Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g; Smoothie Bowl, Mango-Maracuja-Kokos, 50 g; Foundation Hauttonanpassend, 30 ml; Feuchttücher Fresh & Clean (4x80 St), 320 St; Flüssigseife Rosemary & Ginger, 250 ml; Taschentücher Box Balsam 4-lagig, 120 St. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Schokoriegel, Vollmilch Espresso Crunch, 37,5 g; Shampoo Nourishing, 250 ml; Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml; Schokolade, Mocca, 80 g; Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g; Smoothie Bowl, Mango-Maracuja-Kokos, 50 g; Foundation Hauttonanpassend, 30 ml; Feuchttücher Fresh & Clean (4x80 St), 320 St; Flüssigseife Rosemary & Ginger, 250 ml; Taschentücher Box Balsam 4-lagig, 120 St. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g",
+    "accepted_answers": [
+      "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g"
+    ],
+    "gold_documents": [
+      "doc_0463",
+      "doc_0479",
+      "doc_0115",
+      "doc_0567",
+      "doc_0539",
+      "doc_0599",
+      "doc_0487",
+      "doc_0251",
+      "doc_0137",
+      "doc_0557"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Schokoriegel, Vollmilch Espresso Crunch, 37,5 g?",
+      "Wie hoch ist der Lagerbestand von Shampoo Nourishing, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml?",
+      "Wie hoch ist der Lagerbestand von Schokolade, Mocca, 80 g?",
+      "Wie hoch ist der Lagerbestand von Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g?",
+      "Wie hoch ist der Lagerbestand von Smoothie Bowl, Mango-Maracuja-Kokos, 50 g?",
+      "Wie hoch ist der Lagerbestand von Foundation Hauttonanpassend, 30 ml?",
+      "Wie hoch ist der Lagerbestand von Feuchttücher Fresh & Clean (4x80 St), 320 St?",
+      "Wie hoch ist der Lagerbestand von Flüssigseife Rosemary & Ginger, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Taschentücher Box Balsam 4-lagig, 120 St?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Schokoriegel, Vollmilch Espresso Crunch, 37,5 g",
+        "Shampoo Nourishing, 250 ml",
+        "Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml",
+        "Schokolade, Mocca, 80 g",
+        "Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g",
+        "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g",
+        "Foundation Hauttonanpassend, 30 ml",
+        "Feuchttücher Fresh & Clean (4x80 St), 320 St",
+        "Flüssigseife Rosemary & Ginger, 250 ml",
+        "Taschentücher Box Balsam 4-lagig, 120 St"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0014",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Nachtcreme Beauty Expert, 30 ml; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Glasreiniger mit Glanzschutz-Formel, 1 l; Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml; Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Haarspray Sensitive, 250 ml; Taschentücher Box Balsam 4-lagig, 120 St; Espresso ganze Bohnen, 1 kg; Antitranspirant Deo Roll-on Original, 50 ml; Whey Proteinpulver Vanille Geschmack, 450 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Nachtcreme Beauty Expert, 30 ml; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Glasreiniger mit Glanzschutz-Formel, 1 l; Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml; Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Haarspray Sensitive, 250 ml; Taschentücher Box Balsam 4-lagig, 120 St; Espresso ganze Bohnen, 1 kg; Antitranspirant Deo Roll-on Original, 50 ml; Whey Proteinpulver Vanille Geschmack, 450 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Antitranspirant Deo Roll-on Original, 50 ml",
+    "accepted_answers": [
+      "Antitranspirant Deo Roll-on Original, 50 ml"
+    ],
+    "gold_documents": [
+      "doc_0325",
+      "doc_0233",
+      "doc_0149",
+      "doc_0357",
+      "doc_0425",
+      "doc_0019",
+      "doc_0557",
+      "doc_0177",
+      "doc_0545",
+      "doc_0219"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Nachtcreme Beauty Expert, 30 ml?",
+      "Wie hoch ist der Lagerbestand von Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g?",
+      "Wie hoch ist der Lagerbestand von Glasreiniger mit Glanzschutz-Formel, 1 l?",
+      "Wie hoch ist der Lagerbestand von Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml?",
+      "Wie hoch ist der Lagerbestand von Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g?",
+      "Wie hoch ist der Lagerbestand von Haarspray Sensitive, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Taschentücher Box Balsam 4-lagig, 120 St?",
+      "Wie hoch ist der Lagerbestand von Espresso ganze Bohnen, 1 kg?",
+      "Wie hoch ist der Lagerbestand von Antitranspirant Deo Roll-on Original, 50 ml?",
+      "Wie hoch ist der Lagerbestand von Whey Proteinpulver Vanille Geschmack, 450 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Nachtcreme Beauty Expert, 30 ml",
+        "Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g",
+        "Glasreiniger mit Glanzschutz-Formel, 1 l",
+        "Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml",
+        "Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g",
+        "Haarspray Sensitive, 250 ml",
+        "Taschentücher Box Balsam 4-lagig, 120 St",
+        "Espresso ganze Bohnen, 1 kg",
+        "Antitranspirant Deo Roll-on Original, 50 ml",
+        "Whey Proteinpulver Vanille Geschmack, 450 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0015",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml; Getränkepulver, Milchshake Typ Blaubeer, 75 g; Windeln Premium Gr. 5 (13-18 kg), 26 St; Taschentücher Box Balsam 4-lagig, 120 St; Reissirup, 250 ml; Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml; Getränkepulver, Milchshake Typ Blaubeer, 75 g; Windeln Premium Gr. 5 (13-18 kg), 26 St; Taschentücher Box Balsam 4-lagig, 120 St; Reissirup, 250 ml; Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Getränkepulver, Milchshake Typ Blaubeer, 75 g",
+    "accepted_answers": [
+      "Getränkepulver, Milchshake Typ Blaubeer, 75 g"
+    ],
+    "gold_documents": [
+      "doc_0297",
+      "doc_0099",
+      "doc_0173",
+      "doc_0557",
+      "doc_0533",
+      "doc_0407"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml?",
+      "Wie hoch ist der Lagerbestand von Getränkepulver, Milchshake Typ Blaubeer, 75 g?",
+      "Wie hoch ist der Lagerbestand von Windeln Premium Gr. 5 (13-18 kg), 26 St?",
+      "Wie hoch ist der Lagerbestand von Taschentücher Box Balsam 4-lagig, 120 St?",
+      "Wie hoch ist der Lagerbestand von Reissirup, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 6
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml",
+        "Getränkepulver, Milchshake Typ Blaubeer, 75 g",
+        "Windeln Premium Gr. 5 (13-18 kg), 26 St",
+        "Taschentücher Box Balsam 4-lagig, 120 St",
+        "Reissirup, 250 ml",
+        "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0016",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml; Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g; Nuss- & Fruchtmischung, Tropic Mix, 200 g; Haaröl Traumlocken, 100 ml; Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml; Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml; Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g; Taschentücher Box Kids Disney, 48 St; Pesto, Artischocken & Zitrone, 120 g; Küchenrolle Wisch&Weg Reinweiss (8x45 Blatt), 8 St. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml; Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g; Nuss- & Fruchtmischung, Tropic Mix, 200 g; Haaröl Traumlocken, 100 ml; Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml; Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml; Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g; Taschentücher Box Kids Disney, 48 St; Pesto, Artischocken & Zitrone, 120 g; Küchenrolle Wisch&Weg Reinweiss (8x45 Blatt), 8 St. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Pesto, Artischocken & Zitrone, 120 g",
+    "accepted_answers": [
+      "Pesto, Artischocken & Zitrone, 120 g"
+    ],
+    "gold_documents": [
+      "doc_0385",
+      "doc_0189",
+      "doc_0147",
+      "doc_0221",
+      "doc_0553",
+      "doc_0473",
+      "doc_0101",
+      "doc_0457",
+      "doc_0433",
+      "doc_0021"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g?",
+      "Wie hoch ist der Lagerbestand von Nuss- & Fruchtmischung, Tropic Mix, 200 g?",
+      "Wie hoch ist der Lagerbestand von Haaröl Traumlocken, 100 ml?",
+      "Wie hoch ist der Lagerbestand von Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml?",
+      "Wie hoch ist der Lagerbestand von Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml?",
+      "Wie hoch ist der Lagerbestand von Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g?",
+      "Wie hoch ist der Lagerbestand von Taschentücher Box Kids Disney, 48 St?",
+      "Wie hoch ist der Lagerbestand von Pesto, Artischocken & Zitrone, 120 g?",
+      "Wie hoch ist der Lagerbestand von Küchenrolle Wisch&Weg Reinweiss (8x45 Blatt), 8 St?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml",
+        "Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g",
+        "Nuss- & Fruchtmischung, Tropic Mix, 200 g",
+        "Haaröl Traumlocken, 100 ml",
+        "Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml",
+        "Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml",
+        "Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g",
+        "Taschentücher Box Kids Disney, 48 St",
+        "Pesto, Artischocken & Zitrone, 120 g",
+        "Küchenrolle Wisch&Weg Reinweiss (8x45 Blatt), 8 St"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0017",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Getränkepulver, Milchshake Typ Blaubeer, 75 g; Körperbutter Mango Matcha Latte, 235 ml; Still Smoothie Rote Früchte in Apfel mit Eisen, 200 ml; Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml; Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g; Muffin Choco, glutenfrei, 65 g; Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Getränkepulver, Milchshake Typ Blaubeer, 75 g; Körperbutter Mango Matcha Latte, 235 ml; Still Smoothie Rote Früchte in Apfel mit Eisen, 200 ml; Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml; Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g; Muffin Choco, glutenfrei, 65 g; Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Körperbutter Mango Matcha Latte, 235 ml",
+    "accepted_answers": [
+      "Körperbutter Mango Matcha Latte, 235 ml"
+    ],
+    "gold_documents": [
+      "doc_0099",
+      "doc_0583",
+      "doc_0303",
+      "doc_0593",
+      "doc_0469",
+      "doc_0383",
+      "doc_0277",
+      "doc_0161"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Getränkepulver, Milchshake Typ Blaubeer, 75 g?",
+      "Wie hoch ist der Lagerbestand von Körperbutter Mango Matcha Latte, 235 ml?",
+      "Wie hoch ist der Lagerbestand von Still Smoothie Rote Früchte in Apfel mit Eisen, 200 ml?",
+      "Wie hoch ist der Lagerbestand von Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml?",
+      "Wie hoch ist der Lagerbestand von Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g?",
+      "Wie hoch ist der Lagerbestand von Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g?",
+      "Wie hoch ist der Lagerbestand von Muffin Choco, glutenfrei, 65 g?",
+      "Wie hoch ist der Lagerbestand von Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Getränkepulver, Milchshake Typ Blaubeer, 75 g",
+        "Körperbutter Mango Matcha Latte, 235 ml",
+        "Still Smoothie Rote Früchte in Apfel mit Eisen, 200 ml",
+        "Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml",
+        "Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g",
+        "Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g",
+        "Muffin Choco, glutenfrei, 65 g",
+        "Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0018",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml; Waffel Snack, 150 g; Porridge, Kakao Dinkel mit Haselnüssen, 500 g; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g; Rasierbutter Pfirsich, 150 ml; Entkalker Kaffeemaschinen, 250 ml; Teegetränk, Kombucha Original, 0,25 l EINWEG; Leave-In Haarkur, für lockiges Haar, 250 ml; Sesamöl, 0,25 l. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml; Waffel Snack, 150 g; Porridge, Kakao Dinkel mit Haselnüssen, 500 g; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g; Rasierbutter Pfirsich, 150 ml; Entkalker Kaffeemaschinen, 250 ml; Teegetränk, Kombucha Original, 0,25 l EINWEG; Leave-In Haarkur, für lockiges Haar, 250 ml; Sesamöl, 0,25 l. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Rasierbutter Pfirsich, 150 ml",
+    "accepted_answers": [
+      "Rasierbutter Pfirsich, 150 ml"
+    ],
+    "gold_documents": [
+      "doc_0143",
+      "doc_0333",
+      "doc_0299",
+      "doc_0491",
+      "doc_0309",
+      "doc_0057",
+      "doc_0359",
+      "doc_0269",
+      "doc_0035"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml?",
+      "Wie hoch ist der Lagerbestand von Waffel Snack, 150 g?",
+      "Wie hoch ist der Lagerbestand von Porridge, Kakao Dinkel mit Haselnüssen, 500 g?",
+      "Wie hoch ist der Lagerbestand von Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g?",
+      "Wie hoch ist der Lagerbestand von Rasierbutter Pfirsich, 150 ml?",
+      "Wie hoch ist der Lagerbestand von Entkalker Kaffeemaschinen, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Teegetränk, Kombucha Original, 0,25 l EINWEG?",
+      "Wie hoch ist der Lagerbestand von Leave-In Haarkur, für lockiges Haar, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Sesamöl, 0,25 l?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 9
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml",
+        "Waffel Snack, 150 g",
+        "Porridge, Kakao Dinkel mit Haselnüssen, 500 g",
+        "Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g",
+        "Rasierbutter Pfirsich, 150 ml",
+        "Entkalker Kaffeemaschinen, 250 ml",
+        "Teegetränk, Kombucha Original, 0,25 l EINWEG",
+        "Leave-In Haarkur, für lockiges Haar, 250 ml",
+        "Sesamöl, 0,25 l"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "select_0019",
+    "category": "select",
+    "raw_question": "Es geht um folgende Produkte: Flüssigseife Rosemary & Ginger, 250 ml; Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Zahnpasta Juniorzahn 6-13 Jahren, 75 ml; Nagellack Effekt 7 Identity, 13,5 ml; Nassfutter Katze Huhn in Sauce, Revelations Mousse Multipack (4x57 g), 228 g; Schokoriegel Milch, 23 g; Getränkepulver, Milchshake Typ Blaubeer, 75 g; Spülmittel Paradise Bloom, 300 ml. Welches davon hat den höchsten Lagerbestand?",
+    "question_text": "Es geht um folgende Produkte: Flüssigseife Rosemary & Ginger, 250 ml; Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Zahnpasta Juniorzahn 6-13 Jahren, 75 ml; Nagellack Effekt 7 Identity, 13,5 ml; Nassfutter Katze Huhn in Sauce, Revelations Mousse Multipack (4x57 g), 228 g; Schokoriegel Milch, 23 g; Getränkepulver, Milchshake Typ Blaubeer, 75 g; Spülmittel Paradise Bloom, 300 ml. Welches davon hat den höchsten Lagerbestand?",
+    "answer_type": "name",
+    "gold_answer": "Zahnpasta Juniorzahn 6-13 Jahren, 75 ml",
+    "accepted_answers": [
+      "Zahnpasta Juniorzahn 6-13 Jahren, 75 ml"
+    ],
+    "gold_documents": [
+      "doc_0137",
+      "doc_0423",
+      "doc_0063",
+      "doc_0217",
+      "doc_0537",
+      "doc_0055",
+      "doc_0099",
+      "doc_0231"
+    ],
+    "gold_subquestions": [
+      "Wie hoch ist der Lagerbestand von Flüssigseife Rosemary & Ginger, 250 ml?",
+      "Wie hoch ist der Lagerbestand von Nussmischung, Gerösteter Edelnuss-Mix, 160 g?",
+      "Wie hoch ist der Lagerbestand von Zahnpasta Juniorzahn 6-13 Jahren, 75 ml?",
+      "Wie hoch ist der Lagerbestand von Nagellack Effekt 7 Identity, 13,5 ml?",
+      "Wie hoch ist der Lagerbestand von Nassfutter Katze Huhn in Sauce, Revelations Mousse Multipack (4x57 g), 228 g?",
+      "Wie hoch ist der Lagerbestand von Schokoriegel Milch, 23 g?",
+      "Wie hoch ist der Lagerbestand von Getränkepulver, Milchshake Typ Blaubeer, 75 g?",
+      "Wie hoch ist der Lagerbestand von Spülmittel Paradise Bloom, 300 ml?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "skeleton": {
+      "entities": [
+        "Flüssigseife Rosemary & Ginger, 250 ml",
+        "Nussmischung, Gerösteter Edelnuss-Mix, 160 g",
+        "Zahnpasta Juniorzahn 6-13 Jahren, 75 ml",
+        "Nagellack Effekt 7 Identity, 13,5 ml",
+        "Nassfutter Katze Huhn in Sauce, Revelations Mousse Multipack (4x57 g), 228 g",
+        "Schokoriegel Milch, 23 g",
+        "Getränkepulver, Milchshake Typ Blaubeer, 75 g",
+        "Spülmittel Paradise Bloom, 300 ml"
+      ],
+      "ask": "Welches dieser Produkte hat den höchsten Lagerbestand?"
+    }
+  },
+  {
+    "item_id": "combined_0000",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Deospray Man Lavender Coffee Tonka Bean, 150 ml; Aprés Shave Lotion, 100 ml; Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g; Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml; Nagellack Gel by 567 Frost Yourself, 13,5 ml; Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Deospray Man Lavender Coffee Tonka Bean, 150 ml; Aprés Shave Lotion, 100 ml; Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g; Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml; Nagellack Gel by 567 Frost Yourself, 13,5 ml; Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 88.27,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0404",
+      "doc_0524",
+      "doc_0464",
+      "doc_0038",
+      "doc_0574",
+      "doc_0356",
+      "doc_0590",
+      "doc_0102"
+    ],
+    "gold_subquestions": [
+      "Was kostet Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g im Einkauf?",
+      "Was kostet Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g im Einkauf?",
+      "Was kostet Deospray Man Lavender Coffee Tonka Bean, 150 ml im Einkauf?",
+      "Was kostet Aprés Shave Lotion, 100 ml im Einkauf?",
+      "Was kostet Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g im Einkauf?",
+      "Was kostet Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml im Einkauf?",
+      "Was kostet Nagellack Gel by 567 Frost Yourself, 13,5 ml im Einkauf?",
+      "Was kostet Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g",
+        "Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g",
+        "Deospray Man Lavender Coffee Tonka Bean, 150 ml",
+        "Aprés Shave Lotion, 100 ml",
+        "Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g",
+        "Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml",
+        "Nagellack Gel by 567 Frost Yourself, 13,5 ml",
+        "Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0001",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Pekannüsse, 100 g; Maiswaffeln, natur, 110 g; Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g; Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Essigreiniger Apfel, 1 l; Haferriegel, Oat Bar Cocoa, 60 g; Spülmittel-Gel Himbeer, 500 ml; Nachtcreme Beauty Hyaluron, 50 ml; Deo Zerstäuber Wasserlilie, 75 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Pekannüsse, 100 g; Maiswaffeln, natur, 110 g; Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g; Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Essigreiniger Apfel, 1 l; Haferriegel, Oat Bar Cocoa, 60 g; Spülmittel-Gel Himbeer, 500 ml; Nachtcreme Beauty Hyaluron, 50 ml; Deo Zerstäuber Wasserlilie, 75 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 110.51,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0028",
+      "doc_0068",
+      "doc_0396",
+      "doc_0046",
+      "doc_0232",
+      "doc_0508",
+      "doc_0224",
+      "doc_0562",
+      "doc_0082",
+      "doc_0390"
+    ],
+    "gold_subquestions": [
+      "Was kostet Pekannüsse, 100 g im Einkauf?",
+      "Was kostet Maiswaffeln, natur, 110 g im Einkauf?",
+      "Was kostet Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g im Einkauf?",
+      "Was kostet Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St im Einkauf?",
+      "Was kostet Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g im Einkauf?",
+      "Was kostet Essigreiniger Apfel, 1 l im Einkauf?",
+      "Was kostet Haferriegel, Oat Bar Cocoa, 60 g im Einkauf?",
+      "Was kostet Spülmittel-Gel Himbeer, 500 ml im Einkauf?",
+      "Was kostet Nachtcreme Beauty Hyaluron, 50 ml im Einkauf?",
+      "Was kostet Deo Zerstäuber Wasserlilie, 75 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Pekannüsse, 100 g",
+        "Maiswaffeln, natur, 110 g",
+        "Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g",
+        "Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St",
+        "Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g",
+        "Essigreiniger Apfel, 1 l",
+        "Haferriegel, Oat Bar Cocoa, 60 g",
+        "Spülmittel-Gel Himbeer, 500 ml",
+        "Nachtcreme Beauty Hyaluron, 50 ml",
+        "Deo Zerstäuber Wasserlilie, 75 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0002",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g; Karamell-Keks Creme, Lovely Caramel, 190 g; Feuchttücher (9x60 St), 540 St; Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml; Körperbutter Mango Matcha Latte, 235 ml; Haaröl Öl Magique Jojoba, 100 ml; Weizenmehl Type 1050, 1 kg; Foundation Make-Up Classic Teint, 30 ml; Flüssigseife Rosemary & Ginger, 250 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g; Karamell-Keks Creme, Lovely Caramel, 190 g; Feuchttücher (9x60 St), 540 St; Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml; Körperbutter Mango Matcha Latte, 235 ml; Haaröl Öl Magique Jojoba, 100 ml; Weizenmehl Type 1050, 1 kg; Foundation Make-Up Classic Teint, 30 ml; Flüssigseife Rosemary & Ginger, 250 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 98.88,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0052",
+      "doc_0084",
+      "doc_0006",
+      "doc_0114",
+      "doc_0582",
+      "doc_0064",
+      "doc_0164",
+      "doc_0522",
+      "doc_0136"
+    ],
+    "gold_subquestions": [
+      "Was kostet Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g im Einkauf?",
+      "Was kostet Karamell-Keks Creme, Lovely Caramel, 190 g im Einkauf?",
+      "Was kostet Feuchttücher (9x60 St), 540 St im Einkauf?",
+      "Was kostet Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml im Einkauf?",
+      "Was kostet Körperbutter Mango Matcha Latte, 235 ml im Einkauf?",
+      "Was kostet Haaröl Öl Magique Jojoba, 100 ml im Einkauf?",
+      "Was kostet Weizenmehl Type 1050, 1 kg im Einkauf?",
+      "Was kostet Foundation Make-Up Classic Teint, 30 ml im Einkauf?",
+      "Was kostet Flüssigseife Rosemary & Ginger, 250 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 9
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g",
+        "Karamell-Keks Creme, Lovely Caramel, 190 g",
+        "Feuchttücher (9x60 St), 540 St",
+        "Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml",
+        "Körperbutter Mango Matcha Latte, 235 ml",
+        "Haaröl Öl Magique Jojoba, 100 ml",
+        "Weizenmehl Type 1050, 1 kg",
+        "Foundation Make-Up Classic Teint, 30 ml",
+        "Flüssigseife Rosemary & Ginger, 250 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0003",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Glasreiniger mit Glanzschutz-Formel, 1 l; Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g; Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml; Haargel Ultra Strong Power Hold, 100 ml; Waffel Snack, 150 g; Handcreme Intense Repair, 50 ml; Smoothie Bowl, Mango-Maracuja-Kokos, 50 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Glasreiniger mit Glanzschutz-Formel, 1 l; Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g; Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml; Haargel Ultra Strong Power Hold, 100 ml; Waffel Snack, 150 g; Handcreme Intense Repair, 50 ml; Smoothie Bowl, Mango-Maracuja-Kokos, 50 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 77.34,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0148",
+      "doc_0538",
+      "doc_0534",
+      "doc_0398",
+      "doc_0332",
+      "doc_0402",
+      "doc_0598"
+    ],
+    "gold_subquestions": [
+      "Was kostet Glasreiniger mit Glanzschutz-Formel, 1 l im Einkauf?",
+      "Was kostet Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g im Einkauf?",
+      "Was kostet Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml im Einkauf?",
+      "Was kostet Haargel Ultra Strong Power Hold, 100 ml im Einkauf?",
+      "Was kostet Waffel Snack, 150 g im Einkauf?",
+      "Was kostet Handcreme Intense Repair, 50 ml im Einkauf?",
+      "Was kostet Smoothie Bowl, Mango-Maracuja-Kokos, 50 g im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 7
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Glasreiniger mit Glanzschutz-Formel, 1 l",
+        "Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g",
+        "Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml",
+        "Haargel Ultra Strong Power Hold, 100 ml",
+        "Waffel Snack, 150 g",
+        "Handcreme Intense Repair, 50 ml",
+        "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0004",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g; Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St; Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml; Antitranspirant Deo Roll-on Honey & Cactus Flower Nachfüllpack, 50 ml; Lidschatten Palette Quattro 37 Chocolate, 4,4 g; Foundation Liquid HD Coverage 30 Sand Beige, 30 ml; Porridge, Kakao Dinkel mit Haselnüssen, 500 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g; Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St; Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml; Antitranspirant Deo Roll-on Honey & Cactus Flower Nachfüllpack, 50 ml; Lidschatten Palette Quattro 37 Chocolate, 4,4 g; Foundation Liquid HD Coverage 30 Sand Beige, 30 ml; Porridge, Kakao Dinkel mit Haselnüssen, 500 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 63.16,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0352",
+      "doc_0342",
+      "doc_0552",
+      "doc_0294",
+      "doc_0254",
+      "doc_0026",
+      "doc_0298"
+    ],
+    "gold_subquestions": [
+      "Was kostet Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g im Einkauf?",
+      "Was kostet Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St im Einkauf?",
+      "Was kostet Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml im Einkauf?",
+      "Was kostet Antitranspirant Deo Roll-on Honey & Cactus Flower Nachfüllpack, 50 ml im Einkauf?",
+      "Was kostet Lidschatten Palette Quattro 37 Chocolate, 4,4 g im Einkauf?",
+      "Was kostet Foundation Liquid HD Coverage 30 Sand Beige, 30 ml im Einkauf?",
+      "Was kostet Porridge, Kakao Dinkel mit Haselnüssen, 500 g im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 7
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g",
+        "Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St",
+        "Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml",
+        "Antitranspirant Deo Roll-on Honey & Cactus Flower Nachfüllpack, 50 ml",
+        "Lidschatten Palette Quattro 37 Chocolate, 4,4 g",
+        "Foundation Liquid HD Coverage 30 Sand Beige, 30 ml",
+        "Porridge, Kakao Dinkel mit Haselnüssen, 500 g"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0005",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml; Früchte Apfel-Himbeere-Heidelbeere ab dem 5. Monat, 190 g; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Waffeln, Dinkel Frischei, 165 g; Bonbon, Fresh Mint, zuckerfrei, 75 g; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g; Deospray Man Lavender Coffee Tonka Bean, 150 ml; Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St; Concealer Fit Me 06 Vanilla, 6,8 ml; Cashewkerne, 150 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml; Früchte Apfel-Himbeere-Heidelbeere ab dem 5. Monat, 190 g; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Waffeln, Dinkel Frischei, 165 g; Bonbon, Fresh Mint, zuckerfrei, 75 g; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g; Deospray Man Lavender Coffee Tonka Bean, 150 ml; Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St; Concealer Fit Me 06 Vanilla, 6,8 ml; Cashewkerne, 150 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 109.05,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0460",
+      "doc_0264",
+      "doc_0524",
+      "doc_0388",
+      "doc_0550",
+      "doc_0490",
+      "doc_0464",
+      "doc_0284",
+      "doc_0546",
+      "doc_0470"
+    ],
+    "gold_subquestions": [
+      "Was kostet Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml im Einkauf?",
+      "Was kostet Früchte Apfel-Himbeere-Heidelbeere ab dem 5. Monat, 190 g im Einkauf?",
+      "Was kostet Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g im Einkauf?",
+      "Was kostet Waffeln, Dinkel Frischei, 165 g im Einkauf?",
+      "Was kostet Bonbon, Fresh Mint, zuckerfrei, 75 g im Einkauf?",
+      "Was kostet Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g im Einkauf?",
+      "Was kostet Deospray Man Lavender Coffee Tonka Bean, 150 ml im Einkauf?",
+      "Was kostet Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St im Einkauf?",
+      "Was kostet Concealer Fit Me 06 Vanilla, 6,8 ml im Einkauf?",
+      "Was kostet Cashewkerne, 150 g im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml",
+        "Früchte Apfel-Himbeere-Heidelbeere ab dem 5. Monat, 190 g",
+        "Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g",
+        "Waffeln, Dinkel Frischei, 165 g",
+        "Bonbon, Fresh Mint, zuckerfrei, 75 g",
+        "Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g",
+        "Deospray Man Lavender Coffee Tonka Bean, 150 ml",
+        "Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St",
+        "Concealer Fit Me 06 Vanilla, 6,8 ml",
+        "Cashewkerne, 150 g"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0006",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml; Waschmittel Renew Schwarz, 27 Wl; Mascara Lash Princess Sculpted Volume, 12 ml; Maiswaffeln, natur, 110 g; Quetschie wiederverwendbar, 3er-Pack, 3 St; Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g; Kinder Badezusatz Badebombe Dragons, 1 St; Schoko-Müsli mit Knusperflakes glutenfrei, 375 g; Rasierklingen, Comfortglide Spa Breeze, 4 St. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml; Waschmittel Renew Schwarz, 27 Wl; Mascara Lash Princess Sculpted Volume, 12 ml; Maiswaffeln, natur, 110 g; Quetschie wiederverwendbar, 3er-Pack, 3 St; Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g; Kinder Badezusatz Badebombe Dragons, 1 St; Schoko-Müsli mit Knusperflakes glutenfrei, 375 g; Rasierklingen, Comfortglide Spa Breeze, 4 St. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 101.65,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0552",
+      "doc_0244",
+      "doc_0584",
+      "doc_0068",
+      "doc_0178",
+      "doc_0530",
+      "doc_0362",
+      "doc_0242",
+      "doc_0372"
+    ],
+    "gold_subquestions": [
+      "Was kostet Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml im Einkauf?",
+      "Was kostet Waschmittel Renew Schwarz, 27 Wl im Einkauf?",
+      "Was kostet Mascara Lash Princess Sculpted Volume, 12 ml im Einkauf?",
+      "Was kostet Maiswaffeln, natur, 110 g im Einkauf?",
+      "Was kostet Quetschie wiederverwendbar, 3er-Pack, 3 St im Einkauf?",
+      "Was kostet Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g im Einkauf?",
+      "Was kostet Kinder Badezusatz Badebombe Dragons, 1 St im Einkauf?",
+      "Was kostet Schoko-Müsli mit Knusperflakes glutenfrei, 375 g im Einkauf?",
+      "Was kostet Rasierklingen, Comfortglide Spa Breeze, 4 St im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 9
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml",
+        "Waschmittel Renew Schwarz, 27 Wl",
+        "Mascara Lash Princess Sculpted Volume, 12 ml",
+        "Maiswaffeln, natur, 110 g",
+        "Quetschie wiederverwendbar, 3er-Pack, 3 St",
+        "Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g",
+        "Kinder Badezusatz Badebombe Dragons, 1 St",
+        "Schoko-Müsli mit Knusperflakes glutenfrei, 375 g",
+        "Rasierklingen, Comfortglide Spa Breeze, 4 St"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0007",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Muffin Choco, glutenfrei, 65 g; Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml; Rasierschaum Lychee Love, 150 ml; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g; Espresso, gemahlen, 250 g; Nussriegel, Karamell Meersalz, 35 g; Brot, Mehrkorn (5 Stück), glutenfrei, 250 g; Fruchtaufstrich, Rote Johannisbeere, 235 g; Trinkmahlzeit, Vanille, 330 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Muffin Choco, glutenfrei, 65 g; Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml; Rasierschaum Lychee Love, 150 ml; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g; Espresso, gemahlen, 250 g; Nussriegel, Karamell Meersalz, 35 g; Brot, Mehrkorn (5 Stück), glutenfrei, 250 g; Fruchtaufstrich, Rote Johannisbeere, 235 g; Trinkmahlzeit, Vanille, 330 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 88.53,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0276",
+      "doc_0200",
+      "doc_0408",
+      "doc_0382",
+      "doc_0428",
+      "doc_0070",
+      "doc_0110",
+      "doc_0334",
+      "doc_0328"
+    ],
+    "gold_subquestions": [
+      "Was kostet Muffin Choco, glutenfrei, 65 g im Einkauf?",
+      "Was kostet Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml im Einkauf?",
+      "Was kostet Rasierschaum Lychee Love, 150 ml im Einkauf?",
+      "Was kostet Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g im Einkauf?",
+      "Was kostet Espresso, gemahlen, 250 g im Einkauf?",
+      "Was kostet Nussriegel, Karamell Meersalz, 35 g im Einkauf?",
+      "Was kostet Brot, Mehrkorn (5 Stück), glutenfrei, 250 g im Einkauf?",
+      "Was kostet Fruchtaufstrich, Rote Johannisbeere, 235 g im Einkauf?",
+      "Was kostet Trinkmahlzeit, Vanille, 330 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 9
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Muffin Choco, glutenfrei, 65 g",
+        "Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml",
+        "Rasierschaum Lychee Love, 150 ml",
+        "Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g",
+        "Espresso, gemahlen, 250 g",
+        "Nussriegel, Karamell Meersalz, 35 g",
+        "Brot, Mehrkorn (5 Stück), glutenfrei, 250 g",
+        "Fruchtaufstrich, Rote Johannisbeere, 235 g",
+        "Trinkmahlzeit, Vanille, 330 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0008",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Toilettenpapier bewährt 3-lagig (16x150 Blatt), 16 St; Allzweckreiniger Multiflächen & Hochglanz, 500 ml; Bonbon, Lakritz, 75 g; Haargel Locken Styling Gel, 250 ml; Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Spülmittel-Gel Himbeer, 500 ml; Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Antitranspirant Deospray Maximum Protection Fresh, 150 ml; Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Toilettenpapier bewährt 3-lagig (16x150 Blatt), 16 St; Allzweckreiniger Multiflächen & Hochglanz, 500 ml; Bonbon, Lakritz, 75 g; Haargel Locken Styling Gel, 250 ml; Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Spülmittel-Gel Himbeer, 500 ml; Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Antitranspirant Deospray Maximum Protection Fresh, 150 ml; Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 109.55,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0330",
+      "doc_0194",
+      "doc_0502",
+      "doc_0124",
+      "doc_0342",
+      "doc_0524",
+      "doc_0562",
+      "doc_0512",
+      "doc_0336",
+      "doc_0472"
+    ],
+    "gold_subquestions": [
+      "Was kostet Toilettenpapier bewährt 3-lagig (16x150 Blatt), 16 St im Einkauf?",
+      "Was kostet Allzweckreiniger Multiflächen & Hochglanz, 500 ml im Einkauf?",
+      "Was kostet Bonbon, Lakritz, 75 g im Einkauf?",
+      "Was kostet Haargel Locken Styling Gel, 250 ml im Einkauf?",
+      "Was kostet Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St im Einkauf?",
+      "Was kostet Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g im Einkauf?",
+      "Was kostet Spülmittel-Gel Himbeer, 500 ml im Einkauf?",
+      "Was kostet Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g im Einkauf?",
+      "Was kostet Antitranspirant Deospray Maximum Protection Fresh, 150 ml im Einkauf?",
+      "Was kostet Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Toilettenpapier bewährt 3-lagig (16x150 Blatt), 16 St",
+        "Allzweckreiniger Multiflächen & Hochglanz, 500 ml",
+        "Bonbon, Lakritz, 75 g",
+        "Haargel Locken Styling Gel, 250 ml",
+        "Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St",
+        "Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g",
+        "Spülmittel-Gel Himbeer, 500 ml",
+        "Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g",
+        "Antitranspirant Deospray Maximum Protection Fresh, 150 ml",
+        "Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0009",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Rasierbutter Pfirsich, 150 ml; Nagelfolie Foil Nail Wraps, 100 St; natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen, 100 ml; Concealer Fit Me 06 Vanilla, 6,8 ml; Gua Sha Y-Stein Rosenquarz, 1 St; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Schokolade Nougat, 100 g; Rasierschaum Ultra Sensitive, 300 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Rasierbutter Pfirsich, 150 ml; Nagelfolie Foil Nail Wraps, 100 St; natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen, 100 ml; Concealer Fit Me 06 Vanilla, 6,8 ml; Gua Sha Y-Stein Rosenquarz, 1 St; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Schokolade Nougat, 100 g; Rasierschaum Ultra Sensitive, 300 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 95.41,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0308",
+      "doc_0526",
+      "doc_0198",
+      "doc_0546",
+      "doc_0570",
+      "doc_0442",
+      "doc_0454",
+      "doc_0480"
+    ],
+    "gold_subquestions": [
+      "Was kostet Rasierbutter Pfirsich, 150 ml im Einkauf?",
+      "Was kostet Nagelfolie Foil Nail Wraps, 100 St im Einkauf?",
+      "Was kostet natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen, 100 ml im Einkauf?",
+      "Was kostet Concealer Fit Me 06 Vanilla, 6,8 ml im Einkauf?",
+      "Was kostet Gua Sha Y-Stein Rosenquarz, 1 St im Einkauf?",
+      "Was kostet Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g im Einkauf?",
+      "Was kostet Schokolade Nougat, 100 g im Einkauf?",
+      "Was kostet Rasierschaum Ultra Sensitive, 300 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Rasierbutter Pfirsich, 150 ml",
+        "Nagelfolie Foil Nail Wraps, 100 St",
+        "natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen, 100 ml",
+        "Concealer Fit Me 06 Vanilla, 6,8 ml",
+        "Gua Sha Y-Stein Rosenquarz, 1 St",
+        "Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g",
+        "Schokolade Nougat, 100 g",
+        "Rasierschaum Ultra Sensitive, 300 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0010",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Mascara Volume Million Lashes Panorama Black, 10,5 ml; Leave-In Haarkur, für lockiges Haar, 250 ml; Tomatenmark, 200 g; Mascara Double Extension Waterproof Black, 12 ml; Deo Zerstäuber Wasserlilie, 75 ml; Nagellack Gel by 545 Tassel Free, 13,5 ml; Rasierklingen, Comfortglide Spa Breeze, 12 St; Müsliriegel, Hafer Nuss, 3er Pack, 105 g; Haarspray Sensitive, 250 ml; Flüssigseife Goodness Oud, Cedar & Amber, 500 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Mascara Volume Million Lashes Panorama Black, 10,5 ml; Leave-In Haarkur, für lockiges Haar, 250 ml; Tomatenmark, 200 g; Mascara Double Extension Waterproof Black, 12 ml; Deo Zerstäuber Wasserlilie, 75 ml; Nagellack Gel by 545 Tassel Free, 13,5 ml; Rasierklingen, Comfortglide Spa Breeze, 12 St; Müsliriegel, Hafer Nuss, 3er Pack, 105 g; Haarspray Sensitive, 250 ml; Flüssigseife Goodness Oud, Cedar & Amber, 500 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 111.47,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0236",
+      "doc_0268",
+      "doc_0008",
+      "doc_0444",
+      "doc_0390",
+      "doc_0182",
+      "doc_0080",
+      "doc_0554",
+      "doc_0018",
+      "doc_0306"
+    ],
+    "gold_subquestions": [
+      "Was kostet Mascara Volume Million Lashes Panorama Black, 10,5 ml im Einkauf?",
+      "Was kostet Leave-In Haarkur, für lockiges Haar, 250 ml im Einkauf?",
+      "Was kostet Tomatenmark, 200 g im Einkauf?",
+      "Was kostet Mascara Double Extension Waterproof Black, 12 ml im Einkauf?",
+      "Was kostet Deo Zerstäuber Wasserlilie, 75 ml im Einkauf?",
+      "Was kostet Nagellack Gel by 545 Tassel Free, 13,5 ml im Einkauf?",
+      "Was kostet Rasierklingen, Comfortglide Spa Breeze, 12 St im Einkauf?",
+      "Was kostet Müsliriegel, Hafer Nuss, 3er Pack, 105 g im Einkauf?",
+      "Was kostet Haarspray Sensitive, 250 ml im Einkauf?",
+      "Was kostet Flüssigseife Goodness Oud, Cedar & Amber, 500 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Mascara Volume Million Lashes Panorama Black, 10,5 ml",
+        "Leave-In Haarkur, für lockiges Haar, 250 ml",
+        "Tomatenmark, 200 g",
+        "Mascara Double Extension Waterproof Black, 12 ml",
+        "Deo Zerstäuber Wasserlilie, 75 ml",
+        "Nagellack Gel by 545 Tassel Free, 13,5 ml",
+        "Rasierklingen, Comfortglide Spa Breeze, 12 St",
+        "Müsliriegel, Hafer Nuss, 3er Pack, 105 g",
+        "Haarspray Sensitive, 250 ml",
+        "Flüssigseife Goodness Oud, Cedar & Amber, 500 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0011",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Deo Zerstäuber Wasserlilie, 75 ml; Direktsaft, Apfel-Mango, 0,33 l; Conditioner The Foundation, 300 ml; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g; Foundation Make-Up Classic Teint, 30 ml; Frucht & Getreide Apfel Banane mit Zwieback, ab dem 5. Monat, 250 g; Shampoo Nourishing, 250 ml; Müsli Kekse, ab 3 Jahren, 125 g; Tuchmaske Reiswasser, 1 St. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Deo Zerstäuber Wasserlilie, 75 ml; Direktsaft, Apfel-Mango, 0,33 l; Conditioner The Foundation, 300 ml; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g; Foundation Make-Up Classic Teint, 30 ml; Frucht & Getreide Apfel Banane mit Zwieback, ab dem 5. Monat, 250 g; Shampoo Nourishing, 250 ml; Müsli Kekse, ab 3 Jahren, 125 g; Tuchmaske Reiswasser, 1 St. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 80.95,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0390",
+      "doc_0484",
+      "doc_0364",
+      "doc_0490",
+      "doc_0522",
+      "doc_0138",
+      "doc_0478",
+      "doc_0400",
+      "doc_0300"
+    ],
+    "gold_subquestions": [
+      "Was kostet Deo Zerstäuber Wasserlilie, 75 ml im Einkauf?",
+      "Was kostet Direktsaft, Apfel-Mango, 0,33 l im Einkauf?",
+      "Was kostet Conditioner The Foundation, 300 ml im Einkauf?",
+      "Was kostet Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g im Einkauf?",
+      "Was kostet Foundation Make-Up Classic Teint, 30 ml im Einkauf?",
+      "Was kostet Frucht & Getreide Apfel Banane mit Zwieback, ab dem 5. Monat, 250 g im Einkauf?",
+      "Was kostet Shampoo Nourishing, 250 ml im Einkauf?",
+      "Was kostet Müsli Kekse, ab 3 Jahren, 125 g im Einkauf?",
+      "Was kostet Tuchmaske Reiswasser, 1 St im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 9
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Deo Zerstäuber Wasserlilie, 75 ml",
+        "Direktsaft, Apfel-Mango, 0,33 l",
+        "Conditioner The Foundation, 300 ml",
+        "Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g",
+        "Foundation Make-Up Classic Teint, 30 ml",
+        "Frucht & Getreide Apfel Banane mit Zwieback, ab dem 5. Monat, 250 g",
+        "Shampoo Nourishing, 250 ml",
+        "Müsli Kekse, ab 3 Jahren, 125 g",
+        "Tuchmaske Reiswasser, 1 St"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0012",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Kaffee, Caffè de Peru gemahlen, 500 g; Dinkel Zwieback, 200 g; Haaröl Traumlocken, 100 ml; Antitranspirant Deo Roll-on Classic, 50 ml; Karamell-Keks Creme, Lovely Caramel, 190 g; Bonbon, Fresh Mint, zuckerfrei, 75 g; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus, 250 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Kaffee, Caffè de Peru gemahlen, 500 g; Dinkel Zwieback, 200 g; Haaröl Traumlocken, 100 ml; Antitranspirant Deo Roll-on Classic, 50 ml; Karamell-Keks Creme, Lovely Caramel, 190 g; Bonbon, Fresh Mint, zuckerfrei, 75 g; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus, 250 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 77.14,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0420",
+      "doc_0450",
+      "doc_0220",
+      "doc_0112",
+      "doc_0084",
+      "doc_0550",
+      "doc_0442",
+      "doc_0488"
+    ],
+    "gold_subquestions": [
+      "Was kostet Kaffee, Caffè de Peru gemahlen, 500 g im Einkauf?",
+      "Was kostet Dinkel Zwieback, 200 g im Einkauf?",
+      "Was kostet Haaröl Traumlocken, 100 ml im Einkauf?",
+      "Was kostet Antitranspirant Deo Roll-on Classic, 50 ml im Einkauf?",
+      "Was kostet Karamell-Keks Creme, Lovely Caramel, 190 g im Einkauf?",
+      "Was kostet Bonbon, Fresh Mint, zuckerfrei, 75 g im Einkauf?",
+      "Was kostet Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g im Einkauf?",
+      "Was kostet Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus, 250 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Kaffee, Caffè de Peru gemahlen, 500 g",
+        "Dinkel Zwieback, 200 g",
+        "Haaröl Traumlocken, 100 ml",
+        "Antitranspirant Deo Roll-on Classic, 50 ml",
+        "Karamell-Keks Creme, Lovely Caramel, 190 g",
+        "Bonbon, Fresh Mint, zuckerfrei, 75 g",
+        "Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g",
+        "Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus, 250 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0013",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Fruchtmi, Fruity Bears, 100 g; Waschmittel Renew Schwarz, 27 Wl; Kreuzkümmel, gemahlen, 40 g; Waffel Snack, 150 g; Menü Spaghetti Bolognese nach dem ab 5. Monat, 190 g; Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate, 2 St; Getränkepulver, Milchshake Typ Blaubeer, 75 g; Foundation True Match Hyaluron Tinted Balm 4 Light Medium, 8 g; Haaröl Coconut Infused Oil, 100 ml; Mascara Volume Million Lashes Panorama Black, 10,5 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Fruchtmi, Fruity Bears, 100 g; Waschmittel Renew Schwarz, 27 Wl; Kreuzkümmel, gemahlen, 40 g; Waffel Snack, 150 g; Menü Spaghetti Bolognese nach dem ab 5. Monat, 190 g; Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate, 2 St; Getränkepulver, Milchshake Typ Blaubeer, 75 g; Foundation True Match Hyaluron Tinted Balm 4 Light Medium, 8 g; Haaröl Coconut Infused Oil, 100 ml; Mascara Volume Million Lashes Panorama Black, 10,5 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 104.8,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0322",
+      "doc_0244",
+      "doc_0492",
+      "doc_0332",
+      "doc_0088",
+      "doc_0278",
+      "doc_0098",
+      "doc_0074",
+      "doc_0410",
+      "doc_0236"
+    ],
+    "gold_subquestions": [
+      "Was kostet Fruchtmi, Fruity Bears, 100 g im Einkauf?",
+      "Was kostet Waschmittel Renew Schwarz, 27 Wl im Einkauf?",
+      "Was kostet Kreuzkümmel, gemahlen, 40 g im Einkauf?",
+      "Was kostet Waffel Snack, 150 g im Einkauf?",
+      "Was kostet Menü Spaghetti Bolognese nach dem ab 5. Monat, 190 g im Einkauf?",
+      "Was kostet Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate, 2 St im Einkauf?",
+      "Was kostet Getränkepulver, Milchshake Typ Blaubeer, 75 g im Einkauf?",
+      "Was kostet Foundation True Match Hyaluron Tinted Balm 4 Light Medium, 8 g im Einkauf?",
+      "Was kostet Haaröl Coconut Infused Oil, 100 ml im Einkauf?",
+      "Was kostet Mascara Volume Million Lashes Panorama Black, 10,5 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Fruchtmi, Fruity Bears, 100 g",
+        "Waschmittel Renew Schwarz, 27 Wl",
+        "Kreuzkümmel, gemahlen, 40 g",
+        "Waffel Snack, 150 g",
+        "Menü Spaghetti Bolognese nach dem ab 5. Monat, 190 g",
+        "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate, 2 St",
+        "Getränkepulver, Milchshake Typ Blaubeer, 75 g",
+        "Foundation True Match Hyaluron Tinted Balm 4 Light Medium, 8 g",
+        "Haaröl Coconut Infused Oil, 100 ml",
+        "Mascara Volume Million Lashes Panorama Black, 10,5 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0014",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Nuss- & Fruchtmischung, Tropic Mix, 200 g; Zahnpasta Zahnschmelz Professional Opti-schmelz, 75 ml; Mascara Grow & Tint Deep Black, 12 ml; Gesichtscreme Basis Sensitiv feuchtigkeitsspendend, 50 ml; Men Pre Electric Shave Lotion, 100 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Nuss- & Fruchtmischung, Tropic Mix, 200 g; Zahnpasta Zahnschmelz Professional Opti-schmelz, 75 ml; Mascara Grow & Tint Deep Black, 12 ml; Gesichtscreme Basis Sensitiv feuchtigkeitsspendend, 50 ml; Men Pre Electric Shave Lotion, 100 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 63.98,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0436",
+      "doc_0232",
+      "doc_0146",
+      "doc_0528",
+      "doc_0446",
+      "doc_0498",
+      "doc_0288"
+    ],
+    "gold_subquestions": [
+      "Was kostet Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g im Einkauf?",
+      "Was kostet Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g im Einkauf?",
+      "Was kostet Nuss- & Fruchtmischung, Tropic Mix, 200 g im Einkauf?",
+      "Was kostet Zahnpasta Zahnschmelz Professional Opti-schmelz, 75 ml im Einkauf?",
+      "Was kostet Mascara Grow & Tint Deep Black, 12 ml im Einkauf?",
+      "Was kostet Gesichtscreme Basis Sensitiv feuchtigkeitsspendend, 50 ml im Einkauf?",
+      "Was kostet Men Pre Electric Shave Lotion, 100 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 7
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g",
+        "Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g",
+        "Nuss- & Fruchtmischung, Tropic Mix, 200 g",
+        "Zahnpasta Zahnschmelz Professional Opti-schmelz, 75 ml",
+        "Mascara Grow & Tint Deep Black, 12 ml",
+        "Gesichtscreme Basis Sensitiv feuchtigkeitsspendend, 50 ml",
+        "Men Pre Electric Shave Lotion, 100 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0015",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Shampoo Honig , 400 ml; Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml; Kinder Badezusatz Badebombe Dragons, 1 St; Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g; Nagellack 27 Watermelon, 13,5 ml; Handcreme Urea, 100 ml; Bonbon, Fresh Mint, zuckerfrei, 75 g; Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Shampoo Honig , 400 ml; Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml; Kinder Badezusatz Badebombe Dragons, 1 St; Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g; Nagellack 27 Watermelon, 13,5 ml; Handcreme Urea, 100 ml; Bonbon, Fresh Mint, zuckerfrei, 75 g; Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 46.17,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0042",
+      "doc_0296",
+      "doc_0362",
+      "doc_0188",
+      "doc_0140",
+      "doc_0104",
+      "doc_0550",
+      "doc_0156"
+    ],
+    "gold_subquestions": [
+      "Was kostet Shampoo Honig , 400 ml im Einkauf?",
+      "Was kostet Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml im Einkauf?",
+      "Was kostet Kinder Badezusatz Badebombe Dragons, 1 St im Einkauf?",
+      "Was kostet Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g im Einkauf?",
+      "Was kostet Nagellack 27 Watermelon, 13,5 ml im Einkauf?",
+      "Was kostet Handcreme Urea, 100 ml im Einkauf?",
+      "Was kostet Bonbon, Fresh Mint, zuckerfrei, 75 g im Einkauf?",
+      "Was kostet Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Shampoo Honig , 400 ml",
+        "Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml",
+        "Kinder Badezusatz Badebombe Dragons, 1 St",
+        "Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g",
+        "Nagellack 27 Watermelon, 13,5 ml",
+        "Handcreme Urea, 100 ml",
+        "Bonbon, Fresh Mint, zuckerfrei, 75 g",
+        "Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0016",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Wattepads Maxi mit Seide, 60 St; Kinderkekse Haselnussecken, ab 3 Jahren, 30 g; Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g; Haaröl Coconut Miracle Oil, 100 ml; Antitranspirant Deo Roll-on Classic, 50 ml; Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g; Flüssigseife Rosemary & Ginger, 250 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Wattepads Maxi mit Seide, 60 St; Kinderkekse Haselnussecken, ab 3 Jahren, 30 g; Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g; Haaröl Coconut Miracle Oil, 100 ml; Antitranspirant Deo Roll-on Classic, 50 ml; Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g; Flüssigseife Rosemary & Ginger, 250 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 85.27,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0422",
+      "doc_0282",
+      "doc_0458",
+      "doc_0574",
+      "doc_0452",
+      "doc_0112",
+      "doc_0252",
+      "doc_0136"
+    ],
+    "gold_subquestions": [
+      "Was kostet Nussmischung, Gerösteter Edelnuss-Mix, 160 g im Einkauf?",
+      "Was kostet Wattepads Maxi mit Seide, 60 St im Einkauf?",
+      "Was kostet Kinderkekse Haselnussecken, ab 3 Jahren, 30 g im Einkauf?",
+      "Was kostet Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g im Einkauf?",
+      "Was kostet Haaröl Coconut Miracle Oil, 100 ml im Einkauf?",
+      "Was kostet Antitranspirant Deo Roll-on Classic, 50 ml im Einkauf?",
+      "Was kostet Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g im Einkauf?",
+      "Was kostet Flüssigseife Rosemary & Ginger, 250 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Nussmischung, Gerösteter Edelnuss-Mix, 160 g",
+        "Wattepads Maxi mit Seide, 60 St",
+        "Kinderkekse Haselnussecken, ab 3 Jahren, 30 g",
+        "Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g",
+        "Haaröl Coconut Miracle Oil, 100 ml",
+        "Antitranspirant Deo Roll-on Classic, 50 ml",
+        "Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g",
+        "Flüssigseife Rosemary & Ginger, 250 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0017",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Haaröl Hydro Shine, 30 ml; Deospray Dusch Frische, 150 ml; Babysnack Knusper Flips Tomate-Karotte ab 8 Monaten, 30 g; Butterkekse, Dinkel, 150 g; Windeln Premium Gr. 5 (13-18 kg), 26 St; Feuchttücher Ultra sensitiv 5x48 St., 240 St; Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g; Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml; Fruchtaufstrich, Himbeere 55% Frucht, 340 g; Kindermüsli Beeren ab dem 10. Monat, 200 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Haaröl Hydro Shine, 30 ml; Deospray Dusch Frische, 150 ml; Babysnack Knusper Flips Tomate-Karotte ab 8 Monaten, 30 g; Butterkekse, Dinkel, 150 g; Windeln Premium Gr. 5 (13-18 kg), 26 St; Feuchttücher Ultra sensitiv 5x48 St., 240 St; Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g; Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml; Fruchtaufstrich, Himbeere 55% Frucht, 340 g; Kindermüsli Beeren ab dem 10. Monat, 200 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 98.17,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0366",
+      "doc_0412",
+      "doc_0476",
+      "doc_0078",
+      "doc_0172",
+      "doc_0374",
+      "doc_0160",
+      "doc_0384",
+      "doc_0152",
+      "doc_0504"
+    ],
+    "gold_subquestions": [
+      "Was kostet Haaröl Hydro Shine, 30 ml im Einkauf?",
+      "Was kostet Deospray Dusch Frische, 150 ml im Einkauf?",
+      "Was kostet Babysnack Knusper Flips Tomate-Karotte ab 8 Monaten, 30 g im Einkauf?",
+      "Was kostet Butterkekse, Dinkel, 150 g im Einkauf?",
+      "Was kostet Windeln Premium Gr. 5 (13-18 kg), 26 St im Einkauf?",
+      "Was kostet Feuchttücher Ultra sensitiv 5x48 St., 240 St im Einkauf?",
+      "Was kostet Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g im Einkauf?",
+      "Was kostet Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml im Einkauf?",
+      "Was kostet Fruchtaufstrich, Himbeere 55% Frucht, 340 g im Einkauf?",
+      "Was kostet Kindermüsli Beeren ab dem 10. Monat, 200 g im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 10
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Haaröl Hydro Shine, 30 ml",
+        "Deospray Dusch Frische, 150 ml",
+        "Babysnack Knusper Flips Tomate-Karotte ab 8 Monaten, 30 g",
+        "Butterkekse, Dinkel, 150 g",
+        "Windeln Premium Gr. 5 (13-18 kg), 26 St",
+        "Feuchttücher Ultra sensitiv 5x48 St., 240 St",
+        "Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g",
+        "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml",
+        "Fruchtaufstrich, Himbeere 55% Frucht, 340 g",
+        "Kindermüsli Beeren ab dem 10. Monat, 200 g"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0018",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Concealer Fit Me 06 Vanilla, 6,8 ml; Direktsaft, Apfel-Mango, 0,33 l; Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g; Mascara Volume Million Lashes Panorama Black, 10,5 ml; Pesto, Artischocken & Zitrone, 120 g; Quetschie wiederverwendbar, 3er-Pack, 3 St; Muffin Choco, glutenfrei, 65 g; Pflanzendrink, Cashew natur, 1 l. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Concealer Fit Me 06 Vanilla, 6,8 ml; Direktsaft, Apfel-Mango, 0,33 l; Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g; Mascara Volume Million Lashes Panorama Black, 10,5 ml; Pesto, Artischocken & Zitrone, 120 g; Quetschie wiederverwendbar, 3er-Pack, 3 St; Muffin Choco, glutenfrei, 65 g; Pflanzendrink, Cashew natur, 1 l. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 112.45,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0546",
+      "doc_0484",
+      "doc_0108",
+      "doc_0236",
+      "doc_0432",
+      "doc_0178",
+      "doc_0276",
+      "doc_0474"
+    ],
+    "gold_subquestions": [
+      "Was kostet Concealer Fit Me 06 Vanilla, 6,8 ml im Einkauf?",
+      "Was kostet Direktsaft, Apfel-Mango, 0,33 l im Einkauf?",
+      "Was kostet Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g im Einkauf?",
+      "Was kostet Mascara Volume Million Lashes Panorama Black, 10,5 ml im Einkauf?",
+      "Was kostet Pesto, Artischocken & Zitrone, 120 g im Einkauf?",
+      "Was kostet Quetschie wiederverwendbar, 3er-Pack, 3 St im Einkauf?",
+      "Was kostet Muffin Choco, glutenfrei, 65 g im Einkauf?",
+      "Was kostet Pflanzendrink, Cashew natur, 1 l im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 8
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Concealer Fit Me 06 Vanilla, 6,8 ml",
+        "Direktsaft, Apfel-Mango, 0,33 l",
+        "Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g",
+        "Mascara Volume Million Lashes Panorama Black, 10,5 ml",
+        "Pesto, Artischocken & Zitrone, 120 g",
+        "Quetschie wiederverwendbar, 3er-Pack, 3 St",
+        "Muffin Choco, glutenfrei, 65 g",
+        "Pflanzendrink, Cashew natur, 1 l"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  },
+  {
+    "item_id": "combined_0019",
+    "category": "combined",
+    "raw_question": "Es geht um folgende Produkte: Direktsaft, Apfel-Mango, 0,33 l; Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g; Fertiggericht, Noodle Cup Kräuter-Creme-Sauce, 61 g; Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Müsli, Choco Balls, glutenfrei, 275 g; Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "question_text": "Es geht um folgende Produkte: Direktsaft, Apfel-Mango, 0,33 l; Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g; Fertiggericht, Noodle Cup Kräuter-Creme-Sauce, 61 g; Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Müsli, Choco Balls, glutenfrei, 275 g; Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
+    "answer_type": "number",
+    "gold_answer": 69.15,
+    "accepted_answers": [],
+    "gold_documents": [
+      "doc_0484",
+      "doc_0404",
+      "doc_0286",
+      "doc_0422",
+      "doc_0222",
+      "doc_0460"
+    ],
+    "gold_subquestions": [
+      "Was kostet Direktsaft, Apfel-Mango, 0,33 l im Einkauf?",
+      "Was kostet Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g im Einkauf?",
+      "Was kostet Fertiggericht, Noodle Cup Kräuter-Creme-Sauce, 61 g im Einkauf?",
+      "Was kostet Nussmischung, Gerösteter Edelnuss-Mix, 160 g im Einkauf?",
+      "Was kostet Müsli, Choco Balls, glutenfrei, 275 g im Einkauf?",
+      "Was kostet Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml im Einkauf?"
+    ],
+    "dependency_graph": {
+      "type": "parallel",
+      "branches": 6
+    },
+    "seed": 42,
+    "number_kind": "preis",
+    "skeleton": {
+      "entities": [
+        "Direktsaft, Apfel-Mango, 0,33 l",
+        "Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g",
+        "Fertiggericht, Noodle Cup Kräuter-Creme-Sauce, 61 g",
+        "Nussmischung, Gerösteter Edelnuss-Mix, 160 g",
+        "Müsli, Choco Balls, glutenfrei, 275 g",
+        "Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml"
+      ],
+      "ask": "Wie hoch ist die Summe der Einkaufspreise dieser Produkte?"
+    }
+  }
+]

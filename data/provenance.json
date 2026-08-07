@@ -1,0 +1,21 @@
+{
+  "generated_at_utc": "2026-08-07T11:59:18.174636+00:00",
+  "git_commit": "451adb7ae96d5890ea4683218e574ad721b0b78a",
+  "config_sha256": "29429adcf2b37aec89fd46e1462c15f71221ba1a80bbb314fb40fb79f0c9e2c5",
+  "seed": 42,
+  "gen_model": "DeepSeek-V4-Flash",
+  "gate_models": [
+    "Kimi-K2.6",
+    "DeepSeek-V4-Pro",
+    "gpt-oss-120b"
+  ],
+  "stage_sha256": {
+    "products": "f9e16975ce65efa4aa65d64d3216a38953e3fce69751ba56eac023609712a167",
+    "names": "d3c7aa1d073301fc5c9d3d2e4f1a46cc1cde77b0a84255f835d5e86929f2600f",
+    "graph": "0da4032273a3598b32246d8532d1986c27e9d6db516268b05d3a258673026a3e",
+    "corpus": "a14306d95f8137ea42b7ffff4674b21154cf650dd9338748a944eb24aa2f244e",
+    "questions_raw": "d2d6f80d3664ea1a1771ca556a233649187134f844cd77f27b4454ad6b3957e6",
+    "questions_spoken": "ee9aec18fea1762523d72c0812b499cfc64ac762897084fc5f2648fe640a8456",
+    "questions": "7f79a6ded1f3dc75f51a577f3b38faf21c671072decfd92326ef2e586d25094a"
+  }
+}

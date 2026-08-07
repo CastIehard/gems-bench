@@ -1,0 +1,2990 @@
+[
+  {
+    "dan": 1435866,
+    "descriptor": "Nagellack Gel by 485 Princess Charming, 13,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 13.5,
+      "unit": "ml",
+      "grams": 13.5
+    }
+  },
+  {
+    "dan": 3136010,
+    "descriptor": "Conditioner Locken, 200 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "ml",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 1602876,
+    "descriptor": "Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat, 190 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 190.0,
+      "unit": "g",
+      "grams": 190.0
+    }
+  },
+  {
+    "dan": 1610385,
+    "descriptor": "Feuchttücher (9x60 St), 540 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 60.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1446420,
+    "descriptor": "Tomatenmark, 200 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "g",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 1572138,
+    "descriptor": "Concealer Skin Lovin' Sensitive 20 Medium, 3,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 3.5,
+      "unit": "ml",
+      "grams": 3.5
+    }
+  },
+  {
+    "dan": 1641155,
+    "descriptor": "Tuchmaske Vitamin C, 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1690812,
+    "descriptor": "Küchenrolle Wisch&Weg eXtra Lang (2x86 Blatt), 2 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 2.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1666931,
+    "descriptor": "Paprika, edelsüß, 70 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 70.0,
+      "unit": "g",
+      "grams": 70.0
+    }
+  },
+  {
+    "dan": 1604243,
+    "descriptor": "Haarspray Sensitive, 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1650295,
+    "descriptor": "Küchenrolle Wisch&Weg Reinweiss (8x45 Blatt), 8 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 8.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1559917,
+    "descriptor": "Fruchtaufstrich, Erdbeere mit Xylit, 220 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 220.0,
+      "unit": "g",
+      "grams": 220.0
+    }
+  },
+  {
+    "dan": 3064569,
+    "descriptor": "Saft, Bitter Kräuter, 0,33 l",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 0.33,
+      "unit": "l",
+      "grams": 330.0
+    }
+  },
+  {
+    "dan": 1474650,
+    "descriptor": "Foundation Liquid HD Coverage 30 Sand Beige, 30 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "ml",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 3115599,
+    "descriptor": "Pekannüsse, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1439546,
+    "descriptor": "Nudeln, Penne aus Hartweizen, No.66, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3133321,
+    "descriptor": "Mundspülung Total Care Intensive Minze alkoholfrei, 500 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1714605,
+    "descriptor": "Sesamöl, 0,25 l",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 0.25,
+      "unit": "l",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1257432,
+    "descriptor": "Magnesium 400 + Vitamine B6 + B12 + Folsäure Brausetabletten 15 St., 97,5 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 15.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1588391,
+    "descriptor": "Aprés Shave Lotion, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1690032,
+    "descriptor": "Rasierklingen, Mach3, 6 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 6.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1670316,
+    "descriptor": "Shampoo Honig , 400 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 400.0,
+      "unit": "ml",
+      "grams": 400.0
+    }
+  },
+  {
+    "dan": 3111420,
+    "descriptor": "Sirup Wildberry Geschmack, vegan, 65 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 65.0,
+      "unit": "ml",
+      "grams": 65.0
+    }
+  },
+  {
+    "dan": 1679591,
+    "descriptor": "Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1490717,
+    "descriptor": "Kaffee, Espresso, gemahlen, 250 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "g",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 3122091,
+    "descriptor": "Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 8.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1690673,
+    "descriptor": "Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 400.0,
+      "unit": "g",
+      "grams": 400.0
+    }
+  },
+  {
+    "dan": 1711512,
+    "descriptor": "Schokoriegel Milch, 23 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 23.0,
+      "unit": "g",
+      "grams": 23.0
+    }
+  },
+  {
+    "dan": 1569712,
+    "descriptor": "Entkalker Kaffeemaschinen, 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1586139,
+    "descriptor": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 400.0,
+      "unit": "g",
+      "grams": 400.0
+    }
+  },
+  {
+    "dan": 3123420,
+    "descriptor": "Lockencreme Traumlocken, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1580424,
+    "descriptor": "Zahnpasta Juniorzahn 6-13 Jahren, 75 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "ml",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 1621825,
+    "descriptor": "Haaröl Öl Magique Jojoba, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1468872,
+    "descriptor": "Walnusskerne, 150 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "g",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1453919,
+    "descriptor": "Maiswaffeln, natur, 110 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 110.0,
+      "unit": "g",
+      "grams": 110.0
+    }
+  },
+  {
+    "dan": 1697235,
+    "descriptor": "Nussriegel, Karamell Meersalz, 35 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 35.0,
+      "unit": "g",
+      "grams": 35.0
+    }
+  },
+  {
+    "dan": 1573424,
+    "descriptor": "Gelbe Linsen, 500 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3123220,
+    "descriptor": "Foundation True Match Hyaluron Tinted Balm 4 Light Medium, 8 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 8.0,
+      "unit": "g",
+      "grams": 8.0
+    }
+  },
+  {
+    "dan": 3106118,
+    "descriptor": "Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 340.0,
+      "unit": "g",
+      "grams": 340.0
+    }
+  },
+  {
+    "dan": 1593476,
+    "descriptor": "Butterkekse, Dinkel, 150 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "g",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 3047971,
+    "descriptor": "Rasierklingen, Comfortglide Spa Breeze, 12 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 12.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1622873,
+    "descriptor": "Nachtcreme Beauty Hyaluron, 50 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "ml",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 3144585,
+    "descriptor": "Karamell-Keks Creme, Lovely Caramel, 190 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 190.0,
+      "unit": "g",
+      "grams": 190.0
+    }
+  },
+  {
+    "dan": 3046055,
+    "descriptor": "Mundspülung Super Clean, 500 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1078541,
+    "descriptor": "Menü Spaghetti Bolognese nach dem ab 5. Monat, 190 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 190.0,
+      "unit": "g",
+      "grams": 190.0
+    }
+  },
+  {
+    "dan": 1626329,
+    "descriptor": "Mundspülung All in One, 500 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 2971957,
+    "descriptor": "Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 90.0,
+      "unit": "g",
+      "grams": 90.0
+    }
+  },
+  {
+    "dan": 3130922,
+    "descriptor": "Kichererbsenwaffeln Zartbitter, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1496215,
+    "descriptor": "Gesichtswasser Anti-Mitesser, 200 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "ml",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 3122094,
+    "descriptor": "Getränkepulver, Milchshake Typ Blaubeer, 75 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "g",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 3064221,
+    "descriptor": "Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 12.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1640487,
+    "descriptor": "Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1578748,
+    "descriptor": "Handcreme Urea, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1338241,
+    "descriptor": "Nagellack 13 Mademoiselle Rosé, 13,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 13.5,
+      "unit": "ml",
+      "grams": 13.5
+    }
+  },
+  {
+    "dan": 1603447,
+    "descriptor": "Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 340.0,
+      "unit": "g",
+      "grams": 340.0
+    }
+  },
+  {
+    "dan": 1521335,
+    "descriptor": "Brot, Mehrkorn (5 Stück), glutenfrei, 250 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 5.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1305847,
+    "descriptor": "Antitranspirant Deo Roll-on Classic, 50 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "ml",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 3048828,
+    "descriptor": "Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 175.0,
+      "unit": "ml",
+      "grams": 175.0
+    }
+  },
+  {
+    "dan": 1647251,
+    "descriptor": "Baby Waschschaum sensitiv, Nachfüllpack, 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 3057346,
+    "descriptor": "Geschenkset HYDRO Magnolienblüte & Mandelmilch 3tlg, 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1449336,
+    "descriptor": "Kokosblütenzucker, 250 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "g",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 3038273,
+    "descriptor": "Zahnseidesticks Clean PRO Lemon-Minze fluorid antibakteriell, 48 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 48.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1458835,
+    "descriptor": "Haargel Locken Styling Gel, 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1457931,
+    "descriptor": "Risottoreis Carnaroli, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1705001,
+    "descriptor": "Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel), 40 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 40.0,
+      "unit": "g",
+      "grams": 40.0
+    }
+  },
+  {
+    "dan": 1490004,
+    "descriptor": "Rote Linsen, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3065638,
+    "descriptor": "Flüssigseife sensitiv, 300 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 300.0,
+      "unit": "ml",
+      "grams": 300.0
+    }
+  },
+  {
+    "dan": 1452779,
+    "descriptor": "Colorwaschmittel Blütenrausch, 27 Wl",
+    "is_food": false,
+    "fuellmenge": null
+  },
+  {
+    "dan": 1525298,
+    "descriptor": "Flüssigseife Rosemary & Ginger, 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1551278,
+    "descriptor": "Frucht & Getreide Apfel Banane mit Zwieback, ab dem 5. Monat, 250 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "g",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1338236,
+    "descriptor": "Nagellack 27 Watermelon, 13,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 13.5,
+      "unit": "ml",
+      "grams": 13.5
+    }
+  },
+  {
+    "dan": 1376376,
+    "descriptor": "Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 300.0,
+      "unit": "ml",
+      "grams": 300.0
+    }
+  },
+  {
+    "dan": 3057408,
+    "descriptor": "Nagellackentferner Pads Grüner Tee und Apfel, 30 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3095503,
+    "descriptor": "Nuss- & Fruchtmischung, Tropic Mix, 200 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "g",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 1427532,
+    "descriptor": "Glasreiniger mit Glanzschutz-Formel, 1 l",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "l",
+      "grams": 1000.0
+    }
+  },
+  {
+    "dan": 3121666,
+    "descriptor": "Korrekturstäbchen für Make-Up, 120 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 120.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1603442,
+    "descriptor": "Fruchtaufstrich, Himbeere 55% Frucht, 340 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 340.0,
+      "unit": "g",
+      "grams": 340.0
+    }
+  },
+  {
+    "dan": 1000557,
+    "descriptor": "Handwaschmittel in der Tube für die se & daheim, 125 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 125.0,
+      "unit": "ml",
+      "grams": 125.0
+    }
+  },
+  {
+    "dan": 3079978,
+    "descriptor": "Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 330.0,
+      "unit": "ml",
+      "grams": 330.0
+    }
+  },
+  {
+    "dan": 1675627,
+    "descriptor": "Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 25.0,
+      "unit": "g",
+      "grams": 25.0
+    }
+  },
+  {
+    "dan": 1718673,
+    "descriptor": "Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "g",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 3116959,
+    "descriptor": "Festes Shampoo Rosmarin-Öl & Meersalz, 60 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 60.0,
+      "unit": "g",
+      "grams": 60.0
+    }
+  },
+  {
+    "dan": 1446463,
+    "descriptor": "Weizenmehl Type 1050, 1 kg",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "kg",
+      "grams": 1000.0
+    }
+  },
+  {
+    "dan": 3137491,
+    "descriptor": "Kindersnack Kakao Waffeln ab 3 Jahren, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1689252,
+    "descriptor": "Antitranspirant Deospray Advanced Care Original, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 3115713,
+    "descriptor": "Vegane Mayo, 250 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 2969840,
+    "descriptor": "Windeln Premium Gr. 5 (13-18 kg), 26 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 18.0,
+      "unit": "kg",
+      "grams": 18000.0
+    }
+  },
+  {
+    "dan": 1433703,
+    "descriptor": "Trinkmahlzeit Keks ab 10. Monat, 2x200ml, 0,4 l",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "ml",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 1577829,
+    "descriptor": "Espresso ganze Bohnen, 1 kg",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "kg",
+      "grams": 1000.0
+    }
+  },
+  {
+    "dan": 1535318,
+    "descriptor": "Quetschie wiederverwendbar, 3er-Pack, 3 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 3.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3080272,
+    "descriptor": "Kindersnack Erdbeer-Fruchtchips ab 3 Jahren, 12 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 12.0,
+      "unit": "g",
+      "grams": 12.0
+    }
+  },
+  {
+    "dan": 1458686,
+    "descriptor": "Nagellack Gel by 545 Tassel Free, 13,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 13.5,
+      "unit": "ml",
+      "grams": 13.5
+    }
+  },
+  {
+    "dan": 1693644,
+    "descriptor": "Erfrischungsgetränk, Wasser + Koffein Zitrone-Limette, 500 ml EINWEG",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1490263,
+    "descriptor": "Gemüsebrühwürfel, 66 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 66.0,
+      "unit": "g",
+      "grams": 66.0
+    }
+  },
+  {
+    "dan": 1690709,
+    "descriptor": "Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1523357,
+    "descriptor": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 3058686,
+    "descriptor": "Colorwaschmittel flüssig Magic Wash, 21 Wl",
+    "is_food": false,
+    "fuellmenge": null
+  },
+  {
+    "dan": 3080723,
+    "descriptor": "Allzweckreiniger Multiflächen & Hochglanz, 500 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1635252,
+    "descriptor": "Kaffee Entkoffeiniert löslich, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1578707,
+    "descriptor": "natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen, 100 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1315090,
+    "descriptor": "Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 360.0,
+      "unit": "ml",
+      "grams": 360.0
+    }
+  },
+  {
+    "dan": 3112329,
+    "descriptor": "Trinkmahlzeit, Real Meal Berry, 500 ml EINWEG",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3103724,
+    "descriptor": "Trockenfrüchte, Datteln mit Geschmack, Cinnamon Roll, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1588699,
+    "descriptor": "Müsli Crunchy, Schoko, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 2483113,
+    "descriptor": "UV Nagellackentferner Gel Aceton, 87 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 87.0,
+      "unit": "ml",
+      "grams": 87.0
+    }
+  },
+  {
+    "dan": 3133294,
+    "descriptor": "Mundspülung Cool Mint Extra Milde Minze alkoholfrei, 500 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3116732,
+    "descriptor": "Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "ml",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 1630230,
+    "descriptor": "Nagellackentferner acetonfrei, 125 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 125.0,
+      "unit": "ml",
+      "grams": 125.0
+    }
+  },
+  {
+    "dan": 2978510,
+    "descriptor": "Nagellack Effekt 7 Identity, 13,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 13.5,
+      "unit": "ml",
+      "grams": 13.5
+    }
+  },
+  {
+    "dan": 1534354,
+    "descriptor": "Whey Proteinpulver Vanille Geschmack, 450 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 450.0,
+      "unit": "g",
+      "grams": 450.0
+    }
+  },
+  {
+    "dan": 1635760,
+    "descriptor": "Haaröl Traumlocken, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1713869,
+    "descriptor": "Müsli, Choco Balls, glutenfrei, 275 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 275.0,
+      "unit": "g",
+      "grams": 275.0
+    }
+  },
+  {
+    "dan": 2476560,
+    "descriptor": "Haferriegel, Oat Bar Cocoa, 60 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 60.0,
+      "unit": "g",
+      "grams": 60.0
+    }
+  },
+  {
+    "dan": 1582120,
+    "descriptor": "Schwimmwindeln Gr. 5-6 (14+ kg), 10 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 10.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1615752,
+    "descriptor": "Lidschatten High Performance Stylo 25 Seashell, 1,4 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.4,
+      "unit": "g",
+      "grams": 1.4
+    }
+  },
+  {
+    "dan": 3123855,
+    "descriptor": "Spülmittel Paradise Bloom, 300 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 300.0,
+      "unit": "ml",
+      "grams": 300.0
+    }
+  },
+  {
+    "dan": 2487039,
+    "descriptor": "Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 27.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3117627,
+    "descriptor": "Feuchttücher 99 % water (4x60 St), 240 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 60.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1712627,
+    "descriptor": "Mascara Volume Million Lashes Panorama Black, 10,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 10.5,
+      "unit": "ml",
+      "grams": 10.5
+    }
+  },
+  {
+    "dan": 1545376,
+    "descriptor": "Körperpeeling Macadamia & Reismilch, 225 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 225.0,
+      "unit": "ml",
+      "grams": 225.0
+    }
+  },
+  {
+    "dan": 1450800,
+    "descriptor": "Foundation 3in1 Easy Match Soft Beige 34, LSF 20, 30 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "ml",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 1568371,
+    "descriptor": "Schoko-Müsli mit Knusperflakes glutenfrei, 375 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 375.0,
+      "unit": "g",
+      "grams": 375.0
+    }
+  },
+  {
+    "dan": 1452774,
+    "descriptor": "Waschmittel Renew Schwarz, 27 Wl",
+    "is_food": false,
+    "fuellmenge": null
+  },
+  {
+    "dan": 1506033,
+    "descriptor": "Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "g",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1453357,
+    "descriptor": "Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "g",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 1888280,
+    "descriptor": "Feuchttücher Fresh & Clean (4x80 St), 320 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 80.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3067596,
+    "descriptor": "Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1361483,
+    "descriptor": "Lidschatten Palette Quattro 37 Chocolate, 4,4 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 4.4,
+      "unit": "g",
+      "grams": 4.4
+    }
+  },
+  {
+    "dan": 1169838,
+    "descriptor": "Frucht & Joghurt Müsli Guten Morgen ab dem 10. Monat, 160 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 160.0,
+      "unit": "g",
+      "grams": 160.0
+    }
+  },
+  {
+    "dan": 3083298,
+    "descriptor": "Fleckenkissen, 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3065666,
+    "descriptor": "Körperbutter Creamy Blueberry Caramel Bliss, 235 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 235.0,
+      "unit": "ml",
+      "grams": 235.0
+    }
+  },
+  {
+    "dan": 1599348,
+    "descriptor": "Nudeln, Fusilli aus Emmer, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1488298,
+    "descriptor": "Früchte Apfel-Himbeere-Heidelbeere ab dem 5. Monat, 190 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 190.0,
+      "unit": "g",
+      "grams": 190.0
+    }
+  },
+  {
+    "dan": 1492661,
+    "descriptor": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel), 40 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 40.0,
+      "unit": "g",
+      "grams": 40.0
+    }
+  },
+  {
+    "dan": 1573037,
+    "descriptor": "Leave-In Haarkur, für lockiges Haar, 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1612045,
+    "descriptor": "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 80.0,
+      "unit": "g",
+      "grams": 80.0
+    }
+  },
+  {
+    "dan": 1677884,
+    "descriptor": "Foundation Super Stay Hybrides 40, 9 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 9.0,
+      "unit": "g",
+      "grams": 9.0
+    }
+  },
+  {
+    "dan": 3076851,
+    "descriptor": "Gemüsechips, 90 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 90.0,
+      "unit": "g",
+      "grams": 90.0
+    }
+  },
+  {
+    "dan": 2194575,
+    "descriptor": "Muffin Choco, glutenfrei, 65 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 65.0,
+      "unit": "g",
+      "grams": 65.0
+    }
+  },
+  {
+    "dan": 3110267,
+    "descriptor": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate, 2 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 2.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3109383,
+    "descriptor": "After Shave Stick mit Kirschblüten-Extrakt, 30 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "g",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 3098629,
+    "descriptor": "Wattepads Maxi mit Seide, 60 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 60.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1679601,
+    "descriptor": "Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 144.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1707826,
+    "descriptor": "Fertiggericht, Noodle Cup Kräuter-Creme-Sauce, 61 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 61.0,
+      "unit": "g",
+      "grams": 61.0
+    }
+  },
+  {
+    "dan": 3146932,
+    "descriptor": "Men Pre Electric Shave Lotion, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1494435,
+    "descriptor": "Zahnpasta White & Shine, 75 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "ml",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 3121420,
+    "descriptor": "Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "g",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 3117360,
+    "descriptor": "Antitranspirant Deo Roll-on Honey & Cactus Flower Nachfüllpack, 50 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "ml",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 1276840,
+    "descriptor": "Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 300.0,
+      "unit": "ml",
+      "grams": 300.0
+    }
+  },
+  {
+    "dan": 1457774,
+    "descriptor": "Porridge, Kakao Dinkel mit Haselnüssen, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3069473,
+    "descriptor": "Tuchmaske Reiswasser, 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1678956,
+    "descriptor": "Still Smoothie Rote Früchte in Apfel mit Eisen, 200 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "ml",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 1605480,
+    "descriptor": "Deospray Fresh Natural, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 2120016,
+    "descriptor": "Flüssigseife Goodness Oud, Cedar & Amber, 500 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3051328,
+    "descriptor": "Rasierbutter Pfirsich, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1898707,
+    "descriptor": "Mundspülung Parodont Expert, 400 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 400.0,
+      "unit": "ml",
+      "grams": 400.0
+    }
+  },
+  {
+    "dan": 3064565,
+    "descriptor": "Pfeffer, bunt, 50 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "g",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 2976879,
+    "descriptor": "Brot, Rustikales Bauernbrot, 230 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 230.0,
+      "unit": "g",
+      "grams": 230.0
+    }
+  },
+  {
+    "dan": 1426142,
+    "descriptor": "Sirup Peach Iced Tea Geschmack, vegan, 65 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 65.0,
+      "unit": "ml",
+      "grams": 65.0
+    }
+  },
+  {
+    "dan": 1666918,
+    "descriptor": "Ceylon Zimt, 50 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "g",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 1515816,
+    "descriptor": "Men After Shave Lotion, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 3102216,
+    "descriptor": "Fruchtmi, Fruity Bears, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1630607,
+    "descriptor": "Nachtcreme Beauty Expert, 30 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "ml",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 1620450,
+    "descriptor": "Kakaopulver, Heiße Schokolade mit Xylit, 200 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "g",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 3108906,
+    "descriptor": "Trinkmahlzeit, Vanille, 330 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 330.0,
+      "unit": "ml",
+      "grams": 330.0
+    }
+  },
+  {
+    "dan": 1533284,
+    "descriptor": "Toilettenpapier bewährt 3-lagig (16x150 Blatt), 16 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 16.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1702311,
+    "descriptor": "Waffel Snack, 150 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "g",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1397144,
+    "descriptor": "Fruchtaufstrich, Rote Johannisbeere, 235 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 235.0,
+      "unit": "g",
+      "grams": 235.0
+    }
+  },
+  {
+    "dan": 1450473,
+    "descriptor": "Antitranspirant Deospray Maximum Protection Fresh, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 3066244,
+    "descriptor": "Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 28.0,
+      "unit": "g",
+      "grams": 28.0
+    }
+  },
+  {
+    "dan": 1689107,
+    "descriptor": "Nassfutter Katze, Klassische Auswahl in Sauce, Jumpopack (80x85 g), 6,8 kg",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 85.0,
+      "unit": "g",
+      "grams": 85.0
+    }
+  },
+  {
+    "dan": 3136163,
+    "descriptor": "Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 300.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1018117,
+    "descriptor": "Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "g",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 3082708,
+    "descriptor": "Müsli, Crunchy Granola, 300 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 300.0,
+      "unit": "g",
+      "grams": 300.0
+    }
+  },
+  {
+    "dan": 1431330,
+    "descriptor": "Menü Couscous-Gemüse-Pfanne ab dem 6. Monat, 190 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 190.0,
+      "unit": "g",
+      "grams": 190.0
+    }
+  },
+  {
+    "dan": 1691669,
+    "descriptor": "Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1328485,
+    "descriptor": "Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "g",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1469099,
+    "descriptor": "Nagellack 413 Mrs Always Right, 13,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 13.5,
+      "unit": "ml",
+      "grams": 13.5
+    }
+  },
+  {
+    "dan": 1617312,
+    "descriptor": "Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "ml",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 1702074,
+    "descriptor": "Teegetränk, Kombucha Original, 0,25 l EINWEG",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 0.25,
+      "unit": "l",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1525789,
+    "descriptor": "Concealer Instant Anti-Age Effekt Löscher 05 Brightener, 6,8 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 6.8,
+      "unit": "ml",
+      "grams": 6.8
+    }
+  },
+  {
+    "dan": 3078750,
+    "descriptor": "Kinder Badezusatz Badebombe Dragons, 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3063725,
+    "descriptor": "Conditioner The Foundation, 300 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 300.0,
+      "unit": "ml",
+      "grams": 300.0
+    }
+  },
+  {
+    "dan": 3090516,
+    "descriptor": "Haaröl Hydro Shine, 30 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "ml",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 3116807,
+    "descriptor": "Nudeln, Orecchiette, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1058435,
+    "descriptor": "Fruchtaufstrich, Erdbeere 75% Frucht, 250 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "g",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1585994,
+    "descriptor": "Rasierklingen, Comfortglide Spa Breeze, 4 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 4.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1701108,
+    "descriptor": "Feuchttücher Ultra sensitiv 5x48 St., 240 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 48.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 2170892,
+    "descriptor": "Trockenfrüchte, Datteln mit Geschmack, Sweet Peach, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1677242,
+    "descriptor": "Windeleimer Twist & Click Sangenic XL, weiß, 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3117346,
+    "descriptor": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück), 150 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 5.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3078313,
+    "descriptor": "Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 15.0,
+      "unit": "g",
+      "grams": 15.0
+    }
+  },
+  {
+    "dan": 1709731,
+    "descriptor": "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1438255,
+    "descriptor": "Weizenmehl Type 550, 1.000 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "g",
+      "grams": 1.0
+    }
+  },
+  {
+    "dan": 1535388,
+    "descriptor": "Waffeln, Dinkel Frischei, 165 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 165.0,
+      "unit": "g",
+      "grams": 165.0
+    }
+  },
+  {
+    "dan": 3129947,
+    "descriptor": "Deo Zerstäuber Wasserlilie, 75 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "ml",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 1491804,
+    "descriptor": "Meersalz, jodiert, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1681632,
+    "descriptor": "Haarkur Night Elixier Ultimate Repair, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 3132226,
+    "descriptor": "Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.4,
+      "unit": "g",
+      "grams": 1.4
+    }
+  },
+  {
+    "dan": 1619917,
+    "descriptor": "Haargel Ultra Strong Power Hold, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1431901,
+    "descriptor": "Müsli Kekse, ab 3 Jahren, 125 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 125.0,
+      "unit": "g",
+      "grams": 125.0
+    }
+  },
+  {
+    "dan": 2970871,
+    "descriptor": "Handcreme Intense Repair, 50 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "ml",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 3129901,
+    "descriptor": "Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "g",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 3120266,
+    "descriptor": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 3129060,
+    "descriptor": "Rasierschaum Lychee Love, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1612745,
+    "descriptor": "Haaröl Coconut Infused Oil, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1461679,
+    "descriptor": "Deospray Dusch Frische, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 3117409,
+    "descriptor": "Küchentücher Premium 3-lagig (4x51 Blatt), 4 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 4.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1454942,
+    "descriptor": "Couscous, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3124768,
+    "descriptor": "Mascara Sky High Tubes Very Black, 7,2 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 7.2,
+      "unit": "ml",
+      "grams": 7.2
+    }
+  },
+  {
+    "dan": 1646652,
+    "descriptor": "Kaffee, Caffè de Peru gemahlen, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3069942,
+    "descriptor": "Nussmischung, Gerösteter Edelnuss-Mix, 160 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 160.0,
+      "unit": "g",
+      "grams": 160.0
+    }
+  },
+  {
+    "dan": 1446851,
+    "descriptor": "Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "g",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 1583284,
+    "descriptor": "Haferdrink Banane ab 1 Jahr, 200 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "ml",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 1679959,
+    "descriptor": "Espresso, gemahlen, 250 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "g",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 3095025,
+    "descriptor": "Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1570516,
+    "descriptor": "Pesto, Artischocken & Zitrone, 120 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 120.0,
+      "unit": "g",
+      "grams": 120.0
+    }
+  },
+  {
+    "dan": 1624685,
+    "descriptor": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan, 75 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "g",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 1371118,
+    "descriptor": "Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 220.0,
+      "unit": "g",
+      "grams": 220.0
+    }
+  },
+  {
+    "dan": 1126069,
+    "descriptor": "Zahnpasta Kinder Junior, 6-12 Jahren, 75 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "ml",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 3131080,
+    "descriptor": "Handcreme Ikigai, 75 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "ml",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 3090740,
+    "descriptor": "Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1121095,
+    "descriptor": "Mascara Double Extension Waterproof Black, 12 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 12.0,
+      "unit": "ml",
+      "grams": 12.0
+    }
+  },
+  {
+    "dan": 3085614,
+    "descriptor": "Mascara Grow & Tint Deep Black, 12 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 12.0,
+      "unit": "ml",
+      "grams": 12.0
+    }
+  },
+  {
+    "dan": 3124689,
+    "descriptor": "Weichspüler Mandelmilch 40WL, 880 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 880.0,
+      "unit": "ml",
+      "grams": 880.0
+    }
+  },
+  {
+    "dan": 1489949,
+    "descriptor": "Dinkel Zwieback, 200 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "g",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 2322377,
+    "descriptor": "Haaröl Coconut Miracle Oil, 100 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "ml",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1488261,
+    "descriptor": "Schokolade Nougat, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1626055,
+    "descriptor": "Taschentücher Box Kids Disney, 48 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 48.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1674749,
+    "descriptor": "Kinderkekse Haselnussecken, ab 3 Jahren, 30 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "g",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 3130473,
+    "descriptor": "Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 960.0,
+      "unit": "ml",
+      "grams": 960.0
+    }
+  },
+  {
+    "dan": 1488268,
+    "descriptor": "Schokoriegel, Vollmilch Espresso Crunch, 37,5 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 37.5,
+      "unit": "g",
+      "grams": 37.5
+    }
+  },
+  {
+    "dan": 1457650,
+    "descriptor": "Deospray Man Lavender Coffee Tonka Bean, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1459239,
+    "descriptor": "Kinder Badezusatz Badefizzer, 20 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 20.0,
+      "unit": "g",
+      "grams": 20.0
+    }
+  },
+  {
+    "dan": 1635407,
+    "descriptor": "Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 10.0,
+      "unit": "g",
+      "grams": 10.0
+    }
+  },
+  {
+    "dan": 1446241,
+    "descriptor": "Cashewkerne, 150 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "g",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1458659,
+    "descriptor": "Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 230.0,
+      "unit": "ml",
+      "grams": 230.0
+    }
+  },
+  {
+    "dan": 1626807,
+    "descriptor": "Pflanzendrink, Cashew natur, 1 l",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "l",
+      "grams": 1000.0
+    }
+  },
+  {
+    "dan": 3043996,
+    "descriptor": "Babysnack Knusper Flips Tomate-Karotte ab 8 Monaten, 30 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "g",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 3070315,
+    "descriptor": "Shampoo Nourishing, 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1413947,
+    "descriptor": "Rasierschaum Ultra Sensitive, 300 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 300.0,
+      "unit": "ml",
+      "grams": 300.0
+    }
+  },
+  {
+    "dan": 1713906,
+    "descriptor": "Körnerstangen, glutenfrei (2 Stück), 220 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 2.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1454202,
+    "descriptor": "Direktsaft, Apfel-Mango, 0,33 l",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 0.33,
+      "unit": "l",
+      "grams": 330.0
+    }
+  },
+  {
+    "dan": 1685711,
+    "descriptor": "Foundation Hauttonanpassend, 30 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "ml",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 1584162,
+    "descriptor": "Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus, 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1586828,
+    "descriptor": "Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 400.0,
+      "unit": "g",
+      "grams": 400.0
+    }
+  },
+  {
+    "dan": 3064564,
+    "descriptor": "Kreuzkümmel, gemahlen, 40 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 40.0,
+      "unit": "g",
+      "grams": 40.0
+    }
+  },
+  {
+    "dan": 3117745,
+    "descriptor": "Proteinpulver, Clear Protein Green Apple Geschmack, 300 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 300.0,
+      "unit": "g",
+      "grams": 300.0
+    }
+  },
+  {
+    "dan": 3124395,
+    "descriptor": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 150.0,
+      "unit": "ml",
+      "grams": 150.0
+    }
+  },
+  {
+    "dan": 1562936,
+    "descriptor": "Gesichtscreme Basis Sensitiv feuchtigkeitsspendend, 50 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "ml",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 1449184,
+    "descriptor": "Vielblütenhonig, 500 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "g",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3081193,
+    "descriptor": "Bonbon, Lakritz, 75 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "g",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 1371930,
+    "descriptor": "Kindermüsli Beeren ab dem 10. Monat, 200 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "g",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 1674740,
+    "descriptor": "Still Smoothie mit Folsäure, 200 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 200.0,
+      "unit": "ml",
+      "grams": 200.0
+    }
+  },
+  {
+    "dan": 1094693,
+    "descriptor": "Essigreiniger Apfel, 1 l",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "l",
+      "grams": 1000.0
+    }
+  },
+  {
+    "dan": 3132434,
+    "descriptor": "Geschenkset The Super Peptide Glossy Lip Butter 4tlg, 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1679949,
+    "descriptor": "Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 6.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1711479,
+    "descriptor": "Natives Olivenöl extra, ausgewogen, 0,5 l",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 0.5,
+      "unit": "l",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1458680,
+    "descriptor": "Nagellack Gel by 553 Pinky Ring, 13,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 13.5,
+      "unit": "ml",
+      "grams": 13.5
+    }
+  },
+  {
+    "dan": 3120215,
+    "descriptor": "Peeling Spray, Peel Good Baby, 80 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 80.0,
+      "unit": "ml",
+      "grams": 80.0
+    }
+  },
+  {
+    "dan": 3046958,
+    "descriptor": "Haarspray Max Hold, 400 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 400.0,
+      "unit": "ml",
+      "grams": 400.0
+    }
+  },
+  {
+    "dan": 1551268,
+    "descriptor": "Foundation Make-Up Classic Teint, 30 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "ml",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 3139568,
+    "descriptor": "Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 5.2,
+      "unit": "g",
+      "grams": 5.2
+    }
+  },
+  {
+    "dan": 1612760,
+    "descriptor": "Nagelfolie Foil Nail Wraps, 100 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1606903,
+    "descriptor": "Zahnpasta Zahnschmelz Professional Opti-schmelz, 75 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "ml",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 1469005,
+    "descriptor": "Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 220.0,
+      "unit": "g",
+      "grams": 220.0
+    }
+  },
+  {
+    "dan": 1515731,
+    "descriptor": "Reissirup, 250 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 3133292,
+    "descriptor": "Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 3125210,
+    "descriptor": "Nassfutter Katze Huhn in Sauce, Revelations Mousse Multipack (4x57 g), 228 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 57.0,
+      "unit": "g",
+      "grams": 57.0
+    }
+  },
+  {
+    "dan": 1678377,
+    "descriptor": "Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 55.0,
+      "unit": "g",
+      "grams": 55.0
+    }
+  },
+  {
+    "dan": 3051289,
+    "descriptor": "Knäckebrot, Hafer, glutenfrei, 215 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 215.0,
+      "unit": "g",
+      "grams": 215.0
+    }
+  },
+  {
+    "dan": 1557410,
+    "descriptor": "Quetschie Carrot Cat, Karotte, Mango, Banane & Birne ab 6 Monaten, 100 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 100.0,
+      "unit": "g",
+      "grams": 100.0
+    }
+  },
+  {
+    "dan": 1691992,
+    "descriptor": "Antitranspirant Deo Roll-on Original, 50 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "ml",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 1492802,
+    "descriptor": "Concealer Fit Me 06 Vanilla, 6,8 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 6.8,
+      "unit": "ml",
+      "grams": 6.8
+    }
+  },
+  {
+    "dan": 3081151,
+    "descriptor": "Bonbon, Himbeere Melisse, 75 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "g",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 3136052,
+    "descriptor": "Bonbon, Fresh Mint, zuckerfrei, 75 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "g",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 1460760,
+    "descriptor": "Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1640499,
+    "descriptor": "Müsliriegel, Hafer Nuss, 3er Pack, 105 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 105.0,
+      "unit": "g",
+      "grams": 105.0
+    }
+  },
+  {
+    "dan": 1660856,
+    "descriptor": "Taschentücher Box Balsam 4-lagig, 120 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 120.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3129036,
+    "descriptor": "Floral ia Eau de Parfum, 30 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 30.0,
+      "unit": "ml",
+      "grams": 30.0
+    }
+  },
+  {
+    "dan": 1454078,
+    "descriptor": "Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 250.0,
+      "unit": "ml",
+      "grams": 250.0
+    }
+  },
+  {
+    "dan": 1600638,
+    "descriptor": "Spülmittel-Gel Himbeer, 500 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 500.0,
+      "unit": "ml",
+      "grams": 500.0
+    }
+  },
+  {
+    "dan": 1585929,
+    "descriptor": "Rasierklingen, Smooth, 4 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 4.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3095115,
+    "descriptor": "Schokolade, Mocca, 80 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 80.0,
+      "unit": "g",
+      "grams": 80.0
+    }
+  },
+  {
+    "dan": 3103609,
+    "descriptor": "Kollagen Pulver mit Vitamin C, 450 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 450.0,
+      "unit": "g",
+      "grams": 450.0
+    }
+  },
+  {
+    "dan": 1417519,
+    "descriptor": "Gua Sha Y-Stein Rosenquarz, 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 1622364,
+    "descriptor": "Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück), 90 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 3.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3116479,
+    "descriptor": "Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 3.5,
+      "unit": "g",
+      "grams": 3.5
+    }
+  },
+  {
+    "dan": 3098950,
+    "descriptor": "Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 6.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3096629,
+    "descriptor": "Butter Beans, 240 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 240.0,
+      "unit": "g",
+      "grams": 240.0
+    }
+  },
+  {
+    "dan": 3123899,
+    "descriptor": "Rasierklingen, 360 QP949/50 & Intimate Blade, 4 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 4.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3084671,
+    "descriptor": "Körperbutter Mango Matcha Latte, 235 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 235.0,
+      "unit": "ml",
+      "grams": 235.0
+    }
+  },
+  {
+    "dan": 1496359,
+    "descriptor": "Mascara Lash Princess Sculpted Volume, 12 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 12.0,
+      "unit": "ml",
+      "grams": 12.0
+    }
+  },
+  {
+    "dan": 2480598,
+    "descriptor": "Kindersnack Obsties Erdbeere Banane Joghurt ab 3 Jahren, 20 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 20.0,
+      "unit": "g",
+      "grams": 20.0
+    }
+  },
+  {
+    "dan": 1493561,
+    "descriptor": "Zahnpasta Clinical Repair, 75 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 75.0,
+      "unit": "ml",
+      "grams": 75.0
+    }
+  },
+  {
+    "dan": 3117389,
+    "descriptor": "Nagellack Gel by 567 Frost Yourself, 13,5 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 13.5,
+      "unit": "ml",
+      "grams": 13.5
+    }
+  },
+  {
+    "dan": 1003012,
+    "descriptor": "Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "ml",
+      "grams": 50.0
+    }
+  },
+  {
+    "dan": 2969327,
+    "descriptor": "Breischale senfgelb, 1 St",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 1.0,
+      "unit": "St",
+      "grams": null
+    }
+  },
+  {
+    "dan": 3137457,
+    "descriptor": "Blush Tint Sheer For It Cherry Cola, 6,8 ml",
+    "is_food": false,
+    "fuellmenge": {
+      "value": 6.8,
+      "unit": "ml",
+      "grams": 6.8
+    }
+  },
+  {
+    "dan": 3078340,
+    "descriptor": "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g",
+    "is_food": true,
+    "fuellmenge": {
+      "value": 50.0,
+      "unit": "g",
+      "grams": 50.0
+    }
+  }
+]
