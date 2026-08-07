@@ -14,6 +14,10 @@ runner_output
 # Your own scored output.
 results/
 
+# Adapter for the author's own voice runtime — not part of the benchmark.
+# The published reference is example_driver.py.
+driver/
+
 # NOTE: audio_real/ and audio_synthetic/ are part of the dataset and MUST be
 # committed. Plain git, no LFS — the largest WAV is 3.1 MB, far below GitHub's
 # 100 MB per-file limit, and the whole repo is ~218 MB. LFS would only add a
