@@ -7,7 +7,12 @@ __pycache__/
 
 # Per-session records written by the system under test (see config.yaml
 # paths.runner_output_dir). Your own outputs, not part of the benchmark.
-runner_output/
+# No trailing slash: this must also match a symlink pointing at wherever your
+# system actually writes them.
+runner_output
+
+# Your own scored output.
+results/
 
 # NOTE: audio_real/ and audio_synthetic/ are part of the dataset and MUST be
 # committed. Plain git, no LFS — the largest WAV is 3.1 MB, far below GitHub's
