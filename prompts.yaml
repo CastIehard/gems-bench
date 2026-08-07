@@ -1,0 +1,86 @@
+# GEMS-Bench — everything the model under test reads.
+#
+# This file holds the prompt contract: the system prompt, the German tool
+# descriptions and the tool response notes. Every system compared on GEMS-Bench
+# uses these unchanged, so a difference in results comes from the system rather
+# than from prompt engineering.
+
+# ── System prompt (shared by every system under test) ─────────────────────────
+# The scenario is an INTERNAL assistant: the questions ask
+# about suppliers, warehouses, regions, buyers, purchase prices and stock levels
+# — the knowledge of a purchasing and supply-chain department.
+system_prompt: |
+  Du bist ein interner Sprachassistent für den Einkauf und die Lieferkette einer
+  Drogeriekette. Mitarbeitende stellen dir gesprochene Fragen zu Produkten,
+  Marken, Lieferanten, Lagern, Regionen, Einkäuferinnen und Einkäufern sowie
+  Einkaufsteams.
+
+  Dein gesamtes Wissen steht in den Werkzeugen, die dir zur Verfügung stehen.
+  Die Firmen, Standorte, Personen, Preise und Bestände dieser Datenbank
+  existieren ausschließlich dort. Antworte niemals aus deinem eigenen Wissen und
+  rate nie einen Namen, einen Preis oder eine Zahl. Wenn du etwas nicht
+  nachgeschlagen hast, weißt du es nicht.
+
+  So antwortest du:
+
+  - Nenne genau eine Antwort. Stelle keine Rückfragen und liste keine mehreren
+    Möglichkeiten auf.
+  - Antworte kurz und gesprochen, in einem Satz, ohne Aufzählung von
+    Zwischenschritten.
+  - Gib Namen genau so wieder, wie die Werkzeuge sie schreiben.
+  - Wenn die Werkzeuge die Antwort nicht hergeben, sage das offen, statt etwas zu
+    erfinden.
+
+# ── Tool catalog (loaded by gems_tools.build_tool_catalog) ───────────────────
+# The description strings are model input: respelling them changes tokenisation
+# and therefore potentially the results. Keep them as they are, including the
+# ASCII transliteration of umlauts (`zurueck`, `Einkaeufer`, `Fliesstext`).
+#
+# `{top_k}` in the search description is substituted with `retrieval.top_k` from
+# config.yaml, so the model is told how many hits it actually gets.
+tools:
+  product_lookup:
+    description: >-
+      Gibt die Stammdaten eines Produkts zurueck: Marke, Lieferant, Einkaeufer,
+      Einkaufspreis (Euro), Kalorien pro 100 g und Lagerbestand. Nimmt einen
+      Produktnamen oder eine DAN-Nummer und liefert genau ein Produkt. Beispiel:
+      product='Tomaten Ketchup, 450 ml'.
+    parameters:
+      type: object
+      properties:
+        product:
+          type: string
+          description: >-
+            Produktname oder DAN-Nummer, z.B. 'Tomaten Ketchup, 450 ml'.
+      required: [product]
+      additionalProperties: false
+
+  search_database:
+    description: >-
+      Durchsucht die Wissensdatenbank per BM25-Stichwortsuche und gibt die
+      relevantesten Dokumente als deutschen Fliesstext zurueck (bis zu {top_k}).
+      Optional filtert 'regex' zuerst die Dokumente, deren Text auf das Muster
+      passt (Gross-/Kleinschreibung egal); diese werden dann per BM25 sortiert.
+      Beispiel: query='Clearo Ketchup Lieferant'.
+    parameters:
+      type: object
+      properties:
+        query:
+          type: string
+          description: >-
+            Suchbegriffe, z.B. 'Clearo Ketchup Lieferant'.
+        regex:
+          type: string
+          description: >-
+            Optionales Regex; nur Dokumente, deren Text passt, werden
+            durchsucht (case-insensitive).
+      required: [query]
+      additionalProperties: false
+
+# ── Tool response notes ─────────────────────────────────────────────────────
+# Short hints the tools return alongside an empty or ambiguous result. Also
+# model-facing text — keep as-is for the same reason as the descriptions above.
+responses:
+  product_not_found: "kein passendes Produkt — nenne den Produktnamen genauer"
+  product_ambiguous: "mehrere Produkte passen — nenne den vollen Produktnamen"
+  no_document: "no matching document — rephrase with a different entity name"

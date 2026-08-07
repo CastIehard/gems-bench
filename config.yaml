@@ -1,0 +1,406 @@
+# GEMS-Bench — central control. All logic knobs, no magic numbers in code.
+
+seed: 42
+
+paths:
+  gems_dir: .
+  repo_root: .                     # git repo root, recorded in data/provenance.json
+  data_dir: data
+  raw_dir: data/raw
+  graph: data/stage_3_graph.json
+  corpus: data/stage_4_corpus.jsonl
+  questions: data/stage_7_questions.json
+  manifest: manifest.json
+  prompts: prompts.yaml            # everything the model under test reads
+  results_dir: results
+  benchmark_run: results/benchmark_run.json
+  results: results/results.json
+  plots_dir: results/plots
+  # Where the system under test writes its per-session records. judge.py reads
+  # `<run_id>/records/<session_id>/assistant_audio.wav` from here to grade the
+  # spoken answer — point this at your own system's output directory.
+  # README.md ("The contract the scorer expects") documents the record layout.
+  runner_output_dir: runner_output
+
+# - Audio source -
+audio:
+  source: real                 # synthetic | real
+  directories:
+    synthetic: audio_synthetic
+    real: audio_real
+  recorder:
+    host: 127.0.0.1
+    port: 8765
+    open_browser: true
+    # Browser mic constraints (getUserMedia): disable proprietary browser DSP
+    # → raw, reproducible recording instead of browser-/OS-specific processing.
+    # Intentionally all false (no AEC/NS/AGC in stimulus).
+    echo_cancellation: false     # Echo cancellation
+    noise_suppression: false     # Noise suppression
+    auto_gain_control: false     # Auto gain control
+
+# - Retrieval tools -
+retrieval:
+  top_k: 3
+
+# - Audio feeding -
+# How the question audio is played into the system under test. The first three
+# keys are used by example_driver.py and are generic. The rest are for a driver
+# that talks to a system over a network connection — example_driver.py calls your
+# code in-process and ignores them, but they are here so an adapter has one place
+# to read its connection settings from.
+realtime:
+  chunk_samples: 4096          # PCM frames per audio packet — PROTOCOL-FIXED, do not change
+  lead_in_silence_s: 1.5       # silence before the question so turn detection doesn't clip word 1
+  pause_s: 2.0                 # gap between consecutive questions
+  audio_quiet_done_s: 2.0      # answer audio silent this long → treat the turn as finished
+  default_server: "ws://localhost:8000"
+  timeout_s: 240               # per-question hard cap (seconds). Fan-out categories
+                                # (combined, deep serial/early) chain many sequential
+                                # round trips, so a tight cap truncates real answers
+  # Error codes from the system under test that the driver treats as non-fatal
+  # (log, keep waiting for the real answer) instead of aborting the question.
+  # Only list a code your system provably recovers from — anything else should
+  # still abort, or a broken turn is scored as a wrong answer.
+  recoverable_error_codes: [input_audio_buffer_commit_empty]
+
+# - Data source: public DM Search API (name/category skeleton only) -
+data_source:
+  search_url: "https://product-search.services.dmtech.com/de/search/static"
+  user_agent: "GEMS-Bench/1.0 (dataset generation)"
+  timeout_s: 20
+  throttle_s: 4.0                  # Pause between real API calls (429 protection)
+  n_products_target: 300            # Number of DM products to fetch and build the dataset from
+  # Curated category terms (Food + Non-Food) → balanced coverage incl. kcal-capable
+  queries: [shampoo, duschgel, handcreme, zahnpasta, deo, sonnencreme, waschmittel,
+    windeln, vitamin, spaghetti, müsli, haferflocken, schokolade, kaffee, tee,
+    reis, honig, nüsse, riegel, saft, smoothie, keks, chips, mehl, zucker, pasta,
+    sauce, suppe, tomat, öl, essig, gewürz, salz,
+    # Additional food categories
+    nudeln, joghurt, quark, käse, butter, brot, marmelade, sirup, cornflakes,
+    müsliriegel, popcorn, gummibärchen, bonbon, waffeln, zwieback, knäckebrot,
+    linsen, bohnen, mais, kakao, proteinpulver, haferdrink, mandelmilch, ketchup,
+    senf, pesto, brühe, couscous, quinoa, trockenfrüchte, kürbiskerne, leinsamen,
+    cola, limonade, wasser,
+    # Additional non-food categories
+    bodylotion, gesichtscreme, handseife, haarspülung, haarkur, haaröl, haargel,
+    haarspray, rasierschaum, rasierklinge, aftershave, wimperntusche, lippenstift,
+    lidschatten, foundation, concealer, nagellack, nagellackentferner,
+    wattestäbchen, wattepads, feuchttücher, taschentücher, toilettenpapier,
+    küchenrolle, spülmittel, allzweckreiniger, glasreiniger, weichspüler,
+    zahnbürste, zahnseide, mundspülung, deospray]
+  # is_food determined from descriptor (food marker present, no non-food marker)
+  food_markers: [spaghetti, nudeln, müsli, haferflocken, schokolade, kaffee, tee,
+    riegel, reis, mehl, zucker, honig, saft, smoothie, keks, chips, nuss, mandel,
+    pasta, sauce, suppe, tomat, öl, essig, gewürz, salz,
+    joghurt, quark, milch, käse, butter, brot, marmelade, konfitüre, sirup,
+    cornflakes, flakes, popcorn, gummibär, bonbon, waffel, zwieback, knäcke,
+    linse, bohne, erbse, mais, kakao, protein, banane, apfel, birne, beere,
+    dattel, rosine, kokos, kürbiskern, sonnenblumenkern, chia, leinsam, quinoa,
+    couscous, gnocchi, pizza, ketchup, senf, mayo, pesto, brühe, bouillon,
+    trockenfrüch, marzipan, cola, limonade, limo, haferdrink,
+    paprika, nüsse, süßungsmittel, frucht, erfrischungsgetränk, brühwürfel,
+    trinkmahlzeit, muffin, pfeffer, zimt, espresso, kerne, pflanzendrink,
+    körner, kümmel, kollagen]
+  non_food_markers: [shampoo, duschgel, creme, crème, deo, zahnpasta, zahncreme,
+    windel, waschmittel, spülung, conditioner, seife, lotion, spray, gel,
+    maske, serum, balsam, pflege, reiniger, tab, tuch, binde, tampon,
+    nagellack, nagel, lack, lippen, wimper, make-up, mascara, puder, rasier,
+    bodylotion, körperlotion, gesichtscreme, handseife, duschbad, haarspülung,
+    haarkur, haaröl, haargel, haarspray, rasierschaum, rasierklinge, aftershave,
+    parfüm, lippenstift, lidschatten, foundation, concealer, rouge,
+    nagellackentferner, wattestäbchen, wattepad, feuchttuch, taschentuch,
+    toilettenpapier, küchenrolle, spülmittel, allzweckreiniger, glasreiniger,
+    badreiniger, wc-reiniger, weichspüler, fleckentferner, sonnenmilch,
+    körpermilch, reinigungsmilch, körperbutter, bodybutter, babyöl, massageöl,
+    lsf, zahnbürste, zahnseide, mundspülung, deospray, deostick, antitranspirant,
+    fußcreme, lippenpflege, fußbad, badezusatz, badesalz, stilleinlage, kajal, eyeliner,
+    primer, bronzer, highlighter,
+    entkalker, peeling, schnuller, nassfutter, geschenkset, blush, fleckenentferner]
+
+# - Graph schema (data model see README) -
+# Hub edges assigned uniformly random (build_graph.py); no guaranteed sharing ratios.
+# Only knobs listed here are consumed in code.
+schema:
+  edges: [hat_marke, bezieht_von, liefert, lagert_in, liegt_in, eingekauft_von, gehoert_zu, cross_sell]
+  hub_sharing:
+    # cross_sell edges are generated in build_graph.py but not currently consumed
+    # by any question generator or corpus (reserved for a future "related
+    # product" family) — this knob currently has no observable effect.
+    cross_sell_grad: {min: 1, max: 4}   # Degree of (symmetric) cross_sell edges per product
+  # Fraction of products whose actual supplier (liefert) differs from the
+  # brand's default supplier. Splits products into two pools: one_hop uses
+  # non-override products (the naive brand→supplier chain is correct);
+  # serial/early depth-4 use override products, so product_lookup can't
+  # shortcut the deep brand→supplier→lager→region chain.
+  marke_override_rate: 0.5
+  attributes:
+    # Purchase price drawn independently from the real DM price (uniform in
+    # [min, max]) — not anchored to the real value, so every product gets a
+    # price without deriving anything from real data (closed-world guarantee).
+    einkaufspreis_eur: {min: 0.50, max: 20.00}
+    einkaufspreis_decimals: 2               # Decimal places for ALL price outputs (graph value, corpus text, combined sum) — ONE source
+    kcal_100g: {min: 30, max: 550}
+    lagerbestand: {min: 0, max: 5000}
+
+# - OSS-LLM for generation steps (names, corpus weave, spoken rewrite) -
+# All generation models sit behind ONE Azure endpoint (AZURE_ENDPOINT/
+# AZURE_API_KEY); only the `model` field changes. The Closed-Book gate uses a
+# separate set of models (see qa.closed_book_gate.models) so the gate is never
+# asked to detect a leak from its own generation model.
+llm:
+  model: "DeepSeek-V4-Flash"  # for generation, corpus weave, spoken rewrite
+  endpoint_var: AZURE_ENDPOINT
+  key_var: AZURE_API_KEY
+  temperature: 0.0            # greedy: generation as reproducible as possible (but Gold = committed artifacts)
+  reasoning_effort: none       # these are paraphrase/naming tasks, not reasoning — kills slow chain-of-thought
+  timeout_s: 60               # Endpoint slows under concurrent load; margin above the naive 30s
+  retry:
+    max_attempts: 4           # Attempts per call before error escalated
+    backoff_s: 3.0            # Base wait time; grows linearly with attempt (3s, 6s, 9s, ...)
+
+# - LLM name generation -
+names:
+  counts: {marken: 40, lieferanten: 30, lager: 15, regionen: 8, einkaeufer: 30, teams: 8}
+  prompts:
+    marken: >
+      Erfinde {n} plausible, aber garantiert NICHT real existierende deutsche
+      Drogerie-/Konsumgüter-Markennamen. Ein Wort oder kurze Wortkombination.
+      Keine echten Marken (kein Balea, Nivea, dmBio etc.). Nur die Namen, JSON-Liste.
+    lieferanten: >
+      Erfinde {n} fiktive deutsche Firmennamen für Lieferanten (Rechtsform GmbH oder AG),
+      klingen industriell/logistisch, garantiert nicht real. Nur Namen, JSON-Liste.
+    lager: >
+      Erfinde {n} fiktive Lagerstandort-Namen im Stil "Lager <Ort>-<Himmelsrichtung>"
+      mit erfundenen Ortsnamen (nicht real). Nur Namen, JSON-Liste.
+    regionen: >
+      Erfinde {n} fiktive Regionsnamen (keine realen Bundesländer/Städte),
+      klingen deutsch-geografisch. Nur Namen, JSON-Liste.
+    einkaeufer: >
+      Erfinde {n} fiktive deutsche Personennamen (Vor- und Nachname) für Einkäufer.
+      Nur Namen, JSON-Liste.
+    teams: >
+      Erfinde {n} fiktive Einkaufs-Team-/Abteilungsnamen (z.B. "Team Pflege Nord").
+      Nur Namen, JSON-Liste.
+
+# - Corpus: natural LLM flowing text with verbatim fact sentences -
+corpus:
+  llm_weave: true                   # false → plain template sentences (no LLM)
+  max_retries: 3                    # Regex verification fails → re-roll
+  max_workers: 4                    # Docs woven concurrently against the endpoint
+  prompt: >
+    Formuliere aus den folgenden Fakten einen zusammenhängenden, natürlich
+    klingenden deutschen Fließtext-Absatz für einen internen
+    Unternehmens-Wissenskorpus. Behalte JEDE Beziehung exakt bei.
+    Erfinde nichts dazu und ändere keine Angabe. Nenne den Produkt- bzw. Entitätsnamen nur einmal und verweise
+    danach natürlich darauf (z.B. "das Produkt", "es"), statt ihn zu wiederholen.
+    Gib nur den Absatz zurück.
+
+# - Question generation -
+# distribution sums to n_total. Balanced at 20 per category, so no architecture
+# is favoured by weighting. The Closed-Book gate (stage 7) can reject individual
+# items → final count possibly slightly under n_total.
+questions:
+  n_total: 100
+  distribution: {one_hop: 20, serial: 20, early: 20, select: 20, combined: 20}
+  # Serial depth is drawn from Gauss(mu, sigma) and clamped to [depth_min, depth_max].
+  # mu=5 exceeds depth_max=4 by design, biasing depth toward the cap because a
+  # depth-4 chain is the more interesting dependency case (realized distribution
+  # ≈73% depth 4 / 27% depth 3).
+  hops: {mu: 5, sigma: 2, depth_min: 3, depth_max: 4}
+  # Fan-out family (combined/select): 6-10 independent products per question.
+  # Gives a long listening window (6-10 full product names ≈ ≥30s spoken) and
+  # enough independent sub-lookups that the work is parallelizable rather than
+  # merely long. Length comes from real product entities, not padding.
+  aggregation_size: {min: 6, max: 10}  # Products per fan-out question (combined/select)
+  short_descriptors: false             # false → FULL product name in lists (uniquely resolvable via product_lookup)
+                                        # true cuts at the first comma, which makes 45 of 300 products
+                                        # ambiguous and breaks product_lookup + deterministic gold.
+
+# - Spoken rewrite (standalone stage, before TTS) → field spoken_question -
+# spoken_question is read out WORD-FOR-WORD by both channels (TTS synthesis AND
+# the human speaker reads it verbatim — no free paraphrasing), so it must be
+# both natural to hear AND complete/correct to the same standard as the corpus
+# weave (see corpus.prompt). max_retries/max_workers mirror the corpus stage;
+# spoken_rewrite.py verifies every number + skeleton entity survived and falls
+# back to the plain question_text if it never does.
+spoken:
+  max_retries: 3                    # Verbatim check fails → re-roll
+  max_workers: 4                    # Items rewritten concurrently against the endpoint
+  # Entity check is token-coverage/fuzzy (like recording.gate), not exact
+  # substring — natural rewriting restructures how a product name and its own
+  # package size relate grammatically, so the full descriptor won't always
+  # survive as one contiguous string even in a perfectly good rewrite. Numbers
+  # (checked separately, in code) DO require an exact substring match — no
+  # tolerance for a dropped/altered digit.
+  entity_fuzzy_ratio: 0.80
+  entity_token_coverage: 0.6
+  prompt: >
+    Formuliere die folgende Frage so um, wie eine echte Person sie im Gespräch
+    laut stellen würde: natürliches, gut vorlesbares gesprochenes Deutsch. Der
+    Text wird anschließend WORTWÖRTLICH laut vorgelesen — von einer TTS-Stimme
+    UND von einem menschlichen Sprecher, der GENAU diesen Text abliest, nicht
+    frei umformuliert. Er muss sich beim lauten Lesen flüssig und natürlich
+    anhören, ohne Zungenbrecher oder unklare Zahlenketten.
+    Schreibe Einheiten und Abkürzungen aus (ml → Milliliter, g → Gramm,
+    kg → Kilogramm, l → Liter, St → Stück, % → Prozent). Zahlen bleiben dabei
+    Ziffern (z. B. "300 Gramm", nicht "dreihundert Gramm") — nur die Einheit
+    wird ausgeschrieben. Behalte JEDEN Eigennamen, JEDEN Produktnamen und JEDE
+    einzelne Zahl aus der Vorlage wortwörtlich und vollständig bei. Wenn zu
+    einer Sache MEHRERE Zahlen gehören (z. B. eine genannte Menge UND die
+    Packungsgröße eines Produkts), nenne BEIDE Zahlen einzeln und deutlich —
+    verschmelze oder verwechsle sie niemals miteinander. Ändere KEINE Fakten,
+    füge KEINE neuen Informationen, Substantive oder Antwort-Hinweise hinzu und
+    lasse KEINE Zahl, KEINEN Namen und KEINE Produktangabe aus der Vorlage weg
+    — die Frage muss exakt dieselbe Antwort haben und exakt dieselben Belege
+    benötigen wie die Vorlage. Beziehungsverben bleiben erhalten: Ersetze
+    "liefert" bzw. "beliefert" NIEMALS durch "stellt her", "produziert" oder
+    Ähnliches — ein Lieferant liefert die Marke, er stellt sie nicht her.
+    Folge der unten angegebenen Stilvorgabe für
+    diesen einen Satz. Gib nur die umgeschriebene Frage zurück.
+  # Pro Item wird deterministisch EIN Stil gewählt (Seed → item_id), sodass die
+  # Fragen über realistische Sprechregister streuen.
+  styles:
+    - "Ganz direkt und sachlich, ein einziger knapper Satz, ohne Füllwörter."
+    - "Locker und umgangssprachlich, beiläufiger Einstieg mit 'Sag mal,'."
+    - "Als Erinnerungs-Nachfrage, Einstieg mit 'Weißt du noch,'."
+    - "Höflich formuliert, Einstieg mit 'Kannst du mir sagen,'."
+    - "Neugierig, Einstieg mit 'Mich würde interessieren,'."
+    - "Nenne die konkrete Sache bzw. den Namen zuerst und stelle die eigentliche Frage direkt danach."
+    - "Mit einer knappen, natürlichen Rückfrage am Ende, z.B. '..., oder?'."
+    - "Spontan und locker, mit einem kurzen gesprochenen Laut am Anfang (z.B. 'Mh,', 'Ah,', 'Na,') — wähle frei einen passenden."
+    - "Freundlich und beiläufig, Einstieg mit einer lockeren Ansprache (z.B. 'Hey,', 'Du,', 'Also,') — wähle frei."
+    - "Ganz frei und natürlich formuliert, wie es dir spontan im Gespräch rauskommen würde — variiere Einstieg und Satzbau."
+
+# - QA of generated items -
+# Sequence: gen_questions (5) → spoken_rewrite (6) → qa_checks (7). Closed-Book gate
+# checks SPOKEN question (spoken_question) — exactly the text later voiced to model.
+# Gate also catches answer leaks arising only during rewriting.
+qa:
+  uniqueness_check: true
+  closed_book_gate:
+    # Ensemble of large OSS models (all on AZURE_ENDPOINT, only `model` changes).
+    # Each model gets n_votes attempts WITHOUT corpus; if ONE correctly guesses the
+    # answer, the item is dropped (drop_if_correct). Multiple diverse models, not
+    # just the generation model, give a stronger closed-world-unanswerable guarantee.
+    models:
+      - Kimi-K2.6
+      - DeepSeek-V4-Pro
+      - gpt-oss-120b
+    n_votes: 1                      # Attempts per gate model (each model: one attempt)
+    temperature: 0.0                 # Gate sampling: 0.0 = deterministic/greedy (sharpest rate probe)
+    drop_if_correct: true            # Item out if ANY gate model guesses it without corpus
+    # select's gold answer is always one of the 6-10 product names already stated
+    # in the question itself (argmax-selection over a small visible set), not an
+    # unseen invented fact — so a nonzero closed-book hit rate is an expected,
+    # structural property of this category, not an answer leak. The gate still
+    # RUNS and records closed_book_hits for every select item (diagnostic), it
+    # just isn't used to drop them.
+    exempt_categories: [select]
+    max_workers: 4                   # Gate items run in parallel against the endpoint
+    fail_fast: true                  # true: LLM error stops run immediately with full traceback (debugging).
+                                      # false: error logged, item kept without gate, run continues (more expensive full-run).
+
+# - Human-recording gate (fidelity check of the verbatim read) -
+# People read `spoken_question` VERBATIM — same wording the TTS path voices, so
+# the two audio channels differ only in voice. A misread, a swallowed product
+# name, or an unintelligible take would silently break the deterministic gold, so
+# every recording MUST be machine-verified. src/verify_recording.py transcribes
+# the recording (vendored OSS-Whisper) and checks:
+#   1. entity_presence     — all skeleton entities recoverable from transcript
+#      (fuzzy, umlaut folding). The core fidelity check: catches a dropped or
+#      misread entity, which would leave the item underspecified.
+#   2. gold_uniqueness     — gold answer/docs still resolve uniquely.
+#   3. window (soft)       — entities early (first window_front_fraction) mentioned
+
+recording:
+  # - Two-speaker split (50/50, stratified per category) -
+  # Every question is pre-assigned to exactly ONE speaker, deterministically from
+  # `seed`: within each category the items are shuffled and dealt round-robin, so
+  # each speaker reads the same number PER CATEGORY. Stratifying per category
+  # (instead of taking a global random half) keeps speaker orthogonal to
+  # category, so a speaker's performance doesn't bias the category-level results.
+  speakers: [speaker_2_male, speaker_1_female]
+  currently_recording: speaker_1_female
+  gate:
+    enabled: true
+    entity_fuzzy_ratio: 0.80        # min SequenceMatcher ratio so entity token in transcript counts as hit (STT-tolerant)
+    # 0.5, not the higher-seeming 0.6: distinctive_tokens() drops numbers and
+    # units, so most product descriptors reduce to TWO tokens — at 0.6 both
+    # would have to match, so a single STT slip fails the item.
+    # entity_min_coverage below stays at 1.0, so a genuinely skipped product
+    # still fails.
+    entity_token_coverage: 0.5      # Fraction of distinctive tokens of ONE entity that must appear for entity to count as 'mentioned'
+    entity_min_coverage: 1.0        # Fraction of skeleton entities that MUST appear (1.0 = all)
+    window_front_fraction: 0.4      # Entities should appear in first 40% of transcript (warning only)
+    requeue_failed: true            # Automatically append recorder-failed items to end of pending queue (re-take)
+    stt_language: de
+
+# - OSS STT: local Whisper large-v3 (src/oss_stt.py) -
+# Used for every offline transcription: judge.py grades the assistant answer audio,
+# verify_recording.py checks the human takes, oss_tts.py round-trip-verifies each
+# synthesized WAV. No cloud, no credentials.
+stt:
+  model: "mlx-community/whisper-large-v3-mlx"
+  language: de
+  long_form:
+    max_s: 20.0             # Hard cap per decode window — well under Whisper's 30 s frame
+    min_gap_s: 0.30         # A silence must last this long to be a legal cut point
+    min_piece_s: 2.0        # Never cut this soon after a piece started (no sliver pieces)
+    silence_drop_db: 30.0   # Below peak-30 dB counts as silence. Relative to the clip's
+                             # own peak, not absolute dBFS: different recording sources sit
+                             # at different absolute levels, so a fixed floor would
+                             # classify one source's speech as another's silence.
+    window_ms: 20           # RMS window for the silence scan; 20 ms resolves inter-word gaps
+
+# - TTS: local, OSS (Audio8-TTS-Preview-0.6b via transformers) -
+# No fixed-speaker control: this preview checkpoint's plain-TTS mode has no
+# reference-audio conditioning, so each item gets the model's own default voice (varies slightly per draw).
+tts:
+  model_id: "Audio8/Audio8-TTS-Preview-0.6b"
+  max_new_tokens: 1024        # first-attempt token budget
+  retry_max_new_tokens: 2000  # retried once if EOS isn't reached within max_new_tokens
+                               # (known occasional failure mode of this preview checkpoint)
+  # - ASR round-trip verification of every synthesized WAV -
+  verify:
+    enabled: true
+    # Threshold sits in a measured empty band between two failure-rate clusters.
+    min_word_coverage: 0.60
+    max_attempts: 4
+    stt_language: de
+  # - Long-form segmentation -
+  # Failure is driven by length, not luck: the checkpoint cannot render a long
+  # German enumeration in one pass, and re-sampling cannot beat that capability
+  # limit. Text longer than max_chars is therefore synthesized in segments and
+  # concatenated with gap_s of silence.
+  long_form:
+    max_chars: 300
+    gap_s: 0.25
+  temperature: 0.8
+  top_p: 0.95
+  top_k: 50
+  audio_format: "wav"
+  use_field: "spoken_question"     # which question field is voiced (fallback: question_text)
+  sample_rate: 24000                # src/record_audio.py mic capture rate — unrelated to the
+  bytes_per_sample: 2                # TTS model's own output rate (read from model.config at runtime)
+
+# - Deterministic scoring (no LLM judge) -
+scoring:
+  name:
+    normalize: [lower, strip, punct]
+    fuzzy_ratio: 0.86      # min SequenceMatcher ratio for STT fuzzy match of fictional names
+    fuzzy_min_len: 7       # shorter names: no fuzzy (risk of confusion with other entity)
+    contain_min_len: 5     # Substring containment only above this length ("berg" ⊄ "annaberg")
+  number_tolerance: {kcal: 5, preis: 0.01, lagerbestand: 0, default: 0}
+  list: exact_set
+
+# - Analysis metrics (hardware-independent, relative) -
+# These knobs control analyze.py.
+analyze:
+  # Share of retrieval done inside the listening window, plus critical-path
+  # round-trips — both computed from the tool split
+  # (tools_during_listening / tools_after_listening), no extra instrument.
+  concealment: true
+  # Gold-doc recall @ end-of-speech: how much of the needed evidence was in hand
+  # when the user stopped speaking.
+  deadline_roundtrips: [1, 2, 4]
