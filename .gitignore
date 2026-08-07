@@ -1,0 +1,15 @@
+.env.local
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Per-session records written by the system under test (see config.yaml
+# paths.runner_output_dir). Your own outputs, not part of the benchmark.
+runner_output/
+
+# NOTE: audio_real/ and audio_synthetic/ are part of the dataset and MUST be
+# committed. Plain git, no LFS — the largest WAV is 3.1 MB, far below GitHub's
+# 100 MB per-file limit, and the whole repo is ~218 MB. LFS would only add a
+# monthly bandwidth quota that breaks cloning once it runs out.
