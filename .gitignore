@@ -11,12 +11,16 @@ __pycache__/
 # system actually writes them.
 runner_output
 
-# Your own scored output.
+# Your own scored output. A curated run belongs in baselines/<system>/, not here.
 results/
 
-# Adapter for the author's own voice runtime — not part of the benchmark.
-# The published reference is example_driver.py.
-driver/
+# Drivers are host-side, so this directory is ignored by default — except the two
+# reference drivers that produced the committed baselines. `driver/*` rather than
+# `driver/`, because git does not descend into an excluded directory and the
+# negations below would never be read.
+driver/*
+!driver/azure_realtime.py
+!driver/azure_realtime.yaml
 
 # NOTE: audio_real/ and audio_synthetic/ are part of the dataset and MUST be
 # committed. Plain git, no LFS — the largest WAV is 3.1 MB, far below GitHub's

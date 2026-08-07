@@ -1,0 +1,34 @@
+# Settings for driver/azure_realtime.py — the vendor-specific half of one
+# baseline run. This file belongs to the DRIVER, not to the benchmark: GEMS-Bench
+# never learns which model answered it, so a second provider is a second driver
+# plus a second file like this one, and config.yaml stays untouched.
+#
+# What still comes from the benchmark's config.yaml is only how audio is fed
+# (realtime.chunk_samples, lead_in_silence_s, pause_s, audio_quiet_done_s,
+# timeout_s) and which channel is used (audio.source) — those are properties of
+# the stimulus, identical for every system under test.
+
+deployment: gpt-realtime-1.5     # Azure deployment name of the realtime model
+voice: marin
+
+# Credentials are read from .env.local under these names.
+endpoint_var: AZURE_OPENAI_ENDPOINT
+key_var: AZURE_OPENAI_API_KEY
+
+# Simulated latency per knowledge-tool call (ms). A real catalog/PIM API is not
+# instant. Whatever is compared against this run has to use the same number or
+# the latency figures are not comparable. 0 = answer at local speed.
+tool_api_delay_ms: 300
+
+connect_timeout_s: 20            # websocket connect + session.updated ack
+
+# Server VAD owns the turn boundary: the driver never tells the model that the
+# question ended, it only keeps the microphone open with silence. Same values as
+# the runtime's interaction layer, so the two are comparable.
+turn_detection:
+  type: server_vad
+  threshold: 0.6                 # 0..1; higher = needs louder/clearer speech
+  prefix_padding_ms: 300         # audio kept before detected speech start
+  silence_duration_ms: 800       # trailing silence before the turn counts as over
+  create_response: true
+  interrupt_response: true

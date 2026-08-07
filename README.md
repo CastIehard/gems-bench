@@ -339,9 +339,56 @@ invented words; numbers must fall inside a per-kind tolerance (stock levels
 exact, prices to the cent); lists must match as a set. No LLM is involved, so
 the number is stable.
 
-`results/` is created on first use and holds your own output. This repository
-ships no reference numbers: results depend on the architecture, the model and
-the hardware, so a score from one system is not a baseline for another.
+`results/` is created on first use and holds your own output; it is not
+committed. Measured runs live in [`baselines/`](baselines/), produced with
+[`driver/azure_realtime.py`](driver/azure_realtime.py) so they can be
+reproduced. Treat them as reference points, not targets: a score depends on the
+model, the architecture around it and the hardware, so one system's number is
+not a target for another.
+
+---
+
+## Does TTS distort the results?
+
+The benchmark ships every question twice, synthesized and human-read, over the
+same words. That exists to answer one question: can you trust a number measured
+on synthetic speech? We ran plain Azure OpenAI Realtime (`gpt-realtime-1.5`,
+server VAD, no orchestration) over all 100 questions on both channels.
+
+![Accuracy per category and channel](baselines/gpt-realtime-1.5/accuracy_per_category.png)
+
+**41/100 synthesized, 37/100 human-read** — and that gap is not real. The same
+100 questions run on both channels, so the comparison is paired: 29 items were
+answered correctly on both, 51 failed on both, and only 20 split, 12 in favour of
+synthetic and 8 in favour of human speech. Exact McNemar gives p = 0.50. Latency
+agrees even more closely — median TTFA 4.33 s against 4.34 s, a paired median
+difference of +0.04 s, which is what a baseline that does nothing while listening
+should show and confirms the two runs were measured under the same conditions.
+
+So synthesized audio is a fair stand-in, and a result measured on it does not
+need a human-recorded twin to be believed.
+
+Two things the human channel does change.
+
+**Server VAD splits far more turns.** A pause long enough to look like the end of
+a sentence ends the turn, and human speech has more of them: the turn was split
+on 29 of 100 human recordings against 1 of 100 synthesized. A driver that treats
+the first response as the answer will score those items on half a question —
+`driver/azure_realtime.py` discards an answer that arrives while question audio
+is still being fed and waits for the one after the real end.
+
+**Human speech is ~25 % longer at identical wording**, so a system that works
+during the listening window gets more room on this channel. If that is what your
+architecture does, measure it on both: the synthesized channel is the more
+conservative number.
+
+The per-speaker split is *not* evidence of a voice effect, though `analyze.py`
+prints it under that heading. The two speakers differ by 10 points on the human
+channel (32 % vs 42 %, Fisher p = 0.41) — but the same two halves of the question
+set differ by 10 points on the synthesized channel too (36 % vs 46 %, p = 0.42),
+where a single TTS voice reads everything. That is difficulty variation between
+two halves of 50 items, and it is a useful reminder of how much a 10-point
+difference on this benchmark can be worth: nothing.
 
 ---
 

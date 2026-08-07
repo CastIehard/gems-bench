@@ -168,6 +168,9 @@ def ask(system: VoiceSystem, item: dict, run_id: str) -> dict:
         "session_id": session_id,
         "run_id": run_id,
         "status": "ok" if answer_pcm else "no_answer",
+        # Which channel this item was asked on. Recorded per item rather than left
+        # to the mode label, so a results file explains itself later.
+        "audio_source": AUDIO_SOURCE,
         "wall_time_s": round(time.monotonic() - started, 2),
     }
 

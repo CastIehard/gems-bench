@@ -25,6 +25,17 @@ _ANALYZE = _CFG["analyze"]
 PLOTS_DIR = _PATHS["plots_dir"]
 RESULTS_PATH = _PATHS["results"]
 
+# One hue, light to dark, for magnitude. Accuracy has no meaningful midpoint, so a
+# diverging red-to-green scale would invent one — and red/green is the pair that
+# collapses for the most common colour-vision deficiency.
+SEQUENTIAL_BLUE = [
+    "#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95", "#0d366b",
+]
+SURFACE = "#fcfcfb"
+TEXT_PRIMARY = "#0b0b0b"
+TEXT_SECONDARY = "#52514e"
+
+
 def load_frame() -> pd.DataFrame:
     if not RESULTS_PATH.exists():
         raise SystemExit(f"{RESULTS_PATH} not found — run judge.py first")
@@ -40,6 +51,7 @@ def load_frame() -> pd.DataFrame:
                     # None for synthetic audio; set for human recordings so the
                     # 50/50 speaker split can be checked for a voice effect
                     "speaker": record.get("speaker"),
+                    "audio_source": record.get("audio_source"),
                     "status": record.get("status"),
                     "correct": record.get("decision") == "correct",
                     "list_f1": (record.get("list_f1") or {}).get("f1"),
@@ -168,26 +180,62 @@ def plot_question_heatmap(frame: pd.DataFrame, plt) -> None:
 
 
 def plot_category_heatmap(frame: pd.DataFrame, plt) -> None:
-    pivot = frame.pivot_table(
-        index="category",
-        columns="mode",
-        values="correct",
-        aggfunc="mean",
-        observed=True,
-    ).astype(float)
-    fig, ax = plt.subplots(figsize=(6, 0.6 * len(pivot) + 2))
-    image = ax.imshow(pivot.values, cmap="RdYlGn", vmin=0, vmax=1, aspect="auto")
-    ax.set_xticks(range(len(pivot.columns)), pivot.columns, rotation=30, ha="right")
+    """Accuracy per category × mode.
+
+    Accuracy is a magnitude, so the cells use ONE hue from light to dark rather
+    than a red-to-green scale: a diverging scale implies a neutral midpoint that
+    does not exist here, and red/green is the one pair that collapses for the
+    most common colour-vision deficiency. Rows follow the order the categories
+    are declared in config.yaml, which runs from the control case to the hardest.
+    """
+    from matplotlib.colors import LinearSegmentedColormap
+
+    order = [c for c in _CFG["questions"]["distribution"] if c in set(frame["category"])]
+    pivot = (
+        frame.pivot_table(
+            index="category",
+            columns="mode",
+            values="correct",
+            aggfunc="mean",
+            observed=True,
+        )
+        .astype(float)
+        .reindex(order)
+    )
+    ramp = LinearSegmentedColormap.from_list("gems_blue", SEQUENTIAL_BLUE)
+
+    fig, ax = plt.subplots(figsize=(1.9 * len(pivot.columns) + 2.6, 0.62 * len(pivot) + 2))
+    fig.patch.set_facecolor(SURFACE)
+    ax.set_facecolor(SURFACE)
+    image = ax.imshow(pivot.values, cmap=ramp, vmin=0, vmax=1, aspect="auto")
+
+    ax.set_xticks(range(len(pivot.columns)), pivot.columns)
     ax.set_yticks(range(len(pivot.index)), pivot.index)
+    ax.tick_params(length=0, colors=TEXT_SECONDARY)
+    for spine in ax.spines.values():
+        spine.set_visible(False)
+    # 2 px of surface between cells, so neighbouring blues stay separable
+    ax.set_xticks([x - 0.5 for x in range(1, len(pivot.columns))], minor=True)
+    ax.set_yticks([y - 0.5 for y in range(1, len(pivot.index))], minor=True)
+    ax.grid(which="minor", color=SURFACE, linewidth=2)
+    ax.tick_params(which="minor", length=0)
+
     for i in range(len(pivot.index)):
         for j in range(len(pivot.columns)):
             val = pivot.values[i, j]
             if pd.notna(val):
-                ax.text(j, i, f"{val:.0%}", ha="center", va="center", fontsize=8)
-    ax.set_title("Accuracy per category × mode")
-    fig.colorbar(image, ax=ax, shrink=0.6)
+                # ink flips on the dark half of the ramp, where dark text dies
+                ax.text(
+                    j, i, f"{val:.0%}",
+                    ha="center", va="center", fontsize=10,
+                    color=SURFACE if val > 0.55 else TEXT_PRIMARY,
+                )
+    ax.set_title("Accuracy per category × mode", color=TEXT_PRIMARY, pad=12)
+    bar = fig.colorbar(image, ax=ax, shrink=0.7)
+    bar.outline.set_visible(False)
+    bar.ax.tick_params(length=0, colors=TEXT_SECONDARY)
     fig.tight_layout()
-    fig.savefig(PLOTS_DIR / "category_mode_heatmap.png", dpi=150)
+    fig.savefig(PLOTS_DIR / "category_mode_heatmap.png", dpi=150, facecolor=SURFACE)
     plt.close(fig)
 
 
@@ -270,14 +318,28 @@ def report_deadline(frame: pd.DataFrame) -> None:
 
 
 def report_speaker(frame: pd.DataFrame) -> None:
-    """Speaker robustness check for human audio. The 50/50 split is stratified
-    per category (recording.speakers), so each speaker covers every category
-    equally — any accuracy/TTFA gap between the two is a VOICE effect, not a
-    category effect. Silent for synthetic audio, where no speaker is set."""
-    if not frame["speaker"].notna().any():
+    """Speaker robustness check, human channel only.
+
+    The 50/50 split is stratified per category (recording.speakers), so each
+    speaker covers every category equally and a gap between the two is a VOICE
+    effect rather than a category effect.
+
+    Restricted to rows whose `audio_source` is a human channel. Every item
+    carries a speaker in the manifest — that is who WOULD read it — so on
+    synthesized audio the same two groups exist but share one TTS voice. A gap
+    there is item difficulty between two halves of the set, not a voice effect,
+    and printing it under this heading would invite exactly the wrong reading.
+    """
+    human = frame[frame["audio_source"] == "real"]
+    if human.empty or not human["speaker"].notna().any():
+        if frame["audio_source"].isna().any():
+            print(
+                "\n  speaker robustness: skipped — results carry no audio_source, "
+                "so the channel is unknown (re-run the driver, or backfill it)"
+            )
         return
     by_speaker = (
-        frame.dropna(subset=["speaker"])
+        human.dropna(subset=["speaker"])
         .groupby(["mode", "speaker"], observed=True)
         .agg(
             questions=("question_id", "count"),

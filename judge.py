@@ -343,10 +343,19 @@ def run(modes: list[str] | None = None) -> dict:
                 print(f"[{mode}/{question_id}] not in manifest, skipping")
                 continue
             if run_entry.get("status") != "ok":
+                # category and speaker come along even though there is nothing to
+                # grade: without them the item counts in the total but drops out
+                # of every per-category and per-speaker breakdown, so the parts
+                # stop summing to the whole.
                 mode_results[question_id] = {
                     "status": run_entry.get("status"),
                     "decision": "incorrect",
                     "rationale": f"Run status: {run_entry.get('status')}",
+                    "category": entry.get("category"),
+                    "speaker": entry.get("speaker"),
+                    "audio_source": run_entry.get("audio_source"),
+                    "question": entry.get("prompt"),
+                    "ground_truth": entry.get("answer"),
                 }
                 continue
 
@@ -375,6 +384,7 @@ def run(modes: list[str] | None = None) -> dict:
                 "answer_type": entry.get("answer_type"),
                 "category": entry.get("category"),
                 "speaker": entry.get("speaker"),
+                "audio_source": run_entry.get("audio_source"),
                 "model_answer": answer,
                 "answer_source": answer_source,
                 # verbosity covariate: lets analyze.py check whether a mode's
