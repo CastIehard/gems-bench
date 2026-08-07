@@ -1,0 +1,42 @@
+# GEMS-Bench — full dependency set (standalone; nothing outside this repo).
+#
+#   python3.12 -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+#
+# Python must be >=3.11,<3.14.
+#
+# Scoring a run needs only the core group plus speech-to-text. The generator
+# and TTS groups are needed exclusively for rebuilding the dataset from
+# scratch (see main.ipynb) — skip them if you only want to evaluate a model.
+
+# --- core: config, data, scoring, plots ---
+pyyaml>=6.0
+orjson>=3.10.0
+numpy>=1.26.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+tabulate>=0.9.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+
+# --- speech-to-text for offline scoring (src/oss_stt.py) ---
+# Whisper large-v3 on Apple Silicon via Metal. On other platforms, replace with
+# an equivalent Whisper build and adjust stt.model in config.yaml.
+mlx-whisper>=0.4.3
+
+# --- driving audio into a system under test (driver/) ---
+websockets>=16.1
+
+# --- dataset generation only (Stage 0 network fetch, notebook UI, recorder) ---
+httpx>=0.27.0
+ipywidgets>=8.1.0
+sounddevice>=0.5.0
+
+# --- text-to-speech for synthesizing question audio (Stage 8) ---
+# transformers MUST stay below 5 — 5.x produces invalid all-zero codes for this
+# custom-code model (see https://github.com/Audio8-AI/Audio8_TTS troubleshooting).
+torch>=2.5.0
+torchaudio>=2.5.0
+transformers>=4.57.0,<5
+soundfile>=0.12
+safetensors>=0.4
