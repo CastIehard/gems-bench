@@ -88,6 +88,15 @@ class VoiceSystem:
         """
         raise NotImplementedError
 
+    def write_records(self, record_dir: Path) -> None:
+        """Optional: write this turn's own logs next to the answer recording.
+
+        `judge.py` grades the audio alone, but it also reads `transcript.jsonl`,
+        `timing.jsonl` and `raw_realtime_events.jsonl` from this directory when
+        they exist — that is what feeds the latency and tool-call metrics. Leave
+        this method alone if your system keeps no such logs.
+        """
+
 
 class SilentSystem(VoiceSystem):
     """Answers nothing. For testing the harness without a model or credentials."""
@@ -152,10 +161,9 @@ def ask(system: VoiceSystem, item: dict, run_id: str) -> dict:
     answer_pcm = system.end_turn()
 
     # judge.py grades this file, and finds it by (run_id, session_id)
-    write_pcm16(
-        RUNNER_OUTPUT_DIR / run_id / "records" / session_id / "assistant_audio.wav",
-        answer_pcm,
-    )
+    record_dir = RUNNER_OUTPUT_DIR / run_id / "records" / session_id
+    write_pcm16(record_dir / "assistant_audio.wav", answer_pcm)
+    system.write_records(record_dir)
     return {
         "session_id": session_id,
         "run_id": run_id,
