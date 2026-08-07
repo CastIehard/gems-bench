@@ -5,8 +5,9 @@ OUT: audio_synthetic/*.wav  +  data/stage_7_questions.json
 
 Synthesizes every item to a WAV under audio_synthetic/, records the
 relative path in each item's `audio_files.synthetic`. Model loads once;
-existing WAVs skipped unless --rerun. No reference-audio conditioning —
-each item gets the model's own default voice.
+existing WAVs skipped unless --rerun. No reference-audio conditioning, so the
+voice is drawn per item: the synthetic channel is voice-varied rather than one
+speaker, and unbalanced towards lower pitch (see the note in config.yaml).
 
 torch/transformers are imported lazily so importing this module (e.g. in
 the notebook) never fails on machines without them. Install:

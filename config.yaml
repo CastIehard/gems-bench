@@ -354,8 +354,12 @@ stt:
     window_ms: 20           # RMS window for the silence scan; 20 ms resolves inter-word gaps
 
 # - TTS: local, OSS (Audio8-TTS-Preview-0.6b via transformers) -
-# No fixed-speaker control: this preview checkpoint's plain-TTS mode has no
-# reference-audio conditioning, so each item gets the model's own default voice (varies slightly per draw).
+# No fixed-speaker control: this checkpoint's plain-TTS mode takes no reference
+# audio, so the voice is drawn per item and the synthetic channel is NOT one
+# speaker. Measured over the 100 files, median F0 lands at 142 Hz with a spread of
+# 104-203 Hz — close to an octave — but skewed low, with 84 of 100 under 165 Hz.
+# Treat the synthetic channel as voice-varied and unbalanced; the balanced
+# 50/50 split lives in the human recordings (see `recording.speakers`).
 tts:
   model_id: "Audio8/Audio8-TTS-Preview-0.6b"
   max_new_tokens: 1024        # first-attempt token budget
