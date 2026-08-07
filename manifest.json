@@ -5,9 +5,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Breischale senfgelb, 1 St geliefert?",
     "spoken": "Weißt du noch, von welcher Firma das Produkt Breischale senfgelb, 1 Stück geliefert wird?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0000.wav",
-    "audio_duration_s": 4.783,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0000.wav",
+      "real": "audio_real/one_hop_0000.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 4.783,
+      "real": 8.107
+    },
     "answer": "Pommern Transport GmbH",
     "accepted_answers": [
       "Pommern Transport GmbH"
@@ -24,9 +29,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Pflanzendrink, Cashew natur, 1 l geliefert?",
     "spoken": "Weißt du, von welcher Firma der Pflanzendrink Cashew natur in der 1-Liter-Packung geliefert wird?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0001.wav",
-    "audio_duration_s": 6.177,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0001.wav",
+      "real": "audio_real/one_hop_0001.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.177,
+      "real": 7.68
+    },
     "answer": "Köln Bonner Industrie Service GmbH",
     "accepted_answers": [
       "Köln Bonner Industrie Service GmbH"
@@ -43,9 +53,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Haferriegel, Oat Bar Cocoa, 60 g geliefert?",
     "spoken": "Mh, von welcher Firma kommt denn der Haferriegel, Oat Bar Cocoa, 60 Gramm?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0002.wav",
-    "audio_duration_s": 5.016,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0002.wav",
+      "real": "audio_real/one_hop_0002.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 5.016,
+      "real": 6.656
+    },
     "answer": "Hanseatic Cargo Solutions GmbH",
     "accepted_answers": [
       "Hanseatic Cargo Solutions GmbH"
@@ -62,9 +77,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Kinderkekse Haselnussecken, ab 3 Jahren, 30 g geliefert?",
     "spoken": "Von welcher Firma wird das Produkt Kinderkekse Haselnussecken, ab 3 Jahren, 30 Gramm geliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0003.wav",
-    "audio_duration_s": 5.991,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0003.wav",
+      "real": "audio_real/one_hop_0003.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 5.991,
+      "real": 9.813
+    },
     "answer": "Münchner Präzisionslogistik AG",
     "accepted_answers": [
       "Münchner Präzisionslogistik AG"
@@ -81,9 +101,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g geliefert?",
     "spoken": "Hey, von welcher Firma wird das Produkt Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 Gramm geliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0004.wav",
-    "audio_duration_s": 8.731,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0004.wav",
+      "real": "audio_real/one_hop_0004.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.731,
+      "real": 10.24
+    },
     "answer": "Elbe Container Services AG",
     "accepted_answers": [
       "Elbe Container Services AG"
@@ -100,9 +125,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Mundspülung Super Clean, 500 ml geliefert?",
     "spoken": "Von welcher Firma wird die Mundspülung Super Clean, 500 Milliliter, geliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0005.wav",
-    "audio_duration_s": 4.783,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0005.wav",
+      "real": "audio_real/one_hop_0005.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 4.783,
+      "real": 7.168
+    },
     "answer": "Erzgebirge Bergbau AG",
     "accepted_answers": [
       "Erzgebirge Bergbau AG"
@@ -119,9 +149,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g geliefert?",
     "spoken": "Von welcher Firma wird das Proteinpulver Protein Shake Vegan im Geschmack Mango Passionfruit mit 28 Gramm geliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0006.wav",
-    "audio_duration_s": 7.709,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0006.wav",
+      "real": "audio_real/one_hop_0006.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.709,
+      "real": 9.387
+    },
     "answer": "Hessen Rohstoffhandel GmbH",
     "accepted_answers": [
       "Hessen Rohstoffhandel GmbH"
@@ -138,9 +173,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Mundspülung Total Care Intensive Minze alkoholfrei, 500 ml geliefert?",
     "spoken": "Von welcher Firma wird die Mundspülung Total Care Intensive Minze alkoholfrei, 500 Milliliter geliefert, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0007.wav",
-    "audio_duration_s": 6.641,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0007.wav",
+      "real": "audio_real/one_hop_0007.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.641,
+      "real": 11.691
+    },
     "answer": "Alpenland Kühlkette GmbH",
     "accepted_answers": [
       "Alpenland Kühlkette GmbH"
@@ -157,9 +197,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück), 90 g geliefert?",
     "spoken": "Hey, von welcher Firma wird der Schokoriegel \"Melto\" Chocolat au Lait, glutenfrei, 3 Stück, 90 Gramm geliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0008.wav",
-    "audio_duration_s": 7.802,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0008.wav",
+      "real": "audio_real/one_hop_0008.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.802,
+      "real": 9.131
+    },
     "answer": "Hanseatic Cargo Solutions GmbH",
     "accepted_answers": [
       "Hanseatic Cargo Solutions GmbH"
@@ -176,9 +221,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Nagellack 13 Mademoiselle Rosé, 13,5 ml geliefert?",
     "spoken": "Von welcher Firma wird der Nagellack 13 Mademoiselle Rosé mit 13,5 Millilitern geliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0009.wav",
-    "audio_duration_s": 6.641,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0009.wav",
+      "real": "audio_real/one_hop_0009.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.641,
+      "real": 9.301
+    },
     "answer": "Köln Bonner Industrie Service GmbH",
     "accepted_answers": [
       "Köln Bonner Industrie Service GmbH"
@@ -195,9 +245,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g geliefert?",
     "spoken": "Von welcher Firma wird das Kindermüsli Banane, Apfel und Blaubeere ab 1 Jahr, 220 Gramm geliefert, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0010.wav",
-    "audio_duration_s": 6.873,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0010.wav",
+      "real": "audio_real/one_hop_0010.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.873,
+      "real": 9.557
+    },
     "answer": "Hanseatic Cargo Solutions GmbH",
     "accepted_answers": [
       "Hanseatic Cargo Solutions GmbH"
@@ -214,9 +269,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g geliefert?",
     "spoken": "Kannst du mir sagen, von welcher Firma das Produkt Nudeln, Gnocchi aus Kartoffeln und Sommerdinkel, 400 Gramm, geliefert wird?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0011.wav",
-    "audio_duration_s": 7.291,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0011.wav",
+      "real": "audio_real/one_hop_0011.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.291,
+      "real": 12.544
+    },
     "answer": "Rhein-Main Frachtzentrum AG",
     "accepted_answers": [
       "Rhein-Main Frachtzentrum AG"
@@ -233,9 +293,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Quetschie Carrot Cat, Karotte, Mango, Banane & Birne ab 6 Monaten, 100 g geliefert?",
     "spoken": "Das Produkt Quetschie Carrot Cat, Karotte, Mango, Banane & Birne ab 6 Monaten, 100 Gramm – von welcher Firma wird das geliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0012.wav",
-    "audio_duration_s": 8.87,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0012.wav",
+      "real": "audio_real/one_hop_0012.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.87,
+      "real": 10.325
+    },
     "answer": "Sächsische Präzisionsteile GmbH",
     "accepted_answers": [
       "Sächsische Präzisionsteile GmbH"
@@ -252,9 +317,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Foundation Super Stay Hybrides 40, 9 g geliefert?",
     "spoken": "Weißt du, von welcher Firma das Produkt Foundation Super Stay Hybrides 40, 9 Gramm geliefert wird?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0013.wav",
-    "audio_duration_s": 5.573,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0013.wav",
+      "real": "audio_real/one_hop_0013.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 5.573,
+      "real": 9.216
+    },
     "answer": "Stuttgarter Automobilzulieferung GmbH",
     "accepted_answers": [
       "Stuttgarter Automobilzulieferung GmbH"
@@ -271,9 +341,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Walnusskerne, 150 g geliefert?",
     "spoken": "Also, die Walnusskerne, 150 Gramm – von welcher Firma wird das geliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0014.wav",
-    "audio_duration_s": 4.412,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0014.wav",
+      "real": "audio_real/one_hop_0014.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 4.412,
+      "real": 7.339
+    },
     "answer": "Leipziger Messe Logistik AG",
     "accepted_answers": [
       "Leipziger Messe Logistik AG"
@@ -290,9 +365,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g geliefert?",
     "spoken": "Kannst du mir sagen, von welcher Firma das Produkt Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 Gramm geliefert wird?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0015.wav",
-    "audio_duration_s": 8.499,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0015.wav",
+      "real": "audio_real/one_hop_0015.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.499,
+      "real": 9.045
+    },
     "answer": "Thüringer Maschinenbau GmbH",
     "accepted_answers": [
       "Thüringer Maschinenbau GmbH"
@@ -309,9 +389,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g geliefert?",
     "spoken": "Der Lidschatten Stick Le Shadow 030 Nude Lights mit 1,4 Gramm – von welcher Firma wird der geliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0016.wav",
-    "audio_duration_s": 7.105,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0016.wav",
+      "real": "audio_real/one_hop_0016.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.105,
+      "real": 10.837
+    },
     "answer": "Mitteldeutsche Fracht GmbH",
     "accepted_answers": [
       "Mitteldeutsche Fracht GmbH"
@@ -328,9 +413,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Fruchtaufstrich, Erdbeere mit Xylit, 220 g geliefert?",
     "spoken": "Weißt du noch, von welcher Firma das Produkt Fruchtaufstrich, Erdbeere mit Xylit, 220 Gramm geliefert wird?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0017.wav",
-    "audio_duration_s": 7.152,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0017.wav",
+      "real": "audio_real/one_hop_0017.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.152,
+      "real": 9.643
+    },
     "answer": "Münchner Präzisionslogistik AG",
     "accepted_answers": [
       "Münchner Präzisionslogistik AG"
@@ -347,9 +437,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Von welcher Firma wird das Produkt Weichspüler Mandelmilch 40WL, 880 ml geliefert?",
     "spoken": "Sag mal, von welcher Firma kommt denn der Weichspüler Mandelmilch mit 40 Waschladungen und 880 Milliliter?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0018.wav",
-    "audio_duration_s": 6.455,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0018.wav",
+      "real": "audio_real/one_hop_0018.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.455,
+      "real": 9.813
+    },
     "answer": "Nordsee Transport & Co. KG",
     "accepted_answers": [
       "Nordsee Transport & Co. KG"
@@ -366,9 +461,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Von welcher Firma wird das Produkt Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g geliefert?",
     "spoken": "Kannst du mir sagen, von welcher Firma das Produkt Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 Gramm geliefert wird?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/one_hop_0019.wav",
-    "audio_duration_s": 6.92,
+    "audio_files": {
+      "synthetic": "audio_synthetic/one_hop_0019.wav",
+      "real": "audio_real/one_hop_0019.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.92,
+      "real": 9.472
+    },
     "answer": "Alpenland Kühlkette GmbH",
     "accepted_answers": [
       "Alpenland Kühlkette GmbH"
@@ -385,9 +485,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Nussmischung, Gerösteter Edelnuss-Mix, 160 g?",
     "spoken": "Mich würde interessieren, in welcher Region das Lager des Lieferanten der Marke des Produkts Nussmischung, Gerösteter Edelnuss-Mix, 160 Gramm, liegt.",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0000.wav",
-    "audio_duration_s": 9.474,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0000.wav",
+      "real": "audio_real/serial_0000.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.474,
+      "real": 16.299
+    },
     "answer": "Seenplatte",
     "accepted_answers": [
       "Seenplatte"
@@ -407,9 +512,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten des Produkts Taschentücher Box Balsam 4-lagig, 120 St?",
     "spoken": "In welcher Region liegt das Lager des Lieferanten für das Produkt Taschentücher Box Balsam 4-lagig, 120 Stück?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0001.wav",
-    "audio_duration_s": 7.477,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0001.wav",
+      "real": "audio_real/serial_0001.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.477,
+      "real": 10.496
+    },
     "answer": "Nordmark",
     "accepted_answers": [
       "Nordmark"
@@ -428,9 +538,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Kinder Badezusatz Badebombe Dragons, 1 St?",
     "spoken": "Das Lager des Lieferanten für die Marke des Produkts Kinder Badezusatz Badebombe Dragons, 1 Stück, liegt in welcher Region, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0002.wav",
-    "audio_duration_s": 8.173,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0002.wav",
+      "real": "audio_real/serial_0002.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.173,
+      "real": 11.435
+    },
     "answer": "Mittelberg",
     "accepted_answers": [
       "Mittelberg"
@@ -450,9 +565,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g?",
     "spoken": "Das Lager des Lieferanten der Marke von dem Fruchtaufstrich, Waldfrucht mit 55 Prozent Frucht, 340 Gramm – in welcher Region liegt das, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0003.wav",
-    "audio_duration_s": 9.66,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0003.wav",
+      "real": "audio_real/serial_0003.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.66,
+      "real": 12.203
+    },
     "answer": "Südergau",
     "accepted_answers": [
       "Südergau"
@@ -472,9 +592,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten des Produkts Fruchtaufstrich, Erdbeere 75% Frucht, 250 g?",
     "spoken": "Weißt du, in welcher Region das Lager von dem Lieferanten für den Fruchtaufstrich Erdbeere mit 75 Prozent Frucht, 250 Gramm, liegt?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0004.wav",
-    "audio_duration_s": 10.542,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0004.wav",
+      "real": "audio_real/serial_0004.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 10.542,
+      "real": 11.008
+    },
     "answer": "Seenplatte",
     "accepted_answers": [
       "Seenplatte"
@@ -493,9 +618,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten des Produkts Müsliriegel, Hafer Nuss, 3er Pack, 105 g?",
     "spoken": "Hey, weißt du, in welcher Region das Lager von dem Lieferanten für den Müsliriegel Hafer Nuss, 3er Pack, 105 Gramm liegt?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0005.wav",
-    "audio_duration_s": 7.523,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0005.wav",
+      "real": "audio_real/serial_0005.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.523,
+      "real": 12.459
+    },
     "answer": "Südergau",
     "accepted_answers": [
       "Südergau"
@@ -514,9 +644,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Flüssigseife Rosemary & Ginger, 250 ml?",
     "spoken": "In welcher Region liegt das Lager des Lieferanten der Marke der Flüssigseife Rosemary & Ginger, 250 Milliliter, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0006.wav",
-    "audio_duration_s": 7.291,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0006.wav",
+      "real": "audio_real/serial_0006.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.291,
+      "real": 9.643
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -536,9 +671,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Geschenkset The Super Peptide Glossy Lip Butter 4tlg, 1 St?",
     "spoken": "Mh, in welcher Region liegt das Lager von dem Lieferanten der Marke von dem Produkt Geschenkset The Super Peptide Glossy Lip Butter 4-teilig, 1 Stück?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0007.wav",
-    "audio_duration_s": 9.613,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0007.wav",
+      "real": "audio_real/serial_0007.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.613,
+      "real": 11.605
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -558,9 +698,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g?",
     "spoken": "Mh, wo genau liegt eigentlich das Lager von dem Lieferanten, der die Marke von dem festen Duschgel Ocean Dive Bio-Aloe Vera und Meersalz mit 80 Gramm beliefert?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0008.wav",
-    "audio_duration_s": 11.146,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0008.wav",
+      "real": "audio_real/serial_0008.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 11.146,
+      "real": 11.435
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -580,9 +725,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Kaffee Entkoffeiniert löslich, 100 g?",
     "spoken": "Mh, in welcher Region liegt eigentlich das Lager vom Lieferanten der Marke von dem Produkt Kaffee Entkoffeiniert löslich, 100 Gramm?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0009.wav",
-    "audio_duration_s": 9.381,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0009.wav",
+      "real": "audio_real/serial_0009.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.381,
+      "real": 10.923
+    },
     "answer": "Westfelser Mark",
     "accepted_answers": [
       "Westfelser Mark"
@@ -602,9 +752,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten des Produkts Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g?",
     "spoken": "In welcher Region liegt das Lager von dem Lieferanten, der den Fruchtaufstrich Frucht Pur Himbeere mit 75 Prozent Frucht, 200 Gramm, liefert, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0010.wav",
-    "audio_duration_s": 10.635,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0010.wav",
+      "real": "audio_real/serial_0010.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 10.635,
+      "real": 12.544
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -623,9 +778,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Quetschie wiederverwendbar, 3er-Pack, 3 St?",
     "spoken": "Kannst du mir sagen, in welcher Region das Lager des Lieferanten der Marke des Produkts Quetschie wiederverwendbar, 3er-Pack, 3 Stück liegt?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0011.wav",
-    "audio_duration_s": 8.545,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0011.wav",
+      "real": "audio_real/serial_0011.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.545,
+      "real": 10.496
+    },
     "answer": "Seenplatte",
     "accepted_answers": [
       "Seenplatte"
@@ -645,9 +805,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g?",
     "spoken": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Proteinriegel 25 Prozent, Deluxe mit Pistazienbutter, 55 Gramm?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0012.wav",
-    "audio_duration_s": 10.356,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0012.wav",
+      "real": "audio_real/serial_0012.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 10.356,
+      "real": 11.947
+    },
     "answer": "Seenplatte",
     "accepted_answers": [
       "Seenplatte"
@@ -667,9 +832,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Lidschatten Palette Quattro 37 Chocolate, 4,4 g?",
     "spoken": "Das Lager vom Lieferanten der Marke von der Lidschatten Palette Quattro 37 Chocolate, 4,4 Gramm – in welcher Region liegt das, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0013.wav",
-    "audio_duration_s": 8.173,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0013.wav",
+      "real": "audio_real/serial_0013.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.173,
+      "real": 12.459
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -689,9 +859,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Spülmittel-Gel Himbeer, 500 ml?",
     "spoken": "Kannst du mir sagen, in welcher Region das Lager des Lieferanten der Marke des Produkts Spülmittel-Gel Himbeer mit 500 Milliliter liegt?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0014.wav",
-    "audio_duration_s": 7.477,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0014.wav",
+      "real": "audio_real/serial_0014.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.477,
+      "real": 12.288
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -711,9 +886,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten des Produkts Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g?",
     "spoken": "Kannst du mir sagen, in welcher Region das Lager des Lieferanten für das Produkt Babykekse Dinkel, Apfel und Vanille ab dem 8. Monat, 100 Gramm, liegt?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0015.wav",
-    "audio_duration_s": 8.081,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0015.wav",
+      "real": "audio_real/serial_0015.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.081,
+      "real": 10.069
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -732,9 +912,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Frucht & Joghurt Müsli Guten Morgen ab dem 10. Monat, 160 g?",
     "spoken": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Frucht und Joghurt Müsli Guten Morgen ab dem 10. Monat, 160 Gramm?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0016.wav",
-    "audio_duration_s": 9.149,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0016.wav",
+      "real": "audio_real/serial_0016.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.149,
+      "real": 13.995
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -754,9 +939,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Körperpeeling Macadamia & Reismilch, 225 ml?",
     "spoken": "Hey, weißt du zufällig, in welcher Region das Lager von dem Lieferanten der Marke des Körperpeelings Macadamia und Reismilch mit 225 Milliliter liegt?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0017.wav",
-    "audio_duration_s": 10.17,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0017.wav",
+      "real": "audio_real/serial_0017.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 10.17,
+      "real": 12.8
+    },
     "answer": "Mittelberg",
     "accepted_answers": [
       "Mittelberg"
@@ -776,9 +966,14 @@
     "speaker": "speaker_2_male",
     "prompt": "In welcher Region liegt das Lager des Lieferanten des Produkts Peeling Spray, Peel Good Baby, 80 ml?",
     "spoken": "Mich würde interessieren, in welcher Region das Lager des Lieferanten für das Produkt Peeling Spray, Peel Good Baby, 80 Milliliter liegt.",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0018.wav",
-    "audio_duration_s": 9.427,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0018.wav",
+      "real": "audio_real/serial_0018.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.427,
+      "real": 11.605
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -797,9 +992,14 @@
     "speaker": "speaker_1_female",
     "prompt": "In welcher Region liegt das Lager des Lieferanten der Marke des Produkts Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g?",
     "spoken": "Mh, in welcher Region liegt eigentlich das Lager vom Lieferanten der Marke von dem Produkt Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 Gramm?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/serial_0019.wav",
-    "audio_duration_s": 9.706,
+    "audio_files": {
+      "synthetic": "audio_synthetic/serial_0019.wav",
+      "real": "audio_real/serial_0019.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.706,
+      "real": 15.616
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -819,9 +1019,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g — in welcher Region liegt das Lager seines Lieferanten?",
     "spoken": "Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 Gramm — in welcher Region liegt das Lager seines Lieferanten?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0000.wav",
-    "audio_duration_s": 8.081,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0000.wav",
+      "real": "audio_real/early_0000.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.081,
+      "real": 9.813
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -840,9 +1045,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g — in welcher Region liegt das Lager seines Lieferanten?",
     "spoken": "Also, bei der Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew und Walnuss, 150 Gramm — in welcher Region liegt das Lager von seinem Lieferanten?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0001.wav",
-    "audio_duration_s": 9.056,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0001.wav",
+      "real": "audio_real/early_0001.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.056,
+      "real": 12.715
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -861,9 +1071,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Zahnseidesticks Clean PRO Lemon-Minze fluorid antibakteriell, 48 St — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Also, bei den Zahnseidesticks Clean PRO Lemon-Minze fluorid antibakteriell, 48 Stück — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0002.wav",
-    "audio_duration_s": 9.985,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0002.wav",
+      "real": "audio_real/early_0002.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.985,
+      "real": 13.141
+    },
     "answer": "Nordmark",
     "accepted_answers": [
       "Nordmark"
@@ -883,9 +1098,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Proteinpulver, Clear Protein Green Apple Geschmack, 300 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Das Produkt ist das Proteinpulver Clear Protein im Geschmack Green Apple, 300 Gramm — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0003.wav",
-    "audio_duration_s": 9.52,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0003.wav",
+      "real": "audio_real/early_0003.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.52,
+      "real": 11.435
+    },
     "answer": "Mittelberg",
     "accepted_answers": [
       "Mittelberg"
@@ -905,9 +1125,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Men After Shave Lotion, 100 ml — in welcher Region liegt das Lager seines Lieferanten?",
     "spoken": "Men After Shave Lotion, 100 Milliliter — in welcher Region liegt das Lager seines Lieferanten?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0004.wav",
-    "audio_duration_s": 6.269,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0004.wav",
+      "real": "audio_real/early_0004.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.269,
+      "real": 8.96
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -926,9 +1151,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 Milliliter — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0005.wav",
-    "audio_duration_s": 11.146,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0005.wav",
+      "real": "audio_real/early_0005.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 11.146,
+      "real": 14.848
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -948,9 +1178,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Deospray Man Lavender Coffee Tonka Bean, 150 ml — in welcher Region liegt das Lager seines Lieferanten?",
     "spoken": "Beim Produkt Deospray Man Lavender Coffee Tonka Bean, 150 Milliliter — in welcher Region liegt das Lager seines Lieferanten?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0006.wav",
-    "audio_duration_s": 8.266,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0006.wav",
+      "real": "audio_real/early_0006.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.266,
+      "real": 9.899
+    },
     "answer": "Nordmark",
     "accepted_answers": [
       "Nordmark"
@@ -969,9 +1204,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g — in welcher Region liegt das Lager seines Lieferanten?",
     "spoken": "Janosch Bärenfreunde mit Fruchtgeschmack, 50 Gramm — in welcher Region liegt das Lager seines Lieferanten?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0007.wav",
-    "audio_duration_s": 6.502,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0007.wav",
+      "real": "audio_real/early_0007.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.502,
+      "real": 13.909
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -990,9 +1230,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 Milliliter — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0008.wav",
-    "audio_duration_s": 8.034,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0008.wav",
+      "real": "audio_real/early_0008.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.034,
+      "real": 15.019
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -1012,9 +1257,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Haargel Locken Styling Gel, 250 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Haargel Locken Styling Gel, 250 Milliliter — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0009.wav",
-    "audio_duration_s": 7.105,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0009.wav",
+      "real": "audio_real/early_0009.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 7.105,
+      "real": 9.387
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -1034,9 +1284,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 Gramm — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0010.wav",
-    "audio_duration_s": 10.495,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0010.wav",
+      "real": "audio_real/early_0010.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 10.495,
+      "real": 15.019
+    },
     "answer": "Seenplatte",
     "accepted_answers": [
       "Seenplatte"
@@ -1056,9 +1311,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Nagellack Gel by 545 Tassel Free, 13,5 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Nagellack Gel by 545 Tassel Free, 13,5 Milliliter — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0011.wav",
-    "audio_duration_s": 9.288,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0011.wav",
+      "real": "audio_real/early_0011.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.288,
+      "real": 13.397
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -1078,9 +1338,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Leave-In Haarkur, für lockiges Haar, 250 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Die Leave-In Haarkur für lockiges Haar, 250 Milliliter — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0012.wav",
-    "audio_duration_s": 8.127,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0012.wav",
+      "real": "audio_real/early_0012.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.127,
+      "real": 10.923
+    },
     "answer": "Nordmark",
     "accepted_answers": [
       "Nordmark"
@@ -1100,9 +1365,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Rasierklingen, Comfortglide Spa Breeze, 12 St — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Rasierklingen, Comfortglide Spa Breeze, 12 Stück — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0013.wav",
-    "audio_duration_s": 8.731,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0013.wav",
+      "real": "audio_real/early_0013.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.731,
+      "real": 12.288
+    },
     "answer": "Nordmark",
     "accepted_answers": [
       "Nordmark"
@@ -1122,9 +1392,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Das Produkt Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 Milliliter Einweg — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0014.wav",
-    "audio_duration_s": 9.056,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0014.wav",
+      "real": "audio_real/early_0014.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 9.056,
+      "real": 12.032
+    },
     "answer": "Westfelser Mark",
     "accepted_answers": [
       "Westfelser Mark"
@@ -1144,9 +1419,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Kinder Badezusatz Badefizzer, 20 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Kinder Badezusatz Badefizzer, 20 Gramm — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0015.wav",
-    "audio_duration_s": 6.084,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0015.wav",
+      "real": "audio_real/early_0015.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.084,
+      "real": 12.459
+    },
     "answer": "Südergau",
     "accepted_answers": [
       "Südergau"
@@ -1166,9 +1446,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Also, bei der Nuss- & Trockenfrüchtemischung, Trail Mix, 150 Gramm — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0016.wav",
-    "audio_duration_s": 8.684,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0016.wav",
+      "real": "audio_real/early_0016.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.684,
+      "real": 13.141
+    },
     "answer": "Südergau",
     "accepted_answers": [
       "Südergau"
@@ -1188,9 +1473,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Beim Produkt Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 Stück — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0017.wav",
-    "audio_duration_s": 10.31,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0017.wav",
+      "real": "audio_real/early_0017.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 10.31,
+      "real": 8.96
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -1210,9 +1500,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Couscous, 500 g — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Couscous, 500 Gramm — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0018.wav",
-    "audio_duration_s": 6.734,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0018.wav",
+      "real": "audio_real/early_0018.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 6.734,
+      "real": 7.765
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -1232,9 +1527,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Beim Produkt Nagellack 27 Watermelon, 13,5 ml — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
     "spoken": "Nagellack 27 Watermelon, 13,5 Milliliter — in welcher Region liegt das Lager des Lieferanten seiner Marke?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/early_0019.wav",
-    "audio_duration_s": 8.731,
+    "audio_files": {
+      "synthetic": "audio_synthetic/early_0019.wav",
+      "real": "audio_real/early_0019.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 8.731,
+      "real": 10.581
+    },
     "answer": "Ostland",
     "accepted_answers": [
       "Ostland"
@@ -1254,9 +1554,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Küchenrolle Wisch&Weg eXtra Lang (2x86 Blatt), 2 St; Concealer Skin Lovin' Sensitive 20 Medium, 3,5 ml; Waschmittel Renew Schwarz, 27 Wl; Spülmittel-Gel Himbeer, 500 ml; Tomatenmark, 200 g; Haaröl Coconut Miracle Oil, 100 ml; Kichererbsenwaffeln Zartbitter, 100 g; Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g; Tuchmaske Reiswasser, 1 St; Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Es geht um folgende Produkte: Küchenrolle Wisch&Weg eXtra Lang (2x86 Blatt), 2 St; Concealer Skin Lovin' Sensitive 20 Medium, 3,5 ml; Waschmittel Renew Schwarz, 27 Wl; Spülmittel-Gel Himbeer, 500 ml; Tomatenmark, 200 g; Haaröl Coconut Miracle Oil, 100 ml; Kichererbsenwaffeln Zartbitter, 100 g; Babykeks Rübchen Rote Bete & Pastinake, ab dem 8. Monat, 30 g; Tuchmaske Reiswasser, 1 St; Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g. Welches davon hat den höchsten Lagerbestand?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0000.wav",
-    "audio_duration_s": 38.842,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0000.wav",
+      "real": "audio_real/select_0000.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 38.842,
+      "real": 57.856
+    },
     "answer": "Waschmittel Renew Schwarz, 27 Wl",
     "accepted_answers": [
       "Waschmittel Renew Schwarz, 27 Wl"
@@ -1282,9 +1587,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Haarkur Night Elixier Ultimate Repair, 100 ml; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Glasreiniger mit Glanzschutz-Formel, 1 l; Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St; Körperbutter Creamy Blueberry Caramel Bliss, 235 ml; Pflanzendrink, Cashew natur, 1 l; Antitranspirant Deo Roll-on Classic, 50 ml; Haargel Locken Styling Gel, 250 ml; Foundation Super Stay Hybrides 40, 9 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Weißt du noch, welches von diesen Produkten den höchsten Lagerbestand hat: Haarkur Night Elixier Ultimate Repair, 100 Milliliter; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 Gramm; Glasreiniger mit Glanzschutz-Formel, 1 Liter; Toilettenpapier Premium 5-lagig, 6 mal 110 Blatt, 6 Stück; Körperbutter Creamy Blueberry Caramel Bliss, 235 Milliliter; Pflanzendrink, Cashew natur, 1 Liter; Antitranspirant Deo Roll-on Classic, 50 Milliliter; Haargel Locken Styling Gel, 250 Milliliter; Foundation Super Stay Hybrides 40, 9 Gramm?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0001.wav",
-    "audio_duration_s": 40.467,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0001.wav",
+      "real": "audio_real/select_0001.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 40.467,
+      "real": 46.251
+    },
     "answer": "Pflanzendrink, Cashew natur, 1 l",
     "accepted_answers": [
       "Pflanzendrink, Cashew natur, 1 l"
@@ -1309,9 +1619,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Kakaopulver, Heiße Schokolade mit Xylit, 200 g; Mascara Grow & Tint Deep Black, 12 ml; Cashewkerne, 150 g; Körperpeeling Macadamia & Reismilch, 225 ml; Kinder Badezusatz Badefizzer, 20 g; Karamell-Keks Creme, Lovely Caramel, 190 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Es geht um diese Produkte: Kakaopulver, Heiße Schokolade mit Xylit, 200 Gramm; Mascara Grow & Tint Deep Black, 12 Milliliter; Cashewkerne, 150 Gramm; Körperpeeling Macadamia & Reismilch, 225 Milliliter; Kinder Badezusatz Badefizzer, 20 Gramm; Karamell-Keks Creme, Lovely Caramel, 190 Gramm. Welches davon hat den höchsten Lagerbestand, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0002.wav",
-    "audio_duration_s": 25.978,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0002.wav",
+      "real": "audio_real/select_0002.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 25.978,
+      "real": 30.976
+    },
     "answer": "Kakaopulver, Heiße Schokolade mit Xylit, 200 g",
     "accepted_answers": [
       "Kakaopulver, Heiße Schokolade mit Xylit, 200 g"
@@ -1333,9 +1648,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Müsli Kekse, ab 3 Jahren, 125 g; Gesichtswasser Anti-Mitesser, 200 ml; Kinder Badezusatz Badebombe Dragons, 1 St; Mundspülung Super Clean, 500 ml; Rasierklingen, Smooth, 4 St; Tomatenmark, 200 g; Kaffee Entkoffeiniert löslich, 100 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Also, bei den Produkten Müsli Kekse ab 3 Jahren, 125 Gramm, Gesichtswasser Anti-Mitesser, 200 Milliliter, Kinder Badezusatz Badebombe Dragons, 1 Stück, Mundspülung Super Clean, 500 Milliliter, Rasierklingen Smooth, 4 Stück, Tomatenmark, 200 Gramm, und Kaffee Entkoffeiniert löslich, 100 Gramm – welches davon hat den höchsten Lagerbestand?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0003.wav",
-    "audio_duration_s": 24.77,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0003.wav",
+      "real": "audio_real/select_0003.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 24.77,
+      "real": 30.123
+    },
     "answer": "Müsli Kekse, ab 3 Jahren, 125 g",
     "accepted_answers": [
       "Müsli Kekse, ab 3 Jahren, 125 g"
@@ -1358,9 +1678,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 St; Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml; Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St; Vegane Mayo, 250 ml; Foundation Liquid HD Coverage 30 Sand Beige, 30 ml; Schokoriegel, Vollmilch Espresso Crunch, 37,5 g; Weichspüler Mandelmilch 40WL, 880 ml; Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Glasreiniger mit Glanzschutz-Formel, 1 l. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Welches von diesen Produkten hat den höchsten Lagerbestand: Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 Gramm; Kaugummi, Refreshers, Watermelon Raspberry, zuckerfrei, 8 Stück; Crema con Aceto Balsamico di Modena g.g.A., 250 Milliliter; Toilettenpapier Premium 5-lagig, 6 mal 110 Blatt, 6 Stück; Vegane Mayo, 250 Milliliter; Foundation Liquid HD Coverage 30 Sand Beige, 30 Milliliter; Schokoriegel, Vollmilch Espresso Crunch, 37,5 Gramm; Weichspüler Mandelmilch 40 WL, 880 Milliliter; Müsliriegel, Granola gemischte Früchte, 6 Stück, 144 Gramm; Glasreiniger mit Glanzschutz-Formel, 1 Liter – oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0004.wav",
-    "audio_duration_s": 44.989,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0004.wav",
+      "real": "audio_real/select_0004.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 44.989,
+      "real": 54.955
+    },
     "answer": "Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St",
     "accepted_answers": [
       "Toilettenpapier Premium 5-lagig (6x110 Blatt), 6 St"
@@ -1386,9 +1711,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Spülmittel Paradise Bloom, 300 ml; Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml; Kindersnack Kakao Waffeln ab 3 Jahren, 100 g; Handcreme Urea, 100 ml; Glasreiniger mit Glanzschutz-Formel, 1 l. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Welches von diesen Produkten hat den höchsten Lagerbestand: Müsliriegel, Granola gemischte Früchte mit 6 Stück und 144 Gramm, Spülmittel Paradise Bloom mit 300 Milliliter, Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss mit 75 Milliliter, Kindersnack Kakao Waffeln ab 3 Jahren mit 100 Gramm, Handcreme Urea mit 100 Milliliter oder Glasreiniger mit Glanzschutz-Formel mit 1 Liter, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0005.wav",
-    "audio_duration_s": 26.21,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0005.wav",
+      "real": "audio_real/select_0005.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 26.21,
+      "real": 33.195
+    },
     "answer": "Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml",
     "accepted_answers": [
       "Zahnpasta Sensitive Professional Repair & Prevent Sanftes Weiss, 75 ml"
@@ -1410,9 +1740,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml; Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St; Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g; Gelbe Linsen, 500 g; Spülmittel Paradise Bloom, 300 ml; Antitranspirant Deospray Maximum Protection Fresh, 150 ml; Babykekse Dinkel, Apfel & Vanille ab dem 8. Monat, 100 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Mich würde interessieren, welches von diesen Produkten den höchsten Lagerbestand hat: Kinder Shampoo und Duschgel 2in1 Spaghetti-Eis Monster, 230 Milliliter; Windeln Größe 6 Extra Large ab 13 Kilogramm Monatsbox, 144 Stück; Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 Gramm; Gelbe Linsen, 500 Gramm; Spülmittel Paradise Bloom, 300 Milliliter; Antitranspirant Deospray Maximum Protection Fresh, 150 Milliliter; Babykekse Dinkel, Apfel und Vanille ab dem 8. Monat, 100 Gramm.",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0006.wav",
-    "audio_duration_s": 39.492,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0006.wav",
+      "real": "audio_real/select_0006.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 39.492,
+      "real": 45.483
+    },
     "answer": "Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St",
     "accepted_answers": [
       "Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St"
@@ -1435,9 +1770,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Meersalz, jodiert, 500 g; Concealer Fit Me 06 Vanilla, 6,8 ml; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g; Kaffee, Caffè de Peru gemahlen, 500 g; Shampoo Nourishing, 250 ml; Mascara Lash Princess Sculpted Volume, 12 ml; Haarspray Sensitive, 250 ml; Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Flüssigseife Goodness Oud, Cedar & Amber, 500 ml. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Meersalz, jodiert, 500 Gramm, Concealer Fit Me 06 Vanilla, 6,8 Milliliter, Vitamin K2 plus D3 3000 Mini-Tabletten 30 Stück, 9,2 Gramm, Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew und Walnuss, 150 Gramm, Kaffee, Caffè de Peru gemahlen, 500 Gramm, Shampoo Nourishing, 250 Milliliter, Mascara Lash Princess Sculpted Volume, 12 Milliliter, Haarspray Sensitive, 250 Milliliter, Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 Gramm, Flüssigseife Goodness Oud, Cedar und Amber, 500 Milliliter – welches davon hat den höchsten Lagerbestand?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0007.wav",
-    "audio_duration_s": 47.758,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0007.wav",
+      "real": "audio_real/select_0007.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 47.758,
+      "real": 55.467
+    },
     "answer": "Meersalz, jodiert, 500 g",
     "accepted_answers": [
       "Meersalz, jodiert, 500 g"
@@ -1463,9 +1803,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g; Nagelfolie Foil Nail Wraps, 100 St; Nudeln, Fusilli aus Emmer, 500 g; Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g; Conditioner The Foundation, 300 ml; Concealer Fit Me 06 Vanilla, 6,8 ml; Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g; Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Ich hab hier 'ne Liste mit verschiedenen Produkten: Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 Gramm; Nagelfolie Foil Nail Wraps, 100 Stück; Nudeln, Fusilli aus Emmer, 500 Gramm; Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 Gramm; Conditioner The Foundation, 300 Milliliter; Concealer Fit Me 06 Vanilla, 6,8 Milliliter; Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 Gramm; Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 Gramm. Welches davon hat den höchsten Lagerbestand?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0008.wav",
-    "audio_duration_s": 35.591,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0008.wav",
+      "real": "audio_real/select_0008.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 35.591,
+      "real": 47.445
+    },
     "answer": "Concealer Fit Me 06 Vanilla, 6,8 ml",
     "accepted_answers": [
       "Concealer Fit Me 06 Vanilla, 6,8 ml"
@@ -1489,9 +1834,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Fleckenkissen, 1 St; Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml; Direktsaft, Apfel-Mango, 0,33 l; Trinkmahlzeit, Vanille, 330 ml; Weizenmehl Type 550, 1.000 g; Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat, 190 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Es geht um folgende Produkte: Fleckenkissen, 1 St; Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml; Direktsaft, Apfel-Mango, 0,33 l; Trinkmahlzeit, Vanille, 330 ml; Weizenmehl Type 550, 1.000 g; Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat, 190 g. Welches davon hat den höchsten Lagerbestand?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0009.wav",
-    "audio_duration_s": 28.207,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0009.wav",
+      "real": "audio_real/select_0009.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 28.207,
+      "real": 35.413
+    },
     "answer": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml",
     "accepted_answers": [
       "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml"
@@ -1513,9 +1863,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Bonbon, Fresh Mint, zuckerfrei, 75 g; Baby Waschschaum sensitiv, Nachfüllpack, 250 ml; Vegane Mayo, 250 ml; Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St; Mascara Grow & Tint Deep Black, 12 ml; Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Hey, ich hab hier ein paar Produkte: Bonbon, Fresh Mint, zuckerfrei, 75 Gramm; Baby Waschschaum sensitiv, Nachfüllpack, 250 Milliliter; Vegane Mayo, 250 Milliliter; Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 Stück; Mascara Grow & Tint Deep Black, 12 Milliliter; Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 Milliliter; Vitamin K2 + D3 3000 Mini-Tabletten 30 Stück, 9,2 Gramm; Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 Milliliter. Welches davon hat den höchsten Lagerbestand?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0010.wav",
-    "audio_duration_s": 41.489,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0010.wav",
+      "real": "audio_real/select_0010.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 41.489,
+      "real": 51.712
+    },
     "answer": "Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml",
     "accepted_answers": [
       "Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml"
@@ -1539,9 +1894,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Butterkekse, Dinkel, 150 g; Gemüsechips, 90 g; Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g; Feuchttücher Fresh & Clean (4x80 St), 320 St; Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml; Küchentücher Premium 3-lagig (4x51 Blatt), 4 St; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Mich würde interessieren, welches von diesen Produkten den höchsten Lagerbestand hat: Butterkekse, Dinkel, 150 Gramm; Gemüsechips, 90 Gramm; Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 Gramm; Feuchttücher Fresh & Clean, 4 mal 80 Stück, also 320 Stück; Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 Milliliter; Küchentücher Premium 3-lagig, 4 mal 51 Blatt, also 4 Stück; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 Gramm.",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0011.wav",
-    "audio_duration_s": 31.968,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0011.wav",
+      "real": "audio_real/select_0011.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 31.968,
+      "real": 40.107
+    },
     "answer": "Butterkekse, Dinkel, 150 g",
     "accepted_answers": [
       "Butterkekse, Dinkel, 150 g"
@@ -1564,9 +1924,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Couscous, 500 g; Gelbe Linsen, 500 g; Colorwaschmittel Blütenrausch, 27 Wl; Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g; Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g; Direktsaft, Apfel-Mango, 0,33 l; Natives Olivenöl extra, ausgewogen, 0,5 l; Deo Zerstäuber Wasserlilie, 75 ml; Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Haarspray Max Hold, 400 ml. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Couscous 500 Gramm, Gelbe Linsen 500 Gramm, Colorwaschmittel Blütenrausch 27 Waschladungen, Vitamin K2 plus D3 2500 I.E. Tabletten 30 Stück 13,1 Gramm, Bonbon Zitronenmelisse zuckerfrei in der Taschenbox 50 Gramm, Direktsaft Apfel-Mango 0,33 Liter, Natives Olivenöl extra ausgewogen 0,5 Liter, Deo Zerstäuber Wasserlilie 75 Milliliter, Müsliriegel Granola gemischte Früchte 6 Stück 144 Gramm, Haarspray Max Hold 400 Milliliter – welches davon hat den höchsten Lagerbestand?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0012.wav",
-    "audio_duration_s": 35.962,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0012.wav",
+      "real": "audio_real/select_0012.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 35.962,
+      "real": 45.141
+    },
     "answer": "Natives Olivenöl extra, ausgewogen, 0,5 l",
     "accepted_answers": [
       "Natives Olivenöl extra, ausgewogen, 0,5 l"
@@ -1592,9 +1957,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Schokoriegel, Vollmilch Espresso Crunch, 37,5 g; Shampoo Nourishing, 250 ml; Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml; Schokolade, Mocca, 80 g; Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g; Smoothie Bowl, Mango-Maracuja-Kokos, 50 g; Foundation Hauttonanpassend, 30 ml; Feuchttücher Fresh & Clean (4x80 St), 320 St; Flüssigseife Rosemary & Ginger, 250 ml; Taschentücher Box Balsam 4-lagig, 120 St. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Ich hab hier 'ne Liste mit verschiedenen Produkten: Schokoriegel, Vollmilch Espresso Crunch, 37,5 Gramm; Shampoo Nourishing, 250 Milliliter; Sonnenmilch HYDRA 24h protect, LSF 30, 175 Milliliter; Schokolade, Mocca, 80 Gramm; Proteinriegel 25 Prozent, Deluxe mit Pistazienbutter, 55 Gramm; Smoothie Bowl, Mango-Maracuja-Kokos, 50 Gramm; Foundation Hauttonanpassend, 30 Milliliter; Feuchttücher Fresh & Clean, 4 mal 80 Stück, also insgesamt 320 Stück; Flüssigseife Rosemary & Ginger, 250 Milliliter; Taschentücher Box Balsam 4-lagig, 120 Stück. Kannst du mir sagen, welches von denen den höchsten Lagerbestand hat?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0013.wav",
-    "audio_duration_s": 46.383,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0013.wav",
+      "real": "audio_real/select_0013.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 46.383,
+      "real": 54.101
+    },
     "answer": "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g",
     "accepted_answers": [
       "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g"
@@ -1620,9 +1990,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Nachtcreme Beauty Expert, 30 ml; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Glasreiniger mit Glanzschutz-Formel, 1 l; Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml; Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Haarspray Sensitive, 250 ml; Taschentücher Box Balsam 4-lagig, 120 St; Espresso ganze Bohnen, 1 kg; Antitranspirant Deo Roll-on Original, 50 ml; Whey Proteinpulver Vanille Geschmack, 450 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Hey, ich hab hier eine Liste mit Produkten: Nachtcreme Beauty Expert, 30 Milliliter; Omega-3 plus Vitamin D3 Kids Kautabletten 27 Stück, 35,1 Gramm; Glasreiniger mit Glanzschutz-Formel, 1 Liter; Handcreme Repair SOS Hilfe mit Calendula und Sheabutter, 75 Milliliter; Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 Gramm; Haarspray Sensitive, 250 Milliliter; Taschentücher Box Balsam 4-lagig, 120 Stück; Espresso ganze Bohnen, 1 Kilogramm; Antitranspirant Deo Roll-on Original, 50 Milliliter; Whey Proteinpulver Vanille Geschmack, 450 Gramm. Welches davon hat den höchsten Lagerbestand?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0014.wav",
-    "audio_duration_s": 43.132,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0014.wav",
+      "real": "audio_real/select_0014.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 43.132,
+      "real": 55.893
+    },
     "answer": "Antitranspirant Deo Roll-on Original, 50 ml",
     "accepted_answers": [
       "Antitranspirant Deo Roll-on Original, 50 ml"
@@ -1648,9 +2023,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml; Getränkepulver, Milchshake Typ Blaubeer, 75 g; Windeln Premium Gr. 5 (13-18 kg), 26 St; Taschentücher Box Balsam 4-lagig, 120 St; Reissirup, 250 ml; Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Welches von diesen Produkten hat den höchsten Lagerbestand: Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 Milliliter; Getränkepulver, Milchshake Typ Blaubeer, 75 Gramm; Windeln Premium Größe 5 für 13 bis 18 Kilogramm, 26 Stück; Taschentücher Box Balsam 4-lagig, 120 Stück; Reissirup, 250 Milliliter; Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 Milliliter – oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0015.wav",
-    "audio_duration_s": 33.129,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0015.wav",
+      "real": "audio_real/select_0015.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 33.129,
+      "real": 44.715
+    },
     "answer": "Getränkepulver, Milchshake Typ Blaubeer, 75 g",
     "accepted_answers": [
       "Getränkepulver, Milchshake Typ Blaubeer, 75 g"
@@ -1672,9 +2052,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml; Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g; Nuss- & Fruchtmischung, Tropic Mix, 200 g; Haaröl Traumlocken, 100 ml; Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml; Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml; Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g; Taschentücher Box Kids Disney, 48 St; Pesto, Artischocken & Zitrone, 120 g; Küchenrolle Wisch&Weg Reinweiss (8x45 Blatt), 8 St. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Welches von diesen Produkten hat den höchsten Lagerbestand: Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz und Moltebeere, 250 Milliliter; Babykekse Wundertraum-Kekse mit Dinkel, Apfel und Heidelbeere, ab 8 Monaten, 100 Gramm; Nuss- und Fruchtmischung, Tropic Mix, 200 Gramm; Haaröl Traumlocken, 100 Milliliter; Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 Milliliter; Kinder Shampoo und Duschgel 2in1 Spaghetti-Eis Monster, 230 Milliliter; Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 Stück, 6 Gramm; Taschentücher Box Kids Disney, 48 Stück; Pesto, Artischocken und Zitrone, 120 Gramm; Küchenrolle Wisch und Weg Reinweiss, 8 mal 45 Blatt, 8 Stück, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0016.wav",
-    "audio_duration_s": 52.931,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0016.wav",
+      "real": "audio_real/select_0016.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 52.931,
+      "real": 57.088
+    },
     "answer": "Pesto, Artischocken & Zitrone, 120 g",
     "accepted_answers": [
       "Pesto, Artischocken & Zitrone, 120 g"
@@ -1700,9 +2085,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Getränkepulver, Milchshake Typ Blaubeer, 75 g; Körperbutter Mango Matcha Latte, 235 ml; Still Smoothie Rote Früchte in Apfel mit Eisen, 200 ml; Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml; Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 g; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g; Muffin Choco, glutenfrei, 65 g; Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Mh, ich hab hier eine Liste mit Produkten: Getränkepulver, Milchshake Typ Blaubeer, 75 Gramm; Körperbutter Mango Matcha Latte, 235 Milliliter; Still Smoothie Rote Früchte in Apfel mit Eisen, 200 Milliliter; Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 Milliliter; Lidschatten Palette The Nude Edition 10 Pretty In Nude, 10 Gramm; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 Gramm; Muffin Choco, glutenfrei, 65 Gramm; Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 Gramm. Welches davon hat den höchsten Lagerbestand?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0017.wav",
-    "audio_duration_s": 38.191,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0017.wav",
+      "real": "audio_real/select_0017.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 38.191,
+      "real": 51.285
+    },
     "answer": "Körperbutter Mango Matcha Latte, 235 ml",
     "accepted_answers": [
       "Körperbutter Mango Matcha Latte, 235 ml"
@@ -1726,9 +2116,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml; Waffel Snack, 150 g; Porridge, Kakao Dinkel mit Haselnüssen, 500 g; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g; Rasierbutter Pfirsich, 150 ml; Entkalker Kaffeemaschinen, 250 ml; Teegetränk, Kombucha Original, 0,25 l EINWEG; Leave-In Haarkur, für lockiges Haar, 250 ml; Sesamöl, 0,25 l. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Welches von diesen Produkten hat den höchsten Lagerbestand: Duschgel 2in1 Dusche plus Shampoo mit 5 Prozent Urea, 300 Milliliter; Waffel Snack, 150 Gramm; Porridge Kakao Dinkel mit Haselnüssen, 500 Gramm; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere und Johannisbeere, 400 Gramm; Rasierbutter Pfirsich, 150 Milliliter; Entkalker Kaffeemaschinen, 250 Milliliter; Teegetränk Kombucha Original, 0,25 Liter Einweg; Leave-In Haarkur für lockiges Haar, 250 Milliliter; Sesamöl, 0,25 Liter – oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0018.wav",
-    "audio_duration_s": 39.724,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0018.wav",
+      "real": "audio_real/select_0018.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 39.724,
+      "real": 45.483
+    },
     "answer": "Rasierbutter Pfirsich, 150 ml",
     "accepted_answers": [
       "Rasierbutter Pfirsich, 150 ml"
@@ -1753,9 +2148,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Flüssigseife Rosemary & Ginger, 250 ml; Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Zahnpasta Juniorzahn 6-13 Jahren, 75 ml; Nagellack Effekt 7 Identity, 13,5 ml; Nassfutter Katze Huhn in Sauce, Revelations Mousse Multipack (4x57 g), 228 g; Schokoriegel Milch, 23 g; Getränkepulver, Milchshake Typ Blaubeer, 75 g; Spülmittel Paradise Bloom, 300 ml. Welches davon hat den höchsten Lagerbestand?",
     "spoken": "Welches von diesen Produkten hat den höchsten Lagerbestand: Flüssigseife Rosemary & Ginger, 250 Milliliter; Nussmischung, Gerösteter Edelnuss-Mix, 160 Gramm; Zahnpasta Juniorzahn 6 bis 13 Jahren, 75 Milliliter; Nagellack Effekt 7 Identity, 13,5 Milliliter; Nassfutter Katze Huhn in Sauce, Revelations Mousse Multipack mit 4 mal 57 Gramm, insgesamt 228 Gramm; Schokoriegel Milch, 23 Gramm; Getränkepulver, Milchshake Typ Blaubeer, 75 Gramm; Spülmittel Paradise Bloom, 300 Milliliter – oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/select_0019.wav",
-    "audio_duration_s": 40.142,
+    "audio_files": {
+      "synthetic": "audio_synthetic/select_0019.wav",
+      "real": "audio_real/select_0019.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 40.142,
+      "real": 50.176
+    },
     "answer": "Zahnpasta Juniorzahn 6-13 Jahren, 75 ml",
     "accepted_answers": [
       "Zahnpasta Juniorzahn 6-13 Jahren, 75 ml"
@@ -1779,9 +2179,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Deospray Man Lavender Coffee Tonka Bean, 150 ml; Aprés Shave Lotion, 100 ml; Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g; Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml; Nagellack Gel by 567 Frost Yourself, 13,5 ml; Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Hey, ich hab hier ein paar Produkte: Fruchtaufstrich Frucht Pur Mango mit 75 Prozent Frucht, 200 Gramm; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 Gramm; Deospray Man Lavender Coffee Tonka Bean, 150 Milliliter; Aprés Shave Lotion, 100 Milliliter; Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 Gramm; Handcreme Repair SOS Hilfe mit Calendula und Sheabutter, 75 Milliliter; Nagellack Gel by 567 Frost Yourself, 13,5 Milliliter; Babykekse Hafer-Kekse, mit Erdbeere, Banane und Apfel ab 8 Monaten, 100 Gramm. Weißt du, wie hoch die Summe ihrer Einkaufspreise ist?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0000.wav",
-    "audio_duration_s": 51.723,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0000.wav",
+      "real": "audio_real/combined_0000.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 51.723,
+      "real": 61.099
+    },
     "answer": 88.27,
     "accepted_answers": [],
     "answer_type": "number",
@@ -1803,9 +2208,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Pekannüsse, 100 g; Maiswaffeln, natur, 110 g; Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 g; Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 St; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Essigreiniger Apfel, 1 l; Haferriegel, Oat Bar Cocoa, 60 g; Spülmittel-Gel Himbeer, 500 ml; Nachtcreme Beauty Hyaluron, 50 ml; Deo Zerstäuber Wasserlilie, 75 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Kannst du mir sagen, wie hoch die Summe der Einkaufspreise für folgende Produkte ist: Pekannüsse, 100 Gramm; Maiswaffeln, natur, 110 Gramm; Lidschatten Stick Le Shadow 030 Nude Lights, 1,4 Gramm; Saaten, Gelbe Cocktailtomate (Yellow Clementine), 1 Stück; Omega-3 plus Vitamin D3 Kids Kautabletten 27 Stück, 35,1 Gramm; Essigreiniger Apfel, 1 Liter; Haferriegel, Oat Bar Cocoa, 60 Gramm; Spülmittel-Gel Himbeer, 500 Milliliter; Nachtcreme Beauty Hyaluron, 50 Milliliter; Deo Zerstäuber Wasserlilie, 75 Milliliter?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0001.wav",
-    "audio_duration_s": 36.891,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0001.wav",
+      "real": "audio_real/combined_0001.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 36.891,
+      "real": 48.896
+    },
     "answer": 110.51,
     "accepted_answers": [],
     "answer_type": "number",
@@ -1829,9 +2239,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g; Karamell-Keks Creme, Lovely Caramel, 190 g; Feuchttücher (9x60 St), 540 St; Sonnenmilch HYDRA 24h protect, LSF 30, 175 ml; Körperbutter Mango Matcha Latte, 235 ml; Haaröl Öl Magique Jojoba, 100 ml; Weizenmehl Type 1050, 1 kg; Foundation Make-Up Classic Teint, 30 ml; Flüssigseife Rosemary & Ginger, 250 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Ich hab hier ein paar Produkte: Nudeln, und zwar Penne aus Vollkornreis, glutenfrei, 400 Gramm; dann Karamell-Keks Creme, Lovely Caramel, 190 Gramm; Feuchttücher, 9 mal 60 Stück, also insgesamt 540 Stück; Sonnenmilch HYDRA 24h protect mit Lichtschutzfaktor 30, 175 Milliliter; Körperbutter Mango Matcha Latte, 235 Milliliter; Haaröl Öl Magique Jojoba, 100 Milliliter; Weizenmehl Type 1050, 1 Kilogramm; Foundation Make-Up Classic Teint, 30 Milliliter; und Flüssigseife Rosemary & Ginger, 250 Milliliter. Kannst du mir sagen, wie hoch die Summe ihrer Einkaufspreise ist?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0002.wav",
-    "audio_duration_s": 47.201,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0002.wav",
+      "real": "audio_real/combined_0002.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 47.201,
+      "real": 60.928
+    },
     "answer": 98.88,
     "accepted_answers": [],
     "answer_type": "number",
@@ -1854,9 +2269,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Glasreiniger mit Glanzschutz-Formel, 1 l; Proteinriegel 25%, Deluxe mit Pistazienbutter, 55 g; Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 ml; Haargel Ultra Strong Power Hold, 100 ml; Waffel Snack, 150 g; Handcreme Intense Repair, 50 ml; Smoothie Bowl, Mango-Maracuja-Kokos, 50 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Weißt du noch, wie hoch die Summe der Einkaufspreise von diesen Produkten ist: Glasreiniger mit Glanzschutz-Formel, 1 Liter; Proteinriegel 25 Prozent, Deluxe mit Pistazienbutter, 55 Gramm; Mundspülung Total Care Extra Milde Minze alkoholfrei, 500 Milliliter; Haargel Ultra Strong Power Hold, 100 Milliliter; Waffel Snack, 150 Gramm; Handcreme Intense Repair, 50 Milliliter; Smoothie Bowl, Mango-Maracuja-Kokos, 50 Gramm?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0003.wav",
-    "audio_duration_s": 40.56,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0003.wav",
+      "real": "audio_real/combined_0003.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 40.56,
+      "real": 36.096
+    },
     "answer": 77.34,
     "accepted_answers": [],
     "answer_type": "number",
@@ -1877,9 +2297,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g; Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St; Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml; Antitranspirant Deo Roll-on Honey & Cactus Flower Nachfüllpack, 50 ml; Lidschatten Palette Quattro 37 Chocolate, 4,4 g; Foundation Liquid HD Coverage 30 Sand Beige, 30 ml; Porridge, Kakao Dinkel mit Haselnüssen, 500 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Ich möchte die Summe der Einkaufspreise für diese Produkte wissen: Nuss- und Trockenfrüchtemischung, Trail Mix, 150 Gramm; Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 Stück; Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 Milliliter; Antitranspirant Deo Roll-on Honey and Cactus Flower Nachfüllpack, 50 Milliliter; Lidschatten Palette Quattro 37 Chocolate, 4,4 Gramm; Foundation Liquid HD Coverage 30 Sand Beige, 30 Milliliter; Porridge, Kakao Dinkel mit Haselnüssen, 500 Gramm. Können Sie mir die Summe nennen, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0004.wav",
-    "audio_duration_s": 40.606,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0004.wav",
+      "real": "audio_real/combined_0004.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 40.606,
+      "real": 51.456
+    },
     "answer": 63.16,
     "accepted_answers": [],
     "answer_type": "number",
@@ -1900,9 +2325,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml; Früchte Apfel-Himbeere-Heidelbeere ab dem 5. Monat, 190 g; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Waffeln, Dinkel Frischei, 165 g; Bonbon, Fresh Mint, zuckerfrei, 75 g; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g; Deospray Man Lavender Coffee Tonka Bean, 150 ml; Windeln Gr. 6 Extra Large (13+ kg) Monatsbox, 144 St; Concealer Fit Me 06 Vanilla, 6,8 ml; Cashewkerne, 150 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 Milliliter, Früchte Apfel-Himbeere-Heidelbeere ab dem 5. Monat, 190 Gramm, Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 Gramm, Waffeln, Dinkel Frischei, 165 Gramm, Bonbon, Fresh Mint, zuckerfrei, 75 Gramm, Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 Gramm, Deospray Man Lavender Coffee Tonka Bean, 150 Milliliter, Windeln Größe 6 Extra Large (13+ Kilogramm) Monatsbox, 144 Stück, Concealer Fit Me 06 Vanilla, 6,8 Milliliter, Cashewkerne, 150 Gramm – wie hoch ist die Summe ihrer Einkaufspreise?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0005.wav",
-    "audio_duration_s": 50.655,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0005.wav",
+      "real": "audio_real/combined_0005.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 50.655,
+      "real": 63.744
+    },
     "answer": 109.05,
     "accepted_answers": [],
     "answer_type": "number",
@@ -1926,9 +2356,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 ml; Waschmittel Renew Schwarz, 27 Wl; Mascara Lash Princess Sculpted Volume, 12 ml; Maiswaffeln, natur, 110 g; Quetschie wiederverwendbar, 3er-Pack, 3 St; Kindermüsli Banane, Apfel & Blaubeere ab 1 Jahr, 220 g; Kinder Badezusatz Badebombe Dragons, 1 St; Schoko-Müsli mit Knusperflakes glutenfrei, 375 g; Rasierklingen, Comfortglide Spa Breeze, 4 St. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Ich habe eine Liste mit Produkten: Saft Apfel-Birne mit stillem Wasser, ab dem 6. Monat, 500 Milliliter; Waschmittel Renew Schwarz, 27 Waschladungen; Mascara Lash Princess Sculpted Volume, 12 Milliliter; Maiswaffeln, natur, 110 Gramm; Quetschie wiederverwendbar, 3er-Pack, 3 Stück; Kindermüsli Banane, Apfel und Blaubeere ab 1 Jahr, 220 Gramm; Kinder Badezusatz Badebombe Dragons, 1 Stück; Schoko-Müsli mit Knusperflakes glutenfrei, 375 Gramm; Rasierklingen, Comfortglide Spa Breeze, 4 Stück. Wie hoch ist die Summe ihrer Einkaufspreise, oder?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0006.wav",
-    "audio_duration_s": 43.811,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0006.wav",
+      "real": "audio_real/combined_0006.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 43.811,
+      "real": 48.299
+    },
     "answer": 101.65,
     "accepted_answers": [],
     "answer_type": "number",
@@ -1951,9 +2386,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Muffin Choco, glutenfrei, 65 g; Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml; Rasierschaum Lychee Love, 150 ml; Trockenfrüchte, Erdbeeren gefriergetrocknet, 15 g; Espresso, gemahlen, 250 g; Nussriegel, Karamell Meersalz, 35 g; Brot, Mehrkorn (5 Stück), glutenfrei, 250 g; Fruchtaufstrich, Rote Johannisbeere, 235 g; Trinkmahlzeit, Vanille, 330 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Muffin Choco glutenfrei 65 Gramm, Kontaktlinsen-Pflegemittel Kochsalzlösung 360 Milliliter, Rasierschaum Lychee Love 150 Milliliter, Trockenfrüchte Erdbeeren gefriergetrocknet 15 Gramm, Espresso gemahlen 250 Gramm, Nussriegel Karamell Meersalz 35 Gramm, Brot Mehrkorn 5 Stück glutenfrei 250 Gramm, Fruchtaufstrich Rote Johannisbeere 235 Gramm, Trinkmahlzeit Vanille 330 Milliliter – wie hoch ist die Summe ihrer Einkaufspreise?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0007.wav",
-    "audio_duration_s": 32.99,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0007.wav",
+      "real": "audio_real/combined_0007.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 32.99,
+      "real": 39.851
+    },
     "answer": 88.53,
     "accepted_answers": [],
     "answer_type": "number",
@@ -1976,9 +2416,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Toilettenpapier bewährt 3-lagig (16x150 Blatt), 16 St; Allzweckreiniger Multiflächen & Hochglanz, 500 ml; Bonbon, Lakritz, 75 g; Haargel Locken Styling Gel, 250 ml; Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 g; Spülmittel-Gel Himbeer, 500 ml; Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Antitranspirant Deospray Maximum Protection Fresh, 150 ml; Kinder Shampoo & Duschgel 2in1 Spaghetti-Eis Monster, 230 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Weißt du noch, wie hoch die Summe der Einkaufspreise von diesen Produkten ist: Toilettenpapier bewährt 3-lagig, 16 mal 150 Blatt, 16 Stück; Allzweckreiniger Multiflächen und Hochglanz, 500 Milliliter; Bonbon Lakritz, 75 Gramm; Haargel Locken Styling Gel, 250 Milliliter; Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 Stück; Lidschattenpalette Club Soleil 01 Soleil? Say No More!, 5,2 Gramm; Spülmittel-Gel Himbeer, 500 Milliliter; Müsliriegel Granola gemischte Früchte, 6 Stück, 144 Gramm; Antitranspirant Deospray Maximum Protection Fresh, 150 Milliliter; Kinder Shampoo und Duschgel 2in1 Spaghetti-Eis Monster, 230 Milliliter?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0008.wav",
-    "audio_duration_s": 49.866,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0008.wav",
+      "real": "audio_real/combined_0008.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 49.866,
+      "real": 58.368
+    },
     "answer": 109.55,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2002,9 +2447,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Rasierbutter Pfirsich, 150 ml; Nagelfolie Foil Nail Wraps, 100 St; natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen, 100 ml; Concealer Fit Me 06 Vanilla, 6,8 ml; Gua Sha Y-Stein Rosenquarz, 1 St; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Schokolade Nougat, 100 g; Rasierschaum Ultra Sensitive, 300 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Kannst du mir sagen, wie hoch die Summe der Einkaufspreise ist für diese Produkte: Rasierbutter Pfirsich, 150 Milliliter; Nagelfolie Foil Nail Wraps, 100 Stück; natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen, 100 Milliliter; Concealer Fit Me 06 Vanilla, 6,8 Milliliter; Gua Sha Y-Stein Rosenquarz, 1 Stück; Vitamin K2 plus D3 3000 Mini-Tabletten 30 Stück, 9,2 Gramm; Schokolade Nougat, 100 Gramm; Rasierschaum Ultra Sensitive, 300 Milliliter?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0009.wav",
-    "audio_duration_s": 36.334,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0009.wav",
+      "real": "audio_real/combined_0009.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 36.334,
+      "real": 42.325
+    },
     "answer": 95.41,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2026,9 +2476,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Mascara Volume Million Lashes Panorama Black, 10,5 ml; Leave-In Haarkur, für lockiges Haar, 250 ml; Tomatenmark, 200 g; Mascara Double Extension Waterproof Black, 12 ml; Deo Zerstäuber Wasserlilie, 75 ml; Nagellack Gel by 545 Tassel Free, 13,5 ml; Rasierklingen, Comfortglide Spa Breeze, 12 St; Müsliriegel, Hafer Nuss, 3er Pack, 105 g; Haarspray Sensitive, 250 ml; Flüssigseife Goodness Oud, Cedar & Amber, 500 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Weißt du noch, wie hoch die Summe der Einkaufspreise von diesen Produkten ist: Mascara Volume Million Lashes Panorama Black, 10,5 Milliliter; Leave-In Haarkur, für lockiges Haar, 250 Milliliter; Tomatenmark, 200 Gramm; Mascara Double Extension Waterproof Black, 12 Milliliter; Deo Zerstäuber Wasserlilie, 75 Milliliter; Nagellack Gel by 545 Tassel Free, 13,5 Milliliter; Rasierklingen, Comfortglide Spa Breeze, 12 Stück; Müsliriegel, Hafer Nuss, 3er Pack, 105 Gramm; Haarspray Sensitive, 250 Milliliter; Flüssigseife Goodness Oud, Cedar & Amber, 500 Milliliter?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0010.wav",
-    "audio_duration_s": 45.575,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0010.wav",
+      "real": "audio_real/combined_0010.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 45.575,
+      "real": 50.347
+    },
     "answer": 111.47,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2052,9 +2507,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Deo Zerstäuber Wasserlilie, 75 ml; Direktsaft, Apfel-Mango, 0,33 l; Conditioner The Foundation, 300 ml; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere & Johannisbeere, 400 g; Foundation Make-Up Classic Teint, 30 ml; Frucht & Getreide Apfel Banane mit Zwieback, ab dem 5. Monat, 250 g; Shampoo Nourishing, 250 ml; Müsli Kekse, ab 3 Jahren, 125 g; Tuchmaske Reiswasser, 1 St. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Weißt du noch, wie hoch die Summe der Einkaufspreise von diesen Produkten ist: Deo Zerstäuber Wasserlilie, 75 Milliliter; Direktsaft, Apfel-Mango, 0,33 Liter; Conditioner The Foundation, 300 Milliliter; Smoothie Bowl Pulver Benjamin Blaubeer, Blaubeere und Johannisbeere, 400 Gramm; Foundation Make-Up Classic Teint, 30 Milliliter; Frucht und Getreide Apfel Banane mit Zwieback, ab dem 5. Monat, 250 Gramm; Shampoo Nourishing, 250 Milliliter; Müsli Kekse, ab 3 Jahren, 125 Gramm; Tuchmaske Reiswasser, 1 Stück?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0011.wav",
-    "audio_duration_s": 41.767,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0011.wav",
+      "real": "audio_real/combined_0011.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 41.767,
+      "real": 44.459
+    },
     "answer": 80.95,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2077,9 +2537,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Kaffee, Caffè de Peru gemahlen, 500 g; Dinkel Zwieback, 200 g; Haaröl Traumlocken, 100 ml; Antitranspirant Deo Roll-on Classic, 50 ml; Karamell-Keks Creme, Lovely Caramel, 190 g; Bonbon, Fresh Mint, zuckerfrei, 75 g; Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus, 250 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Hey, ich hab hier ein paar Produkte: Kaffee, Caffè de Peru gemahlen, 500 Gramm; Dinkel Zwieback, 200 Gramm; Haaröl Traumlocken, 100 Milliliter; Antitranspirant Deo Roll-on Classic, 50 Milliliter; Karamell-Keks Creme, Lovely Caramel, 190 Gramm; Bonbon, Fresh Mint, zuckerfrei, 75 Gramm; Vitamin K2 plus D3 3000 Mini-Tabletten 30 Stück, 9,2 Gramm; Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten und Bambus, 250 Milliliter. Weißt du, wie hoch die Summe ihrer Einkaufspreise ist?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0012.wav",
-    "audio_duration_s": 38.888,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0012.wav",
+      "real": "audio_real/combined_0012.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 38.888,
+      "real": 45.824
+    },
     "answer": 77.14,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2101,9 +2566,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Fruchtmi, Fruity Bears, 100 g; Waschmittel Renew Schwarz, 27 Wl; Kreuzkümmel, gemahlen, 40 g; Waffel Snack, 150 g; Menü Spaghetti Bolognese nach dem ab 5. Monat, 190 g; Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate, 2 St; Getränkepulver, Milchshake Typ Blaubeer, 75 g; Foundation True Match Hyaluron Tinted Balm 4 Light Medium, 8 g; Haaröl Coconut Infused Oil, 100 ml; Mascara Volume Million Lashes Panorama Black, 10,5 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Sag mal, wie hoch ist die Summe der Einkaufspreise von diesen Produkten: Fruchtmi, Fruity Bears, 100 Gramm; Waschmittel Renew Schwarz, 27 Waschladungen; Kreuzkümmel, gemahlen, 40 Gramm; Waffel Snack, 150 Gramm; Menü Spaghetti Bolognese nach dem ab 5. Monat, 190 Gramm; Schnuller Perfect Match Air Silikon, grün-senf, 18 bis 36 Monate, 2 Stück; Getränkepulver, Milchshake Typ Blaubeer, 75 Gramm; Foundation True Match Hyaluron Tinted Balm 4 Light Medium, 8 Gramm; Haaröl Coconut Infused Oil, 100 Milliliter; Mascara Volume Million Lashes Panorama Black, 10,5 Milliliter?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0013.wav",
-    "audio_duration_s": 40.374,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0013.wav",
+      "real": "audio_real/combined_0013.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 40.374,
+      "real": 66.987
+    },
     "answer": 104.8,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2127,9 +2597,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Nuss- & Fruchtmischung, Tropic Mix, 200 g; Zahnpasta Zahnschmelz Professional Opti-schmelz, 75 ml; Mascara Grow & Tint Deep Black, 12 ml; Gesichtscreme Basis Sensitiv feuchtigkeitsspendend, 50 ml; Men Pre Electric Shave Lotion, 100 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Es geht um folgende Produkte: Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g; Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Nuss- & Fruchtmischung, Tropic Mix, 200 g; Zahnpasta Zahnschmelz Professional Opti-schmelz, 75 ml; Mascara Grow & Tint Deep Black, 12 ml; Gesichtscreme Basis Sensitiv feuchtigkeitsspendend, 50 ml; Men Pre Electric Shave Lotion, 100 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0014.wav",
-    "audio_duration_s": 34.383,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0014.wav",
+      "real": "audio_real/combined_0014.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 34.383,
+      "real": 42.667
+    },
     "answer": 63.98,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2150,9 +2625,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Shampoo Honig , 400 ml; Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml; Kinder Badezusatz Badebombe Dragons, 1 St; Babykekse Wundertraum-Kekse mit Dinkel, Apfel & Heidelbeere, ab 8 Monaten, 100 g; Nagellack 27 Watermelon, 13,5 ml; Handcreme Urea, 100 ml; Bonbon, Fresh Mint, zuckerfrei, 75 g; Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Hey, ich hab hier ein paar Produkte: Shampoo Honig, 400 Milliliter; Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 Milliliter; Kinder Badezusatz Badebombe Dragons, 1 Stück; Babykekse Wundertraum-Kekse mit Dinkel, Apfel und Heidelbeere, ab 8 Monaten, 100 Gramm; Nagellack 27 Watermelon, 13,5 Milliliter; Handcreme Urea, 100 Milliliter; Bonbon, Fresh Mint, zuckerfrei, 75 Gramm; Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 Milliliter Einweg. Wie hoch ist die Summe ihrer Einkaufspreise?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0015.wav",
-    "audio_duration_s": 41.396,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0015.wav",
+      "real": "audio_real/combined_0015.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 41.396,
+      "real": 51.541
+    },
     "answer": 46.17,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2174,9 +2654,14 @@
     "speaker": "speaker_1_female",
     "prompt": "Es geht um folgende Produkte: Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Wattepads Maxi mit Seide, 60 St; Kinderkekse Haselnussecken, ab 3 Jahren, 30 g; Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 g; Haaröl Coconut Miracle Oil, 100 ml; Antitranspirant Deo Roll-on Classic, 50 ml; Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 g; Flüssigseife Rosemary & Ginger, 250 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Weißt du noch, wie hoch die Summe der Einkaufspreise von diesen Produkten ist: Nussmischung, Gerösteter Edelnuss-Mix, 160 Gramm; Wattepads Maxi mit Seide, 60 Stück; Kinderkekse Haselnussecken, ab 3 Jahren, 30 Gramm; Lippenstift 2000 Calorie Mellow Blur 030 Peach Blush, 3,5 Gramm; Haaröl Coconut Miracle Oil, 100 Milliliter; Antitranspirant Deo Roll-on Classic, 50 Milliliter; Trockenfrüchte, Datteln mit Geschmack, Sour Apple, 100 Gramm; Flüssigseife Rosemary & Ginger, 250 Milliliter?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0016.wav",
-    "audio_duration_s": 38.284,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0016.wav",
+      "real": "audio_real/combined_0016.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 38.284,
+      "real": 46.592
+    },
     "answer": 85.27,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2198,9 +2683,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Haaröl Hydro Shine, 30 ml; Deospray Dusch Frische, 150 ml; Babysnack Knusper Flips Tomate-Karotte ab 8 Monaten, 30 g; Butterkekse, Dinkel, 150 g; Windeln Premium Gr. 5 (13-18 kg), 26 St; Feuchttücher Ultra sensitiv 5x48 St., 240 St; Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g; Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml; Fruchtaufstrich, Himbeere 55% Frucht, 340 g; Kindermüsli Beeren ab dem 10. Monat, 200 g. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Kannst du mir sagen, wie hoch die Summe der Einkaufspreise für folgende Produkte ist: Haaröl Hydro Shine, 30 Milliliter; Deospray Dusch Frische, 150 Milliliter; Babysnack Knusper Flips Tomate-Karotte ab 8 Monaten, 30 Gramm; Butterkekse, Dinkel, 150 Gramm; Windeln Premium Größe 5, 13 bis 18 Kilogramm, 26 Stück; Feuchttücher Ultra sensitiv, 5 mal 48 Stück, also 240 Stück; Trockenfrüchte, White Crunchy Strawberries, Erdbeeren mit Schokolade, 50 Gramm; Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz und Moltebeere, 250 Milliliter; Fruchtaufstrich, Himbeere, 55 Prozent Frucht, 340 Gramm; Kindermüsli Beeren ab dem 10. Monat, 200 Gramm?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0017.wav",
-    "audio_duration_s": 49.633,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0017.wav",
+      "real": "audio_real/combined_0017.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 49.633,
+      "real": 57.003
+    },
     "answer": 98.17,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2224,9 +2714,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Concealer Fit Me 06 Vanilla, 6,8 ml; Direktsaft, Apfel-Mango, 0,33 l; Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g; Mascara Volume Million Lashes Panorama Black, 10,5 ml; Pesto, Artischocken & Zitrone, 120 g; Quetschie wiederverwendbar, 3er-Pack, 3 St; Muffin Choco, glutenfrei, 65 g; Pflanzendrink, Cashew natur, 1 l. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Mh, ich hab hier ein paar Produkte: Concealer Fit Me 06 Vanilla, 6,8 Milliliter; Direktsaft, Apfel-Mango, 0,33 Liter; Fruchtaufstrich, Waldfrucht 55 Prozent Frucht, 340 Gramm; Mascara Volume Million Lashes Panorama Black, 10,5 Milliliter; Pesto, Artischocken und Zitrone, 120 Gramm; Quetschie wiederverwendbar, 3er-Pack, 3 Stück; Muffin Choco, glutenfrei, 65 Gramm; Pflanzendrink, Cashew natur, 1 Liter. Wie hoch ist die Summe ihrer Einkaufspreise?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0018.wav",
-    "audio_duration_s": 36.334,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0018.wav",
+      "real": "audio_real/combined_0018.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 36.334,
+      "real": 42.325
+    },
     "answer": 112.45,
     "accepted_answers": [],
     "answer_type": "number",
@@ -2248,9 +2743,14 @@
     "speaker": "speaker_2_male",
     "prompt": "Es geht um folgende Produkte: Direktsaft, Apfel-Mango, 0,33 l; Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g; Fertiggericht, Noodle Cup Kräuter-Creme-Sauce, 61 g; Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Müsli, Choco Balls, glutenfrei, 275 g; Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 ml. Wie hoch ist die Summe ihrer Einkaufspreise?",
     "spoken": "Sag mal, wie hoch ist die Summe der Einkaufspreise von diesen Produkten: Direktsaft, Apfel-Mango, 0,33 Liter; Fruchtaufstrich, Frucht Pur Mango 75 Prozent Frucht, 200 Gramm; Fertiggericht, Noodle Cup Kräuter-Creme-Sauce, 61 Gramm; Nussmischung, Gerösteter Edelnuss-Mix, 160 Gramm; Müsli, Choco Balls, glutenfrei, 275 Gramm; Spülmaschinen-Reiniger Excellence 5in1 Gel Power & Perls 60 Spülgänge, 960 Milliliter?",
-    "audio_source": "synthetic",
-    "audio_file": "audio_synthetic/combined_0019.wav",
-    "audio_duration_s": 33.222,
+    "audio_files": {
+      "synthetic": "audio_synthetic/combined_0019.wav",
+      "real": "audio_real/combined_0019.wav"
+    },
+    "audio_durations_s": {
+      "synthetic": 33.222,
+      "real": 39.083
+    },
     "answer": 69.15,
     "accepted_answers": [],
     "answer_type": "number",
