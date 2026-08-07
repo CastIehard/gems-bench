@@ -1,0 +1,2890 @@
+[
+  {
+    "gtin": 4038375025928,
+    "dan": 1670428,
+    "brandName": "Natumi",
+    "title": "Mandeldrink, ungesüßt, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: Natumi; Produktname: Mandeldrink, ungesüßt, 1 l; Preis: 2,25 €; Grundpreis: 1 l (2,25 € je 1 l)",
+      "brand": {
+        "name": "Natumi"
+      },
+      "dan": 1670428,
+      "gtin": 4038375025928,
+      "images": [
+        {
+          "alt": "Mandeldrink, ungesüßt Natumi",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748384917/assets/pas/images/c20af8b2-5ef7-4349-87a7-72e360680602/natumi-mandeldrink-ungesuesst"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,89 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,89 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,25 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 98,
+        "ratingValue": 4.5102
+      },
+      "self": "/p/d/1670428/natumi-mandeldrink-ungesuesst",
+      "title": {
+        "tileHeadline": "Mandeldrink, ungesüßt, 1 l",
+        "tileHeadlineLong": "Mandeldrink, ungesüßt, 1 l"
+      },
+      "trackingData": {
+        "brand": "Natumi",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5102,
+        "ratingCount": 98
+      }
+    }
+  },
+  {
+    "gtin": 7322540952841,
+    "dan": 1548089,
+    "brandName": "Tempo",
+    "title": "Feuchtes Toilettenpapier Mandelmilch & Panthenol, 42 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Feuchtes Toilettenpapier Mandelmilch & Panthenol, 42 St; Preis: 1,75 €; Grundpreis: 42 St (4,17 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1548089,
+      "gtin": 7322540952841,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier Mandelmilch & Panthenol Tempo",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932712/assets/pas/images/23daec5c-f249-4fd5-97ed-4749ef1bb541/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Mandelmilch & Panthenol Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932718/assets/pas/images/309012ba-2959-4440-9263-cccf70cb14e5/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Mandelmilch & Panthenol Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245209/assets/pas/images/b3c67e1a-1fb6-4dce-9d96-7bbbde6c6cae/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Mandelmilch & Panthenol Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245258/assets/pas/images/102957de-e77f-47f0-abf4-654a50bf2c36/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Mandelmilch & Panthenol Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245228/assets/pas/images/1705b615-c234-4bd7-b446-5a55f7f6794f/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Mandelmilch & Panthenol Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245244/assets/pas/images/21ab2338-a37a-4973-ad19-3a6636f7aa7b/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Mandelmilch & Panthenol Tempo",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245218/assets/pas/images/94777a56-9aef-4993-a85e-a39f13612d76/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Mandelmilch & Panthenol Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245279/assets/pas/images/a906b9b6-85ac-4b8a-88ce-4bc1ea870a4f/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Mandelmilch & Panthenol Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932695/assets/pas/images/103159d3-ec8c-4993-bc7c-24f637fd4b33/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "42 St (3,50 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "42 St (4,17 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 101,
+        "ratingValue": 4.7723
+      },
+      "self": "/p/d/1548089/tempo-feuchtes-toilettenpapier-mandelmilch-und-panthenol",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier Mandelmilch & Panthenol, 42 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier Mandelmilch & Panthenol, 42 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7723,
+        "ratingCount": 101
+      }
+    }
+  },
+  {
+    "gtin": 9020200031377,
+    "dan": 2967679,
+    "brandName": "Natumi",
+    "title": "Mandeldrink, Barista, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: Natumi; Produktname: Mandeldrink, Barista, 1 l; Preis: 2,45 €; Grundpreis: 1 l (2,45 € je 1 l)",
+      "brand": {
+        "name": "Natumi"
+      },
+      "dan": 2967679,
+      "gtin": 9020200031377,
+      "images": [
+        {
+          "alt": "Mandeldrink, Barista Natumi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765200287/assets/pas/images/2a4da0cb-f6f9-4c8c-85c6-088852de039d/natumi-mandeldrink-barista"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,45 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 24,
+        "ratingValue": 4.7083
+      },
+      "self": "/p/d/2967679/natumi-mandeldrink-barista",
+      "title": {
+        "tileHeadline": "Mandeldrink, Barista, 1 l",
+        "tileHeadlineLong": "Mandeldrink, Barista, 1 l"
+      },
+      "trackingData": {
+        "brand": "Natumi",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7083,
+        "ratingCount": 24
+      }
+    }
+  },
+  {
+    "gtin": 4001499973550,
+    "dan": 3124689,
+    "brandName": "Frosch",
+    "title": "Weichspüler Mandelmilch 40WL, 880 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch; Produktname: Weichspüler Mandelmilch 40WL, 880 ml; Preis: 1,95 €; Grundpreis: 40 Wl (0,05 € je 1 Wl)",
+      "brand": {
+        "name": "Frosch"
+      },
+      "dan": 3124689,
+      "gtin": 4001499973550,
+      "images": [
+        {
+          "alt": "Weichspüler Mandelmilch 40WL Frosch",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773962031/assets/pas/images/1ab247a2-88c5-4f67-8568-6880ffb0cc5d/frosch-weichspueler-mandelmilch-40wl"
+        },
+        {
+          "alt": "Weichspüler Mandelmilch 40WL Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773962026/assets/pas/images/7f23ff66-f872-43d1-a6e0-69fac7d12e6c/frosch-weichspueler-mandelmilch-40wl"
+        },
+        {
+          "alt": "Weichspüler Mandelmilch 40WL Frosch",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781830886/assets/pas/images/a52d47ba-6040-4e5e-8b89-38fd1dad9fc2/frosch-weichspueler-mandelmilch-40wl"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "40 Wl (0,04 € je 1 Wl)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "40 Wl (0,05 € je 1 Wl)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 3.4444
+      },
+      "self": "/p/d/3124689/frosch-weichspueler-mandelmilch-40wl",
+      "title": {
+        "tileHeadline": "Weichspüler Mandelmilch 40WL, 880 ml",
+        "tileHeadlineLong": "Weichspüler Mandelmilch 40WL, 880 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch",
+        "categories": [
+          "Weichspüler"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.4444,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 42426356,
+    "dan": 1584162,
+    "brandName": "ORINIQ",
+    "title": "Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: ORINIQ; Produktname: Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus, 250 ml; Preis: 2,25 €; Grundpreis: 0,25 l (9,00 € je 1 l)",
+      "brand": {
+        "name": "ORINIQ"
+      },
+      "dan": 1584162,
+      "gtin": 42426356,
+      "images": [
+        {
+          "alt": "Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus ORINIQ",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747489806/assets/pas/images/353ed57f-321e-4a1a-86c9-3ea88ed45975/oriniq-pflegedusche-thailand-feeling-mit-mandelmilch-orangenblueten-und-bambus"
+        },
+        {
+          "alt": "Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus ORINIQ",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490153/assets/pas/images/e5611197-6958-486d-b9bb-a814e17ca171/oriniq-pflegedusche-thailand-feeling-mit-mandelmilch-orangenblueten-und-bambus"
+        },
+        {
+          "alt": "Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus ORINIQ",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490147/assets/pas/images/f4410528-97e2-4f6e-9e52-97aaf5d7591b/oriniq-pflegedusche-thailand-feeling-mit-mandelmilch-orangenblueten-und-bambus"
+        },
+        {
+          "alt": "Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus ORINIQ",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747489891/assets/pas/images/d2c7f8a3-2225-4dba-8b52-9285c6e3e956/oriniq-pflegedusche-thailand-feeling-mit-mandelmilch-orangenblueten-und-bambus"
+        },
+        {
+          "alt": "Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus ORINIQ",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776896420/assets/pas/images/37461456-6b06-4cad-b9c1-eb0eea0189e0/oriniq-pflegedusche-thailand-feeling-mit-mandelmilch-orangenblueten-und-bambus"
+        },
+        {
+          "alt": "Pflegedusche Thailand Feeling mit Mandelmilch, Orangenblüten & Bambus ORINIQ",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780092993/assets/pas/images/08dcf948-5cd5-4a90-91d0-cb35a869e874/oriniq-pflegedusche-thailand-feeling-mit-mandelmilch-orangenblueten-und-bambus"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,56 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 116,
+        "ratingValue": 4.681
+      },
+      "self": "/p/d/1584162/oriniq-pflegedusche-thailand-feeling-mit-mandelmilch-orangenblueten-und-bambus",
+      "title": {
+        "tileHeadline": "Pflegedusche Thailand Feeling mit Mandelmilch,..., 250 ml",
+        "tileHeadlineLong": "Pflegedusche Thailand Feeling mit Mandelmilch,..., 250 ml"
+      },
+      "trackingData": {
+        "brand": "ORINIQ",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.681,
+        "ratingCount": 116
+      }
+    }
+  },
+  {
+    "gtin": 8711700927536,
+    "dan": 1370484,
+    "brandName": "Dove",
+    "title": "Cremebad Mandelmilch & Hibiskusduft, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Dove; Produktname: Cremebad Mandelmilch & Hibiskusduft, 750 ml; Preis: 4,65 €; Grundpreis: 0,75 l (6,20 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Dove"
+      },
+      "dan": 1370484,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 8711700927536,
+      "images": [
+        {
+          "alt": "Cremebad Mandelmilch & Hibiskusduft Dove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772237233/assets/pas/images/c767ad5d-cb73-44fc-9747-f9c39382c63e/dove-cremebad-mandelmilch-und-hibiskusduft"
+        },
+        {
+          "alt": "Cremebad Mandelmilch & Hibiskusduft Dove",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772237227/assets/pas/images/0e2dcecc-7276-4dce-92f8-6e7d13ee2fce/dove-cremebad-mandelmilch-und-hibiskusduft"
+        },
+        {
+          "alt": "Cremebad Mandelmilch & Hibiskusduft Dove",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747531903/assets/pas/images/7de4982c-1661-4077-b999-9f35390226f1/dove-cremebad-mandelmilch-und-hibiskusduft"
+        },
+        {
+          "alt": "Cremebad Mandelmilch & Hibiskusduft Dove",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747613859/assets/pas/images/4b45d053-3106-4447-9103-8d22f5231d55/dove-cremebad-mandelmilch-und-hibiskusduft"
+        },
+        {
+          "alt": "Cremebad Mandelmilch & Hibiskusduft Dove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772489883/assets/pas/images/b6488552-394b-43da-841e-111b6fa7ae35/dove-cremebad-mandelmilch-und-hibiskusduft"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,91 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (5,21 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (6,20 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.7534
+      },
+      "self": "/p/d/1370484/dove-cremebad-mandelmilch-und-hibiskusduft",
+      "title": {
+        "tileHeadline": "Cremebad Mandelmilch & Hibiskusduft, 750 ml",
+        "tileHeadlineLong": "Cremebad Mandelmilch & Hibiskusduft, 750 ml"
+      },
+      "trackingData": {
+        "brand": "Dove",
+        "categories": [
+          "Badezusatz & Badesalz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7534,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 4072600702307,
+    "dan": 2484405,
+    "brandName": "GUHL",
+    "title": "Kinder Shampoo, Spülung & Duschgel 3in1 Mandelmilch, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: GUHL; Produktname: Kinder Shampoo, Spülung & Duschgel 3in1 Mandelmilch, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l); Nur Online Grafik, Grafik: Glückskind 96% Weiterempfehlung GUHL Kids 3in1 Shampoo, Spülung & Duschgel 195 Teilnehmer November 2024\n",
+      "brand": {
+        "name": "GUHL"
+      },
+      "dan": 2484405,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Grafik: Glückskind 96% Weiterempfehlung GUHL Kids 3in1 Shampoo, Spülung & Duschgel 195 Teilnehmer November 2024\n",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768551234/assets/pas/seals/b4e5f167-41ca-418d-80c1-4d45acd90c03/b4e5f167-41ca-418d-80c1-4d45acd90c03.png",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768551234/assets/pas/seals/b4e5f167-41ca-418d-80c1-4d45acd90c03/b4e5f167-41ca-418d-80c1-4d45acd90c03.png"
+        }
+      ],
+      "gtin": 4072600702307,
+      "images": [
+        {
+          "alt": "Kinder Shampoo, Spülung & Duschgel 3in1 Mandelmilch  GUHL",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488707/assets/pas/images/f0df85a7-5d3e-4164-8e41-9459984e4259/guhl-kinder-shampoo-spuelung-und-duschgel-3in1-mandelmilch"
+        },
+        {
+          "alt": "Kinder Shampoo, Spülung & Duschgel 3in1 Mandelmilch  GUHL",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488495/assets/pas/images/ba88a631-5430-4cd3-87d0-a51cf42c949d/guhl-kinder-shampoo-spuelung-und-duschgel-3in1-mandelmilch"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 29,
+        "ratingValue": 4.7586
+      },
+      "self": "/p/d/2484405/guhl-kinder-shampoo-spuelung-und-duschgel-3in1-mandelmilch",
+      "title": {
+        "tileHeadline": "Kinder Shampoo, Spülung & Duschgel 3in1..., 250 ml",
+        "tileHeadlineLong": "Kinder Shampoo, Spülung & Duschgel 3in1..., 250 ml"
+      },
+      "trackingData": {
+        "brand": "GUHL",
+        "categories": [
+          "Kindershampoo",
+          "Kinderduschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7586,
+        "ratingCount": 29
+      }
+    }
+  },
+  {
+    "gtin": 4260307631208,
+    "dan": 1675197,
+    "brandName": "ORINIQ",
+    "title": "Flüssigseife Thailand Feeling mit Mandelmilch, Orangenblüte & Bambus, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: ORINIQ; Produktname: Flüssigseife Thailand Feeling mit Mandelmilch, Orangenblüte & Bambus, 300 ml; Preis: 2,45 €; Grundpreis: 0,3 l (8,17 € je 1 l)",
+      "brand": {
+        "name": "ORINIQ"
+      },
+      "dan": 1675197,
+      "gtin": 4260307631208,
+      "images": [
+        {
+          "alt": "Flüssigseife Thailand Feeling mit Mandelmilch, Orangenblüte & Bambus ORINIQ",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755122793/assets/pas/images/7c423791-933d-4240-a9d8-a81d42bf88a6/oriniq-fluessigseife-thailand-feeling-mit-mandelmilch-orangenbluete-und-bambus"
+        },
+        {
+          "alt": "Flüssigseife Thailand Feeling mit Mandelmilch, Orangenblüte & Bambus ORINIQ",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755122796/assets/pas/images/08b372f1-0bc3-4cb2-8536-50d5d65c8510/oriniq-fluessigseife-thailand-feeling-mit-mandelmilch-orangenbluete-und-bambus"
+        },
+        {
+          "alt": "Flüssigseife Thailand Feeling mit Mandelmilch, Orangenblüte & Bambus ORINIQ",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776896491/assets/pas/images/739cda65-8fb2-4170-bcc3-6a3349b00c16/oriniq-fluessigseife-thailand-feeling-mit-mandelmilch-orangenbluete-und-bambus"
+        },
+        {
+          "alt": "Flüssigseife Thailand Feeling mit Mandelmilch, Orangenblüte & Bambus ORINIQ",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776896500/assets/pas/images/b3e56189-bd59-401e-853b-118414c56dc4/oriniq-fluessigseife-thailand-feeling-mit-mandelmilch-orangenbluete-und-bambus"
+        },
+        {
+          "alt": "Flüssigseife Thailand Feeling mit Mandelmilch, Orangenblüte & Bambus ORINIQ",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491866/assets/pas/images/b80ceeaa-ea61-44df-b046-9e03cf27caeb/oriniq-fluessigseife-thailand-feeling-mit-mandelmilch-orangenbluete-und-bambus"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (6,87 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (8,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.7667
+      },
+      "self": "/p/d/1675197/oriniq-fluessigseife-thailand-feeling-mit-mandelmilch-orangenbluete-und-bambus",
+      "title": {
+        "tileHeadline": "Flüssigseife Thailand Feeling mit Mandelmilch,..., 300 ml",
+        "tileHeadlineLong": "Flüssigseife Thailand Feeling mit Mandelmilch,..., 300 ml"
+      },
+      "trackingData": {
+        "brand": "ORINIQ",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7667,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4066447912630,
+    "dan": 2477001,
+    "brandName": "alverde NATURKOSMETIK",
+    "title": "Seifenstück Cremeseife mit Sheabutter & Mandelmilch, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: alverde NATURKOSMETIK; Produktname: Seifenstück Cremeseife mit Sheabutter & Mandelmilch, 100 g; Preis: 0,85 €; Grundpreis: 0,1 kg (8,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "alverde NATURKOSMETIK"
+      },
+      "dan": 2477001,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447912630,
+      "images": [
+        {
+          "alt": "Seifenstück Cremeseife mit Sheabutter & Mandelmilch alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371179/assets/pas/images/96dd13f1-32a5-43bb-9723-31bd9abae608/alverde-naturkosmetik-seifenstueck-cremeseife-mit-sheabutter-und-mandelmilch"
+        },
+        {
+          "alt": "Seifenstück Cremeseife mit Sheabutter & Mandelmilch alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371185/assets/pas/images/48fa88b2-f224-440b-8140-9c1987d92473/alverde-naturkosmetik-seifenstueck-cremeseife-mit-sheabutter-und-mandelmilch"
+        },
+        {
+          "alt": "Seifenstück Cremeseife mit Sheabutter & Mandelmilch alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371175/assets/pas/images/454fa42a-8a4a-4b57-afa8-572117f97338/alverde-naturkosmetik-seifenstueck-cremeseife-mit-sheabutter-und-mandelmilch"
+        },
+        {
+          "alt": "Seifenstück Cremeseife mit Sheabutter & Mandelmilch alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371171/assets/pas/images/c2e9a07e-9f42-445b-8d82-1f2712b83762/alverde-naturkosmetik-seifenstueck-cremeseife-mit-sheabutter-und-mandelmilch"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,71 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (7,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (8,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.1563
+      },
+      "self": "/p/d/2477001/alverde-naturkosmetik-seifenstueck-cremeseife-mit-sheabutter-und-mandelmilch",
+      "title": {
+        "tileHeadline": "Seifenstück Cremeseife mit Sheabutter &..., 100 g",
+        "tileHeadlineLong": "Seifenstück Cremeseife mit Sheabutter &..., 100 g"
+      },
+      "trackingData": {
+        "brand": "alverde NATURKOSMETIK",
+        "categories": [
+          "Feste Seife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1692,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 4003583221653,
+    "dan": 3057346,
+    "brandName": "VANDINI",
+    "title": "Geschenkset HYDRO Magnolienblüte & Mandelmilch 3tlg, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: VANDINI; Produktname: Geschenkset HYDRO Magnolienblüte & Mandelmilch 3tlg, 1 St; Preis: 10,95 €; Grundpreis: 1 St (10,95 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "VANDINI"
+      },
+      "dan": 3057346,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4003583221653,
+      "images": [
+        {
+          "alt": "Geschenkset HYDRO Magnolienblüte & Mandelmilch 3tlg VANDINI",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758638531/assets/pas/images/eabf1cab-30db-4234-8d83-ba447ccf62f7/vandini-geschenkset-hydro-magnolienbluete-und-mandelmilch-3tlg"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,20 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (9,20 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (10,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3057346/vandini-geschenkset-hydro-magnolienbluete-und-mandelmilch-3tlg",
+      "title": {
+        "tileHeadline": "Geschenkset HYDRO Magnolienblüte & Mandelmilch..., 1 St",
+        "tileHeadlineLong": "Geschenkset HYDRO Magnolienblüte & Mandelmilch..., 1 St"
+      },
+      "trackingData": {
+        "brand": "VANDINI",
+        "categories": [
+          "Geschenksets"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 10.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4067796002065,
+    "dan": 1599340,
+    "brandName": "dmBio",
+    "title": "Pflanzendrink, Mandel Drink, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pflanzendrink, Mandel Drink, 1 l; Preis: 1,35 €; Grundpreis: 1 l (1,35 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1599340,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796002065,
+      "images": [
+        {
+          "alt": "Pflanzendrink, Mandel Drink dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487051/assets/pas/images/7c22b25f-ff5b-4de0-92b7-5f614899e4c0/dmbio-pflanzendrink-mandel-drink"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel Drink dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487048/assets/pas/images/7c861a4c-07d1-42dc-9c86-d4beba3ec3dc/dmbio-pflanzendrink-mandel-drink"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel Drink dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761821482/assets/pas/images/b19936fb-91a3-47af-83a6-1c57f8a2ccc2/dmbio-pflanzendrink-mandel-drink"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel Drink dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487140/assets/pas/images/94aad3b9-271c-4add-9860-e36a87b92956/dmbio-pflanzendrink-mandel-drink"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel Drink dmBio",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487047/assets/pas/images/fabe9cf1-8a3f-44fd-8336-12615b0a97b1/dmbio-pflanzendrink-mandel-drink"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,13 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,13 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,35 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 291,
+        "ratingValue": 3.0859
+      },
+      "self": "/p/d/1599340/dmbio-pflanzendrink-mandel-drink",
+      "title": {
+        "tileHeadline": "Pflanzendrink, Mandel Drink, 1 l",
+        "tileHeadlineLong": "Pflanzendrink, Mandel Drink, 1 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0788,
+        "ratingCount": 292
+      }
+    }
+  },
+  {
+    "gtin": 4070765016796,
+    "dan": 1589787,
+    "brandName": "Balea",
+    "title": "Festes Shampoo Avocadoöl & Mandel-Extrakt, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Festes Shampoo Avocadoöl & Mandel-Extrakt, 60 g; Preis: 2,95 €; Grundpreis: 0,06 kg (49,17 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1589787,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016796,
+      "images": [
+        {
+          "alt": "Festes Shampoo Avocadoöl & Mandel-Extrakt Balea",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387752/assets/pas/images/71c7798a-723f-47eb-9ab4-9af70fefacc2/balea-festes-shampoo-avocadooel-und-mandel-extrakt"
+        },
+        {
+          "alt": "Festes Shampoo Avocadoöl & Mandel-Extrakt Balea",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387728/assets/pas/images/d6240345-cff7-4388-9f1f-a959b9963eea/balea-festes-shampoo-avocadooel-und-mandel-extrakt"
+        },
+        {
+          "alt": "Festes Shampoo Avocadoöl & Mandel-Extrakt Balea",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387746/assets/pas/images/32db03e5-9766-4fd9-bfd3-64705d411e70/balea-festes-shampoo-avocadooel-und-mandel-extrakt"
+        },
+        {
+          "alt": "Festes Shampoo Avocadoöl & Mandel-Extrakt Balea",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387735/assets/pas/images/a1fc3049-271b-4974-95dd-8038104d3897/balea-festes-shampoo-avocadooel-und-mandel-extrakt"
+        },
+        {
+          "alt": "Festes Shampoo Avocadoöl & Mandel-Extrakt Balea",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387742/assets/pas/images/84badc68-468e-4f97-807f-ec82db03fd52/balea-festes-shampoo-avocadooel-und-mandel-extrakt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (41,32 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (49,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 141,
+        "ratingValue": 4.4255
+      },
+      "self": "/p/d/1589787/balea-festes-shampoo-avocadooel-und-mandel-extrakt",
+      "title": {
+        "tileHeadline": "Festes Shampoo Avocadoöl & Mandel-Extrakt, 60 g",
+        "tileHeadlineLong": "Festes Shampoo Avocadoöl & Mandel-Extrakt, 60 g"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Haarseife, festes Shampoo & Conditioner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4255,
+        "ratingCount": 141
+      }
+    }
+  },
+  {
+    "gtin": 810023678663,
+    "dan": 3050873,
+    "brandName": "SABRINA CARPENTER",
+    "title": "Caramel Dream Eau de Parfum, 30 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SABRINA CARPENTER; Produktname: Caramel Dream Eau de Parfum, 30 ml; Preis: 18,95 €; Grundpreis: 0,03 l (631,67 € je 1 l)",
+      "brand": {
+        "name": "SABRINA CARPENTER"
+      },
+      "dan": 3050873,
+      "gtin": 810023678663,
+      "images": [
+        {
+          "alt": "Caramel Dream Eau de Parfum SABRINA CARPENTER",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747523683/assets/pas/images/a3163bf8-7a18-45d1-ae5a-f3a1329cbb9f/sabrina-carpenter-caramel-dream-eau-de-parfum"
+        },
+        {
+          "alt": "Caramel Dream Eau de Parfum SABRINA CARPENTER",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747576203/assets/pas/images/d962c6a8-a4fb-4929-8693-cc3d299e6cb5/sabrina-carpenter-caramel-dream-eau-de-parfum"
+        },
+        {
+          "alt": "Caramel Dream Eau de Parfum SABRINA CARPENTER",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778020784/assets/pas/images/c8c61b0d-f306-409c-a2e9-e0836fea9dad/sabrina-carpenter-caramel-dream-eau-de-parfum"
+        },
+        {
+          "alt": "Caramel Dream Eau de Parfum SABRINA CARPENTER",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747576221/assets/pas/images/1d9ef42a-abb0-4859-9251-af2c00f1b1a5/sabrina-carpenter-caramel-dream-eau-de-parfum"
+        },
+        {
+          "alt": "Caramel Dream Eau de Parfum SABRINA CARPENTER",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747576211/assets/pas/images/f78cdccb-a574-4770-9b5b-e84e949fc774/sabrina-carpenter-caramel-dream-eau-de-parfum"
+        },
+        {
+          "alt": "Caramel Dream Eau de Parfum SABRINA CARPENTER",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763641269/assets/pas/images/f4f96b67-2436-40b5-80c1-c15cfb83f738/sabrina-carpenter-caramel-dream-eau-de-parfum"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,92 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (530,82 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "18,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (631,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 3.875
+      },
+      "self": "/p/d/3050873/sabrina-carpenter-caramel-dream-eau-de-parfum",
+      "title": {
+        "tileHeadline": "Caramel Dream Eau de Parfum, 30 ml",
+        "tileHeadlineLong": "Caramel Dream Eau de Parfum, 30 ml"
+      },
+      "trackingData": {
+        "brand": "SABRINA CARPENTER",
+        "categories": [
+          "Damen Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 18.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.875,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 9120130827023,
+    "dan": 3129036,
+    "brandName": "essential garden",
+    "title": "Floral Gardenia Eau de Parfum, 30 ml",
+    "tileData": {
+      "a11yLabel": "Marke: essential garden; Produktname: Floral Gardenia Eau de Parfum, 30 ml; Preis: 4,95 €; Grundpreis: 0,03 l (165,00 € je 1 l)",
+      "brand": {
+        "name": "essential garden"
+      },
+      "dan": 3129036,
+      "gtin": 9120130827023,
+      "images": [
+        {
+          "alt": "Floral Gardenia Eau de Parfum essential garden",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777420658/assets/pas/images/825ca7cc-5a28-4dde-88a1-933e4cc3d761/essential-garden-floral-gardenia-eau-de-parfum"
+        },
+        {
+          "alt": "Floral Gardenia Eau de Parfum essential garden",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771418578/assets/pas/images/685f4b87-121b-4ace-a447-708a26eaed72/essential-garden-floral-gardenia-eau-de-parfum"
+        },
+        {
+          "alt": "Floral Gardenia Eau de Parfum essential garden",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771418537/assets/pas/images/0dea6da3-296e-45a4-a24e-03212021fb2f/essential-garden-floral-gardenia-eau-de-parfum"
+        },
+        {
+          "alt": "Floral Gardenia Eau de Parfum essential garden",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771418566/assets/pas/images/438cab1c-08f9-44a2-a514-9df32e4d612d/essential-garden-floral-gardenia-eau-de-parfum"
+        },
+        {
+          "alt": "Floral Gardenia Eau de Parfum essential garden",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771418573/assets/pas/images/2818c9de-f398-4ff8-a4ca-15fba8fe2b9e/essential-garden-floral-gardenia-eau-de-parfum"
+        },
+        {
+          "alt": "Floral Gardenia Eau de Parfum essential garden",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771418546/assets/pas/images/64694962-2516-4fef-bf5b-3dc8442565ad/essential-garden-floral-gardenia-eau-de-parfum"
+        },
+        {
+          "alt": "Floral Gardenia Eau de Parfum essential garden",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771418530/assets/pas/images/9873ae5d-975a-41cd-aa9b-87957848e141/essential-garden-floral-gardenia-eau-de-parfum"
+        },
+        {
+          "alt": "Floral Gardenia Eau de Parfum essential garden",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771418555/assets/pas/images/98a476de-ee86-4322-b372-0a5b913f96e2/essential-garden-floral-gardenia-eau-de-parfum"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (138,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (165,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 20,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3129036/essential-garden-floral-gardenia-eau-de-parfum",
+      "title": {
+        "tileHeadline": "Floral Gardenia Eau de Parfum, 30 ml",
+        "tileHeadlineLong": "Floral Gardenia Eau de Parfum, 30 ml"
+      },
+      "trackingData": {
+        "brand": "essential garden",
+        "categories": [
+          "Damen Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 20
+      }
+    }
+  },
+  {
+    "gtin": 42241294,
+    "dan": 1647251,
+    "brandName": "HiPP Babysanft",
+    "title": "Baby Waschschaum sensitiv, Nachfüllpack, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP Babysanft; Produktname: Baby Waschschaum sensitiv, Nachfüllpack, 250 ml; Preis: 2,75 €; Grundpreis: 0,25 l (11,00 € je 1 l)",
+      "brand": {
+        "name": "HiPP Babysanft"
+      },
+      "dan": 1647251,
+      "gtin": 42241294,
+      "images": [
+        {
+          "alt": "Baby Waschschaum sensitiv, Nachfüllpack  HiPP Babysanft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765926747/assets/pas/images/261f664d-9640-4d85-8d00-aa11b4512e6a/hipp-babysanft-baby-waschschaum-sensitiv-nachfuellpack"
+        },
+        {
+          "alt": "Baby Waschschaum sensitiv, Nachfüllpack  HiPP Babysanft",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765926770/assets/pas/images/d93a39d7-cbc0-4764-8e0a-f95f59fcb4b1/hipp-babysanft-baby-waschschaum-sensitiv-nachfuellpack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 133,
+        "ratingValue": 4.7143
+      },
+      "self": "/p/d/1647251/hipp-babysanft-baby-waschschaum-sensitiv-nachfuellpack",
+      "title": {
+        "tileHeadline": "Baby Waschschaum sensitiv, Nachfüllpack, 250 ml",
+        "tileHeadlineLong": "Baby Waschschaum sensitiv, Nachfüllpack, 250 ml"
+      },
+      "trackingData": {
+        "brand": "HiPP Babysanft",
+        "categories": [
+          "Babyshampoo, Badezusätze & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7143,
+        "ratingCount": 133
+      }
+    }
+  },
+  {
+    "gtin": 4015100358728,
+    "dan": 2978622,
+    "brandName": "Persil",
+    "title": "Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL), 124 Wl",
+    "tileData": {
+      "a11yLabel": "Marke: Persil; Produktname: Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL), 124 Wl; Preis: 29,95 €; Grundpreis: 124 Wl (0,24 € je 1 Wl); Nur Online Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Persil"
+      },
+      "dan": 2978622,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4015100358728,
+      "images": [
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL)  Persil",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747440421/assets/pas/images/e54ba7ee-013b-4e4c-a74e-71342d72b291/persil-vollwaschmittel-sensitive-gel-ultra-konzentrat-2x62wl"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL)  Persil",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747440660/assets/pas/images/1eb96690-d5c0-48d8-bcd5-0e57d791a2da/persil-vollwaschmittel-sensitive-gel-ultra-konzentrat-2x62wl"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL)  Persil",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747440415/assets/pas/images/e014fccc-0672-4863-aea6-3de2f203c5bc/persil-vollwaschmittel-sensitive-gel-ultra-konzentrat-2x62wl"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL)  Persil",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779321360/assets/pas/images/0eddcdc7-f595-4a31-80fe-e4c31a447dae/persil-vollwaschmittel-sensitive-gel-ultra-konzentrat-2x62wl"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL)  Persil",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747440660/assets/pas/images/c3bbd172-b8ba-47ee-886f-ac0d185c1099/persil-vollwaschmittel-sensitive-gel-ultra-konzentrat-2x62wl"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL)  Persil",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779321349/assets/pas/images/5d3b8d4f-5cd1-49d5-9bb3-661cf2d3d15d/persil-vollwaschmittel-sensitive-gel-ultra-konzentrat-2x62wl"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL)  Persil",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779321355/assets/pas/images/c878c823-a812-414a-b605-a8383e1748b5/persil-vollwaschmittel-sensitive-gel-ultra-konzentrat-2x62wl"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Ultra Konzentrat (2x62WL)  Persil",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779494948/assets/pas/images/ecd7c453-2a14-4a3d-8062-bfc7b1337486/persil-vollwaschmittel-sensitive-gel-ultra-konzentrat-2x62wl"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "25,17 €"
+          }
+        },
+        "tileInfos": [
+          "124 Wl (0,20 € je 1 Wl)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "124 Wl (0,24 € je 1 Wl)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 49,
+        "ratingValue": 4.7755
+      },
+      "self": "/p/d/2978622/persil-vollwaschmittel-sensitive-gel-ultra-konzentrat-2x62wl",
+      "title": {
+        "tileHeadline": "Vollwaschmittel Sensitive Gel Ultra Konzentrat..., 124 Wl",
+        "tileHeadlineLong": "Vollwaschmittel Sensitive Gel Ultra Konzentrat..., 124 Wl"
+      },
+      "trackingData": {
+        "brand": "Persil",
+        "categories": [
+          "Waschmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7755,
+        "ratingCount": 49
+      }
+    }
+  },
+  {
+    "gtin": 4015200037295,
+    "dan": 3119253,
+    "brandName": "Spee",
+    "title": "Vollwaschmittel Sensitive Gel, 20 Wl",
+    "tileData": {
+      "a11yLabel": "Marke: Spee; Produktname: Vollwaschmittel Sensitive Gel, 20 Wl; Preis: 3,95 €; Grundpreis: 20 Wl (0,20 € je 1 Wl); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Spee"
+      },
+      "dan": 3119253,
+      "gtin": 4015200037295,
+      "images": [
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Spee",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776290491/assets/pas/images/5095408e-4c06-41a2-a176-4837fcab079f/spee-vollwaschmittel-sensitive-gel"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Spee",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776377144/assets/pas/images/31452329-90fd-4637-b5e9-a371cbdfbac6/spee-vollwaschmittel-sensitive-gel"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Spee",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776119641/assets/pas/images/ad1e4329-af38-495f-8cd1-475b93e07f45/spee-vollwaschmittel-sensitive-gel"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Spee",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776119596/assets/pas/images/521c44b8-6677-49ff-8c02-63c12aeebaa5/spee-vollwaschmittel-sensitive-gel"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Spee",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776119624/assets/pas/images/559b4c94-5ee6-4df8-9956-69eb754195f4/spee-vollwaschmittel-sensitive-gel"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Spee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776119605/assets/pas/images/491c06fa-e27f-4fa9-9c58-0544d3b03791/spee-vollwaschmittel-sensitive-gel"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Spee",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776119632/assets/pas/images/5bcb5f6e-241f-4c8c-968b-5aed063c76ec/spee-vollwaschmittel-sensitive-gel"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Spee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776119614/assets/pas/images/fa48eaef-2acf-453d-bd13-c5caa99be98b/spee-vollwaschmittel-sensitive-gel"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "20 Wl (0,17 € je 1 Wl)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "20 Wl (0,20 € je 1 Wl)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 262,
+        "ratingValue": 4.7405
+      },
+      "self": "/p/d/3119253/spee-vollwaschmittel-sensitive-gel",
+      "title": {
+        "tileHeadline": "Vollwaschmittel Sensitive Gel, 20 Wl",
+        "tileHeadlineLong": "Vollwaschmittel Sensitive Gel, 20 Wl"
+      },
+      "trackingData": {
+        "brand": "Spee",
+        "categories": [
+          "Waschmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7405,
+        "ratingCount": 262
+      }
+    }
+  },
+  {
+    "gtin": 5029053579290,
+    "dan": 1626049,
+    "brandName": "Kleenex",
+    "title": "Taschentücher Box Ultra Soft, 64 St",
+    "tileData": {
+      "a11yLabel": "Marke: Kleenex; Produktname: Taschentücher Box Ultra Soft, 64 St; Preis: 1,85 €; Grundpreis: 64 St (2,89 € je 100 St)",
+      "brand": {
+        "name": "Kleenex"
+      },
+      "dan": 1626049,
+      "gtin": 5029053579290,
+      "images": [
+        {
+          "alt": "Taschentücher Box Ultra Soft Kleenex",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497701/assets/pas/images/b7a4d8cc-6224-4eed-bc08-cbb6a1caf436/kleenex-taschentuecher-box-ultra-soft"
+        },
+        {
+          "alt": "Taschentücher Box Ultra Soft Kleenex",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497707/assets/pas/images/49dab9a5-e81f-454e-9b94-7fd6eb4a3dec/kleenex-taschentuecher-box-ultra-soft"
+        },
+        {
+          "alt": "Taschentücher Box Ultra Soft Kleenex",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497732/assets/pas/images/03569e22-c63f-4cf2-827a-08a3c2e5e2bc/kleenex-taschentuecher-box-ultra-soft"
+        },
+        {
+          "alt": "Taschentücher Box Ultra Soft Kleenex",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497692/assets/pas/images/836206c1-0f51-453f-baa3-9d19706b2412/kleenex-taschentuecher-box-ultra-soft"
+        },
+        {
+          "alt": "Taschentücher Box Ultra Soft Kleenex",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497714/assets/pas/images/51b1a754-0c72-43d1-ae86-a10a8910c348/kleenex-taschentuecher-box-ultra-soft"
+        },
+        {
+          "alt": "Taschentücher Box Ultra Soft Kleenex",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497678/assets/pas/images/7a7b7062-55e1-437d-9642-15619f565252/kleenex-taschentuecher-box-ultra-soft"
+        },
+        {
+          "alt": "Taschentücher Box Ultra Soft Kleenex",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497724/assets/pas/images/f1f1f960-be92-4ce6-81b3-bfcc9579eb75/kleenex-taschentuecher-box-ultra-soft"
+        },
+        {
+          "alt": "Taschentücher Box Ultra Soft Kleenex",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497686/assets/pas/images/d80f5e18-beae-4d57-8de7-90f19279489e/kleenex-taschentuecher-box-ultra-soft"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "64 St (2,43 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "64 St (2,89 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.7536
+      },
+      "self": "/p/d/1626049/kleenex-taschentuecher-box-ultra-soft",
+      "title": {
+        "tileHeadline": "Taschentücher Box Ultra Soft, 64 St",
+        "tileHeadlineLong": "Taschentücher Box Ultra Soft, 64 St"
+      },
+      "trackingData": {
+        "brand": "Kleenex",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7536,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4016249191023,
+    "dan": 3119327,
+    "brandName": "ALLOS",
+    "title": "Pflanzendrink, Mandel geröstet, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Pflanzendrink, Mandel geröstet, 1 l; Preis: 2,15 €; Grundpreis: 1 l (2,15 € je 1 l)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 3119327,
+      "gtin": 4016249191023,
+      "images": [
+        {
+          "alt": "Pflanzendrink, Mandel geröstet ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766142868/assets/pas/images/d85a138f-a9ee-44b5-8009-c51636943aba/allos-pflanzendrink-mandel-geroestet"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel geröstet ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770939780/assets/pas/images/d19ab603-8297-44d5-820e-a7fadef569f1/allos-pflanzendrink-mandel-geroestet"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel geröstet ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770939759/assets/pas/images/0cfc935f-05bf-40df-87c4-90e52a442697/allos-pflanzendrink-mandel-geroestet"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel geröstet ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770939737/assets/pas/images/4a5b3fd1-cd14-4aee-b2f2-6611b3fadf37/allos-pflanzendrink-mandel-geroestet"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel geröstet ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770939691/assets/pas/images/32af6e88-e676-44a4-ab99-e33a3af5d280/allos-pflanzendrink-mandel-geroestet"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel geröstet ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770939664/assets/pas/images/2f11299b-531b-4c9d-af0b-68f1839db693/allos-pflanzendrink-mandel-geroestet"
+        },
+        {
+          "alt": "Pflanzendrink, Mandel geröstet ALLOS",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770939712/assets/pas/images/06c54d7c-e886-4798-827e-698e866f72d4/allos-pflanzendrink-mandel-geroestet"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,81 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,81 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,15 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 139,
+        "ratingValue": 4.482
+      },
+      "self": "/p/d/3119327/allos-pflanzendrink-mandel-geroestet",
+      "title": {
+        "tileHeadline": "Pflanzendrink, Mandel geröstet, 1 l",
+        "tileHeadlineLong": "Pflanzendrink, Mandel geröstet, 1 l"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.482,
+        "ratingCount": 139
+      }
+    }
+  },
+  {
+    "gtin": 4015200035345,
+    "dan": 1616652,
+    "brandName": "Persil",
+    "title": "Vollwaschmittel Sensitive Gel, 25 l",
+    "tileData": {
+      "a11yLabel": "Marke: Persil; Produktname: Vollwaschmittel Sensitive Gel, 25 l; Preis: 7,45 €; Grundpreis: 25 Wl (0,30 € je 1 Wl); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Persil"
+      },
+      "dan": 1616652,
+      "gtin": 4015200035345,
+      "images": [
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Persil",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776207907/assets/pas/images/d735a808-5a7a-4364-96c7-550670cb5b62/persil-vollwaschmittel-sensitive-gel"
+        },
+        {
+          "alt": "Vollwaschmittel Sensitive Gel Persil",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776207914/assets/pas/images/c03e73d5-c0a5-4e47-920b-b758da389740/persil-vollwaschmittel-sensitive-gel"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,26 €"
+          }
+        },
+        "tileInfos": [
+          "25 Wl (0,25 € je 1 Wl)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,45 €"
+          }
+        },
+        "tileInfos": [
+          "25 Wl (0,30 € je 1 Wl)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 496,
+        "ratingValue": 4.5262
+      },
+      "self": "/p/d/1616652/persil-vollwaschmittel-sensitive-gel",
+      "title": {
+        "tileHeadline": "Vollwaschmittel Sensitive Gel, 25 l",
+        "tileHeadlineLong": "Vollwaschmittel Sensitive Gel, 25 l"
+      },
+      "trackingData": {
+        "brand": "Persil",
+        "categories": [
+          "Waschmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5262,
+        "ratingCount": 496
+      }
+    }
+  },
+  {
+    "gtin": 4001499966705,
+    "dan": 3098860,
+    "brandName": "Frosch",
+    "title": "Fein&Woll-Waschmittel flüssig, 30 Wl",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch; Produktname: Fein&Woll-Waschmittel flüssig, 30 Wl; Preis: 5,45 €; Grundpreis: 30 Wl (0,18 € je 1 Wl); Nur Online Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Frosch"
+      },
+      "dan": 3098860,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4001499966705,
+      "images": [
+        {
+          "alt": "Fein&Woll-Waschmittel flüssig  Frosch",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088126/assets/pas/images/bce15274-09b0-4226-b499-940ba964e53d/frosch-fein-und-woll-waschmittel-fluessig"
+        },
+        {
+          "alt": "Fein&Woll-Waschmittel flüssig  Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758750389/assets/pas/images/1deec035-bafe-453b-ade3-a2557f81bc44/frosch-fein-und-woll-waschmittel-fluessig"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,58 €"
+          }
+        },
+        "tileInfos": [
+          "30 Wl (0,15 € je 1 Wl)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "30 Wl (0,18 € je 1 Wl)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 11,
+        "ratingValue": 4.1818
+      },
+      "self": "/p/d/3098860/frosch-fein-und-woll-waschmittel-fluessig",
+      "title": {
+        "tileHeadline": "Fein&Woll-Waschmittel flüssig, 30 Wl",
+        "tileHeadlineLong": "Fein&Woll-Waschmittel flüssig, 30 Wl"
+      },
+      "trackingData": {
+        "brand": "Frosch",
+        "categories": [
+          "Waschmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1818,
+        "ratingCount": 11
+      }
+    }
+  },
+  {
+    "gtin": 4066447870510,
+    "dan": 1548667,
+    "brandName": "Profissimo",
+    "title": "Packpapier aus 100% Recycling-Material, Kurzrolle (3mx36 cm), 3 m",
+    "tileData": {
+      "a11yLabel": "Marke: Profissimo; Produktname: Packpapier aus 100% Recycling-Material, Kurzrolle (3mx36 cm), 3 m; Preis: 1,95 €; Grundpreis: 3 m (0,65 € je 1 m); Nur Online Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Profissimo"
+      },
+      "dan": 1548667,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447870510,
+      "images": [
+        {
+          "alt": "Packpapier aus 100% Recycling-Material, Kurzrolle (3mx36 cm) Profissimo",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764838012/assets/pas/images/699cdeec-fe09-493d-8386-ccebcc4743ae/profissimo-packpapier-aus-100-prozent-recycling-material-kurzrolle-3mx36-cm"
+        },
+        {
+          "alt": "Packpapier aus 100% Recycling-Material, Kurzrolle (3mx36 cm) Profissimo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764837960/assets/pas/images/e99917f2-a9a7-433a-b260-093175c10719/profissimo-packpapier-aus-100-prozent-recycling-material-kurzrolle-3mx36-cm"
+        },
+        {
+          "alt": "Packpapier aus 100% Recycling-Material, Kurzrolle (3mx36 cm) Profissimo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764837983/assets/pas/images/73c5a4eb-a359-434a-a127-60288fea5263/profissimo-packpapier-aus-100-prozent-recycling-material-kurzrolle-3mx36-cm"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "3 m (0,55 € je 1 m)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "3 m (0,65 € je 1 m)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 4.3667
+      },
+      "self": "/p/d/1548667/profissimo-packpapier-aus-100-prozent-recycling-material-kurzrolle-3mx36-cm",
+      "title": {
+        "tileHeadline": "Packpapier aus 100% Recycling-Material, Kurzrolle..., 3 m",
+        "tileHeadlineLong": "Packpapier aus 100% Recycling-Material, Kurzrolle..., 3 m"
+      },
+      "trackingData": {
+        "brand": "Profissimo",
+        "categories": [
+          "Geschenkverpackungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3667,
+        "ratingCount": 30
+      }
+    }
+  },
+  {
+    "gtin": 8714789939681,
+    "dan": 1607372,
+    "brandName": "Palmolive",
+    "title": "Flüssigseife Milch & Mandel, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Palmolive; Produktname: Flüssigseife Milch & Mandel, 300 ml; Preis: 1,45 €; Grundpreis: 0,3 l (4,83 € je 1 l)",
+      "brand": {
+        "name": "Palmolive"
+      },
+      "dan": 1607372,
+      "gtin": 8714789939681,
+      "images": [
+        {
+          "alt": "Flüssigseife Milch & Mandel  Palmolive",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532815/assets/pas/images/444f109e-b66a-4488-becc-6521b66cab98/palmolive-fluessigseife-milch-und-mandel"
+        },
+        {
+          "alt": "Flüssigseife Milch & Mandel  Palmolive",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532357/assets/pas/images/3f5ba133-cf10-4901-8696-2d22ce9117a2/palmolive-fluessigseife-milch-und-mandel"
+        },
+        {
+          "alt": "Flüssigseife Milch & Mandel  Palmolive",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532885/assets/pas/images/2655aefe-5eab-45ca-b357-0fe1f0ca6b1c/palmolive-fluessigseife-milch-und-mandel"
+        },
+        {
+          "alt": "Flüssigseife Milch & Mandel  Palmolive",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532815/assets/pas/images/e82a2bb4-ede1-41ae-a5b8-178455551ea8/palmolive-fluessigseife-milch-und-mandel"
+        },
+        {
+          "alt": "Flüssigseife Milch & Mandel  Palmolive",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532877/assets/pas/images/77eb9815-fb37-4eea-a38b-e1f4b555b789/palmolive-fluessigseife-milch-und-mandel"
+        },
+        {
+          "alt": "Flüssigseife Milch & Mandel  Palmolive",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532419/assets/pas/images/a302a698-0712-43d9-b13c-a8a76dbcfc96/palmolive-fluessigseife-milch-und-mandel"
+        },
+        {
+          "alt": "Flüssigseife Milch & Mandel  Palmolive",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532817/assets/pas/images/08b0ff79-7d48-439c-93bd-735d02069b2d/palmolive-fluessigseife-milch-und-mandel"
+        },
+        {
+          "alt": "Flüssigseife Milch & Mandel  Palmolive",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532877/assets/pas/images/66e72e3c-db7c-4345-b877-0e46e11fe4f4/palmolive-fluessigseife-milch-und-mandel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.6627
+      },
+      "self": "/p/d/1607372/palmolive-fluessigseife-milch-und-mandel",
+      "title": {
+        "tileHeadline": "Flüssigseife Milch & Mandel, 300 ml",
+        "tileHeadlineLong": "Flüssigseife Milch & Mandel, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Palmolive",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6627,
+        "ratingCount": 83
+      }
+    }
+  },
+  {
+    "gtin": 4006000219493,
+    "dan": 1583205,
+    "brandName": "NIVEA",
+    "title": "Kinder Duschgel, Shampoo & Conditioner 3in1 Beerenduft, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Kinder Duschgel, Shampoo & Conditioner 3in1 Beerenduft, 250 ml; Preis: 1,95 €; Grundpreis: 0,25 l (7,80 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1583205,
+      "gtin": 4006000219493,
+      "images": [
+        {
+          "alt": "Kinder Duschgel, Shampoo & Conditioner 3in1 Beerenduft NIVEA",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773323601/assets/pas/images/8e83db83-8833-4c50-a252-026ab8676f90/nivea-kinder-duschgel-shampoo-und-conditioner-3in1-beerenduft"
+        },
+        {
+          "alt": "Kinder Duschgel, Shampoo & Conditioner 3in1 Beerenduft NIVEA",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773323607/assets/pas/images/389fea92-b2f0-4e11-afe8-423c96b9a00b/nivea-kinder-duschgel-shampoo-und-conditioner-3in1-beerenduft"
+        },
+        {
+          "alt": "Kinder Duschgel, Shampoo & Conditioner 3in1 Beerenduft NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780701544/assets/pas/images/cd0e5ab0-6f08-4f37-bd6f-bad9e3eea6bc/nivea-kinder-duschgel-shampoo-und-conditioner-3in1-beerenduft"
+        },
+        {
+          "alt": "Kinder Duschgel, Shampoo & Conditioner 3in1 Beerenduft NIVEA",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780701561/assets/pas/images/e82d0965-516c-4d5f-adae-6b8d43d94cce/nivea-kinder-duschgel-shampoo-und-conditioner-3in1-beerenduft"
+        },
+        {
+          "alt": "Kinder Duschgel, Shampoo & Conditioner 3in1 Beerenduft NIVEA",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780701553/assets/pas/images/25c443e2-efcf-4b01-9dcb-f2cb38c27076/nivea-kinder-duschgel-shampoo-und-conditioner-3in1-beerenduft"
+        },
+        {
+          "alt": "Kinder Duschgel, Shampoo & Conditioner 3in1 Beerenduft NIVEA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780701570/assets/pas/images/4b91c4f8-3b94-4d92-af85-e0e8e1ce7c4d/nivea-kinder-duschgel-shampoo-und-conditioner-3in1-beerenduft"
+        },
+        {
+          "alt": "Kinder Duschgel, Shampoo & Conditioner 3in1 Beerenduft NIVEA",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780701582/assets/pas/images/c9f5acae-b2cc-488c-927d-86d73b499a12/nivea-kinder-duschgel-shampoo-und-conditioner-3in1-beerenduft"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (6,55 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 559,
+        "ratingValue": 4.8354
+      },
+      "self": "/p/d/1583205/nivea-kinder-duschgel-shampoo-und-conditioner-3in1-beerenduft",
+      "title": {
+        "tileHeadline": "Kinder Duschgel, Shampoo & Conditioner 3in1..., 250 ml",
+        "tileHeadlineLong": "Kinder Duschgel, Shampoo & Conditioner 3in1..., 250 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Kindershampoo",
+          "Kinderduschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8354,
+        "ratingCount": 559
+      }
+    }
+  },
+  {
+    "gtin": 4015200035741,
+    "dan": 1618267,
+    "brandName": "Pril",
+    "title": "Spülmittel Sensitive Aloe Vera, 600 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Pril; Produktname: Spülmittel Sensitive Aloe Vera, 600 ml; Preis: 1,95 €; Grundpreis: 0,6 l (3,25 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Pril"
+      },
+      "dan": 1618267,
+      "gtin": 4015200035741,
+      "images": [
+        {
+          "alt": "Spülmittel Sensitive Aloe Vera Pril",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773963039/assets/pas/images/325b2ef4-54e8-4eae-b007-95ac95a9fafd/pril-spuelmittel-sensitive-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel Sensitive Aloe Vera Pril",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773963046/assets/pas/images/7f655f10-42fa-4a64-a54d-c15a9bcc178f/pril-spuelmittel-sensitive-aloe-vera"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 l (2,73 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 l (3,25 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 4.5567
+      },
+      "self": "/p/d/1618267/pril-spuelmittel-sensitive-aloe-vera",
+      "title": {
+        "tileHeadline": "Spülmittel Sensitive Aloe Vera, 600 ml",
+        "tileHeadlineLong": "Spülmittel Sensitive Aloe Vera, 600 ml"
+      },
+      "trackingData": {
+        "brand": "Pril",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5567,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 4001638098809,
+    "dan": 1013522,
+    "brandName": "WELEDA",
+    "title": "Rasiercreme, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: Rasiercreme, 75 ml; Preis: 5,95 €; Grundpreis: 0,075 l (79,33 € je 1 l)",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 1013522,
+      "gtin": 4001638098809,
+      "images": [
+        {
+          "alt": "Rasiercreme WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766017978/assets/pas/images/6de6dc83-c487-4934-8688-0de3a86b58b5/weleda-rasiercreme"
+        },
+        {
+          "alt": "Rasiercreme WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760130459/assets/pas/images/3a8b7719-f679-46e0-8c8d-d5c8a6ad4a5c/weleda-rasiercreme"
+        },
+        {
+          "alt": "Rasiercreme WELEDA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760130443/assets/pas/images/cc8df323-d405-4124-973c-7c86a8ee9ac6/weleda-rasiercreme"
+        },
+        {
+          "alt": "Rasiercreme WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760130450/assets/pas/images/35e3ca69-8f9b-45ce-8690-e70df2e17995/weleda-rasiercreme"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (66,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (79,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 130,
+        "ratingValue": 4.7308
+      },
+      "self": "/p/d/1013522/weleda-rasiercreme",
+      "title": {
+        "tileHeadline": "Rasiercreme, 75 ml",
+        "tileHeadlineLong": "Rasiercreme, 75 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7308,
+        "ratingCount": 130
+      }
+    }
+  },
+  {
+    "gtin": 4262401739835,
+    "dan": 3063483,
+    "brandName": "Jean&Len",
+    "title": "Duschcreme Mandelblüte Reismilch, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Duschcreme Mandelblüte Reismilch, 250 ml; Preis: 2,75 €; Grundpreis: 0,25 l (11,00 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 3063483,
+      "gtin": 4262401739835,
+      "images": [
+        {
+          "alt": "Duschcreme Mandelblüte Reismilch Jean&Len",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245172/assets/pas/images/64b43b05-ccd9-4fb3-b4c7-ad7aed9aaced/jean-und-len-duschcreme-mandelbluete-reismilch"
+        },
+        {
+          "alt": "Duschcreme Mandelblüte Reismilch Jean&Len",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336505/assets/pas/images/3cfb99e7-9fcc-47ab-8007-2a263ec552ba/jean-und-len-duschcreme-mandelbluete-reismilch"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.8361
+      },
+      "self": "/p/d/3063483/jean-und-len-duschcreme-mandelbluete-reismilch",
+      "title": {
+        "tileHeadline": "Duschcreme Mandelblüte Reismilch, 250 ml",
+        "tileHeadlineLong": "Duschcreme Mandelblüte Reismilch, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8361,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4001638590068,
+    "dan": 2480942,
+    "brandName": "WELEDA",
+    "title": "Reinigungsmilch sensitive Mandel, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: Reinigungsmilch sensitive Mandel, 75 ml; Preis: 9,95 €; Grundpreis: 0,05 l (199,00 € je 1 l); Nur Online Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 2480942,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4001638590068,
+      "images": [
+        {
+          "alt": "Reinigungsmilch sensitive Mandel WELEDA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760396844/assets/pas/images/cf17730a-390b-4fbf-b6f8-5784d4bbde3f/weleda-reinigungsmilch-sensitive-mandel"
+        },
+        {
+          "alt": "Reinigungsmilch sensitive Mandel WELEDA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759958565/assets/pas/images/96649048-fc19-4ce2-a83b-cf4d759044fa/weleda-reinigungsmilch-sensitive-mandel"
+        },
+        {
+          "alt": "Reinigungsmilch sensitive Mandel WELEDA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760050230/assets/pas/images/3846b4d9-fc11-49f0-add8-ca37ee918782/weleda-reinigungsmilch-sensitive-mandel"
+        },
+        {
+          "alt": "Reinigungsmilch sensitive Mandel WELEDA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760396854/assets/pas/images/a721b5ae-4260-40fe-838e-ffa57872d904/weleda-reinigungsmilch-sensitive-mandel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (167,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (199,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 4.0
+      },
+      "self": "/p/d/2480942/weleda-reinigungsmilch-sensitive-mandel",
+      "title": {
+        "tileHeadline": "Reinigungsmilch sensitive Mandel, 75 ml",
+        "tileHeadlineLong": "Reinigungsmilch sensitive Mandel, 75 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Reinigungsmilch"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 8710447217054,
+    "dan": 1545376,
+    "brandName": "Dove",
+    "title": "Körperpeeling Macadamia & Reismilch, 225 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Dove; Produktname: Körperpeeling Macadamia & Reismilch, 225 ml; Preis: 5,75 €; Grundpreis: 0,225 l (25,56 € je 1 l)",
+      "brand": {
+        "name": "Dove"
+      },
+      "dan": 1545376,
+      "gtin": 8710447217054,
+      "images": [
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124918/assets/pas/images/1c48bd03-d0ca-4e3f-a3b7-077c06c4656a/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124921/assets/pas/images/0a44fba7-5497-4766-b079-f597aadb739f/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124904/assets/pas/images/7d884634-622b-4e29-89c3-a17be7544618/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777593547/assets/pas/images/a2fb7763-fcef-483a-9d90-ca25b5b1a804/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753308615/assets/pas/images/26368e79-597f-46ad-a6a2-11f7f2b1f343/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777593554/assets/pas/images/03bb0886-f969-4bae-a692-e29deb53be92/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777593541/assets/pas/images/6e850393-8041-4958-b263-af4a233f59db/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124910/assets/pas/images/807ad4c1-822d-4e34-aa21-5d5e8575c042/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124910/assets/pas/images/c8b8245b-f3b8-4208-91fa-cde0aaacf60a/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124906/assets/pas/images/b6cd35ce-dcc2-4098-b5db-c43bc1c3b370/dove-koerperpeeling-macadamia-und-reismilch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,83 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 l (21,48 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 l (25,56 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 461,
+        "ratingValue": 4.7267
+      },
+      "self": "/p/d/1545376/dove-koerperpeeling-macadamia-und-reismilch",
+      "title": {
+        "tileHeadline": "Körperpeeling Macadamia & Reismilch, 225 ml",
+        "tileHeadlineLong": "Körperpeeling Macadamia & Reismilch, 225 ml"
+      },
+      "trackingData": {
+        "brand": "Dove",
+        "categories": [
+          "Körperpeeling & Body Scrub"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7267,
+        "ratingCount": 461
+      }
+    }
+  },
+  {
+    "gtin": 4008233174570,
+    "dan": 1432151,
+    "brandName": "Kneipp",
+    "title": "Körperlotion Sensitiv Mandelblüten, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Kneipp; Produktname: Körperlotion Sensitiv Mandelblüten, 200 ml; Preis: 4,95 €; Grundpreis: 0,2 l (24,75 € je 1 l)",
+      "brand": {
+        "name": "Kneipp"
+      },
+      "dan": 1432151,
+      "gtin": 4008233174570,
+      "images": [
+        {
+          "alt": "Körperlotion Sensitiv Mandelblüten Kneipp",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760396740/assets/pas/images/2c51bf3c-fdaf-48c0-9dfc-8a068c121aee/kneipp-koerperlotion-sensitiv-mandelblueten"
+        },
+        {
+          "alt": "Körperlotion Sensitiv Mandelblüten Kneipp",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776464166/assets/pas/images/c38ab1dc-130b-4019-a32f-d3e2d07d8698/kneipp-koerperlotion-sensitiv-mandelblueten"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (20,80 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (24,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/1432151/kneipp-koerperlotion-sensitiv-mandelblueten",
+      "title": {
+        "tileHeadline": "Körperlotion Sensitiv Mandelblüten, 200 ml",
+        "tileHeadlineLong": "Körperlotion Sensitiv Mandelblüten, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Kneipp",
+        "categories": [
+          "Bodylotion & Hautcreme"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 58
+      }
+    }
+  }
+]

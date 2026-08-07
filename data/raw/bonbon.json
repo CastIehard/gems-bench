@@ -1,0 +1,2312 @@
+[
+  {
+    "gtin": 4009077026094,
+    "dan": 1672606,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Vitamin Shot, gefüllt, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Vitamin Shot, gefüllt, zuckerfrei, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1672606,
+      "gtin": 4009077026094,
+      "images": [
+        {
+          "alt": "Bonbon, Vitamin Shot, gefüllt, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775601704/assets/pas/images/0e197fb4-8f8d-4166-acd2-8152fa934d68/em-eukal-bonbon-vitamin-shot-gefuellt-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 95,
+        "ratingValue": 4.7684
+      },
+      "self": "/p/d/1672606/em-eukal-bonbon-vitamin-shot-gefuellt-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Vitamin Shot, gefüllt, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Vitamin Shot, gefüllt, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7684,
+        "ratingCount": 95
+      }
+    }
+  },
+  {
+    "gtin": 4009077026087,
+    "dan": 1611036,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Manuka Honig, gefüllt, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Manuka Honig, gefüllt, 75 g; Preis: 2,95 €; Grundpreis: 0,075 kg (39,33 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1611036,
+      "gtin": 4009077026087,
+      "images": [
+        {
+          "alt": "Bonbon, Manuka Honig, gefüllt Em-eukal",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782079259/assets/pas/images/234c9162-bb99-487a-b66e-1a67e16aa39a/em-eukal-bonbon-manuka-honig-gefuellt"
+        },
+        {
+          "alt": "Bonbon, Manuka Honig, gefüllt Em-eukal",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782251721/assets/pas/images/e4e42142-61ba-4fec-923e-8efef033212f/em-eukal-bonbon-manuka-honig-gefuellt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (36,76 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (39,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 120,
+        "ratingValue": 4.825
+      },
+      "self": "/p/d/1611036/em-eukal-bonbon-manuka-honig-gefuellt",
+      "title": {
+        "tileHeadline": "Bonbon, Manuka Honig, gefüllt, 75 g",
+        "tileHeadlineLong": "Bonbon, Manuka Honig, gefüllt, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.825,
+        "ratingCount": 120
+      }
+    }
+  },
+  {
+    "gtin": 4009077024106,
+    "dan": 1209107,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Klassisch, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Klassisch, zuckerfrei, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1209107,
+      "gtin": 4009077024106,
+      "images": [
+        {
+          "alt": "Bonbon, Klassisch, zuckerfrei Em-eukal",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780093479/assets/pas/images/f6b64181-cfb4-456b-baae-007350ea86f6/em-eukal-bonbon-klassisch-zuckerfrei"
+        },
+        {
+          "alt": "Bonbon, Klassisch, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780093470/assets/pas/images/9550a4fb-dca1-48ce-82cb-538fb2b5075f/em-eukal-bonbon-klassisch-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 62,
+        "ratingValue": 4.8226
+      },
+      "self": "/p/d/1209107/em-eukal-bonbon-klassisch-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Klassisch, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Klassisch, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8226,
+        "ratingCount": 62
+      }
+    }
+  },
+  {
+    "gtin": 4009077024458,
+    "dan": 1212376,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Honig, gefüllt, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Honig, gefüllt, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1212376,
+      "gtin": 4009077024458,
+      "images": [
+        {
+          "alt": "Bonbon, Honig, gefüllt Em-eukal",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782856885/assets/pas/images/a7f31ad6-2735-4521-8f52-7201005bc7fd/em-eukal-bonbon-honig-gefuellt"
+        },
+        {
+          "alt": "Bonbon, Honig, gefüllt Em-eukal",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782856895/assets/pas/images/9d807c5d-97c5-40d2-ad32-d09c8e9edc86/em-eukal-bonbon-honig-gefuellt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.7368
+      },
+      "self": "/p/d/1212376/em-eukal-bonbon-honig-gefuellt",
+      "title": {
+        "tileHeadline": "Bonbon, Honig, gefüllt, 75 g",
+        "tileHeadlineLong": "Bonbon, Honig, gefüllt, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7368,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4009077024007,
+    "dan": 1212242,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Klassisch, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Klassisch, 150 g; Preis: 2,55 €; Grundpreis: 0,15 kg (17,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1212242,
+      "gtin": 4009077024007,
+      "images": [
+        {
+          "alt": "Bonbon, Klassisch  Em-eukal",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436156/assets/pas/images/e4fff024-29fc-44e9-a11e-55dedba033d8/em-eukal-bonbon-klassisch"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (15,89 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (17,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.9143
+      },
+      "self": "/p/d/1212242/em-eukal-bonbon-klassisch",
+      "title": {
+        "tileHeadline": "Bonbon, Klassisch, 150 g",
+        "tileHeadlineLong": "Bonbon, Klassisch, 150 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9143,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4009077020559,
+    "dan": 1212391,
+    "brandName": "Kinder Em-eukal",
+    "title": "Bonbon, Wildkirsche für Kinder, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Kinder Em-eukal; Produktname: Bonbon, Wildkirsche für Kinder, zuckerfrei, 75 g; Preis: 1,45 €; Grundpreis: 0,075 kg (19,33 € je 1 kg)",
+      "brand": {
+        "name": "Kinder Em-eukal"
+      },
+      "dan": 1212391,
+      "gtin": 4009077020559,
+      "images": [
+        {
+          "alt": "Bonbon, Wildkirsche für Kinder, zuckerfrei Kinder Em-eukal",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755104921/assets/pas/images/4a216e35-8676-46d3-9471-2c9ecaffac92/kinder-em-eukal-bonbon-wildkirsche-fuer-kinder-zuckerfrei"
+        },
+        {
+          "alt": "Bonbon, Wildkirsche für Kinder, zuckerfrei Kinder Em-eukal",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436149/assets/pas/images/3eaeb9db-f1d3-4918-90cb-20cf4ebbb829/kinder-em-eukal-bonbon-wildkirsche-fuer-kinder-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (18,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (19,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.8933
+      },
+      "self": "/p/d/1212391/kinder-em-eukal-bonbon-wildkirsche-fuer-kinder-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Wildkirsche für Kinder, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Wildkirsche für Kinder, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Kinder Em-eukal",
+        "categories": [
+          "Baby- & Kindergesundheit",
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8933,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 4054411260627,
+    "dan": 1522430,
+    "brandName": "Wiedenbauer",
+    "title": "Bonbon, Mango-Orange, gefüllt, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Wiedenbauer; Produktname: Bonbon, Mango-Orange, gefüllt, 75 g; Preis: 1,55 €; Grundpreis: 0,075 kg (20,67 € je 1 kg)",
+      "brand": {
+        "name": "Wiedenbauer"
+      },
+      "dan": 1522430,
+      "gtin": 4054411260627,
+      "images": [
+        {
+          "alt": "Bonbon, Mango-Orange, gefüllt Wiedenbauer",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447669/assets/pas/images/49b440f4-8d1b-4005-b03d-09562fdfc1e7/wiedenbauer-bonbon-mango-orange-gefuellt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (19,32 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (20,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.8947
+      },
+      "self": "/p/d/1522430/wiedenbauer-bonbon-mango-orange-gefuellt",
+      "title": {
+        "tileHeadline": "Bonbon, Mango-Orange, gefüllt, 75 g",
+        "tileHeadlineLong": "Bonbon, Mango-Orange, gefüllt, 75 g"
+      },
+      "trackingData": {
+        "brand": "Wiedenbauer",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8947,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4009077026117,
+    "dan": 2974319,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Vitamin Shot sauer, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Vitamin Shot sauer, zuckerfrei, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 2974319,
+      "gtin": 4009077026117,
+      "images": [
+        {
+          "alt": "Bonbon, Vitamin Shot sauer, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436157/assets/pas/images/b2937571-4b2d-4dbe-990b-c847f035631e/em-eukal-bonbon-vitamin-shot-sauer-zuckerfrei"
+        },
+        {
+          "alt": "Bonbon, Vitamin Shot sauer, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771111327/assets/pas/images/be86e79a-8a2e-4a82-9878-b26157ad4c59/em-eukal-bonbon-vitamin-shot-sauer-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 123,
+        "ratingValue": 4.748
+      },
+      "self": "/p/d/2974319/em-eukal-bonbon-vitamin-shot-sauer-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Vitamin Shot sauer, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Vitamin Shot sauer, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.748,
+        "ratingCount": 123
+      }
+    }
+  },
+  {
+    "gtin": 4009077024304,
+    "dan": 1397513,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Johannisbeere, gefüllt, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Johannisbeere, gefüllt, zuckerfrei, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1397513,
+      "gtin": 4009077024304,
+      "images": [
+        {
+          "alt": "Bonbon, Johannisbeere, gefüllt, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435924/assets/pas/images/5a758814-05ec-45ef-a3aa-356f7d3c2e3d/em-eukal-bonbon-johannisbeere-gefuellt-zuckerfrei"
+        },
+        {
+          "alt": "Bonbon, Johannisbeere, gefüllt, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436157/assets/pas/images/0c823353-e0a0-489c-a9c9-4a0a1591fee0/em-eukal-bonbon-johannisbeere-gefuellt-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.918
+      },
+      "self": "/p/d/1397513/em-eukal-bonbon-johannisbeere-gefuellt-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Johannisbeere, gefüllt, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Johannisbeere, gefüllt, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.918,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4009077026070,
+    "dan": 1515175,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Ingwer Shot, gefüllt, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Ingwer Shot, gefüllt, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1515175,
+      "gtin": 4009077026070,
+      "images": [
+        {
+          "alt": "Bonbon, Ingwer Shot, gefüllt Em-eukal",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776204856/assets/pas/images/4514d5ef-c34d-43ef-bdc5-6abd5b08f4f7/em-eukal-bonbon-ingwer-shot-gefuellt"
+        },
+        {
+          "alt": "Bonbon, Ingwer Shot, gefüllt Em-eukal",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776204865/assets/pas/images/fc28a4bc-34f7-47b7-90df-c902333ce0e1/em-eukal-bonbon-ingwer-shot-gefuellt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.9275
+      },
+      "self": "/p/d/1515175/em-eukal-bonbon-ingwer-shot-gefuellt",
+      "title": {
+        "tileHeadline": "Bonbon, Ingwer Shot, gefüllt, 75 g",
+        "tileHeadlineLong": "Bonbon, Ingwer Shot, gefüllt, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9275,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4009077024151,
+    "dan": 1237644,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Wildkirsche, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Wildkirsche, zuckerfrei, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1237644,
+      "gtin": 4009077024151,
+      "images": [
+        {
+          "alt": "Bonbon, Wildkirsche, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782251925/assets/pas/images/3b79f239-a5f8-4cde-a282-e5174e424bfd/em-eukal-bonbon-wildkirsche-zuckerfrei"
+        },
+        {
+          "alt": "Bonbon, Wildkirsche, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782251916/assets/pas/images/d31eb4ab-b09c-4769-97ec-4e183033252d/em-eukal-bonbon-wildkirsche-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.8806
+      },
+      "self": "/p/d/1237644/em-eukal-bonbon-wildkirsche-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Wildkirsche, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Wildkirsche, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8806,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 7610700600054,
+    "dan": 1001595,
+    "brandName": "Ricola",
+    "title": "Bonbon, Original Kräuterzucker, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Ricola; Produktname: Bonbon, Original Kräuterzucker, 250 g; Preis: 3,95 €; Grundpreis: 0,25 kg (15,80 € je 1 kg)",
+      "brand": {
+        "name": "Ricola"
+      },
+      "dan": 1001595,
+      "gtin": 7610700600054,
+      "images": [
+        {
+          "alt": "Bonbon, Original Kräuterzucker Ricola",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510941/assets/pas/images/28878f43-b233-4a20-a592-346f72162d01/ricola-bonbon-original-kraeuterzucker"
+        },
+        {
+          "alt": "Bonbon, Original Kräuterzucker Ricola",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510931/assets/pas/images/6a67a22e-0067-402b-baa6-2545c8cf9dea/ricola-bonbon-original-kraeuterzucker"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (14,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (15,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 4.9091
+      },
+      "self": "/p/d/1001595/ricola-bonbon-original-kraeuterzucker",
+      "title": {
+        "tileHeadline": "Bonbon, Original Kräuterzucker, 250 g",
+        "tileHeadlineLong": "Bonbon, Original Kräuterzucker, 250 g"
+      },
+      "trackingData": {
+        "brand": "Ricola",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9091,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 4009077026124,
+    "dan": 3080861,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Berry Shot, gefüllt, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Berry Shot, gefüllt, zuckerfrei, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 3080861,
+      "gtin": 4009077026124,
+      "images": [
+        {
+          "alt": "Bonbon, Berry Shot, gefüllt, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747661571/assets/pas/images/0954106a-1d09-4131-9d2a-2d2b622761d4/em-eukal-bonbon-berry-shot-gefuellt-zuckerfrei"
+        },
+        {
+          "alt": "Bonbon, Berry Shot, gefüllt, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747661578/assets/pas/images/d8ac86df-2172-468c-abf1-8419afdd6c21/em-eukal-bonbon-berry-shot-gefuellt-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.7358
+      },
+      "self": "/p/d/3080861/em-eukal-bonbon-berry-shot-gefuellt-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Berry Shot, gefüllt, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Berry Shot, gefüllt, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7358,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4036581583461,
+    "dan": 2972181,
+    "brandName": "Zirkulin",
+    "title": "Propolis Husten-Bonbons 30 St, 45 g",
+    "tileData": {
+      "a11yLabel": "Marke: Zirkulin; Produktname: Propolis Husten-Bonbons 30 St, 45 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 3,95 €; Grundpreis: 0,045 kg (87,78 € je 1 kg)",
+      "brand": {
+        "name": "Zirkulin"
+      },
+      "dan": 2972181,
+      "gtin": 4036581583461,
+      "images": [
+        {
+          "alt": "Propolis Husten-Bonbons 30 St Zirkulin",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444425/assets/pas/images/4cdef37e-e5a4-4c10-9f80-394f3f984141/zirkulin-propolis-husten-bonbons-30-st"
+        },
+        {
+          "alt": "Propolis Husten-Bonbons 30 St Zirkulin",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444425/assets/pas/images/db19af61-80b4-4e40-8f91-dc53972019ea/zirkulin-propolis-husten-bonbons-30-st"
+        },
+        {
+          "alt": "Propolis Husten-Bonbons 30 St Zirkulin",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444325/assets/pas/images/8c4229f2-0308-4e8c-bc5f-e86bd4975f06/zirkulin-propolis-husten-bonbons-30-st"
+        },
+        {
+          "alt": "Propolis Husten-Bonbons 30 St Zirkulin",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444226/assets/pas/images/6992a2ab-4083-4653-9fea-e220673bf964/zirkulin-propolis-husten-bonbons-30-st"
+        },
+        {
+          "alt": "Propolis Husten-Bonbons 30 St Zirkulin",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444224/assets/pas/images/4fb8c688-afa0-4f68-9f75-015d2747b1c8/zirkulin-propolis-husten-bonbons-30-st"
+        },
+        {
+          "alt": "Propolis Husten-Bonbons 30 St Zirkulin",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444110/assets/pas/images/58e6d726-82ea-4273-94d0-147ff79a16f9/zirkulin-propolis-husten-bonbons-30-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,045 kg (82,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,045 kg (87,78 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 55,
+        "ratingValue": 4.4545
+      },
+      "self": "/p/d/2972181/zirkulin-propolis-husten-bonbons-30-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Propolis Husten-Bonbons 30 St, 45 g",
+        "tileHeadlineLong": "Propolis Husten-Bonbons 30 St, 45 g"
+      },
+      "trackingData": {
+        "brand": "Zirkulin",
+        "categories": [
+          "Husten"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4545,
+        "ratingCount": 55
+      }
+    }
+  },
+  {
+    "gtin": 4054411260504,
+    "dan": 1469664,
+    "brandName": "Wiedenbauer",
+    "title": "Bonbon, Ingwer, gefüllt, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Wiedenbauer; Produktname: Bonbon, Ingwer, gefüllt, 75 g; Preis: 1,55 €; Grundpreis: 0,075 kg (20,67 € je 1 kg)",
+      "brand": {
+        "name": "Wiedenbauer"
+      },
+      "dan": 1469664,
+      "gtin": 4054411260504,
+      "images": [
+        {
+          "alt": "Bonbon, Ingwer, gefüllt Wiedenbauer",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447867/assets/pas/images/f39ad171-b648-4b20-9048-2d7b47ca4e36/wiedenbauer-bonbon-ingwer-gefuellt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (19,32 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (20,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.791
+      },
+      "self": "/p/d/1469664/wiedenbauer-bonbon-ingwer-gefuellt",
+      "title": {
+        "tileHeadline": "Bonbon, Ingwer, gefüllt, 75 g",
+        "tileHeadlineLong": "Bonbon, Ingwer, gefüllt, 75 g"
+      },
+      "trackingData": {
+        "brand": "Wiedenbauer",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.791,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4054411260801,
+    "dan": 1559490,
+    "brandName": "Wiedenbauer",
+    "title": "Bonbon, Ingwer-Limette & Ingwer-Orange, gefüllt, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Wiedenbauer; Produktname: Bonbon, Ingwer-Limette & Ingwer-Orange, gefüllt, 75 g; Preis: 1,55 €; Grundpreis: 0,075 kg (20,67 € je 1 kg)",
+      "brand": {
+        "name": "Wiedenbauer"
+      },
+      "dan": 1559490,
+      "gtin": 4054411260801,
+      "images": [
+        {
+          "alt": "Bonbon, Ingwer-Limette & Ingwer-Orange, gefüllt Wiedenbauer",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447865/assets/pas/images/0cd458bd-cfe5-46b5-b924-cf590b1c0f66/wiedenbauer-bonbon-ingwer-limette-und-ingwer-orange-gefuellt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (19,32 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (20,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.8088
+      },
+      "self": "/p/d/1559490/wiedenbauer-bonbon-ingwer-limette-und-ingwer-orange-gefuellt",
+      "title": {
+        "tileHeadline": "Bonbon, Ingwer-Limette & Ingwer-Orange, gefüllt, 75 g",
+        "tileHeadlineLong": "Bonbon, Ingwer-Limette & Ingwer-Orange, gefüllt, 75 g"
+      },
+      "trackingData": {
+        "brand": "Wiedenbauer",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8088,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4009077026018,
+    "dan": 1303519,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Ingwer-Orange, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Ingwer-Orange, zuckerfrei, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1303519,
+      "gtin": 4009077026018,
+      "images": [
+        {
+          "alt": "Bonbon, Ingwer-Orange, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777415958/assets/pas/images/b20ce32c-7364-4604-9765-c75969dcd030/em-eukal-bonbon-ingwer-orange-zuckerfrei"
+        },
+        {
+          "alt": "Bonbon, Ingwer-Orange, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777415967/assets/pas/images/ed02adc2-a3d3-4564-84b1-afae4aacb68c/em-eukal-bonbon-ingwer-orange-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.7385
+      },
+      "self": "/p/d/1303519/em-eukal-bonbon-ingwer-orange-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Ingwer-Orange, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Ingwer-Orange, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7385,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 7610700946053,
+    "dan": 1018117,
+    "brandName": "Ricola",
+    "title": "Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Ricola; Produktname: Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox, 50 g; Preis: 1,95 €; Grundpreis: 0,05 kg (39,00 € je 1 kg)",
+      "brand": {
+        "name": "Ricola"
+      },
+      "dan": 1018117,
+      "gtin": 7610700946053,
+      "images": [
+        {
+          "alt": "Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox Ricola",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760130979/assets/pas/images/33b32224-90e1-4fe2-973a-dccd4ee908fc/ricola-bonbon-zitronenmelisse-zuckerfrei-in-der-taschenbox"
+        },
+        {
+          "alt": "Bonbon, Zitronenmelisse, zuckerfrei, in der Taschenbox Ricola",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752880950/assets/pas/images/5c789edc-6667-40c1-a584-3ceac5883d4c/ricola-bonbon-zitronenmelisse-zuckerfrei-in-der-taschenbox"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (36,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (39,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.95
+      },
+      "self": "/p/d/1018117/ricola-bonbon-zitronenmelisse-zuckerfrei-in-der-taschenbox",
+      "title": {
+        "tileHeadline": "Bonbon, Zitronenmelisse, zuckerfrei, in der..., 50 g",
+        "tileHeadlineLong": "Bonbon, Zitronenmelisse, zuckerfrei, in der..., 50 g"
+      },
+      "trackingData": {
+        "brand": "Ricola",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.95,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 7610700946008,
+    "dan": 1018116,
+    "brandName": "Ricola",
+    "title": "Bonbon, Original Kräuter, zuckerfrei, in der Taschenbox, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Ricola; Produktname: Bonbon, Original Kräuter, zuckerfrei, in der Taschenbox, 50 g; Preis: 1,95 €; Grundpreis: 0,05 kg (39,00 € je 1 kg)",
+      "brand": {
+        "name": "Ricola"
+      },
+      "dan": 1018116,
+      "gtin": 7610700946008,
+      "images": [
+        {
+          "alt": "Bonbon, Original Kräuter, zuckerfrei, in der Taschenbox Ricola",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752879490/assets/pas/images/c1ba5a57-dcac-4424-ba71-e3b06444c012/ricola-bonbon-original-kraeuter-zuckerfrei-in-der-taschenbox"
+        },
+        {
+          "alt": "Bonbon, Original Kräuter, zuckerfrei, in der Taschenbox Ricola",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752879504/assets/pas/images/6b469981-2f3f-48b0-b68b-e60e756c4c39/ricola-bonbon-original-kraeuter-zuckerfrei-in-der-taschenbox"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (36,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (39,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.9138
+      },
+      "self": "/p/d/1018116/ricola-bonbon-original-kraeuter-zuckerfrei-in-der-taschenbox",
+      "title": {
+        "tileHeadline": "Bonbon, Original Kräuter, zuckerfrei, in der..., 50 g",
+        "tileHeadlineLong": "Bonbon, Original Kräuter, zuckerfrei, in der..., 50 g"
+      },
+      "trackingData": {
+        "brand": "Ricola",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9138,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4009077024601,
+    "dan": 1208359,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Salbei, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Salbei, zuckerfrei, 75 g; Preis: 1,95 €; Grundpreis: 0,075 kg (26,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1208359,
+      "gtin": 4009077024601,
+      "images": [
+        {
+          "alt": "Bonbon, Salbei, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686589/assets/pas/images/ea3b86ef-91c0-469a-98e3-fcf0f47fc0c5/em-eukal-bonbon-salbei-zuckerfrei"
+        },
+        {
+          "alt": "Bonbon, Salbei, zuckerfrei Em-eukal",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686580/assets/pas/images/f6b389be-e900-4653-a8af-c0eaa6c7c4db/em-eukal-bonbon-salbei-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (24,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (26,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.8814
+      },
+      "self": "/p/d/1208359/em-eukal-bonbon-salbei-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Salbei, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Salbei, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8814,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4009077020122,
+    "dan": 1212389,
+    "brandName": "Kinder Em-eukal",
+    "title": "Bonbon, Wildkirsche für Kinder, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Kinder Em-eukal; Produktname: Bonbon, Wildkirsche für Kinder, 75 g; Preis: 1,25 €; Grundpreis: 0,075 kg (16,67 € je 1 kg)",
+      "brand": {
+        "name": "Kinder Em-eukal"
+      },
+      "dan": 1212389,
+      "gtin": 4009077020122,
+      "images": [
+        {
+          "alt": "Bonbon, Wildkirsche für Kinder Kinder Em-eukal",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755101952/assets/pas/images/7a085d08-9348-43f2-bff2-0b83c5bb923d/kinder-em-eukal-bonbon-wildkirsche-fuer-kinder"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (15,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (16,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.9531
+      },
+      "self": "/p/d/1212389/kinder-em-eukal-bonbon-wildkirsche-fuer-kinder",
+      "title": {
+        "tileHeadline": "Bonbon, Wildkirsche für Kinder, 75 g",
+        "tileHeadlineLong": "Bonbon, Wildkirsche für Kinder, 75 g"
+      },
+      "trackingData": {
+        "brand": "Kinder Em-eukal",
+        "categories": [
+          "Baby- & Kindergesundheit",
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9531,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 4009077024656,
+    "dan": 1212241,
+    "brandName": "Em-eukal",
+    "title": "Bonbon, Salbei, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Bonbon, Salbei, 150 g; Preis: 2,55 €; Grundpreis: 0,15 kg (17,00 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1212241,
+      "gtin": 4009077024656,
+      "images": [
+        {
+          "alt": "Bonbon, Salbei Em-eukal",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436137/assets/pas/images/d6ca9a76-f4db-487a-8c3d-c6bee3f78386/em-eukal-bonbon-salbei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (15,89 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (17,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/1212241/em-eukal-bonbon-salbei",
+      "title": {
+        "tileHeadline": "Bonbon, Salbei, 150 g",
+        "tileHeadlineLong": "Bonbon, Salbei, 150 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 7610700025154,
+    "dan": 3081181,
+    "brandName": "Ricola",
+    "title": "Bonbon, Apfelminze, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Ricola; Produktname: Bonbon, Apfelminze, 75 g; Preis: 2,35 €; Grundpreis: 0,075 kg (31,33 € je 1 kg)",
+      "brand": {
+        "name": "Ricola"
+      },
+      "dan": 3081181,
+      "gtin": 7610700025154,
+      "images": [
+        {
+          "alt": "Bonbon, Apfelminze  Ricola",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747831403/assets/pas/images/64c2db43-f423-4baf-b94d-b40c81b4ed88/ricola-bonbon-apfelminze"
+        },
+        {
+          "alt": "Bonbon, Apfelminze  Ricola",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747831416/assets/pas/images/f602a03f-f039-443f-8156-d42ac9b33093/ricola-bonbon-apfelminze"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (29,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (31,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.8148
+      },
+      "self": "/p/d/3081181/ricola-bonbon-apfelminze",
+      "title": {
+        "tileHeadline": "Bonbon, Apfelminze, 75 g",
+        "tileHeadlineLong": "Bonbon, Apfelminze, 75 g"
+      },
+      "trackingData": {
+        "brand": "Ricola",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8148,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 4008617880585,
+    "dan": 3082412,
+    "brandName": "KLOSTERFRAU",
+    "title": "Halsbonbon mit Eukalyptusöl und Kirschgeschmack, 20 St",
+    "tileData": {
+      "a11yLabel": "Marke: KLOSTERFRAU; Produktname: Halsbonbon mit Eukalyptusöl und Kirschgeschmack, 20 St; Preis: 2,95 €; Grundpreis: 0,02 kg (147,50 € je 1 kg)",
+      "brand": {
+        "name": "KLOSTERFRAU"
+      },
+      "dan": 3082412,
+      "gtin": 4008617880585,
+      "images": [
+        {
+          "alt": "Halsbonbon mit Eukalyptusöl und Kirschgeschmack KLOSTERFRAU",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780959360/assets/pas/images/d198c5de-b2f7-4ac1-9638-0d4363f21a31/klosterfrau-halsbonbon-mit-eukalyptusoel-und-kirschgeschmack"
+        },
+        {
+          "alt": "Halsbonbon mit Eukalyptusöl und Kirschgeschmack KLOSTERFRAU",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748335941/assets/pas/images/834a82a1-24d6-4aee-b91a-5a201d563216/klosterfrau-halsbonbon-mit-eukalyptusoel-und-kirschgeschmack"
+        },
+        {
+          "alt": "Halsbonbon mit Eukalyptusöl und Kirschgeschmack KLOSTERFRAU",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748335956/assets/pas/images/4fc7d84c-bd17-47a8-aca6-eff2dc7a6050/klosterfrau-halsbonbon-mit-eukalyptusoel-und-kirschgeschmack"
+        },
+        {
+          "alt": "Halsbonbon mit Eukalyptusöl und Kirschgeschmack KLOSTERFRAU",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748335949/assets/pas/images/92a7f50c-2ff5-4b58-93a5-b183edde61b3/klosterfrau-halsbonbon-mit-eukalyptusoel-und-kirschgeschmack"
+        },
+        {
+          "alt": "Halsbonbon mit Eukalyptusöl und Kirschgeschmack KLOSTERFRAU",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748335963/assets/pas/images/1be37459-bee1-4464-9223-1b0cf91954f5/klosterfrau-halsbonbon-mit-eukalyptusoel-und-kirschgeschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (137,85 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (147,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 21,
+        "ratingValue": 4.7143
+      },
+      "self": "/p/d/3082412/klosterfrau-halsbonbon-mit-eukalyptusoel-und-kirschgeschmack",
+      "title": {
+        "tileHeadline": "Halsbonbon mit Eukalyptusöl und Kirschgeschmack, 20 St",
+        "tileHeadlineLong": "Halsbonbon mit Eukalyptusöl und Kirschgeschmack, 20 St"
+      },
+      "trackingData": {
+        "brand": "KLOSTERFRAU",
+        "categories": [
+          "Halsschmerzen & Schluckbeschwerden"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7143,
+        "ratingCount": 21
+      }
+    }
+  },
+  {
+    "gtin": 4030300022033,
+    "dan": 1321351,
+    "brandName": "WICK",
+    "title": "Bonbon, Blau mit Menthol, zuckerfrei, 72 g",
+    "tileData": {
+      "a11yLabel": "Marke: WICK; Produktname: Bonbon, Blau mit Menthol, zuckerfrei, 72 g; Preis: 1,55 €; Grundpreis: 0,072 kg (21,53 € je 1 kg)",
+      "brand": {
+        "name": "WICK"
+      },
+      "dan": 1321351,
+      "gtin": 4030300022033,
+      "images": [
+        {
+          "alt": "Bonbon, Blau mit Menthol, zuckerfrei WICK",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444268/assets/pas/images/e5a942ee-f10d-4d01-bda5-3701e298e5f5/wick-bonbon-blau-mit-menthol-zuckerfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,072 kg (20,12 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,072 kg (21,53 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.6615
+      },
+      "self": "/p/d/1321351/wick-bonbon-blau-mit-menthol-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Blau mit Menthol, zuckerfrei, 72 g",
+        "tileHeadlineLong": "Bonbon, Blau mit Menthol, zuckerfrei, 72 g"
+      },
+      "trackingData": {
+        "brand": "WICK",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6615,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 7610700026649,
+    "dan": 3136052,
+    "brandName": "Ricola",
+    "title": "Bonbon, Fresh Mint, zuckerfrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Ricola; Produktname: Bonbon, Fresh Mint, zuckerfrei, 75 g; Preis: 2,35 €; Grundpreis: 0,075 kg (31,33 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "Ricola"
+      },
+      "dan": 3136052,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 7610700026649,
+      "images": [
+        {
+          "alt": "Bonbon, Fresh Mint, zuckerfrei Ricola",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774862008/assets/pas/images/568d57fc-e342-45d9-9fe2-0e2bc4ed8647/ricola-bonbon-fresh-mint-zuckerfrei"
+        },
+        {
+          "alt": "Bonbon, Fresh Mint, zuckerfrei Ricola",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774861994/assets/pas/images/d289afe8-af58-4786-a3ef-d45dab9f0161/ricola-bonbon-fresh-mint-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (29,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (31,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3136052/ricola-bonbon-fresh-mint-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Fresh Mint, zuckerfrei, 75 g",
+        "tileHeadlineLong": "Bonbon, Fresh Mint, zuckerfrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "Ricola",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 1
+      }
+    }
+  },
+  {
+    "gtin": 4260024450281,
+    "dan": 1363858,
+    "brandName": "IBONS",
+    "title": "Bonbon, Ingwer & Mango, 92 g",
+    "tileData": {
+      "a11yLabel": "Marke: IBONS; Produktname: Bonbon, Ingwer & Mango, 92 g; Preis: 2,45 €; Grundpreis: 0,092 kg (26,63 € je 1 kg)",
+      "brand": {
+        "name": "IBONS"
+      },
+      "dan": 1363858,
+      "gtin": 4260024450281,
+      "images": [
+        {
+          "alt": "Bonbon, Ingwer & Mango IBONS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491405/assets/pas/images/fc500d51-d6b1-400e-bd9b-e955b067b09f/ibons-bonbon-ingwer-und-mango"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,092 kg (24,89 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,092 kg (26,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.6986
+      },
+      "self": "/p/d/1363858/ibons-bonbon-ingwer-und-mango",
+      "title": {
+        "tileHeadline": "Bonbon, Ingwer & Mango, 92 g",
+        "tileHeadlineLong": "Bonbon, Ingwer & Mango, 92 g"
+      },
+      "trackingData": {
+        "brand": "IBONS",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6986,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 7610700025239,
+    "dan": 3081193,
+    "brandName": "Ricola",
+    "title": "Bonbon, Lakritz, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Ricola; Produktname: Bonbon, Lakritz, 75 g; Preis: 2,35 €; Grundpreis: 0,075 kg (31,33 € je 1 kg)",
+      "brand": {
+        "name": "Ricola"
+      },
+      "dan": 3081193,
+      "gtin": 7610700025239,
+      "images": [
+        {
+          "alt": "Bonbon, Lakritz  Ricola",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747832576/assets/pas/images/61cd11ba-d36a-4843-897d-aebcb563b36e/ricola-bonbon-lakritz"
+        },
+        {
+          "alt": "Bonbon, Lakritz  Ricola",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747832561/assets/pas/images/48e71fc1-801c-4f9e-af69-3b78a3cc6027/ricola-bonbon-lakritz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (29,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (31,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 45,
+        "ratingValue": 4.6889
+      },
+      "self": "/p/d/3081193/ricola-bonbon-lakritz",
+      "title": {
+        "tileHeadline": "Bonbon, Lakritz, 75 g",
+        "tileHeadlineLong": "Bonbon, Lakritz, 75 g"
+      },
+      "trackingData": {
+        "brand": "Ricola",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6889,
+        "ratingCount": 45
+      }
+    }
+  },
+  {
+    "gtin": 7610700025093,
+    "dan": 3081161,
+    "brandName": "Ricola",
+    "title": "Bonbon, Zitronenmelisse, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Ricola; Produktname: Bonbon, Zitronenmelisse, 75 g; Preis: 2,35 €; Grundpreis: 0,075 kg (31,33 € je 1 kg)",
+      "brand": {
+        "name": "Ricola"
+      },
+      "dan": 3081161,
+      "gtin": 7610700025093,
+      "images": [
+        {
+          "alt": "Bonbon, Zitronenmelisse  Ricola",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747830747/assets/pas/images/b5ec6da3-d8ee-478e-9f93-340254684551/ricola-bonbon-zitronenmelisse"
+        },
+        {
+          "alt": "Bonbon, Zitronenmelisse  Ricola",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747830760/assets/pas/images/fa77e135-9b10-425c-b855-f51bcd1865c7/ricola-bonbon-zitronenmelisse"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (29,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (31,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.9038
+      },
+      "self": "/p/d/3081161/ricola-bonbon-zitronenmelisse",
+      "title": {
+        "tileHeadline": "Bonbon, Zitronenmelisse, 75 g",
+        "tileHeadlineLong": "Bonbon, Zitronenmelisse, 75 g"
+      },
+      "trackingData": {
+        "brand": "Ricola",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9038,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 7610700025253,
+    "dan": 3081151,
+    "brandName": "Ricola",
+    "title": "Bonbon, Himbeere Melisse, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Ricola; Produktname: Bonbon, Himbeere Melisse, 75 g; Preis: 2,35 €; Grundpreis: 0,075 kg (31,33 € je 1 kg)",
+      "brand": {
+        "name": "Ricola"
+      },
+      "dan": 3081151,
+      "gtin": 7610700025253,
+      "images": [
+        {
+          "alt": "Bonbon, Himbeere Melisse Ricola",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747829563/assets/pas/images/9d248dd2-9bbe-4b3f-b296-8d88d34fa4a3/ricola-bonbon-himbeere-melisse"
+        },
+        {
+          "alt": "Bonbon, Himbeere Melisse Ricola",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747829576/assets/pas/images/e3ce8c96-4912-432b-826f-2193e62201a2/ricola-bonbon-himbeere-melisse"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (29,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (31,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.8113
+      },
+      "self": "/p/d/3081151/ricola-bonbon-himbeere-melisse",
+      "title": {
+        "tileHeadline": "Bonbon, Himbeere Melisse, 75 g",
+        "tileHeadlineLong": "Bonbon, Himbeere Melisse, 75 g"
+      },
+      "trackingData": {
+        "brand": "Ricola",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8113,
+        "ratingCount": 53
+      }
+    }
+  }
+]

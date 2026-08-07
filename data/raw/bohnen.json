@@ -1,0 +1,2997 @@
+[
+  {
+    "gtin": 4019339487129,
+    "dan": 1535543,
+    "brandName": "Davert",
+    "title": "Schwarze Bohnen, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Schwarze Bohnen, 240 g; Preis: 1,65 €; Grundpreis: 0,24 kg (6,88 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1535543,
+      "gtin": 4019339487129,
+      "images": [
+        {
+          "alt": "Schwarze Bohnen Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922804/assets/pas/images/00519aa2-4fa8-4474-9f21-4835da1c6f10/davert-schwarze-bohnen"
+        },
+        {
+          "alt": "Schwarze Bohnen Davert",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922829/assets/pas/images/81673c2e-b2c1-414b-b4b9-0da9f2810865/davert-schwarze-bohnen"
+        },
+        {
+          "alt": "Schwarze Bohnen Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922817/assets/pas/images/f88452b2-618d-4e5b-b146-7a668ee476bf/davert-schwarze-bohnen"
+        },
+        {
+          "alt": "Schwarze Bohnen Davert",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442620/assets/pas/images/a67f136e-673e-404c-9ba9-caed2b9894a4/davert-schwarze-bohnen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (6,43 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (6,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.8659
+      },
+      "self": "/p/d/1535543/davert-schwarze-bohnen",
+      "title": {
+        "tileHeadline": "Schwarze Bohnen, 240 g",
+        "tileHeadlineLong": "Schwarze Bohnen, 240 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Konserven",
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8659,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 4066447087192,
+    "dan": 1638679,
+    "brandName": "dmBio",
+    "title": "Riesenbohnen in Tomatensauce, Gigantes, 230 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Riesenbohnen in Tomatensauce, Gigantes, 230 g; Preis: 2,95 €; Grundpreis: 0,23 kg (12,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1638679,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447087192,
+      "images": [
+        {
+          "alt": "Riesenbohnen in Tomatensauce, Gigantes dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476113/assets/pas/images/c74f62fd-37ab-4227-b78e-b696a9cc1ece/dmbio-riesenbohnen-in-tomatensauce-gigantes"
+        },
+        {
+          "alt": "Riesenbohnen in Tomatensauce, Gigantes dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476112/assets/pas/images/03353109-48a7-458d-ab4e-2974df1afe5a/dmbio-riesenbohnen-in-tomatensauce-gigantes"
+        },
+        {
+          "alt": "Riesenbohnen in Tomatensauce, Gigantes dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476123/assets/pas/images/fd95f508-8003-48e4-8863-ae483246f71e/dmbio-riesenbohnen-in-tomatensauce-gigantes"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,23 kg (11,99 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,23 kg (12,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 143,
+        "ratingValue": 4.6713
+      },
+      "self": "/p/d/1638679/dmbio-riesenbohnen-in-tomatensauce-gigantes",
+      "title": {
+        "tileHeadline": "Riesenbohnen in Tomatensauce, Gigantes, 230 g",
+        "tileHeadlineLong": "Riesenbohnen in Tomatensauce, Gigantes, 230 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Fertiggerichte & Konserven",
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6713,
+        "ratingCount": 143
+      }
+    }
+  },
+  {
+    "gtin": 4019339487150,
+    "dan": 1535541,
+    "brandName": "Davert",
+    "title": "Bohnen Mix, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Bohnen Mix, 240 g; Preis: 1,65 €; Grundpreis: 0,24 kg (6,88 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1535541,
+      "gtin": 4019339487150,
+      "images": [
+        {
+          "alt": "Bohnen Mix Davert",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442437/assets/pas/images/c1e52115-455e-4f25-817f-b635e82698d4/davert-bohnen-mix"
+        },
+        {
+          "alt": "Bohnen Mix Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442438/assets/pas/images/fc5ab89f-eef1-4d29-9c12-6854639206c8/davert-bohnen-mix"
+        },
+        {
+          "alt": "Bohnen Mix Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760563168/assets/pas/images/2c9e6c9c-8844-430a-9488-ac8461c7e556/davert-bohnen-mix"
+        },
+        {
+          "alt": "Bohnen Mix Davert",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442709/assets/pas/images/27090f13-5030-435c-8933-0b6166696be8/davert-bohnen-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (6,43 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (6,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.8806
+      },
+      "self": "/p/d/1535541/davert-bohnen-mix",
+      "title": {
+        "tileHeadline": "Bohnen Mix, 240 g",
+        "tileHeadlineLong": "Bohnen Mix, 240 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Konserven",
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8806,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4067796187038,
+    "dan": 1635195,
+    "brandName": "dmBio",
+    "title": "Kidneybohnen, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kidneybohnen, 240 g; Preis: 0,85 €; Grundpreis: 0,24 kg (3,54 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1635195,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796187038,
+      "images": [
+        {
+          "alt": "Kidneybohnen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019692/assets/pas/images/721a37d3-27f2-4509-8019-174dea666a42/dmbio-kidneybohnen"
+        },
+        {
+          "alt": "Kidneybohnen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019696/assets/pas/images/4403d2cd-9c13-431b-8b1e-6e93bda385da/dmbio-kidneybohnen"
+        },
+        {
+          "alt": "Kidneybohnen dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019694/assets/pas/images/7c670704-6b7d-47b9-a26e-b673058b1212/dmbio-kidneybohnen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (3,31 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (3,54 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 111,
+        "ratingValue": 4.4234
+      },
+      "self": "/p/d/1635195/dmbio-kidneybohnen",
+      "title": {
+        "tileHeadline": "Kidneybohnen, 240 g",
+        "tileHeadlineLong": "Kidneybohnen, 240 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4234,
+        "ratingCount": 111
+      }
+    }
+  },
+  {
+    "gtin": 4066447373189,
+    "dan": 1635196,
+    "brandName": "dmBio",
+    "title": "Braune Linsen, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Braune Linsen, 240 g; Preis: 1,15 €; Grundpreis: 0,24 kg (4,79 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1635196,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447373189,
+      "images": [
+        {
+          "alt": "Braune Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480837/assets/pas/images/b6b28d65-0791-429f-9bb9-567f87a2b81a/dmbio-braune-linsen"
+        },
+        {
+          "alt": "Braune Linsen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480706/assets/pas/images/fe9e0cbd-f123-46c0-ab45-05e905951777/dmbio-braune-linsen"
+        },
+        {
+          "alt": "Braune Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480598/assets/pas/images/3bde7092-35eb-4542-9b8c-c2405fb8dfe5/dmbio-braune-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (4,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (4,79 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.8929
+      },
+      "self": "/p/d/1635196/dmbio-braune-linsen",
+      "title": {
+        "tileHeadline": "Braune Linsen, 240 g",
+        "tileHeadlineLong": "Braune Linsen, 240 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Konserven",
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8929,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4019339490167,
+    "dan": 3137219,
+    "brandName": "Davert",
+    "title": "Protein Linsen Mix, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Protein Linsen Mix, 500 g; Preis: 3,95 €; Grundpreis: 0,5 kg (7,90 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 3137219,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4019339490167,
+      "images": [
+        {
+          "alt": "Protein Linsen Mix Davert",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776389598/assets/pas/images/aef3f761-153c-45c4-8efa-76b8ab379753/davert-protein-linsen-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 4.875
+      },
+      "self": "/p/d/3137219/davert-protein-linsen-mix",
+      "title": {
+        "tileHeadline": "Protein Linsen Mix, 500 g",
+        "tileHeadlineLong": "Protein Linsen Mix, 500 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.875,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 4066447759129,
+    "dan": 1454967,
+    "brandName": "dmBio",
+    "title": "Beluga Linsen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Beluga Linsen, 500 g; Preis: 2,45 €; Grundpreis: 0,5 kg (4,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454967,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447759129,
+      "images": [
+        {
+          "alt": "Beluga Linsen dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774596776/assets/pas/images/ab1cff64-e5fa-4285-970b-32f4d43250fd/dmbio-beluga-linsen"
+        },
+        {
+          "alt": "Beluga Linsen dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774596788/assets/pas/images/92e34840-b316-4af3-9805-40b3acf1d6db/dmbio-beluga-linsen"
+        },
+        {
+          "alt": "Beluga Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761143152/assets/pas/images/ee770872-e6d7-4d90-ac21-4df53da44de4/dmbio-beluga-linsen"
+        },
+        {
+          "alt": "Beluga Linsen dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774596783/assets/pas/images/bf955731-73b2-4bfc-bc2c-6b891f0a7f77/dmbio-beluga-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.8804
+      },
+      "self": "/p/d/1454967/dmbio-beluga-linsen",
+      "title": {
+        "tileHeadline": "Beluga Linsen, 500 g",
+        "tileHeadlineLong": "Beluga Linsen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8804,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4070765080025,
+    "dan": 3145654,
+    "brandName": "dmBio",
+    "title": "Grüne Linsen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Grüne Linsen, 500 g; Preis: 2,85 €; Grundpreis: 0,5 kg (5,70 € je 1 kg); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3145654,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765080025,
+      "images": [
+        {
+          "alt": "Grüne Linsen  dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781402636/assets/pas/images/81ecb8a0-7148-4507-8b55-8a2e475176f7/dmbio-gruene-linsen"
+        },
+        {
+          "alt": "Grüne Linsen  dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781402630/assets/pas/images/4e2610e3-3aba-4007-a758-eee3d93961a8/dmbio-gruene-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,33 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3145654/dmbio-gruene-linsen",
+      "title": {
+        "tileHeadline": "Grüne Linsen, 500 g",
+        "tileHeadlineLong": "Grüne Linsen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 6
+      }
+    }
+  },
+  {
+    "gtin": 4066447717945,
+    "dan": 1490004,
+    "brandName": "dmBio",
+    "title": "Rote Linsen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Rote Linsen, 500 g; Preis: 1,45 €; Grundpreis: 0,5 kg (2,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1490004,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447717945,
+      "images": [
+        {
+          "alt": "Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485160/assets/pas/images/7c676ef2-32a1-4232-b2eb-dc94f4d044c9/dmbio-rote-linsen"
+        },
+        {
+          "alt": "Rote Linsen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485386/assets/pas/images/1a12dc4c-e800-4fef-8d85-20216563db88/dmbio-rote-linsen"
+        },
+        {
+          "alt": "Rote Linsen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485159/assets/pas/images/331e6cb9-bc3f-4c77-a777-789ca4081cc4/dmbio-rote-linsen"
+        },
+        {
+          "alt": "Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485160/assets/pas/images/c5d8371a-9410-4580-8390-e56f0b61798c/dmbio-rote-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 157,
+        "ratingValue": 4.7452
+      },
+      "self": "/p/d/1490004/dmbio-rote-linsen",
+      "title": {
+        "tileHeadline": "Rote Linsen, 500 g",
+        "tileHeadlineLong": "Rote Linsen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7452,
+        "ratingCount": 157
+      }
+    }
+  },
+  {
+    "gtin": 4067796175295,
+    "dan": 1573424,
+    "brandName": "dmBio",
+    "title": "Gelbe Linsen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gelbe Linsen, 500 g; Preis: 2,45 €; Grundpreis: 0,5 kg (4,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1573424,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796175295,
+      "images": [
+        {
+          "alt": "Gelbe Linsen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755089685/assets/pas/images/92779243-7570-4750-bb4c-5beb018d2a05/dmbio-gelbe-linsen"
+        },
+        {
+          "alt": "Gelbe Linsen dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755089690/assets/pas/images/d0df9040-2857-4bf8-b8dc-01f40599588a/dmbio-gelbe-linsen"
+        },
+        {
+          "alt": "Gelbe Linsen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755089686/assets/pas/images/cb89eb80-1fb8-43b2-aacb-11bf0449fd52/dmbio-gelbe-linsen"
+        },
+        {
+          "alt": "Gelbe Linsen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755089690/assets/pas/images/eaf60161-5483-4a66-8f1d-5db0b283a33a/dmbio-gelbe-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.7037
+      },
+      "self": "/p/d/1573424/dmbio-gelbe-linsen",
+      "title": {
+        "tileHeadline": "Gelbe Linsen, 500 g",
+        "tileHeadlineLong": "Gelbe Linsen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7037,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 4067796187052,
+    "dan": 1627399,
+    "brandName": "dmBio",
+    "title": "Cannellini Bohnen, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Cannellini Bohnen, 240 g; Preis: 1,15 €; Grundpreis: 0,24 kg (4,79 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1627399,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796187052,
+      "images": [
+        {
+          "alt": "Cannellini Bohnen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748562604/assets/pas/images/c01fef64-dc49-4055-9754-5f119b72b598/dmbio-cannellini-bohnen"
+        },
+        {
+          "alt": "Cannellini Bohnen dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761824182/assets/pas/images/0aed1a20-0875-4174-a70b-b8c6bead0061/dmbio-cannellini-bohnen"
+        },
+        {
+          "alt": "Cannellini Bohnen dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748562615/assets/pas/images/ecd84b95-be41-4d38-a366-b079934a0c7a/dmbio-cannellini-bohnen"
+        },
+        {
+          "alt": "Cannellini Bohnen dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748562610/assets/pas/images/382a6a2a-29d5-4adb-83e5-fe0473650a24/dmbio-cannellini-bohnen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (4,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (4,79 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 106,
+        "ratingValue": 4.783
+      },
+      "self": "/p/d/1627399/dmbio-cannellini-bohnen",
+      "title": {
+        "tileHeadline": "Cannellini Bohnen, 240 g",
+        "tileHeadlineLong": "Cannellini Bohnen, 240 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Konserven"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.783,
+        "ratingCount": 106
+      }
+    }
+  },
+  {
+    "gtin": 4019339437124,
+    "dan": 1626222,
+    "brandName": "Davert",
+    "title": "Veggie Chunks, Erbsen & Ackerbohnen, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Veggie Chunks, Erbsen & Ackerbohnen, 100 g; Preis: 2,95 €; Grundpreis: 0,1 kg (29,50 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1626222,
+      "gtin": 4019339437124,
+      "images": [
+        {
+          "alt": "Veggie Chunks, Erbsen & Ackerbohnen Davert",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442620/assets/pas/images/ba8047ee-fa34-4b36-9a9e-5c34d4a9ff7a/davert-veggie-chunks-erbsen-und-ackerbohnen"
+        },
+        {
+          "alt": "Veggie Chunks, Erbsen & Ackerbohnen Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442438/assets/pas/images/788c1f2a-6555-41cd-b52f-7e67d2fed8ff/davert-veggie-chunks-erbsen-und-ackerbohnen"
+        },
+        {
+          "alt": "Veggie Chunks, Erbsen & Ackerbohnen Davert",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442715/assets/pas/images/ebcb6a67-2c26-49ab-bffa-4710951dc035/davert-veggie-chunks-erbsen-und-ackerbohnen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (27,57 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (29,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.5753
+      },
+      "self": "/p/d/1626222/davert-veggie-chunks-erbsen-und-ackerbohnen",
+      "title": {
+        "tileHeadline": "Veggie Chunks, Erbsen & Ackerbohnen, 100 g",
+        "tileHeadlineLong": "Veggie Chunks, Erbsen & Ackerbohnen, 100 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Tofu & Fleischersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5753,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 8445291315167,
+    "dan": 3058676,
+    "brandName": "PURINA ONE",
+    "title": "Nassfutter Katze Huhn mit grünen Bohnen, Multipack (8x85 g), 680 g",
+    "tileData": {
+      "a11yLabel": "Marke: PURINA ONE; Produktname: Nassfutter Katze Huhn mit grünen Bohnen, Multipack (8x85 g), 680 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 4,95 €; Grundpreis: 0,68 kg (7,28 € je 1 kg)",
+      "brand": {
+        "name": "PURINA ONE"
+      },
+      "dan": 3058676,
+      "gtin": 8445291315167,
+      "images": [
+        {
+          "alt": "Nassfutter Katze Huhn mit grünen Bohnen, Multipack (8x85 g) PURINA ONE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777513080/assets/pas/images/6154fa85-7d51-4a05-81c5-f8c48642e549/purina-one-nassfutter-katze-huhn-mit-gruenen-bohnen-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze Huhn mit grünen Bohnen, Multipack (8x85 g) PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777513073/assets/pas/images/6a286191-6ad6-47c9-8cbc-18324e2a425b/purina-one-nassfutter-katze-huhn-mit-gruenen-bohnen-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze Huhn mit grünen Bohnen, Multipack (8x85 g) PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777513059/assets/pas/images/a2e3009c-98c9-48b3-8a3f-a5b34df3dfe7/purina-one-nassfutter-katze-huhn-mit-gruenen-bohnen-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze Huhn mit grünen Bohnen, Multipack (8x85 g) PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777513095/assets/pas/images/7be1e9eb-ae18-4ee2-9490-f1c6a4e760eb/purina-one-nassfutter-katze-huhn-mit-gruenen-bohnen-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze Huhn mit grünen Bohnen, Multipack (8x85 g) PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777513088/assets/pas/images/dd74e2f9-da21-45a0-8521-b7da14260960/purina-one-nassfutter-katze-huhn-mit-gruenen-bohnen-multipack-8x85-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,68 kg (6,80 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,68 kg (7,28 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 23,
+        "ratingValue": 4.8696
+      },
+      "self": "/p/d/3058676/purina-one-nassfutter-katze-huhn-mit-gruenen-bohnen-multipack-8x85-g",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Nassfutter Katze Huhn mit grünen Bohnen,..., 680 g",
+        "tileHeadlineLong": "Nassfutter Katze Huhn mit grünen Bohnen,..., 680 g"
+      },
+      "trackingData": {
+        "brand": "PURINA ONE",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8696,
+        "ratingCount": 23
+      }
+    }
+  },
+  {
+    "gtin": 4019339487198,
+    "dan": 3092477,
+    "brandName": "Davert",
+    "title": "Gigantes Bohnen in Tomatensoße, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Gigantes Bohnen in Tomatensoße, 400 g; Preis: 1,95 €; Grundpreis: 0,4 kg (4,88 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 3092477,
+      "gtin": 4019339487198,
+      "images": [
+        {
+          "alt": "Gigantes Bohnen in Tomatensoße Davert",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753836999/assets/pas/images/9e16ef72-1c77-4c04-b446-b9a621fe2b61/davert-gigantes-bohnen-in-tomatensosse"
+        },
+        {
+          "alt": "Gigantes Bohnen in Tomatensoße Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762123215/assets/pas/images/10f84fa4-474a-4c72-8d62-b650e7fa6dfd/davert-gigantes-bohnen-in-tomatensosse"
+        },
+        {
+          "alt": "Gigantes Bohnen in Tomatensoße Davert",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761085055/assets/pas/images/f4197ba5-aa65-4b0c-9878-e42688beedd3/davert-gigantes-bohnen-in-tomatensosse"
+        },
+        {
+          "alt": "Gigantes Bohnen in Tomatensoße Davert",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762123227/assets/pas/images/fba142e7-8c1e-4d9c-a81d-32daa03b3311/davert-gigantes-bohnen-in-tomatensosse"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 27,
+        "ratingValue": 4.1852
+      },
+      "self": "/p/d/3092477/davert-gigantes-bohnen-in-tomatensosse",
+      "title": {
+        "tileHeadline": "Gigantes Bohnen in Tomatensoße, 400 g",
+        "tileHeadlineLong": "Gigantes Bohnen in Tomatensoße, 400 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Konserven"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1852,
+        "ratingCount": 27
+      }
+    }
+  },
+  {
+    "gtin": 4008429190445,
+    "dan": 3058701,
+    "brandName": "Cesar",
+    "title": "Nassfutter Hund mit Huhn, Karotten & Bohnen, fresh bowls, 85 g",
+    "tileData": {
+      "a11yLabel": "Marke: Cesar; Produktname: Nassfutter Hund mit Huhn, Karotten & Bohnen, fresh bowls, 85 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 1,45 €; Grundpreis: 0,085 kg (17,06 € je 1 kg)",
+      "brand": {
+        "name": "Cesar"
+      },
+      "dan": 3058701,
+      "gtin": 4008429190445,
+      "images": [
+        {
+          "alt": "Nassfutter Hund mit Huhn, Karotten & Bohnen, fresh bowls Cesar",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434354/assets/pas/images/580f1d3e-3318-4609-855e-922960568f7c/cesar-nassfutter-hund-mit-huhn-karotten-und-bohnen-fresh-bowls"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Karotten & Bohnen, fresh bowls Cesar",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434125/assets/pas/images/831e8c5e-b1e8-498d-88d7-b1d69a5eb78e/cesar-nassfutter-hund-mit-huhn-karotten-und-bohnen-fresh-bowls"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Karotten & Bohnen, fresh bowls Cesar",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434355/assets/pas/images/5c1d5785-1b49-4edf-839a-097eb4a4604f/cesar-nassfutter-hund-mit-huhn-karotten-und-bohnen-fresh-bowls"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (15,94 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (17,06 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 72,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/3058701/cesar-nassfutter-hund-mit-huhn-karotten-und-bohnen-fresh-bowls",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Nassfutter Hund mit Huhn, Karotten & Bohnen,..., 85 g",
+        "tileHeadlineLong": "Nassfutter Hund mit Huhn, Karotten & Bohnen,..., 85 g"
+      },
+      "trackingData": {
+        "brand": "Cesar",
+        "categories": [
+          "Nassfutter Hund"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 72
+      }
+    }
+  },
+  {
+    "gtin": 4058172684159,
+    "dan": 1545670,
+    "brandName": "dmBio",
+    "title": "Kaffee, Caffè Crema, ganze Bohne, 1 kg",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee, Caffè Crema, ganze Bohne, 1 kg; Preis: 13,95 €; Grundpreis: 1 kg (13,95 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1545670,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172684159,
+      "images": [
+        {
+          "alt": "Kaffee, Caffè Crema, ganze Bohne dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453871/assets/pas/images/eaec7999-810f-4899-bea5-2f6b823cee71/dmbio-kaffee-caffe-crema-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema, ganze Bohne dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453549/assets/pas/images/a761cbe7-5004-49d9-8a6d-41aa1921230b/dmbio-kaffee-caffe-crema-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema, ganze Bohne dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761749637/assets/pas/images/56a24a61-2018-4d4a-b90a-2f482a3028e0/dmbio-kaffee-caffe-crema-ganze-bohne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,04 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (13,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (13,95 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 831,
+        "ratingValue": 4.6113
+      },
+      "self": "/p/d/1545670/dmbio-kaffee-caffe-crema-ganze-bohne",
+      "title": {
+        "tileHeadline": "Kaffee, Caffè Crema, ganze Bohne, 1 kg",
+        "tileHeadlineLong": "Kaffee, Caffè Crema, ganze Bohne, 1 kg"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6113,
+        "ratingCount": 831
+      }
+    }
+  },
+  {
+    "gtin": 4066447232752,
+    "dan": 1577829,
+    "brandName": "dmBio",
+    "title": "Espresso ganze Bohnen, 1 kg",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Espresso ganze Bohnen, 1 kg; Preis: 13,95 €; Grundpreis: 1 kg (13,95 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1577829,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447232752,
+      "images": [
+        {
+          "alt": "Espresso ganze Bohnen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478220/assets/pas/images/82498f6c-f13f-4fe1-8ce6-2601d9850ffb/dmbio-espresso-ganze-bohnen"
+        },
+        {
+          "alt": "Espresso ganze Bohnen dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478454/assets/pas/images/da480045-2862-4f7f-85ff-edffc5086f63/dmbio-espresso-ganze-bohnen"
+        },
+        {
+          "alt": "Espresso ganze Bohnen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761819277/assets/pas/images/940bf422-91fa-4858-a816-bf250e0d3448/dmbio-espresso-ganze-bohnen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,04 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (13,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (13,95 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 405,
+        "ratingValue": 4.4988
+      },
+      "self": "/p/d/1577829/dmbio-espresso-ganze-bohnen",
+      "title": {
+        "tileHeadline": "Espresso ganze Bohnen, 1 kg",
+        "tileHeadlineLong": "Espresso ganze Bohnen, 1 kg"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4988,
+        "ratingCount": 405
+      }
+    }
+  },
+  {
+    "gtin": 4270000193835,
+    "dan": 1570978,
+    "brandName": "Angelique's Finest",
+    "title": "Kaffee, Espresso ganze Bohne, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Angelique's Finest; Produktname: Kaffee, Espresso ganze Bohne, 500 g; Preis: 15,95 €; Grundpreis: 0,5 kg (31,90 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Angelique's Finest"
+      },
+      "dan": 1570978,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4270000193835,
+      "images": [
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495915/assets/pas/images/e50f0157-8897-42a3-924d-d9867b97f1e3/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495915/assets/pas/images/398c7996-1562-4437-a534-2d72689c8d6f/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495914/assets/pas/images/f8de4eb7-c7e4-46dd-9b34-48af1fd5b973/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747496000/assets/pas/images/a22992b7-9450-47dc-98a5-b1a016720b7f/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495958/assets/pas/images/bccee46c-66e7-4efb-8a12-c649d7a4b271/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495913/assets/pas/images/9e04f35c-9904-4215-b8fe-5a990eb684ff/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747496000/assets/pas/images/b2ab8465-eaf9-4ab0-b3d8-e8215d6657b3/angeliques-finest-kaffee-espresso-ganze-bohne"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,91 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (29,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (31,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 50,
+        "ratingValue": 4.72
+      },
+      "self": "/p/d/1570978/angeliques-finest-kaffee-espresso-ganze-bohne",
+      "title": {
+        "tileHeadline": "Kaffee, Espresso ganze Bohne, 500 g",
+        "tileHeadlineLong": "Kaffee, Espresso ganze Bohne, 500 g"
+      },
+      "trackingData": {
+        "brand": "Angelique's Finest",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 15.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.72,
+        "ratingCount": 50
+      }
+    }
+  },
+  {
+    "gtin": 4270000193842,
+    "dan": 1571774,
+    "brandName": "Angelique's Finest",
+    "title": "Kaffee, Aroma Kaffee ganze Bohne, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Angelique's Finest; Produktname: Kaffee, Aroma Kaffee ganze Bohne, 500 g; Preis: 12,95 €; Grundpreis: 0,5 kg (25,90 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Angelique's Finest"
+      },
+      "dan": 1571774,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4270000193842,
+      "images": [
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495955/assets/pas/images/cfda0b8d-7537-4816-a828-92429ef07d4a/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495992/assets/pas/images/b96ce4da-d371-4ec2-9a0a-626b4f8e8faa/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495993/assets/pas/images/5f445581-5dbd-4e59-a662-bc91b8b81cc4/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495993/assets/pas/images/dfa18c1d-7cac-4068-a47a-6e0ba78f5a78/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495956/assets/pas/images/ea4698ad-9849-466b-9045-8e54c0a431b9/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495600/assets/pas/images/c918f719-8185-47d6-b6ad-68fdf81d952e/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495595/assets/pas/images/0688d46f-fa71-4030-89e4-b798a624b604/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495595/assets/pas/images/e25659b4-ce70-4baf-b8b4-eea7f692514b/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (24,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (25,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.7612
+      },
+      "self": "/p/d/1571774/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne",
+      "title": {
+        "tileHeadline": "Kaffee, Aroma Kaffee ganze Bohne, 500 g",
+        "tileHeadlineLong": "Kaffee, Aroma Kaffee ganze Bohne, 500 g"
+      },
+      "trackingData": {
+        "brand": "Angelique's Finest",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 12.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7612,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4066447088267,
+    "dan": 1646654,
+    "brandName": "dmBio",
+    "title": "Espresso de Peru, ganze Bohne, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Espresso de Peru, ganze Bohne, 250 g; Preis: 4,65 €; Grundpreis: 0,25 kg (18,60 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1646654,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447088267,
+      "images": [
+        {
+          "alt": "Espresso de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476277/assets/pas/images/d24c1192-21e4-43ac-bdf4-e63ac8d8249b/dmbio-espresso-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Espresso de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476280/assets/pas/images/c2abce77-8dcc-4a76-9e53-c2f0bf991a14/dmbio-espresso-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Espresso de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476044/assets/pas/images/ff25d0d3-4587-44e6-a177-fbebd0d4cef8/dmbio-espresso-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Espresso de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476268/assets/pas/images/3ee0b535-d15c-4849-add4-70a6d8b6718b/dmbio-espresso-de-peru-ganze-bohne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (17,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (18,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 109,
+        "ratingValue": 4.0275
+      },
+      "self": "/p/d/1646654/dmbio-espresso-de-peru-ganze-bohne",
+      "title": {
+        "tileHeadline": "Espresso de Peru, ganze Bohne, 250 g",
+        "tileHeadlineLong": "Espresso de Peru, ganze Bohne, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0275,
+        "ratingCount": 109
+      }
+    }
+  },
+  {
+    "gtin": 4066447522464,
+    "dan": 1646656,
+    "brandName": "dmBio",
+    "title": "Caffè Crema de Peru, ganze Bohne, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Caffè Crema de Peru, ganze Bohne, 500 g; Preis: 8,75 €; Grundpreis: 0,5 kg (17,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1646656,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447522464,
+      "images": [
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483052/assets/pas/images/007fcddd-916d-40c6-be68-366dd14e9d64/dmbio-caffe-crema-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482937/assets/pas/images/1b16db93-8a61-494b-be61-b9ef4d8467c6/dmbio-caffe-crema-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761831101/assets/pas/images/6a942b74-27d8-452c-bc0e-6c1a9b266aa3/dmbio-caffe-crema-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483052/assets/pas/images/ab3ec4e0-1738-4bca-a1b2-d8dc5953955a/dmbio-caffe-crema-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483051/assets/pas/images/9e8002ae-a6d7-483b-8adb-3392366e3db1/dmbio-caffe-crema-de-peru-ganze-bohne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,18 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (16,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (17,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 199,
+        "ratingValue": 4.6683
+      },
+      "self": "/p/d/1646656/dmbio-caffe-crema-de-peru-ganze-bohne",
+      "title": {
+        "tileHeadline": "Caffè Crema de Peru, ganze Bohne, 500 g",
+        "tileHeadlineLong": "Caffè Crema de Peru, ganze Bohne, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6683,
+        "ratingCount": 199
+      }
+    }
+  },
+  {
+    "gtin": 4066447892482,
+    "dan": 1488556,
+    "brandName": "dmBio",
+    "title": "Chili sin Carne, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Chili sin Carne, 400 g; Preis: 1,95 €; Grundpreis: 0,4 kg (4,88 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1488556,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447892482,
+      "images": [
+        {
+          "alt": "Chili sin Carne dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132574/assets/pas/images/abf40f1e-d479-49e1-9ccf-ef6b77b102d6/dmbio-chili-sin-carne"
+        },
+        {
+          "alt": "Chili sin Carne dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132580/assets/pas/images/9c2bca1d-ab95-4a11-8b3c-94a5b4fc10fc/dmbio-chili-sin-carne"
+        },
+        {
+          "alt": "Chili sin Carne dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132586/assets/pas/images/da20e631-5440-4b9f-83d7-0e612b67e5ba/dmbio-chili-sin-carne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 309,
+        "ratingValue": 3.6505
+      },
+      "self": "/p/d/1488556/dmbio-chili-sin-carne",
+      "title": {
+        "tileHeadline": "Chili sin Carne, 400 g",
+        "tileHeadlineLong": "Chili sin Carne, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6505,
+        "ratingCount": 309
+      }
+    }
+  },
+  {
+    "gtin": 8445290645647,
+    "dan": 1706942,
+    "brandName": "PURINA ONE",
+    "title": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g), 850 g",
+    "tileData": {
+      "a11yLabel": "Marke: PURINA ONE; Produktname: Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g), 850 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 5,85 €; Grundpreis: 0,85 kg (6,88 € je 1 kg)",
+      "brand": {
+        "name": "PURINA ONE"
+      },
+      "dan": 1706942,
+      "gtin": 8445290645647,
+      "images": [
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525347/assets/pas/images/e065c22e-372e-4a92-a671-9a2551552eae/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524712/assets/pas/images/5c893b1b-3e9a-4ebc-81f0-c1d20f6ca1b6/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524708/assets/pas/images/c1de0386-1836-464a-b58b-62ca61c91861/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525348/assets/pas/images/490c6cd1-62e2-4b6f-a147-ab5b2cccc5c0/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525341/assets/pas/images/144e0217-9935-4449-90fc-136572c58d39/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525291/assets/pas/images/fcd7fc57-83a1-4a40-b052-dc172c4d2c2c/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524874/assets/pas/images/6dd74531-76e2-4f94-ac38-41e8b5a04a88/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524870/assets/pas/images/f81630b5-ea97-4764-9e89-090824529e99/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525290/assets/pas/images/9492ed9a-0d54-4c38-9d68-1a9b28900efb/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524675/assets/pas/images/3744f2fb-0b38-4eba-adca-e14db196507c/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524869/assets/pas/images/34966b3d-52a2-4022-b583-704a3673497a/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525341/assets/pas/images/6f7790b1-bc4b-43d5-85ed-7b0b45df416c/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525347/assets/pas/images/b232c47b-a8cf-48bc-aabb-feca2064d20d/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525290/assets/pas/images/ab19ad13-6865-4e01-9db0-8c04ed1db9b6/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525291/assets/pas/images/2b0ece62-fe28-4187-8ee7-09ab2f5ec1af/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm, Mini für kleine Rassen, Multipack (10x85 g) PURINA ONE",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525292/assets/pas/images/b9ff6a59-7124-45e5-b515-4cf5ca470561/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,85 kg (6,43 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,85 kg (6,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.7885
+      },
+      "self": "/p/d/1706942/purina-one-nassfutter-hund-mit-huhn-rind-truthahn-und-lamm-mini-fuer-kleine-rassen-multipack-10x85-g",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm,..., 850 g",
+        "tileHeadlineLong": "Nassfutter Hund mit Huhn, Rind, Truthahn & Lamm,..., 850 g"
+      },
+      "trackingData": {
+        "brand": "PURINA ONE",
+        "categories": [
+          "Nassfutter Hund"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7885,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 4019339487204,
+    "dan": 3092486,
+    "brandName": "Davert",
+    "title": "Baked Beans, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Baked Beans, 400 g; Preis: 1,95 €; Grundpreis: 0,4 kg (4,88 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 3092486,
+      "gtin": 4019339487204,
+      "images": [
+        {
+          "alt": "Baked Beans Davert",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753831668/assets/pas/images/18c52326-38a6-47f2-9da3-b75f9adb659c/davert-baked-beans"
+        },
+        {
+          "alt": "Baked Beans Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768602534/assets/pas/images/ba256ecd-cbf7-429c-8a93-0f0fe1323f22/davert-baked-beans"
+        },
+        {
+          "alt": "Baked Beans Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768602523/assets/pas/images/20a5b00b-9ba7-43a4-ac24-5ccec9e0ab7d/davert-baked-beans"
+        },
+        {
+          "alt": "Baked Beans Davert",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761426913/assets/pas/images/72226e33-3d7e-4ded-8ac9-8b187f071b34/davert-baked-beans"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.3529
+      },
+      "self": "/p/d/3092486/davert-baked-beans",
+      "title": {
+        "tileHeadline": "Baked Beans, 400 g",
+        "tileHeadlineLong": "Baked Beans, 400 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Konserven"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3529,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4051395402180,
+    "dan": 1621682,
+    "brandName": "bugatti",
+    "title": "Signature black Eau de Toilette, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: bugatti; Produktname: Signature black Eau de Toilette, 100 ml; Preis: 16,45 €; Grundpreis: 0,1 l (164,50 € je 1 l)",
+      "brand": {
+        "name": "bugatti"
+      },
+      "dan": 1621682,
+      "gtin": 4051395402180,
+      "images": [
+        {
+          "alt": "Signature black Eau de Toilette bugatti",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447399/assets/pas/images/e6dc89aa-c8fe-4214-b462-42e68de3127b/bugatti-signature-black-eau-de-toilette"
+        },
+        {
+          "alt": "Signature black Eau de Toilette bugatti",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447395/assets/pas/images/232e6eef-c40e-4fce-a274-bae37fe9bc9b/bugatti-signature-black-eau-de-toilette"
+        },
+        {
+          "alt": "Signature black Eau de Toilette bugatti",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447395/assets/pas/images/f8b0e825-68a4-44c9-8209-d4d003f2e101/bugatti-signature-black-eau-de-toilette"
+        },
+        {
+          "alt": "Signature black Eau de Toilette bugatti",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447228/assets/pas/images/4ac6f5f0-d223-4896-8d67-e76395d44edb/bugatti-signature-black-eau-de-toilette"
+        },
+        {
+          "alt": "Signature black Eau de Toilette bugatti",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447000/assets/pas/images/aff70d0b-edbe-443d-a800-9355f8627a00/bugatti-signature-black-eau-de-toilette"
+        },
+        {
+          "alt": "Signature black Eau de Toilette bugatti",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447400/assets/pas/images/4a6c023a-e0f8-41ab-b907-138e9734aa2c/bugatti-signature-black-eau-de-toilette"
+        },
+        {
+          "alt": "Signature black Eau de Toilette bugatti",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447400/assets/pas/images/66b7d355-782f-4360-bec5-37b27c639fa1/bugatti-signature-black-eau-de-toilette"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (138,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "16,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (164,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.7143
+      },
+      "self": "/p/d/1621682/bugatti-signature-black-eau-de-toilette",
+      "title": {
+        "tileHeadline": "Signature black Eau de Toilette, 100 ml",
+        "tileHeadlineLong": "Signature black Eau de Toilette, 100 ml"
+      },
+      "trackingData": {
+        "brand": "bugatti",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 16.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7143,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 7613036898614,
+    "dan": 1600697,
+    "brandName": "Felix",
+    "title": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g), 2,04 kg",
+    "tileData": {
+      "a11yLabel": "Marke: Felix; Produktname: Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g), 2,04 kg; Rechtliche Kategorie: Alleinfuttermittel; Preis: 7,95 €; Grundpreis: 2,04 kg (3,90 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Felix"
+      },
+      "dan": 1600697,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7613036898614,
+      "images": [
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773444612/assets/pas/images/963d4cdd-452a-4596-bb0d-227bec967ae7/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773444637/assets/pas/images/8e19989c-bd28-497f-90b1-7513a8987abf/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510983/assets/pas/images/d5ac9ea5-84c5-4f87-a791-b966cea62ab6/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773965344/assets/pas/images/100ba0ed-7a41-4668-8edc-049f62c6f7e6/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511170/assets/pas/images/fed5b1ad-2043-4240-b3a5-1210c5215d4b/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773965334/assets/pas/images/ba30033d-f85f-469f-9651-d74142eb14dc/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773444601/assets/pas/images/22788a7d-932f-4f09-be44-36d0e9638de3/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773444624/assets/pas/images/7e6ef33c-e558-4751-bb5c-2b8ccf9dfd69/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511525/assets/pas/images/5ff6ca21-a798-4789-be8e-bba0178e66b8/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773444594/assets/pas/images/badddc8a-0c55-4e2e-8e11-d21a68c400ca/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        },
+        {
+          "alt": "Nassfutter Katze, gemischte Vielfalt mit Gemüse in Gelee, Multipack (24x85g) Felix",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773965327/assets/pas/images/9941ce41-dbee-4234-b060-e2602f917a2d/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,43 €"
+          }
+        },
+        "tileInfos": [
+          "2,04 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "2,04 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 38,
+        "ratingValue": 4.6842
+      },
+      "self": "/p/d/1600697/felix-nassfutter-katze-gemischte-vielfalt-mit-gemuese-in-gelee-multipack-24x85g",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Nassfutter Katze, gemischte Vielfalt mit Gemüse..., 2,04 kg",
+        "tileHeadlineLong": "Nassfutter Katze, gemischte Vielfalt mit Gemüse..., 2,04 kg"
+      },
+      "trackingData": {
+        "brand": "Felix",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6842,
+        "ratingCount": 38
+      }
+    }
+  },
+  {
+    "gtin": 7613035464322,
+    "dan": 1713503,
+    "brandName": "Purina Gourmet",
+    "title": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g), 680 g",
+    "tileData": {
+      "a11yLabel": "Marke: Purina Gourmet; Produktname: Nassfutter Katze raffiniertes Ragout Multipack (8x85 g), 680 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 3,95 €; Grundpreis: 0,68 kg (5,81 € je 1 kg)",
+      "brand": {
+        "name": "Purina Gourmet"
+      },
+      "dan": 1713503,
+      "gtin": 7613035464322,
+      "images": [
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511515/assets/pas/images/b5613746-e441-4531-87c7-5848fd9d7996/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511405/assets/pas/images/10c33e6e-f923-4534-b24a-6b75a570df55/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764978459/assets/pas/images/a27d7bd8-20de-4a90-9c14-52eab1628e49/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510797/assets/pas/images/a160bd20-17a8-4138-b463-2da3d24e675c/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764978426/assets/pas/images/9b1463f7-f53e-464c-a821-94cb51e1254d/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510796/assets/pas/images/cc9b0537-b13c-41ec-b338-17d2a41214d1/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764978440/assets/pas/images/b3cd3bd3-59c1-4213-8816-0aae59808867/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511521/assets/pas/images/ef41e8a6-367b-46c4-9737-00b788681672/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764978449/assets/pas/images/a83d6ce8-01f2-43fd-b9ec-150223cce45a/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510977/assets/pas/images/faa9f143-a7d5-4390-88a2-856ba4d25e80/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781134781/assets/pas/images/41b482ed-8a71-48f4-b5f3-dce734c56e15/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764978469/assets/pas/images/400b4adb-02c5-44ad-8311-87f365d36d78/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510977/assets/pas/images/a43d3427-e0c6-4271-a590-21392af18ae4/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764978485/assets/pas/images/7b8dc9d4-e988-4ccc-a992-2e673ce5cc77/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze raffiniertes Ragout Multipack (8x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764978417/assets/pas/images/1e6a33c4-1b42-4c80-9517-02ed9df5fecd/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,68 kg (5,43 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,68 kg (5,81 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.7586
+      },
+      "self": "/p/d/1713503/purina-gourmet-nassfutter-katze-raffiniertes-ragout-multipack-8x85-g",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Nassfutter Katze raffiniertes Ragout Multipack..., 680 g",
+        "tileHeadlineLong": "Nassfutter Katze raffiniertes Ragout Multipack..., 680 g"
+      },
+      "trackingData": {
+        "brand": "Purina Gourmet",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7586,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 5060524510725,
+    "dan": 1232944,
+    "brandName": "CR7 Cristiano Ronaldo",
+    "title": "Play it cool Eau de Toilette, 30 ml",
+    "tileData": {
+      "a11yLabel": "Marke: CR7 Cristiano Ronaldo; Produktname: Play it cool Eau de Toilette, 30 ml; Preis: 18,95 €; Grundpreis: 0,03 l (631,67 € je 1 l)",
+      "brand": {
+        "name": "CR7 Cristiano Ronaldo"
+      },
+      "dan": 1232944,
+      "gtin": 5060524510725,
+      "images": [
+        {
+          "alt": "Play it cool Eau de Toilette  CR7 Cristiano Ronaldo",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500400/assets/pas/images/01e41b86-c67d-45f4-a79f-16f9253137b4/cr7-cristiano-ronaldo-play-it-cool-eau-de-toilette"
+        },
+        {
+          "alt": "Play it cool Eau de Toilette  CR7 Cristiano Ronaldo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500474/assets/pas/images/1b38031c-8c3c-425f-9f64-99aaa97df8a1/cr7-cristiano-ronaldo-play-it-cool-eau-de-toilette"
+        },
+        {
+          "alt": "Play it cool Eau de Toilette  CR7 Cristiano Ronaldo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500524/assets/pas/images/0e90a894-3e9e-4d6e-976c-8a7336fa67c2/cr7-cristiano-ronaldo-play-it-cool-eau-de-toilette"
+        },
+        {
+          "alt": "Play it cool Eau de Toilette  CR7 Cristiano Ronaldo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500474/assets/pas/images/a4b88e3f-bfcb-444a-aa98-6d841b05d529/cr7-cristiano-ronaldo-play-it-cool-eau-de-toilette"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,92 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (530,82 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "18,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (631,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.7255
+      },
+      "self": "/p/d/1232944/cr7-cristiano-ronaldo-play-it-cool-eau-de-toilette",
+      "title": {
+        "tileHeadline": "Play it cool Eau de Toilette, 30 ml",
+        "tileHeadlineLong": "Play it cool Eau de Toilette, 30 ml"
+      },
+      "trackingData": {
+        "brand": "CR7 Cristiano Ronaldo",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 18.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7255,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 4030651054226,
+    "dan": 3105068,
+    "brandName": "Tinti",
+    "title": "Kinder Badezusatz Badeüberraschung Set 3tlg, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tinti; Produktname: Kinder Badezusatz Badeüberraschung Set  3tlg, 1 St; Preis: 2,45 €; Grundpreis: 1 St (2,45 € je 1 St)",
+      "brand": {
+        "name": "Tinti"
+      },
+      "dan": 3105068,
+      "gtin": 4030651054226,
+      "images": [
+        {
+          "alt": "Kinder Badezusatz Badeüberraschung Set  3tlg Tinti",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758618399/assets/pas/images/e74b905c-6297-4a91-bbf7-b21014684b3f/tinti-kinder-badezusatz-badeueberraschung-set-3tlg"
+        },
+        {
+          "alt": "Kinder Badezusatz Badeüberraschung Set  3tlg Tinti",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758618286/assets/pas/images/33780668-f212-400f-9100-cb343090e070/tinti-kinder-badezusatz-badeueberraschung-set-3tlg"
+        },
+        {
+          "alt": "Kinder Badezusatz Badeüberraschung Set  3tlg Tinti",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758618345/assets/pas/images/f452eec4-b69e-4e32-b731-628edbdb9014/tinti-kinder-badezusatz-badeueberraschung-set-3tlg"
+        },
+        {
+          "alt": "Kinder Badezusatz Badeüberraschung Set  3tlg Tinti",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904886/assets/pas/images/ac50ac33-dc3f-42c9-b2a1-4302abec2c77/tinti-kinder-badezusatz-badeueberraschung-set-3tlg"
+        },
+        {
+          "alt": "Kinder Badezusatz Badeüberraschung Set  3tlg Tinti",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904844/assets/pas/images/e25765c8-7602-49af-9d8b-45cc1db76d31/tinti-kinder-badezusatz-badeueberraschung-set-3tlg"
+        },
+        {
+          "alt": "Kinder Badezusatz Badeüberraschung Set  3tlg Tinti",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904799/assets/pas/images/b8e9b661-eda8-43a1-b2da-6644a68a510f/tinti-kinder-badezusatz-badeueberraschung-set-3tlg"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (2,06 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (2,45 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 22,
+        "ratingValue": 4.2727
+      },
+      "self": "/p/d/3105068/tinti-kinder-badezusatz-badeueberraschung-set-3tlg",
+      "title": {
+        "tileHeadline": "Kinder Badezusatz Badeüberraschung Set  3tlg, 1 St",
+        "tileHeadlineLong": "Kinder Badezusatz Badeüberraschung Set  3tlg, 1 St"
+      },
+      "trackingData": {
+        "brand": "Tinti",
+        "categories": [
+          "Kinderbadezusätze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2727,
+        "ratingCount": 22
+      }
+    }
+  },
+  {
+    "gtin": 4066447884609,
+    "dan": 1621890,
+    "brandName": "dmBio",
+    "title": "Kaffee, Caffè Crema Pads, 154 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee, Caffè Crema Pads, 154 g; Preis: 2,65 €; Grundpreis: 22 St (0,12 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1621890,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447884609,
+      "images": [
+        {
+          "alt": "Kaffee, Caffè Crema Pads dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768351052/assets/pas/images/4aab78cf-4a95-4684-94a1-325df82b708c/dmbio-kaffee-caffe-crema-pads"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema Pads dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768351071/assets/pas/images/cd270d3f-6dd0-47a7-ae54-f54485c54a91/dmbio-kaffee-caffe-crema-pads"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema Pads dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768351061/assets/pas/images/033c4616-7b8f-4044-8720-f0ce27da87bf/dmbio-kaffee-caffe-crema-pads"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema Pads dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768351066/assets/pas/images/83346acd-bbd6-4511-ae09-f34d432388c9/dmbio-kaffee-caffe-crema-pads"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "22 St (0,11 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "22 St (0,12 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 179,
+        "ratingValue": 4.257
+      },
+      "self": "/p/d/1621890/dmbio-kaffee-caffe-crema-pads",
+      "title": {
+        "tileHeadline": "Kaffee, Caffè Crema Pads, 154 g",
+        "tileHeadlineLong": "Kaffee, Caffè Crema Pads, 154 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.257,
+        "ratingCount": 179
+      }
+    }
+  }
+]

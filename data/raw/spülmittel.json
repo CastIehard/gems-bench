@@ -1,0 +1,2960 @@
+[
+  {
+    "gtin": 4001499964428,
+    "dan": 1473829,
+    "brandName": "Frosch",
+    "title": "Spülmittel-Lotion Aloe Vera Nachfüllbeutel, 800 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch; Produktname: Spülmittel-Lotion Aloe Vera Nachfüllbeutel, 800 ml; Preis: 2,75 €; Grundpreis: 0,8 l (3,44 € je 1 l)",
+      "brand": {
+        "name": "Frosch"
+      },
+      "dan": 1473829,
+      "gtin": 4001499964428,
+      "images": [
+        {
+          "alt": "Spülmittel-Lotion Aloe Vera Nachfüllbeutel Frosch",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429717/assets/pas/images/2bfff22f-4e05-4ece-95e1-f1d2c0e1210e/frosch-spuelmittel-lotion-aloe-vera-nachfuellbeutel"
+        },
+        {
+          "alt": "Spülmittel-Lotion Aloe Vera Nachfüllbeutel Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429873/assets/pas/images/09e631ab-6146-4558-8de3-42cfa966ffe3/frosch-spuelmittel-lotion-aloe-vera-nachfuellbeutel"
+        },
+        {
+          "alt": "Spülmittel-Lotion Aloe Vera Nachfüllbeutel Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429905/assets/pas/images/cdec42ae-56c5-429b-a6b5-9545bcd9fd18/frosch-spuelmittel-lotion-aloe-vera-nachfuellbeutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,8 l (2,89 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,8 l (3,44 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 113,
+        "ratingValue": 4.646
+      },
+      "self": "/p/d/1473829/frosch-spuelmittel-lotion-aloe-vera-nachfuellbeutel",
+      "title": {
+        "tileHeadline": "Spülmittel-Lotion Aloe Vera Nachfüllbeutel, 800 ml",
+        "tileHeadlineLong": "Spülmittel-Lotion Aloe Vera Nachfüllbeutel, 800 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.646,
+        "ratingCount": 113
+      }
+    }
+  },
+  {
+    "gtin": 8700216621380,
+    "dan": 2969163,
+    "brandName": "FAIRY",
+    "title": "Spülmittel Pinke Jasminblüte, 520 ml",
+    "tileData": {
+      "a11yLabel": "Marke: FAIRY; Produktname: Spülmittel Pinke Jasminblüte, 520 ml; Preis: 1,85 €; Grundpreis: 0,52 l (3,56 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "FAIRY"
+      },
+      "dan": 2969163,
+      "gtin": 8700216621380,
+      "images": [
+        {
+          "alt": "Spülmittel Pinke Jasminblüte  FAIRY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766099306/assets/pas/images/7bdf8a8b-e2a3-4b63-ae03-078178147d82/fairy-spuelmittel-pinke-jasminbluete"
+        },
+        {
+          "alt": "Spülmittel Pinke Jasminblüte  FAIRY",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766099298/assets/pas/images/571fd474-402b-4767-8c68-4b7fd7ad4f15/fairy-spuelmittel-pinke-jasminbluete"
+        },
+        {
+          "alt": "Spülmittel Pinke Jasminblüte  FAIRY",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766099272/assets/pas/images/559c3d2e-62c1-431a-814c-f17419c6eea6/fairy-spuelmittel-pinke-jasminbluete"
+        },
+        {
+          "alt": "Spülmittel Pinke Jasminblüte  FAIRY",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766099281/assets/pas/images/596503c2-f1e8-49df-944d-b4d5255ecde9/fairy-spuelmittel-pinke-jasminbluete"
+        },
+        {
+          "alt": "Spülmittel Pinke Jasminblüte  FAIRY",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766099289/assets/pas/images/b844cb6b-b98d-4dc3-a2da-581e23a213e2/fairy-spuelmittel-pinke-jasminbluete"
+        },
+        {
+          "alt": "Spülmittel Pinke Jasminblüte  FAIRY",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530525/assets/pas/images/8c07128e-ab88-49f2-a220-69d0f0c48ae1/fairy-spuelmittel-pinke-jasminbluete"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,52 l (2,99 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,52 l (3,56 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.825
+      },
+      "self": "/p/d/2969163/fairy-spuelmittel-pinke-jasminbluete",
+      "title": {
+        "tileHeadline": "Spülmittel Pinke Jasminblüte, 520 ml",
+        "tileHeadlineLong": "Spülmittel Pinke Jasminblüte, 520 ml"
+      },
+      "trackingData": {
+        "brand": "FAIRY",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.825,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 8700216621397,
+    "dan": 2969106,
+    "brandName": "FAIRY",
+    "title": "Spülmittel Original, 520 ml",
+    "tileData": {
+      "a11yLabel": "Marke: FAIRY; Produktname: Spülmittel Original, 520 ml; Preis: 1,85 €; Grundpreis: 0,52 l (3,56 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "FAIRY"
+      },
+      "dan": 2969106,
+      "gtin": 8700216621397,
+      "images": [
+        {
+          "alt": "Spülmittel Original  FAIRY",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771112664/assets/pas/images/3c77ce21-312f-466b-8fe5-e0e271151719/fairy-spuelmittel-original"
+        },
+        {
+          "alt": "Spülmittel Original  FAIRY",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771112654/assets/pas/images/a8894e65-678a-4706-9136-05516bb59af0/fairy-spuelmittel-original"
+        },
+        {
+          "alt": "Spülmittel Original  FAIRY",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530525/assets/pas/images/c6ec4c76-579e-4e1d-b358-145e4b449dba/fairy-spuelmittel-original"
+        },
+        {
+          "alt": "Spülmittel Original  FAIRY",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529946/assets/pas/images/bc122213-7001-4842-b7ab-9c0c51758fcd/fairy-spuelmittel-original"
+        },
+        {
+          "alt": "Spülmittel Original  FAIRY",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530674/assets/pas/images/6c08d771-90e5-44a0-9424-ba44620989c9/fairy-spuelmittel-original"
+        },
+        {
+          "alt": "Spülmittel Original  FAIRY",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772666936/assets/pas/images/f7165c2c-dd34-4919-a865-a0b956497335/fairy-spuelmittel-original"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,52 l (2,99 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,52 l (3,56 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.8721
+      },
+      "self": "/p/d/2969106/fairy-spuelmittel-original",
+      "title": {
+        "tileHeadline": "Spülmittel Original, 520 ml",
+        "tileHeadlineLong": "Spülmittel Original, 520 ml"
+      },
+      "trackingData": {
+        "brand": "FAIRY",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8721,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4013162023967,
+    "dan": 1599821,
+    "brandName": "fit",
+    "title": "Spülmittel Limette & Rosmarin, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: fit; Produktname: Spülmittel Limette & Rosmarin, 400 ml; Preis: 1,95 €; Grundpreis: 0,4 l (4,88 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "fit"
+      },
+      "dan": 1599821,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4013162023967,
+      "images": [
+        {
+          "alt": "Spülmittel Limette & Rosmarin fit",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439489/assets/pas/images/c9415979-0812-41e2-9a61-f6a784ca2420/fit-spuelmittel-limette-und-rosmarin"
+        },
+        {
+          "alt": "Spülmittel Limette & Rosmarin fit",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439706/assets/pas/images/a333ff11-7625-462c-9b22-78cd07b7ba95/fit-spuelmittel-limette-und-rosmarin"
+        },
+        {
+          "alt": "Spülmittel Limette & Rosmarin fit",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439615/assets/pas/images/214be715-17db-4ab9-9761-791d87ba68d3/fit-spuelmittel-limette-und-rosmarin"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (4,10 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (4,88 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 115,
+        "ratingValue": 4.5304
+      },
+      "self": "/p/d/1599821/fit-spuelmittel-limette-und-rosmarin",
+      "title": {
+        "tileHeadline": "Spülmittel Limette & Rosmarin, 400 ml",
+        "tileHeadlineLong": "Spülmittel Limette & Rosmarin, 400 ml"
+      },
+      "trackingData": {
+        "brand": "fit",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5304,
+        "ratingCount": 115
+      }
+    }
+  },
+  {
+    "gtin": 8006540422731,
+    "dan": 1918444,
+    "brandName": "FAIRY",
+    "title": "Spülmittel Max Power Original, 545 ml",
+    "tileData": {
+      "a11yLabel": "Marke: FAIRY; Produktname: Spülmittel Max Power Original, 545 ml; Preis: 2,95 €; Grundpreis: 0,545 l (5,41 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "FAIRY"
+      },
+      "dan": 1918444,
+      "gtin": 8006540422731,
+      "images": [
+        {
+          "alt": "Spülmittel Max Power Original  FAIRY",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747516126/assets/pas/images/28e09454-c2e5-457d-814f-d707aa367dac/fairy-spuelmittel-max-power-original"
+        },
+        {
+          "alt": "Spülmittel Max Power Original  FAIRY",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747602472/assets/pas/images/6ab4dba0-5dfd-4d32-9344-fe297e44fbf7/fairy-spuelmittel-max-power-original"
+        },
+        {
+          "alt": "Spülmittel Max Power Original  FAIRY",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747602468/assets/pas/images/e49a3b5a-ed2a-48bf-b958-20acd5b552c9/fairy-spuelmittel-max-power-original"
+        },
+        {
+          "alt": "Spülmittel Max Power Original  FAIRY",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747515537/assets/pas/images/0aa242a1-bd7f-42ed-bdfa-faae27284c5f/fairy-spuelmittel-max-power-original"
+        },
+        {
+          "alt": "Spülmittel Max Power Original  FAIRY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747515765/assets/pas/images/f200df83-7226-4bb5-9bf5-a7a4bc093a85/fairy-spuelmittel-max-power-original"
+        },
+        {
+          "alt": "Spülmittel Max Power Original  FAIRY",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747516126/assets/pas/images/d6de2d81-af8c-46a7-8781-c693d407a932/fairy-spuelmittel-max-power-original"
+        },
+        {
+          "alt": "Spülmittel Max Power Original  FAIRY",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747515552/assets/pas/images/31035f40-1671-4216-8604-c460efcaabd8/fairy-spuelmittel-max-power-original"
+        },
+        {
+          "alt": "Spülmittel Max Power Original  FAIRY",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747516125/assets/pas/images/2aeb654d-f225-4ffe-bd1e-e9024bafc1ee/fairy-spuelmittel-max-power-original"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,545 l (4,55 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,545 l (5,41 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1974,
+        "ratingValue": 4.884
+      },
+      "self": "/p/d/1918444/fairy-spuelmittel-max-power-original",
+      "title": {
+        "tileHeadline": "Spülmittel Max Power Original, 545 ml",
+        "tileHeadlineLong": "Spülmittel Max Power Original, 545 ml"
+      },
+      "trackingData": {
+        "brand": "FAIRY",
+        "categories": [
+          "Putzen & Reinigen",
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8841,
+        "ratingCount": 1975
+      }
+    }
+  },
+  {
+    "gtin": 5412533416862,
+    "dan": 1540209,
+    "brandName": "ECOVER",
+    "title": "Spülmittel Zitrone & Aloe Vera, 450 ml",
+    "tileData": {
+      "a11yLabel": "Marke: ECOVER; Produktname: Spülmittel Zitrone & Aloe Vera, 450 ml; Preis: 1,95 €; Grundpreis: 0,45 l (4,33 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "ECOVER"
+      },
+      "dan": 1540209,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 5412533416862,
+      "images": [
+        {
+          "alt": "Spülmittel Zitrone & Aloe Vera ECOVER",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501712/assets/pas/images/f2742ba3-27fb-464a-80f1-f627ab814879/ecover-spuelmittel-zitrone-und-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel Zitrone & Aloe Vera ECOVER",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784080932/assets/pas/images/371732ed-5d18-4454-87d6-bafd12d31e89/ecover-spuelmittel-zitrone-und-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel Zitrone & Aloe Vera ECOVER",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501605/assets/pas/images/eda0b99e-85f5-49a1-99a0-a699bb058ff8/ecover-spuelmittel-zitrone-und-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel Zitrone & Aloe Vera ECOVER",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501604/assets/pas/images/149c62bd-a56d-490d-ab94-8276c88eca80/ecover-spuelmittel-zitrone-und-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel Zitrone & Aloe Vera ECOVER",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759915781/assets/pas/images/9014fd21-c7c9-4ec9-80d9-e7b3543a1728/ecover-spuelmittel-zitrone-und-aloe-vera"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (3,64 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (4,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 96,
+        "ratingValue": 4.7604
+      },
+      "self": "/p/d/1540209/ecover-spuelmittel-zitrone-und-aloe-vera",
+      "title": {
+        "tileHeadline": "Spülmittel Zitrone & Aloe Vera, 450 ml",
+        "tileHeadlineLong": "Spülmittel Zitrone & Aloe Vera, 450 ml"
+      },
+      "trackingData": {
+        "brand": "ECOVER",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7604,
+        "ratingCount": 96
+      }
+    }
+  },
+  {
+    "gtin": 4013162023929,
+    "dan": 1599819,
+    "brandName": "fit",
+    "title": "Spülmittel Hibiskus & Roter Pfeffer, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: fit; Produktname: Spülmittel Hibiskus & Roter Pfeffer, 400 ml; Preis: 1,95 €; Grundpreis: 0,4 l (4,88 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "fit"
+      },
+      "dan": 1599819,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4013162023929,
+      "images": [
+        {
+          "alt": "Spülmittel Hibiskus & Roter Pfeffer fit",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439540/assets/pas/images/43b6e352-a3c1-4145-95d1-39c020f268af/fit-spuelmittel-hibiskus-und-roter-pfeffer"
+        },
+        {
+          "alt": "Spülmittel Hibiskus & Roter Pfeffer fit",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439617/assets/pas/images/8b0d943d-5222-4f40-b058-6538fd4316cf/fit-spuelmittel-hibiskus-und-roter-pfeffer"
+        },
+        {
+          "alt": "Spülmittel Hibiskus & Roter Pfeffer fit",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439618/assets/pas/images/d24d04d0-b23b-44c6-9561-f5585a294d57/fit-spuelmittel-hibiskus-und-roter-pfeffer"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (4,10 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (4,88 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 119,
+        "ratingValue": 4.6975
+      },
+      "self": "/p/d/1599819/fit-spuelmittel-hibiskus-und-roter-pfeffer",
+      "title": {
+        "tileHeadline": "Spülmittel Hibiskus & Roter Pfeffer, 400 ml",
+        "tileHeadlineLong": "Spülmittel Hibiskus & Roter Pfeffer, 400 ml"
+      },
+      "trackingData": {
+        "brand": "fit",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6975,
+        "ratingCount": 119
+      }
+    }
+  },
+  {
+    "gtin": 4015200035628,
+    "dan": 1459444,
+    "brandName": "Pril",
+    "title": "Spülmittel Original, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Pril; Produktname: Spülmittel Original, 750 ml; Preis: 1,85 €; Grundpreis: 0,75 l (2,47 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Pril"
+      },
+      "dan": 1459444,
+      "gtin": 4015200035628,
+      "images": [
+        {
+          "alt": "Spülmittel Original Pril",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773962197/assets/pas/images/af46ddb3-dd24-41df-b85b-1727273f410f/pril-spuelmittel-original"
+        },
+        {
+          "alt": "Spülmittel Original Pril",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773962204/assets/pas/images/7002882e-154a-4c6b-85d6-405e22af264d/pril-spuelmittel-original"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,08 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,47 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 103,
+        "ratingValue": 4.8835
+      },
+      "self": "/p/d/1459444/pril-spuelmittel-original",
+      "title": {
+        "tileHeadline": "Spülmittel Original, 750 ml",
+        "tileHeadlineLong": "Spülmittel Original, 750 ml"
+      },
+      "trackingData": {
+        "brand": "Pril",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8835,
+        "ratingCount": 103
+      }
+    }
+  },
+  {
+    "gtin": 8006530232067,
+    "dan": 3120504,
+    "brandName": "FAIRY",
+    "title": "Spülmittel Max Power Granatapfel, 545 ml",
+    "tileData": {
+      "a11yLabel": "Marke: FAIRY; Produktname: Spülmittel Max Power Granatapfel, 545 ml; Preis: 2,95 €; Grundpreis: 0,545 l (5,41 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "FAIRY"
+      },
+      "dan": 3120504,
+      "gtin": 8006530232067,
+      "images": [
+        {
+          "alt": "Spülmittel Max Power Granatapfel  FAIRY",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770331450/assets/pas/images/76dcfcbc-ceda-4c33-99c5-27c5eb0c4fb3/fairy-spuelmittel-max-power-granatapfel"
+        },
+        {
+          "alt": "Spülmittel Max Power Granatapfel  FAIRY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770880300/assets/pas/images/9a327483-7290-4ff5-ae84-944a1a2d1949/fairy-spuelmittel-max-power-granatapfel"
+        },
+        {
+          "alt": "Spülmittel Max Power Granatapfel  FAIRY",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770331460/assets/pas/images/0c566e95-1e7e-42cf-9933-4270e16ff20d/fairy-spuelmittel-max-power-granatapfel"
+        },
+        {
+          "alt": "Spülmittel Max Power Granatapfel  FAIRY",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770331490/assets/pas/images/3eca6576-919e-470a-aae1-8d04d3451514/fairy-spuelmittel-max-power-granatapfel"
+        },
+        {
+          "alt": "Spülmittel Max Power Granatapfel  FAIRY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770331473/assets/pas/images/31f98b9d-b076-42bc-b77a-fa4a9673218a/fairy-spuelmittel-max-power-granatapfel"
+        },
+        {
+          "alt": "Spülmittel Max Power Granatapfel  FAIRY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770331482/assets/pas/images/6268c25b-09b0-4ccc-8c5d-94ab251119de/fairy-spuelmittel-max-power-granatapfel"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,545 l (4,55 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,545 l (5,41 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.8462
+      },
+      "self": "/p/d/3120504/fairy-spuelmittel-max-power-granatapfel",
+      "title": {
+        "tileHeadline": "Spülmittel Max Power Granatapfel, 545 ml",
+        "tileHeadlineLong": "Spülmittel Max Power Granatapfel, 545 ml"
+      },
+      "trackingData": {
+        "brand": "FAIRY",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8462,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 4013162033294,
+    "dan": 1695152,
+    "brandName": "fit",
+    "title": "Spülmittel Original, 635 ml",
+    "tileData": {
+      "a11yLabel": "Marke: fit; Produktname: Spülmittel Original, 635 ml; Preis: 1,85 €; Grundpreis: 0,635 l (2,91 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "fit"
+      },
+      "dan": 1695152,
+      "gtin": 4013162033294,
+      "images": [
+        {
+          "alt": "Spülmittel Original fit",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439496/assets/pas/images/3b578ea5-c743-4a78-854a-5b612c70aa10/fit-spuelmittel-original"
+        },
+        {
+          "alt": "Spülmittel Original fit",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439495/assets/pas/images/44ba4615-adf7-4d81-8db1-6a3391fbec78/fit-spuelmittel-original"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,635 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,635 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 113,
+        "ratingValue": 4.6372
+      },
+      "self": "/p/d/1695152/fit-spuelmittel-original",
+      "title": {
+        "tileHeadline": "Spülmittel Original, 635 ml",
+        "tileHeadlineLong": "Spülmittel Original, 635 ml"
+      },
+      "trackingData": {
+        "brand": "fit",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6372,
+        "ratingCount": 113
+      }
+    }
+  },
+  {
+    "gtin": 5412533417203,
+    "dan": 1536310,
+    "brandName": "ECOVER",
+    "title": "Spülmittel Zitrone & Aloe Vera, 950 ml",
+    "tileData": {
+      "a11yLabel": "Marke: ECOVER; Produktname: Spülmittel Zitrone & Aloe Vera, 950 ml; Preis: 3,95 €; Grundpreis: 0,95 l (4,16 € je 1 l); Nur Online Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "ECOVER"
+      },
+      "dan": 1536310,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 5412533417203,
+      "images": [
+        {
+          "alt": "Spülmittel Zitrone & Aloe Vera ECOVER",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748989594/assets/pas/images/bd52b554-5ddd-44ce-a8f0-e0349e38465f/ecover-spuelmittel-zitrone-und-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel Zitrone & Aloe Vera ECOVER",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748989582/assets/pas/images/2934b7ea-d011-4421-8969-4f0b692b4d4b/ecover-spuelmittel-zitrone-und-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel Zitrone & Aloe Vera ECOVER",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501561/assets/pas/images/9efd8dba-a936-4b2b-9076-1715b095853b/ecover-spuelmittel-zitrone-und-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel Zitrone & Aloe Vera ECOVER",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501642/assets/pas/images/0baf9e67-0cb6-472e-9201-21d9284c3215/ecover-spuelmittel-zitrone-und-aloe-vera"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,95 l (3,50 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,95 l (4,16 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.7714
+      },
+      "self": "/p/d/1536310/ecover-spuelmittel-zitrone-und-aloe-vera",
+      "title": {
+        "tileHeadline": "Spülmittel Zitrone & Aloe Vera, 950 ml",
+        "tileHeadlineLong": "Spülmittel Zitrone & Aloe Vera, 950 ml"
+      },
+      "trackingData": {
+        "brand": "ECOVER",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7714,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4001499964558,
+    "dan": 1600638,
+    "brandName": "Frosch",
+    "title": "Spülmittel-Gel Himbeer, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch; Produktname: Spülmittel-Gel Himbeer, 500 ml; Preis: 1,95 €; Grundpreis: 0,5 l (3,90 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Frosch"
+      },
+      "dan": 1600638,
+      "gtin": 4001499964558,
+      "images": [
+        {
+          "alt": "Spülmittel-Gel Himbeer Frosch",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429719/assets/pas/images/a5f0283f-dd18-4d42-aa63-b29e077968d5/frosch-spuelmittel-gel-himbeer"
+        },
+        {
+          "alt": "Spülmittel-Gel Himbeer Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755035756/assets/pas/images/49ef5b63-cb78-4807-89f5-fb522911e8d2/frosch-spuelmittel-gel-himbeer"
+        },
+        {
+          "alt": "Spülmittel-Gel Himbeer Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429625/assets/pas/images/ee3f871b-bf37-4667-8629-b41a3c0e8f68/frosch-spuelmittel-gel-himbeer"
+        },
+        {
+          "alt": "Spülmittel-Gel Himbeer Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429624/assets/pas/images/6fd4aa90-7573-4156-be36-a7e0b290f519/frosch-spuelmittel-gel-himbeer"
+        },
+        {
+          "alt": "Spülmittel-Gel Himbeer Frosch",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429626/assets/pas/images/0ad464b0-75fa-40db-b18f-46a2ee67ceec/frosch-spuelmittel-gel-himbeer"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 4.8351
+      },
+      "self": "/p/d/1600638/frosch-spuelmittel-gel-himbeer",
+      "title": {
+        "tileHeadline": "Spülmittel-Gel Himbeer, 500 ml",
+        "tileHeadlineLong": "Spülmittel-Gel Himbeer, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8351,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 8700216621342,
+    "dan": 2969108,
+    "brandName": "FAIRY",
+    "title": "Spülmittel Frische Brise, 520 ml",
+    "tileData": {
+      "a11yLabel": "Marke: FAIRY; Produktname: Spülmittel Frische Brise, 520 ml; Preis: 1,85 €; Grundpreis: 0,52 l (3,56 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "FAIRY"
+      },
+      "dan": 2969108,
+      "gtin": 8700216621342,
+      "images": [
+        {
+          "alt": "Spülmittel Frische Brise  FAIRY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766100263/assets/pas/images/d7d3d60d-7d79-4e27-8d45-9c80213f988e/fairy-spuelmittel-frische-brise"
+        },
+        {
+          "alt": "Spülmittel Frische Brise  FAIRY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780007699/assets/pas/images/29abd22e-cd74-4aa3-a7e9-ef41fb5e6879/fairy-spuelmittel-frische-brise"
+        },
+        {
+          "alt": "Spülmittel Frische Brise  FAIRY",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766100253/assets/pas/images/2b3fad0c-ac5f-4f60-8df2-735469a596ba/fairy-spuelmittel-frische-brise"
+        },
+        {
+          "alt": "Spülmittel Frische Brise  FAIRY",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766100273/assets/pas/images/141f4a99-7746-41d6-b878-aa31895d04c4/fairy-spuelmittel-frische-brise"
+        },
+        {
+          "alt": "Spülmittel Frische Brise  FAIRY",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766100282/assets/pas/images/9ce081de-a4bf-4b62-b34c-284687f40dee/fairy-spuelmittel-frische-brise"
+        },
+        {
+          "alt": "Spülmittel Frische Brise  FAIRY",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530447/assets/pas/images/8ab74c43-8a1c-4f23-9e2c-d83314a3ce54/fairy-spuelmittel-frische-brise"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,52 l (2,99 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,52 l (3,56 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.8689
+      },
+      "self": "/p/d/2969108/fairy-spuelmittel-frische-brise",
+      "title": {
+        "tileHeadline": "Spülmittel Frische Brise, 520 ml",
+        "tileHeadlineLong": "Spülmittel Frische Brise, 520 ml"
+      },
+      "trackingData": {
+        "brand": "FAIRY",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8689,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 5412533417227,
+    "dan": 1540222,
+    "brandName": "ECOVER",
+    "title": "Spülmittel Granatapfel & Feige, 450 ml",
+    "tileData": {
+      "a11yLabel": "Marke: ECOVER; Produktname: Spülmittel Granatapfel & Feige, 450 ml; Preis: 1,95 €; Grundpreis: 0,45 l (4,33 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "ECOVER"
+      },
+      "dan": 1540222,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 5412533417227,
+      "images": [
+        {
+          "alt": "Spülmittel Granatapfel & Feige ECOVER",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748990472/assets/pas/images/93b5a5e1-45b5-47dc-8904-31adfa97b483/ecover-spuelmittel-granatapfel-und-feige"
+        },
+        {
+          "alt": "Spülmittel Granatapfel & Feige ECOVER",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748990482/assets/pas/images/d851eec2-0acb-49af-9d68-3524666b51f5/ecover-spuelmittel-granatapfel-und-feige"
+        },
+        {
+          "alt": "Spülmittel Granatapfel & Feige ECOVER",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786366/assets/pas/images/01d7546b-c55b-43bf-9588-403a279019c3/ecover-spuelmittel-granatapfel-und-feige"
+        },
+        {
+          "alt": "Spülmittel Granatapfel & Feige ECOVER",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786358/assets/pas/images/85c13027-4d47-43e0-9db5-cd8d17a3ff21/ecover-spuelmittel-granatapfel-und-feige"
+        },
+        {
+          "alt": "Spülmittel Granatapfel & Feige ECOVER",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786376/assets/pas/images/2dd10531-6b94-4397-9c5d-84f7e4108a9f/ecover-spuelmittel-granatapfel-und-feige"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (3,64 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (4,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.8434
+      },
+      "self": "/p/d/1540222/ecover-spuelmittel-granatapfel-und-feige",
+      "title": {
+        "tileHeadline": "Spülmittel Granatapfel & Feige, 450 ml",
+        "tileHeadlineLong": "Spülmittel Granatapfel & Feige, 450 ml"
+      },
+      "trackingData": {
+        "brand": "ECOVER",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8434,
+        "ratingCount": 83
+      }
+    }
+  },
+  {
+    "gtin": 8700216621427,
+    "dan": 2969107,
+    "brandName": "FAIRY",
+    "title": "Spülmittel Zitrone, 520 ml",
+    "tileData": {
+      "a11yLabel": "Marke: FAIRY; Produktname: Spülmittel Zitrone, 520 ml; Preis: 1,85 €; Grundpreis: 0,52 l (3,56 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "FAIRY"
+      },
+      "dan": 2969107,
+      "gtin": 8700216621427,
+      "images": [
+        {
+          "alt": "Spülmittel Zitrone FAIRY",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766097320/assets/pas/images/de8ac2e6-b103-452a-9b21-35fe7bfc2ca1/fairy-spuelmittel-zitrone"
+        },
+        {
+          "alt": "Spülmittel Zitrone FAIRY",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766097311/assets/pas/images/72c1fee0-6b4b-4f0c-b8e8-7ac6bf1d9689/fairy-spuelmittel-zitrone"
+        },
+        {
+          "alt": "Spülmittel Zitrone FAIRY",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773964538/assets/pas/images/53eb922a-d11c-4176-a29a-6fbf046653ad/fairy-spuelmittel-zitrone"
+        },
+        {
+          "alt": "Spülmittel Zitrone FAIRY",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530525/assets/pas/images/acfba88b-8dac-4894-8b99-745eee7c3e81/fairy-spuelmittel-zitrone"
+        },
+        {
+          "alt": "Spülmittel Zitrone FAIRY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766270517/assets/pas/images/8c3757c8-0171-4381-98f0-cb2ed480d465/fairy-spuelmittel-zitrone"
+        },
+        {
+          "alt": "Spülmittel Zitrone FAIRY",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766270498/assets/pas/images/a4baaf59-e7d8-4458-9bec-22a4c6337c3d/fairy-spuelmittel-zitrone"
+        },
+        {
+          "alt": "Spülmittel Zitrone FAIRY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766270507/assets/pas/images/14265b48-a931-4efd-84a5-d8d1be6d7572/fairy-spuelmittel-zitrone"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,52 l (2,99 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,52 l (3,56 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.8525
+      },
+      "self": "/p/d/2969107/fairy-spuelmittel-zitrone",
+      "title": {
+        "tileHeadline": "Spülmittel Zitrone, 520 ml",
+        "tileHeadlineLong": "Spülmittel Zitrone, 520 ml"
+      },
+      "trackingData": {
+        "brand": "FAIRY",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8525,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4001499964510,
+    "dan": 1119649,
+    "brandName": "Frosch",
+    "title": "Spülmittel-Lotion Aloe Vera, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch; Produktname: Spülmittel-Lotion Aloe Vera, 500 ml; Preis: 1,95 €; Grundpreis: 0,5 l (3,90 € je 1 l)",
+      "brand": {
+        "name": "Frosch"
+      },
+      "dan": 1119649,
+      "gtin": 4001499964510,
+      "images": [
+        {
+          "alt": "Spülmittel-Lotion Aloe Vera Frosch",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429629/assets/pas/images/14fd6c24-2305-4253-a917-c94e4c1bfe83/frosch-spuelmittel-lotion-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel-Lotion Aloe Vera Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429630/assets/pas/images/b44f72db-3f12-40f8-923c-6b296ef52c96/frosch-spuelmittel-lotion-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel-Lotion Aloe Vera Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429628/assets/pas/images/ff91851e-fd6b-44f1-9ce4-4a5606be11f8/frosch-spuelmittel-lotion-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel-Lotion Aloe Vera Frosch",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429630/assets/pas/images/c229b545-033d-45dc-891d-78f400ebf8aa/frosch-spuelmittel-lotion-aloe-vera"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 89,
+        "ratingValue": 4.2809
+      },
+      "self": "/p/d/1119649/frosch-spuelmittel-lotion-aloe-vera",
+      "title": {
+        "tileHeadline": "Spülmittel-Lotion Aloe Vera, 500 ml",
+        "tileHeadlineLong": "Spülmittel-Lotion Aloe Vera, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2809,
+        "ratingCount": 89
+      }
+    }
+  },
+  {
+    "gtin": 4015200035666,
+    "dan": 1473937,
+    "brandName": "Pril",
+    "title": "Spülmittel Beeren & Pfirsich, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Pril; Produktname: Spülmittel Beeren & Pfirsich, 750 ml; Preis: 1,85 €; Grundpreis: 0,75 l (2,47 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Pril"
+      },
+      "dan": 1473937,
+      "gtin": 4015200035666,
+      "images": [
+        {
+          "alt": "Spülmittel Beeren & Pfirsich  Pril",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966357/assets/pas/images/1d2a8d13-6148-43fa-b7d5-337403799cec/pril-spuelmittel-beeren-und-pfirsich"
+        },
+        {
+          "alt": "Spülmittel Beeren & Pfirsich  Pril",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966350/assets/pas/images/438ef6b3-7eb9-459a-8dbc-82c58d9c50bb/pril-spuelmittel-beeren-und-pfirsich"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,08 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,47 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 105,
+        "ratingValue": 4.5143
+      },
+      "self": "/p/d/1473937/pril-spuelmittel-beeren-und-pfirsich",
+      "title": {
+        "tileHeadline": "Spülmittel Beeren & Pfirsich, 750 ml",
+        "tileHeadlineLong": "Spülmittel Beeren & Pfirsich, 750 ml"
+      },
+      "trackingData": {
+        "brand": "Pril",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5143,
+        "ratingCount": 105
+      }
+    }
+  },
+  {
+    "gtin": 4262376082103,
+    "dan": 3096652,
+    "brandName": "nordesign",
+    "title": "Spülmittel Mandarin & Lime, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: nordesign; Produktname: Spülmittel Mandarin & Lime, 300 ml; Preis: 2,75 €; Grundpreis: 0,3 l (9,17 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "nordesign"
+      },
+      "dan": 3096652,
+      "gtin": 4262376082103,
+      "images": [
+        {
+          "alt": "Spülmittel Mandarin & Lime nordesign",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149790/assets/pas/images/6975ea94-d0fe-4595-bfd8-5e1d3ff16414/nordesign-spuelmittel-mandarin-und-lime"
+        },
+        {
+          "alt": "Spülmittel Mandarin & Lime nordesign",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149797/assets/pas/images/19755058-be2b-458a-940e-b1e4914440f7/nordesign-spuelmittel-mandarin-und-lime"
+        },
+        {
+          "alt": "Spülmittel Mandarin & Lime nordesign",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149809/assets/pas/images/dcdd4276-ff5c-4913-97da-63bb9875d47a/nordesign-spuelmittel-mandarin-und-lime"
+        },
+        {
+          "alt": "Spülmittel Mandarin & Lime nordesign",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149827/assets/pas/images/ab469530-d639-4376-b132-9a3061631798/nordesign-spuelmittel-mandarin-und-lime"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (7,71 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (9,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 37,
+        "ratingValue": 4.0
+      },
+      "self": "/p/d/3096652/nordesign-spuelmittel-mandarin-und-lime",
+      "title": {
+        "tileHeadline": "Spülmittel Mandarin & Lime, 300 ml",
+        "tileHeadlineLong": "Spülmittel Mandarin & Lime, 300 ml"
+      },
+      "trackingData": {
+        "brand": "nordesign",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0,
+        "ratingCount": 37
+      }
+    }
+  },
+  {
+    "gtin": 4013162031962,
+    "dan": 1646756,
+    "brandName": "fit",
+    "title": "Spülmittel Feigenblüte & Chili, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: fit; Produktname: Spülmittel Feigenblüte & Chili, 400 ml; Preis: 1,95 €; Grundpreis: 0,4 l (4,88 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "fit"
+      },
+      "dan": 1646756,
+      "gtin": 4013162031962,
+      "images": [
+        {
+          "alt": "Spülmittel Feigenblüte & Chili fit",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439745/assets/pas/images/28fe68ae-447f-4eb4-a109-53bb49713e10/fit-spuelmittel-feigenbluete-und-chili"
+        },
+        {
+          "alt": "Spülmittel Feigenblüte & Chili fit",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439586/assets/pas/images/937daf20-ca52-47e6-bee8-809e203f3ddb/fit-spuelmittel-feigenbluete-und-chili"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (4,10 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (4,88 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 71,
+        "ratingValue": 4.7465
+      },
+      "self": "/p/d/1646756/fit-spuelmittel-feigenbluete-und-chili",
+      "title": {
+        "tileHeadline": "Spülmittel Feigenblüte & Chili, 400 ml",
+        "tileHeadlineLong": "Spülmittel Feigenblüte & Chili, 400 ml"
+      },
+      "trackingData": {
+        "brand": "fit",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7465,
+        "ratingCount": 71
+      }
+    }
+  },
+  {
+    "gtin": 4001499964541,
+    "dan": 1395016,
+    "brandName": "Frosch",
+    "title": "Spülmittel Limonenfrische, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch; Produktname: Spülmittel Limonenfrische, 750 ml; Preis: 1,75 €; Grundpreis: 0,75 l (2,33 € je 1 l)",
+      "brand": {
+        "name": "Frosch"
+      },
+      "dan": 1395016,
+      "gtin": 4001499964541,
+      "images": [
+        {
+          "alt": "Spülmittel Limonenfrische Frosch",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759785457/assets/pas/images/ab0c5f64-346d-4b41-8761-0d8c3bfbdad0/frosch-spuelmittel-limonenfrische"
+        },
+        {
+          "alt": "Spülmittel Limonenfrische Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429871/assets/pas/images/da27f659-15c0-4598-be5e-65c9f30b43ef/frosch-spuelmittel-limonenfrische"
+        },
+        {
+          "alt": "Spülmittel Limonenfrische Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429870/assets/pas/images/62504729-38fb-40c0-af5c-1bc51a6f3eae/frosch-spuelmittel-limonenfrische"
+        },
+        {
+          "alt": "Spülmittel Limonenfrische Frosch",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429904/assets/pas/images/6c81bc37-f2c5-4f2c-931a-86d9fcfa7580/frosch-spuelmittel-limonenfrische"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (1,96 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 128,
+        "ratingValue": 4.4375
+      },
+      "self": "/p/d/1395016/frosch-spuelmittel-limonenfrische",
+      "title": {
+        "tileHeadline": "Spülmittel Limonenfrische, 750 ml",
+        "tileHeadlineLong": "Spülmittel Limonenfrische, 750 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4375,
+        "ratingCount": 128
+      }
+    }
+  },
+  {
+    "gtin": 4066447791099,
+    "dan": 1299311,
+    "brandName": "Denkmit",
+    "title": "Spülmittel Ultra Pro Climate, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Denkmit; Produktname: Spülmittel Ultra Pro Climate, 500 ml; Preis: 0,95 €; Grundpreis: 0,5 l (1,90 € je 1 l); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Denkmit"
+      },
+      "dan": 1299311,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4066447791099,
+      "images": [
+        {
+          "alt": "Spülmittel Ultra Pro Climate Denkmit",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755100651/assets/pas/images/cc54fb9c-0d2d-410f-9954-002f2ae8fdc2/denkmit-spuelmittel-ultra-pro-climate"
+        },
+        {
+          "alt": "Spülmittel Ultra Pro Climate Denkmit",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755100647/assets/pas/images/2c6c9fc1-ff18-406a-9c4a-76a30c3225e0/denkmit-spuelmittel-ultra-pro-climate"
+        },
+        {
+          "alt": "Spülmittel Ultra Pro Climate Denkmit",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486269/assets/pas/images/815b409b-ad97-4c1a-8f1c-72ee7305e895/denkmit-spuelmittel-ultra-pro-climate"
+        },
+        {
+          "alt": "Spülmittel Ultra Pro Climate Denkmit",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486375/assets/pas/images/c8174b6d-f547-47ed-a084-f7136d897f08/denkmit-spuelmittel-ultra-pro-climate"
+        },
+        {
+          "alt": "Spülmittel Ultra Pro Climate Denkmit",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759530445/assets/pas/images/d7928649-2b37-4029-baf8-60e200230b34/denkmit-spuelmittel-ultra-pro-climate"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (1,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (1,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 175,
+        "ratingValue": 3.9657
+      },
+      "self": "/p/d/1299311/denkmit-spuelmittel-ultra-pro-climate",
+      "title": {
+        "tileHeadline": "Spülmittel Ultra Pro Climate, 500 ml",
+        "tileHeadlineLong": "Spülmittel Ultra Pro Climate, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Denkmit",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9657,
+        "ratingCount": 175
+      }
+    }
+  },
+  {
+    "gtin": 4013162034086,
+    "dan": 1711029,
+    "brandName": "fit",
+    "title": "Spülmittel Naturals Mandelblüte & Granatapfel, 635 ml",
+    "tileData": {
+      "a11yLabel": "Marke: fit; Produktname: Spülmittel Naturals Mandelblüte & Granatapfel, 635 ml; Preis: 1,85 €; Grundpreis: 0,635 l (2,91 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "fit"
+      },
+      "dan": 1711029,
+      "gtin": 4013162034086,
+      "images": [
+        {
+          "alt": "Spülmittel Naturals Mandelblüte & Granatapfel fit",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439549/assets/pas/images/c20ccd58-7a23-4154-84dc-7a680618ea9f/fit-spuelmittel-naturals-mandelbluete-und-granatapfel"
+        },
+        {
+          "alt": "Spülmittel Naturals Mandelblüte & Granatapfel fit",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439717/assets/pas/images/e0c66e95-eb41-496f-8829-fdc8f809dca8/fit-spuelmittel-naturals-mandelbluete-und-granatapfel"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,635 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,635 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.6571
+      },
+      "self": "/p/d/1711029/fit-spuelmittel-naturals-mandelbluete-und-granatapfel",
+      "title": {
+        "tileHeadline": "Spülmittel Naturals Mandelblüte & Granatapfel, 635 ml",
+        "tileHeadlineLong": "Spülmittel Naturals Mandelblüte & Granatapfel, 635 ml"
+      },
+      "trackingData": {
+        "brand": "fit",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6571,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4070765012002,
+    "dan": 3123855,
+    "brandName": "Denkmit",
+    "title": "Spülmittel Paradise Bloom, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Denkmit; Produktname: Spülmittel Paradise Bloom, 300 ml; Preis: 1,45 €; Grundpreis: 0,3 l (4,83 € je 1 l); Neues Produkt Grafik, Marke von dm Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Denkmit"
+      },
+      "dan": 3123855,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765012002,
+      "images": [
+        {
+          "alt": "Spülmittel Paradise Bloom Denkmit",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776981752/assets/pas/images/d4ec84d1-b25c-4756-ad27-2278e751cc4b/denkmit-spuelmittel-paradise-bloom"
+        },
+        {
+          "alt": "Spülmittel Paradise Bloom Denkmit",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776981748/assets/pas/images/24f065fe-15e5-4b7e-a827-b1071187228e/denkmit-spuelmittel-paradise-bloom"
+        },
+        {
+          "alt": "Spülmittel Paradise Bloom Denkmit",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776981745/assets/pas/images/860860d2-a2c6-4011-8523-a3d8f7d1cdcc/denkmit-spuelmittel-paradise-bloom"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 3.4444
+      },
+      "self": "/p/d/3123855/denkmit-spuelmittel-paradise-bloom",
+      "title": {
+        "tileHeadline": "Spülmittel Paradise Bloom, 300 ml",
+        "tileHeadlineLong": "Spülmittel Paradise Bloom, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Denkmit",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.4444,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 4001499963506,
+    "dan": 1691878,
+    "brandName": "Frosch",
+    "title": "Spülmittel Zitronenminze, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch; Produktname: Spülmittel Zitronenminze, 500 ml; Preis: 1,95 €; Grundpreis: 0,5 l (3,90 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Frosch"
+      },
+      "dan": 1691878,
+      "gtin": 4001499963506,
+      "images": [
+        {
+          "alt": "Spülmittel Zitronenminze Frosch",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429624/assets/pas/images/ac856519-d997-4330-b05a-f922279c3ae4/frosch-spuelmittel-zitronenminze"
+        },
+        {
+          "alt": "Spülmittel Zitronenminze Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429714/assets/pas/images/f2c12ef0-b9dc-4d5d-b310-5bb2aee26ffc/frosch-spuelmittel-zitronenminze"
+        },
+        {
+          "alt": "Spülmittel Zitronenminze Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429714/assets/pas/images/8c31d73d-67b2-4491-9d62-24bb682bc471/frosch-spuelmittel-zitronenminze"
+        },
+        {
+          "alt": "Spülmittel Zitronenminze Frosch",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429869/assets/pas/images/7855b065-dcb5-4a5f-8bbb-3499467978fd/frosch-spuelmittel-zitronenminze"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.4848
+      },
+      "self": "/p/d/1691878/frosch-spuelmittel-zitronenminze",
+      "title": {
+        "tileHeadline": "Spülmittel Zitronenminze, 500 ml",
+        "tileHeadlineLong": "Spülmittel Zitronenminze, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4848,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 5412533416688,
+    "dan": 1569849,
+    "brandName": "ECOVER",
+    "title": "Spülmittel Zero, 450 ml",
+    "tileData": {
+      "a11yLabel": "Marke: ECOVER; Produktname: Spülmittel Zero, 450 ml; Preis: 1,95 €; Grundpreis: 0,45 l (4,33 € je 1 l); Nur Online Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "ECOVER"
+      },
+      "dan": 1569849,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 5412533416688,
+      "images": [
+        {
+          "alt": "Spülmittel Zero ECOVER",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501672/assets/pas/images/48950d5a-be4e-4c91-9f00-c94ee0d22268/ecover-spuelmittel-zero"
+        },
+        {
+          "alt": "Spülmittel Zero ECOVER",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501248/assets/pas/images/5a3c31d9-2671-401f-b6d3-bf6537243f48/ecover-spuelmittel-zero"
+        },
+        {
+          "alt": "Spülmittel Zero ECOVER",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501250/assets/pas/images/305bfa60-e042-4206-bf2b-a208f9421f03/ecover-spuelmittel-zero"
+        },
+        {
+          "alt": "Spülmittel Zero ECOVER",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501678/assets/pas/images/5123df0c-3dcb-4160-8899-7b1a3cba985f/ecover-spuelmittel-zero"
+        },
+        {
+          "alt": "Spülmittel Zero ECOVER",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501251/assets/pas/images/ceecacc4-27a8-4bed-b40e-bdd8c6c59e10/ecover-spuelmittel-zero"
+        },
+        {
+          "alt": "Spülmittel Zero ECOVER",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501680/assets/pas/images/2ca6bc34-f815-47c7-ad92-1cb3b2cca858/ecover-spuelmittel-zero"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (3,64 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (4,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 44,
+        "ratingValue": 4.8636
+      },
+      "self": "/p/d/1569849/ecover-spuelmittel-zero",
+      "title": {
+        "tileHeadline": "Spülmittel Zero, 450 ml",
+        "tileHeadlineLong": "Spülmittel Zero, 450 ml"
+      },
+      "trackingData": {
+        "brand": "ECOVER",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8636,
+        "ratingCount": 44
+      }
+    }
+  },
+  {
+    "gtin": 4013162034062,
+    "dan": 1711028,
+    "brandName": "fit",
+    "title": "Spülmittel Naturals Guave & Limette, 635 ml",
+    "tileData": {
+      "a11yLabel": "Marke: fit; Produktname: Spülmittel Naturals Guave & Limette, 635 ml; Preis: 1,85 €; Grundpreis: 0,635 l (2,91 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "fit"
+      },
+      "dan": 1711028,
+      "gtin": 4013162034062,
+      "images": [
+        {
+          "alt": "Spülmittel Naturals Guave & Limette fit",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439719/assets/pas/images/2295b6c1-b6b4-4630-9e12-2ee849509246/fit-spuelmittel-naturals-guave-und-limette"
+        },
+        {
+          "alt": "Spülmittel Naturals Guave & Limette fit",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439625/assets/pas/images/e4a77904-44e6-42f8-a1ae-748391877f42/fit-spuelmittel-naturals-guave-und-limette"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,635 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,635 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.8214
+      },
+      "self": "/p/d/1711028/fit-spuelmittel-naturals-guave-und-limette",
+      "title": {
+        "tileHeadline": "Spülmittel Naturals Guave & Limette, 635 ml",
+        "tileHeadlineLong": "Spülmittel Naturals Guave & Limette, 635 ml"
+      },
+      "trackingData": {
+        "brand": "fit",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8214,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 4015200035659,
+    "dan": 1473935,
+    "brandName": "Pril",
+    "title": "Spülmittel Apfel & Limette, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Pril; Produktname: Spülmittel Apfel & Limette, 750 ml; Preis: 1,85 €; Grundpreis: 0,75 l (2,47 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Pril"
+      },
+      "dan": 1473935,
+      "gtin": 4015200035659,
+      "images": [
+        {
+          "alt": "Spülmittel Apfel & Limette Pril",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773965068/assets/pas/images/3cc42df2-795b-41b2-b2d0-31874be85a45/pril-spuelmittel-apfel-und-limette"
+        },
+        {
+          "alt": "Spülmittel Apfel & Limette Pril",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774396147/assets/pas/images/a9f51c52-abf6-4bcd-8c86-d99dd8f1f6c4/pril-spuelmittel-apfel-und-limette"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,08 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,47 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.8375
+      },
+      "self": "/p/d/1473935/pril-spuelmittel-apfel-und-limette",
+      "title": {
+        "tileHeadline": "Spülmittel Apfel & Limette, 750 ml",
+        "tileHeadlineLong": "Spülmittel Apfel & Limette, 750 ml"
+      },
+      "trackingData": {
+        "brand": "Pril",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8375,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 8718951786950,
+    "dan": 1078538,
+    "brandName": "Palmolive",
+    "title": "Spülmittel Ultra Original, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Palmolive; Produktname: Spülmittel Ultra Original, 750 ml; Preis: 1,65 €; Grundpreis: 0,75 l (2,20 € je 1 l); Gefahrenhinweis ätzend",
+      "brand": {
+        "name": "Palmolive"
+      },
+      "dan": 1078538,
+      "gtin": 8718951786950,
+      "images": [
+        {
+          "alt": "Spülmittel Ultra Original  Palmolive",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769556935/assets/pas/images/26c90dd9-56c2-479f-bb2a-d69f07e9fabe/palmolive-spuelmittel-ultra-original"
+        },
+        {
+          "alt": "Spülmittel Ultra Original  Palmolive",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774395864/assets/pas/images/c3741dae-8bbe-4dee-a84c-649c935730aa/palmolive-spuelmittel-ultra-original"
+        },
+        {
+          "alt": "Spülmittel Ultra Original  Palmolive",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769636490/assets/pas/images/67cb711a-1fc0-459e-adc9-eb19801ab49f/palmolive-spuelmittel-ultra-original"
+        },
+        {
+          "alt": "Spülmittel Ultra Original  Palmolive",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774395869/assets/pas/images/ebd944ba-7900-4232-b363-bc63767b43cf/palmolive-spuelmittel-ultra-original"
+        },
+        {
+          "alt": "Spülmittel Ultra Original  Palmolive",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774395881/assets/pas/images/93177fa2-b94f-4d88-bd5e-c9f0955d200c/palmolive-spuelmittel-ultra-original"
+        },
+        {
+          "alt": "Spülmittel Ultra Original  Palmolive",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774395874/assets/pas/images/bdbf8aec-b2f5-44c3-9795-8a3e4d8dffcf/palmolive-spuelmittel-ultra-original"
+        },
+        {
+          "alt": "Spülmittel Ultra Original  Palmolive",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774395902/assets/pas/images/8e9e9713-552e-4ff9-8660-eedd5ddcd917/palmolive-spuelmittel-ultra-original"
+        },
+        {
+          "alt": "Spülmittel Ultra Original  Palmolive",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774593341/assets/pas/images/e65474ef-5903-4b72-9359-58c2cbf71512/palmolive-spuelmittel-ultra-original"
+        },
+        {
+          "alt": "Spülmittel Ultra Original  Palmolive",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774485909/assets/pas/images/e742df47-145b-408e-9e48-efa538a23bc5/palmolive-spuelmittel-ultra-original"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis ätzend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706223/assets/mp/ghs-symbols/ghs_ghs05_default/ghs_ghs05_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,39 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (1,85 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,20 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 305,
+        "ratingValue": 4.6262
+      },
+      "self": "/p/d/1078538/palmolive-spuelmittel-ultra-original",
+      "title": {
+        "tileHeadline": "Spülmittel Ultra Original, 750 ml",
+        "tileHeadlineLong": "Spülmittel Ultra Original, 750 ml"
+      },
+      "trackingData": {
+        "brand": "Palmolive",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6262,
+        "ratingCount": 305
+      }
+    }
+  },
+  {
+    "gtin": 4015200037455,
+    "dan": 3104312,
+    "brandName": "Pril",
+    "title": "Spülmittel Grapefruit & Acai, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Pril; Produktname: Spülmittel Grapefruit & Acai, 750 ml; Preis: 1,85 €; Grundpreis: 0,75 l (2,47 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Pril"
+      },
+      "dan": 3104312,
+      "gtin": 4015200037455,
+      "images": [
+        {
+          "alt": "Spülmittel Grapefruit & Acai Pril",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966560/assets/pas/images/b03e169b-ea92-4525-961d-aa64b7cbe83f/pril-spuelmittel-grapefruit-und-acai"
+        },
+        {
+          "alt": "Spülmittel Grapefruit & Acai Pril",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966554/assets/pas/images/df19188a-4425-4ce0-bb48-c20bee6f2dec/pril-spuelmittel-grapefruit-und-acai"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,08 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,47 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.8511
+      },
+      "self": "/p/d/3104312/pril-spuelmittel-grapefruit-und-acai",
+      "title": {
+        "tileHeadline": "Spülmittel Grapefruit & Acai, 750 ml",
+        "tileHeadlineLong": "Spülmittel Grapefruit & Acai, 750 ml"
+      },
+      "trackingData": {
+        "brand": "Pril",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8511,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 4015200035741,
+    "dan": 1618267,
+    "brandName": "Pril",
+    "title": "Spülmittel Sensitive Aloe Vera, 600 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Pril; Produktname: Spülmittel Sensitive Aloe Vera, 600 ml; Preis: 1,95 €; Grundpreis: 0,6 l (3,25 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Pril"
+      },
+      "dan": 1618267,
+      "gtin": 4015200035741,
+      "images": [
+        {
+          "alt": "Spülmittel Sensitive Aloe Vera Pril",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773963039/assets/pas/images/325b2ef4-54e8-4eae-b007-95ac95a9fafd/pril-spuelmittel-sensitive-aloe-vera"
+        },
+        {
+          "alt": "Spülmittel Sensitive Aloe Vera Pril",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773963046/assets/pas/images/7f655f10-42fa-4a64-a54d-c15a9bcc178f/pril-spuelmittel-sensitive-aloe-vera"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 l (2,73 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 l (3,25 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 4.5567
+      },
+      "self": "/p/d/1618267/pril-spuelmittel-sensitive-aloe-vera",
+      "title": {
+        "tileHeadline": "Spülmittel Sensitive Aloe Vera, 600 ml",
+        "tileHeadlineLong": "Spülmittel Sensitive Aloe Vera, 600 ml"
+      },
+      "trackingData": {
+        "brand": "Pril",
+        "categories": [
+          "Spülmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5567,
+        "ratingCount": 97
+      }
+    }
+  }
+]

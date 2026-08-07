@@ -1,0 +1,2859 @@
+[
+  {
+    "gtin": 4067796003079,
+    "dan": 1697279,
+    "brandName": "dmBio",
+    "title": "Haferdrink Barista, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferdrink Barista, 1 l; Preis: 1,45 €; Grundpreis: 1 l (1,45 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1697279,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796003079,
+      "images": [
+        {
+          "alt": "Haferdrink Barista dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755061614/assets/pas/images/5bceb716-d33a-4013-9b31-6f4a06fc95d6/dmbio-haferdrink-barista"
+        },
+        {
+          "alt": "Haferdrink Barista dmBio",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755061616/assets/pas/images/143bcc55-c5d7-445b-b3a9-ed37b7ecaf3e/dmbio-haferdrink-barista"
+        },
+        {
+          "alt": "Haferdrink Barista dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755061619/assets/pas/images/bb4beba4-5a5e-408b-8524-c3bf99caa852/dmbio-haferdrink-barista"
+        },
+        {
+          "alt": "Haferdrink Barista dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755061616/assets/pas/images/42730729-c83a-4ea2-96c8-3387281d32dc/dmbio-haferdrink-barista"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,22 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,45 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 227,
+        "ratingValue": 3.696
+      },
+      "self": "/p/d/1697279/dmbio-haferdrink-barista",
+      "title": {
+        "tileHeadline": "Haferdrink Barista, 1 l",
+        "tileHeadlineLong": "Haferdrink Barista, 1 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.696,
+        "ratingCount": 227
+      }
+    }
+  },
+  {
+    "gtin": 7394376623042,
+    "dan": 1523388,
+    "brandName": "Oatly",
+    "title": "Haferdrink, Barista Edition Hafer, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: Oatly; Produktname: Haferdrink, Barista Edition Hafer, 1 l; Preis: 2,55 €; Grundpreis: 1 l (2,55 € je 1 l)",
+      "brand": {
+        "name": "Oatly"
+      },
+      "dan": 1523388,
+      "gtin": 7394376623042,
+      "images": [
+        {
+          "alt": "Haferdrink, Barista Edition Hafer Oatly",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754977661/assets/pas/images/0a11e665-b8e7-4094-a85e-d740b0aca613/oatly-haferdrink-barista-edition-hafer"
+        },
+        {
+          "alt": "Haferdrink, Barista Edition Hafer Oatly",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776466800/assets/pas/images/4dd5f479-5422-4279-bf47-618ff32bdd33/oatly-haferdrink-barista-edition-hafer"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,14 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,14 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,55 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 260,
+        "ratingValue": 4.6615
+      },
+      "self": "/p/d/1523388/oatly-haferdrink-barista-edition-hafer",
+      "title": {
+        "tileHeadline": "Haferdrink, Barista Edition Hafer, 1 l",
+        "tileHeadlineLong": "Haferdrink, Barista Edition Hafer, 1 l"
+      },
+      "trackingData": {
+        "brand": "Oatly",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6615,
+        "ratingCount": 260
+      }
+    }
+  },
+  {
+    "gtin": 4067796002126,
+    "dan": 1586991,
+    "brandName": "dmBio",
+    "title": "Haferdrink, glutenfrei, 1.000 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferdrink, glutenfrei, 1.000 ml; Preis: 1,45 €; Grundpreis: 1 l (1,45 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1586991,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796002126,
+      "images": [
+        {
+          "alt": "Haferdrink, glutenfrei dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755038852/assets/pas/images/accf8567-897e-4459-9b37-d3cb79a8b0b4/dmbio-haferdrink-glutenfrei"
+        },
+        {
+          "alt": "Haferdrink, glutenfrei dmBio",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755038856/assets/pas/images/ff2c431e-e9a8-4b47-8379-a7027aca14d8/dmbio-haferdrink-glutenfrei"
+        },
+        {
+          "alt": "Haferdrink, glutenfrei dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755038856/assets/pas/images/620e934d-2223-4273-84c9-2ce87fab045e/dmbio-haferdrink-glutenfrei"
+        },
+        {
+          "alt": "Haferdrink, glutenfrei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755038853/assets/pas/images/056d6bff-bcf9-4143-b98c-6c370d4a8a84/dmbio-haferdrink-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,22 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,45 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 130,
+        "ratingValue": 4.6077
+      },
+      "self": "/p/d/1586991/dmbio-haferdrink-glutenfrei",
+      "title": {
+        "tileHeadline": "Haferdrink, glutenfrei, 1.000 ml",
+        "tileHeadlineLong": "Haferdrink, glutenfrei, 1.000 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6077,
+        "ratingCount": 130
+      }
+    }
+  },
+  {
+    "gtin": 4066447577327,
+    "dan": 1545323,
+    "brandName": "dmBio",
+    "title": "Haferdrink, Barista mit Soja, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferdrink, Barista mit Soja, 1 l; Preis: 1,35 €; Grundpreis: 1 l (1,35 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1545323,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447577327,
+      "images": [
+        {
+          "alt": "Haferdrink, Barista mit Soja dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755063641/assets/pas/images/c3b5449d-1d9f-469a-8501-2bac93c0cb5d/dmbio-haferdrink-barista-mit-soja"
+        },
+        {
+          "alt": "Haferdrink, Barista mit Soja dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755063644/assets/pas/images/0a36a548-f0e9-4047-8787-d9f623719129/dmbio-haferdrink-barista-mit-soja"
+        },
+        {
+          "alt": "Haferdrink, Barista mit Soja dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761749533/assets/pas/images/f39a0c98-21c8-4065-9ab0-af26ed7c8c2d/dmbio-haferdrink-barista-mit-soja"
+        },
+        {
+          "alt": "Haferdrink, Barista mit Soja dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755063646/assets/pas/images/d40f68c0-0bab-440c-80b6-97b61e57e79f/dmbio-haferdrink-barista-mit-soja"
+        },
+        {
+          "alt": "Haferdrink, Barista mit Soja dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755063645/assets/pas/images/26072489-5e9c-4f1a-aded-7f6ae8246abe/dmbio-haferdrink-barista-mit-soja"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,13 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,13 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,35 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 735,
+        "ratingValue": 3.6612
+      },
+      "self": "/p/d/1545323/dmbio-haferdrink-barista-mit-soja",
+      "title": {
+        "tileHeadline": "Haferdrink, Barista mit Soja, 1 l",
+        "tileHeadlineLong": "Haferdrink, Barista mit Soja, 1 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6612,
+        "ratingCount": 735
+      }
+    }
+  },
+  {
+    "gtin": 4067796002041,
+    "dan": 1555133,
+    "brandName": "dmBio",
+    "title": "Haferdrink, Vanille, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferdrink, Vanille, 1 l; Preis: 1,35 €; Grundpreis: 1 l (1,35 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1555133,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796002041,
+      "images": [
+        {
+          "alt": "Haferdrink, Vanille  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486791/assets/pas/images/119dffbf-aae2-4c41-8fd0-ea070075ab7e/dmbio-haferdrink-vanille"
+        },
+        {
+          "alt": "Haferdrink, Vanille  dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487050/assets/pas/images/3962cef1-5de8-4b9c-9085-8078e010597e/dmbio-haferdrink-vanille"
+        },
+        {
+          "alt": "Haferdrink, Vanille  dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487049/assets/pas/images/fa77d9da-48eb-4fb0-8dd4-89f052a0866c/dmbio-haferdrink-vanille"
+        },
+        {
+          "alt": "Haferdrink, Vanille  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487142/assets/pas/images/db292938-0ba1-4c3b-baf7-923954b026a2/dmbio-haferdrink-vanille"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,13 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,13 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,35 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 210,
+        "ratingValue": 4.3524
+      },
+      "self": "/p/d/1555133/dmbio-haferdrink-vanille",
+      "title": {
+        "tileHeadline": "Haferdrink, Vanille, 1 l",
+        "tileHeadlineLong": "Haferdrink, Vanille, 1 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3524,
+        "ratingCount": 210
+      }
+    }
+  },
+  {
+    "gtin": 4066447725537,
+    "dan": 1453569,
+    "brandName": "dmBio",
+    "title": "Barista Haferdrink mit Soja 6 x 1 Liter, 6 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Barista Haferdrink mit Soja 6 x 1 Liter, 6 l; Preis: 7,45 €; Grundpreis: 6 l (1,24 € je 1 l); Nur Online Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1453569,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447725537,
+      "images": [
+        {
+          "alt": "Barista Haferdrink mit Soja 6 x 1 Liter dmBio",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755041923/assets/pas/images/6c2344fc-289f-475a-9e19-7ce5804d8810/dmbio-barista-haferdrink-mit-soja-6-x-1-liter"
+        },
+        {
+          "alt": "Barista Haferdrink mit Soja 6 x 1 Liter dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485026/assets/pas/images/a7c1ddcd-87d0-4861-babc-d4de5cbf22e2/dmbio-barista-haferdrink-mit-soja-6-x-1-liter"
+        },
+        {
+          "alt": "Barista Haferdrink mit Soja 6 x 1 Liter dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779328249/assets/pas/images/4a6dd03e-6b0b-4af6-93eb-22c1c84e56f8/dmbio-barista-haferdrink-mit-soja-6-x-1-liter"
+        },
+        {
+          "alt": "Barista Haferdrink mit Soja 6 x 1 Liter dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485157/assets/pas/images/701c97f6-51a9-484f-aaf0-4583755dd363/dmbio-barista-haferdrink-mit-soja-6-x-1-liter"
+        },
+        {
+          "alt": "Barista Haferdrink mit Soja 6 x 1 Liter dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755041924/assets/pas/images/7e1e65f4-6b4e-4cc3-b5b7-2efb5e1495ef/dmbio-barista-haferdrink-mit-soja-6-x-1-liter"
+        },
+        {
+          "alt": "Barista Haferdrink mit Soja 6 x 1 Liter dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755041928/assets/pas/images/9c3fdd7a-7065-4234-8996-df436fd7d432/dmbio-barista-haferdrink-mit-soja-6-x-1-liter"
+        },
+        {
+          "alt": "Barista Haferdrink mit Soja 6 x 1 Liter dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755041928/assets/pas/images/495664a2-034f-4765-a1fa-386dae0e8a84/dmbio-barista-haferdrink-mit-soja-6-x-1-liter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,26 €"
+          }
+        },
+        "tileInfos": [
+          "6 l (1,04 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,45 €"
+          }
+        },
+        "tileInfos": [
+          "6 l (1,24 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.2381
+      },
+      "self": "/p/d/1453569/dmbio-barista-haferdrink-mit-soja-6-x-1-liter",
+      "title": {
+        "tileHeadline": "Barista Haferdrink mit Soja 6 x 1 Liter, 6 l",
+        "tileHeadlineLong": "Barista Haferdrink mit Soja 6 x 1 Liter, 6 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2381,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 7394376621680,
+    "dan": 1335968,
+    "brandName": "Oatly",
+    "title": "Haferdrink, Barista Hafer Oat, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: Oatly; Produktname: Haferdrink, Barista Hafer Oat, 1 l; Preis: 2,55 €; Grundpreis: 1 l (2,55 € je 1 l)",
+      "brand": {
+        "name": "Oatly"
+      },
+      "dan": 1335968,
+      "gtin": 7394376621680,
+      "images": [
+        {
+          "alt": "Haferdrink, Barista Hafer Oat Oatly",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510097/assets/pas/images/ce3e61b3-22c9-4f9b-a8ef-a9a2cc47bfa2/oatly-haferdrink-barista-hafer-oat"
+        },
+        {
+          "alt": "Haferdrink, Barista Hafer Oat Oatly",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510313/assets/pas/images/f610c790-1f9a-462a-9727-ecf46a0be48e/oatly-haferdrink-barista-hafer-oat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,14 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,14 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,55 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 104,
+        "ratingValue": 4.1827
+      },
+      "self": "/p/d/1335968/oatly-haferdrink-barista-hafer-oat",
+      "title": {
+        "tileHeadline": "Haferdrink, Barista Hafer Oat, 1 l",
+        "tileHeadlineLong": "Haferdrink, Barista Hafer Oat, 1 l"
+      },
+      "trackingData": {
+        "brand": "Oatly",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1827,
+        "ratingCount": 104
+      }
+    }
+  },
+  {
+    "gtin": 4016249024260,
+    "dan": 2974400,
+    "brandName": "ALLOS",
+    "title": "Haferdrink, Ohne Öl, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Haferdrink, Ohne Öl, 1 l; Preis: 1,85 €; Grundpreis: 1 l (1,85 € je 1 l)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 2974400,
+      "gtin": 4016249024260,
+      "images": [
+        {
+          "alt": "Haferdrink, Ohne Öl ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442090/assets/pas/images/789f204e-47e4-4b86-abdb-ac951a0bd9d7/allos-haferdrink-ohne-oel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,55 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,85 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 159,
+        "ratingValue": 4.3774
+      },
+      "self": "/p/d/2974400/allos-haferdrink-ohne-oel",
+      "title": {
+        "tileHeadline": "Haferdrink, Ohne Öl, 1 l",
+        "tileHeadlineLong": "Haferdrink, Ohne Öl, 1 l"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3774,
+        "ratingCount": 159
+      }
+    }
+  },
+  {
+    "gtin": 4070765054392,
+    "dan": 1649542,
+    "brandName": "dmBio",
+    "title": "Haferdrink-Konzentrat Pro Climate, 0,5l ergibt 1,5l, 0,5 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferdrink-Konzentrat Pro Climate,  0,5l ergibt 1,5l, 0,5 l; Preis: 0,90 €; Grundpreis: 1,5 l (0,60 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1649542,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765054392,
+      "images": [
+        {
+          "alt": "Haferdrink-Konzentrat Pro Climate,  0,5l ergibt 1,5l dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779744314/assets/pas/images/7530ac77-2ab7-4152-939b-836d8f39d046/dmbio-haferdrink-konzentrat-pro-climate-0-5l-ergibt-1-5l"
+        },
+        {
+          "alt": "Haferdrink-Konzentrat Pro Climate,  0,5l ergibt 1,5l dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779744321/assets/pas/images/cf61efed-7ae3-4ad5-87a1-89b9b8a33c25/dmbio-haferdrink-konzentrat-pro-climate-0-5l-ergibt-1-5l"
+        },
+        {
+          "alt": "Haferdrink-Konzentrat Pro Climate,  0,5l ergibt 1,5l dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779744309/assets/pas/images/5519ddd5-84cf-46fb-9d33-4f48a277f823/dmbio-haferdrink-konzentrat-pro-climate-0-5l-ergibt-1-5l"
+        },
+        {
+          "alt": "Haferdrink-Konzentrat Pro Climate,  0,5l ergibt 1,5l dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779744304/assets/pas/images/53e8ec6d-1447-4bce-a2d4-890f524b4047/dmbio-haferdrink-konzentrat-pro-climate-0-5l-ergibt-1-5l"
+        },
+        {
+          "alt": "Haferdrink-Konzentrat Pro Climate,  0,5l ergibt 1,5l dmBio",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781046330/assets/pas/images/ccc471c0-e04a-41c9-9dfb-cda7b6a22a94/dmbio-haferdrink-konzentrat-pro-climate-0-5l-ergibt-1-5l"
+        },
+        {
+          "alt": "Haferdrink-Konzentrat Pro Climate,  0,5l ergibt 1,5l dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781046325/assets/pas/images/7ede06d9-62e7-42d4-9e32-84adcff3aca8/dmbio-haferdrink-konzentrat-pro-climate-0-5l-ergibt-1-5l"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,76 €"
+          }
+        },
+        "tileInfos": [
+          "1,5 l (0,50 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,90 €"
+          }
+        },
+        "tileInfos": [
+          "1,5 l (0,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1268,
+        "ratingValue": 4.2681
+      },
+      "self": "/p/d/1649542/dmbio-haferdrink-konzentrat-pro-climate-0-5l-ergibt-1-5l",
+      "title": {
+        "tileHeadline": "Haferdrink-Konzentrat Pro Climate,  0,5l ergibt..., 0,5 l",
+        "tileHeadlineLong": "Haferdrink-Konzentrat Pro Climate,  0,5l ergibt..., 0,5 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.9
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2681,
+        "ratingCount": 1268
+      }
+    }
+  },
+  {
+    "gtin": 4070765076080,
+    "dan": 3132994,
+    "brandName": "dmBio",
+    "title": "Haferdrink Pistazie, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferdrink Pistazie, 1 l; Preis: 2,45 €; Grundpreis: 1 l (2,45 € je 1 l); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3132994,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765076080,
+      "images": [
+        {
+          "alt": "Haferdrink Pistazie dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777686758/assets/pas/images/984eb67d-1d29-4950-9030-b36c818acb61/dmbio-haferdrink-pistazie"
+        },
+        {
+          "alt": "Haferdrink Pistazie dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777686751/assets/pas/images/f94e4fcf-ae91-44f8-a735-7592e487f611/dmbio-haferdrink-pistazie"
+        },
+        {
+          "alt": "Haferdrink Pistazie dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777686754/assets/pas/images/c1d1d32f-7d37-4b26-a115-1e3ca277af26/dmbio-haferdrink-pistazie"
+        },
+        {
+          "alt": "Haferdrink Pistazie dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777686748/assets/pas/images/ac477726-db24-4f7e-8daf-503ba61e8fac/dmbio-haferdrink-pistazie"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,45 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.1311
+      },
+      "self": "/p/d/3132994/dmbio-haferdrink-pistazie",
+      "title": {
+        "tileHeadline": "Haferdrink Pistazie, 1 l",
+        "tileHeadlineLong": "Haferdrink Pistazie, 1 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1311,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4067796194807,
+    "dan": 1453941,
+    "brandName": "dmBio",
+    "title": "Pflanzendrink, Haferdrink Natur, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pflanzendrink, Haferdrink Natur, 1 l; Preis: 0,90 €; Grundpreis: 1 l (0,90 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1453941,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796194807,
+      "images": [
+        {
+          "alt": "Pflanzendrink, Haferdrink Natur dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751623423/assets/pas/images/27ba5de7-b6af-4f31-930b-021f0796906a/dmbio-pflanzendrink-haferdrink-natur"
+        },
+        {
+          "alt": "Pflanzendrink, Haferdrink Natur dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751623428/assets/pas/images/e61bde79-eb47-4302-b096-36996b382803/dmbio-pflanzendrink-haferdrink-natur"
+        },
+        {
+          "alt": "Pflanzendrink, Haferdrink Natur dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761141920/assets/pas/images/fab6243a-c2ee-45d4-bcb5-0452edbe387d/dmbio-pflanzendrink-haferdrink-natur"
+        },
+        {
+          "alt": "Pflanzendrink, Haferdrink Natur dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751623433/assets/pas/images/0f28b49a-8327-4634-a6ed-cc9ac7524ad5/dmbio-pflanzendrink-haferdrink-natur"
+        },
+        {
+          "alt": "Pflanzendrink, Haferdrink Natur dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751623418/assets/pas/images/f6f6f9a3-2ce1-4219-ae72-d262148051c0/dmbio-pflanzendrink-haferdrink-natur"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,76 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (0,76 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,90 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (0,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 747,
+        "ratingValue": 4.4431
+      },
+      "self": "/p/d/1453941/dmbio-pflanzendrink-haferdrink-natur",
+      "title": {
+        "tileHeadline": "Pflanzendrink, Haferdrink Natur, 1 l",
+        "tileHeadlineLong": "Pflanzendrink, Haferdrink Natur, 1 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.9
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4431,
+        "ratingCount": 747
+      }
+    }
+  },
+  {
+    "gtin": 4067796000207,
+    "dan": 1453253,
+    "brandName": "dmBio",
+    "title": "Haferdrink Zuckerfrei, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferdrink Zuckerfrei, 1 l; Preis: 0,90 €; Grundpreis: 1 l (0,90 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1453253,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796000207,
+      "images": [
+        {
+          "alt": "Haferdrink Zuckerfrei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486961/assets/pas/images/e6002d05-c3cc-4785-8c88-0146c733ba91/dmbio-haferdrink-zuckerfrei"
+        },
+        {
+          "alt": "Haferdrink Zuckerfrei dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486960/assets/pas/images/cdbab3e5-4d4c-424e-8063-e2273e2918b3/dmbio-haferdrink-zuckerfrei"
+        },
+        {
+          "alt": "Haferdrink Zuckerfrei dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486707/assets/pas/images/cfee2e3c-708f-4399-b693-861352cb3617/dmbio-haferdrink-zuckerfrei"
+        },
+        {
+          "alt": "Haferdrink Zuckerfrei dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486786/assets/pas/images/0d280048-bf37-404b-a115-3cdd977f4d49/dmbio-haferdrink-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,76 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (0,76 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,90 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (0,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 155,
+        "ratingValue": 4.4065
+      },
+      "self": "/p/d/1453253/dmbio-haferdrink-zuckerfrei",
+      "title": {
+        "tileHeadline": "Haferdrink Zuckerfrei, 1 l",
+        "tileHeadlineLong": "Haferdrink Zuckerfrei, 1 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.9
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4065,
+        "ratingCount": 155
+      }
+    }
+  },
+  {
+    "gtin": 4067796198041,
+    "dan": 1693476,
+    "brandName": "dmBio",
+    "title": "Pflanzendrink Not M*lk and so yummy, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pflanzendrink Not M*lk and so yummy, 1 l; Preis: 1,15 €; Grundpreis: 1 l (1,15 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1693476,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796198041,
+      "images": [
+        {
+          "alt": "Pflanzendrink Not M*lk and so yummy dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752102928/assets/pas/images/1ec5b27c-f89d-4ec0-93f7-1f375fe713e6/dmbio-pflanzendrink-not-m-lk-and-so-yummy"
+        },
+        {
+          "alt": "Pflanzendrink Not M*lk and so yummy dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752102917/assets/pas/images/9007d205-2c6d-4b2a-b18a-6f746e718d29/dmbio-pflanzendrink-not-m-lk-and-so-yummy"
+        },
+        {
+          "alt": "Pflanzendrink Not M*lk and so yummy dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752102922/assets/pas/images/de076b19-95a0-4808-aeab-b164aea63dc0/dmbio-pflanzendrink-not-m-lk-and-so-yummy"
+        },
+        {
+          "alt": "Pflanzendrink Not M*lk and so yummy dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752102913/assets/pas/images/9e0812b6-1c75-4479-a8f7-869c54fa1bec/dmbio-pflanzendrink-not-m-lk-and-so-yummy"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,97 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (0,97 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,15 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 241,
+        "ratingValue": 3.4689
+      },
+      "self": "/p/d/1693476/dmbio-pflanzendrink-not-m-lk-and-so-yummy",
+      "title": {
+        "tileHeadline": "Pflanzendrink Not M*lk and so yummy, 1 l",
+        "tileHeadlineLong": "Pflanzendrink Not M*lk and so yummy, 1 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.4689,
+        "ratingCount": 241
+      }
+    }
+  },
+  {
+    "gtin": 5411188141648,
+    "dan": 1615237,
+    "brandName": "alpro",
+    "title": "Haferdrink Growing Kids für Kinder ab 3 Jahren, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: alpro; Produktname: Haferdrink Growing Kids für Kinder ab 3 Jahren, 1 l; Preis: 2,15 €; Grundpreis: 1 l (2,15 € je 1 l)",
+      "brand": {
+        "name": "alpro"
+      },
+      "dan": 1615237,
+      "gtin": 5411188141648,
+      "images": [
+        {
+          "alt": "Haferdrink Growing Kids für Kinder ab 3 Jahren alpro",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756297498/assets/pas/images/69e17cc8-ce8b-4885-87d5-61329b90d8a9/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren"
+        },
+        {
+          "alt": "Haferdrink Growing Kids für Kinder ab 3 Jahren alpro",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756297482/assets/pas/images/ca22e6fe-7c97-4cf8-b7a4-8bd78e93adce/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren"
+        },
+        {
+          "alt": "Haferdrink Growing Kids für Kinder ab 3 Jahren alpro",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759961025/assets/pas/images/b0c811d4-c98a-455a-a045-619a8cc57ed3/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren"
+        },
+        {
+          "alt": "Haferdrink Growing Kids für Kinder ab 3 Jahren alpro",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760396529/assets/pas/images/a53351a9-7f4b-42bd-bb21-8388afb3b09e/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren"
+        },
+        {
+          "alt": "Haferdrink Growing Kids für Kinder ab 3 Jahren alpro",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132573/assets/pas/images/c04ecdb0-42d4-4170-8764-9e2235d48755/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren"
+        },
+        {
+          "alt": "Haferdrink Growing Kids für Kinder ab 3 Jahren alpro",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756297506/assets/pas/images/290a350e-1201-43b7-aafe-260439ea1428/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren"
+        },
+        {
+          "alt": "Haferdrink Growing Kids für Kinder ab 3 Jahren alpro",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756297488/assets/pas/images/49de658a-8208-48f1-8ad4-fe5fac3ad654/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren"
+        },
+        {
+          "alt": "Haferdrink Growing Kids für Kinder ab 3 Jahren alpro",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784070586/assets/pas/images/73758fa0-41d6-499b-9b0e-bbad3f5b4c04/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren"
+        },
+        {
+          "alt": "Haferdrink Growing Kids für Kinder ab 3 Jahren alpro",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132565/assets/pas/images/61f7562f-173f-429e-8df7-bf531ad338f4/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,81 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,81 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,15 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 94,
+        "ratingValue": 4.4255
+      },
+      "self": "/p/d/1615237/alpro-haferdrink-growing-kids-fuer-kinder-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Haferdrink Growing Kids für Kinder ab 3 Jahren, 1 l",
+        "tileHeadlineLong": "Haferdrink Growing Kids für Kinder ab 3 Jahren, 1 l"
+      },
+      "trackingData": {
+        "brand": "alpro",
+        "categories": [
+          "Getränke für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4255,
+        "ratingCount": 94
+      }
+    }
+  },
+  {
+    "gtin": 4067796144932,
+    "dan": 1583284,
+    "brandName": "dmBio",
+    "title": "Haferdrink Banane ab 1 Jahr, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferdrink Banane ab 1 Jahr, 200 ml; Preis: 0,95 €; Grundpreis: 0,2 l (4,75 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1583284,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796144932,
+      "images": [
+        {
+          "alt": "Haferdrink Banane ab 1 Jahr dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755001772/assets/pas/images/6ceabe60-5113-481a-8c02-f5ebe3d21c33/dmbio-haferdrink-banane-ab-1-jahr"
+        },
+        {
+          "alt": "Haferdrink Banane ab 1 Jahr dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755001773/assets/pas/images/8051147e-9f31-4d75-8db7-8dd40c6178c5/dmbio-haferdrink-banane-ab-1-jahr"
+        },
+        {
+          "alt": "Haferdrink Banane ab 1 Jahr dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755001767/assets/pas/images/e4b577f3-3493-4dd2-b8da-2574b860cf76/dmbio-haferdrink-banane-ab-1-jahr"
+        },
+        {
+          "alt": "Haferdrink Banane ab 1 Jahr dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755001767/assets/pas/images/fa6cceaa-8e24-44f1-90e6-b31961bd21da/dmbio-haferdrink-banane-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (3,99 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (4,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.1493
+      },
+      "self": "/p/d/1583284/dmbio-haferdrink-banane-ab-1-jahr",
+      "title": {
+        "tileHeadline": "Haferdrink Banane ab 1 Jahr, 200 ml",
+        "tileHeadlineLong": "Haferdrink Banane ab 1 Jahr, 200 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Getränke für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1493,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4067796144918,
+    "dan": 1583283,
+    "brandName": "dmBio",
+    "title": "Haferdrink Erdbeere ab 1 Jahr, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferdrink Erdbeere ab 1 Jahr, 200 ml; Preis: 0,95 €; Grundpreis: 0,2 l (4,75 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1583283,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796144918,
+      "images": [
+        {
+          "alt": "Haferdrink Erdbeere ab 1 Jahr dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021315/assets/pas/images/af05768d-9c18-4e27-a103-252493c867f4/dmbio-haferdrink-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Haferdrink Erdbeere ab 1 Jahr dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021314/assets/pas/images/8fca1eb2-392d-49f9-9ac1-8c1095c95835/dmbio-haferdrink-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Haferdrink Erdbeere ab 1 Jahr dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021310/assets/pas/images/31a7785b-ca98-4459-bc1d-61fd4c04148b/dmbio-haferdrink-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Haferdrink Erdbeere ab 1 Jahr dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021312/assets/pas/images/a793bc8d-759f-4b30-b2a9-ca3a8371ed8a/dmbio-haferdrink-erdbeere-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (3,99 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (4,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 316,
+        "ratingValue": 3.5823
+      },
+      "self": "/p/d/1583283/dmbio-haferdrink-erdbeere-ab-1-jahr",
+      "title": {
+        "tileHeadline": "Haferdrink Erdbeere ab 1 Jahr, 200 ml",
+        "tileHeadlineLong": "Haferdrink Erdbeere ab 1 Jahr, 200 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Getränke für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5823,
+        "ratingCount": 316
+      }
+    }
+  },
+  {
+    "gtin": 4260133232549,
+    "dan": 1583935,
+    "brandName": "FruchtBar",
+    "title": "Quetschie Himbeere, Banane, Birne, Haferdrink ab 6 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Quetschie Himbeere, Banane, Birne, Haferdrink ab 6 Monaten, 100 g; Preis: 0,85 €; Grundpreis: 0,1 kg (8,50 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1583935,
+      "gtin": 4260133232549,
+      "images": [
+        {
+          "alt": "Quetschie Himbeere, Banane, Birne, Haferdrink ab 6 Monaten FruchtBar",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748644152/assets/pas/images/8e6f6c16-a7b1-408d-a779-b8d9d632d4cb/fruchtbar-quetschie-himbeere-banane-birne-haferdrink-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Himbeere, Banane, Birne, Haferdrink ab 6 Monaten FruchtBar",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748644194/assets/pas/images/55e928b8-8ba2-429f-bedd-e9d65ed725b5/fruchtbar-quetschie-himbeere-banane-birne-haferdrink-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (7,94 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (8,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.806
+      },
+      "self": "/p/d/1583935/fruchtbar-quetschie-himbeere-banane-birne-haferdrink-ab-6-monaten",
+      "title": {
+        "tileHeadline": "Quetschie Himbeere, Banane, Birne, Haferdrink ab..., 100 g",
+        "tileHeadlineLong": "Quetschie Himbeere, Banane, Birne, Haferdrink ab..., 100 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.806,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 3600542463386,
+    "dan": 1674044,
+    "brandName": "Wahre Schätze",
+    "title": "Kinder Shampoo Sanfte Hafermilch 2in1, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Wahre Schätze; Produktname: Kinder Shampoo Sanfte Hafermilch 2in1, 300 ml; Preis: 2,75 €; Grundpreis: 0,3 l (9,17 € je 1 l)",
+      "brand": {
+        "name": "Wahre Schätze"
+      },
+      "dan": 1674044,
+      "gtin": 3600542463386,
+      "images": [
+        {
+          "alt": "Kinder Shampoo Sanfte Hafermilch 2in1 Wahre Schätze",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757639467/assets/pas/images/27bd8f01-0010-47f4-8c84-7159a7bfacaa/wahre-schaetze-kinder-shampoo-sanfte-hafermilch-2in1"
+        },
+        {
+          "alt": "Kinder Shampoo Sanfte Hafermilch 2in1 Wahre Schätze",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420226/assets/pas/images/962ff8d0-1910-41b7-98a9-77c77099a6e7/wahre-schaetze-kinder-shampoo-sanfte-hafermilch-2in1"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (7,71 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (9,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 129,
+        "ratingValue": 4.4496
+      },
+      "self": "/p/d/1674044/wahre-schaetze-kinder-shampoo-sanfte-hafermilch-2in1",
+      "title": {
+        "tileHeadline": "Kinder Shampoo Sanfte Hafermilch 2in1, 300 ml",
+        "tileHeadlineLong": "Kinder Shampoo Sanfte Hafermilch 2in1, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Wahre Schätze",
+        "categories": [
+          "Kindershampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4496,
+        "ratingCount": 129
+      }
+    }
+  },
+  {
+    "gtin": 42453031,
+    "dan": 1709731,
+    "brandName": "ORINIQ",
+    "title": "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: ORINIQ; Produktname: Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere, 250 ml; Preis: 2,25 €; Grundpreis: 0,25 l (9,00 € je 1 l)",
+      "brand": {
+        "name": "ORINIQ"
+      },
+      "dan": 1709731,
+      "gtin": 42453031,
+      "images": [
+        {
+          "alt": "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere ORINIQ",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008935/assets/pas/images/569f28e9-469a-444b-9fba-7979d53a0862/oriniq-pflegedusche-scandinavian-memories-mit-hafermilch-sandelholz-und-moltebeere"
+        },
+        {
+          "alt": "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere ORINIQ",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008942/assets/pas/images/84ef88f1-b0c1-4e0a-972a-1e11bf70b1d0/oriniq-pflegedusche-scandinavian-memories-mit-hafermilch-sandelholz-und-moltebeere"
+        },
+        {
+          "alt": "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere ORINIQ",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747489817/assets/pas/images/5a703782-d7c5-4a26-8469-c0569acb0d38/oriniq-pflegedusche-scandinavian-memories-mit-hafermilch-sandelholz-und-moltebeere"
+        },
+        {
+          "alt": "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere ORINIQ",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747489914/assets/pas/images/d8174e12-d496-47bf-9f44-79fe3ba57aed/oriniq-pflegedusche-scandinavian-memories-mit-hafermilch-sandelholz-und-moltebeere"
+        },
+        {
+          "alt": "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere ORINIQ",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764895712/assets/pas/images/3063c053-8f46-4317-b4e6-82921916f90d/oriniq-pflegedusche-scandinavian-memories-mit-hafermilch-sandelholz-und-moltebeere"
+        },
+        {
+          "alt": "Pflegedusche Scandinavian Memories mit Hafermilch, Sandelholz & Moltebeere ORINIQ",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780094543/assets/pas/images/52006f61-ed89-4bb0-8a6c-5242c6246d16/oriniq-pflegedusche-scandinavian-memories-mit-hafermilch-sandelholz-und-moltebeere"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,56 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.8095
+      },
+      "self": "/p/d/1709731/oriniq-pflegedusche-scandinavian-memories-mit-hafermilch-sandelholz-und-moltebeere",
+      "title": {
+        "tileHeadline": "Pflegedusche Scandinavian Memories mit..., 250 ml",
+        "tileHeadlineLong": "Pflegedusche Scandinavian Memories mit..., 250 ml"
+      },
+      "trackingData": {
+        "brand": "ORINIQ",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8095,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4262367685788,
+    "dan": 1571086,
+    "brandName": "Freche Freunde",
+    "title": "Trinkfertiger Schokodrink Banane & Hafer, für Schulkinder, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Trinkfertiger Schokodrink Banane & Hafer, für Schulkinder, 250 ml; Preis: 1,55 €; Grundpreis: 0,25 l (6,20 € je 1 l)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 1571086,
+      "gtin": 4262367685788,
+      "images": [
+        {
+          "alt": "Trinkfertiger Schokodrink Banane & Hafer, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755063981/assets/pas/images/175343c9-ba01-4e9a-bd32-ea01d2a17679/freche-freunde-trinkfertiger-schokodrink-banane-und-hafer-fuer-schulkinder"
+        },
+        {
+          "alt": "Trinkfertiger Schokodrink Banane & Hafer, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755063980/assets/pas/images/4b019b38-8515-40c8-a372-6b01b65b26b4/freche-freunde-trinkfertiger-schokodrink-banane-und-hafer-fuer-schulkinder"
+        },
+        {
+          "alt": "Trinkfertiger Schokodrink Banane & Hafer, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755063980/assets/pas/images/5cebcb09-28fc-4811-a713-ca0db3302aac/freche-freunde-trinkfertiger-schokodrink-banane-und-hafer-fuer-schulkinder"
+        },
+        {
+          "alt": "Trinkfertiger Schokodrink Banane & Hafer, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755063977/assets/pas/images/78377b83-188d-4f93-9068-7f7f5abdc5ab/freche-freunde-trinkfertiger-schokodrink-banane-und-hafer-fuer-schulkinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,30 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (5,21 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (6,20 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.7188
+      },
+      "self": "/p/d/1571086/freche-freunde-trinkfertiger-schokodrink-banane-und-hafer-fuer-schulkinder",
+      "title": {
+        "tileHeadline": "Trinkfertiger Schokodrink Banane & Hafer, für..., 250 ml",
+        "tileHeadlineLong": "Trinkfertiger Schokodrink Banane & Hafer, für..., 250 ml"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Babynahrung & Getränke"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7188,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 4066447990447,
+    "dan": 1399509,
+    "brandName": "No Planet B",
+    "title": "Festes Duschgel Peach Paradise, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: No Planet B; Produktname: Festes Duschgel Peach Paradise, 80 g; Preis: 3,25 €; Grundpreis: 0,08 kg (40,63 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "No Planet B"
+      },
+      "dan": 1399509,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447990447,
+      "images": [
+        {
+          "alt": "Festes Duschgel Peach Paradise No Planet B",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238641/assets/pas/images/00926587-0f09-4e8b-8166-b8c66fc26f3d/no-planet-b-festes-duschgel-peach-paradise"
+        },
+        {
+          "alt": "Festes Duschgel Peach Paradise No Planet B",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238673/assets/pas/images/710946bb-149b-4ea0-9632-c408c19a1a33/no-planet-b-festes-duschgel-peach-paradise"
+        },
+        {
+          "alt": "Festes Duschgel Peach Paradise No Planet B",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238656/assets/pas/images/f3c0d85d-ae9c-4e8f-9f6e-2d68fbb0309f/no-planet-b-festes-duschgel-peach-paradise"
+        },
+        {
+          "alt": "Festes Duschgel Peach Paradise No Planet B",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238652/assets/pas/images/6a824a1e-1e0d-4629-b05a-716999d7f9e9/no-planet-b-festes-duschgel-peach-paradise"
+        },
+        {
+          "alt": "Festes Duschgel Peach Paradise No Planet B",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238668/assets/pas/images/f9af422c-f778-4cc1-a44f-fcb1d5ab391c/no-planet-b-festes-duschgel-peach-paradise"
+        },
+        {
+          "alt": "Festes Duschgel Peach Paradise No Planet B",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238662/assets/pas/images/82e9e622-310b-4aea-8d47-fbcc32729993/no-planet-b-festes-duschgel-peach-paradise"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (34,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (40,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.6481
+      },
+      "self": "/p/d/1399509/no-planet-b-festes-duschgel-peach-paradise",
+      "title": {
+        "tileHeadline": "Festes Duschgel Peach Paradise, 80 g",
+        "tileHeadlineLong": "Festes Duschgel Peach Paradise, 80 g"
+      },
+      "trackingData": {
+        "brand": "No Planet B",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6481,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 4260739994360,
+    "dan": 1697235,
+    "brandName": "share",
+    "title": "Nussriegel, Karamell Meersalz, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: share; Produktname: Nussriegel, Karamell Meersalz, 35 g; Preis: 1,85 €; Grundpreis: 0,035 kg (52,86 € je 1 kg)",
+      "brand": {
+        "name": "share"
+      },
+      "dan": 1697235,
+      "gtin": 4260739994360,
+      "images": [
+        {
+          "alt": "Nussriegel, Karamell Meersalz share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783114341/assets/pas/images/7cdc31df-0e1d-4453-9680-1d0792246dac/share-nussriegel-karamell-meersalz"
+        },
+        {
+          "alt": "Nussriegel, Karamell Meersalz share",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783114336/assets/pas/images/6c11b4f1-911e-431f-b0b8-8205f637cd68/share-nussriegel-karamell-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (49,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (52,86 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.6618
+      },
+      "self": "/p/d/1697235/share-nussriegel-karamell-meersalz",
+      "title": {
+        "tileHeadline": "Nussriegel, Karamell Meersalz, 35 g",
+        "tileHeadlineLong": "Nussriegel, Karamell Meersalz, 35 g"
+      },
+      "trackingData": {
+        "brand": "share",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6618,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4062300457157,
+    "dan": 3108906,
+    "brandName": "HiPP",
+    "title": "Trinkmahlzeit, Vanille, 330 ml",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Trinkmahlzeit, Vanille, 330 ml; Preis: 3,35 €; Grundpreis: 0,33 l (10,15 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 3108906,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4062300457157,
+      "images": [
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776295819/assets/pas/images/9973428d-e85b-4ff2-9425-1fc5017b4b43/hipp-trinkmahlzeit-vanille"
+        },
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321806/assets/pas/images/e20e6ff4-093e-43ec-a484-d9eeedc55cfc/hipp-trinkmahlzeit-vanille"
+        },
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764899153/assets/pas/images/5895ebd3-d90c-47c9-ae01-4f873409b03a/hipp-trinkmahlzeit-vanille"
+        },
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764899162/assets/pas/images/370b7e85-bbaa-4a2b-82ec-f44e7da32662/hipp-trinkmahlzeit-vanille"
+        },
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764153898/assets/pas/images/2036df63-052f-499b-8755-d3c6f8cb596b/hipp-trinkmahlzeit-vanille"
+        },
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764899168/assets/pas/images/f38d87ef-c3b4-48c4-a642-325b64d05cae/hipp-trinkmahlzeit-vanille"
+        },
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321800/assets/pas/images/cb39b1ff-b066-4c0c-98f6-51b5c20fb053/hipp-trinkmahlzeit-vanille"
+        },
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321813/assets/pas/images/acf26f9e-6d48-4775-a21a-9e890cdb4114/hipp-trinkmahlzeit-vanille"
+        },
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321820/assets/pas/images/a61286c6-1c15-4479-97da-c31c8d9aaef1/hipp-trinkmahlzeit-vanille"
+        },
+        {
+          "alt": "Trinkmahlzeit, Vanille HiPP",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764153951/assets/pas/images/2e215925-e0da-4afd-802c-d338b5bc95fb/hipp-trinkmahlzeit-vanille"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,13 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (9,49 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (10,15 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 35,
+        "ratingValue": 3.8857
+      },
+      "self": "/p/d/3108906/hipp-trinkmahlzeit-vanille",
+      "title": {
+        "tileHeadline": "Trinkmahlzeit, Vanille, 330 ml",
+        "tileHeadlineLong": "Trinkmahlzeit, Vanille, 330 ml"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8857,
+        "ratingCount": 35
+      }
+    }
+  },
+  {
+    "gtin": 4260556678344,
+    "dan": 1624890,
+    "brandName": "share",
+    "title": "Nussriegel, Schoko Heidelbeere, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: share; Produktname: Nussriegel, Schoko Heidelbeere, 35 g; Preis: 1,85 €; Grundpreis: 0,035 kg (52,86 € je 1 kg)",
+      "brand": {
+        "name": "share"
+      },
+      "dan": 1624890,
+      "gtin": 4260556678344,
+      "images": [
+        {
+          "alt": "Nussriegel, Schoko Heidelbeere share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773704722/assets/pas/images/3707f709-b906-481d-b086-20c9d8058e8e/share-nussriegel-schoko-heidelbeere"
+        },
+        {
+          "alt": "Nussriegel, Schoko Heidelbeere share",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773704728/assets/pas/images/cdc5f738-3bbc-4b4a-8123-189529cfaf31/share-nussriegel-schoko-heidelbeere"
+        },
+        {
+          "alt": "Nussriegel, Schoko Heidelbeere share",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493674/assets/pas/images/057ad19b-626d-4662-bc9a-ffbe81215e55/share-nussriegel-schoko-heidelbeere"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (49,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (52,86 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.9048
+      },
+      "self": "/p/d/1624890/share-nussriegel-schoko-heidelbeere",
+      "title": {
+        "tileHeadline": "Nussriegel, Schoko Heidelbeere, 35 g",
+        "tileHeadlineLong": "Nussriegel, Schoko Heidelbeere, 35 g"
+      },
+      "trackingData": {
+        "brand": "share",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9048,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4008233183527,
+    "dan": 3117120,
+    "brandName": "Kneipp",
+    "title": "Schaumbad Ein Hauch MAGIE, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Kneipp; Produktname: Schaumbad Ein Hauch MAGIE, 400 ml; Preis: 3,95 €; Grundpreis: 0,4 l (9,88 € je 1 l)",
+      "brand": {
+        "name": "Kneipp"
+      },
+      "dan": 3117120,
+      "gtin": 4008233183527,
+      "images": [
+        {
+          "alt": "Schaumbad Ein Hauch MAGIE Kneipp",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778282657/assets/pas/images/fc7b7f8a-cbfb-4f61-a5f7-ed972e14492a/kneipp-schaumbad-ein-hauch-magie"
+        },
+        {
+          "alt": "Schaumbad Ein Hauch MAGIE Kneipp",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778282649/assets/pas/images/bdbc1c05-ab3b-4488-94a4-fe8b7707e970/kneipp-schaumbad-ein-hauch-magie"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (8,30 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (9,88 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/3117120/kneipp-schaumbad-ein-hauch-magie",
+      "title": {
+        "tileHeadline": "Schaumbad Ein Hauch MAGIE, 400 ml",
+        "tileHeadlineLong": "Schaumbad Ein Hauch MAGIE, 400 ml"
+      },
+      "trackingData": {
+        "brand": "Kneipp",
+        "categories": [
+          "Badezusatz & Badesalz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 10
+      }
+    }
+  },
+  {
+    "gtin": 4006303009470,
+    "dan": 3110287,
+    "brandName": "Töpfer",
+    "title": "Baby Pflegelotion sensitiv, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Töpfer; Produktname: Baby Pflegelotion sensitiv, 150 ml; Preis: 4,45 €; Grundpreis: 0,15 l (29,67 € je 1 l)",
+      "brand": {
+        "name": "Töpfer"
+      },
+      "dan": 3110287,
+      "gtin": 4006303009470,
+      "images": [
+        {
+          "alt": "Baby Pflegelotion sensitiv Töpfer",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762419891/assets/pas/images/1b61650a-6402-4558-bc09-119432185aae/toepfer-baby-pflegelotion-sensitiv"
+        },
+        {
+          "alt": "Baby Pflegelotion sensitiv Töpfer",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762419885/assets/pas/images/d4e1c515-56cf-4fb9-82f5-3e6780f57441/toepfer-baby-pflegelotion-sensitiv"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,74 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (24,93 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (29,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3110287/toepfer-baby-pflegelotion-sensitiv",
+      "title": {
+        "tileHeadline": "Baby Pflegelotion sensitiv, 150 ml",
+        "tileHeadlineLong": "Baby Pflegelotion sensitiv, 150 ml"
+      },
+      "trackingData": {
+        "brand": "Töpfer",
+        "categories": [
+          "Babyöl & Babycreme"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4065331003645,
+    "dan": 1635038,
+    "brandName": "Bübchen",
+    "title": "Babypflege Baby Care, 7tlg Starterset, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: Bübchen; Produktname: Babypflege Baby Care, 7tlg Starterset, 1 St; Preis: 19,95 €; Grundpreis: 1 St (19,95 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "Bübchen"
+      },
+      "dan": 1635038,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4065331003645,
+      "images": [
+        {
+          "alt": "Babypflege Baby Care, 7tlg Starterset  Bübchen",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474550/assets/pas/images/12552466-ebda-4b09-8923-c73a6c3e1a66/buebchen-babypflege-baby-care-7tlg-starterset"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "16,76 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (16,76 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "19,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (19,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 135,
+        "ratingValue": 4.9259
+      },
+      "self": "/p/d/1635038/buebchen-babypflege-baby-care-7tlg-starterset",
+      "title": {
+        "tileHeadline": "Babypflege Baby Care, 7tlg Starterset, 1 St",
+        "tileHeadlineLong": "Babypflege Baby Care, 7tlg Starterset, 1 St"
+      },
+      "trackingData": {
+        "brand": "Bübchen",
+        "categories": [
+          "Geschenksets",
+          "Babyöl & Babycreme"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 19.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9259,
+        "ratingCount": 135
+      }
+    }
+  },
+  {
+    "gtin": 4066447986181,
+    "dan": 2486244,
+    "brandName": "HALLOHEBAMME",
+    "title": "Babybad Hafermilch, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: HALLOHEBAMME; Produktname: Babybad Hafermilch, 200 ml; Preis: 3,95 €; Grundpreis: 0,2 l (19,75 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "HALLOHEBAMME"
+      },
+      "dan": 2486244,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447986181,
+      "images": [
+        {
+          "alt": "Babybad Hafermilch  HALLOHEBAMME",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773184433/assets/pas/images/d7b720ed-7e1f-4595-a9c9-af334cf52bb7/hallohebamme-babybad-hafermilch"
+        },
+        {
+          "alt": "Babybad Hafermilch  HALLOHEBAMME",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773184437/assets/pas/images/cafb91f3-a29f-4b15-89d6-fceb3ac2d344/hallohebamme-babybad-hafermilch"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (16,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (19,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 179,
+        "ratingValue": 4.6201
+      },
+      "self": "/p/d/2486244/hallohebamme-babybad-hafermilch",
+      "title": {
+        "tileHeadline": "Babybad Hafermilch, 200 ml",
+        "tileHeadlineLong": "Babybad Hafermilch, 200 ml"
+      },
+      "trackingData": {
+        "brand": "HALLOHEBAMME",
+        "categories": [
+          "Babyshampoo, Badezusätze & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6201,
+        "ratingCount": 179
+      }
+    }
+  },
+  {
+    "gtin": 4065331001542,
+    "dan": 1624305,
+    "brandName": "Bübchen",
+    "title": "Baby Badezusatz Traum Bad & Dusche sensitiv, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Bübchen; Produktname: Baby Badezusatz Traum Bad & Dusche sensitiv, 500 ml; Preis: 3,55 €; Grundpreis: 0,5 l (7,10 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Bübchen"
+      },
+      "dan": 1624305,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4065331001542,
+      "images": [
+        {
+          "alt": "Baby Badezusatz Traum Bad & Dusche sensitiv Bübchen",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474755/assets/pas/images/1275e415-81c1-4c5e-9208-f84b4292f38f/buebchen-baby-badezusatz-traum-bad-und-dusche-sensitiv"
+        },
+        {
+          "alt": "Baby Badezusatz Traum Bad & Dusche sensitiv Bübchen",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474541/assets/pas/images/f6ed93aa-85ac-456c-933b-d418accaf771/buebchen-baby-badezusatz-traum-bad-und-dusche-sensitiv"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,98 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (5,97 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (7,10 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.6282
+      },
+      "self": "/p/d/1624305/buebchen-baby-badezusatz-traum-bad-und-dusche-sensitiv",
+      "title": {
+        "tileHeadline": "Baby Badezusatz Traum Bad & Dusche sensitiv, 500 ml",
+        "tileHeadlineLong": "Baby Badezusatz Traum Bad & Dusche sensitiv, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Bübchen",
+        "categories": [
+          "Babyshampoo, Badezusätze & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6282,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 3600542461450,
+    "dan": 1670304,
+    "brandName": "Wahre Schätze",
+    "title": "Shampoo Sanfte Hafermilch, empfindliches Haar, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Wahre Schätze; Produktname: Shampoo  Sanfte Hafermilch, empfindliches Haar, 400 ml; Preis: 3,45 €; Grundpreis: 0,4 l (8,63 € je 1 l)",
+      "brand": {
+        "name": "Wahre Schätze"
+      },
+      "dan": 1670304,
+      "gtin": 3600542461450,
+      "images": [
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420230/assets/pas/images/a1c35e9a-b167-4175-b9f2-5a8a2502f6ad/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761343882/assets/pas/images/64d23815-f910-434b-bd4d-7f9a285c14ef/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419920/assets/pas/images/2e1e97e9-ca29-4717-87b8-67dbd0068a83/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772581985/assets/pas/images/5cf8ad4d-b65b-4030-b4d1-c6f2d0f4cf05/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420072/assets/pas/images/fedc8690-f482-43b7-8f38-0dea3c63d2a6/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420054/assets/pas/images/7ccd2832-5d7a-4eef-aa23-769b03aca9d7/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419920/assets/pas/images/07dd57b7-63eb-4d64-96a1-3b3b3dbe74ab/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772581976/assets/pas/images/894bbae2-f6fc-4919-9b75-51a91763f37e/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420053/assets/pas/images/bc8800f1-1c79-4ef5-a57a-ddbf72610f43/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420059/assets/pas/images/f775afd5-414f-40e1-a59b-3b3d86fea187/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420076/assets/pas/images/f3077f97-adc7-410f-88d7-c4c542b4781f/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419925/assets/pas/images/7ccecfae-cc53-4a33-a45e-dabaa7fdc236/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420060/assets/pas/images/12879be5-79a7-43d2-8680-0b322e15a8f7/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        },
+        {
+          "alt": "Shampoo  Sanfte Hafermilch, empfindliches Haar  Wahre Schätze",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420077/assets/pas/images/4afd07fd-178d-4b1c-9885-4b783d868d94/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (7,25 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (8,63 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 439,
+        "ratingValue": 4.6355
+      },
+      "self": "/p/d/1670304/wahre-schaetze-shampoo-sanfte-hafermilch-empfindliches-haar",
+      "title": {
+        "tileHeadline": "Shampoo  Sanfte Hafermilch, empfindliches Haar, 400 ml",
+        "tileHeadlineLong": "Shampoo  Sanfte Hafermilch, empfindliches Haar, 400 ml"
+      },
+      "trackingData": {
+        "brand": "Wahre Schätze",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6355,
+        "ratingCount": 439
+      }
+    }
+  }
+]

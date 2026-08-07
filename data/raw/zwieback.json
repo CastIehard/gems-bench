@@ -1,0 +1,742 @@
+[
+  {
+    "gtin": 4070765021523,
+    "dan": 1489949,
+    "brandName": "dmBio",
+    "title": "Dinkel Zwieback, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Dinkel Zwieback, 200 g; Preis: 1,75 €; Grundpreis: 0,2 kg (8,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1489949,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765021523,
+      "images": [
+        {
+          "alt": "Dinkel Zwieback dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237634/assets/pas/images/cf85c0a7-849e-442b-8f26-a17ea3b115d4/dmbio-dinkel-zwieback"
+        },
+        {
+          "alt": "Dinkel Zwieback dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237641/assets/pas/images/5fb1aa22-fc5a-4e8e-94ad-dd3cb8a09aa6/dmbio-dinkel-zwieback"
+        },
+        {
+          "alt": "Dinkel Zwieback dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237646/assets/pas/images/4091d975-e45b-4b92-abce-743e9b8de61a/dmbio-dinkel-zwieback"
+        },
+        {
+          "alt": "Dinkel Zwieback dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237649/assets/pas/images/0ad64352-d977-4885-ad72-56bee1025989/dmbio-dinkel-zwieback"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 132,
+        "ratingValue": 4.5682
+      },
+      "self": "/p/d/1489949/dmbio-dinkel-zwieback",
+      "title": {
+        "tileHeadline": "Dinkel Zwieback, 200 g",
+        "tileHeadlineLong": "Dinkel Zwieback, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5682,
+        "ratingCount": 132
+      }
+    }
+  },
+  {
+    "gtin": 4018852036487,
+    "dan": 1551278,
+    "brandName": "Bebivita",
+    "title": "Frucht & Getreide Apfel Banane mit Zwieback, ab dem 5. Monat, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bebivita; Produktname: Frucht & Getreide Apfel Banane mit Zwieback, ab dem 5. Monat, 250 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,25 kg (4,60 € je 1 kg)",
+      "brand": {
+        "name": "Bebivita"
+      },
+      "dan": 1551278,
+      "gtin": 4018852036487,
+      "images": [
+        {
+          "alt": "Frucht & Getreide Apfel Banane mit Zwieback, ab dem 5. Monat Bebivita",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442698/assets/pas/images/700ea16d-03a9-40e7-91cb-cebf2f16b25a/bebivita-frucht-und-getreide-apfel-banane-mit-zwieback-ab-dem-5-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (4,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (4,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 4.7297
+      },
+      "self": "/p/d/1551278/bebivita-frucht-und-getreide-apfel-banane-mit-zwieback-ab-dem-5-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Getreide Apfel Banane mit Zwieback, ab..., 250 g",
+        "tileHeadlineLong": "Frucht & Getreide Apfel Banane mit Zwieback, ab..., 250 g"
+      },
+      "trackingData": {
+        "brand": "Bebivita",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7297,
+        "ratingCount": 74
+      }
+    }
+  },
+  {
+    "gtin": 4062300269835,
+    "dan": 1341683,
+    "brandName": "HiPP",
+    "title": "Frucht & Getreide Birne-Banane mit Zwieback ab dem 5. Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Frucht & Getreide Birne-Banane mit Zwieback ab dem 5. Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,45 €; Grundpreis: 0,19 kg (7,63 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1341683,
+      "gtin": 4062300269835,
+      "images": [
+        {
+          "alt": "Frucht & Getreide Birne-Banane mit Zwieback ab dem 5. Monat HiPP",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473553/assets/pas/images/4d848839-162f-40a5-a1c0-76ad24cc521b/hipp-frucht-und-getreide-birne-banane-mit-zwieback-ab-dem-5-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (7,13 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (7,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.9259
+      },
+      "self": "/p/d/1341683/hipp-frucht-und-getreide-birne-banane-mit-zwieback-ab-dem-5-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Getreide Birne-Banane mit Zwieback ab..., 190 g",
+        "tileHeadlineLong": "Frucht & Getreide Birne-Banane mit Zwieback ab..., 190 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9259,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 7640230491518,
+    "dan": 1689605,
+    "brandName": "Holle",
+    "title": "Babysnack Zwieback Honey Minis, ab dem 12. Monat, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Holle; Produktname: Babysnack Zwieback Honey Minis, ab dem 12. Monat, 100 g; Rechtliche Kategorie: Beikost; Preis: 2,45 €; Grundpreis: 0,1 kg (24,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Holle"
+      },
+      "dan": 1689605,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7640230491518,
+      "images": [
+        {
+          "alt": "Babysnack Zwieback Honey Minis, ab dem 12. Monat Holle",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099387/assets/pas/images/69c62587-d50e-46bd-b8d2-2181e10690ff/holle-babysnack-zwieback-honey-minis-ab-dem-12-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (22,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (24,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 13,
+        "ratingValue": 4.6154
+      },
+      "self": "/p/d/1689605/holle-babysnack-zwieback-honey-minis-ab-dem-12-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Babysnack Zwieback Honey Minis, ab dem 12. Monat, 100 g",
+        "tileHeadlineLong": "Babysnack Zwieback Honey Minis, ab dem 12. Monat, 100 g"
+      },
+      "trackingData": {
+        "brand": "Holle",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6154,
+        "ratingCount": 13
+      }
+    }
+  },
+  {
+    "gtin": 4260133232563,
+    "dan": 1529030,
+    "brandName": "FruchtBar",
+    "title": "Quetschie Kiwi Erdbeere Birne Banane Zwieback ab 6 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Quetschie Kiwi Erdbeere Birne Banane Zwieback ab 6 Monaten, 100 g; Rechtliche Kategorie: Beikost; Preis: 0,85 €; Grundpreis: 0,1 kg (8,50 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1529030,
+      "gtin": 4260133232563,
+      "images": [
+        {
+          "alt": "Quetschie Kiwi Erdbeere Birne Banane Zwieback ab 6 Monaten FruchtBar",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491448/assets/pas/images/26c7f5dc-bfda-4b45-b088-54a74a012960/fruchtbar-quetschie-kiwi-erdbeere-birne-banane-zwieback-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Kiwi Erdbeere Birne Banane Zwieback ab 6 Monaten FruchtBar",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754957875/assets/pas/images/ecd26687-8bcf-43bb-add7-7657617f5d49/fruchtbar-quetschie-kiwi-erdbeere-birne-banane-zwieback-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Kiwi Erdbeere Birne Banane Zwieback ab 6 Monaten FruchtBar",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754957878/assets/pas/images/cbd1cc2d-22ee-48bf-8fb3-73a1589842c0/fruchtbar-quetschie-kiwi-erdbeere-birne-banane-zwieback-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (7,94 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (8,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 62,
+        "ratingValue": 4.8387
+      },
+      "self": "/p/d/1529030/fruchtbar-quetschie-kiwi-erdbeere-birne-banane-zwieback-ab-6-monaten",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Quetschie Kiwi Erdbeere Birne Banane Zwieback ab..., 100 g",
+        "tileHeadlineLong": "Quetschie Kiwi Erdbeere Birne Banane Zwieback ab..., 100 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8387,
+        "ratingCount": 62
+      }
+    }
+  },
+  {
+    "gtin": 4067796171983,
+    "dan": 1602876,
+    "brandName": "babylove",
+    "title": "Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: babylove; Produktname: Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 0,85 €; Grundpreis: 0,19 kg (4,47 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "babylove"
+      },
+      "dan": 1602876,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796171983,
+      "images": [
+        {
+          "alt": "Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat babylove",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765583545/assets/pas/images/897866e6-29d3-4ad1-9a6c-b78c21259752/babylove-frucht-und-getreide-apfel-mit-zwieback-ab-dem-6-monat"
+        },
+        {
+          "alt": "Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat babylove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765583540/assets/pas/images/15d879b9-a2a0-4749-8402-30ab1ac8f6ce/babylove-frucht-und-getreide-apfel-mit-zwieback-ab-dem-6-monat"
+        },
+        {
+          "alt": "Frucht & Getreide Apfel mit Zwieback, ab dem 6.Monat babylove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765583534/assets/pas/images/8a4f8982-28c6-463c-9bf7-f80f9cd0af5e/babylove-frucht-und-getreide-apfel-mit-zwieback-ab-dem-6-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (4,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (4,47 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.6585
+      },
+      "self": "/p/d/1602876/babylove-frucht-und-getreide-apfel-mit-zwieback-ab-dem-6-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Getreide Apfel mit Zwieback, ab dem..., 190 g",
+        "tileHeadlineLong": "Frucht & Getreide Apfel mit Zwieback, ab dem..., 190 g"
+      },
+      "trackingData": {
+        "brand": "babylove",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6585,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 4062300471627,
+    "dan": 3078301,
+    "brandName": "HiPP",
+    "title": "Abendbrei Milch Gute Nacht Hafer Apfel ab dem 6. Monat, 475 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Abendbrei Milch Gute Nacht Hafer Apfel ab dem 6. Monat, 475 g; Rechtliche Kategorie: Beikost; Preis: 4,85 €; Grundpreis: 0,475 kg (10,21 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 3078301,
+      "gtin": 4062300471627,
+      "images": [
+        {
+          "alt": "Abendbrei Milch Gute Nacht Hafer Apfel ab dem 6. Monat HiPP",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773357667/assets/pas/images/3e39bfd5-dde5-458c-a1bd-b6ddbfb3a5eb/hipp-abendbrei-milch-gute-nacht-hafer-apfel-ab-dem-6-monat"
+        },
+        {
+          "alt": "Abendbrei Milch Gute Nacht Hafer Apfel ab dem 6. Monat HiPP",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773357694/assets/pas/images/4d45bb6f-7366-47dc-ab75-d75127edd61a/hipp-abendbrei-milch-gute-nacht-hafer-apfel-ab-dem-6-monat"
+        },
+        {
+          "alt": "Abendbrei Milch Gute Nacht Hafer Apfel ab dem 6. Monat HiPP",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773357723/assets/pas/images/dba403e2-186d-47b9-8a14-90751674fc99/hipp-abendbrei-milch-gute-nacht-hafer-apfel-ab-dem-6-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,53 €"
+          }
+        },
+        "tileInfos": [
+          "0,475 kg (9,54 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,475 kg (10,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 155,
+        "ratingValue": 4.5935
+      },
+      "self": "/p/d/3078301/hipp-abendbrei-milch-gute-nacht-hafer-apfel-ab-dem-6-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Abendbrei Milch Gute Nacht Hafer Apfel ab dem 6...., 475 g",
+        "tileHeadlineLong": "Abendbrei Milch Gute Nacht Hafer Apfel ab dem 6...., 475 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babybrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5935,
+        "ratingCount": 155
+      }
+    }
+  },
+  {
+    "gtin": 4062300289437,
+    "dan": 1440038,
+    "brandName": "HiPP",
+    "title": "Quetschie Apfel-Banane & Babykeks nach dem 4. Monat (4x90 g), 360 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Quetschie Apfel-Banane & Babykeks nach dem 4. Monat (4x90 g), 360 g; Rechtliche Kategorie: Beikost; Preis: 3,65 €; Grundpreis: 0,36 kg (10,14 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1440038,
+      "gtin": 4062300289437,
+      "images": [
+        {
+          "alt": "Quetschie Apfel-Banane & Babykeks nach dem 4. Monat (4x90 g) HiPP",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473909/assets/pas/images/1efb2c3e-a446-491a-a6b9-31de9e596c75/hipp-quetschie-apfel-banane-und-babykeks-nach-dem-4-monat-4x90-g"
+        },
+        {
+          "alt": "Quetschie Apfel-Banane & Babykeks nach dem 4. Monat (4x90 g) HiPP",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750891711/assets/pas/images/7a277ae1-0ba7-4fef-b3bb-ac4468d6ee53/hipp-quetschie-apfel-banane-und-babykeks-nach-dem-4-monat-4x90-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,41 €"
+          }
+        },
+        "tileInfos": [
+          "0,36 kg (9,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,36 kg (10,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 136,
+        "ratingValue": 4.8824
+      },
+      "self": "/p/d/1440038/hipp-quetschie-apfel-banane-und-babykeks-nach-dem-4-monat-4x90-g",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Quetschie Apfel-Banane & Babykeks nach dem 4...., 360 g",
+        "tileHeadlineLong": "Quetschie Apfel-Banane & Babykeks nach dem 4...., 360 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8824,
+        "ratingCount": 136
+      }
+    }
+  },
+  {
+    "gtin": 7640104959519,
+    "dan": 1546533,
+    "brandName": "Holle",
+    "title": "Babysnack Zwieback Dinkel, ab dem 7. Monat, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: Holle; Produktname: Babysnack Zwieback Dinkel, ab dem 7. Monat, 200 g; Rechtliche Kategorie: Beikost; Preis: 2,95 €; Grundpreis: 0,2 kg (14,75 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Holle"
+      },
+      "dan": 1546533,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7640104959519,
+      "images": [
+        {
+          "alt": "Babysnack Zwieback Dinkel, ab dem 7. Monat Holle",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770159548/assets/pas/images/f8e2a2ba-d90a-4be4-a01f-c4ed99d906a6/holle-babysnack-zwieback-dinkel-ab-dem-7-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (13,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (14,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 49,
+        "ratingValue": 4.3265
+      },
+      "self": "/p/d/1546533/holle-babysnack-zwieback-dinkel-ab-dem-7-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Babysnack Zwieback Dinkel, ab dem 7. Monat, 200 g",
+        "tileHeadlineLong": "Babysnack Zwieback Dinkel, ab dem 7. Monat, 200 g"
+      },
+      "trackingData": {
+        "brand": "Holle",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3265,
+        "ratingCount": 49
+      }
+    }
+  }
+]

@@ -1,0 +1,2657 @@
+[
+  {
+    "gtin": 4008258153031,
+    "dan": 3084320,
+    "brandName": "Seeberger",
+    "title": "Nussmischung, Power Nuss-Mix, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Nussmischung, Power Nuss-Mix, 125 g; Preis: 3,45 €; Grundpreis: 0,125 kg (27,60 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 3084320,
+      "gtin": 4008258153031,
+      "images": [
+        {
+          "alt": "Nussmischung, Power Nuss-Mix Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758664295/assets/pas/images/f0f91d43-58f9-44de-a4ef-d21071cc781e/seeberger-nussmischung-power-nuss-mix"
+        },
+        {
+          "alt": "Nussmischung, Power Nuss-Mix Seeberger",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767652498/assets/pas/images/33eaceee-f27d-4ec6-a274-986893fe001d/seeberger-nussmischung-power-nuss-mix"
+        },
+        {
+          "alt": "Nussmischung, Power Nuss-Mix Seeberger",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763075006/assets/pas/images/87531948-c9b0-45ac-ba39-1b8e88bfce25/seeberger-nussmischung-power-nuss-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (25,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (27,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 35,
+        "ratingValue": 4.8571
+      },
+      "self": "/p/d/3084320/seeberger-nussmischung-power-nuss-mix",
+      "title": {
+        "tileHeadline": "Nussmischung, Power Nuss-Mix, 125 g",
+        "tileHeadlineLong": "Nussmischung, Power Nuss-Mix, 125 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8571,
+        "ratingCount": 35
+      }
+    }
+  },
+  {
+    "gtin": 4008258020043,
+    "dan": 1570339,
+    "brandName": "Seeberger",
+    "title": "Nussmischung, Nuss-Trio geröstet & gesalzen, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Nussmischung, Nuss-Trio geröstet & gesalzen, 150 g; Preis: 3,35 €; Grundpreis: 0,15 kg (22,33 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 1570339,
+      "gtin": 4008258020043,
+      "images": [
+        {
+          "alt": "Nussmischung, Nuss-Trio geröstet & gesalzen Seeberger",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755296383/assets/pas/images/ae36841c-c20f-4f93-ab0e-061d9cc3bcae/seeberger-nussmischung-nuss-trio-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Nussmischung, Nuss-Trio geröstet & gesalzen Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766702600/assets/pas/images/d88bdeee-335e-4ffa-83a8-5244abf40288/seeberger-nussmischung-nuss-trio-geroestet-und-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,13 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (20,87 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (22,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.6429
+      },
+      "self": "/p/d/1570339/seeberger-nussmischung-nuss-trio-geroestet-und-gesalzen",
+      "title": {
+        "tileHeadline": "Nussmischung, Nuss-Trio geröstet & gesalzen, 150 g",
+        "tileHeadlineLong": "Nussmischung, Nuss-Trio geröstet & gesalzen, 150 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6429,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4008258464007,
+    "dan": 3078302,
+    "brandName": "Seeberger",
+    "title": "Nussmischung, Schoko & Meersalz, 110 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Nussmischung, Schoko & Meersalz, 110 g; Preis: 2,95 €; Grundpreis: 0,11 kg (26,82 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 3078302,
+      "gtin": 4008258464007,
+      "images": [
+        {
+          "alt": "Nussmischung, Schoko & Meersalz Seeberger",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750114582/assets/pas/images/36acbe88-f004-48e3-8571-01d526452444/seeberger-nussmischung-schoko-und-meersalz"
+        },
+        {
+          "alt": "Nussmischung, Schoko & Meersalz Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750114571/assets/pas/images/ee93066e-7a76-4b0e-8972-024d521c9979/seeberger-nussmischung-schoko-und-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (25,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (26,82 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.6226
+      },
+      "self": "/p/d/3078302/seeberger-nussmischung-schoko-und-meersalz",
+      "title": {
+        "tileHeadline": "Nussmischung, Schoko & Meersalz, 110 g",
+        "tileHeadlineLong": "Nussmischung, Schoko & Meersalz, 110 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6226,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4008258154229,
+    "dan": 1506045,
+    "brandName": "Seeberger",
+    "title": "Nuss- & Trockenfrüchtemischung, Studentenfutter, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Nuss- & Trockenfrüchtemischung, Studentenfutter, 150 g; Preis: 2,95 €; Grundpreis: 0,15 kg (19,67 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 1506045,
+      "gtin": 4008258154229,
+      "images": [
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Studentenfutter Seeberger",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755295878/assets/pas/images/75bf3428-ed16-4381-9e86-65af1aa506df/seeberger-nuss-und-trockenfruechtemischung-studentenfutter"
+        },
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Studentenfutter Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758229461/assets/pas/images/f1d110f9-ad8f-4511-a498-26edd5edbba8/seeberger-nuss-und-trockenfruechtemischung-studentenfutter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (18,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (19,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 72,
+        "ratingValue": 4.7778
+      },
+      "self": "/p/d/1506045/seeberger-nuss-und-trockenfruechtemischung-studentenfutter",
+      "title": {
+        "tileHeadline": "Nuss- & Trockenfrüchtemischung, Studentenfutter, 150 g",
+        "tileHeadlineLong": "Nuss- & Trockenfrüchtemischung, Studentenfutter, 150 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7778,
+        "ratingCount": 72
+      }
+    }
+  },
+  {
+    "gtin": 4008258150092,
+    "dan": 1506033,
+    "brandName": "Seeberger",
+    "title": "Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss, 150 g; Preis: 3,95 €; Grundpreis: 0,15 kg (26,33 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 1506033,
+      "gtin": 4008258150092,
+      "images": [
+        {
+          "alt": "Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss Seeberger",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755102181/assets/pas/images/be710ac5-a522-4361-a6b7-ea4b2d77129f/seeberger-nussmischung-nusskern-mischung-mit-haselnuss-mandel-cashew-und-walnuss"
+        },
+        {
+          "alt": "Nussmischung, Nusskern-Mischung mit Haselnuss, Mandel, Cashew & Walnuss Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755102173/assets/pas/images/58d391aa-f256-4f1a-a4e7-2a19e1f22883/seeberger-nussmischung-nusskern-mischung-mit-haselnuss-mandel-cashew-und-walnuss"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (24,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (26,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.7805
+      },
+      "self": "/p/d/1506033/seeberger-nussmischung-nusskern-mischung-mit-haselnuss-mandel-cashew-und-walnuss",
+      "title": {
+        "tileHeadline": "Nussmischung, Nusskern-Mischung mit Haselnuss,..., 150 g",
+        "tileHeadlineLong": "Nussmischung, Nusskern-Mischung mit Haselnuss,..., 150 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7805,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 4255582815474,
+    "dan": 3069932,
+    "brandName": "KoRo",
+    "title": "Nussmischung, Tamari Protein-Nuss-Mix, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Nussmischung, Tamari Protein-Nuss-Mix, 160 g; Preis: 3,95 €; Grundpreis: 0,16 kg (24,69 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 3069932,
+      "gtin": 4255582815474,
+      "images": [
+        {
+          "alt": "Nussmischung, Tamari Protein-Nuss-Mix KoRo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754926576/assets/pas/images/2b24cd50-cfde-469f-b535-d1379af4e27a/koro-nussmischung-tamari-protein-nuss-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (23,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (24,69 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 41,
+        "ratingValue": 4.2195
+      },
+      "self": "/p/d/3069932/koro-nussmischung-tamari-protein-nuss-mix",
+      "title": {
+        "tileHeadline": "Nussmischung, Tamari Protein-Nuss-Mix, 160 g",
+        "tileHeadlineLong": "Nussmischung, Tamari Protein-Nuss-Mix, 160 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2195,
+        "ratingCount": 41
+      }
+    }
+  },
+  {
+    "gtin": 4070765016260,
+    "dan": 3115599,
+    "brandName": "dmBio",
+    "title": "Pekannüsse, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pekannüsse, 100 g; Preis: 3,25 €; Grundpreis: 0,1 kg (32,50 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115599,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016260,
+      "images": [
+        {
+          "alt": "Pekannüsse dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781221073/assets/pas/images/e339035a-9b9e-429c-bdc3-8cf164deffb6/dmbio-pekannuesse"
+        },
+        {
+          "alt": "Pekannüsse dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781221068/assets/pas/images/1fb55dbc-1f13-407c-9676-aee6f5b7344e/dmbio-pekannuesse"
+        },
+        {
+          "alt": "Pekannüsse dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305561/assets/pas/images/c0736039-6a9b-4324-96e7-3db7b31c02ac/dmbio-pekannuesse"
+        },
+        {
+          "alt": "Pekannüsse dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781221064/assets/pas/images/b8052a00-9bbc-48c6-a6b2-6111b0d51c09/dmbio-pekannuesse"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (30,37 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (32,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/3115599/dmbio-pekannuesse",
+      "title": {
+        "tileHeadline": "Pekannüsse, 100 g",
+        "tileHeadlineLong": "Pekannüsse, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 6
+      }
+    }
+  },
+  {
+    "gtin": 4255582815450,
+    "dan": 3069924,
+    "brandName": "KoRo",
+    "title": "Nussmischung, Mediterraner Protein-Nuss-Mix, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Nussmischung, Mediterraner Protein-Nuss-Mix, 160 g; Preis: 3,95 €; Grundpreis: 0,16 kg (24,69 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 3069924,
+      "gtin": 4255582815450,
+      "images": [
+        {
+          "alt": "Nussmischung, Mediterraner Protein-Nuss-Mix KoRo",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755104694/assets/pas/images/01173e25-809b-421b-ae52-474e0331702a/koro-nussmischung-mediterraner-protein-nuss-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (23,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (24,69 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 34,
+        "ratingValue": 4.2353
+      },
+      "self": "/p/d/3069924/koro-nussmischung-mediterraner-protein-nuss-mix",
+      "title": {
+        "tileHeadline": "Nussmischung, Mediterraner Protein-Nuss-Mix, 160 g",
+        "tileHeadlineLong": "Nussmischung, Mediterraner Protein-Nuss-Mix, 160 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2353,
+        "ratingCount": 34
+      }
+    }
+  },
+  {
+    "gtin": 4067796206470,
+    "dan": 1328485,
+    "brandName": "dmBio",
+    "title": "Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g; Preis: 1,95 €; Grundpreis: 0,15 kg (13,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1328485,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796206470,
+      "images": [
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Trail Mix dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756854094/assets/pas/images/13fdfc75-81ae-4685-be9d-d7319971d587/dmbio-nuss-und-trockenfruechtemischung-trail-mix"
+        },
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Trail Mix dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756854087/assets/pas/images/3e8c51b1-129b-495f-bf56-f4af99fc1cf5/dmbio-nuss-und-trockenfruechtemischung-trail-mix"
+        },
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Trail Mix dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756854083/assets/pas/images/913ab6a7-3a13-4a87-91ac-e12d1186dc00/dmbio-nuss-und-trockenfruechtemischung-trail-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (12,15 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (13,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/1328485/dmbio-nuss-und-trockenfruechtemischung-trail-mix",
+      "title": {
+        "tileHeadline": "Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g",
+        "tileHeadlineLong": "Nuss- & Trockenfrüchtemischung, Trail Mix, 150 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Trockenfrüchte",
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 4255582815498,
+    "dan": 3069942,
+    "brandName": "KoRo",
+    "title": "Nussmischung, Gerösteter Edelnuss-Mix, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Nussmischung, Gerösteter Edelnuss-Mix, 160 g; Preis: 5,45 €; Grundpreis: 0,16 kg (34,06 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 3069942,
+      "gtin": 4255582815498,
+      "images": [
+        {
+          "alt": "Nussmischung, Gerösteter Edelnuss-Mix  KoRo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755012342/assets/pas/images/5431dfec-c4b1-4b66-88fb-97d4a513aaed/koro-nussmischung-geroesteter-edelnuss-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,09 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (31,83 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (34,06 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 16,
+        "ratingValue": 2.9375
+      },
+      "self": "/p/d/3069942/koro-nussmischung-geroesteter-edelnuss-mix",
+      "title": {
+        "tileHeadline": "Nussmischung, Gerösteter Edelnuss-Mix, 160 g",
+        "tileHeadlineLong": "Nussmischung, Gerösteter Edelnuss-Mix, 160 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.9375,
+        "ratingCount": 16
+      }
+    }
+  },
+  {
+    "gtin": 4070765016338,
+    "dan": 3115663,
+    "brandName": "dmBio",
+    "title": "Nussmischung, Nusskernmix mit Salz & Pfeffer, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nussmischung, Nusskernmix mit Salz & Pfeffer, 150 g; Preis: 2,95 €; Grundpreis: 0,15 kg (19,67 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115663,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016338,
+      "images": [
+        {
+          "alt": "Nussmischung, Nusskernmix mit Salz & Pfeffer dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781224784/assets/pas/images/a1ff9f16-36f5-4ba1-8c2c-ee0f30142879/dmbio-nussmischung-nusskernmix-mit-salz-und-pfeffer"
+        },
+        {
+          "alt": "Nussmischung, Nusskernmix mit Salz & Pfeffer dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781224778/assets/pas/images/878f6788-d8f6-4634-afcb-2f1bcf7bba25/dmbio-nussmischung-nusskernmix-mit-salz-und-pfeffer"
+        },
+        {
+          "alt": "Nussmischung, Nusskernmix mit Salz & Pfeffer dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303059/assets/pas/images/0dc5b1dd-7b42-4099-bd23-5f868e97df79/dmbio-nussmischung-nusskernmix-mit-salz-und-pfeffer"
+        },
+        {
+          "alt": "Nussmischung, Nusskernmix mit Salz & Pfeffer dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781224775/assets/pas/images/5321e250-e277-4a0c-ae50-15cb7ebccecf/dmbio-nussmischung-nusskernmix-mit-salz-und-pfeffer"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (18,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (19,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 14,
+        "ratingValue": 4.1429
+      },
+      "self": "/p/d/3115663/dmbio-nussmischung-nusskernmix-mit-salz-und-pfeffer",
+      "title": {
+        "tileHeadline": "Nussmischung, Nusskernmix mit Salz & Pfeffer, 150 g",
+        "tileHeadlineLong": "Nussmischung, Nusskernmix mit Salz & Pfeffer, 150 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse",
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1429,
+        "ratingCount": 14
+      }
+    }
+  },
+  {
+    "gtin": 4067796208078,
+    "dan": 3095503,
+    "brandName": "dmBio",
+    "title": "Nuss- & Fruchtmischung, Tropic Mix, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nuss- & Fruchtmischung, Tropic Mix, 200 g; Preis: 2,95 €; Grundpreis: 0,2 kg (14,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3095503,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796208078,
+      "images": [
+        {
+          "alt": "Nuss- & Fruchtmischung, Tropic Mix dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132166/assets/pas/images/7050ec87-dc9c-4bb7-ade6-5485583757df/dmbio-nuss-und-fruchtmischung-tropic-mix"
+        },
+        {
+          "alt": "Nuss- & Fruchtmischung, Tropic Mix dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132153/assets/pas/images/b4fce227-a272-4cb7-8b13-c5b5c5589013/dmbio-nuss-und-fruchtmischung-tropic-mix"
+        },
+        {
+          "alt": "Nuss- & Fruchtmischung, Tropic Mix dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132162/assets/pas/images/8e743c56-8c20-4fbb-8e10-5cf7cd6608a3/dmbio-nuss-und-fruchtmischung-tropic-mix"
+        },
+        {
+          "alt": "Nuss- & Fruchtmischung, Tropic Mix dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132159/assets/pas/images/6ebe7025-8080-481b-bdc6-2e0974de3d53/dmbio-nuss-und-fruchtmischung-tropic-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (13,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (14,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.5294
+      },
+      "self": "/p/d/3095503/dmbio-nuss-und-fruchtmischung-tropic-mix",
+      "title": {
+        "tileHeadline": "Nuss- & Fruchtmischung, Tropic Mix, 200 g",
+        "tileHeadlineLong": "Nuss- & Fruchtmischung, Tropic Mix, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Trockenfrüchte",
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5294,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4070765016376,
+    "dan": 3115692,
+    "brandName": "dmBio",
+    "title": "Nuss- & Trockenfrüchtemischung, Nuss Frucht Mix, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nuss- & Trockenfrüchtemischung, Nuss Frucht Mix, 150 g; Preis: 2,75 €; Grundpreis: 0,15 kg (18,33 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115692,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016376,
+      "images": [
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Nuss Frucht Mix dmBio",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781219611/assets/pas/images/8816a7df-6536-4f7e-a2a6-a06fb3b73ec5/dmbio-nuss-und-trockenfruechtemischung-nuss-frucht-mix"
+        },
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Nuss Frucht Mix dmBio",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781219605/assets/pas/images/d30752b7-6353-40e8-9cbc-9269da4d99d8/dmbio-nuss-und-trockenfruechtemischung-nuss-frucht-mix"
+        },
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Nuss Frucht Mix dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781304049/assets/pas/images/3d1d0c2d-436c-40c6-8669-b0d126040a50/dmbio-nuss-und-trockenfruechtemischung-nuss-frucht-mix"
+        },
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Nuss Frucht Mix dmBio",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781219602/assets/pas/images/3283ac07-23e4-42ef-966c-da5dfa277756/dmbio-nuss-und-trockenfruechtemischung-nuss-frucht-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (17,13 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (18,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/3115692/dmbio-nuss-und-trockenfruechtemischung-nuss-frucht-mix",
+      "title": {
+        "tileHeadline": "Nuss- & Trockenfrüchtemischung, Nuss Frucht Mix, 150 g",
+        "tileHeadlineLong": "Nuss- & Trockenfrüchtemischung, Nuss Frucht Mix, 150 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 4070765016390,
+    "dan": 3115686,
+    "brandName": "dmBio",
+    "title": "Nussmischung, Edler Nuss Mix, geröstet & ungesalzen, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nussmischung, Edler Nuss Mix, geröstet & ungesalzen, 150 g; Preis: 3,45 €; Grundpreis: 0,15 kg (23,00 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115686,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016390,
+      "images": [
+        {
+          "alt": "Nussmischung, Edler Nuss Mix, geröstet & ungesalzen dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781224750/assets/pas/images/8d289bf2-f3f8-4d10-afc1-8b5309533553/dmbio-nussmischung-edler-nuss-mix-geroestet-und-ungesalzen"
+        },
+        {
+          "alt": "Nussmischung, Edler Nuss Mix, geröstet & ungesalzen dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781224744/assets/pas/images/477f9cb6-7ff1-45c6-bc2f-ce368ab08903/dmbio-nussmischung-edler-nuss-mix-geroestet-und-ungesalzen"
+        },
+        {
+          "alt": "Nussmischung, Edler Nuss Mix, geröstet & ungesalzen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303041/assets/pas/images/eff4649c-358f-40ad-9634-344b5c2e5465/dmbio-nussmischung-edler-nuss-mix-geroestet-und-ungesalzen"
+        },
+        {
+          "alt": "Nussmischung, Edler Nuss Mix, geröstet & ungesalzen dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781224754/assets/pas/images/a24a08c7-79cd-4977-a327-edd7805afae4/dmbio-nussmischung-edler-nuss-mix-geroestet-und-ungesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (21,50 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (23,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 4.8889
+      },
+      "self": "/p/d/3115686/dmbio-nussmischung-edler-nuss-mix-geroestet-und-ungesalzen",
+      "title": {
+        "tileHeadline": "Nussmischung, Edler Nuss Mix, geröstet &..., 150 g",
+        "tileHeadlineLong": "Nussmischung, Edler Nuss Mix, geröstet &..., 150 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9,
+        "ratingCount": 10
+      }
+    }
+  },
+  {
+    "gtin": 4070765016345,
+    "dan": 3115588,
+    "brandName": "dmBio",
+    "title": "Nuss- & Trockenfrüchtemischung, Trekking Mix, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nuss- & Trockenfrüchtemischung, Trekking Mix, 100 g; Preis: 2,45 €; Grundpreis: 0,15 kg (16,33 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115588,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016345,
+      "images": [
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Trekking Mix dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781222178/assets/pas/images/8fce5017-df51-45c7-96a0-005f08bc0b04/dmbio-nuss-und-trockenfruechtemischung-trekking-mix"
+        },
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Trekking Mix dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781222173/assets/pas/images/6fd36892-33e7-422d-915f-4520103c1fb6/dmbio-nuss-und-trockenfruechtemischung-trekking-mix"
+        },
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Trekking Mix dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781306430/assets/pas/images/eb3df395-70c0-4516-9906-8f8c1403a385/dmbio-nuss-und-trockenfruechtemischung-trekking-mix"
+        },
+        {
+          "alt": "Nuss- & Trockenfrüchtemischung, Trekking Mix dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781222182/assets/pas/images/7a93ee29-55ca-4c97-bcf5-e55624cea827/dmbio-nuss-und-trockenfruechtemischung-trekking-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (15,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (16,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 13,
+        "ratingValue": 4.5385
+      },
+      "self": "/p/d/3115588/dmbio-nuss-und-trockenfruechtemischung-trekking-mix",
+      "title": {
+        "tileHeadline": "Nuss- & Trockenfrüchtemischung, Trekking Mix, 100 g",
+        "tileHeadlineLong": "Nuss- & Trockenfrüchtemischung, Trekking Mix, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5385,
+        "ratingCount": 13
+      }
+    }
+  },
+  {
+    "gtin": 4066447295153,
+    "dan": 1676355,
+    "brandName": "dmBio",
+    "title": "Nussmischung, schokoliert, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nussmischung, schokoliert, 120 g; Preis: 2,95 €; Grundpreis: 0,12 kg (24,58 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1676355,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447295153,
+      "images": [
+        {
+          "alt": "Nussmischung, schokoliert dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747479354/assets/pas/images/bd306b1f-1a79-4fe7-bc1f-8b0f9c2cbd97/dmbio-nussmischung-schokoliert"
+        },
+        {
+          "alt": "Nussmischung, schokoliert dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747479354/assets/pas/images/dcf5e6b9-1b06-4124-b170-e5978ef481b7/dmbio-nussmischung-schokoliert"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (22,97 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,58 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 103,
+        "ratingValue": 4.6214
+      },
+      "self": "/p/d/1676355/dmbio-nussmischung-schokoliert",
+      "title": {
+        "tileHeadline": "Nussmischung, schokoliert, 120 g",
+        "tileHeadlineLong": "Nussmischung, schokoliert, 120 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse",
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6214,
+        "ratingCount": 103
+      }
+    }
+  },
+  {
+    "gtin": 4066447874228,
+    "dan": 1634194,
+    "brandName": "dmBio",
+    "title": "Pistazien, geröstet & gesalzen, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pistazien, geröstet & gesalzen, 200 g; Preis: 4,45 €; Grundpreis: 0,2 kg (22,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1634194,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447874228,
+      "images": [
+        {
+          "alt": "Pistazien, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768348741/assets/pas/images/30306eed-ddd8-4939-84d1-240816a98ac4/dmbio-pistazien-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Pistazien, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768348750/assets/pas/images/f5adf716-28e1-49f0-84fe-c67705c69e89/dmbio-pistazien-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Pistazien, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768348754/assets/pas/images/799c924d-e104-44e3-acc3-7e2636bb5139/dmbio-pistazien-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Pistazien, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768348746/assets/pas/images/ed9f2076-fcb1-4024-9612-24aeea7d9412/dmbio-pistazien-geroestet-und-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (20,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (22,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 139,
+        "ratingValue": 4.2518
+      },
+      "self": "/p/d/1634194/dmbio-pistazien-geroestet-und-gesalzen",
+      "title": {
+        "tileHeadline": "Pistazien, geröstet & gesalzen, 200 g",
+        "tileHeadlineLong": "Pistazien, geröstet & gesalzen, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse",
+          "Studentenfutter"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2518,
+        "ratingCount": 139
+      }
+    }
+  },
+  {
+    "gtin": 4008258130018,
+    "dan": 1004138,
+    "brandName": "Seeberger",
+    "title": "Walnusskerne, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Walnusskerne, 150 g; Preis: 4,45 €; Grundpreis: 0,15 kg (29,67 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 1004138,
+      "gtin": 4008258130018,
+      "images": [
+        {
+          "alt": "Walnusskerne Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009031/assets/pas/images/94899306-0ea0-4ff0-b590-62948b5097e3/seeberger-walnusskerne"
+        },
+        {
+          "alt": "Walnusskerne Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009059/assets/pas/images/23c38ba8-4451-4f34-aa1e-5c029f2ef20b/seeberger-walnusskerne"
+        },
+        {
+          "alt": "Walnusskerne Seeberger",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763076253/assets/pas/images/13441c12-1525-4173-93ce-61110f24cda8/seeberger-walnusskerne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (27,73 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (29,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 93,
+        "ratingValue": 4.8387
+      },
+      "self": "/p/d/1004138/seeberger-walnusskerne",
+      "title": {
+        "tileHeadline": "Walnusskerne, 150 g",
+        "tileHeadlineLong": "Walnusskerne, 150 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8387,
+        "ratingCount": 93
+      }
+    }
+  },
+  {
+    "gtin": 4008258147009,
+    "dan": 1662085,
+    "brandName": "Seeberger",
+    "title": "Kokoschips, 110 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Kokoschips, 110 g; Preis: 2,55 €; Grundpreis: 0,11 kg (23,18 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 1662085,
+      "gtin": 4008258147009,
+      "images": [
+        {
+          "alt": "Kokoschips Seeberger",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775774801/assets/pas/images/8d7ac9d0-7f24-4261-817d-9a926253a451/seeberger-kokoschips"
+        },
+        {
+          "alt": "Kokoschips Seeberger",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775774813/assets/pas/images/f7dff905-3214-4d8f-b782-d8957606d3ad/seeberger-kokoschips"
+        },
+        {
+          "alt": "Kokoschips Seeberger",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434105/assets/pas/images/d1ca9a15-3992-4eb2-827d-e3853a75789a/seeberger-kokoschips"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (21,66 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (23,18 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.8276
+      },
+      "self": "/p/d/1662085/seeberger-kokoschips",
+      "title": {
+        "tileHeadline": "Kokoschips, 110 g",
+        "tileHeadlineLong": "Kokoschips, 110 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8276,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4066447615845,
+    "dan": 1581077,
+    "brandName": "dmBio",
+    "title": "Erdnüsse blanchiert, geröstet, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erdnüsse blanchiert, geröstet, 250 g; Preis: 2,55 €; Grundpreis: 0,25 kg (10,20 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1581077,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447615845,
+      "images": [
+        {
+          "alt": "Erdnüsse blanchiert, geröstet  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484204/assets/pas/images/c2154f1b-ea29-4c63-aa4b-ff1bcd9a42a0/dmbio-erdnuesse-blanchiert-geroestet"
+        },
+        {
+          "alt": "Erdnüsse blanchiert, geröstet  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484134/assets/pas/images/9d391137-d7ed-409b-8d48-2c09d6df587b/dmbio-erdnuesse-blanchiert-geroestet"
+        },
+        {
+          "alt": "Erdnüsse blanchiert, geröstet  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484203/assets/pas/images/de559e47-8343-407f-b90b-ec015b3f9e6d/dmbio-erdnuesse-blanchiert-geroestet"
+        },
+        {
+          "alt": "Erdnüsse blanchiert, geröstet  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483936/assets/pas/images/c9112bb4-2576-4586-ba76-328e1e8649ea/dmbio-erdnuesse-blanchiert-geroestet"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (10,20 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 112,
+        "ratingValue": 4.5268
+      },
+      "self": "/p/d/1581077/dmbio-erdnuesse-blanchiert-geroestet",
+      "title": {
+        "tileHeadline": "Erdnüsse blanchiert, geröstet, 250 g",
+        "tileHeadlineLong": "Erdnüsse blanchiert, geröstet, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse",
+          "Studentenfutter"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5268,
+        "ratingCount": 112
+      }
+    }
+  },
+  {
+    "gtin": 4067796063905,
+    "dan": 1649145,
+    "brandName": "dmBio",
+    "title": "Macadamianüsse, geröstet & gesalzen, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Macadamianüsse, geröstet & gesalzen, 100 g; Preis: 3,25 €; Grundpreis: 0,1 kg (32,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1649145,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796063905,
+      "images": [
+        {
+          "alt": "Macadamianüsse, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487246/assets/pas/images/e5ac1a1b-057e-4e2a-9e85-dad37e29e705/dmbio-macadamianuesse-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Macadamianüsse, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486978/assets/pas/images/292c28a4-f835-4cfa-b217-4fb74f54cb55/dmbio-macadamianuesse-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Macadamianüsse, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486885/assets/pas/images/b7eb4f79-19e1-4952-81c4-84f120ca3ac0/dmbio-macadamianuesse-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Macadamianüsse, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487167/assets/pas/images/b8935680-e841-4148-9f05-1360c92e022c/dmbio-macadamianuesse-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Macadamianüsse, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487244/assets/pas/images/350465d2-089e-43ef-bfb6-b968f8a1339c/dmbio-macadamianuesse-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Macadamianüsse, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486885/assets/pas/images/b286aa69-af94-4c63-a081-af0019f0512b/dmbio-macadamianuesse-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Macadamianüsse, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487246/assets/pas/images/2ffde9d5-20f5-4b8c-b6dd-b9b549524c29/dmbio-macadamianuesse-geroestet-und-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (30,37 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (32,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 128,
+        "ratingValue": 3.5547
+      },
+      "self": "/p/d/1649145/dmbio-macadamianuesse-geroestet-und-gesalzen",
+      "title": {
+        "tileHeadline": "Macadamianüsse, geröstet & gesalzen, 100 g",
+        "tileHeadlineLong": "Macadamianüsse, geröstet & gesalzen, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse",
+          "Studentenfutter"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5547,
+        "ratingCount": 128
+      }
+    }
+  },
+  {
+    "gtin": 4008258065082,
+    "dan": 1574550,
+    "brandName": "Seeberger",
+    "title": "Mandeln, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Mandeln, 125 g; Preis: 2,65 €; Grundpreis: 0,125 kg (21,20 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 1574550,
+      "gtin": 4008258065082,
+      "images": [
+        {
+          "alt": "Mandeln Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758665992/assets/pas/images/22d890a8-2e2b-488d-8e9d-8aa1709a8720/seeberger-mandeln"
+        },
+        {
+          "alt": "Mandeln Seeberger",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758061679/assets/pas/images/456a3118-db86-4973-968f-ffba3593bb3d/seeberger-mandeln"
+        },
+        {
+          "alt": "Mandeln Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758666002/assets/pas/images/4a141495-f1cb-4f6b-8289-9664d5086c21/seeberger-mandeln"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (19,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (21,20 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.7
+      },
+      "self": "/p/d/1574550/seeberger-mandeln",
+      "title": {
+        "tileHeadline": "Mandeln, 125 g",
+        "tileHeadlineLong": "Mandeln, 125 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4255582806069,
+    "dan": 1679496,
+    "brandName": "KoRo",
+    "title": "Geröstete Cashewkerne, Olive-Rosmarin, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Geröstete Cashewkerne, Olive-Rosmarin, 150 g; Preis: 4,75 €; Grundpreis: 0,15 kg (31,67 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1679496,
+      "gtin": 4255582806069,
+      "images": [
+        {
+          "alt": "Geröstete Cashewkerne, Olive-Rosmarin KoRo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747638139/assets/pas/images/aaf97dec-cb24-48f1-80b3-a8c915a04c66/koro-geroestete-cashewkerne-olive-rosmarin"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,44 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (29,60 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (31,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.5294
+      },
+      "self": "/p/d/1679496/koro-geroestete-cashewkerne-olive-rosmarin",
+      "title": {
+        "tileHeadline": "Geröstete Cashewkerne, Olive-Rosmarin, 150 g",
+        "tileHeadlineLong": "Geröstete Cashewkerne, Olive-Rosmarin, 150 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5294,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 4255582806052,
+    "dan": 1679495,
+    "brandName": "KoRo",
+    "title": "Cashewkerne mit Toskanagewürz, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Cashewkerne mit Toskanagewürz, 150 g; Preis: 4,75 €; Grundpreis: 0,15 kg (31,67 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1679495,
+      "gtin": 4255582806052,
+      "images": [
+        {
+          "alt": "Cashewkerne mit Toskanagewürz KoRo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771287528/assets/pas/images/8dae1bed-fc6c-440d-b693-cf361f17daac/koro-cashewkerne-mit-toskanagewuerz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,44 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (29,60 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (31,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.5333
+      },
+      "self": "/p/d/1679495/koro-cashewkerne-mit-toskanagewuerz",
+      "title": {
+        "tileHeadline": "Cashewkerne mit Toskanagewürz, 150 g",
+        "tileHeadlineLong": "Cashewkerne mit Toskanagewürz, 150 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5333,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 9010874000021,
+    "dan": 3042161,
+    "brandName": "Wanu",
+    "title": "Walnusskerne, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Wanu; Produktname: Walnusskerne, 150 g; Preis: 6,45 €; Grundpreis: 0,15 kg (43,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Wanu"
+      },
+      "dan": 3042161,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9010874000021,
+      "images": [
+        {
+          "alt": "Walnusskerne  Wanu",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993631/assets/pas/images/d215c503-d87b-4c00-a3a5-bb04e60b088a/wanu-walnusskerne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,03 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (40,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (43,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3042161/wanu-walnusskerne",
+      "title": {
+        "tileHeadline": "Walnusskerne, 150 g",
+        "tileHeadlineLong": "Walnusskerne, 150 g"
+      },
+      "trackingData": {
+        "brand": "Wanu",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 2
+      }
+    }
+  },
+  {
+    "gtin": 4066447615821,
+    "dan": 1461636,
+    "brandName": "dmBio",
+    "title": "Mandeln, ganze Kerne, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Mandeln, ganze Kerne, 200 g; Preis: 2,55 €; Grundpreis: 0,2 kg (12,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1461636,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447615821,
+      "images": [
+        {
+          "alt": "Mandeln, ganze Kerne dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484047/assets/pas/images/84977073-8575-4088-8d6e-75c6699e2d6d/dmbio-mandeln-ganze-kerne"
+        },
+        {
+          "alt": "Mandeln, ganze Kerne dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484234/assets/pas/images/c1c92508-2b42-483c-86f9-988cc9015bdd/dmbio-mandeln-ganze-kerne"
+        },
+        {
+          "alt": "Mandeln, ganze Kerne dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484046/assets/pas/images/7d666d0c-78de-406b-b10c-68cbde87af9e/dmbio-mandeln-ganze-kerne"
+        },
+        {
+          "alt": "Mandeln, ganze Kerne dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484327/assets/pas/images/eff23117-33ef-460d-8bf5-070db1b64dfd/dmbio-mandeln-ganze-kerne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (11,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (12,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 382,
+        "ratingValue": 3.0628
+      },
+      "self": "/p/d/1461636/dmbio-mandeln-ganze-kerne",
+      "title": {
+        "tileHeadline": "Mandeln, ganze Kerne, 200 g",
+        "tileHeadlineLong": "Mandeln, ganze Kerne, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0628,
+        "ratingCount": 382
+      }
+    }
+  },
+  {
+    "gtin": 4067796069815,
+    "dan": 1446241,
+    "brandName": "dmBio",
+    "title": "Cashewkerne, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Cashewkerne, 150 g; Preis: 1,75 €; Grundpreis: 0,15 kg (11,67 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1446241,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796069815,
+      "images": [
+        {
+          "alt": "Cashewkerne dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092315/assets/pas/images/979abd0a-0afd-4f6f-8fc2-eb51ba9dd728/dmbio-cashewkerne"
+        },
+        {
+          "alt": "Cashewkerne dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092321/assets/pas/images/24978de6-61cd-49d7-ad87-de75055cc0ba/dmbio-cashewkerne"
+        },
+        {
+          "alt": "Cashewkerne dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092315/assets/pas/images/898eb7bd-4019-486a-b252-e4891dba2743/dmbio-cashewkerne"
+        },
+        {
+          "alt": "Cashewkerne dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092318/assets/pas/images/aab0d760-4d0d-4249-966f-d46c1a7be1ee/dmbio-cashewkerne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (10,91 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (11,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 142,
+        "ratingValue": 4.6549
+      },
+      "self": "/p/d/1446241/dmbio-cashewkerne",
+      "title": {
+        "tileHeadline": "Cashewkerne, 150 g",
+        "tileHeadlineLong": "Cashewkerne, 150 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6549,
+        "ratingCount": 142
+      }
+    }
+  },
+  {
+    "gtin": 4066447602562,
+    "dan": 1468872,
+    "brandName": "dmBio",
+    "title": "Walnusskerne, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Walnusskerne, 150 g; Preis: 1,65 €; Grundpreis: 0,15 kg (11,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1468872,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447602562,
+      "images": [
+        {
+          "alt": "Walnusskerne  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484007/assets/pas/images/62734d2e-a165-499b-a815-0698ac185bb3/dmbio-walnusskerne"
+        },
+        {
+          "alt": "Walnusskerne  dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483824/assets/pas/images/7ae7d43b-7c82-4084-96de-011204a53fc6/dmbio-walnusskerne"
+        },
+        {
+          "alt": "Walnusskerne  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484081/assets/pas/images/b1aea3a2-8bdd-4d13-bc6f-49d06cc6296c/dmbio-walnusskerne"
+        },
+        {
+          "alt": "Walnusskerne  dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483783/assets/pas/images/12d40f17-e454-4e76-bc28-ffe07fb78ad2/dmbio-walnusskerne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (10,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (11,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 347,
+        "ratingValue": 2.8156
+      },
+      "self": "/p/d/1468872/dmbio-walnusskerne",
+      "title": {
+        "tileHeadline": "Walnusskerne, 150 g",
+        "tileHeadlineLong": "Walnusskerne, 150 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse",
+          "Studentenfutter"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.8156,
+        "ratingCount": 347
+      }
+    }
+  },
+  {
+    "gtin": 4066447934359,
+    "dan": 1446999,
+    "brandName": "dmBio",
+    "title": "Haselnusskerne, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haselnusskerne, 200 g; Preis: 3,65 €; Grundpreis: 0,2 kg (18,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1446999,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447934359,
+      "images": [
+        {
+          "alt": "Haselnusskerne  dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763976969/assets/pas/images/2017e4af-201d-4537-8246-aa97b7001963/dmbio-haselnusskerne"
+        },
+        {
+          "alt": "Haselnusskerne  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763976960/assets/pas/images/49ee7222-ac72-430e-a242-c2b9d0d83bee/dmbio-haselnusskerne"
+        },
+        {
+          "alt": "Haselnusskerne  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763976965/assets/pas/images/2ce235f5-ae27-4b66-aa4e-84441ce5c104/dmbio-haselnusskerne"
+        },
+        {
+          "alt": "Haselnusskerne  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763976976/assets/pas/images/f31f6d42-496c-4ecd-9a90-a07dbb1ea0ab/dmbio-haselnusskerne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,41 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (17,06 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (18,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 146,
+        "ratingValue": 4.137
+      },
+      "self": "/p/d/1446999/dmbio-haselnusskerne",
+      "title": {
+        "tileHeadline": "Haselnusskerne, 200 g",
+        "tileHeadlineLong": "Haselnusskerne, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.137,
+        "ratingCount": 146
+      }
+    }
+  },
+  {
+    "gtin": 4070765016321,
+    "dan": 3115611,
+    "brandName": "dmBio",
+    "title": "Erdnüsse Sweet Chili, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erdnüsse Sweet Chili, 150 g; Preis: 1,75 €; Grundpreis: 0,15 kg (11,67 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115611,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016321,
+      "images": [
+        {
+          "alt": "Erdnüsse Sweet Chili dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781223454/assets/pas/images/f11adaed-85a3-4ea7-b94c-753994005dc4/dmbio-erdnuesse-sweet-chili"
+        },
+        {
+          "alt": "Erdnüsse Sweet Chili dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781223448/assets/pas/images/8c635b67-d1c3-4af3-b7f9-7b44e2d4c298/dmbio-erdnuesse-sweet-chili"
+        },
+        {
+          "alt": "Erdnüsse Sweet Chili dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781304431/assets/pas/images/3d8c0a19-4e0c-412d-9e1d-43a63bb62cb4/dmbio-erdnuesse-sweet-chili"
+        },
+        {
+          "alt": "Erdnüsse Sweet Chili dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781223460/assets/pas/images/bd2c3bac-1172-44d9-88e2-74db5ca00a37/dmbio-erdnuesse-sweet-chili"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (10,91 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (11,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 3.3
+      },
+      "self": "/p/d/3115611/dmbio-erdnuesse-sweet-chili",
+      "title": {
+        "tileHeadline": "Erdnüsse Sweet Chili, 150 g",
+        "tileHeadlineLong": "Erdnüsse Sweet Chili, 150 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse",
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.3,
+        "ratingCount": 10
+      }
+    }
+  }
+]

@@ -1,0 +1,1061 @@
+[
+  {
+    "gtin": 4260137743126,
+    "dan": 1562547,
+    "brandName": "Frusano",
+    "title": "Tomaten Ketchup, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frusano; Produktname: Tomaten Ketchup, 300 ml; Preis: 4,15 €; Grundpreis: 0,3 l (13,83 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "Frusano"
+      },
+      "dan": 1562547,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260137743126,
+      "images": [
+        {
+          "alt": "Tomaten Ketchup Frusano",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491708/assets/pas/images/7b7d5d84-ecff-404d-86ef-15b2f0330eec/frusano-tomaten-ketchup"
+        },
+        {
+          "alt": "Tomaten Ketchup Frusano",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491504/assets/pas/images/5ad301bc-296c-4b56-9199-7a737847b692/frusano-tomaten-ketchup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,88 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (12,93 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.7391
+      },
+      "self": "/p/d/1562547/frusano-tomaten-ketchup",
+      "title": {
+        "tileHeadline": "Tomaten Ketchup, 300 ml",
+        "tileHeadlineLong": "Tomaten Ketchup, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Frusano",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7391,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4066447887723,
+    "dan": 1622220,
+    "brandName": "dmBio",
+    "title": "Tomaten Ketchup, 450 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Tomaten Ketchup, 450 ml; Preis: 2,05 €; Grundpreis: 0,45 l (4,56 € je 1 l); Marke von dm Grafik, Stiftung Warentest\nGUT (2,0)\nIm Test: 23 Tomatenketchups\nErmittelt am Produkt mit MHD: 11.04.2028\nAusgabe 04/2026\nwww.test.de\n26PN31",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1622220,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Stiftung Warentest\nGUT (2,0)\nIm Test: 23 Tomatenketchups\nErmittelt am Produkt mit MHD: 11.04.2028\nAusgabe 04/2026\nwww.test.de\n26PN31",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1781849575/assets/pas/seals/38b8deb0-b1c3-497a-9ca8-a2c1c548c79f/38b8deb0-b1c3-497a-9ca8-a2c1c548c79f.jpg",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1781849575/assets/pas/seals/38b8deb0-b1c3-497a-9ca8-a2c1c548c79f/38b8deb0-b1c3-497a-9ca8-a2c1c548c79f.jpg"
+        }
+      ],
+      "gtin": 4066447887723,
+      "images": [
+        {
+          "alt": "Tomaten Ketchup dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762122702/assets/pas/images/275a9ccc-6eec-4ebd-8aee-083dafb99756/dmbio-tomaten-ketchup"
+        },
+        {
+          "alt": "Tomaten Ketchup dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762122696/assets/pas/images/4313dd6c-5bdd-4ffa-a0e1-6c9ec4b266c0/dmbio-tomaten-ketchup"
+        },
+        {
+          "alt": "Tomaten Ketchup dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762122699/assets/pas/images/3a62e782-07de-48e3-a9f4-3802f0c03e1a/dmbio-tomaten-ketchup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,92 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (4,26 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (4,56 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 421,
+        "ratingValue": 4.1781
+      },
+      "self": "/p/d/1622220/dmbio-tomaten-ketchup",
+      "title": {
+        "tileHeadline": "Tomaten Ketchup, 450 ml",
+        "tileHeadlineLong": "Tomaten Ketchup, 450 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.05
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1781,
+        "ratingCount": 421
+      }
+    }
+  },
+  {
+    "gtin": 4070765058864,
+    "dan": 1356633,
+    "brandName": "dmBio",
+    "title": "Senf mittelscharf, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Senf mittelscharf, 200 ml; Preis: 1,45 €; Grundpreis: 0,2 l (7,25 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1356633,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765058864,
+      "images": [
+        {
+          "alt": "Senf mittelscharf dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782011411/assets/pas/images/4ada21c5-158b-4a38-b102-1d7ec230a763/dmbio-senf-mittelscharf"
+        },
+        {
+          "alt": "Senf mittelscharf dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782011406/assets/pas/images/42c4adc1-92ef-4783-a309-aa6f8a660b33/dmbio-senf-mittelscharf"
+        },
+        {
+          "alt": "Senf mittelscharf dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782011421/assets/pas/images/ff99e550-89b9-4c32-b833-d46b9d28227f/dmbio-senf-mittelscharf"
+        },
+        {
+          "alt": "Senf mittelscharf dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782011416/assets/pas/images/a70eb8f3-df89-4888-9487-5162d067f6a8/dmbio-senf-mittelscharf"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (6,78 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (7,25 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 113,
+        "ratingValue": 4.4248
+      },
+      "self": "/p/d/1356633/dmbio-senf-mittelscharf",
+      "title": {
+        "tileHeadline": "Senf mittelscharf, 200 ml",
+        "tileHeadlineLong": "Senf mittelscharf, 200 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4248,
+        "ratingCount": 113
+      }
+    }
+  },
+  {
+    "gtin": 4066447940619,
+    "dan": 3115713,
+    "brandName": "dmBio",
+    "title": "Vegane Mayo, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Vegane Mayo, 250 ml; Preis: 1,85 €; Grundpreis: 0,25 l (7,40 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115713,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447940619,
+      "images": [
+        {
+          "alt": "Vegane Mayo dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771548262/assets/pas/images/2185b22c-1510-4291-b4db-4f5589cc2c57/dmbio-vegane-mayo"
+        },
+        {
+          "alt": "Vegane Mayo dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771548257/assets/pas/images/c109b009-8923-44aa-9f29-509a9cae9091/dmbio-vegane-mayo"
+        },
+        {
+          "alt": "Vegane Mayo dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771548252/assets/pas/images/c7d5d810-f756-46e3-9be8-f24f10b7126d/dmbio-vegane-mayo"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (6,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,40 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.3393
+      },
+      "self": "/p/d/3115713/dmbio-vegane-mayo",
+      "title": {
+        "tileHeadline": "Vegane Mayo, 250 ml",
+        "tileHeadlineLong": "Vegane Mayo, 250 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3393,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 4066447887716,
+    "dan": 1446420,
+    "brandName": "dmBio",
+    "title": "Tomatenmark, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Tomatenmark, 200 g; Preis: 0,95 €; Grundpreis: 0,2 kg (4,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1446420,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447887716,
+      "images": [
+        {
+          "alt": "Tomatenmark dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769212823/assets/pas/images/ee05f5c9-076f-465d-be7c-35e6c40ed1ad/dmbio-tomatenmark"
+        },
+        {
+          "alt": "Tomatenmark dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769212820/assets/pas/images/2685e8e1-2d05-46f6-8f6d-314973415c5a/dmbio-tomatenmark"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (4,44 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (4,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 221,
+        "ratingValue": 4.5339
+      },
+      "self": "/p/d/1446420/dmbio-tomatenmark",
+      "title": {
+        "tileHeadline": "Tomatenmark, 200 g",
+        "tileHeadlineLong": "Tomatenmark, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5339,
+        "ratingCount": 221
+      }
+    }
+  },
+  {
+    "gtin": 4262367685177,
+    "dan": 3080146,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Bunte Chips Ketchup Style, für Schulkinder, 50 g; Preis: 1,65 €; Grundpreis: 0,05 kg (33,00 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 3080146,
+      "gtin": 4262367685177,
+      "images": [
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783652919/assets/pas/images/92f11e53-84c4-484f-8b95-b79cc66dc3c4/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783652931/assets/pas/images/1b0c1d26-a72a-4e5c-9ddf-af2a33aea8d4/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783652909/assets/pas/images/8876a9d8-4995-4f2c-8f10-fcb0e3327013/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993760/assets/pas/images/a9e1b1c7-5715-40bc-9ef8-7da2d8ce553d/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993713/assets/pas/images/a6d58d81-a149-48f2-bb31-271d31e19ed0/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993786/assets/pas/images/5054bdd4-1f90-4796-95ac-b75563ee0faf/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993724/assets/pas/images/da76e319-cc59-4bca-b62c-141d55ea2e88/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993776/assets/pas/images/bae19f00-6773-4e73-b486-2e3466a45f2a/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993767/assets/pas/images/e61f8859-129c-4bde-9c89-10c80d68180b/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993740/assets/pas/images/f2b68073-7add-4f61-b151-2e3cae4db850/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993751/assets/pas/images/d604eef5-f043-438b-a87a-012f3a297c5b/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993734/assets/pas/images/09fc8255-51d8-4580-8544-43ce9003df09/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (30,84 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (33,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.661
+      },
+      "self": "/p/d/3080146/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder",
+      "title": {
+        "tileHeadline": "Kindersnack Bunte Chips Ketchup Style, für..., 50 g",
+        "tileHeadlineLong": "Kindersnack Bunte Chips Ketchup Style, für..., 50 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.661,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 8588004638327,
+    "dan": 1631562,
+    "brandName": "BioSaurus",
+    "title": "Kindersnack, gebackener Mais Ketchup, ab 3 Jahren, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: BioSaurus; Produktname: Kindersnack, gebackener Mais Ketchup, ab 3 Jahren, 50 g; Preis: 1,75 €; Grundpreis: 0,05 kg (35,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "BioSaurus"
+      },
+      "dan": 1631562,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8588004638327,
+      "images": [
+        {
+          "alt": "Kindersnack, gebackener Mais Ketchup, ab 3 Jahren  BioSaurus",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525615/assets/pas/images/8523981a-6f3a-41e3-b446-7f5116526039/biosaurus-kindersnack-gebackener-mais-ketchup-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 55,
+        "ratingValue": 4.7818
+      },
+      "self": "/p/d/1631562/biosaurus-kindersnack-gebackener-mais-ketchup-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack, gebackener Mais Ketchup, ab 3 Jahren, 50 g",
+        "tileHeadlineLong": "Kindersnack, gebackener Mais Ketchup, ab 3 Jahren, 50 g"
+      },
+      "trackingData": {
+        "brand": "BioSaurus",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7818,
+        "ratingCount": 55
+      }
+    }
+  },
+  {
+    "gtin": 4008455004037,
+    "dan": 1003012,
+    "brandName": "Dr. Beckmann",
+    "title": "Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Dr. Beckmann; Produktname: Fleckenentferner Fleckenteufel fetthaltiges & Saucen, 50 ml; Preis: 2,45 €; Grundpreis: 0,05 l (49,00 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Dr. Beckmann"
+      },
+      "dan": 1003012,
+      "gtin": 4008455004037,
+      "images": [
+        {
+          "alt": "Fleckenentferner Fleckenteufel fetthaltiges & Saucen Dr. Beckmann",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434483/assets/pas/images/763eac9f-8167-4f68-82cf-604ad0822e6d/dr-beckmann-fleckenentferner-fleckenteufel-fetthaltiges-und-saucen"
+        },
+        {
+          "alt": "Fleckenentferner Fleckenteufel fetthaltiges & Saucen Dr. Beckmann",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434622/assets/pas/images/7b44ba15-8c66-41a7-a764-0f23b720f7a1/dr-beckmann-fleckenentferner-fleckenteufel-fetthaltiges-und-saucen"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (41,18 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (49,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 100,
+        "ratingValue": 4.56
+      },
+      "self": "/p/d/1003012/dr-beckmann-fleckenentferner-fleckenteufel-fetthaltiges-und-saucen",
+      "title": {
+        "tileHeadline": "Fleckenentferner Fleckenteufel fetthaltiges &..., 50 ml",
+        "tileHeadlineLong": "Fleckenentferner Fleckenteufel fetthaltiges &..., 50 ml"
+      },
+      "trackingData": {
+        "brand": "Dr. Beckmann",
+        "categories": [
+          "Fleckenentferner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.56,
+        "ratingCount": 100
+      }
+    }
+  },
+  {
+    "gtin": 4001499926099,
+    "dan": 1444845,
+    "brandName": "Frosch",
+    "title": "Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch; Produktname: Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg, 75 ml; Preis: 2,45 €; Grundpreis: 0,075 l (32,67 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Frosch"
+      },
+      "dan": 1444845,
+      "gtin": 4001499926099,
+      "images": [
+        {
+          "alt": "Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg Frosch",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429691/assets/pas/images/e73fa8a3-af25-42bd-ba70-e985898e73b5/frosch-fleckenentferner-aktiv-sauerstoff-flecken-zwerg"
+        },
+        {
+          "alt": "Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760130486/assets/pas/images/c4c53a35-dd97-4826-a9b2-af86aac3f413/frosch-fleckenentferner-aktiv-sauerstoff-flecken-zwerg"
+        },
+        {
+          "alt": "Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg Frosch",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429605/assets/pas/images/7b51af5d-e7db-4b1c-8ad4-866e5f5b1756/frosch-fleckenentferner-aktiv-sauerstoff-flecken-zwerg"
+        },
+        {
+          "alt": "Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg Frosch",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429891/assets/pas/images/db99263a-d4a1-4b55-a7e4-e65b064b2a1e/frosch-fleckenentferner-aktiv-sauerstoff-flecken-zwerg"
+        },
+        {
+          "alt": "Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg Frosch",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429611/assets/pas/images/15f0f1d7-e8e9-4957-ba9e-db505ed5094e/frosch-fleckenentferner-aktiv-sauerstoff-flecken-zwerg"
+        },
+        {
+          "alt": "Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg Frosch",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429853/assets/pas/images/fd6c4038-82f0-4a03-b72a-19ce5697c93d/frosch-fleckenentferner-aktiv-sauerstoff-flecken-zwerg"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (27,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (32,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 152,
+        "ratingValue": 4.3816
+      },
+      "self": "/p/d/1444845/frosch-fleckenentferner-aktiv-sauerstoff-flecken-zwerg",
+      "title": {
+        "tileHeadline": "Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg, 75 ml",
+        "tileHeadlineLong": "Fleckenentferner Aktiv-Sauerstoff Flecken-Zwerg, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch",
+        "categories": [
+          "Fleckenentferner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3816,
+        "ratingCount": 152
+      }
+    }
+  },
+  {
+    "gtin": 4066447790429,
+    "dan": 1046013,
+    "brandName": "Denkmit",
+    "title": "Fleckenentferner Salz für Weiß- & Buntwäsche, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Denkmit; Produktname: Fleckenentferner Salz für Weiß- & Buntwäsche, 500 g; Preis: 0,95 €; Grundpreis: 0,5 kg (1,90 € je 1 kg); Marke von dm Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Denkmit"
+      },
+      "dan": 1046013,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447790429,
+      "images": [
+        {
+          "alt": "Fleckenentferner Salz für Weiß- & Buntwäsche Denkmit",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021787/assets/pas/images/a4e810b0-c6f1-4f27-a011-4b7e3c155440/denkmit-fleckenentferner-salz-fuer-weiss-und-buntwaesche"
+        },
+        {
+          "alt": "Fleckenentferner Salz für Weiß- & Buntwäsche Denkmit",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779239969/assets/pas/images/31e79433-2d03-4bdb-8284-87ac54d6a073/denkmit-fleckenentferner-salz-fuer-weiss-und-buntwaesche"
+        },
+        {
+          "alt": "Fleckenentferner Salz für Weiß- & Buntwäsche Denkmit",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021789/assets/pas/images/d89b4d2f-3d2d-4069-9353-6485107a7f86/denkmit-fleckenentferner-salz-fuer-weiss-und-buntwaesche"
+        },
+        {
+          "alt": "Fleckenentferner Salz für Weiß- & Buntwäsche Denkmit",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779239974/assets/pas/images/a30ce22e-8248-4d3b-ad71-ee2ff216ab99/denkmit-fleckenentferner-salz-fuer-weiss-und-buntwaesche"
+        },
+        {
+          "alt": "Fleckenentferner Salz für Weiß- & Buntwäsche Denkmit",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021786/assets/pas/images/afca6167-a4d9-4799-87b8-41a708b8c9c3/denkmit-fleckenentferner-salz-fuer-weiss-und-buntwaesche"
+        },
+        {
+          "alt": "Fleckenentferner Salz für Weiß- & Buntwäsche Denkmit",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021792/assets/pas/images/04808f29-079f-4406-9588-b468528dcd95/denkmit-fleckenentferner-salz-fuer-weiss-und-buntwaesche"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,60 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 115,
+        "ratingValue": 4.1565
+      },
+      "self": "/p/d/1046013/denkmit-fleckenentferner-salz-fuer-weiss-und-buntwaesche",
+      "title": {
+        "tileHeadline": "Fleckenentferner Salz für Weiß- & Buntwäsche, 500 g",
+        "tileHeadlineLong": "Fleckenentferner Salz für Weiß- & Buntwäsche, 500 g"
+      },
+      "trackingData": {
+        "brand": "Denkmit",
+        "categories": [
+          "Fleckenentferner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1565,
+        "ratingCount": 115
+      }
+    }
+  },
+  {
+    "gtin": 4066447898361,
+    "dan": 3083298,
+    "brandName": "Profissimo",
+    "title": "Fleckenkissen, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: Profissimo; Produktname: Fleckenkissen, 1 St; Preis: 2,95 €; Grundpreis: 1 St (2,95 € je 1 St); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Profissimo"
+      },
+      "dan": 3083298,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447898361,
+      "images": [
+        {
+          "alt": "Fleckenkissen  Profissimo",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770509950/assets/pas/images/2ec38517-3eef-4cb2-8e69-9772dc3bc43b/profissimo-fleckenkissen"
+        },
+        {
+          "alt": "Fleckenkissen  Profissimo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770509946/assets/pas/images/41f90d9e-2b72-43ea-9630-e28f1a9b1ddf/profissimo-fleckenkissen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (2,48 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (2,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 25,
+        "ratingValue": 4.72
+      },
+      "self": "/p/d/3083298/profissimo-fleckenkissen",
+      "title": {
+        "tileHeadline": "Fleckenkissen, 1 St",
+        "tileHeadlineLong": "Fleckenkissen, 1 St"
+      },
+      "trackingData": {
+        "brand": "Profissimo",
+        "categories": [
+          "Putztücher, Schwämme & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.72,
+        "ratingCount": 25
+      }
+    }
+  }
+]

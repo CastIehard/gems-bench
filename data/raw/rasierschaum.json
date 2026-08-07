@@ -1,0 +1,2721 @@
+[
+  {
+    "gtin": 4006000169019,
+    "dan": 1572503,
+    "brandName": "NIVEA MEN",
+    "title": "Rasierschaum, sensitive, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA MEN; Produktname: Rasierschaum, sensitive, 200 ml; Preis: 2,95 €; Grundpreis: 0,2 l (14,75 € je 1 l)",
+      "brand": {
+        "name": "NIVEA MEN"
+      },
+      "dan": 1572503,
+      "gtin": 4006000169019,
+      "images": [
+        {
+          "alt": "Rasierschaum, sensitive NIVEA MEN",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756765100/assets/pas/images/ae57b00e-20e1-4be4-b28c-b5d5ce629721/nivea-men-rasierschaum-sensitive"
+        },
+        {
+          "alt": "Rasierschaum, sensitive NIVEA MEN",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756765105/assets/pas/images/a1022fb5-c913-4847-a757-40f251f98c53/nivea-men-rasierschaum-sensitive"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (12,39 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (14,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 117,
+        "ratingValue": 4.8291
+      },
+      "self": "/p/d/1572503/nivea-men-rasierschaum-sensitive",
+      "title": {
+        "tileHeadline": "Rasierschaum, sensitive, 200 ml",
+        "tileHeadlineLong": "Rasierschaum, sensitive, 200 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA MEN",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8291,
+        "ratingCount": 117
+      }
+    }
+  },
+  {
+    "gtin": 42467342,
+    "dan": 1572515,
+    "brandName": "NIVEA MEN",
+    "title": "Rasierschaum, sensitive, Reisegröße, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA MEN; Produktname: Rasierschaum, sensitive, Reisegröße, 50 ml; Preis: 1,45 €; Grundpreis: 0,05 l (29,00 € je 1 l)",
+      "brand": {
+        "name": "NIVEA MEN"
+      },
+      "dan": 1572515,
+      "gtin": 42467342,
+      "images": [
+        {
+          "alt": "Rasierschaum, sensitive, Reisegröße NIVEA MEN",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753433577/assets/pas/images/1023ce7a-2561-470a-b1a6-23e07f3c1f13/nivea-men-rasierschaum-sensitive-reisegroesse"
+        },
+        {
+          "alt": "Rasierschaum, sensitive, Reisegröße NIVEA MEN",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753433572/assets/pas/images/2647dee5-a8dd-45e9-94b2-b7f53b25c90e/nivea-men-rasierschaum-sensitive-reisegroesse"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (24,37 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (29,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 93,
+        "ratingValue": 4.8065
+      },
+      "self": "/p/d/1572515/nivea-men-rasierschaum-sensitive-reisegroesse",
+      "title": {
+        "tileHeadline": "Rasierschaum, sensitive, Reisegröße, 50 ml",
+        "tileHeadlineLong": "Rasierschaum, sensitive, Reisegröße, 50 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA MEN",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8065,
+        "ratingCount": 93
+      }
+    }
+  },
+  {
+    "gtin": 8006530159319,
+    "dan": 3119476,
+    "brandName": "Gillette",
+    "title": "Rasierschaum, Sensitive Basis, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette; Produktname: Rasierschaum, Sensitive Basis, 250 ml; Preis: 2,35 €; Grundpreis: 0,25 l (9,40 € je 1 l)",
+      "brand": {
+        "name": "Gillette"
+      },
+      "dan": 3119476,
+      "gtin": 8006530159319,
+      "images": [
+        {
+          "alt": "Rasierschaum, Sensitive Basis Gillette",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767024771/assets/pas/images/4d168a29-0a25-4494-ba8a-86928e2ec129/gillette-rasierschaum-sensitive-basis"
+        },
+        {
+          "alt": "Rasierschaum, Sensitive Basis Gillette",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767024785/assets/pas/images/abeaac51-28b5-4697-ab07-63324269c89d/gillette-rasierschaum-sensitive-basis"
+        },
+        {
+          "alt": "Rasierschaum, Sensitive Basis Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767024778/assets/pas/images/8516ccdd-32e0-4aa6-a29b-72948d12a467/gillette-rasierschaum-sensitive-basis"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,90 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,40 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 21,
+        "ratingValue": 4.8095
+      },
+      "self": "/p/d/3119476/gillette-rasierschaum-sensitive-basis",
+      "title": {
+        "tileHeadline": "Rasierschaum, Sensitive Basis, 250 ml",
+        "tileHeadlineLong": "Rasierschaum, Sensitive Basis, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Gillette",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8095,
+        "ratingCount": 21
+      }
+    }
+  },
+  {
+    "gtin": 4066447379983,
+    "dan": 1617413,
+    "brandName": "Balea",
+    "title": "Fester Rasierschaum Wildrose Feige, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Fester Rasierschaum Wildrose Feige, 60 g; Preis: 2,45 €; Grundpreis: 0,06 kg (40,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1617413,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447379983,
+      "images": [
+        {
+          "alt": "Fester Rasierschaum Wildrose Feige Balea",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480798/assets/pas/images/21f4b739-9df1-4c8b-9aeb-6d1078ec94bf/balea-fester-rasierschaum-wildrose-feige"
+        },
+        {
+          "alt": "Fester Rasierschaum Wildrose Feige Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480798/assets/pas/images/353ab554-2a4b-4732-82ce-6aadf2ca1a69/balea-fester-rasierschaum-wildrose-feige"
+        },
+        {
+          "alt": "Fester Rasierschaum Wildrose Feige Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480957/assets/pas/images/d1a36c98-32e6-4427-b964-3fcb2eef1811/balea-fester-rasierschaum-wildrose-feige"
+        },
+        {
+          "alt": "Fester Rasierschaum Wildrose Feige Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480799/assets/pas/images/f259cb8b-61f0-491a-a51a-19d649a9e8cf/balea-fester-rasierschaum-wildrose-feige"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (34,31 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (40,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 96,
+        "ratingValue": 4.3229
+      },
+      "self": "/p/d/1617413/balea-fester-rasierschaum-wildrose-feige",
+      "title": {
+        "tileHeadline": "Fester Rasierschaum Wildrose Feige, 60 g",
+        "tileHeadlineLong": "Fester Rasierschaum Wildrose Feige, 60 g"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3229,
+        "ratingCount": 96
+      }
+    }
+  },
+  {
+    "gtin": 8714789849164,
+    "dan": 1380928,
+    "brandName": "Palmolive",
+    "title": "Rasierschaum Classic, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Palmolive; Produktname: Rasierschaum Classic, 300 ml; Preis: 2,85 €; Grundpreis: 0,3 l (9,50 € je 1 l)",
+      "brand": {
+        "name": "Palmolive"
+      },
+      "dan": 1380928,
+      "gtin": 8714789849164,
+      "images": [
+        {
+          "alt": "Rasierschaum Classic Palmolive",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532837/assets/pas/images/2c53eea2-056a-4c82-a5fe-ad1bf67b39c3/palmolive-rasierschaum-classic"
+        },
+        {
+          "alt": "Rasierschaum Classic Palmolive",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532246/assets/pas/images/2fa18d35-6944-47bf-897d-4fbcd194eeb5/palmolive-rasierschaum-classic"
+        },
+        {
+          "alt": "Rasierschaum Classic Palmolive",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532580/assets/pas/images/40afbc97-7376-4e5f-b06b-58f53906f7be/palmolive-rasierschaum-classic"
+        },
+        {
+          "alt": "Rasierschaum Classic Palmolive",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532076/assets/pas/images/aee68247-62c7-4310-88ad-99ec0ac2fe90/palmolive-rasierschaum-classic"
+        },
+        {
+          "alt": "Rasierschaum Classic Palmolive",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532576/assets/pas/images/08fdc3b4-c050-4bdf-9692-c89ed9fb8d71/palmolive-rasierschaum-classic"
+        },
+        {
+          "alt": "Rasierschaum Classic Palmolive",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532580/assets/pas/images/e480c9b3-1824-4289-b1f1-137f607c8329/palmolive-rasierschaum-classic"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,39 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (7,98 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (9,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 95,
+        "ratingValue": 4.9053
+      },
+      "self": "/p/d/1380928/palmolive-rasierschaum-classic",
+      "title": {
+        "tileHeadline": "Rasierschaum Classic, 300 ml",
+        "tileHeadlineLong": "Rasierschaum Classic, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Palmolive",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9053,
+        "ratingCount": 95
+      }
+    }
+  },
+  {
+    "gtin": 4009800001763,
+    "dan": 1515586,
+    "brandName": "SPEICK",
+    "title": "Men Rasierschaum, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SPEICK; Produktname: Men Rasierschaum, 200 ml; Preis: 4,95 €; Grundpreis: 0,2 l (24,75 € je 1 l)",
+      "brand": {
+        "name": "SPEICK"
+      },
+      "dan": 1515586,
+      "gtin": 4009800001763,
+      "images": [
+        {
+          "alt": "Men Rasierschaum SPEICK",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436280/assets/pas/images/7ba4f146-1a41-4982-9c10-4e59eaf70b33/speick-men-rasierschaum"
+        },
+        {
+          "alt": "Men Rasierschaum SPEICK",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747641153/assets/pas/images/afd7022d-bbb6-4bb2-9603-90403c6a3126/speick-men-rasierschaum"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (20,80 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (24,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.5098
+      },
+      "self": "/p/d/1515586/speick-men-rasierschaum",
+      "title": {
+        "tileHeadline": "Men Rasierschaum, 200 ml",
+        "tileHeadlineLong": "Men Rasierschaum, 200 ml"
+      },
+      "trackingData": {
+        "brand": "SPEICK",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5098,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 4066447947854,
+    "dan": 3129060,
+    "brandName": "Balea",
+    "title": "Rasierschaum Lychee Love, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Rasierschaum Lychee Love, 150 ml; Preis: 0,75 €; Grundpreis: 0,15 l (5,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3129060,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447947854,
+      "images": [
+        {
+          "alt": "Rasierschaum Lychee Love Balea",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773103125/assets/pas/images/1b0d2ac2-4d19-4b8f-87f1-59158442944b/balea-rasierschaum-lychee-love"
+        },
+        {
+          "alt": "Rasierschaum Lychee Love Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773103116/assets/pas/images/0d786410-7473-4e55-9caf-378b40002686/balea-rasierschaum-lychee-love"
+        },
+        {
+          "alt": "Rasierschaum Lychee Love Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773103120/assets/pas/images/acfe41e9-5c99-42d0-a6e2-a6857508072f/balea-rasierschaum-lychee-love"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (4,20 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (5,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 40,
+        "ratingValue": 4.4
+      },
+      "self": "/p/d/3129060/balea-rasierschaum-lychee-love",
+      "title": {
+        "tileHeadline": "Rasierschaum Lychee Love, 150 ml",
+        "tileHeadlineLong": "Rasierschaum Lychee Love, 150 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4,
+        "ratingCount": 40
+      }
+    }
+  },
+  {
+    "gtin": 4066447909357,
+    "dan": 1648738,
+    "brandName": "alverde NATURKOSMETIK",
+    "title": "Festes Rasierstück Aloe Vera & Kamille, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: alverde NATURKOSMETIK; Produktname: Festes Rasierstück Aloe Vera & Kamille, 50 g; Preis: 3,75 €; Grundpreis: 0,05 kg (75,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "alverde NATURKOSMETIK"
+      },
+      "dan": 1648738,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447909357,
+      "images": [
+        {
+          "alt": "Festes Rasierstück Aloe Vera & Kamille alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771369850/assets/pas/images/6b7bfdd6-6dab-40bc-ab2d-10a4ef2bbe39/alverde-naturkosmetik-festes-rasierstueck-aloe-vera-und-kamille"
+        },
+        {
+          "alt": "Festes Rasierstück Aloe Vera & Kamille alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771369857/assets/pas/images/3ad29859-d49d-4326-ab69-ab55c23b4f83/alverde-naturkosmetik-festes-rasierstueck-aloe-vera-und-kamille"
+        },
+        {
+          "alt": "Festes Rasierstück Aloe Vera & Kamille alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771369864/assets/pas/images/d3a50986-e3a2-427d-afc9-3a2f2b705bfc/alverde-naturkosmetik-festes-rasierstueck-aloe-vera-und-kamille"
+        },
+        {
+          "alt": "Festes Rasierstück Aloe Vera & Kamille alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772241114/assets/pas/images/a15d061e-97a3-43a8-8999-ec553cfe986b/alverde-naturkosmetik-festes-rasierstueck-aloe-vera-und-kamille"
+        },
+        {
+          "alt": "Festes Rasierstück Aloe Vera & Kamille alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772241116/assets/pas/images/7ab58eab-d539-4b90-9ff1-dc2501260520/alverde-naturkosmetik-festes-rasierstueck-aloe-vera-und-kamille"
+        },
+        {
+          "alt": "Festes Rasierstück Aloe Vera & Kamille alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771369844/assets/pas/images/c8656a35-c37c-45cb-8a71-6ade0faaea12/alverde-naturkosmetik-festes-rasierstueck-aloe-vera-und-kamille"
+        },
+        {
+          "alt": "Festes Rasierstück Aloe Vera & Kamille alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771369839/assets/pas/images/33bdd00a-7263-4d4b-9ebd-2386ae5aaa93/alverde-naturkosmetik-festes-rasierstueck-aloe-vera-und-kamille"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (63,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (75,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.1846
+      },
+      "self": "/p/d/1648738/alverde-naturkosmetik-festes-rasierstueck-aloe-vera-und-kamille",
+      "title": {
+        "tileHeadline": "Festes Rasierstück Aloe Vera & Kamille, 50 g",
+        "tileHeadlineLong": "Festes Rasierstück Aloe Vera & Kamille, 50 g"
+      },
+      "trackingData": {
+        "brand": "alverde NATURKOSMETIK",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1846,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 4260560835917,
+    "dan": 3048802,
+    "brandName": "BE ROUTINE",
+    "title": "Rasierbutter Drachenfrucht- & Wassermelonenduft, 180 ml",
+    "tileData": {
+      "dan": 3048802,
+      "gtin": 4260560835917,
+      "self": "/p/d/3048802/be-routine-rasierbutter-drachenfrucht-und-wassermelonenduft",
+      "brand": {
+        "name": "BE ROUTINE"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,18 l (19,17 € je 1 l)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Rasierbutter Drachenfrucht- & Wassermelonenduft, 180 ml",
+        "tileHeadlineLong": "Rasierbutter Drachenfrucht- & Wassermelonenduft, 180 ml"
+      },
+      "images": [
+        {
+          "alt": "Rasierbutter Drachenfrucht- & Wassermelonenduft BE ROUTINE",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750287785/assets/pas/images/1bb185c6-fa11-4251-aaaa-1dacdb208ed3/be-routine-rasierbutter-drachenfrucht-und-wassermelonenduft",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F4"
+        },
+        {
+          "alt": "Rasierbutter Drachenfrucht- & Wassermelonenduft BE ROUTINE",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750285418/assets/pas/images/feae0300-962f-40d5-8043-fdc2c0f2dd10/be-routine-rasierbutter-drachenfrucht-und-wassermelonenduft",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F5"
+        },
+        {
+          "alt": "Rasierbutter Drachenfrucht- & Wassermelonenduft BE ROUTINE",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493565/assets/pas/images/6d9f0174-e98f-40f5-abf6-d22b42c52057/be-routine-rasierbutter-drachenfrucht-und-wassermelonenduft",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F5"
+        },
+        {
+          "alt": "Rasierbutter Drachenfrucht- & Wassermelonenduft BE ROUTINE",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750116222/assets/pas/images/9b6c066a-ee18-43a0-a728-89c0668bd173/be-routine-rasierbutter-drachenfrucht-und-wassermelonenduft",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Rasierbutter Drachenfrucht- & Wassermelonenduft BE ROUTINE",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336818/assets/pas/images/8daa6b5e-1f1b-4e4a-8e16-717e085e61e7/be-routine-rasierbutter-drachenfrucht-und-wassermelonenduft",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        }
+      ],
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.0984
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,18 l (16,11 € je 1 l)"
+        ]
+      },
+      "a11yLabel": "Marke: BE ROUTINE; Produktname: Rasierbutter Drachenfrucht- & Wassermelonenduft, 180 ml; Preis: 3,45 €; Grundpreis: 0,18 l (19,17 € je 1 l)",
+      "isPharmacy": false,
+      "trackingData": {
+        "brand": "BE ROUTINE",
+        "price": 3.45,
+        "currency": "EUR",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0984,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4066447277487,
+    "dan": 1428968,
+    "brandName": "Balea",
+    "title": "Rasieröl, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Rasieröl, 75 ml; Preis: 2,55 €; Grundpreis: 0,075 l (34,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1428968,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447277487,
+      "images": [
+        {
+          "alt": "Rasieröl Balea",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325824/assets/pas/images/f0708ce6-ea76-4d71-b6d8-77926383ad96/balea-rasieroel"
+        },
+        {
+          "alt": "Rasieröl Balea",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325808/assets/pas/images/624bfd2b-c729-4f39-a96b-b86443f41339/balea-rasieroel"
+        },
+        {
+          "alt": "Rasieröl Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325831/assets/pas/images/c2d3c4aa-05d7-469a-9adf-9042a1ca2cd2/balea-rasieroel"
+        },
+        {
+          "alt": "Rasieröl Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325814/assets/pas/images/9199bc68-3c00-4857-954a-ed5c1e91609b/balea-rasieroel"
+        },
+        {
+          "alt": "Rasieröl Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325820/assets/pas/images/98063248-0868-4788-9a77-bb5364dd32f3/balea-rasieroel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,14 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (28,57 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (34,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 164,
+        "ratingValue": 3.7561
+      },
+      "self": "/p/d/1428968/balea-rasieroel",
+      "title": {
+        "tileHeadline": "Rasieröl, 75 ml",
+        "tileHeadlineLong": "Rasieröl, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7561,
+        "ratingCount": 164
+      }
+    }
+  },
+  {
+    "gtin": 4001638098809,
+    "dan": 1013522,
+    "brandName": "WELEDA",
+    "title": "Rasiercreme, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: Rasiercreme, 75 ml; Preis: 5,95 €; Grundpreis: 0,075 l (79,33 € je 1 l)",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 1013522,
+      "gtin": 4001638098809,
+      "images": [
+        {
+          "alt": "Rasiercreme WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766017978/assets/pas/images/6de6dc83-c487-4934-8688-0de3a86b58b5/weleda-rasiercreme"
+        },
+        {
+          "alt": "Rasiercreme WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760130459/assets/pas/images/3a8b7719-f679-46e0-8c8d-d5c8a6ad4a5c/weleda-rasiercreme"
+        },
+        {
+          "alt": "Rasiercreme WELEDA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760130443/assets/pas/images/cc8df323-d405-4124-973c-7c86a8ee9ac6/weleda-rasiercreme"
+        },
+        {
+          "alt": "Rasiercreme WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760130450/assets/pas/images/35e3ca69-8f9b-45ce-8690-e70df2e17995/weleda-rasiercreme"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (66,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (79,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 130,
+        "ratingValue": 4.7308
+      },
+      "self": "/p/d/1013522/weleda-rasiercreme",
+      "title": {
+        "tileHeadline": "Rasiercreme, 75 ml",
+        "tileHeadlineLong": "Rasiercreme, 75 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7308,
+        "ratingCount": 130
+      }
+    }
+  },
+  {
+    "gtin": 4009800001701,
+    "dan": 1515715,
+    "brandName": "SPEICK",
+    "title": "Men Rasiercreme, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SPEICK; Produktname: Men Rasiercreme, 75 ml; Preis: 3,45 €; Grundpreis: 0,075 l (46,00 € je 1 l)",
+      "brand": {
+        "name": "SPEICK"
+      },
+      "dan": 1515715,
+      "gtin": 4009800001701,
+      "images": [
+        {
+          "alt": "Men Rasiercreme SPEICK",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436279/assets/pas/images/ac9575f0-c395-413c-9816-aa7761a43b9a/speick-men-rasiercreme"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (38,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (46,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.8704
+      },
+      "self": "/p/d/1515715/speick-men-rasiercreme",
+      "title": {
+        "tileHeadline": "Men Rasiercreme, 75 ml",
+        "tileHeadlineLong": "Men Rasiercreme, 75 ml"
+      },
+      "trackingData": {
+        "brand": "SPEICK",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8704,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 3015810608817,
+    "dan": 1006172,
+    "brandName": "Palmolive",
+    "title": "Rasiercreme Classic, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Palmolive; Produktname: Rasiercreme Classic, 100 ml; Preis: 1,95 €; Grundpreis: 0,1 l (19,50 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Palmolive"
+      },
+      "dan": 1006172,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 3015810608817,
+      "images": [
+        {
+          "alt": "Rasiercreme Classic Palmolive",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747407284/assets/pas/images/c5bd72bc-ff2a-4528-a4e9-b67933c3f920/palmolive-rasiercreme-classic"
+        },
+        {
+          "alt": "Rasiercreme Classic Palmolive",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747407297/assets/pas/images/87db88fa-5c11-4131-8c66-6ec2a795fd1b/palmolive-rasiercreme-classic"
+        },
+        {
+          "alt": "Rasiercreme Classic Palmolive",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747407230/assets/pas/images/2385f564-6e0d-4609-8cfd-f41c87a2427c/palmolive-rasiercreme-classic"
+        },
+        {
+          "alt": "Rasiercreme Classic Palmolive",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747407319/assets/pas/images/4b98f0c3-abae-4480-995b-979a0eba0d2f/palmolive-rasiercreme-classic"
+        },
+        {
+          "alt": "Rasiercreme Classic Palmolive",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747407292/assets/pas/images/9cefd857-af83-4a4c-a30d-e8d4b637719c/palmolive-rasiercreme-classic"
+        },
+        {
+          "alt": "Rasiercreme Classic Palmolive",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747407294/assets/pas/images/3872fab0-53f2-4b46-bafe-523c54117c33/palmolive-rasiercreme-classic"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (16,39 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (19,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.7051
+      },
+      "self": "/p/d/1006172/palmolive-rasiercreme-classic",
+      "title": {
+        "tileHeadline": "Rasiercreme Classic, 100 ml",
+        "tileHeadlineLong": "Rasiercreme Classic, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Palmolive",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7051,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 8004395001682,
+    "dan": 1705262,
+    "brandName": "PRORASO",
+    "title": "Rasierseife sensitiv, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: PRORASO; Produktname: Rasierseife sensitiv, 150 g; Preis: 4,95 €; Grundpreis: 0,15 kg (33,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "PRORASO"
+      },
+      "dan": 1705262,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8004395001682,
+      "images": [
+        {
+          "alt": "Rasierseife sensitiv PRORASO",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747515085/assets/pas/images/c4f1a5da-4aa4-40ba-8264-edd748e832c1/proraso-rasierseife-sensitiv"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (27,73 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (33,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 31,
+        "ratingValue": 4.7742
+      },
+      "self": "/p/d/1705262/proraso-rasierseife-sensitiv",
+      "title": {
+        "tileHeadline": "Rasierseife sensitiv, 150 g",
+        "tileHeadlineLong": "Rasierseife sensitiv, 150 g"
+      },
+      "trackingData": {
+        "brand": "PRORASO",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7742,
+        "ratingCount": 31
+      }
+    }
+  },
+  {
+    "gtin": 4009800001787,
+    "dan": 1334828,
+    "brandName": "SPEICK",
+    "title": "Men Rasierseife, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: SPEICK; Produktname: Men Rasierseife, 50 g; Preis: 3,45 €; Grundpreis: 0,05 kg (69,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "SPEICK"
+      },
+      "dan": 1334828,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4009800001787,
+      "images": [
+        {
+          "alt": "Men Rasierseife SPEICK",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436293/assets/pas/images/47baa805-b2cd-4c7b-ac21-d7696be2782a/speick-men-rasierseife"
+        },
+        {
+          "alt": "Men Rasierseife SPEICK",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760996383/assets/pas/images/b7b9b826-bd4a-43a1-9aa8-b6eff837c629/speick-men-rasierseife"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (57,98 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (69,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 20,
+        "ratingValue": 4.7
+      },
+      "self": "/p/d/1334828/speick-men-rasierseife",
+      "title": {
+        "tileHeadline": "Men Rasierseife, 50 g",
+        "tileHeadlineLong": "Men Rasierseife, 50 g"
+      },
+      "trackingData": {
+        "brand": "SPEICK",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7,
+        "ratingCount": 20
+      }
+    }
+  },
+  {
+    "gtin": 4070765005615,
+    "dan": 3109372,
+    "brandName": "Balea",
+    "title": "Rasiercreme mit Kirschblüten-Extrakt, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Rasiercreme mit Kirschblüten-Extrakt, 150 ml; Preis: 2,95 €; Grundpreis: 0,15 l (19,67 € je 1 l); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3109372,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765005615,
+      "images": [
+        {
+          "alt": "Rasiercreme mit Kirschblüten-Extrakt Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778712028/assets/pas/images/6bc9b83a-b8d2-4a9a-8b03-6fc81648b801/balea-rasiercreme-mit-kirschblueten-extrakt"
+        },
+        {
+          "alt": "Rasiercreme mit Kirschblüten-Extrakt Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778712036/assets/pas/images/fb63baac-62aa-4c52-a025-fa70bccdc214/balea-rasiercreme-mit-kirschblueten-extrakt"
+        },
+        {
+          "alt": "Rasiercreme mit Kirschblüten-Extrakt Balea",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778712031/assets/pas/images/79ae0962-fd96-41ac-badf-0b15f3363bae/balea-rasiercreme-mit-kirschblueten-extrakt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (16,53 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (19,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3109372/balea-rasiercreme-mit-kirschblueten-extrakt",
+      "title": {
+        "tileHeadline": "Rasiercreme mit Kirschblüten-Extrakt, 150 ml",
+        "tileHeadlineLong": "Rasiercreme mit Kirschblüten-Extrakt, 150 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 4006000170091,
+    "dan": 1572490,
+    "brandName": "NIVEA MEN",
+    "title": "Rasierschaum Hydrocare, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA MEN; Produktname: Rasierschaum Hydrocare, 200 ml; Preis: 2,95 €; Grundpreis: 0,2 l (14,75 € je 1 l)",
+      "brand": {
+        "name": "NIVEA MEN"
+      },
+      "dan": 1572490,
+      "gtin": 4006000170091,
+      "images": [
+        {
+          "alt": "Rasierschaum Hydrocare NIVEA MEN",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855148/assets/pas/images/49159b2a-fc0a-4bd8-b267-3c2156b760d7/nivea-men-rasierschaum-hydrocare"
+        },
+        {
+          "alt": "Rasierschaum Hydrocare NIVEA MEN",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855142/assets/pas/images/a793b062-90d5-43df-bf80-e781024b3579/nivea-men-rasierschaum-hydrocare"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (12,39 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (14,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 333,
+        "ratingValue": 4.8078
+      },
+      "self": "/p/d/1572490/nivea-men-rasierschaum-hydrocare",
+      "title": {
+        "tileHeadline": "Rasierschaum Hydrocare, 200 ml",
+        "tileHeadlineLong": "Rasierschaum Hydrocare, 200 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8078,
+        "ratingCount": 333
+      }
+    }
+  },
+  {
+    "gtin": 4067796065886,
+    "dan": 1413947,
+    "brandName": "Balea MEN",
+    "title": "Rasierschaum Ultra Sensitive, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: Rasierschaum Ultra Sensitive, 300 ml; Preis: 1,35 €; Grundpreis: 0,3 l (4,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 1413947,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796065886,
+      "images": [
+        {
+          "alt": "Rasierschaum Ultra Sensitive Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755000044/assets/pas/images/1df27691-787a-401e-a01f-50b8ca0a2636/balea-men-rasierschaum-ultra-sensitive"
+        },
+        {
+          "alt": "Rasierschaum Ultra Sensitive Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755000040/assets/pas/images/955c8eef-b92a-439c-b0c9-d60e1feeed84/balea-men-rasierschaum-ultra-sensitive"
+        },
+        {
+          "alt": "Rasierschaum Ultra Sensitive Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1749780774/assets/pas/images/f2c4d1b3-d45a-48bf-a086-e311e9682010/balea-men-rasierschaum-ultra-sensitive"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,13 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (3,78 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.7444
+      },
+      "self": "/p/d/1413947/balea-men-rasierschaum-ultra-sensitive",
+      "title": {
+        "tileHeadline": "Rasierschaum Ultra Sensitive, 300 ml",
+        "tileHeadlineLong": "Rasierschaum Ultra Sensitive, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7444,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4067796065824,
+    "dan": 1615484,
+    "brandName": "Balea MEN",
+    "title": "Rasierschaum Sensitive, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: Rasierschaum Sensitive, 300 ml; Preis: 0,95 €; Grundpreis: 0,3 l (3,17 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 1615484,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796065824,
+      "images": [
+        {
+          "alt": "Rasierschaum Sensitive Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755091676/assets/pas/images/eed645c3-2524-47b7-aa23-9fb22cb70092/balea-men-rasierschaum-sensitive"
+        },
+        {
+          "alt": "Rasierschaum Sensitive Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755091674/assets/pas/images/9949f642-7d98-4e1e-91b8-2664b8589585/balea-men-rasierschaum-sensitive"
+        },
+        {
+          "alt": "Rasierschaum Sensitive Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487256/assets/pas/images/6fbf31d0-360e-4344-87ba-172c801f3b66/balea-men-rasierschaum-sensitive"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (2,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (3,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 116,
+        "ratingValue": 4.6638
+      },
+      "self": "/p/d/1615484/balea-men-rasierschaum-sensitive",
+      "title": {
+        "tileHeadline": "Rasierschaum Sensitive, 300 ml",
+        "tileHeadlineLong": "Rasierschaum Sensitive, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6638,
+        "ratingCount": 116
+      }
+    }
+  },
+  {
+    "gtin": 4067796072426,
+    "dan": 1615488,
+    "brandName": "Balea MEN",
+    "title": "Rasierschaum Fresh, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: Rasierschaum Fresh, 300 ml; Preis: 0,95 €; Grundpreis: 0,3 l (3,17 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 1615488,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796072426,
+      "images": [
+        {
+          "alt": "Rasierschaum Fresh Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754994904/assets/pas/images/2fd6a52a-ddce-4787-a7d5-8753c06b83b3/balea-men-rasierschaum-fresh"
+        },
+        {
+          "alt": "Rasierschaum Fresh Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754994907/assets/pas/images/72612175-8173-4743-bad4-173bc62ce132/balea-men-rasierschaum-fresh"
+        },
+        {
+          "alt": "Rasierschaum Fresh Balea MEN",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754994904/assets/pas/images/4f4e6a3e-13d5-4257-8c8e-bf806bce5706/balea-men-rasierschaum-fresh"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (2,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (3,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 89,
+        "ratingValue": 4.5281
+      },
+      "self": "/p/d/1615488/balea-men-rasierschaum-fresh",
+      "title": {
+        "tileHeadline": "Rasierschaum Fresh, 300 ml",
+        "tileHeadlineLong": "Rasierschaum Fresh, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5281,
+        "ratingCount": 89
+      }
+    }
+  },
+  {
+    "gtin": 4067796149524,
+    "dan": 2976763,
+    "brandName": "Balea MEN",
+    "title": "Rasieröl Sensitive, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: Rasieröl Sensitive, 50 ml; Preis: 1,75 €; Grundpreis: 0,05 l (35,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 2976763,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796149524,
+      "images": [
+        {
+          "alt": "Rasieröl Sensitive Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487800/assets/pas/images/4e7fbe8f-485d-4051-a1f6-0125bba4e853/balea-men-rasieroel-sensitive"
+        },
+        {
+          "alt": "Rasieröl Sensitive Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487850/assets/pas/images/384ca935-e2a8-4bc1-83de-b38ab766f8f1/balea-men-rasieroel-sensitive"
+        },
+        {
+          "alt": "Rasieröl Sensitive Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488095/assets/pas/images/d1827cd7-4db1-422c-9f08-f529bc30f255/balea-men-rasieroel-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (29,41 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (35,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 45,
+        "ratingValue": 4.5778
+      },
+      "self": "/p/d/2976763/balea-men-rasieroel-sensitive",
+      "title": {
+        "tileHeadline": "Rasieröl Sensitive, 50 ml",
+        "tileHeadlineLong": "Rasieröl Sensitive, 50 ml"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5778,
+        "ratingCount": 45
+      }
+    }
+  },
+  {
+    "gtin": 4070765051643,
+    "dan": 3135194,
+    "brandName": "Balea MEN",
+    "title": "Duschschaum Dark Elegance 2in1, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: Duschschaum Dark Elegance 2in1, 200 ml; Preis: 1,95 €; Grundpreis: 0,2 l (9,75 € je 1 l); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 3135194,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765051643,
+      "images": [
+        {
+          "alt": "Duschschaum Dark Elegance 2in1 Balea MEN",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780008268/assets/pas/images/67133bca-dc7c-4aad-9fd3-7a56d0558625/balea-men-duschschaum-dark-elegance-2in1"
+        },
+        {
+          "alt": "Duschschaum Dark Elegance 2in1 Balea MEN",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780008265/assets/pas/images/595c937c-073f-454a-b0e2-c074c3103024/balea-men-duschschaum-dark-elegance-2in1"
+        },
+        {
+          "alt": "Duschschaum Dark Elegance 2in1 Balea MEN",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780008260/assets/pas/images/dd56d238-bde1-4685-9360-c20dd02d75f3/balea-men-duschschaum-dark-elegance-2in1"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (8,19 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (9,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 7,
+        "ratingValue": 4.1429
+      },
+      "self": "/p/d/3135194/balea-men-duschschaum-dark-elegance-2in1",
+      "title": {
+        "tileHeadline": "Duschschaum Dark Elegance 2in1, 200 ml",
+        "tileHeadlineLong": "Duschschaum Dark Elegance 2in1, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "Duschen für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1429,
+        "ratingCount": 7
+      }
+    }
+  },
+  {
+    "gtin": 8720689037846,
+    "dan": 3059911,
+    "brandName": "PHILIPS OneBlade",
+    "title": "Elektrischer Rasierer, OneBlade Intimate Women QP1924/24, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: PHILIPS OneBlade; Produktname: Elektrischer Rasierer, OneBlade Intimate Women QP1924/24, 1 St; Preis: 32,95 €; Grundpreis: 1 St (32,95 € je 1 St)",
+      "brand": {
+        "name": "PHILIPS OneBlade"
+      },
+      "dan": 3059911,
+      "gtin": 8720689037846,
+      "images": [
+        {
+          "alt": "Elektrischer Rasierer, OneBlade Intimate Women QP1924/24 PHILIPS OneBlade",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750113883/assets/pas/images/697ab255-ac85-43a8-9d60-6bf7a43d65f4/philips-oneblade-elektrischer-rasierer-oneblade-intimate-women-qp1924-24"
+        },
+        {
+          "alt": "Elektrischer Rasierer, OneBlade Intimate Women QP1924/24 PHILIPS OneBlade",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750113894/assets/pas/images/be82068e-7ee5-44b4-b15f-f01daf07045e/philips-oneblade-elektrischer-rasierer-oneblade-intimate-women-qp1924-24"
+        },
+        {
+          "alt": "Elektrischer Rasierer, OneBlade Intimate Women QP1924/24 PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534761/assets/pas/images/9905c6e8-0814-48ed-be0f-64105a44efab/philips-oneblade-elektrischer-rasierer-oneblade-intimate-women-qp1924-24"
+        },
+        {
+          "alt": "Elektrischer Rasierer, OneBlade Intimate Women QP1924/24 PHILIPS OneBlade",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747535399/assets/pas/images/e4cfbe75-c2b6-472b-b98c-3b63b8143576/philips-oneblade-elektrischer-rasierer-oneblade-intimate-women-qp1924-24"
+        },
+        {
+          "alt": "Elektrischer Rasierer, OneBlade Intimate Women QP1924/24 PHILIPS OneBlade",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759874236/assets/pas/images/34be5d30-fb3d-409b-b69d-c3082eca9e15/philips-oneblade-elektrischer-rasierer-oneblade-intimate-women-qp1924-24"
+        },
+        {
+          "alt": "Elektrischer Rasierer, OneBlade Intimate Women QP1924/24 PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747535391/assets/pas/images/f9aa6982-881e-476f-9fa7-3e22648237d0/philips-oneblade-elektrischer-rasierer-oneblade-intimate-women-qp1924-24"
+        },
+        {
+          "alt": "Elektrischer Rasierer, OneBlade Intimate Women QP1924/24 PHILIPS OneBlade",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534762/assets/pas/images/0018dd82-acd7-4a26-82a8-d485605cf41f/philips-oneblade-elektrischer-rasierer-oneblade-intimate-women-qp1924-24"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "27,69 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (27,69 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "32,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (32,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 153,
+        "ratingValue": 3.9477
+      },
+      "self": "/p/d/3059911/philips-oneblade-elektrischer-rasierer-oneblade-intimate-women-qp1924-24",
+      "title": {
+        "tileHeadline": "Elektrischer Rasierer, OneBlade Intimate Women..., 1 St",
+        "tileHeadlineLong": "Elektrischer Rasierer, OneBlade Intimate Women..., 1 St"
+      },
+      "trackingData": {
+        "brand": "PHILIPS OneBlade",
+        "categories": [
+          "Elektrorasierer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 32.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9477,
+        "ratingCount": 153
+      }
+    }
+  },
+  {
+    "gtin": 8720689003377,
+    "dan": 3062457,
+    "brandName": "PHILIPS OneBlade",
+    "title": "Rasierklinge, OneBlade Intimate Men QP219/50, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: PHILIPS OneBlade; Produktname: Rasierklinge, OneBlade Intimate Men QP219/50, 1 St; Preis: 17,95 €; Grundpreis: 1 St (17,95 € je 1 St)",
+      "brand": {
+        "name": "PHILIPS OneBlade"
+      },
+      "dan": 3062457,
+      "gtin": 8720689003377,
+      "images": [
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752890939/assets/pas/images/9c6a67cb-cb9e-478a-95bf-7e2fbdb11191/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534457/assets/pas/images/33736846-af8c-4756-b1ae-f9c70e0aa5d2/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786105/assets/pas/images/4d07e720-cb84-419f-8ec7-b41680b9c00f/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534457/assets/pas/images/150c29ac-219f-458d-927f-505006e7ebda/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534497/assets/pas/images/718b90af-1508-4c72-a98c-3a831d6d9280/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747535072/assets/pas/images/1c550ecc-876b-43b1-ab13-7416cc4af4ce/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534497/assets/pas/images/00724c55-84b0-4eb2-916f-9dbaf1873532/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,08 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (15,08 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "17,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (17,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 89,
+        "ratingValue": 4.3596
+      },
+      "self": "/p/d/3062457/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50",
+      "title": {
+        "tileHeadline": "Rasierklinge, OneBlade Intimate Men QP219/50, 1 St",
+        "tileHeadlineLong": "Rasierklinge, OneBlade Intimate Men QP219/50, 1 St"
+      },
+      "trackingData": {
+        "brand": "PHILIPS OneBlade",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 17.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3596,
+        "ratingCount": 89
+      }
+    }
+  },
+  {
+    "gtin": 8720689031615,
+    "dan": 3131063,
+    "brandName": "PHILIPS OneBlade",
+    "title": "Elektrischer Rasierer, OneBlade black QP1424/65, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: PHILIPS OneBlade; Produktname: Elektrischer Rasierer, OneBlade black QP1424/65, 1 St; Preis: 39,95 €; Grundpreis: 1 St (39,95 € je 1 St); Neues Produkt Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "PHILIPS OneBlade"
+      },
+      "dan": 3131063,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8720689031615,
+      "images": [
+        {
+          "alt": "Elektrischer Rasierer, OneBlade black QP1424/65 PHILIPS OneBlade",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779835278/assets/pas/images/3d694798-b298-403f-844d-122ca6c42175/philips-oneblade-elektrischer-rasierer-oneblade-black-qp1424-65"
+        },
+        {
+          "alt": "Elektrischer Rasierer, OneBlade black QP1424/65 PHILIPS OneBlade",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779835287/assets/pas/images/c57f818c-7fe4-4cf3-822a-804ecaa6e275/philips-oneblade-elektrischer-rasierer-oneblade-black-qp1424-65"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "33,57 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (33,57 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "39,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (39,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 615,
+        "ratingValue": 4.3561
+      },
+      "self": "/p/d/3131063/philips-oneblade-elektrischer-rasierer-oneblade-black-qp1424-65",
+      "title": {
+        "tileHeadline": "Elektrischer Rasierer, OneBlade black QP1424/65, 1 St",
+        "tileHeadlineLong": "Elektrischer Rasierer, OneBlade black QP1424/65, 1 St"
+      },
+      "trackingData": {
+        "brand": "PHILIPS OneBlade",
+        "categories": [
+          "Elektrorasierer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 39.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3561,
+        "ratingCount": 615
+      }
+    }
+  },
+  {
+    "gtin": 4066447239256,
+    "dan": 1641048,
+    "brandName": "Balea",
+    "title": "Rasierschaum Avocadoöl & Vitamin E, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Rasierschaum Avocadoöl & Vitamin E, 150 ml; Preis: 0,75 €; Grundpreis: 0,15 l (5,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1641048,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447239256,
+      "images": [
+        {
+          "alt": "Rasierschaum Avocadoöl & Vitamin E Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478843/assets/pas/images/3688019a-9a9d-4089-ad1f-c30d31475a65/balea-rasierschaum-avocadooel-und-vitamin-e"
+        },
+        {
+          "alt": "Rasierschaum Avocadoöl & Vitamin E Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478526/assets/pas/images/98201be1-09e8-40fd-8bd2-74435544e0fc/balea-rasierschaum-avocadooel-und-vitamin-e"
+        },
+        {
+          "alt": "Rasierschaum Avocadoöl & Vitamin E Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478526/assets/pas/images/68996bea-a92d-499c-bdad-2a70c6bcbd75/balea-rasierschaum-avocadooel-und-vitamin-e"
+        },
+        {
+          "alt": "Rasierschaum Avocadoöl & Vitamin E Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478636/assets/pas/images/a95a5b8e-c38a-417f-a86b-86bb348f1d1a/balea-rasierschaum-avocadooel-und-vitamin-e"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (4,20 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (5,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 96,
+        "ratingValue": 4.125
+      },
+      "self": "/p/d/1641048/balea-rasierschaum-avocadooel-und-vitamin-e",
+      "title": {
+        "tileHeadline": "Rasierschaum Avocadoöl & Vitamin E, 150 ml",
+        "tileHeadlineLong": "Rasierschaum Avocadoöl & Vitamin E, 150 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.125,
+        "ratingCount": 96
+      }
+    }
+  },
+  {
+    "gtin": 4067796175691,
+    "dan": 3051328,
+    "brandName": "Balea",
+    "title": "Rasierbutter Pfirsich, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Rasierbutter Pfirsich, 150 ml; Preis: 2,85 €; Grundpreis: 0,15 l (19,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3051328,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796175691,
+      "images": [
+        {
+          "alt": "Rasierbutter Pfirsich Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755010454/assets/pas/images/3ec39281-cd7d-4957-af80-9c8dd607334a/balea-rasierbutter-pfirsich"
+        },
+        {
+          "alt": "Rasierbutter Pfirsich Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488379/assets/pas/images/c4ed44be-1ac6-480e-9d35-307810c36ac7/balea-rasierbutter-pfirsich"
+        },
+        {
+          "alt": "Rasierbutter Pfirsich Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755010460/assets/pas/images/a187c691-fb58-4091-8d7d-2fb6883ef02c/balea-rasierbutter-pfirsich"
+        },
+        {
+          "alt": "Rasierbutter Pfirsich Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755010454/assets/pas/images/582e83ba-10a3-4ed5-bde2-0e74891bc53a/balea-rasierbutter-pfirsich"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,39 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (15,97 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (19,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.0
+      },
+      "self": "/p/d/3051328/balea-rasierbutter-pfirsich",
+      "title": {
+        "tileHeadline": "Rasierbutter Pfirsich, 150 ml",
+        "tileHeadlineLong": "Rasierbutter Pfirsich, 150 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9762,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4260524940992,
+    "dan": 1588392,
+    "brandName": "Nø more hair",
+    "title": "Rasieröl, 15 ml",
+    "tileData": {
+      "dan": 1588392,
+      "gtin": 4260524940992,
+      "self": "/p/d/1588392/no-more-hair-rasieroel",
+      "brand": {
+        "name": "Nø more hair"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,015 l (330,00 € je 1 l)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Rasieröl, 15 ml",
+        "tileHeadlineLong": "Rasieröl, 15 ml"
+      },
+      "images": [
+        {
+          "alt": "Rasieröl Nø more hair",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493372/assets/pas/images/ab323c29-fc4a-4770-972d-2abe6c48efff/no-more-hair-rasieroel",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F4"
+        },
+        {
+          "alt": "Rasieröl Nø more hair",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493370/assets/pas/images/f5d744a6-c11e-4042-89f0-31d8bcc1b985/no-more-hair-rasieroel",
+          "isAiGenerated": false,
+          "backgroundColor": "#F0F3F7"
+        },
+        {
+          "alt": "Rasieröl Nø more hair",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493424/assets/pas/images/13b2719e-3a62-4c34-ac83-b53a80ecb9d7/no-more-hair-rasieroel",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F5F1"
+        },
+        {
+          "alt": "Rasieröl Nø more hair",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493370/assets/pas/images/0f61a1ef-a40f-4f65-ab81-f3be20d08e90/no-more-hair-rasieroel",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F4"
+        }
+      ],
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 3.7286
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,015 l (277,31 € je 1 l)"
+        ]
+      },
+      "a11yLabel": "Marke: Nø more hair; Produktname: Rasieröl, 15 ml; Preis: 4,95 €; Grundpreis: 0,015 l (330,00 € je 1 l); Nur Online Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "Nø more hair",
+        "price": 4.95,
+        "currency": "EUR",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7286,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4260524941012,
+    "dan": 1588391,
+    "brandName": "Nø more hair",
+    "title": "Aprés Shave Lotion, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Nø more hair; Produktname: Aprés Shave Lotion, 100 ml; Preis: 4,95 €; Grundpreis: 0,1 l (49,50 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "Nø more hair"
+      },
+      "dan": 1588391,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260524941012,
+      "images": [
+        {
+          "alt": "Aprés Shave Lotion Nø more hair",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493368/assets/pas/images/7e689163-aa33-4b42-9173-3277f3bcdc5b/no-more-hair-apres-shave-lotion"
+        },
+        {
+          "alt": "Aprés Shave Lotion Nø more hair",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493424/assets/pas/images/bad44fc7-cfc4-475f-9378-505543549df5/no-more-hair-apres-shave-lotion"
+        },
+        {
+          "alt": "Aprés Shave Lotion Nø more hair",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493024/assets/pas/images/8874a72b-b58b-478a-9f2f-f87f4e9e483c/no-more-hair-apres-shave-lotion"
+        },
+        {
+          "alt": "Aprés Shave Lotion Nø more hair",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493388/assets/pas/images/944e0d61-9c9c-474a-8be8-cb84e8bcc21e/no-more-hair-apres-shave-lotion"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (41,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (49,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.0714
+      },
+      "self": "/p/d/1588391/no-more-hair-apres-shave-lotion",
+      "title": {
+        "tileHeadline": "Aprés Shave Lotion, 100 ml",
+        "tileHeadlineLong": "Aprés Shave Lotion, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Nø more hair",
+        "categories": [
+          "Rasierschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0714,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4066447600582,
+    "dan": 1615560,
+    "brandName": "Balea MEN",
+    "title": "Sensitive Rasierschaum, Reisegröße, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: Sensitive Rasierschaum, Reisegröße, 75 ml; Preis: 0,75 €; Grundpreis: 0,075 l (10,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 1615560,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447600582,
+      "images": [
+        {
+          "alt": "Sensitive Rasierschaum, Reisegröße Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755005473/assets/pas/images/39379b58-fc9e-47bf-ae99-f1f7746d9dc8/balea-men-sensitive-rasierschaum-reisegroesse"
+        },
+        {
+          "alt": "Sensitive Rasierschaum, Reisegröße Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755005472/assets/pas/images/a768218a-892b-432e-816e-1893c8ace55d/balea-men-sensitive-rasierschaum-reisegroesse"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (8,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (10,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.6923
+      },
+      "self": "/p/d/1615560/balea-men-sensitive-rasierschaum-reisegroesse",
+      "title": {
+        "tileHeadline": "Sensitive Rasierschaum, Reisegröße, 75 ml",
+        "tileHeadlineLong": "Sensitive Rasierschaum, Reisegröße, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6923,
+        "ratingCount": 65
+      }
+    }
+  }
+]

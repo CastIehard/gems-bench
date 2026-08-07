@@ -1,0 +1,743 @@
+[
+  {
+    "gtin": 4066447677003,
+    "dan": 1526195,
+    "brandName": "dmBio",
+    "title": "Knäckebrot, Roggen & Dinkel, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Knäckebrot, Roggen & Dinkel, 250 g; Preis: 1,55 €; Grundpreis: 0,25 kg (6,20 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1526195,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447677003,
+      "images": [
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484609/assets/pas/images/c60365d9-ee2c-4ce6-a13a-311c777b665c/dmbio-knaeckebrot-roggen-und-dinkel"
+        },
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595711/assets/pas/images/7c484f85-fd9b-417c-9ff0-cfcbe693ef89/dmbio-knaeckebrot-roggen-und-dinkel"
+        },
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484868/assets/pas/images/d6eec3ca-4ec9-4dbf-9eef-c2e84cec892e/dmbio-knaeckebrot-roggen-und-dinkel"
+        },
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595730/assets/pas/images/a39a7abb-8043-4836-9c5e-c04c943507bb/dmbio-knaeckebrot-roggen-und-dinkel"
+        },
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595719/assets/pas/images/395b32a1-e5cb-4431-b63e-6957fcf3a649/dmbio-knaeckebrot-roggen-und-dinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (5,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (6,20 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 110,
+        "ratingValue": 4.6636
+      },
+      "self": "/p/d/1526195/dmbio-knaeckebrot-roggen-und-dinkel",
+      "title": {
+        "tileHeadline": "Knäckebrot, Roggen & Dinkel, 250 g",
+        "tileHeadlineLong": "Knäckebrot, Roggen & Dinkel, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6636,
+        "ratingCount": 110
+      }
+    }
+  },
+  {
+    "gtin": 8008698047552,
+    "dan": 3051289,
+    "brandName": "Schär",
+    "title": "Knäckebrot, Hafer, glutenfrei, 215 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Knäckebrot, Hafer, glutenfrei, 215 g; Preis: 3,95 €; Grundpreis: 0,215 kg (18,37 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 3051289,
+      "gtin": 8008698047552,
+      "images": [
+        {
+          "alt": "Knäckebrot, Hafer, glutenfrei Schär",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754981396/assets/pas/images/76273579-962a-40ab-82cb-f36610926db2/schaer-knaeckebrot-hafer-glutenfrei"
+        },
+        {
+          "alt": "Knäckebrot, Hafer, glutenfrei Schär",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754981389/assets/pas/images/d46090cc-5e13-430e-8026-f3afd115edbf/schaer-knaeckebrot-hafer-glutenfrei"
+        },
+        {
+          "alt": "Knäckebrot, Hafer, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517862/assets/pas/images/64d6afa0-9181-436d-b57d-f8582ab64470/schaer-knaeckebrot-hafer-glutenfrei"
+        },
+        {
+          "alt": "Knäckebrot, Hafer, glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775774781/assets/pas/images/aec5f939-f5b4-4de2-ab69-0c4e892d9f18/schaer-knaeckebrot-hafer-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,215 kg (17,17 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,215 kg (18,37 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.5472
+      },
+      "self": "/p/d/3051289/schaer-knaeckebrot-hafer-glutenfrei",
+      "title": {
+        "tileHeadline": "Knäckebrot, Hafer, glutenfrei, 215 g",
+        "tileHeadlineLong": "Knäckebrot, Hafer, glutenfrei, 215 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5472,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4066447707267,
+    "dan": 1585849,
+    "brandName": "dmBio",
+    "title": "Knäckebrot, Saaten Mix, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Knäckebrot, Saaten Mix, 200 g; Preis: 1,75 €; Grundpreis: 0,2 kg (8,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1585849,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447707267,
+      "images": [
+        {
+          "alt": "Knäckebrot, Saaten Mix dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484893/assets/pas/images/308d951d-4471-4705-a67f-6b1565d1441b/dmbio-knaeckebrot-saaten-mix"
+        },
+        {
+          "alt": "Knäckebrot, Saaten Mix dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484893/assets/pas/images/863d0de6-2204-4fe4-ab2d-9bb901ed8419/dmbio-knaeckebrot-saaten-mix"
+        },
+        {
+          "alt": "Knäckebrot, Saaten Mix dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484830/assets/pas/images/976c8fe8-abcd-409d-aea3-2a4faa37eed1/dmbio-knaeckebrot-saaten-mix"
+        },
+        {
+          "alt": "Knäckebrot, Saaten Mix dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761819718/assets/pas/images/2989ec06-99fc-4a33-b0f4-ae2fd2d3a3ae/dmbio-knaeckebrot-saaten-mix"
+        },
+        {
+          "alt": "Knäckebrot, Saaten Mix dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485024/assets/pas/images/47bda141-6764-4d21-ad90-b9115ab6c230/dmbio-knaeckebrot-saaten-mix"
+        },
+        {
+          "alt": "Knäckebrot, Saaten Mix dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485024/assets/pas/images/741f3318-fc88-48a9-8822-ee26f16336ec/dmbio-knaeckebrot-saaten-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 99,
+        "ratingValue": 4.7677
+      },
+      "self": "/p/d/1585849/dmbio-knaeckebrot-saaten-mix",
+      "title": {
+        "tileHeadline": "Knäckebrot, Saaten Mix, 200 g",
+        "tileHeadlineLong": "Knäckebrot, Saaten Mix, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7677,
+        "ratingCount": 99
+      }
+    }
+  },
+  {
+    "gtin": 4067796072310,
+    "dan": 2482663,
+    "brandName": "dmBio",
+    "title": "Snack Knäcke Lauge, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Snack Knäcke Lauge, 200 g; Preis: 1,75 €; Grundpreis: 0,2 kg (8,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 2482663,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796072310,
+      "images": [
+        {
+          "alt": "Snack Knäcke Lauge dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487489/assets/pas/images/c57fc704-598a-4aa5-9921-18061fcd7b66/dmbio-snack-knaecke-lauge"
+        },
+        {
+          "alt": "Snack Knäcke Lauge dmBio",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487326/assets/pas/images/a84d43e7-b17f-4787-a02c-be4abf60e32a/dmbio-snack-knaecke-lauge"
+        },
+        {
+          "alt": "Snack Knäcke Lauge dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487325/assets/pas/images/17fe0c32-b596-4118-a574-21d855e176dd/dmbio-snack-knaecke-lauge"
+        },
+        {
+          "alt": "Snack Knäcke Lauge dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487492/assets/pas/images/29d8a498-ce52-4f71-9f49-1efe921aa1a3/dmbio-snack-knaecke-lauge"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 128,
+        "ratingValue": 4.6406
+      },
+      "self": "/p/d/2482663/dmbio-snack-knaecke-lauge",
+      "title": {
+        "tileHeadline": "Snack Knäcke Lauge, 200 g",
+        "tileHeadlineLong": "Snack Knäcke Lauge, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6406,
+        "ratingCount": 128
+      }
+    }
+  },
+  {
+    "gtin": 4015637826417,
+    "dan": 1618158,
+    "brandName": "Bauck Mühle",
+    "title": "Backmischung Wunderbrot, glutenfrei, 600 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bauck Mühle; Produktname: Backmischung Wunderbrot, glutenfrei, 600 g; Preis: 4,45 €; Grundpreis: 0,6 kg (7,42 € je 1 kg)",
+      "brand": {
+        "name": "Bauck Mühle"
+      },
+      "dan": 1618158,
+      "gtin": 4015637826417,
+      "images": [
+        {
+          "alt": "Backmischung Wunderbrot, glutenfrei Bauck Mühle",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904349/assets/pas/images/67926038-8655-4ea2-b066-1b1292208b02/bauck-muehle-backmischung-wunderbrot-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (6,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (7,42 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 189,
+        "ratingValue": 4.7989
+      },
+      "self": "/p/d/1618158/bauck-muehle-backmischung-wunderbrot-glutenfrei",
+      "title": {
+        "tileHeadline": "Backmischung Wunderbrot, glutenfrei, 600 g",
+        "tileHeadlineLong": "Backmischung Wunderbrot, glutenfrei, 600 g"
+      },
+      "trackingData": {
+        "brand": "Bauck Mühle",
+        "categories": [
+          "Backmischungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7989,
+        "ratingCount": 189
+      }
+    }
+  },
+  {
+    "gtin": 4058172972256,
+    "dan": 1494320,
+    "brandName": "dmBio",
+    "title": "Cracker, Dinkel natur, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Cracker, Dinkel natur, 100 g; Preis: 0,95 €; Grundpreis: 0,1 kg (9,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1494320,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172972256,
+      "images": [
+        {
+          "alt": "Cracker, Dinkel natur dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754992483/assets/pas/images/e8a9ef69-92b9-4490-a488-52a2aa3ab53d/dmbio-cracker-dinkel-natur"
+        },
+        {
+          "alt": "Cracker, Dinkel natur dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754992481/assets/pas/images/3bf23d86-3c96-4b8c-bc4a-fcd57fb4bd25/dmbio-cracker-dinkel-natur"
+        },
+        {
+          "alt": "Cracker, Dinkel natur dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747457234/assets/pas/images/09dc078b-297a-4968-b7db-b567813bacb6/dmbio-cracker-dinkel-natur"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (8,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (9,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 101,
+        "ratingValue": 4.802
+      },
+      "self": "/p/d/1494320/dmbio-cracker-dinkel-natur",
+      "title": {
+        "tileHeadline": "Cracker, Dinkel natur, 100 g",
+        "tileHeadlineLong": "Cracker, Dinkel natur, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.802,
+        "ratingCount": 101
+      }
+    }
+  },
+  {
+    "gtin": 4058172972270,
+    "dan": 1494321,
+    "brandName": "dmBio",
+    "title": "Cracker, Dinkel Sesam, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Cracker, Dinkel Sesam, 100 g; Preis: 0,95 €; Grundpreis: 0,1 kg (9,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1494321,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172972270,
+      "images": [
+        {
+          "alt": "Cracker, Dinkel Sesam dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754993496/assets/pas/images/e14492a3-e41f-4a97-b72e-a1591d7abbc9/dmbio-cracker-dinkel-sesam"
+        },
+        {
+          "alt": "Cracker, Dinkel Sesam dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754993491/assets/pas/images/bd09031f-acfb-420c-93c8-3954c060c658/dmbio-cracker-dinkel-sesam"
+        },
+        {
+          "alt": "Cracker, Dinkel Sesam dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747457445/assets/pas/images/1a2d96dd-d523-42a3-879c-e00ad23c8c10/dmbio-cracker-dinkel-sesam"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (8,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (9,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 99,
+        "ratingValue": 4.7071
+      },
+      "self": "/p/d/1494321/dmbio-cracker-dinkel-sesam",
+      "title": {
+        "tileHeadline": "Cracker, Dinkel Sesam, 100 g",
+        "tileHeadlineLong": "Cracker, Dinkel Sesam, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7071,
+        "ratingCount": 99
+      }
+    }
+  },
+  {
+    "gtin": 4066447888508,
+    "dan": 1585852,
+    "brandName": "dmBio",
+    "title": "Snack Knäcke, Käse Kürbiskern, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Snack Knäcke, Käse Kürbiskern, 200 g; Preis: 1,75 €; Grundpreis: 0,2 kg (8,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1585852,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447888508,
+      "images": [
+        {
+          "alt": "Snack Knäcke, Käse Kürbiskern dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759098028/assets/pas/images/f8c998fe-e068-4937-acea-a4b679c80756/dmbio-snack-knaecke-kaese-kuerbiskern"
+        },
+        {
+          "alt": "Snack Knäcke, Käse Kürbiskern dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759098045/assets/pas/images/26f1a1cb-217c-4ade-886e-1fe014bb9181/dmbio-snack-knaecke-kaese-kuerbiskern"
+        },
+        {
+          "alt": "Snack Knäcke, Käse Kürbiskern dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759098041/assets/pas/images/87fa9f55-009e-4e66-8318-0149355a60b0/dmbio-snack-knaecke-kaese-kuerbiskern"
+        },
+        {
+          "alt": "Snack Knäcke, Käse Kürbiskern dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759098036/assets/pas/images/ab2dccfb-9dca-4836-ba63-5f1d8118ca54/dmbio-snack-knaecke-kaese-kuerbiskern"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 161,
+        "ratingValue": 4.5714
+      },
+      "self": "/p/d/1585852/dmbio-snack-knaecke-kaese-kuerbiskern",
+      "title": {
+        "tileHeadline": "Snack Knäcke, Käse Kürbiskern, 200 g",
+        "tileHeadlineLong": "Snack Knäcke, Käse Kürbiskern, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5714,
+        "ratingCount": 161
+      }
+    }
+  }
+]

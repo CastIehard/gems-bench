@@ -1,0 +1,3071 @@
+[
+  {
+    "gtin": 4066447084894,
+    "dan": 1640499,
+    "brandName": "dmBio",
+    "title": "Müsliriegel, Hafer Nuss, 3er Pack, 105 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Müsliriegel, Hafer Nuss, 3er Pack, 105 g; Preis: 1,95 €; Grundpreis: 0,105 kg (18,57 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1640499,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447084894,
+      "images": [
+        {
+          "alt": "Müsliriegel, Hafer Nuss, 3er Pack dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020840/assets/pas/images/d6469c87-a5a6-4427-8700-1674cba42a4e/dmbio-muesliriegel-hafer-nuss-3er-pack"
+        },
+        {
+          "alt": "Müsliriegel, Hafer Nuss, 3er Pack dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020840/assets/pas/images/2a6967d0-df1f-4def-a995-a06dd27098a6/dmbio-muesliriegel-hafer-nuss-3er-pack"
+        },
+        {
+          "alt": "Müsliriegel, Hafer Nuss, 3er Pack dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475954/assets/pas/images/dab9d494-2a5a-4cbd-8058-5285dc12c84f/dmbio-muesliriegel-hafer-nuss-3er-pack"
+        },
+        {
+          "alt": "Müsliriegel, Hafer Nuss, 3er Pack dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020840/assets/pas/images/0f224679-e573-4f40-914a-2ac0f0414392/dmbio-muesliriegel-hafer-nuss-3er-pack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,105 kg (17,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,105 kg (18,57 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 135,
+        "ratingValue": 4.6889
+      },
+      "self": "/p/d/1640499/dmbio-muesliriegel-hafer-nuss-3er-pack",
+      "title": {
+        "tileHeadline": "Müsliriegel, Hafer Nuss, 3er Pack, 105 g",
+        "tileHeadlineLong": "Müsliriegel, Hafer Nuss, 3er Pack, 105 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6889,
+        "ratingCount": 135
+      }
+    }
+  },
+  {
+    "gtin": 687456214924,
+    "dan": 1679948,
+    "brandName": "Made Good",
+    "title": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück), 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück), 120 g; Preis: 3,15 €; Grundpreis: 0,12 kg (26,25 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 1679948,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456214924,
+      "images": [
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775603390/assets/pas/images/7a24fd71-7819-438f-90fb-a496f334b43e/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757552289/assets/pas/images/5a89a909-3689-45ed-999f-7be8f0d8af54/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687229/assets/pas/images/ab0e2e97-55bd-457c-936e-6c0e9a161741/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687248/assets/pas/images/8d191427-82b9-4200-8c4e-cc3271dad1a5/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687258/assets/pas/images/c35fcaf2-4f49-42e4-94d3-e21a51b98354/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687266/assets/pas/images/af42c66c-05e1-4f2c-933b-5d44fa630624/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687274/assets/pas/images/d9d82114-d374-4057-b14a-d0272f12437a/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687291/assets/pas/images/7cd8fbff-ecf6-4c5f-a3e8-79040c2e31cc/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757552322/assets/pas/images/d17944ab-3674-43f6-be81-bba235dd9fdb/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487926/assets/pas/images/26aa9918-ef4c-483f-8c4c-6ef438ea5c63/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776729119/assets/pas/images/fa1e5e4e-14b1-4768-8167-d46c6b63fe07/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Birthday Cake Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757552375/assets/pas/images/136d805f-97d4-4183-9fb9-ce915ff832e7/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (26,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 162,
+        "ratingValue": 4.3333
+      },
+      "self": "/p/d/1679948/made-good-muesliriegel-chocolate-drizzled-granola-bars-birthday-cake-flavour-5-stueck",
+      "title": {
+        "tileHeadline": "Müsliriegel, Chocolate Drizzled, Granola Bars,..., 120 g",
+        "tileHeadlineLong": "Müsliriegel, Chocolate Drizzled, Granola Bars,..., 120 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3333,
+        "ratingCount": 162
+      }
+    }
+  },
+  {
+    "gtin": 687456216959,
+    "dan": 3117346,
+    "brandName": "Made Good",
+    "title": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück), 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück), 150 g; Preis: 3,25 €; Grundpreis: 0,15 kg (21,67 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 3117346,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456216959,
+      "images": [
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688990/assets/pas/images/a4b7c375-a6ce-43bf-9fb5-e3dba549ef55/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769557274/assets/pas/images/74210efc-f7fb-4ceb-9fff-1b66b364e8df/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688955/assets/pas/images/2742ba37-c7a8-4afe-9bb9-b92a395b7422/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688965/assets/pas/images/6f46248b-c706-40dd-a692-3ef580179188/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688999/assets/pas/images/9b11ac82-e5f7-4aca-9eb7-25c0c283d026/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689013/assets/pas/images/d16aff8e-47c8-45d7-a669-d21a7b137c61/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689007/assets/pas/images/e6def66f-ca76-46ae-95c4-1608515eeaa5/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689021/assets/pas/images/c8b094e4-a078-4ac4-8cdb-0b3730e6b929/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769557190/assets/pas/images/c6306bcf-03bc-4626-ad6b-2c03740f8105/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769557178/assets/pas/images/3906d595-c95b-406e-9abe-d2a08e8d6701/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776729751/assets/pas/images/c0668f3c-be59-4a88-9514-8834adde6da6/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769557201/assets/pas/images/a5951f23-ae97-4246-a49c-896426ed9a53/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 15,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/3117346/made-good-muesliriegel-cinnamon-bun-soft-baked-oat-bars-5-stueck",
+      "title": {
+        "tileHeadline": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5..., 150 g",
+        "tileHeadlineLong": "Müsliriegel, Cinnamon Bun, Soft Baked Oat Bars (5..., 150 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 15
+      }
+    }
+  },
+  {
+    "gtin": 4066447203431,
+    "dan": 1535292,
+    "brandName": "dmBio",
+    "title": "Müsliriegel, Hafer Kakao, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Müsliriegel, Hafer Kakao, 35 g; Preis: 0,95 €; Grundpreis: 0,035 kg (27,14 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1535292,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447203431,
+      "images": [
+        {
+          "alt": "Müsliriegel, Hafer Kakao dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754989804/assets/pas/images/f274079a-3b2a-4950-9948-7f6da8fcfcdb/dmbio-muesliriegel-hafer-kakao"
+        },
+        {
+          "alt": "Müsliriegel, Hafer Kakao dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754989804/assets/pas/images/1a7d1699-bbff-4a7d-8160-7dcf5412d455/dmbio-muesliriegel-hafer-kakao"
+        },
+        {
+          "alt": "Müsliriegel, Hafer Kakao dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747477647/assets/pas/images/b8cf48bc-82e4-4030-85a5-7a1ac6d6b1bd/dmbio-muesliriegel-hafer-kakao"
+        },
+        {
+          "alt": "Müsliriegel, Hafer Kakao dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754989799/assets/pas/images/b748aa06-8daa-4fb9-a059-6706f4d59b37/dmbio-muesliriegel-hafer-kakao"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (25,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (27,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 93,
+        "ratingValue": 4.4086
+      },
+      "self": "/p/d/1535292/dmbio-muesliriegel-hafer-kakao",
+      "title": {
+        "tileHeadline": "Müsliriegel, Hafer Kakao, 35 g",
+        "tileHeadlineLong": "Müsliriegel, Hafer Kakao, 35 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4086,
+        "ratingCount": 93
+      }
+    }
+  },
+  {
+    "gtin": 687456214962,
+    "dan": 1679945,
+    "brandName": "Made Good",
+    "title": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück), 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück), 150 g; Preis: 3,25 €; Grundpreis: 0,15 kg (21,67 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 1679945,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456214962,
+      "images": [
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757551058/assets/pas/images/d5faa390-95bb-4a7a-ab43-8ab7c005ed03/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758488020/assets/pas/images/b79d126a-e5f8-4272-b261-193ae7c13814/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686874/assets/pas/images/2ceb0cd0-1bcf-4baa-8a01-2f27eb17446a/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686883/assets/pas/images/43405dc7-a59b-4513-9035-e4e07adfaa72/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686898/assets/pas/images/4f925768-5806-45e5-9d2d-f662d15215d2/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686916/assets/pas/images/34f115f0-4426-42dc-ab89-b1afee257f51/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686933/assets/pas/images/71516596-6dc1-46cb-8b87-905a8af43d9b/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686925/assets/pas/images/cc411b90-33be-4e4c-a2fb-a3f764433955/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487929/assets/pas/images/0ea041aa-51eb-4f7d-8f2b-5bd6dfd43bc6/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487943/assets/pas/images/f97d1d7a-5dfe-4581-ab1c-3d34f38ecdac/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776730434/assets/pas/images/011fcbee-f765-444f-808c-50ae03eb19fc/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758488006/assets/pas/images/9f5c5d9d-76e7-425e-afa9-b9dc0bcec1c2/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 44,
+        "ratingValue": 4.3864
+      },
+      "self": "/p/d/1679945/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck",
+      "title": {
+        "tileHeadline": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars..., 150 g",
+        "tileHeadlineLong": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars..., 150 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3864,
+        "ratingCount": 44
+      }
+    }
+  },
+  {
+    "gtin": 687456213576,
+    "dan": 1679950,
+    "brandName": "Made Good",
+    "title": "Müsliriegel, Granola Schokoladenstückchen (6 Stück), 144 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Müsliriegel, Granola Schokoladenstückchen (6 Stück), 144 g; Preis: 3,15 €; Grundpreis: 0,144 kg (21,88 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 1679950,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456213576,
+      "images": [
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775601255/assets/pas/images/b02292f2-270a-4420-a407-37c47561c6ab/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758318383/assets/pas/images/18db7201-96b9-4ecb-a6d2-54a74d8391f6/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687695/assets/pas/images/59d092c2-9397-4173-8768-fae6275d5587/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687705/assets/pas/images/aeb97f40-c754-44c4-95c2-ed648e5ecc63/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687714/assets/pas/images/c5dbbcda-da56-4ed6-8d65-6bf00bbb006a/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687722/assets/pas/images/f895e88e-5933-47b8-a302-628a72b5ca82/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687730/assets/pas/images/789f06f0-4b62-40c8-9c2c-360add0cfef0/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687751/assets/pas/images/727cb85e-833b-416b-8b25-122192597610/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758318350/assets/pas/images/e5a93304-1c33-41a0-b7b2-f2de06179ad7/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758318323/assets/pas/images/d5692d75-c30f-4f39-921f-a83df9043e7b/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776728364/assets/pas/images/5b865980-674b-42bd-a2fa-526d7d0bb9d0/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola Schokoladenstückchen (6 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758318417/assets/pas/images/f038abb9-9b3b-4d86-b33c-6cc8326cd981/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,144 kg (20,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,144 kg (21,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 38,
+        "ratingValue": 4.4474
+      },
+      "self": "/p/d/1679950/made-good-muesliriegel-granola-schokoladenstueckchen-6-stueck",
+      "title": {
+        "tileHeadline": "Müsliriegel, Granola Schokoladenstückchen (6..., 144 g",
+        "tileHeadlineLong": "Müsliriegel, Granola Schokoladenstückchen (6..., 144 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4474,
+        "ratingCount": 38
+      }
+    }
+  },
+  {
+    "gtin": 4262376990286,
+    "dan": 1456355,
+    "brandName": "HistaFood",
+    "title": "Müsliriegel Beeren, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: HistaFood; Produktname: Müsliriegel Beeren, 50 g; Preis: 1,95 €; Grundpreis: 0,05 kg (39,00 € je 1 kg)",
+      "brand": {
+        "name": "HistaFood"
+      },
+      "dan": 1456355,
+      "gtin": 4262376990286,
+      "images": [
+        {
+          "alt": "Müsliriegel Beeren HistaFood",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782085909/assets/pas/images/9eadf4a2-21f5-4eaf-935d-17ea7f663a6b/histafood-muesliriegel-beeren"
+        },
+        {
+          "alt": "Müsliriegel Beeren HistaFood",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782858741/assets/pas/images/70705bc7-edfd-4948-8445-3e1ec1484d33/histafood-muesliriegel-beeren"
+        },
+        {
+          "alt": "Müsliriegel Beeren HistaFood",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782858759/assets/pas/images/b0cc75b8-446d-4712-b7bb-e78492cf00d6/histafood-muesliriegel-beeren"
+        },
+        {
+          "alt": "Müsliriegel Beeren HistaFood",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782858751/assets/pas/images/29cc254e-4c22-4d73-916f-43fde6eca8a3/histafood-muesliriegel-beeren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (36,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (39,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.5965
+      },
+      "self": "/p/d/1456355/histafood-muesliriegel-beeren",
+      "title": {
+        "tileHeadline": "Müsliriegel Beeren, 50 g",
+        "tileHeadlineLong": "Müsliriegel Beeren, 50 g"
+      },
+      "trackingData": {
+        "brand": "HistaFood",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5965,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 687456213583,
+    "dan": 1679949,
+    "brandName": "Made Good",
+    "title": "Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g; Preis: 3,15 €; Grundpreis: 0,144 kg (21,88 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 1679949,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456213583,
+      "images": [
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688091/assets/pas/images/96f4beee-9a04-4c3f-a9ea-eaef41157b6a/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487884/assets/pas/images/06c0e72a-ce7d-48e9-8bef-51858d1f9bd9/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688041/assets/pas/images/bf18d755-0c33-4161-a7a7-ded071c714c8/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688052/assets/pas/images/ea94ffdf-3b3f-48f5-ae90-765672903bbb/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688077/assets/pas/images/9df52675-143d-4597-baf6-6ba1d13b8fdc/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688086/assets/pas/images/3bbead29-e98c-493f-9581-3e156bd29508/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688098/assets/pas/images/23e12bb8-2efc-4354-9258-6ad75a4d62d3/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487768/assets/pas/images/853a5f86-ed04-4a6f-9e30-79749c7cf166/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487817/assets/pas/images/b9ed7bc5-3303-4d4f-a809-92478f5d87b4/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776728349/assets/pas/images/6702e5c5-ab85-467f-86ef-a6a10083afbb/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Granola gemischte Früchte (6 Stück) Made Good",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487832/assets/pas/images/64ddb2df-f2c8-4692-a243-f4b5a41caf32/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,144 kg (20,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,144 kg (21,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 38,
+        "ratingValue": 4.5263
+      },
+      "self": "/p/d/1679949/made-good-muesliriegel-granola-gemischte-fruechte-6-stueck",
+      "title": {
+        "tileHeadline": "Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g",
+        "tileHeadlineLong": "Müsliriegel, Granola gemischte Früchte (6 Stück), 144 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5263,
+        "ratingCount": 38
+      }
+    }
+  },
+  {
+    "gtin": 687456214931,
+    "dan": 1679947,
+    "brandName": "Made Good",
+    "title": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück), 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück), 120 g; Preis: 3,15 €; Grundpreis: 0,12 kg (26,25 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 1679947,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456214931,
+      "images": [
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689590/assets/pas/images/1ee05d3d-cd69-4c4d-ab42-7f5c0a7ca386/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487826/assets/pas/images/81176d10-e712-44a1-be3a-92647428ef63/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689549/assets/pas/images/43402ab6-116c-46bd-85df-72a573b32db3/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689557/assets/pas/images/798d8b3f-8597-4552-a0ae-453690f67935/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689583/assets/pas/images/fa4ebb1c-dbed-456f-942f-8e5db3b382c7/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689597/assets/pas/images/1c69e06b-2809-40e4-922c-c69682e14657/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487857/assets/pas/images/6c877598-235e-4d72-835d-9f05e18114e4/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487888/assets/pas/images/2f201a39-6816-46d6-88cb-6be975ad5669/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776729830/assets/pas/images/bd2c44bf-7d7c-4a5e-8778-e38f48aa8487/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Drizzled, Granola Bars, Vanilla Flavour (5 Stück) Made Good",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487793/assets/pas/images/72f51c93-fb3a-4565-a6a1-8673c18e21c5/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (26,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 38,
+        "ratingValue": 4.6316
+      },
+      "self": "/p/d/1679947/made-good-muesliriegel-chocolate-drizzled-granola-bars-vanilla-flavour-5-stueck",
+      "title": {
+        "tileHeadline": "Müsliriegel, Chocolate Drizzled, Granola Bars,..., 120 g",
+        "tileHeadlineLong": "Müsliriegel, Chocolate Drizzled, Granola Bars,..., 120 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6316,
+        "ratingCount": 38
+      }
+    }
+  },
+  {
+    "gtin": 687456214979,
+    "dan": 1679944,
+    "brandName": "Made Good",
+    "title": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück), 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück), 150 g; Preis: 3,25 €; Grundpreis: 0,15 kg (21,67 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 1679944,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456214979,
+      "images": [
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687277/assets/pas/images/6a7c0e17-dd2d-4ecb-844d-d6d909aea420/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487943/assets/pas/images/f7e009fa-0c0b-4f24-8185-b3a9e8d56de5/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687330/assets/pas/images/67452c3c-95e3-4ae9-80d8-d2dda94961bb/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687286/assets/pas/images/96186795-e37f-480a-ad51-de0a8e7d8183/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687295/assets/pas/images/c3056c5d-8ef5-43a1-ac5c-98f748b6f774/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687304/assets/pas/images/ad73bc56-849a-4845-a026-1b3881af1e89/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687321/assets/pas/images/a02d21c0-2163-4b4f-a179-d3097dd131be/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687348/assets/pas/images/a8a1a160-6433-4371-b38e-23a33b34db21/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758488013/assets/pas/images/10542c1d-ecf2-4385-8287-81baeeca313d/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487926/assets/pas/images/cec5259b-6cbb-4ca2-b2eb-55b180b67d54/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776729234/assets/pas/images/711a536a-c053-4ac3-928e-115dffc0939c/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Blueberry Flavour, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487998/assets/pas/images/e8e4f09c-77f7-4f48-9076-455f5a62170a/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 48,
+        "ratingValue": 3.9583
+      },
+      "self": "/p/d/1679944/made-good-muesliriegel-blueberry-flavour-soft-baked-oat-bars-5-stueck",
+      "title": {
+        "tileHeadline": "Müsliriegel, Blueberry Flavour, Soft Baked Oat..., 150 g",
+        "tileHeadlineLong": "Müsliriegel, Blueberry Flavour, Soft Baked Oat..., 150 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9583,
+        "ratingCount": 48
+      }
+    }
+  },
+  {
+    "gtin": 4262376990002,
+    "dan": 1689775,
+    "brandName": "HistaFood",
+    "title": "Müsliriegel Körner mit Datteln, Kürbiskernen & Zimt, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: HistaFood; Produktname: Müsliriegel Körner mit Datteln, Kürbiskernen & Zimt, 50 g; Preis: 1,95 €; Grundpreis: 0,05 kg (39,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "HistaFood"
+      },
+      "dan": 1689775,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4262376990002,
+      "images": [
+        {
+          "alt": "Müsliriegel Körner mit Datteln, Kürbiskernen & Zimt HistaFood",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495367/assets/pas/images/1432b32a-c404-496d-98ee-15b57d5dff6b/histafood-muesliriegel-koerner-mit-datteln-kuerbiskernen-und-zimt"
+        },
+        {
+          "alt": "Müsliriegel Körner mit Datteln, Kürbiskernen & Zimt HistaFood",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495366/assets/pas/images/4a4b78fa-b7e4-432d-b23a-925856ba46dc/histafood-muesliriegel-koerner-mit-datteln-kuerbiskernen-und-zimt"
+        },
+        {
+          "alt": "Müsliriegel Körner mit Datteln, Kürbiskernen & Zimt HistaFood",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495368/assets/pas/images/e34ee79d-057c-41fe-8ecf-9ce75c74d930/histafood-muesliriegel-koerner-mit-datteln-kuerbiskernen-und-zimt"
+        },
+        {
+          "alt": "Müsliriegel Körner mit Datteln, Kürbiskernen & Zimt HistaFood",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778199001/assets/pas/images/bf54326d-ac85-4d83-856e-decccfe761f4/histafood-muesliriegel-koerner-mit-datteln-kuerbiskernen-und-zimt"
+        },
+        {
+          "alt": "Müsliriegel Körner mit Datteln, Kürbiskernen & Zimt HistaFood",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495243/assets/pas/images/087a15ff-09d8-43c1-b703-e4b979581d02/histafood-muesliriegel-koerner-mit-datteln-kuerbiskernen-und-zimt"
+        },
+        {
+          "alt": "Müsliriegel Körner mit Datteln, Kürbiskernen & Zimt HistaFood",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776548511/assets/pas/images/7c2b189d-541e-426d-900a-cc64b6b0e342/histafood-muesliriegel-koerner-mit-datteln-kuerbiskernen-und-zimt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (36,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (39,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 11,
+        "ratingValue": 4.4545
+      },
+      "self": "/p/d/1689775/histafood-muesliriegel-koerner-mit-datteln-kuerbiskernen-und-zimt",
+      "title": {
+        "tileHeadline": "Müsliriegel Körner mit Datteln, Kürbiskernen &..., 50 g",
+        "tileHeadlineLong": "Müsliriegel Körner mit Datteln, Kürbiskernen &..., 50 g"
+      },
+      "trackingData": {
+        "brand": "HistaFood",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4545,
+        "ratingCount": 11
+      }
+    }
+  },
+  {
+    "gtin": 4260654783131,
+    "dan": 2476560,
+    "brandName": "KoRo",
+    "title": "Haferriegel, Oat Bar Cocoa, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Haferriegel, Oat Bar Cocoa, 60 g; Preis: 1,75 €; Grundpreis: 0,06 kg (29,17 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 2476560,
+      "gtin": 4260654783131,
+      "images": [
+        {
+          "alt": "Haferriegel, Oat Bar Cocoa KoRo",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759271225/assets/pas/images/d6ff60d6-7307-4fdc-8a8b-8bb41f3b0f98/koro-haferriegel-oat-bar-cocoa"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (27,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (29,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.2533
+      },
+      "self": "/p/d/2476560/koro-haferriegel-oat-bar-cocoa",
+      "title": {
+        "tileHeadline": "Haferriegel, Oat Bar Cocoa, 60 g",
+        "tileHeadlineLong": "Haferriegel, Oat Bar Cocoa, 60 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2533,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 4255582815627,
+    "dan": 3077468,
+    "brandName": "KoRo",
+    "title": "Haferriegel, Flapjack Banana Bread, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Haferriegel, Flapjack Banana Bread, 60 g; Preis: 1,75 €; Grundpreis: 0,06 kg (29,17 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 3077468,
+      "gtin": 4255582815627,
+      "images": [
+        {
+          "alt": "Haferriegel, Flapjack Banana Bread  KoRo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762814780/assets/pas/images/e36e6edd-8e7d-417a-9f9d-8988adae403f/koro-haferriegel-flapjack-banana-bread"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (27,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (29,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 33,
+        "ratingValue": 4.6364
+      },
+      "self": "/p/d/3077468/koro-haferriegel-flapjack-banana-bread",
+      "title": {
+        "tileHeadline": "Haferriegel, Flapjack Banana Bread, 60 g",
+        "tileHeadlineLong": "Haferriegel, Flapjack Banana Bread, 60 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6364,
+        "ratingCount": 33
+      }
+    }
+  },
+  {
+    "gtin": 4262376990620,
+    "dan": 3119185,
+    "brandName": "HistaFood",
+    "title": "Haferriegel Weiße Creme & Pistazie, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: HistaFood; Produktname: Haferriegel Weiße Creme & Pistazie, 40 g; Preis: 2,45 €; Grundpreis: 0,04 kg (61,25 € je 1 kg)",
+      "brand": {
+        "name": "HistaFood"
+      },
+      "dan": 3119185,
+      "gtin": 4262376990620,
+      "images": [
+        {
+          "alt": "Haferriegel Weiße Creme & Pistazie HistaFood",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897634/assets/pas/images/dfb37b41-f143-4faf-a607-511de16cce8f/histafood-haferriegel-weisse-creme-und-pistazie"
+        },
+        {
+          "alt": "Haferriegel Weiße Creme & Pistazie HistaFood",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778194624/assets/pas/images/8c56a690-2823-42b1-8324-d1a734acb922/histafood-haferriegel-weisse-creme-und-pistazie"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (57,24 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (61,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 49,
+        "ratingValue": 4.102
+      },
+      "self": "/p/d/3119185/histafood-haferriegel-weisse-creme-und-pistazie",
+      "title": {
+        "tileHeadline": "Haferriegel Weiße Creme & Pistazie, 40 g",
+        "tileHeadlineLong": "Haferriegel Weiße Creme & Pistazie, 40 g"
+      },
+      "trackingData": {
+        "brand": "HistaFood",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.102,
+        "ratingCount": 49
+      }
+    }
+  },
+  {
+    "gtin": 4066447615982,
+    "dan": 1690086,
+    "brandName": "dmBio",
+    "title": "Fruchtriegel, Kokos, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Fruchtriegel, Kokos, 60 g; Preis: 1,35 €; Grundpreis: 0,06 kg (22,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1690086,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447615982,
+      "images": [
+        {
+          "alt": "Fruchtriegel, Kokos dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483990/assets/pas/images/b4d3a769-a582-4ba8-b647-4d25689c1fa6/dmbio-fruchtriegel-kokos"
+        },
+        {
+          "alt": "Fruchtriegel, Kokos dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483992/assets/pas/images/863ed9fe-d3bb-40a1-a440-833830be05a6/dmbio-fruchtriegel-kokos"
+        },
+        {
+          "alt": "Fruchtriegel, Kokos dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483992/assets/pas/images/54f3f2c6-4ba5-4d71-aa32-18ae257a21ce/dmbio-fruchtriegel-kokos"
+        },
+        {
+          "alt": "Fruchtriegel, Kokos dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484267/assets/pas/images/e0d4df16-1cf1-4b99-a4d8-f8c9702d17c0/dmbio-fruchtriegel-kokos"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (21,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (22,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 150,
+        "ratingValue": 4.4533
+      },
+      "self": "/p/d/1690086/dmbio-fruchtriegel-kokos",
+      "title": {
+        "tileHeadline": "Fruchtriegel, Kokos, 60 g",
+        "tileHeadlineLong": "Fruchtriegel, Kokos, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4533,
+        "ratingCount": 150
+      }
+    }
+  },
+  {
+    "gtin": 4260159450484,
+    "dan": 1544524,
+    "brandName": "Lebepur",
+    "title": "Rohkostriegel, Brownie, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Lebepur; Produktname: Rohkostriegel, Brownie, 50 g; Preis: 1,95 €; Grundpreis: 0,05 kg (39,00 € je 1 kg)",
+      "brand": {
+        "name": "Lebepur"
+      },
+      "dan": 1544524,
+      "gtin": 4260159450484,
+      "images": [
+        {
+          "alt": "Rohkostriegel, Brownie Lebepur",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491825/assets/pas/images/7384edcf-87b1-488e-8e14-137d623db0ae/lebepur-rohkostriegel-brownie"
+        },
+        {
+          "alt": "Rohkostriegel, Brownie Lebepur",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491435/assets/pas/images/304dc9db-f32e-4bc6-97c7-d8b3d972346e/lebepur-rohkostriegel-brownie"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (36,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (39,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 190,
+        "ratingValue": 4.3158
+      },
+      "self": "/p/d/1544524/lebepur-rohkostriegel-brownie",
+      "title": {
+        "tileHeadline": "Rohkostriegel, Brownie, 50 g",
+        "tileHeadlineLong": "Rohkostriegel, Brownie, 50 g"
+      },
+      "trackingData": {
+        "brand": "Lebepur",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3158,
+        "ratingCount": 190
+      }
+    }
+  },
+  {
+    "gtin": 4260654782882,
+    "dan": 1598907,
+    "brandName": "KoRo",
+    "title": "Energy Ball, Haferflocken & Erdnussmusfüllung, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Energy Ball, Haferflocken & Erdnussmusfüllung, 30 g; Preis: 1,35 €; Grundpreis: 0,03 kg (45,00 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1598907,
+      "gtin": 4260654782882,
+      "images": [
+        {
+          "alt": "Energy Ball, Haferflocken & Erdnussmusfüllung KoRo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757112489/assets/pas/images/885b090b-db55-4019-9b34-85ec2a16e3d1/koro-energy-ball-haferflocken-und-erdnussmusfuellung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (42,06 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (45,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.3333
+      },
+      "self": "/p/d/1598907/koro-energy-ball-haferflocken-und-erdnussmusfuellung",
+      "title": {
+        "tileHeadline": "Energy Ball, Haferflocken & Erdnussmusfüllung, 30 g",
+        "tileHeadlineLong": "Energy Ball, Haferflocken & Erdnussmusfüllung, 30 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3333,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4070765022452,
+    "dan": 3116416,
+    "brandName": "dmBio",
+    "title": "Bliss Balls, Matcha-Mango, 45 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Bliss Balls, Matcha-Mango, 45 g; Preis: 1,15 €; Grundpreis: 0,045 kg (25,56 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3116416,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765022452,
+      "images": [
+        {
+          "alt": "Bliss Balls, Matcha-Mango dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777598188/assets/pas/images/004805c7-7433-4154-966d-1656b2790f0f/dmbio-bliss-balls-matcha-mango"
+        },
+        {
+          "alt": "Bliss Balls, Matcha-Mango dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777598205/assets/pas/images/0188015e-8d0b-4598-96d0-fb7a33615034/dmbio-bliss-balls-matcha-mango"
+        },
+        {
+          "alt": "Bliss Balls, Matcha-Mango dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777598194/assets/pas/images/c5fb8c98-628b-4640-98bc-e7ebb50efc04/dmbio-bliss-balls-matcha-mango"
+        },
+        {
+          "alt": "Bliss Balls, Matcha-Mango dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780614222/assets/pas/images/d446d3a3-e8df-4fac-80ad-c0bc768dfaa1/dmbio-bliss-balls-matcha-mango"
+        },
+        {
+          "alt": "Bliss Balls, Matcha-Mango dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777598201/assets/pas/images/091c0bd4-bb45-4649-96e7-dad6c31dadc1/dmbio-bliss-balls-matcha-mango"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,045 kg (23,89 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,045 kg (25,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 42,
+        "ratingValue": 3.9762
+      },
+      "self": "/p/d/3116416/dmbio-bliss-balls-matcha-mango",
+      "title": {
+        "tileHeadline": "Bliss Balls, Matcha-Mango, 45 g",
+        "tileHeadlineLong": "Bliss Balls, Matcha-Mango, 45 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9762,
+        "ratingCount": 42
+      }
+    }
+  },
+  {
+    "gtin": 4260159456578,
+    "dan": 1688809,
+    "brandName": "Lebepur",
+    "title": "Rohkostriegel, Coconut Cream, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Lebepur; Produktname: Rohkostriegel, Coconut Cream, 50 g; Preis: 1,95 €; Grundpreis: 0,05 kg (39,00 € je 1 kg)",
+      "brand": {
+        "name": "Lebepur"
+      },
+      "dan": 1688809,
+      "gtin": 4260159456578,
+      "images": [
+        {
+          "alt": "Rohkostriegel, Coconut Cream Lebepur",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491839/assets/pas/images/da2fa664-1832-406d-bbca-104eb93449a3/lebepur-rohkostriegel-coconut-cream"
+        },
+        {
+          "alt": "Rohkostriegel, Coconut Cream Lebepur",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491864/assets/pas/images/97f518dd-fc2b-4dec-86e8-e78759376b5b/lebepur-rohkostriegel-coconut-cream"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (36,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (39,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 3.9889
+      },
+      "self": "/p/d/1688809/lebepur-rohkostriegel-coconut-cream",
+      "title": {
+        "tileHeadline": "Rohkostriegel, Coconut Cream, 50 g",
+        "tileHeadlineLong": "Rohkostriegel, Coconut Cream, 50 g"
+      },
+      "trackingData": {
+        "brand": "Lebepur",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9889,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4260654789898,
+    "dan": 1598908,
+    "brandName": "KoRo",
+    "title": "Energy Ball, Haferflocken & Pistazienmusfüllung, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Energy Ball, Haferflocken & Pistazienmusfüllung, 30 g; Preis: 1,65 €; Grundpreis: 0,03 kg (55,00 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1598908,
+      "gtin": 4260654789898,
+      "images": [
+        {
+          "alt": "Energy Ball, Haferflocken & Pistazienmusfüllung KoRo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757111964/assets/pas/images/e0d5be37-e7fd-45a1-a703-b788546aaf15/koro-energy-ball-haferflocken-und-pistazienmusfuellung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (51,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (55,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 137,
+        "ratingValue": 3.9197
+      },
+      "self": "/p/d/1598908/koro-energy-ball-haferflocken-und-pistazienmusfuellung",
+      "title": {
+        "tileHeadline": "Energy Ball, Haferflocken & Pistazienmusfüllung, 30 g",
+        "tileHeadlineLong": "Energy Ball, Haferflocken & Pistazienmusfüllung, 30 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9197,
+        "ratingCount": 137
+      }
+    }
+  },
+  {
+    "gtin": 4067796013023,
+    "dan": 1691025,
+    "brandName": "dmBio",
+    "title": "Bliss Balls, gesalzene Mandel, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Bliss Balls, gesalzene Mandel, 60 g; Preis: 1,55 €; Grundpreis: 0,06 kg (25,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1691025,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796013023,
+      "images": [
+        {
+          "alt": "Bliss Balls, gesalzene Mandel dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770160491/assets/pas/images/d9c5419f-adfd-401c-bb4b-71e41bf4a455/dmbio-bliss-balls-gesalzene-mandel"
+        },
+        {
+          "alt": "Bliss Balls, gesalzene Mandel dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770160485/assets/pas/images/bd5e0ffd-93cb-4672-b4bf-6e7954d34dff/dmbio-bliss-balls-gesalzene-mandel"
+        },
+        {
+          "alt": "Bliss Balls, gesalzene Mandel dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770160475/assets/pas/images/1be4a11a-0f04-4df7-bb4b-081092cf03df/dmbio-bliss-balls-gesalzene-mandel"
+        },
+        {
+          "alt": "Bliss Balls, gesalzene Mandel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770160488/assets/pas/images/2ec461f0-1a2e-455d-8c78-8c21b595a94c/dmbio-bliss-balls-gesalzene-mandel"
+        },
+        {
+          "alt": "Bliss Balls, gesalzene Mandel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770160481/assets/pas/images/cf098b56-7567-4557-8609-7b9b845a8404/dmbio-bliss-balls-gesalzene-mandel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (24,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (25,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 256,
+        "ratingValue": 4.6445
+      },
+      "self": "/p/d/1691025/dmbio-bliss-balls-gesalzene-mandel",
+      "title": {
+        "tileHeadline": "Bliss Balls, gesalzene Mandel, 60 g",
+        "tileHeadlineLong": "Bliss Balls, gesalzene Mandel, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6445,
+        "ratingCount": 256
+      }
+    }
+  },
+  {
+    "gtin": 4066447168877,
+    "dan": 1539596,
+    "brandName": "dmBio",
+    "title": "Fruchtriegel, Mandel Honig, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Fruchtriegel, Mandel Honig, 60 g; Preis: 1,45 €; Grundpreis: 0,06 kg (24,17 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1539596,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447168877,
+      "images": [
+        {
+          "alt": "Fruchtriegel, Mandel Honig  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747477538/assets/pas/images/408544fc-7c51-462f-93ac-54d6245ba325/dmbio-fruchtriegel-mandel-honig"
+        },
+        {
+          "alt": "Fruchtriegel, Mandel Honig  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747477658/assets/pas/images/47b25a3e-2385-4fe6-8561-e977464a10c6/dmbio-fruchtriegel-mandel-honig"
+        },
+        {
+          "alt": "Fruchtriegel, Mandel Honig  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747477659/assets/pas/images/7c9675e3-985b-42a0-a108-cc1ec61c578b/dmbio-fruchtriegel-mandel-honig"
+        },
+        {
+          "alt": "Fruchtriegel, Mandel Honig  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747477398/assets/pas/images/2e780ebf-aa15-4d15-8454-772260d638f5/dmbio-fruchtriegel-mandel-honig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (22,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (24,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 146,
+        "ratingValue": 4.726
+      },
+      "self": "/p/d/1539596/dmbio-fruchtriegel-mandel-honig",
+      "title": {
+        "tileHeadline": "Fruchtriegel, Mandel Honig, 60 g",
+        "tileHeadlineLong": "Fruchtriegel, Mandel Honig, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.726,
+        "ratingCount": 146
+      }
+    }
+  },
+  {
+    "gtin": 4066447168884,
+    "dan": 1539597,
+    "brandName": "dmBio",
+    "title": "Fruchtriegel, Nuss, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Fruchtriegel, Nuss, 60 g; Preis: 1,35 €; Grundpreis: 0,06 kg (22,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1539597,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447168884,
+      "images": [
+        {
+          "alt": "Fruchtriegel, Nuss   dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755005789/assets/pas/images/55cbe717-7d31-4df1-996b-da2fa2991f4d/dmbio-fruchtriegel-nuss"
+        },
+        {
+          "alt": "Fruchtriegel, Nuss   dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755005787/assets/pas/images/b2621455-eb7d-4071-9d5f-0e7748e05b28/dmbio-fruchtriegel-nuss"
+        },
+        {
+          "alt": "Fruchtriegel, Nuss   dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747477661/assets/pas/images/5f383f7f-02ba-4c41-95f5-30ab72afef2b/dmbio-fruchtriegel-nuss"
+        },
+        {
+          "alt": "Fruchtriegel, Nuss   dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755005789/assets/pas/images/1d1557f2-55fe-4c83-8f46-91b18f377dfb/dmbio-fruchtriegel-nuss"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (21,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (22,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 89,
+        "ratingValue": 4.4607
+      },
+      "self": "/p/d/1539597/dmbio-fruchtriegel-nuss",
+      "title": {
+        "tileHeadline": "Fruchtriegel, Nuss, 60 g",
+        "tileHeadlineLong": "Fruchtriegel, Nuss, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4607,
+        "ratingCount": 89
+      }
+    }
+  },
+  {
+    "gtin": 4260562940183,
+    "dan": 3118046,
+    "brandName": "ahead",
+    "title": "Nussriegel, Cashew Pretzel Low Sugar Nut Bar, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: ahead; Produktname: Nussriegel, Cashew Pretzel Low Sugar Nut Bar, 35 g; Preis: 1,75 €; Grundpreis: 0,035 kg (50,00 € je 1 kg)",
+      "brand": {
+        "name": "ahead"
+      },
+      "dan": 3118046,
+      "gtin": 4260562940183,
+      "images": [
+        {
+          "alt": "Nussriegel, Cashew Pretzel Low Sugar Nut Bar ahead",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765800789/assets/pas/images/b7df4d1b-c094-4d1f-b38b-2e16e406786c/ahead-nussriegel-cashew-pretzel-low-sugar-nut-bar"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (46,73 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (50,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 19,
+        "ratingValue": 4.7895
+      },
+      "self": "/p/d/3118046/ahead-nussriegel-cashew-pretzel-low-sugar-nut-bar",
+      "title": {
+        "tileHeadline": "Nussriegel, Cashew Pretzel Low Sugar Nut Bar, 35 g",
+        "tileHeadlineLong": "Nussriegel, Cashew Pretzel Low Sugar Nut Bar, 35 g"
+      },
+      "trackingData": {
+        "brand": "ahead",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7895,
+        "ratingCount": 19
+      }
+    }
+  },
+  {
+    "gtin": 4260644581266,
+    "dan": 1597014,
+    "brandName": "HEJ",
+    "title": "Nussriegel, Almond & Sea Salt, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: HEJ; Produktname: Nussriegel, Almond & Sea Salt, 40 g; Preis: 1,75 €; Grundpreis: 0,04 kg (43,75 € je 1 kg)",
+      "brand": {
+        "name": "HEJ"
+      },
+      "dan": 1597014,
+      "gtin": 4260644581266,
+      "images": [
+        {
+          "alt": "Nussriegel, Almond & Sea Salt HEJ",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753489522/assets/pas/images/baf013ec-02ef-417a-8350-d5afd5443873/hej-nussriegel-almond-und-sea-salt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (40,89 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (43,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/1597014/hej-nussriegel-almond-und-sea-salt",
+      "title": {
+        "tileHeadline": "Nussriegel, Almond & Sea Salt, 40 g",
+        "tileHeadlineLong": "Nussriegel, Almond & Sea Salt, 40 g"
+      },
+      "trackingData": {
+        "brand": "HEJ",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 687456295459,
+    "dan": 3120714,
+    "brandName": "Made Good",
+    "title": "Organic Granola Bites, Chocolate Chip (5 Stück), 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Organic Granola Bites, Chocolate Chip (5 Stück), 120 g; Preis: 3,15 €; Grundpreis: 0,12 kg (26,25 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 3120714,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456295459,
+      "images": [
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775604541/assets/pas/images/1f0ed263-8d6e-4add-b4a1-6fe236a57652/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774524383/assets/pas/images/fe5b6364-bedb-41f3-b0e7-19f7a62d1e9d/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688969/assets/pas/images/099cd35f-47fa-4b17-9f0a-73a1d00a5223/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688996/assets/pas/images/33ef34a8-99f1-4466-8c46-6aefaea9be75/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689015/assets/pas/images/87098912-fd71-447d-b17a-1860505345f8/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689054/assets/pas/images/c8aecf75-59f8-4b8e-a0a5-f161008aef6e/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689087/assets/pas/images/ca56b126-4f3c-448d-b9f0-885dda7ae3f4/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774524338/assets/pas/images/d16036a2-08c5-4f81-89c1-4c8c538f2612/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774524371/assets/pas/images/16675ed3-3f64-4828-bcc8-9cc172e93a9e/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776729753/assets/pas/images/509abf5b-71e7-48d4-a793-2c53fc722cbc/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774524404/assets/pas/images/5d6481c9-0108-4aa2-88d8-f5d46c41ae07/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (26,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/3120714/made-good-organic-granola-bites-chocolate-chip-5-stueck",
+      "title": {
+        "tileHeadline": "Organic Granola Bites, Chocolate Chip (5 Stück), 120 g",
+        "tileHeadlineLong": "Organic Granola Bites, Chocolate Chip (5 Stück), 120 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 6
+      }
+    }
+  },
+  {
+    "gtin": 4067796014280,
+    "dan": 1679191,
+    "brandName": "dmBio",
+    "title": "Bliss Balls, Nuss-Nougatfüllung, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Bliss Balls, Nuss-Nougatfüllung, 60 g; Preis: 1,55 €; Grundpreis: 0,06 kg (25,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1679191,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796014280,
+      "images": [
+        {
+          "alt": "Bliss Balls, Nuss-Nougatfüllung dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754950094/assets/pas/images/37373ccf-dfb5-4e12-a3b7-a062841df688/dmbio-bliss-balls-nuss-nougatfuellung"
+        },
+        {
+          "alt": "Bliss Balls, Nuss-Nougatfüllung dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754950090/assets/pas/images/da1b98fb-b0d9-40af-b25e-745e3a15679a/dmbio-bliss-balls-nuss-nougatfuellung"
+        },
+        {
+          "alt": "Bliss Balls, Nuss-Nougatfüllung dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486741/assets/pas/images/bf4e720e-7fd4-4d4b-9ce4-fee52831773f/dmbio-bliss-balls-nuss-nougatfuellung"
+        },
+        {
+          "alt": "Bliss Balls, Nuss-Nougatfüllung dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761834251/assets/pas/images/0c3d2aee-a36e-49dd-aaca-39fee6325dd7/dmbio-bliss-balls-nuss-nougatfuellung"
+        },
+        {
+          "alt": "Bliss Balls, Nuss-Nougatfüllung dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754950091/assets/pas/images/2c97ab27-c4da-4217-965f-c3694e97def6/dmbio-bliss-balls-nuss-nougatfuellung"
+        },
+        {
+          "alt": "Bliss Balls, Nuss-Nougatfüllung dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754950099/assets/pas/images/6c3ae980-18c5-44f5-aa91-4c35725050b8/dmbio-bliss-balls-nuss-nougatfuellung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (24,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (25,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 250,
+        "ratingValue": 4.612
+      },
+      "self": "/p/d/1679191/dmbio-bliss-balls-nuss-nougatfuellung",
+      "title": {
+        "tileHeadline": "Bliss Balls, Nuss-Nougatfüllung, 60 g",
+        "tileHeadlineLong": "Bliss Balls, Nuss-Nougatfüllung, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.612,
+        "ratingCount": 250
+      }
+    }
+  },
+  {
+    "gtin": 4066447992199,
+    "dan": 3113312,
+    "brandName": "Sportness",
+    "title": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen, 40 g; Preis: 0,85 €; Grundpreis: 0,04 kg (21,25 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3113312,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447992199,
+      "images": [
+        {
+          "alt": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776467788/assets/pas/images/f230a9cb-1fb8-4c81-bb2b-1623baad94d4/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen"
+        },
+        {
+          "alt": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776467791/assets/pas/images/6a6f3e8d-6c9c-4fe3-b566-a09c6b313cfe/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen"
+        },
+        {
+          "alt": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776467782/assets/pas/images/dfbd8e6f-ee0b-4f95-a6ee-a4778e0035c4/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen"
+        },
+        {
+          "alt": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776467795/assets/pas/images/6f9ac518-c4e6-401d-a0e9-a3af61d1f958/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (19,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (21,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.5098
+      },
+      "self": "/p/d/3113312/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen",
+      "title": {
+        "tileHeadline": "Energieriegel, mit Haferflocken, Rosinen &..., 40 g",
+        "tileHeadlineLong": "Energieriegel, mit Haferflocken, Rosinen &..., 40 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Müsliriegel & Fruchtriegel",
+          "Energie-Produkte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5098,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 4260556678344,
+    "dan": 1624890,
+    "brandName": "share",
+    "title": "Nussriegel, Schoko Heidelbeere, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: share; Produktname: Nussriegel, Schoko Heidelbeere, 35 g; Preis: 1,85 €; Grundpreis: 0,035 kg (52,86 € je 1 kg)",
+      "brand": {
+        "name": "share"
+      },
+      "dan": 1624890,
+      "gtin": 4260556678344,
+      "images": [
+        {
+          "alt": "Nussriegel, Schoko Heidelbeere share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773704722/assets/pas/images/3707f709-b906-481d-b086-20c9d8058e8e/share-nussriegel-schoko-heidelbeere"
+        },
+        {
+          "alt": "Nussriegel, Schoko Heidelbeere share",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773704728/assets/pas/images/cdc5f738-3bbc-4b4a-8123-189529cfaf31/share-nussriegel-schoko-heidelbeere"
+        },
+        {
+          "alt": "Nussriegel, Schoko Heidelbeere share",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493674/assets/pas/images/057ad19b-626d-4662-bc9a-ffbe81215e55/share-nussriegel-schoko-heidelbeere"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (49,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (52,86 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.9048
+      },
+      "self": "/p/d/1624890/share-nussriegel-schoko-heidelbeere",
+      "title": {
+        "tileHeadline": "Nussriegel, Schoko Heidelbeere, 35 g",
+        "tileHeadlineLong": "Nussriegel, Schoko Heidelbeere, 35 g"
+      },
+      "trackingData": {
+        "brand": "share",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9048,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4067796041019,
+    "dan": 1470397,
+    "brandName": "dmBio",
+    "title": "Nussriegel, Kakao Nibs & Cashew, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nussriegel, Kakao Nibs & Cashew, 40 g; Preis: 1,15 €; Grundpreis: 0,04 kg (28,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1470397,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796041019,
+      "images": [
+        {
+          "alt": "Nussriegel, Kakao Nibs & Cashew dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486820/assets/pas/images/63dea7ed-4307-49d6-910e-967ddf9a5a94/dmbio-nussriegel-kakao-nibs-und-cashew"
+        },
+        {
+          "alt": "Nussriegel, Kakao Nibs & Cashew dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487002/assets/pas/images/1fde7530-2375-4a5f-bb1a-8b494b96ceec/dmbio-nussriegel-kakao-nibs-und-cashew"
+        },
+        {
+          "alt": "Nussriegel, Kakao Nibs & Cashew dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487002/assets/pas/images/930e894e-d1fb-4a4b-b962-895beb403b1a/dmbio-nussriegel-kakao-nibs-und-cashew"
+        },
+        {
+          "alt": "Nussriegel, Kakao Nibs & Cashew dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486820/assets/pas/images/7e3bc87f-5bce-4de1-ac06-e70bc8606422/dmbio-nussriegel-kakao-nibs-und-cashew"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (26,87 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (28,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 163,
+        "ratingValue": 3.5828
+      },
+      "self": "/p/d/1470397/dmbio-nussriegel-kakao-nibs-und-cashew",
+      "title": {
+        "tileHeadline": "Nussriegel, Kakao Nibs & Cashew, 40 g",
+        "tileHeadlineLong": "Nussriegel, Kakao Nibs & Cashew, 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5828,
+        "ratingCount": 163
+      }
+    }
+  }
+]

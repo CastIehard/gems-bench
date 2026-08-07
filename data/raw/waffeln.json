@@ -1,0 +1,2633 @@
+[
+  {
+    "gtin": 4066447562644,
+    "dan": 1676867,
+    "brandName": "dmBio",
+    "title": "Linsenwaffeln, gesalzen, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Linsenwaffeln, gesalzen, 100 g; Preis: 1,35 €; Grundpreis: 0,1 kg (13,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1676867,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447562644,
+      "images": [
+        {
+          "alt": "Linsenwaffeln, gesalzen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483051/assets/pas/images/8fa8ea42-76e2-4138-8e1d-3ddf9bf63c3f/dmbio-linsenwaffeln-gesalzen"
+        },
+        {
+          "alt": "Linsenwaffeln, gesalzen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483051/assets/pas/images/b86921a5-ab7d-4b5b-a6f3-ef324e4742b2/dmbio-linsenwaffeln-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (12,62 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (13,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 333,
+        "ratingValue": 3.8468
+      },
+      "self": "/p/d/1676867/dmbio-linsenwaffeln-gesalzen",
+      "title": {
+        "tileHeadline": "Linsenwaffeln, gesalzen, 100 g",
+        "tileHeadlineLong": "Linsenwaffeln, gesalzen, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8468,
+        "ratingCount": 333
+      }
+    }
+  },
+  {
+    "gtin": 4067796140309,
+    "dan": 1513488,
+    "brandName": "dmBio",
+    "title": "Reiswaffeln, Schoko Zartbitter, glutenfrei, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reiswaffeln, Schoko Zartbitter, glutenfrei, 100 g; Preis: 1,45 €; Grundpreis: 0,1 kg (14,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1513488,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796140309,
+      "images": [
+        {
+          "alt": "Reiswaffeln, Schoko Zartbitter, glutenfrei dmBio",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487816/assets/pas/images/4433b8fa-4afa-440a-aa20-7ad163bc51f5/dmbio-reiswaffeln-schoko-zartbitter-glutenfrei"
+        },
+        {
+          "alt": "Reiswaffeln, Schoko Zartbitter, glutenfrei dmBio",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487837/assets/pas/images/9780bbbe-f18a-42ce-86bb-745e04123e4a/dmbio-reiswaffeln-schoko-zartbitter-glutenfrei"
+        },
+        {
+          "alt": "Reiswaffeln, Schoko Zartbitter, glutenfrei dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487816/assets/pas/images/b5d589bd-4f0a-49f5-a4b8-6b8e395255f5/dmbio-reiswaffeln-schoko-zartbitter-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (13,55 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (14,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 212,
+        "ratingValue": 4.6651
+      },
+      "self": "/p/d/1513488/dmbio-reiswaffeln-schoko-zartbitter-glutenfrei",
+      "title": {
+        "tileHeadline": "Reiswaffeln, Schoko Zartbitter, glutenfrei, 100 g",
+        "tileHeadlineLong": "Reiswaffeln, Schoko Zartbitter, glutenfrei, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6651,
+        "ratingCount": 212
+      }
+    }
+  },
+  {
+    "gtin": 4066447874389,
+    "dan": 1513584,
+    "brandName": "dmBio",
+    "title": "Reiswaffeln, Schoko Vollmilch, glutenfrei, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reiswaffeln, Schoko Vollmilch, glutenfrei, 100 g; Preis: 1,45 €; Grundpreis: 0,1 kg (14,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1513584,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447874389,
+      "images": [
+        {
+          "alt": "Reiswaffeln, Schoko Vollmilch, glutenfrei dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371684/assets/pas/images/69f9b329-281d-4437-b836-5a1c975f6d37/dmbio-reiswaffeln-schoko-vollmilch-glutenfrei"
+        },
+        {
+          "alt": "Reiswaffeln, Schoko Vollmilch, glutenfrei dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371690/assets/pas/images/51726ee1-38e8-4f46-8bbf-6900267f54fd/dmbio-reiswaffeln-schoko-vollmilch-glutenfrei"
+        },
+        {
+          "alt": "Reiswaffeln, Schoko Vollmilch, glutenfrei dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371678/assets/pas/images/0e78b591-a7c5-4f24-893a-80dcf0a9447f/dmbio-reiswaffeln-schoko-vollmilch-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (13,55 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (14,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 183,
+        "ratingValue": 4.612
+      },
+      "self": "/p/d/1513584/dmbio-reiswaffeln-schoko-vollmilch-glutenfrei",
+      "title": {
+        "tileHeadline": "Reiswaffeln, Schoko Vollmilch, glutenfrei, 100 g",
+        "tileHeadlineLong": "Reiswaffeln, Schoko Vollmilch, glutenfrei, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.612,
+        "ratingCount": 183
+      }
+    }
+  },
+  {
+    "gtin": 4067796064179,
+    "dan": 1679981,
+    "brandName": "dmBio",
+    "title": "Kichererbsenwaffeln, gesalzen, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kichererbsenwaffeln, gesalzen, 100 g; Preis: 1,35 €; Grundpreis: 0,1 kg (13,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1679981,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796064179,
+      "images": [
+        {
+          "alt": "Kichererbsenwaffeln, gesalzen dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486947/assets/pas/images/c1ac5226-38dd-4a45-bc34-034b769860bc/dmbio-kichererbsenwaffeln-gesalzen"
+        },
+        {
+          "alt": "Kichererbsenwaffeln, gesalzen dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487207/assets/pas/images/90af6a72-a43e-4499-bc26-ed86b2e14226/dmbio-kichererbsenwaffeln-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (12,62 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (13,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 163,
+        "ratingValue": 4.7914
+      },
+      "self": "/p/d/1679981/dmbio-kichererbsenwaffeln-gesalzen",
+      "title": {
+        "tileHeadline": "Kichererbsenwaffeln, gesalzen, 100 g",
+        "tileHeadlineLong": "Kichererbsenwaffeln, gesalzen, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7914,
+        "ratingCount": 163
+      }
+    }
+  },
+  {
+    "gtin": 4070765014587,
+    "dan": 3130898,
+    "brandName": "dmBio",
+    "title": "Erbsenwaffeln, gesalzen, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erbsenwaffeln, gesalzen, 100 g; Preis: 1,35 €; Grundpreis: 0,1 kg (13,50 € je 1 kg); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3130898,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765014587,
+      "images": [
+        {
+          "alt": "Erbsenwaffeln, gesalzen dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779499792/assets/pas/images/81f3933e-a6ec-4494-9ecb-ff42551ca08f/dmbio-erbsenwaffeln-gesalzen"
+        },
+        {
+          "alt": "Erbsenwaffeln, gesalzen dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779499789/assets/pas/images/9bbf9ac9-d1ba-4d32-b83e-df7299bd19f2/dmbio-erbsenwaffeln-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (12,62 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (13,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.5172
+      },
+      "self": "/p/d/3130898/dmbio-erbsenwaffeln-gesalzen",
+      "title": {
+        "tileHeadline": "Erbsenwaffeln, gesalzen, 100 g",
+        "tileHeadlineLong": "Erbsenwaffeln, gesalzen, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5172,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4066447562682,
+    "dan": 1454045,
+    "brandName": "dmBio",
+    "title": "Maiswaffeln, gesalzen, 110 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Maiswaffeln, gesalzen, 110 g; Preis: 0,65 €; Grundpreis: 0,11 kg (5,91 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454045,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447562682,
+      "images": [
+        {
+          "alt": "Maiswaffeln, gesalzen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483067/assets/pas/images/6dbce9f3-dab2-4b36-9d47-aa545391f800/dmbio-maiswaffeln-gesalzen"
+        },
+        {
+          "alt": "Maiswaffeln, gesalzen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483196/assets/pas/images/70a25c71-6a8d-46b1-b281-9cd79a56a711/dmbio-maiswaffeln-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,61 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (5,52 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (5,91 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 128,
+        "ratingValue": 4.5859
+      },
+      "self": "/p/d/1454045/dmbio-maiswaffeln-gesalzen",
+      "title": {
+        "tileHeadline": "Maiswaffeln, gesalzen, 110 g",
+        "tileHeadlineLong": "Maiswaffeln, gesalzen, 110 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5859,
+        "ratingCount": 128
+      }
+    }
+  },
+  {
+    "gtin": 4260137744109,
+    "dan": 1702311,
+    "brandName": "Frusano",
+    "title": "Waffel Snack, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Frusano; Produktname: Waffel Snack, 150 g; Preis: 3,95 €; Grundpreis: 0,15 kg (26,33 € je 1 kg)",
+      "brand": {
+        "name": "Frusano"
+      },
+      "dan": 1702311,
+      "gtin": 4260137744109,
+      "images": [
+        {
+          "alt": "Waffel Snack Frusano",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491712/assets/pas/images/9c069769-2283-40c9-a0f5-28320e0e0598/frusano-waffel-snack"
+        },
+        {
+          "alt": "Waffel Snack Frusano",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491714/assets/pas/images/64c3d14d-7fe5-4828-8d0c-1be84c7c73d8/frusano-waffel-snack"
+        },
+        {
+          "alt": "Waffel Snack Frusano",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491329/assets/pas/images/0588bd3f-58ff-4935-ac82-397668440ef2/frusano-waffel-snack"
+        },
+        {
+          "alt": "Waffel Snack Frusano",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491714/assets/pas/images/e848024d-58ce-4878-9e77-4f439415845b/frusano-waffel-snack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (24,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (26,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 3.15
+      },
+      "self": "/p/d/1702311/frusano-waffel-snack",
+      "title": {
+        "tileHeadline": "Waffel Snack, 150 g",
+        "tileHeadlineLong": "Waffel Snack, 150 g"
+      },
+      "trackingData": {
+        "brand": "Frusano",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.15,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 8008698050002,
+    "dan": 3119452,
+    "brandName": "Schär",
+    "title": "Waffelkeks Maxi Break, glutenfrei, 38 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Waffelkeks Maxi Break, glutenfrei, 38 g; Preis: 1,75 €; Grundpreis: 0,038 kg (46,05 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 3119452,
+      "gtin": 8008698050002,
+      "images": [
+        {
+          "alt": "Waffelkeks Maxi Break, glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768830127/assets/pas/images/e67fee9d-eebf-4303-96aa-fc3f54a08390/schaer-waffelkeks-maxi-break-glutenfrei"
+        },
+        {
+          "alt": "Waffelkeks Maxi Break, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768830156/assets/pas/images/be60002d-18bb-40d7-af39-5bd25c655984/schaer-waffelkeks-maxi-break-glutenfrei"
+        },
+        {
+          "alt": "Waffelkeks Maxi Break, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768830184/assets/pas/images/3954f3b8-c303-4c0b-a909-62e6e82ee917/schaer-waffelkeks-maxi-break-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,038 kg (43,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,038 kg (46,05 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.7059
+      },
+      "self": "/p/d/3119452/schaer-waffelkeks-maxi-break-glutenfrei",
+      "title": {
+        "tileHeadline": "Waffelkeks Maxi Break, glutenfrei, 38 g",
+        "tileHeadlineLong": "Waffelkeks Maxi Break, glutenfrei, 38 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7059,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4070765041781,
+    "dan": 3130922,
+    "brandName": "dmBio",
+    "title": "Kichererbsenwaffeln Zartbitter, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kichererbsenwaffeln Zartbitter, 100 g; Preis: 1,95 €; Grundpreis: 0,1 kg (19,50 € je 1 kg); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3130922,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765041781,
+      "images": [
+        {
+          "alt": "Kichererbsenwaffeln Zartbitter dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779924352/assets/pas/images/98db534e-a247-4ca6-8567-46b30518a330/dmbio-kichererbsenwaffeln-zartbitter"
+        },
+        {
+          "alt": "Kichererbsenwaffeln Zartbitter dmBio",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779924342/assets/pas/images/2ec29f1d-e311-4dff-acbc-6b09ad7050e1/dmbio-kichererbsenwaffeln-zartbitter"
+        },
+        {
+          "alt": "Kichererbsenwaffeln Zartbitter dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779924347/assets/pas/images/73234972-31b4-4db8-8e40-fd503230806c/dmbio-kichererbsenwaffeln-zartbitter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (18,22 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (19,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 40,
+        "ratingValue": 4.95
+      },
+      "self": "/p/d/3130922/dmbio-kichererbsenwaffeln-zartbitter",
+      "title": {
+        "tileHeadline": "Kichererbsenwaffeln Zartbitter, 100 g",
+        "tileHeadlineLong": "Kichererbsenwaffeln Zartbitter, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9545,
+        "ratingCount": 44
+      }
+    }
+  },
+  {
+    "gtin": 4016249177720,
+    "dan": 2974354,
+    "brandName": "ALLOS",
+    "title": "Amaranth Maiswaffeln Rosmarin & Meersalz, 115 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Amaranth Maiswaffeln Rosmarin & Meersalz, 115 g; Preis: 1,85 €; Grundpreis: 0,115 kg (16,09 € je 1 kg)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 2974354,
+      "gtin": 4016249177720,
+      "images": [
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751693025/assets/pas/images/00ce7d28-2caa-4968-b3da-528a27cf1e3f/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959467/assets/pas/images/84879c7f-acf6-4734-9947-3e9bf135d4e3/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764113882/assets/pas/images/e8846a75-f1a2-4ceb-a956-b20b1c801319/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959495/assets/pas/images/db43c794-3c39-43c9-a971-060c6ca129c8/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751693090/assets/pas/images/bed044ac-ee38-4d59-8f70-1d7f6019d0ea/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768437479/assets/pas/images/dd5e0c62-24af-406a-a8e5-12a5b0967573/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751693075/assets/pas/images/2da38ace-7e83-406e-ab62-fa1014f60bd4/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959482/assets/pas/images/39125d71-f6c3-4571-9cee-5e94e9d3bdb1/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959452/assets/pas/images/fdb515b9-4a3d-4949-9641-ad9b7e2e596c/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959437/assets/pas/images/9b089911-80dc-4d3a-a216-e263b2044efd/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 kg (15,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 kg (16,09 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.2586
+      },
+      "self": "/p/d/2974354/allos-amaranth-maiswaffeln-rosmarin-und-meersalz",
+      "title": {
+        "tileHeadline": "Amaranth Maiswaffeln Rosmarin & Meersalz, 115 g",
+        "tileHeadlineLong": "Amaranth Maiswaffeln Rosmarin & Meersalz, 115 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2586,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4066447584059,
+    "dan": 1454037,
+    "brandName": "dmBio",
+    "title": "Reiswaffeln, Sesam, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reiswaffeln, Sesam, 100 g; Preis: 0,55 €; Grundpreis: 0,1 kg (5,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454037,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447584059,
+      "images": [
+        {
+          "alt": "Reiswaffeln, Sesam dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483640/assets/pas/images/9a5298a0-0247-4c8c-a382-a1452e235d26/dmbio-reiswaffeln-sesam"
+        },
+        {
+          "alt": "Reiswaffeln, Sesam dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483972/assets/pas/images/2b42fb46-5ece-4889-9abb-81c7e6b4447e/dmbio-reiswaffeln-sesam"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,51 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (5,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (5,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 109,
+        "ratingValue": 4.3119
+      },
+      "self": "/p/d/1454037/dmbio-reiswaffeln-sesam",
+      "title": {
+        "tileHeadline": "Reiswaffeln, Sesam, 100 g",
+        "tileHeadlineLong": "Reiswaffeln, Sesam, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3119,
+        "ratingCount": 109
+      }
+    }
+  },
+  {
+    "gtin": 4016249177713,
+    "dan": 2974340,
+    "brandName": "ALLOS",
+    "title": "Maiswaffeln Amaranth Meersalz, 115 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Maiswaffeln Amaranth Meersalz, 115 g; Preis: 1,85 €; Grundpreis: 0,115 kg (16,09 € je 1 kg)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 2974340,
+      "gtin": 4016249177713,
+      "images": [
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751691827/assets/pas/images/81563780-6731-4ba4-8252-6b47de246573/allos-maiswaffeln-amaranth-meersalz"
+        },
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768966424/assets/pas/images/09756e37-edc8-4299-990a-754b6e52f300/allos-maiswaffeln-amaranth-meersalz"
+        },
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751691846/assets/pas/images/19b901e2-0a8e-4906-a217-74fd76e567c2/allos-maiswaffeln-amaranth-meersalz"
+        },
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751691878/assets/pas/images/05c14aa3-7200-4d43-aa28-4c4118200436/allos-maiswaffeln-amaranth-meersalz"
+        },
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768441782/assets/pas/images/27a7916d-8fd1-44a7-ad31-dc21547d47b5/allos-maiswaffeln-amaranth-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 kg (15,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 kg (16,09 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.7358
+      },
+      "self": "/p/d/2974340/allos-maiswaffeln-amaranth-meersalz",
+      "title": {
+        "tileHeadline": "Maiswaffeln Amaranth Meersalz, 115 g",
+        "tileHeadlineLong": "Maiswaffeln Amaranth Meersalz, 115 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7358,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4067796161458,
+    "dan": 1316316,
+    "brandName": "dmBio",
+    "title": "Mini Schokoreiswaffel Kokos Zartbitter, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Mini Schokoreiswaffel Kokos Zartbitter, 60 g; Preis: 1,15 €; Grundpreis: 0,06 kg (19,17 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1316316,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796161458,
+      "images": [
+        {
+          "alt": "Mini Schokoreiswaffel Kokos Zartbitter dmBio",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488052/assets/pas/images/8f73bb3a-e9bc-4178-a6eb-2d9dad45934e/dmbio-mini-schokoreiswaffel-kokos-zartbitter"
+        },
+        {
+          "alt": "Mini Schokoreiswaffel Kokos Zartbitter dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488131/assets/pas/images/a430eaab-9008-4b6d-b093-424f94751b70/dmbio-mini-schokoreiswaffel-kokos-zartbitter"
+        },
+        {
+          "alt": "Mini Schokoreiswaffel Kokos Zartbitter dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488357/assets/pas/images/6c2a6547-b4fe-4da7-afa1-db031472bb6d/dmbio-mini-schokoreiswaffel-kokos-zartbitter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (17,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (19,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 165,
+        "ratingValue": 4.5879
+      },
+      "self": "/p/d/1316316/dmbio-mini-schokoreiswaffel-kokos-zartbitter",
+      "title": {
+        "tileHeadline": "Mini Schokoreiswaffel Kokos Zartbitter, 60 g",
+        "tileHeadlineLong": "Mini Schokoreiswaffel Kokos Zartbitter, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5879,
+        "ratingCount": 165
+      }
+    }
+  },
+  {
+    "gtin": 4067796161472,
+    "dan": 1316317,
+    "brandName": "dmBio",
+    "title": "Mini Schokoreiswaffel Vollmilch, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Mini Schokoreiswaffel Vollmilch, 60 g; Preis: 1,15 €; Grundpreis: 0,06 kg (19,17 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1316317,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796161472,
+      "images": [
+        {
+          "alt": "Mini Schokoreiswaffel Vollmilch dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488448/assets/pas/images/8812a1ca-ffec-4172-9d8a-b6ba7a92e64e/dmbio-mini-schokoreiswaffel-vollmilch"
+        },
+        {
+          "alt": "Mini Schokoreiswaffel Vollmilch dmBio",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488249/assets/pas/images/3c8947d3-4dc8-4d6e-baa7-87550295b656/dmbio-mini-schokoreiswaffel-vollmilch"
+        },
+        {
+          "alt": "Mini Schokoreiswaffel Vollmilch dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488448/assets/pas/images/6fa1bd2c-265e-48bf-ad95-408ed3642e17/dmbio-mini-schokoreiswaffel-vollmilch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (17,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (19,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 138,
+        "ratingValue": 4.8986
+      },
+      "self": "/p/d/1316317/dmbio-mini-schokoreiswaffel-vollmilch",
+      "title": {
+        "tileHeadline": "Mini Schokoreiswaffel Vollmilch, 60 g",
+        "tileHeadlineLong": "Mini Schokoreiswaffel Vollmilch, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8986,
+        "ratingCount": 138
+      }
+    }
+  },
+  {
+    "gtin": 4066447584035,
+    "dan": 1453919,
+    "brandName": "dmBio",
+    "title": "Maiswaffeln, natur, 110 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Maiswaffeln, natur, 110 g; Preis: 0,55 €; Grundpreis: 0,11 kg (5,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1453919,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447584035,
+      "images": [
+        {
+          "alt": "Maiswaffeln, natur dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483703/assets/pas/images/36e81881-51f2-412a-a6a6-26ce89a6eb47/dmbio-maiswaffeln-natur"
+        },
+        {
+          "alt": "Maiswaffeln, natur dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483890/assets/pas/images/e1387981-c27f-498b-a3f0-03a4eef3f342/dmbio-maiswaffeln-natur"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,51 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (4,67 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (5,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 128,
+        "ratingValue": 4.7031
+      },
+      "self": "/p/d/1453919/dmbio-maiswaffeln-natur",
+      "title": {
+        "tileHeadline": "Maiswaffeln, natur, 110 g",
+        "tileHeadlineLong": "Maiswaffeln, natur, 110 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7031,
+        "ratingCount": 128
+      }
+    }
+  },
+  {
+    "gtin": 4070765055252,
+    "dan": 1513475,
+    "brandName": "dmBio",
+    "title": "Reiswaffeln, Joghurt, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reiswaffeln, Joghurt, 100 g; Preis: 1,55 €; Grundpreis: 0,1 kg (15,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1513475,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765055252,
+      "images": [
+        {
+          "alt": "Reiswaffeln, Joghurt dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237917/assets/pas/images/2bc38edd-6383-477c-8769-6d6601070f77/dmbio-reiswaffeln-joghurt"
+        },
+        {
+          "alt": "Reiswaffeln, Joghurt dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237921/assets/pas/images/f0735983-1cf8-448b-8156-b20cade7f223/dmbio-reiswaffeln-joghurt"
+        },
+        {
+          "alt": "Reiswaffeln, Joghurt dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237926/assets/pas/images/4b1939f5-7e44-4efa-b10a-83bdd84c4647/dmbio-reiswaffeln-joghurt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (14,49 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (15,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 174,
+        "ratingValue": 4.477
+      },
+      "self": "/p/d/1513475/dmbio-reiswaffeln-joghurt",
+      "title": {
+        "tileHeadline": "Reiswaffeln, Joghurt, 100 g",
+        "tileHeadlineLong": "Reiswaffeln, Joghurt, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.477,
+        "ratingCount": 174
+      }
+    }
+  },
+  {
+    "gtin": 4058172485411,
+    "dan": 1535387,
+    "brandName": "dmBio",
+    "title": "Honigwaffeln, 175 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Honigwaffeln, 175 g; Preis: 1,85 €; Grundpreis: 0,175 kg (10,57 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1535387,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172485411,
+      "images": [
+        {
+          "alt": "Honigwaffeln dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747451938/assets/pas/images/681ea3b6-8e20-48e5-8987-5b3830707703/dmbio-honigwaffeln"
+        },
+        {
+          "alt": "Honigwaffeln dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747451734/assets/pas/images/78788b71-3d2f-4860-b9fa-eaa2ce251871/dmbio-honigwaffeln"
+        },
+        {
+          "alt": "Honigwaffeln dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747451734/assets/pas/images/293d2ec8-7987-4d50-be6b-15bc70b006cd/dmbio-honigwaffeln"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,175 kg (9,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,175 kg (10,57 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.0417
+      },
+      "self": "/p/d/1535387/dmbio-honigwaffeln",
+      "title": {
+        "tileHeadline": "Honigwaffeln, 175 g",
+        "tileHeadlineLong": "Honigwaffeln, 175 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0417,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4066447712865,
+    "dan": 1535388,
+    "brandName": "dmBio",
+    "title": "Waffeln, Dinkel Frischei, 165 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Waffeln, Dinkel Frischei, 165 g; Preis: 1,35 €; Grundpreis: 0,165 kg (8,18 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1535388,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447712865,
+      "images": [
+        {
+          "alt": "Waffeln, Dinkel Frischei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484990/assets/pas/images/34b87963-510d-479d-a75b-a7186d7aabc8/dmbio-waffeln-dinkel-frischei"
+        },
+        {
+          "alt": "Waffeln, Dinkel Frischei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485236/assets/pas/images/d1115c9b-8dc3-44a4-9c59-c77a5a78caf8/dmbio-waffeln-dinkel-frischei"
+        },
+        {
+          "alt": "Waffeln, Dinkel Frischei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484901/assets/pas/images/98f32aa7-ce23-42ad-bb17-243712e80f94/dmbio-waffeln-dinkel-frischei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,165 kg (7,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,165 kg (8,18 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 257,
+        "ratingValue": 4.3463
+      },
+      "self": "/p/d/1535388/dmbio-waffeln-dinkel-frischei",
+      "title": {
+        "tileHeadline": "Waffeln, Dinkel Frischei, 165 g",
+        "tileHeadlineLong": "Waffeln, Dinkel Frischei, 165 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3463,
+        "ratingCount": 257
+      }
+    }
+  },
+  {
+    "gtin": 4067796185751,
+    "dan": 1639888,
+    "brandName": "dmBio",
+    "title": "Cantuccini, Dinkel mit Mandeln, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Cantuccini, Dinkel mit Mandeln, 150 g; Preis: 2,45 €; Grundpreis: 0,15 kg (16,33 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1639888,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796185751,
+      "images": [
+        {
+          "alt": "Cantuccini, Dinkel mit Mandeln dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008744/assets/pas/images/c3a403d1-3b35-485d-a8f7-030c9668c1c4/dmbio-cantuccini-dinkel-mit-mandeln"
+        },
+        {
+          "alt": "Cantuccini, Dinkel mit Mandeln dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008750/assets/pas/images/0ba39ab8-d53e-452c-b55f-636c1da78cb8/dmbio-cantuccini-dinkel-mit-mandeln"
+        },
+        {
+          "alt": "Cantuccini, Dinkel mit Mandeln dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750290046/assets/pas/images/0cfdb4e6-5cdb-4c67-a180-c0afee9fae6c/dmbio-cantuccini-dinkel-mit-mandeln"
+        },
+        {
+          "alt": "Cantuccini, Dinkel mit Mandeln dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008746/assets/pas/images/d1251bdc-6327-4bf0-b34b-d64e44aa0609/dmbio-cantuccini-dinkel-mit-mandeln"
+        },
+        {
+          "alt": "Cantuccini, Dinkel mit Mandeln dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008746/assets/pas/images/d7959046-a535-452b-910e-06e1d25e6017/dmbio-cantuccini-dinkel-mit-mandeln"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (15,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (16,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 79,
+        "ratingValue": 4.481
+      },
+      "self": "/p/d/1639888/dmbio-cantuccini-dinkel-mit-mandeln",
+      "title": {
+        "tileHeadline": "Cantuccini, Dinkel mit Mandeln, 150 g",
+        "tileHeadlineLong": "Cantuccini, Dinkel mit Mandeln, 150 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.481,
+        "ratingCount": 79
+      }
+    }
+  },
+  {
+    "gtin": 4067796067514,
+    "dan": 1593466,
+    "brandName": "dmBio",
+    "title": "Mini Schokokekse, Dinkel, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Mini Schokokekse, Dinkel, 125 g; Preis: 1,85 €; Grundpreis: 0,125 kg (14,80 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1593466,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796067514,
+      "images": [
+        {
+          "alt": "Mini Schokokekse, Dinkel dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487180/assets/pas/images/f57bf26a-7419-41d9-bcef-97be7aa6aea2/dmbio-mini-schokokekse-dinkel"
+        },
+        {
+          "alt": "Mini Schokokekse, Dinkel dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487342/assets/pas/images/a71e8a31-b925-4d3a-9bd4-7303e543c727/dmbio-mini-schokokekse-dinkel"
+        },
+        {
+          "alt": "Mini Schokokekse, Dinkel dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487422/assets/pas/images/5244e182-fc7a-4647-a5bf-83c81a97b1a5/dmbio-mini-schokokekse-dinkel"
+        },
+        {
+          "alt": "Mini Schokokekse, Dinkel dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487087/assets/pas/images/8bb88405-def5-4e15-b1b2-302b0ead6a6d/dmbio-mini-schokokekse-dinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (13,83 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (14,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 180,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/1593466/dmbio-mini-schokokekse-dinkel",
+      "title": {
+        "tileHeadline": "Mini Schokokekse, Dinkel, 125 g",
+        "tileHeadlineLong": "Mini Schokokekse, Dinkel, 125 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 180
+      }
+    }
+  },
+  {
+    "gtin": 4015537003130,
+    "dan": 1592754,
+    "brandName": "Hammermühle",
+    "title": "Haferkekse, Vollmilchschokolade, glutenfrei, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Haferkekse, Vollmilchschokolade, glutenfrei, 100 g; Preis: 2,65 €; Grundpreis: 0,1 kg (26,50 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1592754,
+      "gtin": 4015537003130,
+      "images": [
+        {
+          "alt": "Haferkekse, Vollmilchschokolade, glutenfrei Hammermühle",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441992/assets/pas/images/cbd56167-92b6-41ad-9d5b-aad604eff0e5/hammermuehle-haferkekse-vollmilchschokolade-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (24,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (26,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.5556
+      },
+      "self": "/p/d/1592754/hammermuehle-haferkekse-vollmilchschokolade-glutenfrei",
+      "title": {
+        "tileHeadline": "Haferkekse, Vollmilchschokolade, glutenfrei, 100 g",
+        "tileHeadlineLong": "Haferkekse, Vollmilchschokolade, glutenfrei, 100 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5556,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 4255582809893,
+    "dan": 1304593,
+    "brandName": "KoRo",
+    "title": "Pistazienschnitte mit 45 % Pistazie, 22 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Pistazienschnitte mit 45 % Pistazie, 22 g; Preis: 1,55 €; Grundpreis: 0,022 kg (70,45 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1304593,
+      "gtin": 4255582809893,
+      "images": [
+        {
+          "alt": "Pistazienschnitte mit 45 % Pistazie KoRo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776981251/assets/pas/images/6bb1a160-5603-4328-a1eb-2dcde8c7d1f3/koro-pistazienschnitte-mit-45-prozent-pistazie"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,022 kg (65,84 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,022 kg (70,45 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 138,
+        "ratingValue": 3.8406
+      },
+      "self": "/p/d/1304593/koro-pistazienschnitte-mit-45-prozent-pistazie",
+      "title": {
+        "tileHeadline": "Pistazienschnitte mit 45 % Pistazie, 22 g",
+        "tileHeadlineLong": "Pistazienschnitte mit 45 % Pistazie, 22 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8406,
+        "ratingCount": 138
+      }
+    }
+  },
+  {
+    "gtin": 4015537002720,
+    "dan": 1713908,
+    "brandName": "Hammermühle",
+    "title": "Schoko Kekse, Simply Seeds, glutenfrei, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Schoko Kekse, Simply Seeds, glutenfrei, 150 g; Preis: 2,95 €; Grundpreis: 0,15 kg (19,67 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1713908,
+      "gtin": 4015537002720,
+      "images": [
+        {
+          "alt": "Schoko Kekse, Simply Seeds, glutenfrei Hammermühle",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441939/assets/pas/images/1c5b269e-301e-40f1-9db1-1ac559f527bf/hammermuehle-schoko-kekse-simply-seeds-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (18,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (19,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.6322
+      },
+      "self": "/p/d/1713908/hammermuehle-schoko-kekse-simply-seeds-glutenfrei",
+      "title": {
+        "tileHeadline": "Schoko Kekse, Simply Seeds, glutenfrei, 150 g",
+        "tileHeadlineLong": "Schoko Kekse, Simply Seeds, glutenfrei, 150 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6322,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4066447363159,
+    "dan": 1679798,
+    "brandName": "dmBio",
+    "title": "Brezeln, schokoliert in Vollmilchschokolade, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Brezeln, schokoliert in Vollmilchschokolade, 100 g; Preis: 1,95 €; Grundpreis: 0,1 kg (19,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1679798,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447363159,
+      "images": [
+        {
+          "alt": "Brezeln, schokoliert in Vollmilchschokolade dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480335/assets/pas/images/436fab15-b381-4bd5-8324-db986c245179/dmbio-brezeln-schokoliert-in-vollmilchschokolade"
+        },
+        {
+          "alt": "Brezeln, schokoliert in Vollmilchschokolade dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480558/assets/pas/images/ea5286d1-e2c8-4f4d-8a84-6bb2e05db8c7/dmbio-brezeln-schokoliert-in-vollmilchschokolade"
+        },
+        {
+          "alt": "Brezeln, schokoliert in Vollmilchschokolade dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480576/assets/pas/images/ccd55a63-b245-4ae5-8d9c-ddde11f43e0c/dmbio-brezeln-schokoliert-in-vollmilchschokolade"
+        },
+        {
+          "alt": "Brezeln, schokoliert in Vollmilchschokolade dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480576/assets/pas/images/9eb7665c-2788-42f7-ade6-ce6bd3185b6f/dmbio-brezeln-schokoliert-in-vollmilchschokolade"
+        },
+        {
+          "alt": "Brezeln, schokoliert in Vollmilchschokolade dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480576/assets/pas/images/47732ec3-aab3-4cf8-a34f-08cd8aa83e32/dmbio-brezeln-schokoliert-in-vollmilchschokolade"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (18,22 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (19,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 232,
+        "ratingValue": 4.681
+      },
+      "self": "/p/d/1679798/dmbio-brezeln-schokoliert-in-vollmilchschokolade",
+      "title": {
+        "tileHeadline": "Brezeln, schokoliert in Vollmilchschokolade, 100 g",
+        "tileHeadlineLong": "Brezeln, schokoliert in Vollmilchschokolade, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.681,
+        "ratingCount": 232
+      }
+    }
+  },
+  {
+    "gtin": 4015537001235,
+    "dan": 1626560,
+    "brandName": "Hammermühle",
+    "title": "Madeleines, glutenfrei (6 Stück), 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Madeleines, glutenfrei (6 Stück), 180 g; Preis: 3,35 €; Grundpreis: 0,18 kg (18,61 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1626560,
+      "gtin": 4015537001235,
+      "images": [
+        {
+          "alt": "Madeleines, glutenfrei (6 Stück) Hammermühle",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441986/assets/pas/images/b614e01e-2756-411d-a845-5419bfcc86af/hammermuehle-madeleines-glutenfrei-6-stueck"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,13 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (17,39 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (18,61 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 98,
+        "ratingValue": 4.6531
+      },
+      "self": "/p/d/1626560/hammermuehle-madeleines-glutenfrei-6-stueck",
+      "title": {
+        "tileHeadline": "Madeleines, glutenfrei (6 Stück), 180 g",
+        "tileHeadlineLong": "Madeleines, glutenfrei (6 Stück), 180 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6531,
+        "ratingCount": 98
+      }
+    }
+  },
+  {
+    "gtin": 8008698015988,
+    "dan": 2194575,
+    "brandName": "Schär",
+    "title": "Muffin Choco, glutenfrei, 65 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Muffin Choco, glutenfrei, 65 g; Preis: 1,45 €; Grundpreis: 0,065 kg (22,31 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 2194575,
+      "gtin": 8008698015988,
+      "images": [
+        {
+          "alt": "Muffin Choco, glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517752/assets/pas/images/4d9a1244-1d8b-42c9-b3a3-b3df290fb637/schaer-muffin-choco-glutenfrei"
+        },
+        {
+          "alt": "Muffin Choco, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518382/assets/pas/images/036ce859-135d-495a-93b4-212f6d04660c/schaer-muffin-choco-glutenfrei"
+        },
+        {
+          "alt": "Muffin Choco, glutenfrei Schär",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517966/assets/pas/images/eec4cde0-aec8-4588-844e-8b315140719d/schaer-muffin-choco-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 kg (20,85 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 kg (22,31 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.4776
+      },
+      "self": "/p/d/2194575/schaer-muffin-choco-glutenfrei",
+      "title": {
+        "tileHeadline": "Muffin Choco, glutenfrei, 65 g",
+        "tileHeadlineLong": "Muffin Choco, glutenfrei, 65 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4776,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4015537002744,
+    "dan": 1417293,
+    "brandName": "Hammermühle",
+    "title": "Kokos-Mandel Kekse, Simply Seeds, glutenfrei, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Kokos-Mandel Kekse, Simply Seeds, glutenfrei, 150 g; Preis: 2,95 €; Grundpreis: 0,15 kg (19,67 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1417293,
+      "gtin": 4015537002744,
+      "images": [
+        {
+          "alt": "Kokos-Mandel Kekse, Simply Seeds, glutenfrei Hammermühle",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441987/assets/pas/images/1613f721-3c57-49c3-8f13-d6b701b381bc/hammermuehle-kokos-mandel-kekse-simply-seeds-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (18,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (19,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 107,
+        "ratingValue": 4.8131
+      },
+      "self": "/p/d/1417293/hammermuehle-kokos-mandel-kekse-simply-seeds-glutenfrei",
+      "title": {
+        "tileHeadline": "Kokos-Mandel Kekse, Simply Seeds, glutenfrei, 150 g",
+        "tileHeadlineLong": "Kokos-Mandel Kekse, Simply Seeds, glutenfrei, 150 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8131,
+        "ratingCount": 107
+      }
+    }
+  },
+  {
+    "gtin": 4066447051933,
+    "dan": 1624685,
+    "brandName": "Sportness",
+    "title": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan, 75 g; Preis: 1,25 €; Grundpreis: 0,075 kg (16,67 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1624685,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447051933,
+      "images": [
+        {
+          "alt": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774587412/assets/pas/images/f8589f65-904c-4d2b-ba5b-6499d270e28e/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan"
+        },
+        {
+          "alt": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774587394/assets/pas/images/017bd696-27a0-4f5e-983f-1ef0c7506789/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan"
+        },
+        {
+          "alt": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475497/assets/pas/images/b256c8c7-c4af-4e52-988f-652b64f70318/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan"
+        },
+        {
+          "alt": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774587406/assets/pas/images/fe9fa3fa-c13f-46ae-b003-95fe578a2401/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (15,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (16,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 423,
+        "ratingValue": 3.0875
+      },
+      "self": "/p/d/1624685/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan",
+      "title": {
+        "tileHeadline": "Protein Cookie, Half Baked, Chocolate Chip..., 75 g",
+        "tileHeadlineLong": "Protein Cookie, Half Baked, Chocolate Chip..., 75 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Kekse, Waffeln & Cookies",
+          "Protein Riegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0875,
+        "ratingCount": 423
+      }
+    }
+  },
+  {
+    "gtin": 8008698040966,
+    "dan": 3058334,
+    "brandName": "Schär",
+    "title": "Kekse, \"Notes\" Milk Chocolate Cream, glutenfrei, 81 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Kekse, \"Notes\" Milk Chocolate Cream, glutenfrei, 81 g; Preis: 4,35 €; Grundpreis: 0,081 kg (53,70 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 3058334,
+      "gtin": 8008698040966,
+      "images": [
+        {
+          "alt": "Kekse, \"Notes\" Milk Chocolate Cream, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518268/assets/pas/images/a3107e5f-fa95-43c2-9f95-7d64eb41e068/schaer-kekse-notes-milk-chocolate-cream-glutenfrei"
+        },
+        {
+          "alt": "Kekse, \"Notes\" Milk Chocolate Cream, glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518268/assets/pas/images/e07279f9-1758-46bd-b879-5508ba890901/schaer-kekse-notes-milk-chocolate-cream-glutenfrei"
+        },
+        {
+          "alt": "Kekse, \"Notes\" Milk Chocolate Cream, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518234/assets/pas/images/c9c99fc2-5463-4a74-b6e7-7094ab0ecc2e/schaer-kekse-notes-milk-chocolate-cream-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,081 kg (50,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,081 kg (53,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.4528
+      },
+      "self": "/p/d/3058334/schaer-kekse-notes-milk-chocolate-cream-glutenfrei",
+      "title": {
+        "tileHeadline": "Kekse, \"Notes\" Milk Chocolate Cream, glutenfrei, 81 g",
+        "tileHeadlineLong": "Kekse, \"Notes\" Milk Chocolate Cream, glutenfrei, 81 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4528,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 8008698005491,
+    "dan": 1175800,
+    "brandName": "Schär",
+    "title": "Cookies, Choco Chip, glutenfrei, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Cookies, Choco Chip, glutenfrei, 200 g; Preis: 2,45 €; Grundpreis: 0,2 kg (12,25 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1175800,
+      "gtin": 8008698005491,
+      "images": [
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517726/assets/pas/images/88c6885f-b506-4208-ac24-6a8376ce3a9d/schaer-cookies-choco-chip-glutenfrei"
+        },
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759785379/assets/pas/images/e1142d47-bf88-437f-aac7-b55613752046/schaer-cookies-choco-chip-glutenfrei"
+        },
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759785359/assets/pas/images/9fdf8820-edeb-48e4-985e-549f0df984cd/schaer-cookies-choco-chip-glutenfrei"
+        },
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518395/assets/pas/images/8447b7dd-a3ec-4b38-a63c-6215231cada0/schaer-cookies-choco-chip-glutenfrei"
+        },
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748038937/assets/pas/images/d1db4865-be90-4b68-b86f-bb65514a03d2/schaer-cookies-choco-chip-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (11,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (12,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.5222
+      },
+      "self": "/p/d/1175800/schaer-cookies-choco-chip-glutenfrei",
+      "title": {
+        "tileHeadline": "Cookies, Choco Chip, glutenfrei, 200 g",
+        "tileHeadlineLong": "Cookies, Choco Chip, glutenfrei, 200 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5222,
+        "ratingCount": 90
+      }
+    }
+  }
+]

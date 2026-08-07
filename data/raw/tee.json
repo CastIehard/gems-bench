@@ -1,0 +1,2888 @@
+[
+  {
+    "gtin": 4066447896886,
+    "dan": 1487980,
+    "brandName": "dmBio",
+    "title": "Kräutertee Brennnessel (20 Beutel), 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kräutertee Brennnessel (20 Beutel), 30 g; Preis: 1,55 €; Grundpreis: 0,03 kg (51,67 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1487980,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447896886,
+      "images": [
+        {
+          "alt": "Kräutertee Brennnessel (20 Beutel) dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761721965/assets/pas/images/42d24a74-e31f-4066-998b-2e07ed441fe3/dmbio-kraeutertee-brennnessel-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Brennnessel (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761721977/assets/pas/images/722b0a74-4b97-4849-933a-99be0a6ef9b9/dmbio-kraeutertee-brennnessel-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Brennnessel (20 Beutel) dmBio",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761721988/assets/pas/images/4b47116b-53d3-44be-a6a1-0463335337c2/dmbio-kraeutertee-brennnessel-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Brennnessel (20 Beutel) dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761721969/assets/pas/images/2b44034f-1a47-4acc-a964-1a04422cd95b/dmbio-kraeutertee-brennnessel-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Brennnessel (20 Beutel) dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761721973/assets/pas/images/2c0cf4e8-313d-4ae8-a09f-947fb54e13fb/dmbio-kraeutertee-brennnessel-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Brennnessel (20 Beutel) dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761721981/assets/pas/images/8e939bda-ef84-40c4-a4bf-45f20de8380d/dmbio-kraeutertee-brennnessel-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (48,29 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (51,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 125,
+        "ratingValue": 4.744
+      },
+      "self": "/p/d/1487980/dmbio-kraeutertee-brennnessel-20-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee Brennnessel (20 Beutel), 30 g",
+        "tileHeadlineLong": "Kräutertee Brennnessel (20 Beutel), 30 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.744,
+        "ratingCount": 125
+      }
+    }
+  },
+  {
+    "gtin": 4066447231373,
+    "dan": 1450106,
+    "brandName": "dmBio",
+    "title": "Grüner Tee Matcha, gemahlen, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Grüner Tee Matcha, gemahlen, 30 g; Preis: 8,95 €; Grundpreis: 0,03 kg (298,33 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1450106,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447231373,
+      "images": [
+        {
+          "alt": "Grüner Tee Matcha, gemahlen dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478566/assets/pas/images/ba388727-a734-437c-90de-cd504be34325/dmbio-gruener-tee-matcha-gemahlen"
+        },
+        {
+          "alt": "Grüner Tee Matcha, gemahlen dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478261/assets/pas/images/a859b501-e3f5-45c2-b0b9-6bd5b06af7ef/dmbio-gruener-tee-matcha-gemahlen"
+        },
+        {
+          "alt": "Grüner Tee Matcha, gemahlen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761141761/assets/pas/images/ca182c2e-7235-48e3-8ba2-43a13411f738/dmbio-gruener-tee-matcha-gemahlen"
+        },
+        {
+          "alt": "Grüner Tee Matcha, gemahlen dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478347/assets/pas/images/1751d671-95f8-470e-ae89-07af734b8268/dmbio-gruener-tee-matcha-gemahlen"
+        },
+        {
+          "alt": "Grüner Tee Matcha, gemahlen dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478262/assets/pas/images/c8ad16ef-99ca-4c30-85d1-472f4654602b/dmbio-gruener-tee-matcha-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (278,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (298,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 213,
+        "ratingValue": 3.892
+      },
+      "self": "/p/d/1450106/dmbio-gruener-tee-matcha-gemahlen",
+      "title": {
+        "tileHeadline": "Grüner Tee Matcha, gemahlen, 30 g",
+        "tileHeadlineLong": "Grüner Tee Matcha, gemahlen, 30 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.892,
+        "ratingCount": 213
+      }
+    }
+  },
+  {
+    "gtin": 4066447238402,
+    "dan": 1597029,
+    "brandName": "dmBio",
+    "title": "Grüner Tee Matcha Sticks (10 Sticks), 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Grüner Tee Matcha Sticks (10 Sticks), 20 g; Preis: 5,95 €; Grundpreis: 0,02 kg (297,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1597029,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447238402,
+      "images": [
+        {
+          "alt": "Grüner Tee Matcha Sticks (10 Sticks) dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478544/assets/pas/images/a71a9e6b-1738-4a32-aabb-89446e7cac60/dmbio-gruener-tee-matcha-sticks-10-sticks"
+        },
+        {
+          "alt": "Grüner Tee Matcha Sticks (10 Sticks) dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478690/assets/pas/images/cfaab15d-869a-4ff9-a50b-3123397d63e6/dmbio-gruener-tee-matcha-sticks-10-sticks"
+        },
+        {
+          "alt": "Grüner Tee Matcha Sticks (10 Sticks) dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478544/assets/pas/images/fe1e512e-fb9e-49cb-b0e7-d147e53be032/dmbio-gruener-tee-matcha-sticks-10-sticks"
+        },
+        {
+          "alt": "Grüner Tee Matcha Sticks (10 Sticks) dmBio",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761820391/assets/pas/images/958534c6-2cd6-46d8-bafe-5d9272f53410/dmbio-gruener-tee-matcha-sticks-10-sticks"
+        },
+        {
+          "alt": "Grüner Tee Matcha Sticks (10 Sticks) dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478543/assets/pas/images/81cc79fb-f003-45b4-bccf-908954252618/dmbio-gruener-tee-matcha-sticks-10-sticks"
+        },
+        {
+          "alt": "Grüner Tee Matcha Sticks (10 Sticks) dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478542/assets/pas/images/2c8e2cf7-a9c0-46f6-9049-f8a2107ced68/dmbio-gruener-tee-matcha-sticks-10-sticks"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,56 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (278,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (297,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 174,
+        "ratingValue": 3.8966
+      },
+      "self": "/p/d/1597029/dmbio-gruener-tee-matcha-sticks-10-sticks",
+      "title": {
+        "tileHeadline": "Grüner Tee Matcha Sticks (10 Sticks), 20 g",
+        "tileHeadlineLong": "Grüner Tee Matcha Sticks (10 Sticks), 20 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8966,
+        "ratingCount": 174
+      }
+    }
+  },
+  {
+    "gtin": 4012824404243,
+    "dan": 1564975,
+    "brandName": "YOGI TEA",
+    "title": "Kräutertee \"Basische Kräuter\" mit Hafergras, Löwenzahn & Lavendel (17 Beutel), 35,7 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Kräutertee \"Basische Kräuter\" mit Hafergras, Löwenzahn & Lavendel (17 Beutel), 35,7 g; Preis: 3,25 €; Grundpreis: 0,0357 kg (91,04 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1564975,
+      "gtin": 4012824404243,
+      "images": [
+        {
+          "alt": "Kräutertee \"Basische Kräuter\" mit Hafergras, Löwenzahn & Lavendel (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755097785/assets/pas/images/ce77749c-d89c-46ad-b16e-7ed1c2d04890/yogi-tea-kraeutertee-basische-kraeuter-mit-hafergras-loewenzahn-und-lavendel-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,0357 kg (85,08 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,0357 kg (91,04 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 106,
+        "ratingValue": 4.8113
+      },
+      "self": "/p/d/1564975/yogi-tea-kraeutertee-basische-kraeuter-mit-hafergras-loewenzahn-und-lavendel-17-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee \"Basische Kräuter\" mit Hafergras,..., 35,7 g",
+        "tileHeadlineLong": "Kräutertee \"Basische Kräuter\" mit Hafergras,..., 35,7 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8113,
+        "ratingCount": 106
+      }
+    }
+  },
+  {
+    "gtin": 4012824401396,
+    "dan": 1596565,
+    "brandName": "YOGI TEA",
+    "title": "Kräutertee \"Halswärmer\" mit Süßholz, Fenchel & Thymian (17 Beutel), 32,3 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Kräutertee \"Halswärmer\" mit Süßholz, Fenchel & Thymian (17 Beutel), 32,3 g; Preis: 3,25 €; Grundpreis: 0,0323 kg (100,62 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1596565,
+      "gtin": 4012824401396,
+      "images": [
+        {
+          "alt": "Kräutertee \"Halswärmer\" mit Süßholz, Fenchel & Thymian (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098347/assets/pas/images/2f701a25-3bdf-470d-b394-3cbb8cbfc751/yogi-tea-kraeutertee-halswaermer-mit-suessholz-fenchel-und-thymian-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,0323 kg (94,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,0323 kg (100,62 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 151,
+        "ratingValue": 4.8477
+      },
+      "self": "/p/d/1596565/yogi-tea-kraeutertee-halswaermer-mit-suessholz-fenchel-und-thymian-17-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee \"Halswärmer\" mit Süßholz, Fenchel &..., 32,3 g",
+        "tileHeadlineLong": "Kräutertee \"Halswärmer\" mit Süßholz, Fenchel &..., 32,3 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8477,
+        "ratingCount": 151
+      }
+    }
+  },
+  {
+    "gtin": 4012824401921,
+    "dan": 1596531,
+    "brandName": "YOGI TEA",
+    "title": "Grüner Tee \"Grüne Energie\" mit Guarana, Ingwer & Holunderblüte (17 Beutel), 30,6 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Grüner Tee \"Grüne Energie\" mit Guarana, Ingwer & Holunderblüte (17 Beutel), 30,6 g; Preis: 3,25 €; Grundpreis: 0,0306 kg (106,21 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1596531,
+      "gtin": 4012824401921,
+      "images": [
+        {
+          "alt": "Grüner Tee \"Grüne Energie\" mit Guarana, Ingwer & Holunderblüte (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779492547/assets/pas/images/cfae1d16-5be5-4586-a849-c5f6c5e06af6/yogi-tea-gruener-tee-gruene-energie-mit-guarana-ingwer-und-holunderbluete-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,0306 kg (99,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,0306 kg (106,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 91,
+        "ratingValue": 4.8681
+      },
+      "self": "/p/d/1596531/yogi-tea-gruener-tee-gruene-energie-mit-guarana-ingwer-und-holunderbluete-17-beutel",
+      "title": {
+        "tileHeadline": "Grüner Tee \"Grüne Energie\" mit Guarana, Ingwer &..., 30,6 g",
+        "tileHeadlineLong": "Grüner Tee \"Grüne Energie\" mit Guarana, Ingwer &..., 30,6 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8681,
+        "ratingCount": 91
+      }
+    }
+  },
+  {
+    "gtin": 4066447899436,
+    "dan": 1487472,
+    "brandName": "dmBio",
+    "title": "Grüner Tee Jasmin (20 Beutel), 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Grüner Tee Jasmin (20 Beutel), 30 g; Preis: 1,65 €; Grundpreis: 0,03 kg (55,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1487472,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447899436,
+      "images": [
+        {
+          "alt": "Grüner Tee Jasmin (20 Beutel) dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761347012/assets/pas/images/74b2cbaf-21cd-44b7-a0e4-b050e5b99a82/dmbio-gruener-tee-jasmin-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee Jasmin (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761347001/assets/pas/images/a3df8e21-2854-490c-9fda-d842e7802b53/dmbio-gruener-tee-jasmin-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee Jasmin (20 Beutel) dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761347007/assets/pas/images/d4a37c65-2b13-48b3-a881-eca8616411ec/dmbio-gruener-tee-jasmin-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee Jasmin (20 Beutel) dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761346997/assets/pas/images/60f21157-9eaa-4fc5-976d-6363f5a72bec/dmbio-gruener-tee-jasmin-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee Jasmin (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761346990/assets/pas/images/cc0006a4-1500-4eb7-a608-d48401c42f02/dmbio-gruener-tee-jasmin-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee Jasmin (20 Beutel) dmBio",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761347018/assets/pas/images/acb73cd5-b5b1-4732-9e46-4bcdb675639e/dmbio-gruener-tee-jasmin-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (51,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (55,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.2623
+      },
+      "self": "/p/d/1487472/dmbio-gruener-tee-jasmin-20-beutel",
+      "title": {
+        "tileHeadline": "Grüner Tee Jasmin (20 Beutel), 30 g",
+        "tileHeadlineLong": "Grüner Tee Jasmin (20 Beutel), 30 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2623,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 4002221052482,
+    "dan": 3114873,
+    "brandName": "Meßmer",
+    "title": "Cold Tea Sport Kirsche-Limette (14 Beutel), 38,5 g",
+    "tileData": {
+      "a11yLabel": "Marke: Meßmer; Produktname: Cold Tea Sport Kirsche-Limette (14 Beutel), 38,5 g; Preis: 2,95 €; Grundpreis: 0,0385 kg (76,62 € je 1 kg)",
+      "brand": {
+        "name": "Meßmer"
+      },
+      "dan": 3114873,
+      "gtin": 4002221052482,
+      "images": [
+        {
+          "alt": "Cold Tea Sport Kirsche-Limette (14 Beutel) Meßmer",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773443579/assets/pas/images/b290f19e-5a3c-41cd-8f84-b81023122f8e/messmer-cold-tea-sport-kirsche-limette-14-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,0385 kg (71,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0385 kg (76,62 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 31,
+        "ratingValue": 4.2581
+      },
+      "self": "/p/d/3114873/messmer-cold-tea-sport-kirsche-limette-14-beutel",
+      "title": {
+        "tileHeadline": "Cold Tea Sport Kirsche-Limette (14 Beutel), 38,5 g",
+        "tileHeadlineLong": "Cold Tea Sport Kirsche-Limette (14 Beutel), 38,5 g"
+      },
+      "trackingData": {
+        "brand": "Meßmer",
+        "categories": [
+          "Tee",
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2581,
+        "ratingCount": 31
+      }
+    }
+  },
+  {
+    "gtin": 4012824401648,
+    "dan": 1596571,
+    "brandName": "YOGI TEA",
+    "title": "Kräutertee \"Frauen Power\" mit Hibiskus, Angelikawurzel & Ingwer (17 Beutel), 30,6 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Kräutertee \"Frauen Power\" mit Hibiskus, Angelikawurzel & Ingwer (17 Beutel), 30,6 g; Preis: 3,25 €; Grundpreis: 0,0306 kg (106,21 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1596571,
+      "gtin": 4012824401648,
+      "images": [
+        {
+          "alt": "Kräutertee \"Frauen Power\" mit Hibiskus, Angelikawurzel & Ingwer (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755100995/assets/pas/images/fc6a731a-f700-4087-93ca-2117901ae462/yogi-tea-kraeutertee-frauen-power-mit-hibiskus-angelikawurzel-und-ingwer-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,0306 kg (99,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,0306 kg (106,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.6848
+      },
+      "self": "/p/d/1596571/yogi-tea-kraeutertee-frauen-power-mit-hibiskus-angelikawurzel-und-ingwer-17-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee \"Frauen Power\" mit Hibiskus,..., 30,6 g",
+        "tileHeadlineLong": "Kräutertee \"Frauen Power\" mit Hibiskus,..., 30,6 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6848,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4066447231854,
+    "dan": 1710180,
+    "brandName": "dmBio",
+    "title": "Kräutertee Fenchel, Anis & Kümmel (50 Beutel), 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kräutertee Fenchel, Anis & Kümmel (50 Beutel), 100 g; Preis: 2,45 €; Grundpreis: 0,1 kg (24,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1710180,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447231854,
+      "images": [
+        {
+          "alt": "Kräutertee Fenchel, Anis & Kümmel (50 Beutel) dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478307/assets/pas/images/f5689cfd-ac8d-48fc-bbd6-5466c1732e27/dmbio-kraeutertee-fenchel-anis-und-kuemmel-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Fenchel, Anis & Kümmel (50 Beutel) dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478090/assets/pas/images/17df072c-e0cf-404d-bf91-dbbe9418b884/dmbio-kraeutertee-fenchel-anis-und-kuemmel-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Fenchel, Anis & Kümmel (50 Beutel) dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478373/assets/pas/images/e72a19f5-a6a2-4b5b-99e8-6ddb131db65f/dmbio-kraeutertee-fenchel-anis-und-kuemmel-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Fenchel, Anis & Kümmel (50 Beutel) dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478373/assets/pas/images/3bbb4c6f-4b1e-4b49-b729-27698f77c58b/dmbio-kraeutertee-fenchel-anis-und-kuemmel-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Fenchel, Anis & Kümmel (50 Beutel) dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478090/assets/pas/images/e45f5a5c-ae5f-4c52-b1de-3d548f7df112/dmbio-kraeutertee-fenchel-anis-und-kuemmel-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Fenchel, Anis & Kümmel (50 Beutel) dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478374/assets/pas/images/eb56cc93-f9cf-4a75-8821-28414846174a/dmbio-kraeutertee-fenchel-anis-und-kuemmel-50-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (22,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (24,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 106,
+        "ratingValue": 4.7358
+      },
+      "self": "/p/d/1710180/dmbio-kraeutertee-fenchel-anis-und-kuemmel-50-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee Fenchel, Anis & Kümmel (50 Beutel), 100 g",
+        "tileHeadlineLong": "Kräutertee Fenchel, Anis & Kümmel (50 Beutel), 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7358,
+        "ratingCount": 106
+      }
+    }
+  },
+  {
+    "gtin": 4066447896909,
+    "dan": 1489301,
+    "brandName": "dmBio",
+    "title": "Kräutertee Bergkräuter mit Grünhafer, Melisse & Holunderblüte (20 Beutel), 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kräutertee Bergkräuter mit Grünhafer, Melisse & Holunderblüte (20 Beutel), 35 g; Preis: 1,95 €; Grundpreis: 0,035 kg (55,71 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1489301,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447896909,
+      "images": [
+        {
+          "alt": "Kräutertee Bergkräuter mit Grünhafer, Melisse & Holunderblüte (20 Beutel) dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321471/assets/pas/images/2698bc48-40f1-471c-8020-c43c775474f9/dmbio-kraeutertee-bergkraeuter-mit-gruenhafer-melisse-und-holunderbluete-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Bergkräuter mit Grünhafer, Melisse & Holunderblüte (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321448/assets/pas/images/6f317803-fe7b-49d5-a7e8-34c0b23ef431/dmbio-kraeutertee-bergkraeuter-mit-gruenhafer-melisse-und-holunderbluete-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Bergkräuter mit Grünhafer, Melisse & Holunderblüte (20 Beutel) dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321454/assets/pas/images/60f56d0b-2025-4606-afcf-440a58961741/dmbio-kraeutertee-bergkraeuter-mit-gruenhafer-melisse-und-holunderbluete-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Bergkräuter mit Grünhafer, Melisse & Holunderblüte (20 Beutel) dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321459/assets/pas/images/dda00e90-d7a0-434e-96e9-2efb48ff8e74/dmbio-kraeutertee-bergkraeuter-mit-gruenhafer-melisse-und-holunderbluete-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Bergkräuter mit Grünhafer, Melisse & Holunderblüte (20 Beutel) dmBio",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321465/assets/pas/images/fe5d27c5-a65a-4916-9949-370311ae55be/dmbio-kraeutertee-bergkraeuter-mit-gruenhafer-melisse-und-holunderbluete-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Bergkräuter mit Grünhafer, Melisse & Holunderblüte (20 Beutel) dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765321439/assets/pas/images/f5defbc9-7537-4533-ab1a-89bdcc1decbd/dmbio-kraeutertee-bergkraeuter-mit-gruenhafer-melisse-und-holunderbluete-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (52,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (55,71 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 116,
+        "ratingValue": 4.6121
+      },
+      "self": "/p/d/1489301/dmbio-kraeutertee-bergkraeuter-mit-gruenhafer-melisse-und-holunderbluete-20-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee Bergkräuter mit Grünhafer, Melisse &..., 35 g",
+        "tileHeadlineLong": "Kräutertee Bergkräuter mit Grünhafer, Melisse &..., 35 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6121,
+        "ratingCount": 116
+      }
+    }
+  },
+  {
+    "gtin": 4012824405974,
+    "dan": 3088351,
+    "brandName": "YOGI TEA",
+    "title": "Kräutertee \"Ashwagandha Balance\" mit Ashwagandha, Acerola-Kirsche & Passionsblume (17 Beutel), 34 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Kräutertee \"Ashwagandha Balance\" mit Ashwagandha, Acerola-Kirsche & Passionsblume (17 Beutel), 34 g; Preis: 3,25 €; Grundpreis: 0,034 kg (95,59 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 3088351,
+      "gtin": 4012824405974,
+      "images": [
+        {
+          "alt": "Kräutertee \"Ashwagandha Balance\" mit Ashwagandha, Acerola-Kirsche & Passionsblume (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004559/assets/pas/images/44f5a6fa-4017-405a-8e21-aa7c69ed3ac2/yogi-tea-kraeutertee-ashwagandha-balance-mit-ashwagandha-acerola-kirsche-und-passionsblume-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,034 kg (89,34 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,034 kg (95,59 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.8033
+      },
+      "self": "/p/d/3088351/yogi-tea-kraeutertee-ashwagandha-balance-mit-ashwagandha-acerola-kirsche-und-passionsblume-17-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee \"Ashwagandha Balance\" mit Ashwagandha,..., 34 g",
+        "tileHeadlineLong": "Kräutertee \"Ashwagandha Balance\" mit Ashwagandha,..., 34 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8033,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4066447899450,
+    "dan": 1487422,
+    "brandName": "dmBio",
+    "title": "Kräutertee Lavendel & Zitronenverbene (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kräutertee Lavendel & Zitronenverbene (20 Beutel), 40 g; Preis: 1,95 €; Grundpreis: 0,04 kg (48,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1487422,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447899450,
+      "images": [
+        {
+          "alt": "Kräutertee Lavendel & Zitronenverbene (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768441012/assets/pas/images/e4372872-67fc-4b13-bda4-d3e875828f5a/dmbio-kraeutertee-lavendel-und-zitronenverbene-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Lavendel & Zitronenverbene (20 Beutel) dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768441000/assets/pas/images/86998d9f-7066-4f49-a99f-3a84334abfd5/dmbio-kraeutertee-lavendel-und-zitronenverbene-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Lavendel & Zitronenverbene (20 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768441007/assets/pas/images/92db3f98-0b58-4c50-bd65-2438c2b30208/dmbio-kraeutertee-lavendel-und-zitronenverbene-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Lavendel & Zitronenverbene (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768441019/assets/pas/images/091aa070-2cc3-45af-aeb1-e6103b6f605f/dmbio-kraeutertee-lavendel-und-zitronenverbene-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Lavendel & Zitronenverbene (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768440995/assets/pas/images/511968ca-4640-4a43-bb66-1ccf5b5c01a3/dmbio-kraeutertee-lavendel-und-zitronenverbene-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Lavendel & Zitronenverbene (20 Beutel) dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768441025/assets/pas/images/dbf09e37-6cfc-4b1a-90e8-dbd4a22d2e64/dmbio-kraeutertee-lavendel-und-zitronenverbene-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (45,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (48,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 94,
+        "ratingValue": 4.6277
+      },
+      "self": "/p/d/1487422/dmbio-kraeutertee-lavendel-und-zitronenverbene-20-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee Lavendel & Zitronenverbene (20 Beutel), 40 g",
+        "tileHeadlineLong": "Kräutertee Lavendel & Zitronenverbene (20 Beutel), 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6277,
+        "ratingCount": 94
+      }
+    }
+  },
+  {
+    "gtin": 4067796160123,
+    "dan": 2970804,
+    "brandName": "dmBio",
+    "title": "Schwarzer Tee Earl Grey (20 Beutel), 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schwarzer Tee Earl Grey (20 Beutel), 35 g; Preis: 1,95 €; Grundpreis: 0,035 kg (55,71 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 2970804,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796160123,
+      "images": [
+        {
+          "alt": "Schwarzer Tee Earl Grey (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371733/assets/pas/images/0e5ac716-f57e-458f-a5d9-908981b0b262/dmbio-schwarzer-tee-earl-grey-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee Earl Grey (20 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371748/assets/pas/images/fa4886be-4415-4ff9-be39-a704389a1287/dmbio-schwarzer-tee-earl-grey-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee Earl Grey (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371754/assets/pas/images/0dd52a5b-b1c1-473e-9a3d-43b67267c039/dmbio-schwarzer-tee-earl-grey-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee Earl Grey (20 Beutel) dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371760/assets/pas/images/e08ac9ee-2baa-4237-8a10-6507327c28bf/dmbio-schwarzer-tee-earl-grey-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee Earl Grey (20 Beutel) dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371740/assets/pas/images/b49801ca-9670-4d9f-8030-4fe7d26898a4/dmbio-schwarzer-tee-earl-grey-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (52,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (55,71 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.3014
+      },
+      "self": "/p/d/2970804/dmbio-schwarzer-tee-earl-grey-20-beutel",
+      "title": {
+        "tileHeadline": "Schwarzer Tee Earl Grey (20 Beutel), 35 g",
+        "tileHeadlineLong": "Schwarzer Tee Earl Grey (20 Beutel), 35 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3014,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 4066447899511,
+    "dan": 1487467,
+    "brandName": "dmBio",
+    "title": "Früchte- & Kräutertee mit Apfel, Minze & Zitronengras (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Früchte- & Kräutertee mit Apfel, Minze & Zitronengras (20 Beutel), 40 g; Preis: 1,95 €; Grundpreis: 0,04 kg (48,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1487467,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447899511,
+      "images": [
+        {
+          "alt": "Früchte- & Kräutertee mit Apfel, Minze & Zitronengras (20 Beutel) dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759151563/assets/pas/images/ef836aba-1f13-4702-948f-5dfb2bfdca44/dmbio-fruechte-und-kraeutertee-mit-apfel-minze-und-zitronengras-20-beutel"
+        },
+        {
+          "alt": "Früchte- & Kräutertee mit Apfel, Minze & Zitronengras (20 Beutel) dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759151595/assets/pas/images/a325a382-80e1-44ec-a4f1-85d1d6738215/dmbio-fruechte-und-kraeutertee-mit-apfel-minze-und-zitronengras-20-beutel"
+        },
+        {
+          "alt": "Früchte- & Kräutertee mit Apfel, Minze & Zitronengras (20 Beutel) dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759151589/assets/pas/images/7d0b8d8e-48d5-4a6e-8738-f326ce88c9e3/dmbio-fruechte-und-kraeutertee-mit-apfel-minze-und-zitronengras-20-beutel"
+        },
+        {
+          "alt": "Früchte- & Kräutertee mit Apfel, Minze & Zitronengras (20 Beutel) dmBio",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759151584/assets/pas/images/1ec97d4e-b6d8-4052-9964-115dcfc0db56/dmbio-fruechte-und-kraeutertee-mit-apfel-minze-und-zitronengras-20-beutel"
+        },
+        {
+          "alt": "Früchte- & Kräutertee mit Apfel, Minze & Zitronengras (20 Beutel) dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759151579/assets/pas/images/568a2631-9a0d-4b60-acf9-fa6baf12a9bf/dmbio-fruechte-und-kraeutertee-mit-apfel-minze-und-zitronengras-20-beutel"
+        },
+        {
+          "alt": "Früchte- & Kräutertee mit Apfel, Minze & Zitronengras (20 Beutel) dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759151570/assets/pas/images/1cc5a043-4125-4430-8aa4-1ab4cfd8ea95/dmbio-fruechte-und-kraeutertee-mit-apfel-minze-und-zitronengras-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (45,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (48,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/1487467/dmbio-fruechte-und-kraeutertee-mit-apfel-minze-und-zitronengras-20-beutel",
+      "title": {
+        "tileHeadline": "Früchte- & Kräutertee mit Apfel, Minze &..., 40 g",
+        "tileHeadlineLong": "Früchte- & Kräutertee mit Apfel, Minze &..., 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 4012824400016,
+    "dan": 1596551,
+    "brandName": "YOGI TEA",
+    "title": "Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer (17 Beutel), 37,4 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer (17 Beutel), 37,4 g; Preis: 3,25 €; Grundpreis: 0,0374 kg (86,90 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1596551,
+      "gtin": 4012824400016,
+      "images": [
+        {
+          "alt": "Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755094481/assets/pas/images/0110ad4b-7e58-40a1-88f8-d7c2232435dc/yogi-tea-gewuerztee-classic-mit-zimt-kardamom-und-ingwer-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,0374 kg (81,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,0374 kg (86,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 106,
+        "ratingValue": 4.8491
+      },
+      "self": "/p/d/1596551/yogi-tea-gewuerztee-classic-mit-zimt-kardamom-und-ingwer-17-beutel",
+      "title": {
+        "tileHeadline": "Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer..., 37,4 g",
+        "tileHeadlineLong": "Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer..., 37,4 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8491,
+        "ratingCount": 106
+      }
+    }
+  },
+  {
+    "gtin": 4066447899498,
+    "dan": 1487419,
+    "brandName": "dmBio",
+    "title": "Gewürztee Chai Schoko (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gewürztee Chai Schoko (20 Beutel), 40 g; Preis: 1,95 €; Grundpreis: 0,04 kg (48,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1487419,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447899498,
+      "images": [
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035589/assets/pas/images/7bb98b43-ed27-446f-b770-c5814e4e344f/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035578/assets/pas/images/40cbfc6b-3562-469a-9d47-6c867689d225/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035584/assets/pas/images/1d367bef-ac22-457e-9580-b72c683757ea/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035573/assets/pas/images/0812b925-692a-4fd8-903d-aa625048b44f/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035568/assets/pas/images/9f05cfe9-410e-4c7e-a17f-cb2f492dfe71/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035596/assets/pas/images/306bacf4-4d3e-4db1-9064-5bd36a409aff/dmbio-gewuerztee-chai-schoko-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (45,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (48,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 157,
+        "ratingValue": 4.4395
+      },
+      "self": "/p/d/1487419/dmbio-gewuerztee-chai-schoko-20-beutel",
+      "title": {
+        "tileHeadline": "Gewürztee Chai Schoko (20 Beutel), 40 g",
+        "tileHeadlineLong": "Gewürztee Chai Schoko (20 Beutel), 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4395,
+        "ratingCount": 157
+      }
+    }
+  },
+  {
+    "gtin": 4070765058802,
+    "dan": 3132218,
+    "brandName": "dmBio",
+    "title": "Grüner Tee mit Matcha (20 Beutel), 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Grüner Tee mit Matcha (20 Beutel), 30 g; Preis: 1,95 €; Grundpreis: 0,03 kg (65,00 € je 1 kg); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3132218,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765058802,
+      "images": [
+        {
+          "alt": "Grüner Tee mit Matcha (20 Beutel) dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777677115/assets/pas/images/be975fb8-4993-4357-9917-80a705f25a67/dmbio-gruener-tee-mit-matcha-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee mit Matcha (20 Beutel) dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777677143/assets/pas/images/55a5f88a-4f4b-44cd-bec0-a3f109059d04/dmbio-gruener-tee-mit-matcha-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee mit Matcha (20 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777677121/assets/pas/images/c5a35bba-419c-425a-ac9f-ea85d2ec1773/dmbio-gruener-tee-mit-matcha-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee mit Matcha (20 Beutel) dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777677131/assets/pas/images/477fc38d-2b9d-49e8-b37a-8cdc791c2c81/dmbio-gruener-tee-mit-matcha-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee mit Matcha (20 Beutel) dmBio",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777677126/assets/pas/images/b45ceea4-a88f-4061-b80e-65731852c649/dmbio-gruener-tee-mit-matcha-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee mit Matcha (20 Beutel) dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777677136/assets/pas/images/fe3bfdc5-e0fa-4f97-bf86-ef3c29537ea7/dmbio-gruener-tee-mit-matcha-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (60,75 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (65,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 20,
+        "ratingValue": 4.45
+      },
+      "self": "/p/d/3132218/dmbio-gruener-tee-mit-matcha-20-beutel",
+      "title": {
+        "tileHeadline": "Grüner Tee mit Matcha (20 Beutel), 30 g",
+        "tileHeadlineLong": "Grüner Tee mit Matcha (20 Beutel), 30 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.45,
+        "ratingCount": 20
+      }
+    }
+  },
+  {
+    "gtin": 4012824401211,
+    "dan": 1701120,
+    "brandName": "YOGI TEA",
+    "title": "Kräutertee \"Abend\" mit Fenchel, Kamillenblüten & Baldrian (17 Beutel), 30,6 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Kräutertee \"Abend\" mit Fenchel, Kamillenblüten & Baldrian (17 Beutel), 30,6 g; Preis: 3,25 €; Grundpreis: 0,0306 kg (106,21 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1701120,
+      "gtin": 4012824401211,
+      "images": [
+        {
+          "alt": "Kräutertee \"Abend\" mit Fenchel, Kamillenblüten & Baldrian (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779489920/assets/pas/images/b32e9659-f928-4c7e-9b51-288aaa158ee2/yogi-tea-kraeutertee-abend-mit-fenchel-kamillenblueten-und-baldrian-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,0306 kg (99,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,0306 kg (106,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.8507
+      },
+      "self": "/p/d/1701120/yogi-tea-kraeutertee-abend-mit-fenchel-kamillenblueten-und-baldrian-17-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee \"Abend\" mit Fenchel, Kamillenblüten &..., 30,6 g",
+        "tileHeadlineLong": "Kräutertee \"Abend\" mit Fenchel, Kamillenblüten &..., 30,6 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8507,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4066447375541,
+    "dan": 1564193,
+    "brandName": "dmBio",
+    "title": "Kamillen Tee, lose, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kamillen Tee, lose, 60 g; Preis: 2,95 €; Grundpreis: 0,06 kg (49,17 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1564193,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447375541,
+      "images": [
+        {
+          "alt": "Kamillen Tee, lose dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480610/assets/pas/images/110361d6-6599-4358-a0af-2f47e046fdf0/dmbio-kamillen-tee-lose"
+        },
+        {
+          "alt": "Kamillen Tee, lose dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480835/assets/pas/images/65c33e58-428e-435e-8109-024ff78f5613/dmbio-kamillen-tee-lose"
+        },
+        {
+          "alt": "Kamillen Tee, lose dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761749834/assets/pas/images/698eb1d8-109a-47d3-aeb5-5dda467f4c35/dmbio-kamillen-tee-lose"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (45,95 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (49,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 110,
+        "ratingValue": 4.7182
+      },
+      "self": "/p/d/1564193/dmbio-kamillen-tee-lose",
+      "title": {
+        "tileHeadline": "Kamillen Tee, lose, 60 g",
+        "tileHeadlineLong": "Kamillen Tee, lose, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7182,
+        "ratingCount": 110
+      }
+    }
+  },
+  {
+    "gtin": 5021991939051,
+    "dan": 1481663,
+    "brandName": "Cupper",
+    "title": "Schwarzer Tee \"English Breakfast\" (20 Beutel), 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Cupper; Produktname: Schwarzer Tee \"English Breakfast\" (20 Beutel), 50 g; Preis: 2,95 €; Grundpreis: 0,05 kg (59,00 € je 1 kg)",
+      "brand": {
+        "name": "Cupper"
+      },
+      "dan": 1481663,
+      "gtin": 5021991939051,
+      "images": [
+        {
+          "alt": "Schwarzer Tee \"English Breakfast\" (20 Beutel) Cupper",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747497293/assets/pas/images/26e23f56-b1af-4d43-b948-85d3e85511e9/cupper-schwarzer-tee-english-breakfast-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee \"English Breakfast\" (20 Beutel) Cupper",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747497694/assets/pas/images/1e12d089-7ef3-4f64-a75a-3c05f79d0638/cupper-schwarzer-tee-english-breakfast-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee \"English Breakfast\" (20 Beutel) Cupper",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747497695/assets/pas/images/a9c0955f-9903-42df-8561-c72aa560f6be/cupper-schwarzer-tee-english-breakfast-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee \"English Breakfast\" (20 Beutel) Cupper",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747497658/assets/pas/images/bb858c52-33a3-4792-af43-3a05385d894c/cupper-schwarzer-tee-english-breakfast-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee \"English Breakfast\" (20 Beutel) Cupper",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747497296/assets/pas/images/1796277c-b2cc-4ead-93b5-5651725d19f2/cupper-schwarzer-tee-english-breakfast-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee \"English Breakfast\" (20 Beutel) Cupper",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747497688/assets/pas/images/3b38350c-a576-4906-90e0-8189933631a7/cupper-schwarzer-tee-english-breakfast-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee \"English Breakfast\" (20 Beutel) Cupper",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747497695/assets/pas/images/e9d6c703-0b8a-4c17-95fc-2bf6b76aacf8/cupper-schwarzer-tee-english-breakfast-20-beutel"
+        },
+        {
+          "alt": "Schwarzer Tee \"English Breakfast\" (20 Beutel) Cupper",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747497540/assets/pas/images/83eacb91-2cf7-4897-a9f2-4b6a2b4feea5/cupper-schwarzer-tee-english-breakfast-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (55,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (59,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 4.8068
+      },
+      "self": "/p/d/1481663/cupper-schwarzer-tee-english-breakfast-20-beutel",
+      "title": {
+        "tileHeadline": "Schwarzer Tee \"English Breakfast\" (20 Beutel), 50 g",
+        "tileHeadlineLong": "Schwarzer Tee \"English Breakfast\" (20 Beutel), 50 g"
+      },
+      "trackingData": {
+        "brand": "Cupper",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8068,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 4002221054844,
+    "dan": 3114859,
+    "brandName": "Meßmer",
+    "title": "Cold Tea Sport Pflaume (14 Beutel), 38,5 g",
+    "tileData": {
+      "a11yLabel": "Marke: Meßmer; Produktname: Cold Tea Sport Pflaume (14 Beutel), 38,5 g; Preis: 2,95 €; Grundpreis: 0,0385 kg (76,62 € je 1 kg)",
+      "brand": {
+        "name": "Meßmer"
+      },
+      "dan": 3114859,
+      "gtin": 4002221054844,
+      "images": [
+        {
+          "alt": "Cold Tea Sport Pflaume (14 Beutel) Meßmer",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770379976/assets/pas/images/f086979d-821d-4290-b2bb-4f660f603f19/messmer-cold-tea-sport-pflaume-14-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,0385 kg (71,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0385 kg (76,62 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 24,
+        "ratingValue": 3.875
+      },
+      "self": "/p/d/3114859/messmer-cold-tea-sport-pflaume-14-beutel",
+      "title": {
+        "tileHeadline": "Cold Tea Sport Pflaume (14 Beutel), 38,5 g",
+        "tileHeadlineLong": "Cold Tea Sport Pflaume (14 Beutel), 38,5 g"
+      },
+      "trackingData": {
+        "brand": "Meßmer",
+        "categories": [
+          "Tee",
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.875,
+        "ratingCount": 24
+      }
+    }
+  },
+  {
+    "gtin": 5021991939044,
+    "dan": 1481669,
+    "brandName": "Cupper",
+    "title": "Kräutertee mit Süßholz & Minze (20 Beutel), 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: Cupper; Produktname: Kräutertee mit Süßholz & Minze (20 Beutel), 30 g; Preis: 2,95 €; Grundpreis: 0,03 kg (98,33 € je 1 kg)",
+      "brand": {
+        "name": "Cupper"
+      },
+      "dan": 1481669,
+      "gtin": 5021991939044,
+      "images": [
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762516760/assets/pas/images/e4dd394f-acf5-4653-8197-d7f452ef29a8/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271092/assets/pas/images/844a85e2-5bcf-4f69-bfdd-389c5e6e738d/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271116/assets/pas/images/1748e139-b9e1-4a87-a796-7cef27b85635/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271204/assets/pas/images/15fc6b21-3164-4d52-b824-d8d53c4a6344/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271161/assets/pas/images/3f80543d-6f29-4a3d-a7ec-96a489750a4f/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271259/assets/pas/images/feea2aa8-cf5a-4cad-a46f-6a4b63e19b6f/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271324/assets/pas/images/8c15d2d6-788a-4d53-93e6-016fbdfa4492/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271294/assets/pas/images/17db9358-dc7a-4467-8aa0-262cbd46c548/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271186/assets/pas/images/6bca7ebe-aa92-4575-885b-32b72774d18a/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271143/assets/pas/images/639963ee-a9a0-44f5-b79a-675120e50299/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee mit Süßholz & Minze (20 Beutel) Cupper",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773271231/assets/pas/images/c097eb68-2877-4d5d-b270-6c495c61cf3b/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (91,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (98,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 114,
+        "ratingValue": 4.5088
+      },
+      "self": "/p/d/1481669/cupper-kraeutertee-mit-suessholz-und-minze-20-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee mit Süßholz & Minze (20 Beutel), 30 g",
+        "tileHeadlineLong": "Kräutertee mit Süßholz & Minze (20 Beutel), 30 g"
+      },
+      "trackingData": {
+        "brand": "Cupper",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5088,
+        "ratingCount": 114
+      }
+    }
+  },
+  {
+    "gtin": 4066447562545,
+    "dan": 1705001,
+    "brandName": "dmBio",
+    "title": "Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel), 40 g; Preis: 1,85 €; Grundpreis: 0,04 kg (46,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1705001,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447562545,
+      "images": [
+        {
+          "alt": "Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904394/assets/pas/images/e411b2ef-ffe2-4a59-abfd-a51d8002f01c/dmbio-kraeutertee-deine-gelassenheit-mit-fenchel-kamille-und-melisse-20-beutel"
+        },
+        {
+          "alt": "Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904401/assets/pas/images/be2e22fd-fa14-462a-bc9b-9abc5d9a92e2/dmbio-kraeutertee-deine-gelassenheit-mit-fenchel-kamille-und-melisse-20-beutel"
+        },
+        {
+          "alt": "Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904388/assets/pas/images/06f2a585-9d0d-407f-9a2c-5027915d5b84/dmbio-kraeutertee-deine-gelassenheit-mit-fenchel-kamille-und-melisse-20-beutel"
+        },
+        {
+          "alt": "Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761836523/assets/pas/images/0bbe3053-e0a4-4e8a-a0b5-10aee3b6590a/dmbio-kraeutertee-deine-gelassenheit-mit-fenchel-kamille-und-melisse-20-beutel"
+        },
+        {
+          "alt": "Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel) dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904382/assets/pas/images/4440dfde-a149-40cb-a729-ce99a799e651/dmbio-kraeutertee-deine-gelassenheit-mit-fenchel-kamille-und-melisse-20-beutel"
+        },
+        {
+          "alt": "Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel) dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904376/assets/pas/images/8f539144-ec26-41dd-af63-58fb20910d67/dmbio-kraeutertee-deine-gelassenheit-mit-fenchel-kamille-und-melisse-20-beutel"
+        },
+        {
+          "alt": "Kräutertee \"Deine Gelassenheit\" mit Fenchel, Kamille & Melisse (20 Beutel) dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904407/assets/pas/images/afe66828-e24c-4857-bb5a-e80a04f524a9/dmbio-kraeutertee-deine-gelassenheit-mit-fenchel-kamille-und-melisse-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (43,22 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (46,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.7576
+      },
+      "self": "/p/d/1705001/dmbio-kraeutertee-deine-gelassenheit-mit-fenchel-kamille-und-melisse-20-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee \"Deine Gelassenheit\" mit Fenchel,..., 40 g",
+        "tileHeadlineLong": "Kräutertee \"Deine Gelassenheit\" mit Fenchel,..., 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7576,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4067796063646,
+    "dan": 1611962,
+    "brandName": "dmBio",
+    "title": "Kräutertee Pfefferminze (50 Beutel), 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kräutertee Pfefferminze (50 Beutel), 75 g; Preis: 2,35 €; Grundpreis: 0,075 kg (31,33 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1611962,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796063646,
+      "images": [
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487162/assets/pas/images/d12a5e65-32f4-44d8-a58c-5b435d49418d/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769556984/assets/pas/images/f52acc11-aa98-4ccc-9950-4b78e52510fa/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486884/assets/pas/images/4c467409-f9e3-40a5-8a18-ea8591568299/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769557014/assets/pas/images/b018c71b-2e7f-4d4d-b95e-c79e4cb8b83a/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487164/assets/pas/images/6e05756e-fb3e-4b5f-866f-03f0a6fc2fc0/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769557009/assets/pas/images/de4182a7-266e-4f3e-84ac-7287992e537c/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487163/assets/pas/images/dc13c374-bfc2-4362-8f28-8f773ffa7fc5/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486979/assets/pas/images/a82cdf33-fb88-4575-9fb9-3b9ad361e2ac/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487163/assets/pas/images/2454c372-437f-4d45-9c8f-e638715ec648/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769556995/assets/pas/images/de943ea3-e8ac-4fb2-911d-f31823743dfb/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769556991/assets/pas/images/acf6c673-d347-4d7d-bef4-33ff8e357f5f/dmbio-kraeutertee-pfefferminze-50-beutel"
+        },
+        {
+          "alt": "Kräutertee Pfefferminze (50 Beutel) dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769557000/assets/pas/images/84d95baa-9a1e-430a-ad08-b8029b954a44/dmbio-kraeutertee-pfefferminze-50-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (29,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (31,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 106,
+        "ratingValue": 4.5094
+      },
+      "self": "/p/d/1611962/dmbio-kraeutertee-pfefferminze-50-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee Pfefferminze (50 Beutel), 75 g",
+        "tileHeadlineLong": "Kräutertee Pfefferminze (50 Beutel), 75 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5094,
+        "ratingCount": 106
+      }
+    }
+  },
+  {
+    "gtin": 4066447903584,
+    "dan": 2970826,
+    "brandName": "dmBio",
+    "title": "Kräutertee Marokkanische Minze (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kräutertee Marokkanische Minze (20 Beutel), 40 g; Preis: 1,75 €; Grundpreis: 0,04 kg (43,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 2970826,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447903584,
+      "images": [
+        {
+          "alt": "Kräutertee Marokkanische Minze (20 Beutel) dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768439663/assets/pas/images/208bd2e5-8312-4e44-8ca1-01bff0c819bf/dmbio-kraeutertee-marokkanische-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Marokkanische Minze (20 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768439674/assets/pas/images/4e6edfd6-94ea-4547-b33c-0303c3aa29ae/dmbio-kraeutertee-marokkanische-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Marokkanische Minze (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768439657/assets/pas/images/00eebf86-f6b7-47ec-8235-853be5aac1a0/dmbio-kraeutertee-marokkanische-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Marokkanische Minze (20 Beutel) dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768439669/assets/pas/images/f1891839-3dfb-4a03-9678-80860c3102fe/dmbio-kraeutertee-marokkanische-minze-20-beutel"
+        },
+        {
+          "alt": "Kräutertee Marokkanische Minze (20 Beutel) dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768439680/assets/pas/images/fa2d9e46-571e-4574-9c46-e3102f6da78c/dmbio-kraeutertee-marokkanische-minze-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (40,89 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (43,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 85,
+        "ratingValue": 4.7176
+      },
+      "self": "/p/d/2970826/dmbio-kraeutertee-marokkanische-minze-20-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee Marokkanische Minze (20 Beutel), 40 g",
+        "tileHeadlineLong": "Kräutertee Marokkanische Minze (20 Beutel), 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7176,
+        "ratingCount": 85
+      }
+    }
+  },
+  {
+    "gtin": 4066447519600,
+    "dan": 1624329,
+    "brandName": "dmBio",
+    "title": "Grüner Tee Ingwer & Zitrone (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Grüner Tee Ingwer & Zitrone (20 Beutel), 40 g; Preis: 1,65 €; Grundpreis: 0,04 kg (41,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1624329,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447519600,
+      "images": [
+        {
+          "alt": "Grüner Tee Ingwer & Zitrone (20 Beutel) dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755002764/assets/pas/images/9ede1c25-2637-44a9-bab5-9086d19b7727/dmbio-gruener-tee-ingwer-und-zitrone-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee Ingwer & Zitrone (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755002764/assets/pas/images/08a689b5-b9ef-4549-a521-c762005a438e/dmbio-gruener-tee-ingwer-und-zitrone-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee Ingwer & Zitrone (20 Beutel) dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482929/assets/pas/images/0a089d74-833b-4606-918e-0ae56b12fce4/dmbio-gruener-tee-ingwer-und-zitrone-20-beutel"
+        },
+        {
+          "alt": "Grüner Tee Ingwer & Zitrone (20 Beutel) dmBio",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755002764/assets/pas/images/026cae56-70b2-4343-a387-e39625f69daf/dmbio-gruener-tee-ingwer-und-zitrone-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (38,55 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (41,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.7692
+      },
+      "self": "/p/d/1624329/dmbio-gruener-tee-ingwer-und-zitrone-20-beutel",
+      "title": {
+        "tileHeadline": "Grüner Tee Ingwer & Zitrone (20 Beutel), 40 g",
+        "tileHeadlineLong": "Grüner Tee Ingwer & Zitrone (20 Beutel), 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7692,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4012824401303,
+    "dan": 1564978,
+    "brandName": "YOGI TEA",
+    "title": "Kräutertee Ingwer, Zitronenschale & Minze (17 Beutel), 30,6 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Kräutertee Ingwer, Zitronenschale & Minze (17 Beutel), 30,6 g; Preis: 3,25 €; Grundpreis: 0,0306 kg (106,21 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1564978,
+      "gtin": 4012824401303,
+      "images": [
+        {
+          "alt": "Kräutertee Ingwer, Zitronenschale & Minze (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779489027/assets/pas/images/6659918b-7a36-419c-925c-bb04e5c99bae/yogi-tea-kraeutertee-ingwer-zitronenschale-und-minze-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,0306 kg (99,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,0306 kg (106,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 4.5946
+      },
+      "self": "/p/d/1564978/yogi-tea-kraeutertee-ingwer-zitronenschale-und-minze-17-beutel",
+      "title": {
+        "tileHeadline": "Kräutertee Ingwer, Zitronenschale & Minze (17..., 30,6 g",
+        "tileHeadlineLong": "Kräutertee Ingwer, Zitronenschale & Minze (17..., 30,6 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5946,
+        "ratingCount": 74
+      }
+    }
+  },
+  {
+    "gtin": 4066447788037,
+    "dan": 1574828,
+    "brandName": "dmBio",
+    "title": "Grüner Tee Chun Mee, lose, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Grüner Tee Chun Mee, lose, 100 g; Preis: 2,65 €; Grundpreis: 0,1 kg (26,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1574828,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447788037,
+      "images": [
+        {
+          "alt": "Grüner Tee Chun Mee, lose dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774603448/assets/pas/images/91cc4689-8129-433a-8d9e-dfa8d28238c3/dmbio-gruener-tee-chun-mee-lose"
+        },
+        {
+          "alt": "Grüner Tee Chun Mee, lose dmBio",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774603441/assets/pas/images/b495a5f9-441c-459b-b7a4-fb48bc75c5b4/dmbio-gruener-tee-chun-mee-lose"
+        },
+        {
+          "alt": "Grüner Tee Chun Mee, lose dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761819176/assets/pas/images/bf8a3eb1-17d9-4b04-92ab-e2122c225e40/dmbio-gruener-tee-chun-mee-lose"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (24,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (26,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.4239
+      },
+      "self": "/p/d/1574828/dmbio-gruener-tee-chun-mee-lose",
+      "title": {
+        "tileHeadline": "Grüner Tee Chun Mee, lose, 100 g",
+        "tileHeadlineLong": "Grüner Tee Chun Mee, lose, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4239,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4067796188486,
+    "dan": 2970825,
+    "brandName": "dmBio",
+    "title": "Früchtetee Italienische Limone (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Früchtetee Italienische Limone (20 Beutel), 40 g; Preis: 1,75 €; Grundpreis: 0,04 kg (43,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 2970825,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796188486,
+      "images": [
+        {
+          "alt": "Früchtetee Italienische Limone (20 Beutel)  dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849861/assets/pas/images/0e5706db-23da-4016-8307-e78d90d0a72d/dmbio-fruechtetee-italienische-limone-20-beutel"
+        },
+        {
+          "alt": "Früchtetee Italienische Limone (20 Beutel)  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849848/assets/pas/images/cd45f809-3aae-4bb1-a07b-faf337846479/dmbio-fruechtetee-italienische-limone-20-beutel"
+        },
+        {
+          "alt": "Früchtetee Italienische Limone (20 Beutel)  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849872/assets/pas/images/eb8983ca-6f8d-4cfb-8fd4-20a29b203dae/dmbio-fruechtetee-italienische-limone-20-beutel"
+        },
+        {
+          "alt": "Früchtetee Italienische Limone (20 Beutel)  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849868/assets/pas/images/06f4cfe6-49fd-457e-a1ae-9feb3edfef91/dmbio-fruechtetee-italienische-limone-20-beutel"
+        },
+        {
+          "alt": "Früchtetee Italienische Limone (20 Beutel)  dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849853/assets/pas/images/9cb85eab-c9d9-432a-9fae-4c3bf5e62bea/dmbio-fruechtetee-italienische-limone-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (40,89 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (43,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.2169
+      },
+      "self": "/p/d/2970825/dmbio-fruechtetee-italienische-limone-20-beutel",
+      "title": {
+        "tileHeadline": "Früchtetee Italienische Limone (20 Beutel), 40 g",
+        "tileHeadlineLong": "Früchtetee Italienische Limone (20 Beutel), 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2169,
+        "ratingCount": 83
+      }
+    }
+  }
+]

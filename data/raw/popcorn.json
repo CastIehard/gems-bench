@@ -1,0 +1,1167 @@
+[
+  {
+    "gtin": 4067796100112,
+    "dan": 3087729,
+    "brandName": "Sportness",
+    "title": "Proteinriegel 30%, Popcorn-Salted-Caramel-Geschmack, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinriegel 30%, Popcorn-Salted-Caramel-Geschmack, 40 g; Preis: 0,85 €; Grundpreis: 0,04 kg (21,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3087729,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796100112,
+      "images": [
+        {
+          "alt": "Proteinriegel 30%, Popcorn-Salted-Caramel-Geschmack Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766530530/assets/pas/images/52b98d1e-b9a9-44f4-a841-d8176fa38b38/sportness-proteinriegel-30-prozent-popcorn-salted-caramel-geschmack"
+        },
+        {
+          "alt": "Proteinriegel 30%, Popcorn-Salted-Caramel-Geschmack Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766530523/assets/pas/images/990cc416-320f-4723-b4dc-1501910895f8/sportness-proteinriegel-30-prozent-popcorn-salted-caramel-geschmack"
+        },
+        {
+          "alt": "Proteinriegel 30%, Popcorn-Salted-Caramel-Geschmack Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766530518/assets/pas/images/86e8fb4f-3b57-49fc-9291-bc415194ba7e/sportness-proteinriegel-30-prozent-popcorn-salted-caramel-geschmack"
+        },
+        {
+          "alt": "Proteinriegel 30%, Popcorn-Salted-Caramel-Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766530526/assets/pas/images/2cff9067-e4eb-42d4-9405-2e1913e91188/sportness-proteinriegel-30-prozent-popcorn-salted-caramel-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (19,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (21,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 527,
+        "ratingValue": 4.8368
+      },
+      "self": "/p/d/3087729/sportness-proteinriegel-30-prozent-popcorn-salted-caramel-geschmack",
+      "title": {
+        "tileHeadline": "Proteinriegel 30%,..., 40 g",
+        "tileHeadlineLong": "Proteinriegel 30%,..., 40 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Riegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8368,
+        "ratingCount": 527
+      }
+    }
+  },
+  {
+    "gtin": 4260350920885,
+    "dan": 1711200,
+    "brandName": "HEIMATGUT",
+    "title": "Popcorn süß, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: HEIMATGUT; Produktname: Popcorn süß, 90 g; Preis: 1,75 €; Grundpreis: 0,09 kg (19,44 € je 1 kg)",
+      "brand": {
+        "name": "HEIMATGUT"
+      },
+      "dan": 1711200,
+      "gtin": 4260350920885,
+      "images": [
+        {
+          "alt": "Popcorn süß HEIMATGUT",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754975483/assets/pas/images/5379fd01-d471-4ba0-9031-c1b320371692/heimatgut-popcorn-suess"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (18,17 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (19,44 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 119,
+        "ratingValue": 4.8067
+      },
+      "self": "/p/d/1711200/heimatgut-popcorn-suess",
+      "title": {
+        "tileHeadline": "Popcorn süß, 90 g",
+        "tileHeadlineLong": "Popcorn süß, 90 g"
+      },
+      "trackingData": {
+        "brand": "HEIMATGUT",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8067,
+        "ratingCount": 119
+      }
+    }
+  },
+  {
+    "gtin": 4011700602193,
+    "dan": 3124370,
+    "brandName": "YUMIQUE",
+    "title": "Pink Popcorn Körperspray Body Mist, 240 ml",
+    "tileData": {
+      "a11yLabel": "Marke: YUMIQUE; Produktname: Pink Popcorn Körperspray Body Mist, 240 ml; Preis: 9,95 €; Grundpreis: 0,24 l (41,46 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "YUMIQUE"
+      },
+      "dan": 3124370,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4011700602193,
+      "images": [
+        {
+          "alt": "Pink Popcorn Körperspray Body Mist YUMIQUE",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780091787/assets/pas/images/4b0f72bf-11d9-4a64-bf56-aaadbdaf29e2/yumique-pink-popcorn-koerperspray-body-mist"
+        },
+        {
+          "alt": "Pink Popcorn Körperspray Body Mist YUMIQUE",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780091791/assets/pas/images/8f844a30-b1da-45ac-98d4-99c44fcef3f5/yumique-pink-popcorn-koerperspray-body-mist"
+        },
+        {
+          "alt": "Pink Popcorn Körperspray Body Mist YUMIQUE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776075243/assets/pas/images/348832f5-fafa-44c9-ab90-62cff3707432/yumique-pink-popcorn-koerperspray-body-mist"
+        },
+        {
+          "alt": "Pink Popcorn Körperspray Body Mist YUMIQUE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776075232/assets/pas/images/83f2b4ed-10e1-4297-b6e9-7eec23465fd2/yumique-pink-popcorn-koerperspray-body-mist"
+        },
+        {
+          "alt": "Pink Popcorn Körperspray Body Mist YUMIQUE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776075255/assets/pas/images/17ee5676-b6b6-4aef-adf4-80fe0035224d/yumique-pink-popcorn-koerperspray-body-mist"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 l (34,84 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 l (41,46 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 19,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3124370/yumique-pink-popcorn-koerperspray-body-mist",
+      "title": {
+        "tileHeadline": "Pink Popcorn Körperspray Body Mist, 240 ml",
+        "tileHeadlineLong": "Pink Popcorn Körperspray Body Mist, 240 ml"
+      },
+      "trackingData": {
+        "brand": "YUMIQUE",
+        "categories": [
+          "Damen Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 19
+      }
+    }
+  },
+  {
+    "gtin": 4066447767377,
+    "dan": 1693404,
+    "brandName": "dmBio",
+    "title": "Getreide, Popcornmais, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Getreide, Popcornmais, 500 g; Preis: 1,85 €; Grundpreis: 0,5 kg (3,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1693404,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447767377,
+      "images": [
+        {
+          "alt": "Getreide, Popcornmais dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768442313/assets/pas/images/498d146c-ab7e-470e-9028-d7206fcc467f/dmbio-getreide-popcornmais"
+        },
+        {
+          "alt": "Getreide, Popcornmais dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768442305/assets/pas/images/3876c180-7761-4741-9926-d7681230b9f9/dmbio-getreide-popcornmais"
+        },
+        {
+          "alt": "Getreide, Popcornmais dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768442302/assets/pas/images/fb3a5789-9d39-4d05-a601-113b0a676cb6/dmbio-getreide-popcornmais"
+        },
+        {
+          "alt": "Getreide, Popcornmais dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768442309/assets/pas/images/a0ea95ac-26ce-4535-92f2-3418a5b78b2c/dmbio-getreide-popcornmais"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,46 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 121,
+        "ratingValue": 3.8512
+      },
+      "self": "/p/d/1693404/dmbio-getreide-popcornmais",
+      "title": {
+        "tileHeadline": "Getreide, Popcornmais, 500 g",
+        "tileHeadlineLong": "Getreide, Popcornmais, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Getreide"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8512,
+        "ratingCount": 121
+      }
+    }
+  },
+  {
+    "gtin": 4260350927679,
+    "dan": 1690122,
+    "brandName": "KRÜMEL",
+    "title": "Kindersnack Popcorn Kakao-Banane ab dem 12. Monat, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: KRÜMEL; Produktname: Kindersnack Popcorn Kakao-Banane ab dem 12. Monat, 20 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,02 kg (57,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "KRÜMEL"
+      },
+      "dan": 1690122,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260350927679,
+      "images": [
+        {
+          "alt": "Kindersnack Popcorn Kakao-Banane ab dem 12. Monat KRÜMEL",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755593160/assets/pas/images/a1caef72-0a46-441e-9c76-96650a5a62df/kruemel-kindersnack-popcorn-kakao-banane-ab-dem-12-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (53,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (57,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.3158
+      },
+      "self": "/p/d/1690122/kruemel-kindersnack-popcorn-kakao-banane-ab-dem-12-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Kindersnack Popcorn Kakao-Banane ab dem 12. Monat, 20 g",
+        "tileHeadlineLong": "Kindersnack Popcorn Kakao-Banane ab dem 12. Monat, 20 g"
+      },
+      "trackingData": {
+        "brand": "KRÜMEL",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3158,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4260350927631,
+    "dan": 1690121,
+    "brandName": "KRÜMEL",
+    "title": "Kindersnack Popcorn Erdbeer-Banane ab dem 12. Monat, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: KRÜMEL; Produktname: Kindersnack Popcorn Erdbeer-Banane ab dem 12. Monat, 20 g; Preis: 1,15 €; Grundpreis: 0,02 kg (57,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "KRÜMEL"
+      },
+      "dan": 1690121,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260350927631,
+      "images": [
+        {
+          "alt": "Kindersnack Popcorn Erdbeer-Banane ab dem 12. Monat KRÜMEL",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755592897/assets/pas/images/42a79cfb-1711-4c8d-8061-88f5846312a5/kruemel-kindersnack-popcorn-erdbeer-banane-ab-dem-12-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (53,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (57,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.5517
+      },
+      "self": "/p/d/1690121/kruemel-kindersnack-popcorn-erdbeer-banane-ab-dem-12-monat",
+      "title": {
+        "tileHeadline": "Kindersnack Popcorn Erdbeer-Banane ab dem 12...., 20 g",
+        "tileHeadlineLong": "Kindersnack Popcorn Erdbeer-Banane ab dem 12...., 20 g"
+      },
+      "trackingData": {
+        "brand": "KRÜMEL",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5517,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4067796341690,
+    "dan": 3121268,
+    "brandName": "ALANA",
+    "title": "Bodys Langarm mit Ripp-Struktur, rosa + beige, Gr. 74/80, 2 St",
+    "tileData": {
+      "a11yLabel": "Marke: ALANA; Produktname: Bodys Langarm mit Ripp-Struktur, rosa + beige, Gr. 74/80, 2 St; Preis: 9,90 €; Grundpreis: 2 St (4,95 € je 1 St); Neues Produkt Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "ALANA"
+      },
+      "dan": 3121268,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4067796341690,
+      "images": [
+        {
+          "alt": "Bodys Langarm mit Ripp-Struktur, rosa + beige, Gr. 74/80 ALANA",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779919283/assets/pas/images/74787971-92ee-48d9-9634-3cd3ec80193f/alana-bodys-langarm-mit-ripp-struktur-rosa-beige-gr-74-80"
+        },
+        {
+          "alt": "Bodys Langarm mit Ripp-Struktur, rosa + beige, Gr. 74/80 ALANA",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779919267/assets/pas/images/168183d6-fc5f-4d06-be4d-f330a660708e/alana-bodys-langarm-mit-ripp-struktur-rosa-beige-gr-74-80"
+        },
+        {
+          "alt": "Bodys Langarm mit Ripp-Struktur, rosa + beige, Gr. 74/80 ALANA",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779919274/assets/pas/images/cefafe24-dee3-4c83-9b0d-c57e122430ac/alana-bodys-langarm-mit-ripp-struktur-rosa-beige-gr-74-80"
+        },
+        {
+          "alt": "Bodys Langarm mit Ripp-Struktur, rosa + beige, Gr. 74/80 ALANA",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779919277/assets/pas/images/6720d352-1055-4f58-8e03-16e97636f753/alana-bodys-langarm-mit-ripp-struktur-rosa-beige-gr-74-80"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,32 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (4,16 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,90 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (4,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 0,
+        "ratingValue": 0.0
+      },
+      "self": "/p/d/3121268/alana-bodys-langarm-mit-ripp-struktur-rosa-beige-gr-74-80",
+      "title": {
+        "tileHeadline": "Bodys Langarm mit Ripp-Struktur, rosa + beige,..., 2 St",
+        "tileHeadlineLong": "Bodys Langarm mit Ripp-Struktur, rosa + beige, Gr. 74/80, 2 St"
+      },
+      "trackingData": {
+        "brand": "ALANA",
+        "categories": [
+          "Baby Bodys & Strampler"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.9
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 0.0,
+        "ratingCount": 0
+      }
+    }
+  },
+  {
+    "gtin": 4262367684873,
+    "dan": 3060337,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Poppies Apfel-Karamell Style, für Schulkinder, 40 g; Preis: 1,95 €; Grundpreis: 0,04 kg (48,75 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 3060337,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4262367684873,
+      "images": [
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751268810/assets/pas/images/20160e39-7072-427c-b66a-42e695fabbe2/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764111250/assets/pas/images/e9875cc2-bf58-4f5f-bbaf-323d020d4122/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750891761/assets/pas/images/48c914cf-dc54-4009-9e88-31e510adb706/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750891724/assets/pas/images/4f690368-63fe-4118-9580-75f8d9b441d1/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750891733/assets/pas/images/a1778abc-3084-4cc3-9579-bb5405afd3fc/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750891750/assets/pas/images/f46e4f37-28c6-4dd9-937c-e2192c2c72e5/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750891715/assets/pas/images/3cc10d16-ae37-4aa4-8b45-3ed1fe598cc3/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750891743/assets/pas/images/2e6841c9-1e1b-4898-8499-f6cccdbc6b34/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495324/assets/pas/images/3b1d7a2f-3262-43f3-bba9-37ea5de2ca90/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Poppies Apfel-Karamell Style, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494955/assets/pas/images/7091a3e5-b99a-4efa-ab92-8e55057abe5d/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (45,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (48,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.6154
+      },
+      "self": "/p/d/3060337/freche-freunde-kindersnack-poppies-apfel-karamell-style-fuer-schulkinder",
+      "title": {
+        "tileHeadline": "Kindersnack Poppies Apfel-Karamell Style, für..., 40 g",
+        "tileHeadlineLong": "Kindersnack Poppies Apfel-Karamell Style, für..., 40 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6154,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 4059779050934,
+    "dan": 1459239,
+    "brandName": "CRAZE",
+    "title": "Kinder Badezusatz Badefizzer, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: CRAZE; Produktname: Kinder Badezusatz Badefizzer, 20 g; Preis: 0,75 €; Grundpreis: 1 St (0,75 € je 1 St)",
+      "brand": {
+        "name": "CRAZE"
+      },
+      "dan": 1459239,
+      "gtin": 4059779050934,
+      "images": [
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472904/assets/pas/images/93f9d206-b209-4c67-8346-d86f2e0c881c/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472859/assets/pas/images/99f114af-39b4-4b1a-8664-9f3824087c07/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472919/assets/pas/images/112466d6-bf51-400a-861f-c448de45d25c/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473170/assets/pas/images/30a06614-f2ba-403f-93d1-4b5b314113b7/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472907/assets/pas/images/50154c8d-fb6b-4b2f-bbb5-4415113c52b1/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472906/assets/pas/images/745764fb-9233-4d47-bff3-3757366dc949/craze-kinder-badezusatz-badefizzer"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,63 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (0,63 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (0,75 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.3088
+      },
+      "self": "/p/d/1459239/craze-kinder-badezusatz-badefizzer",
+      "title": {
+        "tileHeadline": "Kinder Badezusatz Badefizzer, 20 g",
+        "tileHeadlineLong": "Kinder Badezusatz Badefizzer, 20 g"
+      },
+      "trackingData": {
+        "brand": "CRAZE",
+        "categories": [
+          "Kinderbadezusätze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3088,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4059729616654,
+    "dan": 3118758,
+    "brandName": "essence",
+    "title": "Lipgloss Popcorn Bomb 01 Sweet Or Salty?, 10 ml",
+    "tileData": {
+      "a11yLabel": "Marke: essence; Produktname: Lipgloss Popcorn Bomb 01 Sweet Or Salty?, 10 ml; Preis: 1,65 €; Grundpreis: 0,01 l (165,00 € je 1 l); Limitierte Editition Grafik",
+      "brand": {
+        "name": "essence"
+      },
+      "dan": 3118758,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        }
+      ],
+      "gtin": 4059729616654,
+      "images": [
+        {
+          "alt": "Lipgloss Popcorn Bomb 01 Sweet Or Salty? essence",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765877105/assets/pas/images/0de367eb-af4c-4264-a5a8-aff0fd53a499/essence-lipgloss-popcorn-bomb-01-sweet-or-salty"
+        },
+        {
+          "alt": "Lipgloss Popcorn Bomb 01 Sweet Or Salty? essence",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765877112/assets/pas/images/717fff54-3f77-47b7-9449-2dd6a5c19abc/essence-lipgloss-popcorn-bomb-01-sweet-or-salty"
+        },
+        {
+          "alt": "Lipgloss Popcorn Bomb 01 Sweet Or Salty? essence",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767317209/assets/pas/images/6ae6963f-c999-4f9a-a489-fd8d5e4b3d68/essence-lipgloss-popcorn-bomb-01-sweet-or-salty"
+        },
+        {
+          "alt": "Lipgloss Popcorn Bomb 01 Sweet Or Salty? essence",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767317200/assets/pas/images/5998fe04-05e6-4bc8-9eb5-388c608baef8/essence-lipgloss-popcorn-bomb-01-sweet-or-salty"
+        },
+        {
+          "alt": "Lipgloss Popcorn Bomb 01 Sweet Or Salty? essence",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767317216/assets/pas/images/be8939d6-d8d6-4356-8da2-f3545a9f03a7/essence-lipgloss-popcorn-bomb-01-sweet-or-salty"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,39 €"
+          }
+        },
+        "tileInfos": [
+          "0,01 l (138,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,01 l (165,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 34,
+        "ratingValue": 4.4118
+      },
+      "self": "/p/d/3118758/essence-lipgloss-popcorn-bomb-01-sweet-or-salty",
+      "title": {
+        "tileHeadline": "Lipgloss Popcorn Bomb 01 Sweet Or Salty?, 10 ml",
+        "tileHeadlineLong": "Lipgloss Popcorn Bomb 01 Sweet Or Salty?, 10 ml"
+      },
+      "trackingData": {
+        "brand": "essence",
+        "categories": [
+          "Lipgloss"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4118,
+        "ratingCount": 34
+      }
+    }
+  },
+  {
+    "gtin": 4262367682688,
+    "dan": 2477808,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr, 15 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr, 15 g; Preis: 0,95 €; Grundpreis: 0,015 kg (63,33 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 2477808,
+      "gtin": 4262367682688,
+      "images": [
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780958785/assets/pas/images/c7b938cf-89aa-4276-a1c2-ef922023f933/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781130552/assets/pas/images/0adb9665-f44e-4398-9d41-332bb40174e4/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781130566/assets/pas/images/5d33f79f-92e7-4b23-8a7f-760a05d6b45d/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781130592/assets/pas/images/91d4969b-453e-4aca-ad91-831e104e3283/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781130535/assets/pas/images/dda4a4dd-03de-4817-83b8-fb567bcdf497/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781130573/assets/pas/images/beb6d4f2-7201-48ef-b769-a8ff5ae2550a/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781130546/assets/pas/images/526f72bd-f644-4fa5-b6d8-74f4b30487ca/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781130584/assets/pas/images/4c5ab3b2-88e3-4372-8f91-3252cdba411e/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781130561/assets/pas/images/18cac221-3a63-4a02-abb6-273ca1d16118/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781130527/assets/pas/images/e42bfb7c-4500-47c8-a7b1-7e9891106a80/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,015 kg (59,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,015 kg (63,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 85,
+        "ratingValue": 4.8353
+      },
+      "self": "/p/d/2477808/freche-freunde-kindersnack-party-pops-apfel-erdbeere-ab-1-jahr",
+      "title": {
+        "tileHeadline": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr, 15 g",
+        "tileHeadlineLong": "Kindersnack Party Pops Apfel Erdbeere ab 1 Jahr, 15 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8353,
+        "ratingCount": 85
+      }
+    }
+  },
+  {
+    "gtin": 4070765030242,
+    "dan": 3140069,
+    "brandName": "babylove",
+    "title": "Kindersnack Party Pops Erdbeer-Banane ab dem 18. Monat, 20 g",
+    "tileData": {
+      "dan": 3140069,
+      "gtin": 4070765030242,
+      "self": "/p/d/3140069/babylove-kindersnack-party-pops-erdbeer-banane-ab-dem-18-monat",
+      "brand": {
+        "name": "babylove"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "prefix": "Einzelpreis"
+      },
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Kindersnack Party Pops Erdbeer-Banane ab dem 18...., 20 g",
+        "tileHeadlineLong": "Kindersnack Party Pops Erdbeer-Banane ab dem 18...., 20 g"
+      },
+      "images": [
+        {
+          "alt": "Kindersnack Party Pops Erdbeer-Banane ab dem 18. Monat babylove",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782935817/assets/pas/images/8c523e11-6bc4-49b8-ab8d-4b504504a541/babylove-kindersnack-party-pops-erdbeer-banane-ab-dem-18-monat",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F7F9"
+        },
+        {
+          "alt": "Kindersnack Party Pops Erdbeer-Banane ab dem 18. Monat babylove",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782935790/assets/pas/images/7ec6aee3-7c08-4c0c-8e78-2b80942e46b7/babylove-kindersnack-party-pops-erdbeer-banane-ab-dem-18-monat",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F6F9"
+        }
+      ],
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 3.6667
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "prefix": "Einzelpreis"
+      },
+      "a11yLabel": "Marke: babylove; Produktname: Kindersnack Party Pops Erdbeer-Banane ab dem 18. Monat, 20 g; Rechtliche Kategorie: Beikost; Preis: 0,95 €; Limitierte Editition Grafik, Marke von dm Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "babylove",
+        "price": 0.95,
+        "currency": "EUR",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6667,
+        "ratingCount": 9
+      }
+    }
+  }
+]

@@ -1,0 +1,2637 @@
+[
+  {
+    "gtin": 4009077081208,
+    "dan": 1321273,
+    "brandName": "Bärengarten",
+    "title": "Fruchtgummi, Joghurt-Bären, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bärengarten; Produktname: Fruchtgummi, Joghurt-Bären, 125 g; Preis: 1,95 €; Grundpreis: 0,125 kg (15,60 € je 1 kg)",
+      "brand": {
+        "name": "Bärengarten"
+      },
+      "dan": 1321273,
+      "gtin": 4009077081208,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Joghurt-Bären Bärengarten",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435929/assets/pas/images/723a2156-dfa3-433a-886b-7972fe21a8e4/baerengarten-fruchtgummi-joghurt-baeren"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (14,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (15,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 99,
+        "ratingValue": 4.4848
+      },
+      "self": "/p/d/1321273/baerengarten-fruchtgummi-joghurt-baeren",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Joghurt-Bären, 125 g",
+        "tileHeadlineLong": "Fruchtgummi, Joghurt-Bären, 125 g"
+      },
+      "trackingData": {
+        "brand": "Bärengarten",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4848,
+        "ratingCount": 99
+      }
+    }
+  },
+  {
+    "gtin": 4260618526033,
+    "dan": 1582632,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren, 16 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren, 16 g; Preis: 1,95 €; Grundpreis: 0,016 kg (121,88 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 1582632,
+      "gtin": 4260618526033,
+      "images": [
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934605/assets/pas/images/61cfac5e-9bbb-41f6-b8f8-a9ecdc1b8649/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934587/assets/pas/images/edae5b57-8227-4cb1-a156-106f5d325ced/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778281360/assets/pas/images/5ea96e63-aa73-4957-98c4-50f899cc41b2/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934573/assets/pas/images/fe154661-692f-42e8-8e8a-d2f5f0c51091/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934544/assets/pas/images/b811fdc5-afb8-44eb-b0ba-569bad7dafa5/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763075239/assets/pas/images/8d3ea122-b142-47ed-8b9e-5bb8ec4d17a3/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934564/assets/pas/images/8b9a8513-7f92-4bc9-85fb-220da0473143/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934554/assets/pas/images/dbc202ab-75a3-45ea-81c7-c3d4e947e1d2/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,016 kg (113,91 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,016 kg (121,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 132,
+        "ratingValue": 4.4924
+      },
+      "self": "/p/d/1582632/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere..., 16 g",
+        "tileHeadlineLong": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere..., 16 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4924,
+        "ratingCount": 132
+      }
+    }
+  },
+  {
+    "gtin": 4036554705357,
+    "dan": 1561564,
+    "brandName": "Layenberger Fit+Feelgood",
+    "title": "Diät Shake, Slim Shake rote Beeren & Joghurt, 396 g",
+    "tileData": {
+      "a11yLabel": "Marke: Layenberger Fit+Feelgood; Produktname: Diät Shake, Slim Shake rote Beeren & Joghurt, 396 g; Preis: 7,75 €; Grundpreis: 0,396 kg (19,57 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Layenberger Fit+Feelgood"
+      },
+      "dan": 1561564,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4036554705357,
+      "images": [
+        {
+          "alt": "Diät Shake, Slim Shake rote Beeren & Joghurt Layenberger Fit+Feelgood",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773182011/assets/pas/images/5e4af525-da7d-42fd-be59-cd1a9ce599ba/layenberger-fit-feelgood-diaet-shake-slim-shake-rote-beeren-und-joghurt"
+        },
+        {
+          "alt": "Diät Shake, Slim Shake rote Beeren & Joghurt Layenberger Fit+Feelgood",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773181992/assets/pas/images/9be15b70-2b4f-4f1a-a65d-7cab099b9a59/layenberger-fit-feelgood-diaet-shake-slim-shake-rote-beeren-und-joghurt"
+        },
+        {
+          "alt": "Diät Shake, Slim Shake rote Beeren & Joghurt Layenberger Fit+Feelgood",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773182032/assets/pas/images/9637acb7-199e-4373-a418-67cdfb1ee89e/layenberger-fit-feelgood-diaet-shake-slim-shake-rote-beeren-und-joghurt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,24 €"
+          }
+        },
+        "tileInfos": [
+          "0,396 kg (18,29 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,396 kg (19,57 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 142,
+        "ratingValue": 4.2113
+      },
+      "self": "/p/d/1561564/layenberger-fit-feelgood-diaet-shake-slim-shake-rote-beeren-und-joghurt",
+      "title": {
+        "tileHeadline": "Diät Shake, Slim Shake rote Beeren & Joghurt, 396 g",
+        "tileHeadlineLong": "Diät Shake, Slim Shake rote Beeren & Joghurt, 396 g"
+      },
+      "trackingData": {
+        "brand": "Layenberger Fit+Feelgood",
+        "categories": [
+          "Abnehmprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2113,
+        "ratingCount": 142
+      }
+    }
+  },
+  {
+    "gtin": 4062300432086,
+    "dan": 1690780,
+    "brandName": "HiPP",
+    "title": "Quetschie Apfel Banane Aprikose mit Joghurt, ab 6. Monat (4x90 g), 360 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Quetschie Apfel Banane Aprikose mit Joghurt, ab 6. Monat (4x90 g), 360 g; Rechtliche Kategorie: Beikost; Preis: 3,65 €; Grundpreis: 0,36 kg (10,14 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1690780,
+      "gtin": 4062300432086,
+      "images": [
+        {
+          "alt": "Quetschie Apfel Banane Aprikose mit Joghurt, ab 6. Monat (4x90 g) HiPP",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473989/assets/pas/images/2ab05eac-b337-4422-927d-f0c9ed43d501/hipp-quetschie-apfel-banane-aprikose-mit-joghurt-ab-6-monat-4x90-g"
+        },
+        {
+          "alt": "Quetschie Apfel Banane Aprikose mit Joghurt, ab 6. Monat (4x90 g) HiPP",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747624734/assets/pas/images/ce555960-6dfb-4ad5-8356-ba62dcbe4d52/hipp-quetschie-apfel-banane-aprikose-mit-joghurt-ab-6-monat-4x90-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,41 €"
+          }
+        },
+        "tileInfos": [
+          "0,36 kg (9,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,36 kg (10,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.9
+      },
+      "self": "/p/d/1690780/hipp-quetschie-apfel-banane-aprikose-mit-joghurt-ab-6-monat-4x90-g",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Quetschie Apfel Banane Aprikose mit Joghurt, ab..., 360 g",
+        "tileHeadlineLong": "Quetschie Apfel Banane Aprikose mit Joghurt, ab..., 360 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 7640230490320,
+    "dan": 1626270,
+    "brandName": "Holle",
+    "title": "Quetschie Fruity Fox Apfel, Banane & Beeren mit Joghurt, ab dem 8.Monat, 85 g",
+    "tileData": {
+      "a11yLabel": "Marke: Holle; Produktname: Quetschie Fruity Fox Apfel, Banane & Beeren mit Joghurt, ab dem 8.Monat, 85 g; Preis: 0,95 €; Grundpreis: 0,085 kg (11,18 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Holle"
+      },
+      "dan": 1626270,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7640230490320,
+      "images": [
+        {
+          "alt": "Quetschie Fruity Fox Apfel, Banane & Beeren mit Joghurt, ab dem 8.Monat Holle",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511160/assets/pas/images/7ed9c465-6031-496b-af43-734ad355860d/holle-quetschie-fruity-fox-apfel-banane-und-beeren-mit-joghurt-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (10,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (11,18 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 27,
+        "ratingValue": 4.7778
+      },
+      "self": "/p/d/1626270/holle-quetschie-fruity-fox-apfel-banane-und-beeren-mit-joghurt-ab-dem-8-monat",
+      "title": {
+        "tileHeadline": "Quetschie Fruity Fox Apfel, Banane & Beeren mit..., 85 g",
+        "tileHeadlineLong": "Quetschie Fruity Fox Apfel, Banane & Beeren mit..., 85 g"
+      },
+      "trackingData": {
+        "brand": "Holle",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7778,
+        "ratingCount": 27
+      }
+    }
+  },
+  {
+    "gtin": 4006643011874,
+    "dan": 3093518,
+    "brandName": "Multaben",
+    "title": "Energieriegel Joghurt Müsli, 38 g",
+    "tileData": {
+      "a11yLabel": "Marke: Multaben; Produktname: Energieriegel Joghurt Müsli, 38 g; Preis: 1,25 €; Grundpreis: 0,038 kg (32,89 € je 1 kg)",
+      "brand": {
+        "name": "Multaben"
+      },
+      "dan": 3093518,
+      "gtin": 4006643011874,
+      "images": [
+        {
+          "alt": "Energieriegel Joghurt Müsli Multaben",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753087396/assets/pas/images/1fd89ffc-42d7-4c10-9902-04c228261bf7/multaben-energieriegel-joghurt-muesli"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,038 kg (30,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,038 kg (32,89 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 33,
+        "ratingValue": 3.5455
+      },
+      "self": "/p/d/3093518/multaben-energieriegel-joghurt-muesli",
+      "title": {
+        "tileHeadline": "Energieriegel Joghurt Müsli, 38 g",
+        "tileHeadlineLong": "Energieriegel Joghurt Müsli, 38 g"
+      },
+      "trackingData": {
+        "brand": "Multaben",
+        "categories": [
+          "Energie-Produkte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5455,
+        "ratingCount": 33
+      }
+    }
+  },
+  {
+    "gtin": 4062300362215,
+    "dan": 1706662,
+    "brandName": "HiPP",
+    "title": "Fruchtriegel Joghurt-Kirsch in Banane, ab 1 Jahr, 23 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Fruchtriegel Joghurt-Kirsch in Banane, ab 1 Jahr, 23 g; Rechtliche Kategorie: Beikost; Preis: 0,65 €; Grundpreis: 0,023 kg (28,26 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1706662,
+      "gtin": 4062300362215,
+      "images": [
+        {
+          "alt": "Fruchtriegel Joghurt-Kirsch in Banane, ab 1 Jahr HiPP",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473974/assets/pas/images/e33074c7-3656-484f-99fb-b9272519f4d2/hipp-fruchtriegel-joghurt-kirsch-in-banane-ab-1-jahr"
+        },
+        {
+          "alt": "Fruchtriegel Joghurt-Kirsch in Banane, ab 1 Jahr HiPP",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763249214/assets/pas/images/4b7ac725-6376-4945-87a8-d27c9aabd9cd/hipp-fruchtriegel-joghurt-kirsch-in-banane-ab-1-jahr"
+        },
+        {
+          "alt": "Fruchtriegel Joghurt-Kirsch in Banane, ab 1 Jahr HiPP",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761255481/assets/pas/images/91374c0b-6c7d-4f19-b1bb-1b7d1932b97a/hipp-fruchtriegel-joghurt-kirsch-in-banane-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,61 €"
+          }
+        },
+        "tileInfos": [
+          "0,023 kg (26,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,023 kg (28,26 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.8875
+      },
+      "self": "/p/d/1706662/hipp-fruchtriegel-joghurt-kirsch-in-banane-ab-1-jahr",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Fruchtriegel Joghurt-Kirsch in Banane, ab 1 Jahr, 23 g",
+        "tileHeadlineLong": "Fruchtriegel Joghurt-Kirsch in Banane, ab 1 Jahr, 23 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Riegel für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8875,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 4262367680325,
+    "dan": 2481840,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren, 16 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren, 16 g; Preis: 1,95 €; Grundpreis: 0,016 kg (121,88 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 2481840,
+      "gtin": 4262367680325,
+      "images": [
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495218/assets/pas/images/305adb18-398a-442e-b436-fb0436f9096b/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495156/assets/pas/images/57ffd0ba-2741-48d9-bf21-e960b373ce6b/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495104/assets/pas/images/ff0879d5-2bf3-4544-b66f-5c986dcd0700/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495219/assets/pas/images/c4fdaf2b-c07b-4312-9cdf-fdda6f94d65a/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495226/assets/pas/images/8dbbc3f6-23ce-4a9d-a924-f55605cf4437/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755899427/assets/pas/images/8b2cfa1c-b8b3-4312-9143-f2aaca2f50ec/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495104/assets/pas/images/4a08cef2-0e20-4069-b497-1759f1ee1689/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495159/assets/pas/images/0051a223-a4cf-46f3-9fb5-bd7c2e32e56f/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494847/assets/pas/images/12eadfe4-1340-475c-b32f-d5e2eff18285/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495103/assets/pas/images/d4a7706a-52b3-4115-ad88-369a3e7879fc/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495155/assets/pas/images/3f9ebd08-0dba-409f-852f-2886c9160963/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,016 kg (113,91 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,016 kg (121,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.8551
+      },
+      "self": "/p/d/2481840/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Smoothie Chips Exotik mit Joghurt ab..., 16 g",
+        "tileHeadlineLong": "Kindersnack Smoothie Chips Exotik mit Joghurt ab..., 16 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8551,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4002064406213,
+    "dan": 1586807,
+    "brandName": "GimCat",
+    "title": "Nahrungsergänzung Katze, Joghurt, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: GimCat; Produktname: Nahrungsergänzung Katze, Joghurt, 150 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 1,75 €; Grundpreis: 0,15 kg (11,67 € je 1 kg)",
+      "brand": {
+        "name": "GimCat"
+      },
+      "dan": 1586807,
+      "gtin": 4002064406213,
+      "images": [
+        {
+          "alt": "Nahrungsergänzung Katze, Joghurt  GimCat",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760047209/assets/pas/images/a87c06e7-c014-4858-8f5c-7123112db2cc/gimcat-nahrungsergaenzung-katze-joghurt"
+        },
+        {
+          "alt": "Nahrungsergänzung Katze, Joghurt  GimCat",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760047199/assets/pas/images/3bbd9ab9-4817-4c8e-83d3-fb88b02f6394/gimcat-nahrungsergaenzung-katze-joghurt"
+        },
+        {
+          "alt": "Nahrungsergänzung Katze, Joghurt  GimCat",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020142/assets/pas/images/2b74a3ea-8562-4791-be70-50cf6adb2548/gimcat-nahrungsergaenzung-katze-joghurt"
+        },
+        {
+          "alt": "Nahrungsergänzung Katze, Joghurt  GimCat",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020152/assets/pas/images/f8a84862-c9d1-44f7-b9ce-60944ac46afa/gimcat-nahrungsergaenzung-katze-joghurt"
+        },
+        {
+          "alt": "Nahrungsergänzung Katze, Joghurt  GimCat",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020166/assets/pas/images/7df180fa-37c8-45a7-b425-e04bf702191a/gimcat-nahrungsergaenzung-katze-joghurt"
+        },
+        {
+          "alt": "Nahrungsergänzung Katze, Joghurt  GimCat",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020165/assets/pas/images/a8ebeab4-dc52-47dc-8cb2-9c97f9c27e58/gimcat-nahrungsergaenzung-katze-joghurt"
+        },
+        {
+          "alt": "Nahrungsergänzung Katze, Joghurt  GimCat",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020144/assets/pas/images/4bd0ac65-eac0-4b46-83e5-4303a64fabfc/gimcat-nahrungsergaenzung-katze-joghurt"
+        },
+        {
+          "alt": "Nahrungsergänzung Katze, Joghurt  GimCat",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020156/assets/pas/images/74fef2f1-319f-46a5-8cbc-0bc4a64d2d25/gimcat-nahrungsergaenzung-katze-joghurt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (10,91 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (11,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 55,
+        "ratingValue": 4.6545
+      },
+      "self": "/p/d/1586807/gimcat-nahrungsergaenzung-katze-joghurt",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nahrungsergänzung Katze, Joghurt, 150 g",
+        "tileHeadlineLong": "Nahrungsergänzung Katze, Joghurt, 150 g"
+      },
+      "trackingData": {
+        "brand": "GimCat",
+        "categories": [
+          "Snacks für Katzen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6545,
+        "ratingCount": 55
+      }
+    }
+  },
+  {
+    "gtin": 4251099603139,
+    "dan": 2480598,
+    "brandName": "Alete",
+    "title": "Kindersnack Obsties Erdbeere Banane Joghurt ab 3 Jahren, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: Alete; Produktname: Kindersnack Obsties Erdbeere Banane Joghurt ab 3 Jahren, 20 g; Preis: 2,45 €; Grundpreis: 0,02 kg (122,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Alete"
+      },
+      "dan": 2480598,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4251099603139,
+      "images": [
+        {
+          "alt": "Kindersnack Obsties Erdbeere Banane Joghurt ab 3 Jahren Alete",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777079061/assets/pas/images/0dbe68bb-5e1e-4f38-8eb3-68bf381c28f6/alete-kindersnack-obsties-erdbeere-banane-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Obsties Erdbeere Banane Joghurt ab 3 Jahren Alete",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777079052/assets/pas/images/21eaa3bf-ab33-4fc5-88cd-19464c0493da/alete-kindersnack-obsties-erdbeere-banane-joghurt-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (114,49 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (122,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 14,
+        "ratingValue": 3.2857
+      },
+      "self": "/p/d/2480598/alete-kindersnack-obsties-erdbeere-banane-joghurt-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Obsties Erdbeere Banane Joghurt ab 3..., 20 g",
+        "tileHeadlineLong": "Kindersnack Obsties Erdbeere Banane Joghurt ab 3..., 20 g"
+      },
+      "trackingData": {
+        "brand": "Alete",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.2857,
+        "ratingCount": 14
+      }
+    }
+  },
+  {
+    "gtin": 7640230494168,
+    "dan": 1626268,
+    "brandName": "Holle",
+    "title": "Quetschie Mango Monkey Mango & Banane mit Joghurt ab dem 8. Monat, 85 g",
+    "tileData": {
+      "a11yLabel": "Marke: Holle; Produktname: Quetschie Mango Monkey Mango & Banane mit Joghurt ab dem 8. Monat, 85 g; Preis: 0,95 €; Grundpreis: 0,085 kg (11,18 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Holle"
+      },
+      "dan": 1626268,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7640230494168,
+      "images": [
+        {
+          "alt": "Quetschie Mango Monkey Mango & Banane mit Joghurt ab dem 8. Monat Holle",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776986118/assets/pas/images/61fbc454-82f0-4fc4-b815-18de8f73bc63/holle-quetschie-mango-monkey-mango-und-banane-mit-joghurt-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (10,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (11,18 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 20,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/1626268/holle-quetschie-mango-monkey-mango-und-banane-mit-joghurt-ab-dem-8-monat",
+      "title": {
+        "tileHeadline": "Quetschie Mango Monkey Mango & Banane mit Joghurt..., 85 g",
+        "tileHeadlineLong": "Quetschie Mango Monkey Mango & Banane mit Joghurt..., 85 g"
+      },
+      "trackingData": {
+        "brand": "Holle",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 20
+      }
+    }
+  },
+  {
+    "gtin": 4251099705833,
+    "dan": 1631295,
+    "brandName": "Alete",
+    "title": "Joghurt und Erdbeere ab dem 10. Monat, 4x100g, 0,4 kg",
+    "tileData": {
+      "a11yLabel": "Marke: Alete; Produktname: Joghurt und Erdbeere ab dem 10. Monat, 4x100g, 0,4 kg; Preis: 1,95 €; Grundpreis: 0,4 kg (4,88 € je 1 kg)",
+      "brand": {
+        "name": "Alete"
+      },
+      "dan": 1631295,
+      "gtin": 4251099705833,
+      "images": [
+        {
+          "alt": "Joghurt und Erdbeere ab dem 10. Monat, 4x100g Alete",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776896250/assets/pas/images/58f972af-0635-4afa-966e-fe8363464f43/alete-joghurt-und-erdbeere-ab-dem-10-monat-4x100g"
+        },
+        {
+          "alt": "Joghurt und Erdbeere ab dem 10. Monat, 4x100g Alete",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747778405/assets/pas/images/ac421a15-86a7-48ab-aa49-708fac426e73/alete-joghurt-und-erdbeere-ab-dem-10-monat-4x100g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/1631295/alete-joghurt-und-erdbeere-ab-dem-10-monat-4x100g",
+      "title": {
+        "tileHeadline": "Joghurt und Erdbeere ab dem 10. Monat, 4x100g, 0,4 kg",
+        "tileHeadlineLong": "Joghurt und Erdbeere ab dem 10. Monat, 4x100g, 0,4 kg"
+      },
+      "trackingData": {
+        "brand": "Alete",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 4262367681629,
+    "dan": 1404218,
+    "brandName": "Freche Freunde",
+    "title": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate, 100 g; Preis: 0,95 €; Grundpreis: 0,1 kg (9,50 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 1404218,
+      "gtin": 4262367681629,
+      "images": [
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755120835/assets/pas/images/6187fb58-1e36-4dd1-8198-94ceb9d7cc41/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755120851/assets/pas/images/e7c0b6c3-eb05-4fcc-8088-e5042c383b20/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495163/assets/pas/images/0aac571b-26f2-434e-8566-3f7b81a3806e/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494908/assets/pas/images/1b7dde02-a6fe-45c6-bcf4-7285ec5b1d53/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495168/assets/pas/images/03f001ef-2479-41c5-aa2b-5aa11b367c75/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495206/assets/pas/images/0f0a46da-c67d-424d-9e0b-0a926701561a/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495271/assets/pas/images/b109ad03-8023-459c-919b-3462157a5966/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495170/assets/pas/images/95b51da5-7c2c-4fd8-88f0-f9db86f8120e/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495209/assets/pas/images/a0cb9f00-cfa3-4a19-9bf1-a03b569d2160/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755120846/assets/pas/images/2cbbfa55-93d7-45d4-a868-2e5ccae71589/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495276/assets/pas/images/e2110926-29f7-482f-95cf-7a99fec2f760/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        },
+        {
+          "alt": "Quetschie Joghurt, Banane, Erdbeere, Apfel & Himbeere, ​ab 10 Monate Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495208/assets/pas/images/8f9fe92c-5d36-4c79-94d6-bef796a4dc68/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (8,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (9,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 55,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/1404218/freche-freunde-quetschie-joghurt-banane-erdbeere-apfel-und-himbeere-ab-10-monate",
+      "title": {
+        "tileHeadline": "Quetschie Joghurt, Banane, Erdbeere, Apfel &..., 100 g",
+        "tileHeadlineLong": "Quetschie Joghurt, Banane, Erdbeere, Apfel &..., 100 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 55
+      }
+    }
+  },
+  {
+    "gtin": 4062300432123,
+    "dan": 1690783,
+    "brandName": "HiPP",
+    "title": "Quetschie Pfirsich Banane Mango mit Joghurt, ab 1 Jahr, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Quetschie Pfirsich Banane Mango mit Joghurt, ab 1 Jahr, 100 g; Rechtliche Kategorie: Beikost; Preis: 1,05 €; Grundpreis: 0,1 kg (10,50 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1690783,
+      "gtin": 4062300432123,
+      "images": [
+        {
+          "alt": "Quetschie Pfirsich Banane Mango mit Joghurt, ab 1 Jahr HiPP",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474252/assets/pas/images/beb5a3f1-f4fb-40d5-94b3-91d816ba332e/hipp-quetschie-pfirsich-banane-mango-mit-joghurt-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,98 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (9,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (10,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.8167
+      },
+      "self": "/p/d/1690783/hipp-quetschie-pfirsich-banane-mango-mit-joghurt-ab-1-jahr",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Quetschie Pfirsich Banane Mango mit Joghurt, ab 1..., 100 g",
+        "tileHeadlineLong": "Quetschie Pfirsich Banane Mango mit Joghurt, ab 1..., 100 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.05
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8167,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 4018852036050,
+    "dan": 1032239,
+    "brandName": "Bebivita",
+    "title": "Frucht & Joghurt Apfel-Banane Quark, ab dem 10. Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bebivita; Produktname: Frucht & Joghurt Apfel-Banane Quark, ab dem 10. Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,05 €; Grundpreis: 0,19 kg (5,53 € je 1 kg)",
+      "brand": {
+        "name": "Bebivita"
+      },
+      "dan": 1032239,
+      "gtin": 4018852036050,
+      "images": [
+        {
+          "alt": "Frucht & Joghurt Apfel-Banane Quark, ab dem 10. Monat Bebivita",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442698/assets/pas/images/0461a24f-7c0a-4092-9ec8-126af253b548/bebivita-frucht-und-joghurt-apfel-banane-quark-ab-dem-10-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,98 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (5,17 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (5,53 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.8429
+      },
+      "self": "/p/d/1032239/bebivita-frucht-und-joghurt-apfel-banane-quark-ab-dem-10-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Joghurt Apfel-Banane Quark, ab dem 10...., 190 g",
+        "tileHeadlineLong": "Frucht & Joghurt Apfel-Banane Quark, ab dem 10...., 190 g"
+      },
+      "trackingData": {
+        "brand": "Bebivita",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.05
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8429,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4018852036173,
+    "dan": 1169834,
+    "brandName": "Bebivita",
+    "title": "Frucht & Joghurt Erdbeere in Apfel, ab dem 10. Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bebivita; Produktname: Frucht & Joghurt Erdbeere in Apfel, ab dem 10. Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,05 €; Grundpreis: 0,19 kg (5,53 € je 1 kg)",
+      "brand": {
+        "name": "Bebivita"
+      },
+      "dan": 1169834,
+      "gtin": 4018852036173,
+      "images": [
+        {
+          "alt": "Frucht & Joghurt Erdbeere in Apfel, ab dem 10. Monat Bebivita",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442443/assets/pas/images/0e6b8a24-f795-4ff7-b2b6-2b44d865725e/bebivita-frucht-und-joghurt-erdbeere-in-apfel-ab-dem-10-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,98 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (5,17 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (5,53 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 4.7162
+      },
+      "self": "/p/d/1169834/bebivita-frucht-und-joghurt-erdbeere-in-apfel-ab-dem-10-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Joghurt Erdbeere in Apfel, ab dem 10...., 190 g",
+        "tileHeadlineLong": "Frucht & Joghurt Erdbeere in Apfel, ab dem 10...., 190 g"
+      },
+      "trackingData": {
+        "brand": "Bebivita",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.05
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7162,
+        "ratingCount": 74
+      }
+    }
+  },
+  {
+    "gtin": 4062300262652,
+    "dan": 1169831,
+    "brandName": "HiPP",
+    "title": "Frucht & Joghurt Guten Morgen Erdbeere in Apfel Müsli ab dem 10. Monat, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Frucht & Joghurt Guten Morgen Erdbeere in Apfel Müsli ab dem 10. Monat, 160 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,16 kg (7,19 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1169831,
+      "gtin": 4062300262652,
+      "images": [
+        {
+          "alt": "Frucht & Joghurt Guten Morgen Erdbeere in Apfel Müsli ab dem 10. Monat HiPP",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473770/assets/pas/images/c2910c2a-ba4d-44bd-8629-fd6f187df941/hipp-frucht-und-joghurt-guten-morgen-erdbeere-in-apfel-muesli-ab-dem-10-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (6,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (7,19 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/1169831/hipp-frucht-und-joghurt-guten-morgen-erdbeere-in-apfel-muesli-ab-dem-10-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Joghurt Guten Morgen Erdbeere in Apfel..., 160 g",
+        "tileHeadlineLong": "Frucht & Joghurt Guten Morgen Erdbeere in Apfel..., 160 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4062300379503,
+    "dan": 1200814,
+    "brandName": "HiPP",
+    "title": "Frucht & Joghurt Pfirsich-Aprikose mit Quark-Creme, ab dem 10.Monat, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Frucht & Joghurt Pfirsich-Aprikose mit Quark-Creme, ab dem 10.Monat, 160 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,16 kg (7,19 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1200814,
+      "gtin": 4062300379503,
+      "images": [
+        {
+          "alt": "Frucht & Joghurt Pfirsich-Aprikose mit Quark-Creme, ab dem 10.Monat HiPP",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474050/assets/pas/images/3ae20674-9a7c-4f96-8f5f-ade81800d48b/hipp-frucht-und-joghurt-pfirsich-aprikose-mit-quark-creme-ab-dem-10-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (6,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (7,19 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 79,
+        "ratingValue": 4.8354
+      },
+      "self": "/p/d/1200814/hipp-frucht-und-joghurt-pfirsich-aprikose-mit-quark-creme-ab-dem-10-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Joghurt Pfirsich-Aprikose mit..., 160 g",
+        "tileHeadlineLong": "Frucht & Joghurt Pfirsich-Aprikose mit..., 160 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8354,
+        "ratingCount": 79
+      }
+    }
+  },
+  {
+    "gtin": 4062300379657,
+    "dan": 1510513,
+    "brandName": "HiPP",
+    "title": "Frucht & Joghurt Blaubeere in Apfel-Joghurt-Müsli, ab dem 10.Monat, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Frucht & Joghurt Blaubeere in Apfel-Joghurt-Müsli, ab dem 10.Monat, 160 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,16 kg (7,19 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1510513,
+      "gtin": 4062300379657,
+      "images": [
+        {
+          "alt": "Frucht & Joghurt Blaubeere in Apfel-Joghurt-Müsli, ab dem 10.Monat HiPP",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474054/assets/pas/images/226d5d98-3d20-4857-8a64-371a67816b01/hipp-frucht-und-joghurt-blaubeere-in-apfel-joghurt-muesli-ab-dem-10-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (6,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (7,19 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 79,
+        "ratingValue": 4.6329
+      },
+      "self": "/p/d/1510513/hipp-frucht-und-joghurt-blaubeere-in-apfel-joghurt-muesli-ab-dem-10-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Joghurt Blaubeere in..., 160 g",
+        "tileHeadlineLong": "Frucht & Joghurt Blaubeere in..., 160 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6329,
+        "ratingCount": 79
+      }
+    }
+  },
+  {
+    "gtin": 4062300262683,
+    "dan": 1169838,
+    "brandName": "HiPP",
+    "title": "Frucht & Joghurt Müsli Guten Morgen ab dem 10. Monat, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Frucht & Joghurt Müsli Guten Morgen ab dem 10. Monat, 160 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,16 kg (7,19 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1169838,
+      "gtin": 4062300262683,
+      "images": [
+        {
+          "alt": "Frucht & Joghurt Müsli Guten Morgen ab dem 10. Monat HiPP",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473765/assets/pas/images/ff935c5a-0b31-4cb5-a1b0-3a8cdd1ba694/hipp-frucht-und-joghurt-muesli-guten-morgen-ab-dem-10-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (6,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (7,19 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.8026
+      },
+      "self": "/p/d/1169838/hipp-frucht-und-joghurt-muesli-guten-morgen-ab-dem-10-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Joghurt Müsli Guten Morgen ab dem 10...., 160 g",
+        "tileHeadlineLong": "Frucht & Joghurt Müsli Guten Morgen ab dem 10...., 160 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8026,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4066447319576,
+    "dan": 1378995,
+    "brandName": "Sportness",
+    "title": "Energieriegel, Himbeere Joghurt Geschmack, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Energieriegel, Himbeere Joghurt Geschmack, 35 g; Preis: 0,50 €; Grundpreis: 0,035 kg (14,29 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1378995,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447319576,
+      "images": [
+        {
+          "alt": "Energieriegel, Himbeere Joghurt Geschmack Sportness",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747479774/assets/pas/images/6d49387f-e83e-49a1-ba8d-11f1dab9f81c/sportness-energieriegel-himbeere-joghurt-geschmack"
+        },
+        {
+          "alt": "Energieriegel, Himbeere Joghurt Geschmack Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747479774/assets/pas/images/b7b5d420-b733-437c-8d5f-280892710afa/sportness-energieriegel-himbeere-joghurt-geschmack"
+        },
+        {
+          "alt": "Energieriegel, Himbeere Joghurt Geschmack Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747479946/assets/pas/images/435255ae-e920-4555-b667-400838ca1e62/sportness-energieriegel-himbeere-joghurt-geschmack"
+        },
+        {
+          "alt": "Energieriegel, Himbeere Joghurt Geschmack Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747479882/assets/pas/images/27f2d072-58da-482a-a706-f746a7e380c9/sportness-energieriegel-himbeere-joghurt-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (13,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (14,29 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 111,
+        "ratingValue": 4.5225
+      },
+      "self": "/p/d/1378995/sportness-energieriegel-himbeere-joghurt-geschmack",
+      "title": {
+        "tileHeadline": "Energieriegel, Himbeere Joghurt Geschmack, 35 g",
+        "tileHeadlineLong": "Energieriegel, Himbeere Joghurt Geschmack, 35 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Energie-Produkte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.5
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5225,
+        "ratingCount": 111
+      }
+    }
+  },
+  {
+    "gtin": 4067796194159,
+    "dan": 1488265,
+    "brandName": "dmBio",
+    "title": "Schokoriegel, Vollmilch Himbeer Joghurt, 37,5 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokoriegel, Vollmilch Himbeer Joghurt, 37,5 g; Preis: 0,85 €; Grundpreis: 0,0375 kg (22,67 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1488265,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796194159,
+      "images": [
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488474/assets/pas/images/c571dcfe-ccc2-4d6a-8bc1-32e74f36eca5/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488684/assets/pas/images/038ce2b8-7f17-4896-b9f6-56fe52cfa05f/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488659/assets/pas/images/aec612d5-5ccb-459c-9419-9baba887b544/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488381/assets/pas/images/63b587e2-b7a0-4b50-8424-0c4775184c1a/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488478/assets/pas/images/87cfdcf7-0b32-4084-86ba-ebc5a9e123b4/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,0375 kg (21,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,0375 kg (22,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.3525
+      },
+      "self": "/p/d/1488265/dmbio-schokoriegel-vollmilch-himbeer-joghurt",
+      "title": {
+        "tileHeadline": "Schokoriegel, Vollmilch Himbeer Joghurt, 37,5 g",
+        "tileHeadlineLong": "Schokoriegel, Vollmilch Himbeer Joghurt, 37,5 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3525,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 4070765055252,
+    "dan": 1513475,
+    "brandName": "dmBio",
+    "title": "Reiswaffeln, Joghurt, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reiswaffeln, Joghurt, 100 g; Preis: 1,55 €; Grundpreis: 0,1 kg (15,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1513475,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765055252,
+      "images": [
+        {
+          "alt": "Reiswaffeln, Joghurt dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237917/assets/pas/images/2bc38edd-6383-477c-8769-6d6601070f77/dmbio-reiswaffeln-joghurt"
+        },
+        {
+          "alt": "Reiswaffeln, Joghurt dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237921/assets/pas/images/f0735983-1cf8-448b-8156-b20cade7f223/dmbio-reiswaffeln-joghurt"
+        },
+        {
+          "alt": "Reiswaffeln, Joghurt dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237926/assets/pas/images/4b1939f5-7e44-4efa-b10a-83bdd84c4647/dmbio-reiswaffeln-joghurt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (14,49 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (15,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 174,
+        "ratingValue": 4.477
+      },
+      "self": "/p/d/1513475/dmbio-reiswaffeln-joghurt",
+      "title": {
+        "tileHeadline": "Reiswaffeln, Joghurt, 100 g",
+        "tileHeadlineLong": "Reiswaffeln, Joghurt, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.477,
+        "ratingCount": 174
+      }
+    }
+  },
+  {
+    "gtin": 4251099609612,
+    "dan": 1477013,
+    "brandName": "Alete",
+    "title": "Abendbrei Grieß Vanille ab dem 10. Monat, 4x100g, 0,4 kg",
+    "tileData": {
+      "a11yLabel": "Marke: Alete; Produktname: Abendbrei Grieß Vanille ab dem 10. Monat, 4x100g, 0,4 kg; Rechtliche Kategorie: Beikost; Preis: 1,95 €; Grundpreis: 0,4 kg (4,88 € je 1 kg)",
+      "brand": {
+        "name": "Alete"
+      },
+      "dan": 1477013,
+      "gtin": 4251099609612,
+      "images": [
+        {
+          "alt": "Abendbrei Grieß Vanille ab dem 10. Monat, 4x100g Alete",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490494/assets/pas/images/6fc535a3-b9ef-4d4d-9014-de20f2ad35a4/alete-abendbrei-griess-vanille-ab-dem-10-monat-4x100g"
+        },
+        {
+          "alt": "Abendbrei Grieß Vanille ab dem 10. Monat, 4x100g Alete",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776899534/assets/pas/images/5eb065c7-08cf-4a7c-98e1-7808a2044b7e/alete-abendbrei-griess-vanille-ab-dem-10-monat-4x100g"
+        },
+        {
+          "alt": "Abendbrei Grieß Vanille ab dem 10. Monat, 4x100g Alete",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748043055/assets/pas/images/2d23b5b1-a383-41df-8b7b-c2b844ea1aa6/alete-abendbrei-griess-vanille-ab-dem-10-monat-4x100g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 91,
+        "ratingValue": 4.2637
+      },
+      "self": "/p/d/1477013/alete-abendbrei-griess-vanille-ab-dem-10-monat-4x100g",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Abendbrei Grieß Vanille ab dem 10. Monat, 4x100g, 0,4 kg",
+        "tileHeadlineLong": "Abendbrei Grieß Vanille ab dem 10. Monat, 4x100g, 0,4 kg"
+      },
+      "trackingData": {
+        "brand": "Alete",
+        "categories": [
+          "Babybrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2637,
+        "ratingCount": 91
+      }
+    }
+  },
+  {
+    "gtin": 4018852036302,
+    "dan": 1218834,
+    "brandName": "Bebivita",
+    "title": "Frucht & Getreide Frühstücksmüsli Apfel-Pfirsch, ab dem 10.Monat, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bebivita; Produktname: Frucht & Getreide Frühstücksmüsli Apfel-Pfirsch, ab dem 10.Monat, 160 g; Rechtliche Kategorie: Beikost; Preis: 1,05 €; Grundpreis: 0,16 kg (6,56 € je 1 kg)",
+      "brand": {
+        "name": "Bebivita"
+      },
+      "dan": 1218834,
+      "gtin": 4018852036302,
+      "images": [
+        {
+          "alt": "Frucht & Getreide Frühstücksmüsli Apfel-Pfirsch, ab dem 10.Monat Bebivita",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442420/assets/pas/images/9236d8a3-ffd7-4a99-ace1-1d32266f6dbd/bebivita-frucht-und-getreide-fruehstuecksmuesli-apfel-pfirsch-ab-dem-10-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,98 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (6,13 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (6,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 71,
+        "ratingValue": 4.5211
+      },
+      "self": "/p/d/1218834/bebivita-frucht-und-getreide-fruehstuecksmuesli-apfel-pfirsch-ab-dem-10-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Getreide Frühstücksmüsli Apfel-Pfirsch,..., 160 g",
+        "tileHeadlineLong": "Frucht & Getreide Frühstücksmüsli Apfel-Pfirsch,..., 160 g"
+      },
+      "trackingData": {
+        "brand": "Bebivita",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.05
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5211,
+        "ratingCount": 71
+      }
+    }
+  },
+  {
+    "gtin": 4067796214765,
+    "dan": 3097050,
+    "brandName": "dmBio",
+    "title": "Frucht & Getreide Apfel, Banane, Mango Müsli in Kokos, ab dem 6. Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Frucht & Getreide Apfel, Banane, Mango Müsli in Kokos, ab dem 6. Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 0,95 €; Grundpreis: 0,19 kg (5,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3097050,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796214765,
+      "images": [
+        {
+          "alt": "Frucht & Getreide Apfel, Banane, Mango Müsli in Kokos, ab dem 6. Monat dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001359/assets/pas/images/70a41c7e-1fc8-457b-be0d-f715cb0e7937/dmbio-frucht-und-getreide-apfel-banane-mango-muesli-in-kokos-ab-dem-6-monat"
+        },
+        {
+          "alt": "Frucht & Getreide Apfel, Banane, Mango Müsli in Kokos, ab dem 6. Monat dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001353/assets/pas/images/b4785854-5a4b-4cc8-b0c9-9e1430d98012/dmbio-frucht-und-getreide-apfel-banane-mango-muesli-in-kokos-ab-dem-6-monat"
+        },
+        {
+          "alt": "Frucht & Getreide Apfel, Banane, Mango Müsli in Kokos, ab dem 6. Monat dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001364/assets/pas/images/b5f75875-e14e-4dc8-9f3f-1b56b03da70c/dmbio-frucht-und-getreide-apfel-banane-mango-muesli-in-kokos-ab-dem-6-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (4,67 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (5,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 48,
+        "ratingValue": 4.9167
+      },
+      "self": "/p/d/3097050/dmbio-frucht-und-getreide-apfel-banane-mango-muesli-in-kokos-ab-dem-6-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Getreide Apfel, Banane, Mango Müsli in..., 190 g",
+        "tileHeadlineLong": "Frucht & Getreide Apfel, Banane, Mango Müsli in..., 190 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9167,
+        "ratingCount": 48
+      }
+    }
+  },
+  {
+    "gtin": 4067796000245,
+    "dan": 1588701,
+    "brandName": "dmBio",
+    "title": "Müsli Crunchy, Dinkel, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Müsli Crunchy, Dinkel, 500 g; Preis: 2,45 €; Grundpreis: 0,5 kg (4,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1588701,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796000245,
+      "images": [
+        {
+          "alt": "Müsli Crunchy, Dinkel dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486636/assets/pas/images/6950f91b-59de-4023-85f4-9dd5ab8995b5/dmbio-muesli-crunchy-dinkel"
+        },
+        {
+          "alt": "Müsli Crunchy, Dinkel dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486636/assets/pas/images/67c72f15-77ad-456a-957c-86a1dd2a3942/dmbio-muesli-crunchy-dinkel"
+        },
+        {
+          "alt": "Müsli Crunchy, Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486714/assets/pas/images/ed0a61d1-c143-4ae9-8669-58108277719b/dmbio-muesli-crunchy-dinkel"
+        },
+        {
+          "alt": "Müsli Crunchy, Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486713/assets/pas/images/5caf5d11-7347-4806-9005-da6c0fd27886/dmbio-muesli-crunchy-dinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 219,
+        "ratingValue": 4.4977
+      },
+      "self": "/p/d/1588701/dmbio-muesli-crunchy-dinkel",
+      "title": {
+        "tileHeadline": "Müsli Crunchy, Dinkel, 500 g",
+        "tileHeadlineLong": "Müsli Crunchy, Dinkel, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4977,
+        "ratingCount": 219
+      }
+    }
+  },
+  {
+    "gtin": 4058172991745,
+    "dan": 1442769,
+    "brandName": "dmBio",
+    "title": "Chiasamen, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Chiasamen, 300 g; Preis: 1,85 €; Grundpreis: 0,3 kg (6,17 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1442769,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172991745,
+      "images": [
+        {
+          "alt": "Chiasamen dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747457328/assets/pas/images/63e31800-ba15-429d-8582-16bcab3f1e52/dmbio-chiasamen"
+        },
+        {
+          "alt": "Chiasamen dmBio",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747457232/assets/pas/images/2bddbfa1-c39d-4e3b-87ae-565d65e279ad/dmbio-chiasamen"
+        },
+        {
+          "alt": "Chiasamen dmBio",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747457325/assets/pas/images/72d00c1b-f97d-4a1e-a9d9-0f98267eee0b/dmbio-chiasamen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (5,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (6,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 309,
+        "ratingValue": 4.6408
+      },
+      "self": "/p/d/1442769/dmbio-chiasamen",
+      "title": {
+        "tileHeadline": "Chiasamen, 300 g",
+        "tileHeadlineLong": "Chiasamen, 300 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Saaten & Körner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6408,
+        "ratingCount": 309
+      }
+    }
+  },
+  {
+    "gtin": 4067796149012,
+    "dan": 1440256,
+    "brandName": "dmBio",
+    "title": "Quinoa, gepufft, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Quinoa, gepufft, 125 g; Preis: 1,75 €; Grundpreis: 0,125 kg (14,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1440256,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796149012,
+      "images": [
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488058/assets/pas/images/21e223c2-07ee-4cf7-8a6c-92ccada751cb/dmbio-quinoa-gepufft"
+        },
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488057/assets/pas/images/de7e6b05-4ca7-41ca-baa0-603b686b5db9/dmbio-quinoa-gepufft"
+        },
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761042325/assets/pas/images/86a419a3-1f08-44d8-b6da-e4b9c9e2a6aa/dmbio-quinoa-gepufft"
+        },
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488058/assets/pas/images/ffbc4b4f-bf4a-4549-8d45-d759c3200e79/dmbio-quinoa-gepufft"
+        },
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488058/assets/pas/images/cfb1de4c-fb38-4613-9bab-a56d2924432c/dmbio-quinoa-gepufft"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (13,08 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (14,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 111,
+        "ratingValue": 4.6847
+      },
+      "self": "/p/d/1440256/dmbio-quinoa-gepufft",
+      "title": {
+        "tileHeadline": "Quinoa, gepufft, 125 g",
+        "tileHeadlineLong": "Quinoa, gepufft, 125 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Getreide"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6847,
+        "ratingCount": 111
+      }
+    }
+  },
+  {
+    "gtin": 4067796000306,
+    "dan": 1588699,
+    "brandName": "dmBio",
+    "title": "Müsli Crunchy, Schoko, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Müsli Crunchy, Schoko, 500 g; Preis: 2,35 €; Grundpreis: 0,5 kg (4,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1588699,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796000306,
+      "images": [
+        {
+          "alt": "Müsli Crunchy, Schoko dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486714/assets/pas/images/9300195c-5292-4874-a283-ac60718c05e8/dmbio-muesli-crunchy-schoko"
+        },
+        {
+          "alt": "Müsli Crunchy, Schoko dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774589552/assets/pas/images/9805b091-9bb5-42f6-a266-4ef0a7cb8b4e/dmbio-muesli-crunchy-schoko"
+        },
+        {
+          "alt": "Müsli Crunchy, Schoko dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486886/assets/pas/images/c058413a-320c-45c2-ad34-e2ea7f336301/dmbio-muesli-crunchy-schoko"
+        },
+        {
+          "alt": "Müsli Crunchy, Schoko dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486715/assets/pas/images/318a8d05-5b10-4701-8a4e-0b94b3cdb8e0/dmbio-muesli-crunchy-schoko"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,39 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 229,
+        "ratingValue": 4.5764
+      },
+      "self": "/p/d/1588699/dmbio-muesli-crunchy-schoko",
+      "title": {
+        "tileHeadline": "Müsli Crunchy, Schoko, 500 g",
+        "tileHeadlineLong": "Müsli Crunchy, Schoko, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5764,
+        "ratingCount": 229
+      }
+    }
+  }
+]

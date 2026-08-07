@@ -1,0 +1,2698 @@
+[
+  {
+    "gtin": 4066447855722,
+    "dan": 1621769,
+    "brandName": "dmBio",
+    "title": "Erfrischungsgetränk, Zitronen-Limonade, 430 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erfrischungsgetränk, Zitronen-Limonade, 430 ml EINWEG; Preis: 1,25 €; Grundpreis: 0,43 l (2,91 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1621769,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447855722,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Zitronen-Limonade dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753401359/assets/pas/images/d082d654-8f08-4cbd-9a0d-0d8b79fa4ab2/dmbio-erfrischungsgetraenk-zitronen-limonade"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Zitronen-Limonade dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753401367/assets/pas/images/107be5b6-956b-4d3b-a4fb-72c2cf7bb72b/dmbio-erfrischungsgetraenk-zitronen-limonade"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Zitronen-Limonade dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753401373/assets/pas/images/cce44548-ec2e-40b6-9d76-ad05fe4e2fdd/dmbio-erfrischungsgetraenk-zitronen-limonade"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 120,
+        "ratingValue": 4.35
+      },
+      "self": "/p/d/1621769/dmbio-erfrischungsgetraenk-zitronen-limonade",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Zitronen-Limonade, 430 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Zitronen-Limonade, 430 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.35,
+        "ratingCount": 120
+      }
+    }
+  },
+  {
+    "gtin": 4066447855692,
+    "dan": 1621777,
+    "brandName": "dmBio",
+    "title": "Erfrischungsgetränk, Cranberry-Limonade, 430 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erfrischungsgetränk, Cranberry-Limonade, 430 ml EINWEG; Preis: 1,25 €; Grundpreis: 0,43 l (2,91 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1621777,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447855692,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Cranberry-Limonade dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753399663/assets/pas/images/199838fc-c5df-4c42-80e2-e2e1322ab8ed/dmbio-erfrischungsgetraenk-cranberry-limonade"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Cranberry-Limonade dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753399647/assets/pas/images/c1774560-5bb3-43a2-97b4-f333dfda259c/dmbio-erfrischungsgetraenk-cranberry-limonade"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Cranberry-Limonade dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753399654/assets/pas/images/bbc46ce2-6618-4c53-be5b-e4f3cbf252a8/dmbio-erfrischungsgetraenk-cranberry-limonade"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.1579
+      },
+      "self": "/p/d/1621777/dmbio-erfrischungsgetraenk-cranberry-limonade",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Cranberry-Limonade, 430 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Cranberry-Limonade, 430 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1579,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4070765052985,
+    "dan": 3120517,
+    "brandName": "dmBio",
+    "title": "Grapefruit Mandarinen Limonade, 430 ml EINWEG",
+    "tileData": {
+      "dan": 3120517,
+      "gtin": 4070765052985,
+      "self": "/p/d/3120517/dmbio-grapefruit-mandarinen-limonade",
+      "brand": {
+        "name": "dmBio"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,91 € je 1 l)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Grapefruit Mandarinen Limonade, 430 ml EINWEG",
+        "tileHeadlineLong": "Grapefruit Mandarinen Limonade, 430 ml EINWEG"
+      },
+      "images": [
+        {
+          "alt": "Grapefruit Mandarinen Limonade dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784087650/assets/pas/images/e81ceb0d-39fe-46f7-92e4-e5bcfde7855b/dmbio-grapefruit-mandarinen-limonade",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F5F1"
+        },
+        {
+          "alt": "Grapefruit Mandarinen Limonade dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784087658/assets/pas/images/7c31a3d1-7273-4712-9ec7-a6a267fe51b6/dmbio-grapefruit-mandarinen-limonade",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F5F9"
+        },
+        {
+          "alt": "Grapefruit Mandarinen Limonade dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784087647/assets/pas/images/e0e369dc-71df-41e3-9868-216ea9b33f97/dmbio-grapefruit-mandarinen-limonade",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F4F1"
+        },
+        {
+          "alt": "Grapefruit Mandarinen Limonade dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784087654/assets/pas/images/72eb1e69-267f-46ee-85ba-3109e5f01a08/dmbio-grapefruit-mandarinen-limonade",
+          "isAiGenerated": false,
+          "backgroundColor": "#F3F9F1"
+        }
+      ],
+      "rating": {
+        "ratingCount": 0,
+        "ratingValue": 0
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,45 € je 1 l)"
+        ]
+      },
+      "a11yLabel": "Marke: dmBio; Produktname: Grapefruit Mandarinen Limonade, 430 ml EINWEG; Preis: 1,25 €; Grundpreis: 0,43 l (2,91 € je 1 l); Limitierte Editition Grafik, Marke von dm Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "dmBio",
+        "price": 1.25,
+        "currency": "EUR",
+        "categories": [
+          "Erfrischung"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {}
+    }
+  },
+  {
+    "gtin": 30095106,
+    "dan": 1338256,
+    "brandName": "essie",
+    "title": "Nagellack 08 Limo-Scene, 13,5 ml",
+    "tileData": {
+      "a11yLabel": "Marke: essie; Produktname: Nagellack 08 Limo-Scene, 13,5 ml; Preis: 8,45 €; Grundpreis: 0,0135 l (625,93 € je 1 l)",
+      "brand": {
+        "name": "essie"
+      },
+      "dan": 1338256,
+      "gtin": 30095106,
+      "images": [
+        {
+          "alt": "Nagellack 08 Limo-Scene  essie",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771938521/assets/pas/images/a27ce69a-00ef-4ce7-ace8-efb1ff77f1e6/essie-nagellack-08-limo-scene"
+        },
+        {
+          "alt": "Nagellack 08 Limo-Scene  essie",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772240403/assets/pas/images/04cc7501-3457-4d50-b83d-2cd7ba3b7dd6/essie-nagellack-08-limo-scene"
+        },
+        {
+          "alt": "Nagellack 08 Limo-Scene  essie",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772240389/assets/pas/images/990c40d7-00e2-486a-8f20-e8aa1df730ef/essie-nagellack-08-limo-scene"
+        },
+        {
+          "alt": "Nagellack 08 Limo-Scene  essie",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772240435/assets/pas/images/bc1a01d9-3307-409d-af42-1c5d8f18a666/essie-nagellack-08-limo-scene"
+        },
+        {
+          "alt": "Nagellack 08 Limo-Scene  essie",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772240446/assets/pas/images/b1c40ef3-3d22-4fb0-8b02-593eed31ec1f/essie-nagellack-08-limo-scene"
+        },
+        {
+          "alt": "Nagellack 08 Limo-Scene  essie",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772240422/assets/pas/images/201fcea8-199a-48b9-b916-c07f3b5fbe5a/essie-nagellack-08-limo-scene"
+        },
+        {
+          "alt": "Nagellack 08 Limo-Scene  essie",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772240410/assets/pas/images/f4a9e14c-583b-4fc8-b7e8-3511e7d39a43/essie-nagellack-08-limo-scene"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,0135 l (525,99 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,0135 l (625,93 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 269,
+        "ratingValue": 4.4275
+      },
+      "self": "/p/d/1338256/essie-nagellack-08-limo-scene",
+      "title": {
+        "tileHeadline": "Nagellack 08 Limo-Scene, 13,5 ml",
+        "tileHeadlineLong": "Nagellack 08 Limo-Scene, 13,5 ml"
+      },
+      "trackingData": {
+        "brand": "essie",
+        "categories": [
+          "Nagellack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+12 weitere Varianten",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 1338256,
+            "gtin": 30095106,
+            "hex": "#feeae8",
+            "href": "/p/d/1338256/essie-nagellack-08-limo-scene",
+            "isSelected": true,
+            "tooltip": "8 limo scene"
+          },
+          {
+            "dan": 1712805,
+            "gtin": 30152267,
+            "hex": "#3D120C",
+            "href": "/p/d/1712805/essie-nagellack-953-odd-squad-braun",
+            "isSelected": false,
+            "tooltip": "odd squad"
+          },
+          {
+            "dan": 1678228,
+            "gtin": 30144798,
+            "hex": "#4a272a",
+            "href": "/p/d/1678228/essie-nagellack-897-no-to-do-braun",
+            "isSelected": false,
+            "tooltip": "NO TO-DO"
+          },
+          {
+            "dan": 3077971,
+            "gtin": 30189614,
+            "hex": "#5C271A",
+            "href": "/p/d/3077971/essie-nagellack-1011-save-a-cowboy",
+            "isSelected": false,
+            "tooltip": "save a cowboy"
+          },
+          {
+            "dan": 3078252,
+            "gtin": 30189621,
+            "hex": "#6E2D1B",
+            "href": "/p/d/3078252/essie-nagellack-1012-boho-rodeo",
+            "isSelected": false,
+            "tooltip": "boho rodeo"
+          },
+          {
+            "dan": 3063290,
+            "gtin": 30144606,
+            "hex": "#734A50",
+            "href": "/p/d/3063290/essie-nagellack-958-mismatch-to-match",
+            "isSelected": false,
+            "tooltip": "mismatch to match"
+          },
+          {
+            "dan": 2978518,
+            "gtin": 30189058,
+            "hex": "#352325",
+            "href": "/p/d/2978518/essie-nagellack-always-morphing-989-braun",
+            "isSelected": false,
+            "tooltip": "Nagellack Always Morphing 989 Braun "
+          },
+          {
+            "dan": 1522996,
+            "gtin": 30154421,
+            "hex": "#B45B5A",
+            "href": "/p/d/1522996/essie-nagellack-497-clothing-optional",
+            "isSelected": false,
+            "tooltip": "Clothing opt HERO"
+          },
+          {
+            "dan": 1538167,
+            "gtin": 30167476,
+            "hex": "#E9C7BA",
+            "href": "/p/d/1538167/essie-nagellack-topless-und-121-barefoot",
+            "isSelected": false,
+            "tooltip": "Topless and barefoot"
+          },
+          {
+            "dan": 1338255,
+            "gtin": 30095083,
+            "hex": "#eed5d8",
+            "href": "/p/d/1338255/essie-nagellack-06-ballet-slippers-rose",
+            "isSelected": false,
+            "tooltip": "6 ballet slippers"
+          },
+          {
+            "dan": 1338238,
+            "gtin": 30095175,
+            "hex": "#ffd2d6",
+            "href": "/p/d/1338238/essie-nagellack-15-sugar-daddy",
+            "isSelected": false,
+            "tooltip": "15 sugar daddy"
+          },
+          {
+            "dan": 1338257,
+            "gtin": 30095113,
+            "hex": "#ffdcd9",
+            "href": "/p/d/1338257/essie-nagellack-09-vanity-fairest",
+            "isSelected": false,
+            "tooltip": "9 vanity fairest"
+          },
+          {
+            "dan": 1338241,
+            "gtin": 30095151,
+            "hex": "#ffeeec",
+            "href": "/p/d/1338241/essie-nagellack-13-mademoiselle-rose",
+            "isSelected": false,
+            "tooltip": "13 mademoiselle"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4275,
+        "ratingCount": 269
+      }
+    }
+  },
+  {
+    "gtin": 4066447855708,
+    "dan": 1621779,
+    "brandName": "dmBio",
+    "title": "Erfrischungsgetränk, Guarana-Cola, 430 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erfrischungsgetränk, Guarana-Cola, 430 ml EINWEG; Preis: 1,25 €; Grundpreis: 0,43 l (2,91 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1621779,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447855708,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Guarana-Cola dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757023776/assets/pas/images/27e8d93d-483a-4743-b5df-b1127f702782/dmbio-erfrischungsgetraenk-guarana-cola"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Guarana-Cola dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757023765/assets/pas/images/6ee58f4b-5a31-4a65-ab9c-fd1cd1cf19da/dmbio-erfrischungsgetraenk-guarana-cola"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Guarana-Cola dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757023773/assets/pas/images/e67717ed-bf1f-448c-a450-c62c7f0788ad/dmbio-erfrischungsgetraenk-guarana-cola"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 135,
+        "ratingValue": 3.6148
+      },
+      "self": "/p/d/1621779/dmbio-erfrischungsgetraenk-guarana-cola",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Guarana-Cola, 430 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Guarana-Cola, 430 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6148,
+        "ratingCount": 135
+      }
+    }
+  },
+  {
+    "gtin": 4066447855715,
+    "dan": 1458720,
+    "brandName": "dmBio",
+    "title": "Erfrischungsgetränk, Mate, 430 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erfrischungsgetränk, Mate, 430 ml EINWEG; Preis: 1,25 €; Grundpreis: 0,43 l (2,91 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1458720,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447855715,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Mate dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755100536/assets/pas/images/d23a2784-1419-4b29-b446-3fc660118e8d/dmbio-erfrischungsgetraenk-mate"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Mate dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755100538/assets/pas/images/6816199b-08a7-4c4d-a228-cb439d9a20b5/dmbio-erfrischungsgetraenk-mate"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Mate dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755100536/assets/pas/images/e19da66b-141e-47be-911e-612e7597920c/dmbio-erfrischungsgetraenk-mate"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 91,
+        "ratingValue": 4.0659
+      },
+      "self": "/p/d/1458720/dmbio-erfrischungsgetraenk-mate",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Mate, 430 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Mate, 430 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0659,
+        "ratingCount": 91
+      }
+    }
+  },
+  {
+    "gtin": 4070765042702,
+    "dan": 3070623,
+    "brandName": "dmBio",
+    "title": "Erfrischungsgetränk, Cola-Mix mit Guarana, 430 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erfrischungsgetränk, Cola-Mix mit Guarana, 430 ml EINWEG; Preis: 1,25 €; Grundpreis: 0,43 l (2,91 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3070623,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765042702,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Cola-Mix mit Guarana dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781407678/assets/pas/images/93795b62-1486-496b-8e2f-4a9743d490e6/dmbio-erfrischungsgetraenk-cola-mix-mit-guarana"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Cola-Mix mit Guarana dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781407675/assets/pas/images/9760e00e-d60e-4107-85ec-baa1bd890a58/dmbio-erfrischungsgetraenk-cola-mix-mit-guarana"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Cola-Mix mit Guarana dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781407681/assets/pas/images/a3a8a35f-5755-479e-8fc3-a11e5537d55e/dmbio-erfrischungsgetraenk-cola-mix-mit-guarana"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 2.8866
+      },
+      "self": "/p/d/3070623/dmbio-erfrischungsgetraenk-cola-mix-mit-guarana",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Cola-Mix mit Guarana, 430 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Cola-Mix mit Guarana, 430 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.8866,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 4260705333605,
+    "dan": 3131313,
+    "brandName": "SUPER POP",
+    "title": "Erfrischungsgetränk, Super Pop Pink Grapefruit-Kumquat, 0,33 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: SUPER POP; Produktname: Erfrischungsgetränk, Super Pop Pink Grapefruit-Kumquat, 0,33 l EINWEG; Preis: 1,55 €; Grundpreis: 0,33 l (4,70 € je 1 l)",
+      "brand": {
+        "name": "SUPER POP"
+      },
+      "dan": 3131313,
+      "gtin": 4260705333605,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Super Pop Pink Grapefruit-Kumquat SUPER POP",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778507855/assets/pas/images/17ca3d4a-13bd-47ec-ab50-ba48837f68d9/super-pop-erfrischungsgetraenk-super-pop-pink-grapefruit-kumquat"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Super Pop Pink Grapefruit-Kumquat SUPER POP",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773397523/assets/pas/images/9173ae07-2bb2-4ba6-a397-498f26f63d8d/super-pop-erfrischungsgetraenk-super-pop-pink-grapefruit-kumquat"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,30 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (3,95 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (4,70 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 269,
+        "ratingValue": 2.5167
+      },
+      "self": "/p/d/3131313/super-pop-erfrischungsgetraenk-super-pop-pink-grapefruit-kumquat",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Super Pop Pink..., 0,33 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Super Pop Pink..., 0,33 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "SUPER POP",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.5167,
+        "ratingCount": 269
+      }
+    }
+  },
+  {
+    "gtin": 4255719310452,
+    "dan": 3117745,
+    "brandName": "More Nutrition",
+    "title": "Proteinpulver, Clear Protein Green Apple Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Proteinpulver, Clear Protein Green Apple Geschmack, 300 g; Preis: 19,95 €; Grundpreis: 0,3 kg (66,50 € je 1 kg)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 3117745,
+      "gtin": 4255719310452,
+      "images": [
+        {
+          "alt": "Proteinpulver, Clear Protein Green Apple Geschmack More Nutrition",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773281695/assets/pas/images/24da7153-f0f0-4d45-b718-dfe76b4a2816/more-nutrition-proteinpulver-clear-protein-green-apple-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "18,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (62,15 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "19,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (66,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 22,
+        "ratingValue": 4.6364
+      },
+      "self": "/p/d/3117745/more-nutrition-proteinpulver-clear-protein-green-apple-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Clear Protein Green Apple Geschmack, 300 g",
+        "tileHeadlineLong": "Proteinpulver, Clear Protein Green Apple Geschmack, 300 g"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 19.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6364,
+        "ratingCount": 22
+      }
+    }
+  },
+  {
+    "gtin": 4255719314924,
+    "dan": 3119277,
+    "brandName": "More Nutrition",
+    "title": "Erfrischungsgetränk, Fizi White Peach, 330 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Erfrischungsgetränk, Fizi White Peach, 330 ml EINWEG; Preis: 1,95 €; Grundpreis: 0,33 l (5,91 € je 1 l)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 3119277,
+      "gtin": 4255719314924,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Fizi White Peach More Nutrition",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769731924/assets/pas/images/a24f6fbf-e125-4f33-a878-d10e5661c812/more-nutrition-erfrischungsgetraenk-fizi-white-peach"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (4,97 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (5,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 94,
+        "ratingValue": 3.5532
+      },
+      "self": "/p/d/3119277/more-nutrition-erfrischungsgetraenk-fizi-white-peach",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Fizi White Peach, 330 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Fizi White Peach, 330 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5532,
+        "ratingCount": 94
+      }
+    }
+  },
+  {
+    "gtin": 4255719314948,
+    "dan": 3119279,
+    "brandName": "More Nutrition",
+    "title": "Erfrischungsgetränk, Fizi Lemon Lime, 330 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Erfrischungsgetränk, Fizi Lemon Lime, 330 ml EINWEG; Preis: 1,95 €; Grundpreis: 0,33 l (5,91 € je 1 l)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 3119279,
+      "gtin": 4255719314948,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Fizi Lemon Lime More Nutrition",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769731286/assets/pas/images/19ffd366-4bb1-4ee3-be7e-200ba284d98e/more-nutrition-erfrischungsgetraenk-fizi-lemon-lime"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (4,97 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (5,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 3.3378
+      },
+      "self": "/p/d/3119279/more-nutrition-erfrischungsgetraenk-fizi-lemon-lime",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Fizi Lemon Lime, 330 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Fizi Lemon Lime, 330 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.3378,
+        "ratingCount": 74
+      }
+    }
+  },
+  {
+    "gtin": 4255719314931,
+    "dan": 3119236,
+    "brandName": "More Nutrition",
+    "title": "Erfrischungsgetränk, Fizi Orange, 330 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Erfrischungsgetränk, Fizi Orange, 330 ml EINWEG; Preis: 1,95 €; Grundpreis: 0,33 l (5,91 € je 1 l)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 3119236,
+      "gtin": 4255719314931,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Fizi Orange More Nutrition",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769731931/assets/pas/images/4e63fa6c-0666-4b3c-b9d2-bb0125600168/more-nutrition-erfrischungsgetraenk-fizi-orange"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (4,97 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (5,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 3.4706
+      },
+      "self": "/p/d/3119236/more-nutrition-erfrischungsgetraenk-fizi-orange",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Fizi Orange, 330 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Fizi Orange, 330 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.4706,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4260644046130,
+    "dan": 1426142,
+    "brandName": "More Nutrition",
+    "title": "Sirup Peach Iced Tea Geschmack, vegan, 65 ml",
+    "tileData": {
+      "dan": 1426142,
+      "gtin": 4260644046130,
+      "self": "/p/d/1426142/more-nutrition-sirup-peach-iced-tea-geschmack-vegan",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "5,65 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,065 l (86,92 € je 1 l)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Sirup Peach Iced Tea Geschmack, vegan, 65 ml",
+        "tileHeadlineLong": "Sirup Peach Iced Tea Geschmack, vegan, 65 ml"
+      },
+      "images": [
+        {
+          "alt": "Sirup Peach Iced Tea Geschmack, vegan More Nutrition",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754995598/assets/pas/images/62fc702b-85a7-42b0-a472-e71ff87fae16/more-nutrition-sirup-peach-iced-tea-geschmack-vegan",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        }
+      ],
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.3372
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "5,28 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,065 l (81,23 € je 1 l)"
+        ]
+      },
+      "a11yLabel": "Marke: More Nutrition; Produktname: Sirup Peach Iced Tea Geschmack, vegan, 65 ml; Preis: 5,65 €; Grundpreis: 0,065 l (86,92 € je 1 l)",
+      "isPharmacy": false,
+      "trackingData": {
+        "brand": "More Nutrition",
+        "price": 5.65,
+        "currency": "EUR",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3372,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4070765005028,
+    "dan": 3125313,
+    "brandName": "dm home",
+    "title": "Trinkhalme aus Glas, mehrfarbig, 6 St",
+    "tileData": {
+      "a11yLabel": "Marke: dm home; Produktname: Trinkhalme aus Glas, mehrfarbig, 6 St; Preis: 4,95 €; Grundpreis: 6 St (0,83 € je 1 St); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dm home"
+      },
+      "dan": 3125313,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765005028,
+      "images": [
+        {
+          "alt": "Trinkhalme aus Glas, mehrfarbig dm home",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777589659/assets/pas/images/715c9d9c-5f39-4ad8-add6-5d6107bd2d83/dm-home-trinkhalme-aus-glas-mehrfarbig"
+        },
+        {
+          "alt": "Trinkhalme aus Glas, mehrfarbig dm home",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777589663/assets/pas/images/1a9c4711-f2d6-4ec9-8633-420e10eb00e3/dm-home-trinkhalme-aus-glas-mehrfarbig"
+        },
+        {
+          "alt": "Trinkhalme aus Glas, mehrfarbig dm home",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777589654/assets/pas/images/5f8acbf7-a4f9-4b5e-9bb8-ce55c2398bd7/dm-home-trinkhalme-aus-glas-mehrfarbig"
+        },
+        {
+          "alt": "Trinkhalme aus Glas, mehrfarbig dm home",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782520078/assets/pas/images/10d848e6-20a5-4697-9de5-30477680f375/dm-home-trinkhalme-aus-glas-mehrfarbig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (0,70 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (0,83 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 3,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3125313/dm-home-trinkhalme-aus-glas-mehrfarbig",
+      "title": {
+        "tileHeadline": "Trinkhalme aus Glas, mehrfarbig, 6 St",
+        "tileHeadlineLong": "Trinkhalme aus Glas, mehrfarbig, 6 St"
+      },
+      "trackingData": {
+        "brand": "dm home",
+        "categories": [
+          "Deko Limited Editions",
+          "Geschirr"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 3
+      }
+    }
+  },
+  {
+    "gtin": 4262391670293,
+    "dan": 3103924,
+    "brandName": "KOMBUCHERY",
+    "title": "Erfrischungsgetränk, Ginger Raw Kombucha, 400 g EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: KOMBUCHERY; Produktname: Erfrischungsgetränk, Ginger Raw Kombucha, 400 g EINWEG; Preis: 2,45 €; Grundpreis: 0,4 l (6,13 € je 1 l)",
+      "brand": {
+        "name": "KOMBUCHERY"
+      },
+      "dan": 3103924,
+      "gtin": 4262391670293,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Ginger Raw Kombucha KOMBUCHERY",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777596898/assets/pas/images/ed14d94c-47d5-4d83-89ca-e9e3caa25348/kombuchery-erfrischungsgetraenk-ginger-raw-kombucha"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Ginger Raw Kombucha KOMBUCHERY",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763640211/assets/pas/images/b9f02215-3bd2-4a63-a128-09fe55a1802c/kombuchery-erfrischungsgetraenk-ginger-raw-kombucha"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Ginger Raw Kombucha KOMBUCHERY",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763640226/assets/pas/images/19038676-2a0c-4c9c-9456-907659cb0bac/kombuchery-erfrischungsgetraenk-ginger-raw-kombucha"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Ginger Raw Kombucha KOMBUCHERY",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763640204/assets/pas/images/169a24e5-bdee-4f38-ba0f-e888b8ac08a2/kombuchery-erfrischungsgetraenk-ginger-raw-kombucha"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,4 l (5,15 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,4 l (6,13 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.4928
+      },
+      "self": "/p/d/3103924/kombuchery-erfrischungsgetraenk-ginger-raw-kombucha",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Ginger Raw Kombucha, 400 g EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Ginger Raw Kombucha, 400 g EINWEG"
+      },
+      "trackingData": {
+        "brand": "KOMBUCHERY",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4928,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4066447937350,
+    "dan": 3109984,
+    "brandName": "dm home",
+    "title": "Karaffe aus Glas mit Deckel/Glas, rosa (1000 ml), 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: dm home; Produktname: Karaffe aus Glas mit Deckel/Glas, rosa (1000 ml), 1 St; Preis: 12,95 €; Grundpreis: 1 St (12,95 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "dm home"
+      },
+      "dan": 3109984,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447937350,
+      "images": [
+        {
+          "alt": "Karaffe aus Glas mit Deckel/Glas, rosa (1000 ml) dm home",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974719/assets/pas/images/0af2f382-fcad-4efb-92c9-2e887857ae99/dm-home-karaffe-aus-glas-mit-deckel-glas-rosa-1000-ml"
+        },
+        {
+          "alt": "Karaffe aus Glas mit Deckel/Glas, rosa (1000 ml) dm home",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974724/assets/pas/images/d5b28796-689f-4b0b-b121-013b53a43d4b/dm-home-karaffe-aus-glas-mit-deckel-glas-rosa-1000-ml"
+        },
+        {
+          "alt": "Karaffe aus Glas mit Deckel/Glas, rosa (1000 ml) dm home",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974711/assets/pas/images/3a34e9ea-c084-4ac0-afea-6e1e9d5377c5/dm-home-karaffe-aus-glas-mit-deckel-glas-rosa-1000-ml"
+        },
+        {
+          "alt": "Karaffe aus Glas mit Deckel/Glas, rosa (1000 ml) dm home",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772151864/assets/pas/images/dfe9d8b4-6aa0-45fc-a713-a559e0a6c61a/dm-home-karaffe-aus-glas-mit-deckel-glas-rosa-1000-ml"
+        },
+        {
+          "alt": "Karaffe aus Glas mit Deckel/Glas, rosa (1000 ml) dm home",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772151849/assets/pas/images/3e497855-d213-4a71-8b17-a1dc4bcc984a/dm-home-karaffe-aus-glas-mit-deckel-glas-rosa-1000-ml"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,88 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (10,88 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (12,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 16,
+        "ratingValue": 4.9375
+      },
+      "self": "/p/d/3109984/dm-home-karaffe-aus-glas-mit-deckel-glas-rosa-1000-ml",
+      "title": {
+        "tileHeadline": "Karaffe aus Glas mit Deckel/Glas, rosa (1000 ml), 1 St",
+        "tileHeadlineLong": "Karaffe aus Glas mit Deckel/Glas, rosa (1000 ml), 1 St"
+      },
+      "trackingData": {
+        "brand": "dm home",
+        "categories": [
+          "Deko Limited Editions",
+          "Geschirr"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 12.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9375,
+        "ratingCount": 16
+      }
+    }
+  },
+  {
+    "gtin": 4070765004861,
+    "dan": 3125319,
+    "brandName": "dm home",
+    "title": "Trinkglas, transparent gewellt (300 ml), 1 St",
+    "tileData": {
+      "dan": 3125319,
+      "gtin": 4070765004861,
+      "self": "/p/d/3125319/dm-home-trinkglas-transparent-gewellt-300-ml",
+      "brand": {
+        "name": "dm home"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "1 St (2,95 € je 1 St)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Trinkglas, transparent gewellt (300 ml), 1 St",
+        "tileHeadlineLong": "Trinkglas, transparent gewellt (300 ml), 1 St"
+      },
+      "images": [
+        {
+          "alt": "Trinkglas, transparent gewellt (300 ml)  dm home",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777593007/assets/pas/images/31b7d5ad-28c5-45e5-a2fd-1a16cd7ff1a0/dm-home-trinkglas-transparent-gewellt-300-ml",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F9F1"
+        },
+        {
+          "alt": "Trinkglas, transparent gewellt (300 ml)  dm home",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782516806/assets/pas/images/34a59c63-04b1-4644-8403-d7c580d2026f/dm-home-trinkglas-transparent-gewellt-300-ml",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F3F1"
+        }
+      ],
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 4.25
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "1 St (2,48 € je 1 St)"
+        ]
+      },
+      "a11yLabel": "Marke: dm home; Produktname: Trinkglas, transparent gewellt (300 ml), 1 St; Preis: 2,95 €; Grundpreis: 1 St (2,95 € je 1 St); Limitierte Editition Grafik, Marke von dm Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "dm home",
+        "price": 2.95,
+        "currency": "EUR",
+        "categories": [
+          "Deko Limited Editions",
+          "Geschirr"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.25,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4270004341249,
+    "dan": 3083371,
+    "brandName": "JUUZ",
+    "title": "Erfrischungsgetränk, Protein Soda, Lime Papaya, 330 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: JUUZ; Produktname: Erfrischungsgetränk, Protein Soda, Lime Papaya, 330 ml EINWEG; Preis: 2,45 €; Grundpreis: 0,33 l (7,42 € je 1 l)",
+      "brand": {
+        "name": "JUUZ"
+      },
+      "dan": 3083371,
+      "gtin": 4270004341249,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Protein Soda, Lime Papaya  JUUZ",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752893898/assets/pas/images/f14cac4c-5316-4064-8ad7-edbe2ceaf3ba/juuz-erfrischungsgetraenk-protein-soda-lime-papaya"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Protein Soda, Lime Papaya  JUUZ",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752893904/assets/pas/images/87dc45ad-f8b0-4c8c-9802-8709a9592ddb/juuz-erfrischungsgetraenk-protein-soda-lime-papaya"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Protein Soda, Lime Papaya  JUUZ",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751692938/assets/pas/images/ede0cd0e-733e-4ca2-a5c2-385efd8cb2a6/juuz-erfrischungsgetraenk-protein-soda-lime-papaya"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Protein Soda, Lime Papaya  JUUZ",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751379247/assets/pas/images/bef1d29b-a29b-44ba-be27-05cedc7713f5/juuz-erfrischungsgetraenk-protein-soda-lime-papaya"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Protein Soda, Lime Papaya  JUUZ",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751379209/assets/pas/images/b83b7a3d-08b2-4ca3-94bd-87afab6fba42/juuz-erfrischungsgetraenk-protein-soda-lime-papaya"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Protein Soda, Lime Papaya  JUUZ",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751379194/assets/pas/images/fa79afca-eafe-443f-9452-79eeffa2f25b/juuz-erfrischungsgetraenk-protein-soda-lime-papaya"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (6,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (7,42 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 48,
+        "ratingValue": 4.0208
+      },
+      "self": "/p/d/3083371/juuz-erfrischungsgetraenk-protein-soda-lime-papaya",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Protein Soda, Lime Papaya, 330 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Protein Soda, Lime Papaya, 330 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "JUUZ",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0208,
+        "ratingCount": 48
+      }
+    }
+  },
+  {
+    "gtin": 4260705333612,
+    "dan": 3092578,
+    "brandName": "SUPER POP",
+    "title": "Erfrischungsgetränk, Super Pop Passionfruit-Mango, 0,33 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: SUPER POP; Produktname: Erfrischungsgetränk, Super Pop Passionfruit-Mango, 0,33 l EINWEG; Preis: 1,55 €; Grundpreis: 0,33 l (4,70 € je 1 l)",
+      "brand": {
+        "name": "SUPER POP"
+      },
+      "dan": 3092578,
+      "gtin": 4260705333612,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Super Pop Passionfruit-Mango SUPER POP",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754972793/assets/pas/images/a4f3feb6-254c-44df-8bef-b1aacca3336f/super-pop-erfrischungsgetraenk-super-pop-passionfruit-mango"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Super Pop Passionfruit-Mango SUPER POP",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753170753/assets/pas/images/074437d7-a680-427c-b021-0be72fe6ccb4/super-pop-erfrischungsgetraenk-super-pop-passionfruit-mango"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,30 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (3,95 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (4,70 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 236,
+        "ratingValue": 2.9534
+      },
+      "self": "/p/d/3092578/super-pop-erfrischungsgetraenk-super-pop-passionfruit-mango",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Super Pop Passionfruit-Mango, 0,33 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Super Pop Passionfruit-Mango, 0,33 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "SUPER POP",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.9534,
+        "ratingCount": 236
+      }
+    }
+  },
+  {
+    "gtin": 4260339819247,
+    "dan": 3079978,
+    "brandName": "Limissimo",
+    "title": "Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Limissimo; Produktname: Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG; Preis: 0,95 €; Grundpreis: 0,33 l (2,88 € je 1 l)",
+      "brand": {
+        "name": "Limissimo"
+      },
+      "dan": 3079978,
+      "gtin": 4260339819247,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Limonata Limone Limo Zitrone Limissimo",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747641975/assets/pas/images/3c7b396f-736f-42d9-b918-713905d261bb/limissimo-erfrischungsgetraenk-limonata-limone-limo-zitrone"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Limonata Limone Limo Zitrone Limissimo",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776466187/assets/pas/images/7d800b6a-16a6-4dc5-8b30-7d17fec71a2c/limissimo-erfrischungsgetraenk-limonata-limone-limo-zitrone"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (2,42 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (2,88 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.2982
+      },
+      "self": "/p/d/3079978/limissimo-erfrischungsgetraenk-limonata-limone-limo-zitrone",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Limonata Limone Limo Zitrone, 330 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "Limissimo",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2982,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4260339819438,
+    "dan": 1493120,
+    "brandName": "Limissimo",
+    "title": "Erfrischungsgetränk, Aranciata Limo Orange, 0,33 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Limissimo; Produktname: Erfrischungsgetränk, Aranciata Limo Orange, 0,33 l EINWEG; Preis: 0,95 €; Grundpreis: 0,33 l (2,88 € je 1 l)",
+      "brand": {
+        "name": "Limissimo"
+      },
+      "dan": 1493120,
+      "gtin": 4260339819438,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Aranciata Limo Orange Limissimo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492370/assets/pas/images/1ca1d7fd-6fb9-4f10-8e8b-32041bd2f9e3/limissimo-erfrischungsgetraenk-aranciata-limo-orange"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Aranciata Limo Orange Limissimo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491969/assets/pas/images/40b84f00-f56b-4a4d-9315-2640327dbcb5/limissimo-erfrischungsgetraenk-aranciata-limo-orange"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (2,42 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (2,88 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 3.6897
+      },
+      "self": "/p/d/1493120/limissimo-erfrischungsgetraenk-aranciata-limo-orange",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Aranciata Limo Orange, 0,33 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Aranciata Limo Orange, 0,33 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "Limissimo",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6897,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4260339819469,
+    "dan": 1493121,
+    "brandName": "Limissimo",
+    "title": "Erfrischungsgetränk, Limonata Rosa Limo Pink Grapefruit, 0,33 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Limissimo; Produktname: Erfrischungsgetränk, Limonata Rosa Limo Pink Grapefruit, 0,33 l EINWEG; Preis: 0,95 €; Grundpreis: 0,33 l (2,88 € je 1 l)",
+      "brand": {
+        "name": "Limissimo"
+      },
+      "dan": 1493121,
+      "gtin": 4260339819469,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Limonata Rosa Limo Pink Grapefruit Limissimo",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491973/assets/pas/images/94979c4c-d3e5-47f1-b4a3-eb25e8943352/limissimo-erfrischungsgetraenk-limonata-rosa-limo-pink-grapefruit"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Limonata Rosa Limo Pink Grapefruit Limissimo",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492232/assets/pas/images/158fa52b-0cb5-4fbd-95bb-9ad29b80061b/limissimo-erfrischungsgetraenk-limonata-rosa-limo-pink-grapefruit"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (2,42 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (2,88 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 3.9483
+      },
+      "self": "/p/d/1493121/limissimo-erfrischungsgetraenk-limonata-rosa-limo-pink-grapefruit",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Limonata Rosa Limo Pink..., 0,33 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Limonata Rosa Limo Pink..., 0,33 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "Limissimo",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9483,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4262556810045,
+    "dan": 3083418,
+    "brandName": "JUUZ",
+    "title": "Erfrischungsgetränk, Protein Limo, Berry, 330 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: JUUZ; Produktname: Erfrischungsgetränk, Protein Limo, Berry, 330 ml EINWEG; Preis: 2,45 €; Grundpreis: 0,33 l (7,42 € je 1 l)",
+      "brand": {
+        "name": "JUUZ"
+      },
+      "dan": 3083418,
+      "gtin": 4262556810045,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Protein Limo, Berry JUUZ",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782516332/assets/pas/images/6fce1d7e-df7a-4a3d-8a5f-c6e586d73fad/juuz-erfrischungsgetraenk-protein-limo-berry"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Protein Limo, Berry JUUZ",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782516350/assets/pas/images/d3657888-04e6-4152-a817-df99c295c4fc/juuz-erfrischungsgetraenk-protein-limo-berry"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Protein Limo, Berry JUUZ",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782516340/assets/pas/images/f4c85e94-d47c-4609-b502-e783fc82e1cc/juuz-erfrischungsgetraenk-protein-limo-berry"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (6,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (7,42 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 50,
+        "ratingValue": 4.14
+      },
+      "self": "/p/d/3083418/juuz-erfrischungsgetraenk-protein-limo-berry",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Protein Limo, Berry, 330 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Protein Limo, Berry, 330 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "JUUZ",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.14,
+        "ratingCount": 50
+      }
+    }
+  },
+  {
+    "gtin": 90097997,
+    "dan": 1647811,
+    "brandName": "VÖSLAUER",
+    "title": "Erfrischungsgetränk, Limonade Spanische Orange, 0,5 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: VÖSLAUER; Produktname: Erfrischungsgetränk, Limonade Spanische Orange, 0,5 l EINWEG; Preis: 1,35 €; Grundpreis: 0,5 l (2,70 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "VÖSLAUER"
+      },
+      "dan": 1647811,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 90097997,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Limonade Spanische Orange VÖSLAUER",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747539445/assets/pas/images/3fb72f4b-36d2-4685-9f6b-a5354d115073/voeslauer-erfrischungsgetraenk-limonade-spanische-orange"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Limonade Spanische Orange VÖSLAUER",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752885220/assets/pas/images/2fcf8c89-108d-4d7e-ba30-5076d523542b/voeslauer-erfrischungsgetraenk-limonade-spanische-orange"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Limonade Spanische Orange VÖSLAUER",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752885227/assets/pas/images/2ee92ff5-f40b-4d83-b58d-923ce529b005/voeslauer-erfrischungsgetraenk-limonade-spanische-orange"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,13 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (2,27 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (2,70 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.6078
+      },
+      "self": "/p/d/1647811/voeslauer-erfrischungsgetraenk-limonade-spanische-orange",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Limonade Spanische Orange, 0,5 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Limonade Spanische Orange, 0,5 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "VÖSLAUER",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6078,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 90097973,
+    "dan": 1647814,
+    "brandName": "VÖSLAUER",
+    "title": "Erfrischungsgetränk, Limonade Sizilianische Zitrone, 0,5 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: VÖSLAUER; Produktname: Erfrischungsgetränk, Limonade Sizilianische Zitrone, 0,5 l EINWEG; Preis: 1,35 €; Grundpreis: 0,5 l (2,70 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "VÖSLAUER"
+      },
+      "dan": 1647814,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 90097973,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Limonade Sizilianische Zitrone VÖSLAUER",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752887385/assets/pas/images/ad1ac75b-5b31-4491-b70a-fd244c0da8fe/voeslauer-erfrischungsgetraenk-limonade-sizilianische-zitrone"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Limonade Sizilianische Zitrone VÖSLAUER",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752887380/assets/pas/images/9f3cb22e-8d98-4219-93c0-ab370ed8068f/voeslauer-erfrischungsgetraenk-limonade-sizilianische-zitrone"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,13 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (2,27 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (2,70 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.6078
+      },
+      "self": "/p/d/1647814/voeslauer-erfrischungsgetraenk-limonade-sizilianische-zitrone",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Limonade Sizilianische..., 0,5 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Limonade Sizilianische..., 0,5 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "VÖSLAUER",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6078,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 90097980,
+    "dan": 1647807,
+    "brandName": "VÖSLAUER",
+    "title": "Erfrischungsgetränk, Limonade Himbeere-Brombeere, 0,5 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: VÖSLAUER; Produktname: Erfrischungsgetränk, Limonade Himbeere-Brombeere, 0,5 l EINWEG; Preis: 1,35 €; Grundpreis: 0,5 l (2,70 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "VÖSLAUER"
+      },
+      "dan": 1647807,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 90097980,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Limonade Himbeere-Brombeere VÖSLAUER",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747539794/assets/pas/images/6198eb59-30af-47ad-a94f-fce95e83f1d0/voeslauer-erfrischungsgetraenk-limonade-himbeere-brombeere"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Limonade Himbeere-Brombeere VÖSLAUER",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752892146/assets/pas/images/be26029a-d550-4c3a-aef1-1f906fa75697/voeslauer-erfrischungsgetraenk-limonade-himbeere-brombeere"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Limonade Himbeere-Brombeere VÖSLAUER",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752892140/assets/pas/images/c14af412-d724-4ee9-a59c-1665a9a4c605/voeslauer-erfrischungsgetraenk-limonade-himbeere-brombeere"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,13 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (2,27 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (2,70 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.5385
+      },
+      "self": "/p/d/1647807/voeslauer-erfrischungsgetraenk-limonade-himbeere-brombeere",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Limonade Himbeere-Brombeere, 0,5 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Limonade Himbeere-Brombeere, 0,5 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "VÖSLAUER",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5385,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 4260697146764,
+    "dan": 3078383,
+    "brandName": "BRAINEFFECT",
+    "title": "Daily Gut Limo Ingwer Zitrone Geschmack, 330 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: BRAINEFFECT; Produktname: Daily Gut Limo Ingwer Zitrone Geschmack, 330 ml EINWEG; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 2,15 €; Grundpreis: 0,33 l (6,52 € je 1 l)",
+      "brand": {
+        "name": "BRAINEFFECT"
+      },
+      "dan": 3078383,
+      "gtin": 4260697146764,
+      "images": [
+        {
+          "alt": "Daily Gut Limo Ingwer Zitrone Geschmack BRAINEFFECT",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753056056/assets/pas/images/02ee7664-3136-4ed0-922a-517cd69577c4/braineffect-daily-gut-limo-ingwer-zitrone-geschmack"
+        },
+        {
+          "alt": "Daily Gut Limo Ingwer Zitrone Geschmack BRAINEFFECT",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759097805/assets/pas/images/9033f529-bae7-441c-a5d7-1d76bbe587f3/braineffect-daily-gut-limo-ingwer-zitrone-geschmack"
+        },
+        {
+          "alt": "Daily Gut Limo Ingwer Zitrone Geschmack BRAINEFFECT",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753482124/assets/pas/images/4a8a6518-fa0d-4484-9b0c-1cf24519d97c/braineffect-daily-gut-limo-ingwer-zitrone-geschmack"
+        },
+        {
+          "alt": "Daily Gut Limo Ingwer Zitrone Geschmack BRAINEFFECT",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753482299/assets/pas/images/a5fafbac-3e31-4966-93b2-859953e70200/braineffect-daily-gut-limo-ingwer-zitrone-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,81 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (5,48 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (6,52 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.1493
+      },
+      "self": "/p/d/3078383/braineffect-daily-gut-limo-ingwer-zitrone-geschmack",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Daily Gut Limo Ingwer Zitrone Geschmack, 330 ml EINWEG",
+        "tileHeadlineLong": "Daily Gut Limo Ingwer Zitrone Geschmack, 330 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "BRAINEFFECT",
+        "categories": [
+          "Magen & Verdauung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1493,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 42491019,
+    "dan": 3065086,
+    "brandName": "LEMONAID",
+    "title": "Erfrischungsgetränk, Lemonaid Maracuja, 0,33 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: LEMONAID; Produktname: Erfrischungsgetränk, Lemonaid Maracuja, 0,33 l EINWEG; Preis: 1,55 €; Grundpreis: 0,33 l (4,70 € je 1 l)",
+      "brand": {
+        "name": "LEMONAID"
+      },
+      "dan": 3065086,
+      "gtin": 42491019,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Lemonaid Maracuja LEMONAID",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1749597364/assets/pas/images/d7e44f42-8c40-47d5-9d93-9d5571ee37f4/lemonaid-erfrischungsgetraenk-lemonaid-maracuja"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,30 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (3,95 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (4,70 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 49,
+        "ratingValue": 4.6939
+      },
+      "self": "/p/d/3065086/lemonaid-erfrischungsgetraenk-lemonaid-maracuja",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Lemonaid Maracuja, 0,33 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Lemonaid Maracuja, 0,33 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "LEMONAID",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6939,
+        "ratingCount": 49
+      }
+    }
+  },
+  {
+    "gtin": 42491026,
+    "dan": 3065040,
+    "brandName": "LEMONAID",
+    "title": "Erfrischungsgetränk, Lemonaid Limette, 0,33 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: LEMONAID; Produktname: Erfrischungsgetränk, Lemonaid Limette, 0,33 l EINWEG; Preis: 1,55 €; Grundpreis: 0,33 l (4,70 € je 1 l)",
+      "brand": {
+        "name": "LEMONAID"
+      },
+      "dan": 3065040,
+      "gtin": 42491026,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Lemonaid Limette  LEMONAID",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1749597905/assets/pas/images/e064d46d-09a1-418e-8903-49c581ac7ffe/lemonaid-erfrischungsgetraenk-lemonaid-limette"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,30 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (3,95 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (4,70 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 41,
+        "ratingValue": 4.561
+      },
+      "self": "/p/d/3065040/lemonaid-erfrischungsgetraenk-lemonaid-limette",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Lemonaid Limette, 0,33 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Lemonaid Limette, 0,33 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "LEMONAID",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.561,
+        "ratingCount": 41
+      }
+    }
+  },
+  {
+    "gtin": 4015533055621,
+    "dan": 1702074,
+    "brandName": "Voelkel",
+    "title": "Teegetränk, Kombucha Original, 0,25 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Voelkel; Produktname: Teegetränk, Kombucha Original, 0,25 l EINWEG; Preis: 0,95 €; Grundpreis: 0,25 l (3,80 € je 1 l)",
+      "brand": {
+        "name": "Voelkel"
+      },
+      "dan": 1702074,
+      "gtin": 4015533055621,
+      "images": [
+        {
+          "alt": "Teegetränk, Kombucha Original  Voelkel",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441930/assets/pas/images/bcedc5ae-394c-457f-bd60-8c9ecc17dfe1/voelkel-teegetraenk-kombucha-original"
+        },
+        {
+          "alt": "Teegetränk, Kombucha Original  Voelkel",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442206/assets/pas/images/ded47b94-27b7-4ba3-a083-93f4ff21ac55/voelkel-teegetraenk-kombucha-original"
+        },
+        {
+          "alt": "Teegetränk, Kombucha Original  Voelkel",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442208/assets/pas/images/4f1fd39e-12a7-44bc-9a5e-4c6c34220683/voelkel-teegetraenk-kombucha-original"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,25 l (3,19 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,25 l (3,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 40,
+        "ratingValue": 4.55
+      },
+      "self": "/p/d/1702074/voelkel-teegetraenk-kombucha-original",
+      "title": {
+        "tileHeadline": "Teegetränk, Kombucha Original, 0,25 l EINWEG",
+        "tileHeadlineLong": "Teegetränk, Kombucha Original, 0,25 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "Voelkel",
+        "categories": [
+          "Getränke"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.55,
+        "ratingCount": 40
+      }
+    }
+  }
+]

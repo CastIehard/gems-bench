@@ -1,0 +1,2906 @@
+[
+  {
+    "gtin": 4066447415254,
+    "dan": 1706403,
+    "brandName": "dmBio",
+    "title": "Dinkelkaffee, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Dinkelkaffee, 100 g; Preis: 2,65 €; Grundpreis: 0,1 kg (26,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1706403,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447415254,
+      "images": [
+        {
+          "alt": "Dinkelkaffee dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481802/assets/pas/images/c5c45026-00f2-49ab-b6dc-9fc49f49bffb/dmbio-dinkelkaffee"
+        },
+        {
+          "alt": "Dinkelkaffee dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481681/assets/pas/images/dac4d3a3-14e6-40a6-af8a-a6b46555b007/dmbio-dinkelkaffee"
+        },
+        {
+          "alt": "Dinkelkaffee dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481802/assets/pas/images/f7c8976c-3b5f-4fef-b7bc-3093fd018348/dmbio-dinkelkaffee"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (24,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (26,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 203,
+        "ratingValue": 4.6552
+      },
+      "self": "/p/d/1706403/dmbio-dinkelkaffee",
+      "title": {
+        "tileHeadline": "Dinkelkaffee, 100 g",
+        "tileHeadlineLong": "Dinkelkaffee, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee, Tee & Kakao"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6552,
+        "ratingCount": 203
+      }
+    }
+  },
+  {
+    "gtin": 4260614530034,
+    "dan": 1606823,
+    "brandName": "earlybird coffee",
+    "title": "Filterkaffee, gemahlen, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: earlybird coffee; Produktname: Filterkaffee, gemahlen, 250 g; Preis: 5,95 €; Grundpreis: 0,25 kg (23,80 € je 1 kg)",
+      "brand": {
+        "name": "earlybird coffee"
+      },
+      "dan": 1606823,
+      "gtin": 4260614530034,
+      "images": [
+        {
+          "alt": "Filterkaffee, gemahlen earlybird coffee",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493883/assets/pas/images/78c7c956-5fe3-415f-ba01-5383447f2919/earlybird-coffee-filterkaffee-gemahlen"
+        },
+        {
+          "alt": "Filterkaffee, gemahlen earlybird coffee",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493884/assets/pas/images/39f7c6bb-f145-4a20-bfa6-d4db60e35e21/earlybird-coffee-filterkaffee-gemahlen"
+        },
+        {
+          "alt": "Filterkaffee, gemahlen earlybird coffee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493882/assets/pas/images/d837b0dc-d82d-4f56-bc72-c3e3fd2bb91b/earlybird-coffee-filterkaffee-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,56 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (22,24 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (23,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.6196
+      },
+      "self": "/p/d/1606823/earlybird-coffee-filterkaffee-gemahlen",
+      "title": {
+        "tileHeadline": "Filterkaffee, gemahlen, 250 g",
+        "tileHeadlineLong": "Filterkaffee, gemahlen, 250 g"
+      },
+      "trackingData": {
+        "brand": "earlybird coffee",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6196,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4260614530218,
+    "dan": 1679959,
+    "brandName": "earlybird coffee",
+    "title": "Espresso, gemahlen, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: earlybird coffee; Produktname: Espresso, gemahlen, 250 g; Preis: 5,95 €; Grundpreis: 0,25 kg (23,80 € je 1 kg)",
+      "brand": {
+        "name": "earlybird coffee"
+      },
+      "dan": 1679959,
+      "gtin": 4260614530218,
+      "images": [
+        {
+          "alt": "Espresso, gemahlen earlybird coffee",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493880/assets/pas/images/7a073730-9b9a-446e-8cb3-db9ac2b27d6a/earlybird-coffee-espresso-gemahlen"
+        },
+        {
+          "alt": "Espresso, gemahlen earlybird coffee",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493449/assets/pas/images/678946c2-5d92-46aa-8d70-5719285e3340/earlybird-coffee-espresso-gemahlen"
+        },
+        {
+          "alt": "Espresso, gemahlen earlybird coffee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751071133/assets/pas/images/81c951cd-38a9-4d81-85c0-1ab37f8bb4c4/earlybird-coffee-espresso-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,56 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (22,24 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (23,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.6279
+      },
+      "self": "/p/d/1679959/earlybird-coffee-espresso-gemahlen",
+      "title": {
+        "tileHeadline": "Espresso, gemahlen, 250 g",
+        "tileHeadlineLong": "Espresso, gemahlen, 250 g"
+      },
+      "trackingData": {
+        "brand": "earlybird coffee",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6279,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4260614530256,
+    "dan": 1573089,
+    "brandName": "earlybird coffee",
+    "title": "Kaffee, gemahlen, entkoffeiniert, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: earlybird coffee; Produktname: Kaffee, gemahlen, entkoffeiniert, 250 g; Preis: 6,45 €; Grundpreis: 0,25 kg (25,80 € je 1 kg)",
+      "brand": {
+        "name": "earlybird coffee"
+      },
+      "dan": 1573089,
+      "gtin": 4260614530256,
+      "images": [
+        {
+          "alt": "Kaffee, gemahlen, entkoffeiniert earlybird coffee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493809/assets/pas/images/3aab805c-6222-4dd3-8eda-9533ddf697d1/earlybird-coffee-kaffee-gemahlen-entkoffeiniert"
+        },
+        {
+          "alt": "Kaffee, gemahlen, entkoffeiniert earlybird coffee",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493809/assets/pas/images/ad935956-2696-402c-9fcc-89b11a659559/earlybird-coffee-kaffee-gemahlen-entkoffeiniert"
+        },
+        {
+          "alt": "Kaffee, gemahlen, entkoffeiniert earlybird coffee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493445/assets/pas/images/0446e458-6a73-4626-bdf9-77de92f97eb5/earlybird-coffee-kaffee-gemahlen-entkoffeiniert"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,03 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (24,11 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (25,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 159,
+        "ratingValue": 4.0503
+      },
+      "self": "/p/d/1573089/earlybird-coffee-kaffee-gemahlen-entkoffeiniert",
+      "title": {
+        "tileHeadline": "Kaffee, gemahlen, entkoffeiniert, 250 g",
+        "tileHeadlineLong": "Kaffee, gemahlen, entkoffeiniert, 250 g"
+      },
+      "trackingData": {
+        "brand": "earlybird coffee",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0503,
+        "ratingCount": 159
+      }
+    }
+  },
+  {
+    "gtin": 4067796209259,
+    "dan": 1489504,
+    "brandName": "dmBio",
+    "title": "Kaffee Klassik, gemahlen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee Klassik, gemahlen, 500 g; Preis: 7,45 €; Grundpreis: 0,5 kg (14,90 € je 1 kg); Marke von dm Grafik, Grafik: Stiftung Warentest GUT (2,3) Im Test: 15 gemahlene Filterkaffees, davon 8x gut Ermittelt am Produkt mit MHD: 07/2025 Ausgabe 11/2024 www.test.de ",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1489504,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Grafik: Stiftung Warentest GUT (2,3) Im Test: 15 gemahlene Filterkaffees, davon 8x gut Ermittelt am Produkt mit MHD: 07/2025 Ausgabe 11/2024 www.test.de ",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768551566/assets/pas/seals/dbfba192-afa1-4d5b-92b7-5d68ee290d25/dbfba192-afa1-4d5b-92b7-5d68ee290d25.png",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768551566/assets/pas/seals/dbfba192-afa1-4d5b-92b7-5d68ee290d25/dbfba192-afa1-4d5b-92b7-5d68ee290d25.png"
+        }
+      ],
+      "gtin": 4067796209259,
+      "images": [
+        {
+          "alt": "Kaffee Klassik, gemahlen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760049815/assets/pas/images/bb6dc7ef-13c7-409c-8ab2-cf081d4b3192/dmbio-kaffee-klassik-gemahlen"
+        },
+        {
+          "alt": "Kaffee Klassik, gemahlen dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760049830/assets/pas/images/ad778a45-3673-4429-ac2f-e5ba90b20166/dmbio-kaffee-klassik-gemahlen"
+        },
+        {
+          "alt": "Kaffee Klassik, gemahlen dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760049822/assets/pas/images/2ccf62ba-6921-4577-8872-38e33939d172/dmbio-kaffee-klassik-gemahlen"
+        },
+        {
+          "alt": "Kaffee Klassik, gemahlen dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760049826/assets/pas/images/741ad3dd-05c8-4357-b166-600989989aed/dmbio-kaffee-klassik-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,96 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (13,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (14,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 553,
+        "ratingValue": 4.5479
+      },
+      "self": "/p/d/1489504/dmbio-kaffee-klassik-gemahlen",
+      "title": {
+        "tileHeadline": "Kaffee Klassik, gemahlen, 500 g",
+        "tileHeadlineLong": "Kaffee Klassik, gemahlen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5479,
+        "ratingCount": 553
+      }
+    }
+  },
+  {
+    "gtin": 4260614530720,
+    "dan": 1426856,
+    "brandName": "earlybird coffee",
+    "title": "Kaffeekapseln Lungo, 10 St",
+    "tileData": {
+      "a11yLabel": "Marke: earlybird coffee; Produktname: Kaffeekapseln Lungo, 10 St; Preis: 2,95 €; Grundpreis: 10 St (0,30 € je 1 St)",
+      "brand": {
+        "name": "earlybird coffee"
+      },
+      "dan": 1426856,
+      "gtin": 4260614530720,
+      "images": [
+        {
+          "alt": "Kaffeekapseln Lungo earlybird coffee",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688521/assets/pas/images/242ce896-0a3c-4c16-9c0f-22f611c9591a/earlybird-coffee-kaffeekapseln-lungo"
+        },
+        {
+          "alt": "Kaffeekapseln Lungo earlybird coffee",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751270039/assets/pas/images/149d89fc-e10a-4eb3-a788-62fe8ed356f1/earlybird-coffee-kaffeekapseln-lungo"
+        },
+        {
+          "alt": "Kaffeekapseln Lungo earlybird coffee",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775086410/assets/pas/images/601041c6-09fa-4710-a6cd-0bd9a840664c/earlybird-coffee-kaffeekapseln-lungo"
+        },
+        {
+          "alt": "Kaffeekapseln Lungo earlybird coffee",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775086408/assets/pas/images/f4765730-e8bc-4f82-b551-5359b7d5aa22/earlybird-coffee-kaffeekapseln-lungo"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (0,28 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (0,30 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.5513
+      },
+      "self": "/p/d/1426856/earlybird-coffee-kaffeekapseln-lungo",
+      "title": {
+        "tileHeadline": "Kaffeekapseln Lungo, 10 St",
+        "tileHeadlineLong": "Kaffeekapseln Lungo, 10 St"
+      },
+      "trackingData": {
+        "brand": "earlybird coffee",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5513,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4260614530713,
+    "dan": 1426853,
+    "brandName": "earlybird coffee",
+    "title": "Kaffeekapseln Espresso, 10 St",
+    "tileData": {
+      "a11yLabel": "Marke: earlybird coffee; Produktname: Kaffeekapseln Espresso, 10 St; Preis: 2,95 €; Grundpreis: 10 St (0,30 € je 1 St)",
+      "brand": {
+        "name": "earlybird coffee"
+      },
+      "dan": 1426853,
+      "gtin": 4260614530713,
+      "images": [
+        {
+          "alt": "Kaffeekapseln Espresso  earlybird coffee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686961/assets/pas/images/2597a04b-7c02-4764-9be4-8a1d5d7e9692/earlybird-coffee-kaffeekapseln-espresso"
+        },
+        {
+          "alt": "Kaffeekapseln Espresso  earlybird coffee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769733952/assets/pas/images/8852fe94-0af2-4c84-80a2-373d1b5f49ba/earlybird-coffee-kaffeekapseln-espresso"
+        },
+        {
+          "alt": "Kaffeekapseln Espresso  earlybird coffee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775602513/assets/pas/images/9235ac84-56cb-4926-a6c8-5773edc601fe/earlybird-coffee-kaffeekapseln-espresso"
+        },
+        {
+          "alt": "Kaffeekapseln Espresso  earlybird coffee",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775602511/assets/pas/images/8a43217a-8f8c-4880-8239-208779adf980/earlybird-coffee-kaffeekapseln-espresso"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (0,28 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (0,30 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.4478
+      },
+      "self": "/p/d/1426853/earlybird-coffee-kaffeekapseln-espresso",
+      "title": {
+        "tileHeadline": "Kaffeekapseln Espresso, 10 St",
+        "tileHeadlineLong": "Kaffeekapseln Espresso, 10 St"
+      },
+      "trackingData": {
+        "brand": "earlybird coffee",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4478,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4260614530737,
+    "dan": 1426862,
+    "brandName": "earlybird coffee",
+    "title": "Kaffeekapseln Decaf, entkoffeiniert, 10 St",
+    "tileData": {
+      "a11yLabel": "Marke: earlybird coffee; Produktname: Kaffeekapseln Decaf, entkoffeiniert, 10 St; Preis: 2,95 €; Grundpreis: 10 St (0,30 € je 1 St)",
+      "brand": {
+        "name": "earlybird coffee"
+      },
+      "dan": 1426862,
+      "gtin": 4260614530737,
+      "images": [
+        {
+          "alt": "Kaffeekapseln Decaf, entkoffeiniert earlybird coffee",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775687639/assets/pas/images/dba7fdef-b2c4-4ffd-a925-c696061907a5/earlybird-coffee-kaffeekapseln-decaf-entkoffeiniert"
+        },
+        {
+          "alt": "Kaffeekapseln Decaf, entkoffeiniert earlybird coffee",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751270427/assets/pas/images/218c98a1-dd34-47e3-b6dd-2990bb3ce61d/earlybird-coffee-kaffeekapseln-decaf-entkoffeiniert"
+        },
+        {
+          "alt": "Kaffeekapseln Decaf, entkoffeiniert earlybird coffee",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775605206/assets/pas/images/3fc00137-dfdd-46f9-8b88-582cf45921c3/earlybird-coffee-kaffeekapseln-decaf-entkoffeiniert"
+        },
+        {
+          "alt": "Kaffeekapseln Decaf, entkoffeiniert earlybird coffee",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775605203/assets/pas/images/20ce3aa2-64af-4b45-8581-a7adf9d7df08/earlybird-coffee-kaffeekapseln-decaf-entkoffeiniert"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (0,28 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (0,30 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 72,
+        "ratingValue": 4.4722
+      },
+      "self": "/p/d/1426862/earlybird-coffee-kaffeekapseln-decaf-entkoffeiniert",
+      "title": {
+        "tileHeadline": "Kaffeekapseln Decaf, entkoffeiniert, 10 St",
+        "tileHeadlineLong": "Kaffeekapseln Decaf, entkoffeiniert, 10 St"
+      },
+      "trackingData": {
+        "brand": "earlybird coffee",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4722,
+        "ratingCount": 72
+      }
+    }
+  },
+  {
+    "gtin": 4066447075526,
+    "dan": 1635250,
+    "brandName": "dmBio",
+    "title": "Kaffee Klassik löslich, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee Klassik löslich, 100 g; Preis: 4,45 €; Grundpreis: 0,1 kg (44,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1635250,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447075526,
+      "images": [
+        {
+          "alt": "Kaffee Klassik löslich dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098872/assets/pas/images/0e796230-4126-44ac-af4a-d2fd4891606c/dmbio-kaffee-klassik-loeslich"
+        },
+        {
+          "alt": "Kaffee Klassik löslich dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098878/assets/pas/images/a7e29649-4d78-4e4d-9c64-c695281ae88f/dmbio-kaffee-klassik-loeslich"
+        },
+        {
+          "alt": "Kaffee Klassik löslich dmBio",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098877/assets/pas/images/73b9b36f-a62a-4241-a409-1ca243fbb313/dmbio-kaffee-klassik-loeslich"
+        },
+        {
+          "alt": "Kaffee Klassik löslich dmBio",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098877/assets/pas/images/b6635cc5-2bd4-47c6-b7b5-cb77915f6ea6/dmbio-kaffee-klassik-loeslich"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (41,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (44,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 165,
+        "ratingValue": 4.5636
+      },
+      "self": "/p/d/1635250/dmbio-kaffee-klassik-loeslich",
+      "title": {
+        "tileHeadline": "Kaffee Klassik löslich, 100 g",
+        "tileHeadlineLong": "Kaffee Klassik löslich, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5636,
+        "ratingCount": 165
+      }
+    }
+  },
+  {
+    "gtin": 4058172684159,
+    "dan": 1545670,
+    "brandName": "dmBio",
+    "title": "Kaffee, Caffè Crema, ganze Bohne, 1 kg",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee, Caffè Crema, ganze Bohne, 1 kg; Preis: 13,95 €; Grundpreis: 1 kg (13,95 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1545670,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172684159,
+      "images": [
+        {
+          "alt": "Kaffee, Caffè Crema, ganze Bohne dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453871/assets/pas/images/eaec7999-810f-4899-bea5-2f6b823cee71/dmbio-kaffee-caffe-crema-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema, ganze Bohne dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453549/assets/pas/images/a761cbe7-5004-49d9-8a6d-41aa1921230b/dmbio-kaffee-caffe-crema-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema, ganze Bohne dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761749637/assets/pas/images/56a24a61-2018-4d4a-b90a-2f482a3028e0/dmbio-kaffee-caffe-crema-ganze-bohne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,04 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (13,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (13,95 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 831,
+        "ratingValue": 4.6113
+      },
+      "self": "/p/d/1545670/dmbio-kaffee-caffe-crema-ganze-bohne",
+      "title": {
+        "tileHeadline": "Kaffee, Caffè Crema, ganze Bohne, 1 kg",
+        "tileHeadlineLong": "Kaffee, Caffè Crema, ganze Bohne, 1 kg"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6113,
+        "ratingCount": 831
+      }
+    }
+  },
+  {
+    "gtin": 4058172487316,
+    "dan": 1490717,
+    "brandName": "dmBio",
+    "title": "Kaffee, Espresso, gemahlen, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee, Espresso, gemahlen, 250 g; Preis: 4,25 €; Grundpreis: 0,25 kg (17,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1490717,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172487316,
+      "images": [
+        {
+          "alt": "Kaffee, Espresso, gemahlen dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747451805/assets/pas/images/13e246d4-2a16-47ab-8cee-9e849f33f839/dmbio-kaffee-espresso-gemahlen"
+        },
+        {
+          "alt": "Kaffee, Espresso, gemahlen dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747452156/assets/pas/images/5184f266-4088-49f3-9ec3-a4fb2a20edad/dmbio-kaffee-espresso-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (15,89 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (17,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 161,
+        "ratingValue": 4.4596
+      },
+      "self": "/p/d/1490717/dmbio-kaffee-espresso-gemahlen",
+      "title": {
+        "tileHeadline": "Kaffee, Espresso, gemahlen, 250 g",
+        "tileHeadlineLong": "Kaffee, Espresso, gemahlen, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4596,
+        "ratingCount": 161
+      }
+    }
+  },
+  {
+    "gtin": 4058172487330,
+    "dan": 1490277,
+    "brandName": "dmBio",
+    "title": "Kaffee, Malzkaffee, löslich, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee, Malzkaffee, löslich, 100 g; Preis: 2,55 €; Grundpreis: 0,1 kg (25,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1490277,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172487330,
+      "images": [
+        {
+          "alt": "Kaffee, Malzkaffee, löslich dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755104689/assets/pas/images/4d175df0-7838-4d07-80ca-3d8b037f9549/dmbio-kaffee-malzkaffee-loeslich"
+        },
+        {
+          "alt": "Kaffee, Malzkaffee, löslich dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761742874/assets/pas/images/990e345b-94b0-486f-b511-ed1e53bd61dc/dmbio-kaffee-malzkaffee-loeslich"
+        },
+        {
+          "alt": "Kaffee, Malzkaffee, löslich dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755104686/assets/pas/images/85ac3fb1-5cd1-4f07-af8b-3e63f07a80e7/dmbio-kaffee-malzkaffee-loeslich"
+        },
+        {
+          "alt": "Kaffee, Malzkaffee, löslich dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755104691/assets/pas/images/eab9ea22-0b92-4d33-901c-f6df6e0163b9/dmbio-kaffee-malzkaffee-loeslich"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (23,83 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (25,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 187,
+        "ratingValue": 4.0
+      },
+      "self": "/p/d/1490277/dmbio-kaffee-malzkaffee-loeslich",
+      "title": {
+        "tileHeadline": "Kaffee, Malzkaffee, löslich, 100 g",
+        "tileHeadlineLong": "Kaffee, Malzkaffee, löslich, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0,
+        "ratingCount": 187
+      }
+    }
+  },
+  {
+    "gtin": 4066447233049,
+    "dan": 1635251,
+    "brandName": "dmBio",
+    "title": "Kaffee entkoffeiniert gemahlen, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee entkoffeiniert gemahlen, 250 g; Preis: 4,95 €; Grundpreis: 0,25 kg (19,80 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1635251,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447233049,
+      "images": [
+        {
+          "alt": "Kaffee entkoffeiniert gemahlen       dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478166/assets/pas/images/8c12b07c-31ad-423f-8562-560331aa84d0/dmbio-kaffee-entkoffeiniert-gemahlen"
+        },
+        {
+          "alt": "Kaffee entkoffeiniert gemahlen       dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478245/assets/pas/images/0b89f2dd-099d-4bfe-ae5f-ed5f71f61aad/dmbio-kaffee-entkoffeiniert-gemahlen"
+        },
+        {
+          "alt": "Kaffee entkoffeiniert gemahlen       dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761824298/assets/pas/images/26e6f468-c7ac-4282-bb98-77b3d4e3688a/dmbio-kaffee-entkoffeiniert-gemahlen"
+        },
+        {
+          "alt": "Kaffee entkoffeiniert gemahlen       dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478455/assets/pas/images/0c629bc9-35b0-4ef2-a02c-516db0a1f75e/dmbio-kaffee-entkoffeiniert-gemahlen"
+        },
+        {
+          "alt": "Kaffee entkoffeiniert gemahlen       dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478166/assets/pas/images/01269b2d-a728-4894-b295-2544cf6c72c3/dmbio-kaffee-entkoffeiniert-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (18,50 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (19,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 230,
+        "ratingValue": 4.6
+      },
+      "self": "/p/d/1635251/dmbio-kaffee-entkoffeiniert-gemahlen",
+      "title": {
+        "tileHeadline": "Kaffee entkoffeiniert gemahlen, 250 g",
+        "tileHeadlineLong": "Kaffee entkoffeiniert gemahlen, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee, Tee & Kakao"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6,
+        "ratingCount": 230
+      }
+    }
+  },
+  {
+    "gtin": 4270000193835,
+    "dan": 1570978,
+    "brandName": "Angelique's Finest",
+    "title": "Kaffee, Espresso ganze Bohne, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Angelique's Finest; Produktname: Kaffee, Espresso ganze Bohne, 500 g; Preis: 15,95 €; Grundpreis: 0,5 kg (31,90 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Angelique's Finest"
+      },
+      "dan": 1570978,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4270000193835,
+      "images": [
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495915/assets/pas/images/e50f0157-8897-42a3-924d-d9867b97f1e3/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495915/assets/pas/images/398c7996-1562-4437-a534-2d72689c8d6f/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495914/assets/pas/images/f8de4eb7-c7e4-46dd-9b34-48af1fd5b973/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747496000/assets/pas/images/a22992b7-9450-47dc-98a5-b1a016720b7f/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495958/assets/pas/images/bccee46c-66e7-4efb-8a12-c649d7a4b271/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495913/assets/pas/images/9e04f35c-9904-4215-b8fe-5a990eb684ff/angeliques-finest-kaffee-espresso-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Espresso ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747496000/assets/pas/images/b2ab8465-eaf9-4ab0-b3d8-e8215d6657b3/angeliques-finest-kaffee-espresso-ganze-bohne"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,91 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (29,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (31,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 50,
+        "ratingValue": 4.72
+      },
+      "self": "/p/d/1570978/angeliques-finest-kaffee-espresso-ganze-bohne",
+      "title": {
+        "tileHeadline": "Kaffee, Espresso ganze Bohne, 500 g",
+        "tileHeadlineLong": "Kaffee, Espresso ganze Bohne, 500 g"
+      },
+      "trackingData": {
+        "brand": "Angelique's Finest",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 15.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.72,
+        "ratingCount": 50
+      }
+    }
+  },
+  {
+    "gtin": 4270000193842,
+    "dan": 1571774,
+    "brandName": "Angelique's Finest",
+    "title": "Kaffee, Aroma Kaffee ganze Bohne, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Angelique's Finest; Produktname: Kaffee, Aroma Kaffee ganze Bohne, 500 g; Preis: 12,95 €; Grundpreis: 0,5 kg (25,90 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Angelique's Finest"
+      },
+      "dan": 1571774,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4270000193842,
+      "images": [
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495955/assets/pas/images/cfda0b8d-7537-4816-a828-92429ef07d4a/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495992/assets/pas/images/b96ce4da-d371-4ec2-9a0a-626b4f8e8faa/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495993/assets/pas/images/5f445581-5dbd-4e59-a662-bc91b8b81cc4/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495993/assets/pas/images/dfa18c1d-7cac-4068-a47a-6e0ba78f5a78/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495956/assets/pas/images/ea4698ad-9849-466b-9045-8e54c0a431b9/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495600/assets/pas/images/c918f719-8185-47d6-b6ad-68fdf81d952e/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495595/assets/pas/images/0688d46f-fa71-4030-89e4-b798a624b604/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee ganze Bohne Angelique's Finest",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495595/assets/pas/images/e25659b4-ce70-4baf-b8b4-eea7f692514b/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (24,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (25,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.7612
+      },
+      "self": "/p/d/1571774/angeliques-finest-kaffee-aroma-kaffee-ganze-bohne",
+      "title": {
+        "tileHeadline": "Kaffee, Aroma Kaffee ganze Bohne, 500 g",
+        "tileHeadlineLong": "Kaffee, Aroma Kaffee ganze Bohne, 500 g"
+      },
+      "trackingData": {
+        "brand": "Angelique's Finest",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 12.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7612,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4066447075540,
+    "dan": 1635252,
+    "brandName": "dmBio",
+    "title": "Kaffee Entkoffeiniert löslich, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee Entkoffeiniert löslich, 100 g; Preis: 5,35 €; Grundpreis: 0,1 kg (53,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1635252,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447075540,
+      "images": [
+        {
+          "alt": "Kaffee Entkoffeiniert löslich dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755101195/assets/pas/images/cb529f1d-a735-4dc2-a83a-16832b5f8280/dmbio-kaffee-entkoffeiniert-loeslich"
+        },
+        {
+          "alt": "Kaffee Entkoffeiniert löslich dmBio",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755101191/assets/pas/images/1eab921c-4ba5-4629-9991-b6bfd5574a47/dmbio-kaffee-entkoffeiniert-loeslich"
+        },
+        {
+          "alt": "Kaffee Entkoffeiniert löslich dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761824542/assets/pas/images/d60ddfc1-b22d-422b-bab2-a45e38992f57/dmbio-kaffee-entkoffeiniert-loeslich"
+        },
+        {
+          "alt": "Kaffee Entkoffeiniert löslich dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755101193/assets/pas/images/5c543ecf-5dbd-4023-b8a1-c4a44ea1c3a6/dmbio-kaffee-entkoffeiniert-loeslich"
+        },
+        {
+          "alt": "Kaffee Entkoffeiniert löslich dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755101195/assets/pas/images/a2b09baa-2e75-4ac9-aa4c-39631a88789c/dmbio-kaffee-entkoffeiniert-loeslich"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (50,00 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (53,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 209,
+        "ratingValue": 4.6938
+      },
+      "self": "/p/d/1635252/dmbio-kaffee-entkoffeiniert-loeslich",
+      "title": {
+        "tileHeadline": "Kaffee Entkoffeiniert löslich, 100 g",
+        "tileHeadlineLong": "Kaffee Entkoffeiniert löslich, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6938,
+        "ratingCount": 209
+      }
+    }
+  },
+  {
+    "gtin": 4066447522464,
+    "dan": 1646656,
+    "brandName": "dmBio",
+    "title": "Caffè Crema de Peru, ganze Bohne, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Caffè Crema de Peru, ganze Bohne, 500 g; Preis: 8,75 €; Grundpreis: 0,5 kg (17,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1646656,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447522464,
+      "images": [
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483052/assets/pas/images/007fcddd-916d-40c6-be68-366dd14e9d64/dmbio-caffe-crema-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482937/assets/pas/images/1b16db93-8a61-494b-be61-b9ef4d8467c6/dmbio-caffe-crema-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761831101/assets/pas/images/6a942b74-27d8-452c-bc0e-6c1a9b266aa3/dmbio-caffe-crema-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483052/assets/pas/images/ab3ec4e0-1738-4bca-a1b2-d8dc5953955a/dmbio-caffe-crema-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Caffè Crema de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483051/assets/pas/images/9e8002ae-a6d7-483b-8adb-3392366e3db1/dmbio-caffe-crema-de-peru-ganze-bohne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,18 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (16,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (17,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 199,
+        "ratingValue": 4.6683
+      },
+      "self": "/p/d/1646656/dmbio-caffe-crema-de-peru-ganze-bohne",
+      "title": {
+        "tileHeadline": "Caffè Crema de Peru, ganze Bohne, 500 g",
+        "tileHeadlineLong": "Caffè Crema de Peru, ganze Bohne, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6683,
+        "ratingCount": 199
+      }
+    }
+  },
+  {
+    "gtin": 4066447884609,
+    "dan": 1621890,
+    "brandName": "dmBio",
+    "title": "Kaffee, Caffè Crema Pads, 154 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee, Caffè Crema Pads, 154 g; Preis: 2,65 €; Grundpreis: 22 St (0,12 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1621890,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447884609,
+      "images": [
+        {
+          "alt": "Kaffee, Caffè Crema Pads dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768351052/assets/pas/images/4aab78cf-4a95-4684-94a1-325df82b708c/dmbio-kaffee-caffe-crema-pads"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema Pads dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768351071/assets/pas/images/cd270d3f-6dd0-47a7-ae54-f54485c54a91/dmbio-kaffee-caffe-crema-pads"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema Pads dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768351061/assets/pas/images/033c4616-7b8f-4044-8720-f0ce27da87bf/dmbio-kaffee-caffe-crema-pads"
+        },
+        {
+          "alt": "Kaffee, Caffè Crema Pads dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768351066/assets/pas/images/83346acd-bbd6-4511-ae09-f34d432388c9/dmbio-kaffee-caffe-crema-pads"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "22 St (0,11 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "22 St (0,12 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 179,
+        "ratingValue": 4.257
+      },
+      "self": "/p/d/1621890/dmbio-kaffee-caffe-crema-pads",
+      "title": {
+        "tileHeadline": "Kaffee, Caffè Crema Pads, 154 g",
+        "tileHeadlineLong": "Kaffee, Caffè Crema Pads, 154 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.257,
+        "ratingCount": 179
+      }
+    }
+  },
+  {
+    "gtin": 4066447522440,
+    "dan": 1646652,
+    "brandName": "dmBio",
+    "title": "Kaffee, Caffè de Peru gemahlen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kaffee, Caffè de Peru gemahlen, 500 g; Preis: 8,75 €; Grundpreis: 0,5 kg (17,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1646652,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447522440,
+      "images": [
+        {
+          "alt": "Kaffee, Caffè de Peru gemahlen dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483056/assets/pas/images/c37cfd11-7478-4bcd-9c15-1eea43712ede/dmbio-kaffee-caffe-de-peru-gemahlen"
+        },
+        {
+          "alt": "Kaffee, Caffè de Peru gemahlen dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482725/assets/pas/images/f307baeb-c863-4333-973a-ca5c6322dc9d/dmbio-kaffee-caffe-de-peru-gemahlen"
+        },
+        {
+          "alt": "Kaffee, Caffè de Peru gemahlen dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482725/assets/pas/images/27ed5c18-297d-462f-bfd9-b08e8c76ba88/dmbio-kaffee-caffe-de-peru-gemahlen"
+        },
+        {
+          "alt": "Kaffee, Caffè de Peru gemahlen dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482866/assets/pas/images/a08bf242-8faf-423c-9e30-a82ef164ef07/dmbio-kaffee-caffe-de-peru-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,18 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (16,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (17,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 160,
+        "ratingValue": 4.7625
+      },
+      "self": "/p/d/1646652/dmbio-kaffee-caffe-de-peru-gemahlen",
+      "title": {
+        "tileHeadline": "Kaffee, Caffè de Peru gemahlen, 500 g",
+        "tileHeadlineLong": "Kaffee, Caffè de Peru gemahlen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7625,
+        "ratingCount": 160
+      }
+    }
+  },
+  {
+    "gtin": 4270000193859,
+    "dan": 1570990,
+    "brandName": "Angelique's Finest",
+    "title": "Kaffee, Aroma Kaffee gemahlen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Angelique's Finest; Produktname: Kaffee, Aroma Kaffee gemahlen, 500 g; Preis: 12,95 €; Grundpreis: 0,5 kg (25,90 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Angelique's Finest"
+      },
+      "dan": 1570990,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4270000193859,
+      "images": [
+        {
+          "alt": "Kaffee, Aroma Kaffee gemahlen Angelique's Finest",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495994/assets/pas/images/e9f6ab50-23c4-4e13-aaa2-e103687e5587/angeliques-finest-kaffee-aroma-kaffee-gemahlen"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee gemahlen Angelique's Finest",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495909/assets/pas/images/a2a3b823-a053-4a62-92f6-476fc353e2ce/angeliques-finest-kaffee-aroma-kaffee-gemahlen"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee gemahlen Angelique's Finest",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495600/assets/pas/images/b3dd4376-f10b-44bc-b88e-7fa8b6f24796/angeliques-finest-kaffee-aroma-kaffee-gemahlen"
+        },
+        {
+          "alt": "Kaffee, Aroma Kaffee gemahlen Angelique's Finest",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495994/assets/pas/images/c17731ba-54aa-4823-a28b-66ae37577ad0/angeliques-finest-kaffee-aroma-kaffee-gemahlen"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (24,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (25,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.7692
+      },
+      "self": "/p/d/1570990/angeliques-finest-kaffee-aroma-kaffee-gemahlen",
+      "title": {
+        "tileHeadline": "Kaffee, Aroma Kaffee gemahlen, 500 g",
+        "tileHeadlineLong": "Kaffee, Aroma Kaffee gemahlen, 500 g"
+      },
+      "trackingData": {
+        "brand": "Angelique's Finest",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 12.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7692,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 4066447232752,
+    "dan": 1577829,
+    "brandName": "dmBio",
+    "title": "Espresso ganze Bohnen, 1 kg",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Espresso ganze Bohnen, 1 kg; Preis: 13,95 €; Grundpreis: 1 kg (13,95 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1577829,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447232752,
+      "images": [
+        {
+          "alt": "Espresso ganze Bohnen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478220/assets/pas/images/82498f6c-f13f-4fe1-8ce6-2601d9850ffb/dmbio-espresso-ganze-bohnen"
+        },
+        {
+          "alt": "Espresso ganze Bohnen dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478454/assets/pas/images/da480045-2862-4f7f-85ff-edffc5086f63/dmbio-espresso-ganze-bohnen"
+        },
+        {
+          "alt": "Espresso ganze Bohnen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761819277/assets/pas/images/940bf422-91fa-4858-a816-bf250e0d3448/dmbio-espresso-ganze-bohnen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,04 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (13,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (13,95 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 405,
+        "ratingValue": 4.4988
+      },
+      "self": "/p/d/1577829/dmbio-espresso-ganze-bohnen",
+      "title": {
+        "tileHeadline": "Espresso ganze Bohnen, 1 kg",
+        "tileHeadlineLong": "Espresso ganze Bohnen, 1 kg"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4988,
+        "ratingCount": 405
+      }
+    }
+  },
+  {
+    "gtin": 4066447088281,
+    "dan": 1646655,
+    "brandName": "dmBio",
+    "title": "Espresso de Peru, gemahlen, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Espresso de Peru, gemahlen, 250 g; Preis: 4,65 €; Grundpreis: 0,25 kg (18,60 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1646655,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447088281,
+      "images": [
+        {
+          "alt": "Espresso de Peru, gemahlen dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476278/assets/pas/images/3ee53367-cc86-4b3f-ad28-1eada8c0f231/dmbio-espresso-de-peru-gemahlen"
+        },
+        {
+          "alt": "Espresso de Peru, gemahlen dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476268/assets/pas/images/f13ca4a6-fbe3-4eac-b82d-4c6e8b5da29b/dmbio-espresso-de-peru-gemahlen"
+        },
+        {
+          "alt": "Espresso de Peru, gemahlen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761829905/assets/pas/images/b0936d0d-a8c1-4acc-be70-bf1bd6215d91/dmbio-espresso-de-peru-gemahlen"
+        },
+        {
+          "alt": "Espresso de Peru, gemahlen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476044/assets/pas/images/01e52f10-d4cd-4869-8af6-37320768cce4/dmbio-espresso-de-peru-gemahlen"
+        },
+        {
+          "alt": "Espresso de Peru, gemahlen dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476277/assets/pas/images/e8fda190-1274-46db-b187-1f1520f15f12/dmbio-espresso-de-peru-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (17,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (18,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 96,
+        "ratingValue": 4.6458
+      },
+      "self": "/p/d/1646655/dmbio-espresso-de-peru-gemahlen",
+      "title": {
+        "tileHeadline": "Espresso de Peru, gemahlen, 250 g",
+        "tileHeadlineLong": "Espresso de Peru, gemahlen, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6458,
+        "ratingCount": 96
+      }
+    }
+  },
+  {
+    "gtin": 4066447088267,
+    "dan": 1646654,
+    "brandName": "dmBio",
+    "title": "Espresso de Peru, ganze Bohne, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Espresso de Peru, ganze Bohne, 250 g; Preis: 4,65 €; Grundpreis: 0,25 kg (18,60 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1646654,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447088267,
+      "images": [
+        {
+          "alt": "Espresso de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476277/assets/pas/images/d24c1192-21e4-43ac-bdf4-e63ac8d8249b/dmbio-espresso-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Espresso de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476280/assets/pas/images/c2abce77-8dcc-4a76-9e53-c2f0bf991a14/dmbio-espresso-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Espresso de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476044/assets/pas/images/ff25d0d3-4587-44e6-a177-fbebd0d4cef8/dmbio-espresso-de-peru-ganze-bohne"
+        },
+        {
+          "alt": "Espresso de Peru, ganze Bohne dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476268/assets/pas/images/3ee0b535-d15c-4849-add4-70a6d8b6718b/dmbio-espresso-de-peru-ganze-bohne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (17,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (18,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 109,
+        "ratingValue": 4.0275
+      },
+      "self": "/p/d/1646654/dmbio-espresso-de-peru-ganze-bohne",
+      "title": {
+        "tileHeadline": "Espresso de Peru, ganze Bohne, 250 g",
+        "tileHeadlineLong": "Espresso de Peru, ganze Bohne, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kaffee & Kaffeeersatz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0275,
+        "ratingCount": 109
+      }
+    }
+  },
+  {
+    "gtin": 4008455028712,
+    "dan": 1396873,
+    "brandName": "Dr. Beckmann",
+    "title": "Kaffeemaschinenreiniger Tabs, 6 St",
+    "tileData": {
+      "a11yLabel": "Marke: Dr. Beckmann; Produktname: Kaffeemaschinenreiniger Tabs, 6 St; Preis: 2,95 €; Grundpreis: 6 St (0,49 € je 1 St); Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Dr. Beckmann"
+      },
+      "dan": 1396873,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4008455028712,
+      "images": [
+        {
+          "alt": "Kaffeemaschinenreiniger Tabs Dr. Beckmann",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434494/assets/pas/images/21ef0a64-7b19-4b95-b67b-c51181c3bc92/dr-beckmann-kaffeemaschinenreiniger-tabs"
+        },
+        {
+          "alt": "Kaffeemaschinenreiniger Tabs Dr. Beckmann",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434769/assets/pas/images/96d8edc0-3d58-4154-8a6f-ef5176427dc9/dr-beckmann-kaffeemaschinenreiniger-tabs"
+        },
+        {
+          "alt": "Kaffeemaschinenreiniger Tabs Dr. Beckmann",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434633/assets/pas/images/0ef4cb93-5bd9-4ea8-883b-7d0b779f6978/dr-beckmann-kaffeemaschinenreiniger-tabs"
+        },
+        {
+          "alt": "Kaffeemaschinenreiniger Tabs Dr. Beckmann",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434769/assets/pas/images/569e0756-5605-466f-bad8-e724614e8e8c/dr-beckmann-kaffeemaschinenreiniger-tabs"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (0,41 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (0,49 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 99,
+        "ratingValue": 4.8586
+      },
+      "self": "/p/d/1396873/dr-beckmann-kaffeemaschinenreiniger-tabs",
+      "title": {
+        "tileHeadline": "Kaffeemaschinenreiniger Tabs, 6 St",
+        "tileHeadlineLong": "Kaffeemaschinenreiniger Tabs, 6 St"
+      },
+      "trackingData": {
+        "brand": "Dr. Beckmann",
+        "categories": [
+          "Spezialreiniger"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8586,
+        "ratingCount": 99
+      }
+    }
+  },
+  {
+    "gtin": 7610243002667,
+    "dan": 1445106,
+    "brandName": "durgol",
+    "title": "Entkalker Kaffeemaschinen swiss espresso, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: durgol; Produktname: Entkalker Kaffeemaschinen swiss espresso, 250 ml; Preis: 6,95 €; Grundpreis: 0,25 l (27,80 € je 1 l); Gefahrenhinweis reizend",
+      "brand": {
+        "name": "durgol"
+      },
+      "dan": 1445106,
+      "gtin": 7610243002667,
+      "images": [
+        {
+          "alt": "Entkalker Kaffeemaschinen swiss espresso durgol",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510925/assets/pas/images/a1d4fa73-cf43-4cdc-b9af-d5838dcbbb62/durgol-entkalker-kaffeemaschinen-swiss-espresso"
+        },
+        {
+          "alt": "Entkalker Kaffeemaschinen swiss espresso durgol",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510245/assets/pas/images/feed5db5-91b4-461a-8fd9-e63958cde513/durgol-entkalker-kaffeemaschinen-swiss-espresso"
+        },
+        {
+          "alt": "Entkalker Kaffeemaschinen swiss espresso durgol",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510549/assets/pas/images/6cccec81-45f8-4a9a-9af3-b53bdfe95632/durgol-entkalker-kaffeemaschinen-swiss-espresso"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (23,36 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (27,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 400,
+        "ratingValue": 4.8775
+      },
+      "self": "/p/d/1445106/durgol-entkalker-kaffeemaschinen-swiss-espresso",
+      "title": {
+        "tileHeadline": "Entkalker Kaffeemaschinen swiss espresso, 250 ml",
+        "tileHeadlineLong": "Entkalker Kaffeemaschinen swiss espresso, 250 ml"
+      },
+      "trackingData": {
+        "brand": "durgol",
+        "categories": [
+          "Spezialreiniger"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8775,
+        "ratingCount": 400
+      }
+    }
+  },
+  {
+    "gtin": 3616307219365,
+    "dan": 1457650,
+    "brandName": "bruno banani",
+    "title": "Deospray Man Lavender Coffee Tonka Bean, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: bruno banani; Produktname: Deospray Man Lavender Coffee Tonka Bean, 150 ml; Preis: 3,95 €; Grundpreis: 0,15 l (26,33 € je 1 l)",
+      "brand": {
+        "name": "bruno banani"
+      },
+      "dan": 1457650,
+      "gtin": 3616307219365,
+      "images": [
+        {
+          "alt": "Deospray Man Lavender Coffee Tonka Bean bruno banani",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778278981/assets/pas/images/461a9802-73f7-445a-aba2-9100cda1d3a6/bruno-banani-deospray-man-lavender-coffee-tonka-bean"
+        },
+        {
+          "alt": "Deospray Man Lavender Coffee Tonka Bean bruno banani",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778278947/assets/pas/images/fad69a09-79f1-44f7-8e70-70a716412745/bruno-banani-deospray-man-lavender-coffee-tonka-bean"
+        },
+        {
+          "alt": "Deospray Man Lavender Coffee Tonka Bean bruno banani",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778278917/assets/pas/images/3449f61c-647a-4690-8e2c-69fb8f4d9003/bruno-banani-deospray-man-lavender-coffee-tonka-bean"
+        },
+        {
+          "alt": "Deospray Man Lavender Coffee Tonka Bean bruno banani",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778278928/assets/pas/images/11c031a0-c64c-4bd1-b818-a89f73d5fb4d/bruno-banani-deospray-man-lavender-coffee-tonka-bean"
+        },
+        {
+          "alt": "Deospray Man Lavender Coffee Tonka Bean bruno banani",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778278958/assets/pas/images/4f5f9d21-f37b-4f3b-bfd4-6c9660fe77e5/bruno-banani-deospray-man-lavender-coffee-tonka-bean"
+        },
+        {
+          "alt": "Deospray Man Lavender Coffee Tonka Bean bruno banani",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778278969/assets/pas/images/169c66b5-1036-48b0-9aa7-649e78e7b3a7/bruno-banani-deospray-man-lavender-coffee-tonka-bean"
+        },
+        {
+          "alt": "Deospray Man Lavender Coffee Tonka Bean bruno banani",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778278937/assets/pas/images/e98c4b28-901d-4ad8-ab76-2ac50b62305e/bruno-banani-deospray-man-lavender-coffee-tonka-bean"
+        },
+        {
+          "alt": "Deospray Man Lavender Coffee Tonka Bean bruno banani",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778278993/assets/pas/images/9ff2f5bf-4799-4034-b263-264ddef34a37/bruno-banani-deospray-man-lavender-coffee-tonka-bean"
+        },
+        {
+          "alt": "Deospray Man Lavender Coffee Tonka Bean bruno banani",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778278908/assets/pas/images/b2aaa17c-b45d-4d9a-8ee2-88eea5890d62/bruno-banani-deospray-man-lavender-coffee-tonka-bean"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (22,13 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (26,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 112,
+        "ratingValue": 4.8125
+      },
+      "self": "/p/d/1457650/bruno-banani-deospray-man-lavender-coffee-tonka-bean",
+      "title": {
+        "tileHeadline": "Deospray Man Lavender Coffee Tonka Bean, 150 ml",
+        "tileHeadlineLong": "Deospray Man Lavender Coffee Tonka Bean, 150 ml"
+      },
+      "trackingData": {
+        "brand": "bruno banani",
+        "categories": [
+          "Deos für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8125,
+        "ratingCount": 112
+      }
+    }
+  },
+  {
+    "gtin": 4066076717477,
+    "dan": 3098603,
+    "brandName": "BOLTZE",
+    "title": "Kaffeebecher \"Meerliebe\", blau, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: BOLTZE; Produktname: Kaffeebecher \"Meerliebe\", blau, 1 St; Preis: 4,95 €; Grundpreis: 1 St (4,95 € je 1 St); Limitierte Editition Grafik",
+      "brand": {
+        "name": "BOLTZE"
+      },
+      "dan": 3098603,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        }
+      ],
+      "gtin": 4066076717477,
+      "images": [
+        {
+          "alt": "Kaffeebecher \"Meerliebe\", blau  BOLTZE",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778022241/assets/pas/images/6909246f-96de-4044-9ea1-20d88d151ba2/boltze-kaffeebecher-meerliebe-blau"
+        },
+        {
+          "alt": "Kaffeebecher \"Meerliebe\", blau  BOLTZE",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778103944/assets/pas/images/4ad4eda8-c20b-47b1-ae43-7d7d2079654a/boltze-kaffeebecher-meerliebe-blau"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (4,16 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (4,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3098603/boltze-kaffeebecher-meerliebe-blau",
+      "title": {
+        "tileHeadline": "Kaffeebecher \"Meerliebe\", blau, 1 St",
+        "tileHeadlineLong": "Kaffeebecher \"Meerliebe\", blau, 1 St"
+      },
+      "trackingData": {
+        "brand": "BOLTZE",
+        "categories": [
+          "Deko Limited Editions",
+          "Geschirr"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 6
+      }
+    }
+  },
+  {
+    "gtin": 4062196125598,
+    "dan": 1569712,
+    "brandName": "Heitmann",
+    "title": "Entkalker Kaffeemaschinen, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Heitmann; Produktname: Entkalker Kaffeemaschinen, 250 ml; Preis: 4,95 €; Grundpreis: 0,25 l (19,80 € je 1 l); Nur Online Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "Heitmann"
+      },
+      "dan": 1569712,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4062196125598,
+      "images": [
+        {
+          "alt": "Entkalker Kaffeemaschinen  Heitmann",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473285/assets/pas/images/83a4b081-0536-43b3-8fee-5046dd50da37/heitmann-entkalker-kaffeemaschinen"
+        },
+        {
+          "alt": "Entkalker Kaffeemaschinen  Heitmann",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748476332/assets/pas/images/fa8318a3-798a-48a0-84c5-e12f52807545/heitmann-entkalker-kaffeemaschinen"
+        },
+        {
+          "alt": "Entkalker Kaffeemaschinen  Heitmann",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473331/assets/pas/images/caecdb72-469e-4691-aba8-f1b44bec6b6c/heitmann-entkalker-kaffeemaschinen"
+        },
+        {
+          "alt": "Entkalker Kaffeemaschinen  Heitmann",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748476338/assets/pas/images/e3330fa1-1705-4667-8319-e206f33f60ff/heitmann-entkalker-kaffeemaschinen"
+        },
+        {
+          "alt": "Entkalker Kaffeemaschinen  Heitmann",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473460/assets/pas/images/c9aa0a67-0e70-4a87-90d3-3e85880c51d0/heitmann-entkalker-kaffeemaschinen"
+        },
+        {
+          "alt": "Entkalker Kaffeemaschinen  Heitmann",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473603/assets/pas/images/79c252f8-e023-4244-8507-a976e59f9a1b/heitmann-entkalker-kaffeemaschinen"
+        },
+        {
+          "alt": "Entkalker Kaffeemaschinen  Heitmann",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473331/assets/pas/images/a8ca1651-4e21-46b5-a0fe-484ebb09c399/heitmann-entkalker-kaffeemaschinen"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (16,64 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (19,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 24,
+        "ratingValue": 4.875
+      },
+      "self": "/p/d/1569712/heitmann-entkalker-kaffeemaschinen",
+      "title": {
+        "tileHeadline": "Entkalker Kaffeemaschinen, 250 ml",
+        "tileHeadlineLong": "Entkalker Kaffeemaschinen, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Heitmann",
+        "categories": [
+          "Spezialreiniger"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.875,
+        "ratingCount": 24
+      }
+    }
+  },
+  {
+    "gtin": 4066447414837,
+    "dan": 1691295,
+    "brandName": "Sportness",
+    "title": "Protein Drink Eiskaffee Geschmack, trinkfertig, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Drink Eiskaffee Geschmack, trinkfertig, 200 ml; Preis: 1,75 €; Grundpreis: 0,2 l (8,75 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1691295,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447414837,
+      "images": [
+        {
+          "alt": "Protein Drink Eiskaffee Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481771/assets/pas/images/bdf901c0-4f73-407d-80b4-a480607793f6/sportness-protein-drink-eiskaffee-geschmack-trinkfertig"
+        },
+        {
+          "alt": "Protein Drink Eiskaffee Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481510/assets/pas/images/5d6c7660-5c75-4558-8bb7-71282d7cef0e/sportness-protein-drink-eiskaffee-geschmack-trinkfertig"
+        },
+        {
+          "alt": "Protein Drink Eiskaffee Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481757/assets/pas/images/ff542841-9370-41d7-a23d-cd3f26bfc8be/sportness-protein-drink-eiskaffee-geschmack-trinkfertig"
+        },
+        {
+          "alt": "Protein Drink Eiskaffee Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481632/assets/pas/images/cbd849fa-c7dc-42d3-a6f7-77c26934726b/sportness-protein-drink-eiskaffee-geschmack-trinkfertig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (7,35 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (8,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 121,
+        "ratingValue": 4.4215
+      },
+      "self": "/p/d/1691295/sportness-protein-drink-eiskaffee-geschmack-trinkfertig",
+      "title": {
+        "tileHeadline": "Protein Drink Eiskaffee Geschmack, trinkfertig, 200 ml",
+        "tileHeadlineLong": "Protein Drink Eiskaffee Geschmack, trinkfertig, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4215,
+        "ratingCount": 121
+      }
+    }
+  },
+  {
+    "gtin": 4066447971613,
+    "dan": 3117684,
+    "brandName": "dm home",
+    "title": "Kaffeefilterhalter aus Keramik, gelb (11,5x8 cm), 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: dm home; Produktname: Kaffeefilterhalter aus Keramik, gelb (11,5x8 cm), 1 St; Preis: 2,95 €; Grundpreis: 1 St (2,95 € je 1 St); Ausverkauf Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dm home"
+      },
+      "dan": 3117684,
+      "eyecatchers": [
+        {
+          "alt": "Ausverkauf Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815050/assets/mp/highlight-graphics/media_highlight_graphic_sale_de_de/media_highlight_graphic_sale_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447971613,
+      "images": [
+        {
+          "alt": "Kaffeefilterhalter aus Keramik, gelb (11,5x8 cm) dm home",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772928613/assets/pas/images/b1dafa3c-570b-4318-921a-412c6815c87e/dm-home-kaffeefilterhalter-aus-keramik-gelb-11-5x8-cm"
+        },
+        {
+          "alt": "Kaffeefilterhalter aus Keramik, gelb (11,5x8 cm) dm home",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772928605/assets/pas/images/66649cca-8267-4b31-a507-66a11ccae6bb/dm-home-kaffeefilterhalter-aus-keramik-gelb-11-5x8-cm"
+        },
+        {
+          "alt": "Kaffeefilterhalter aus Keramik, gelb (11,5x8 cm) dm home",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777419967/assets/pas/images/78eb8374-7b4f-4d04-a03b-4d5a5c718e37/dm-home-kaffeefilterhalter-aus-keramik-gelb-11-5x8-cm"
+        },
+        {
+          "alt": "Kaffeefilterhalter aus Keramik, gelb (11,5x8 cm) dm home",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777419959/assets/pas/images/7af4f73c-ad09-4e48-bca2-63c4da7c95a4/dm-home-kaffeefilterhalter-aus-keramik-gelb-11-5x8-cm"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "a11yLabel": "Aktueller Preis:",
+            "value": "2,48 €"
+          },
+          "previous": {
+            "a11yLabel": "Vorheriger Preis:",
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (2,48 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "a11yLabel": "Aktueller Preis:",
+            "value": "2,95 €"
+          },
+          "previous": {
+            "a11yLabel": "Vorheriger Preis:",
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (2,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 5,
+        "ratingValue": 3.2
+      },
+      "self": "/p/d/3117684/dm-home-kaffeefilterhalter-aus-keramik-gelb-11-5x8-cm",
+      "title": {
+        "tileHeadline": "Kaffeefilterhalter aus Keramik, gelb (11,5x8 cm), 1 St",
+        "tileHeadlineLong": "Kaffeefilterhalter aus Keramik, gelb (11,5x8 cm), 1 St"
+      },
+      "trackingData": {
+        "brand": "dm home",
+        "categories": [
+          "Deko Limited Editions",
+          "Geschirr"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.2,
+        "ratingCount": 5
+      }
+    }
+  }
+]

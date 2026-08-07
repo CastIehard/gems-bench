@@ -1,0 +1,3031 @@
+[
+  {
+    "gtin": 4066447981131,
+    "dan": 1675236,
+    "brandName": "Balea",
+    "title": "Gesichtsserum Vitamin C, 30 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Gesichtsserum Vitamin C, 30 ml; Preis: 4,95 €; Grundpreis: 0,03 l (165,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1675236,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447981131,
+      "images": [
+        {
+          "alt": "Gesichtsserum Vitamin C Balea",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777420804/assets/pas/images/5d6ec125-3d7f-477b-8634-6844276a6eec/balea-gesichtsserum-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum Vitamin C Balea",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777420799/assets/pas/images/497b0214-79fe-4c4f-a287-d4cfc23f59ff/balea-gesichtsserum-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum Vitamin C Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777420795/assets/pas/images/de3dd522-8814-439b-9b6c-97527e8aa09e/balea-gesichtsserum-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum Vitamin C Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777420810/assets/pas/images/d7d297c1-1e09-4ca1-ba21-6cd1bd0e0443/balea-gesichtsserum-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum Vitamin C Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777420788/assets/pas/images/bb3f0d09-3566-4a69-95cb-451cce16ecc6/balea-gesichtsserum-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum Vitamin C Balea",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777420792/assets/pas/images/01f36893-3764-42bd-94ee-a5872d783c83/balea-gesichtsserum-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum Vitamin C Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777420785/assets/pas/images/829d0cbb-f595-4c09-b166-6736ee13f04e/balea-gesichtsserum-vitamin-c"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (138,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (165,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 375,
+        "ratingValue": 4.112
+      },
+      "self": "/p/d/1675236/balea-gesichtsserum-vitamin-c",
+      "title": {
+        "tileHeadline": "Gesichtsserum Vitamin C, 30 ml",
+        "tileHeadlineLong": "Gesichtsserum Vitamin C, 30 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Serum & Kur"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.112,
+        "ratingCount": 375
+      }
+    }
+  },
+  {
+    "gtin": 5999566330155,
+    "dan": 1306163,
+    "brandName": "Geek&Gorgeous",
+    "title": "Gesichtsserum 101 C-Glow 15% Vitamin C, 30 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Geek&Gorgeous; Produktname: Gesichtsserum 101 C-Glow 15% Vitamin C, 30 ml; Preis: 12,35 €; Grundpreis: 0,03 l (411,67 € je 1 l)",
+      "brand": {
+        "name": "Geek&Gorgeous"
+      },
+      "dan": 1306163,
+      "gtin": 5999566330155,
+      "images": [
+        {
+          "alt": "Gesichtsserum 101 C-Glow 15% Vitamin C Geek&Gorgeous",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747507910/assets/pas/images/9955a88e-d822-4262-a9cd-58ea9ff2f7d8/geek-und-gorgeous-gesichtsserum-101-c-glow-15-prozent-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum 101 C-Glow 15% Vitamin C Geek&Gorgeous",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747507909/assets/pas/images/abd7aed0-a53a-4df6-bdeb-f82bd939029a/geek-und-gorgeous-gesichtsserum-101-c-glow-15-prozent-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum 101 C-Glow 15% Vitamin C Geek&Gorgeous",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747507371/assets/pas/images/34ebd6c4-34ee-4840-81bf-9a4f6465e032/geek-und-gorgeous-gesichtsserum-101-c-glow-15-prozent-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum 101 C-Glow 15% Vitamin C Geek&Gorgeous",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747507747/assets/pas/images/b4ddc94f-c687-4de3-a0c9-ba77dd189c9a/geek-und-gorgeous-gesichtsserum-101-c-glow-15-prozent-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum 101 C-Glow 15% Vitamin C Geek&Gorgeous",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751623462/assets/pas/images/70fb51c2-076d-423d-a680-0de4b9506041/geek-und-gorgeous-gesichtsserum-101-c-glow-15-prozent-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum 101 C-Glow 15% Vitamin C Geek&Gorgeous",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747507747/assets/pas/images/f190fb66-6304-401f-bbb8-bdf33251b001/geek-und-gorgeous-gesichtsserum-101-c-glow-15-prozent-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum 101 C-Glow 15% Vitamin C Geek&Gorgeous",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751623466/assets/pas/images/5ea0bf35-0d7e-4718-bf3a-b091e5af11b8/geek-und-gorgeous-gesichtsserum-101-c-glow-15-prozent-vitamin-c"
+        },
+        {
+          "alt": "Gesichtsserum 101 C-Glow 15% Vitamin C Geek&Gorgeous",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751623470/assets/pas/images/9665a26e-1e22-4b86-a292-f53924c2d7b6/geek-und-gorgeous-gesichtsserum-101-c-glow-15-prozent-vitamin-c"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (345,94 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (411,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 389,
+        "ratingValue": 3.8123
+      },
+      "self": "/p/d/1306163/geek-und-gorgeous-gesichtsserum-101-c-glow-15-prozent-vitamin-c",
+      "title": {
+        "tileHeadline": "Gesichtsserum 101 C-Glow 15% Vitamin C, 30 ml",
+        "tileHeadlineLong": "Gesichtsserum 101 C-Glow 15% Vitamin C, 30 ml"
+      },
+      "trackingData": {
+        "brand": "Geek&Gorgeous",
+        "categories": [
+          "Serum & Kur"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 12.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8123,
+        "ratingCount": 389
+      }
+    }
+  },
+  {
+    "gtin": 4009932134117,
+    "dan": 2487039,
+    "brandName": "Doppelherz",
+    "title": "Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g",
+    "tileData": {
+      "a11yLabel": "Marke: Doppelherz; Produktname: Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 6,95 €; Grundpreis: 0,0351 kg (198,01 € je 1 kg)",
+      "brand": {
+        "name": "Doppelherz"
+      },
+      "dan": 2487039,
+      "gtin": 4009932134117,
+      "images": [
+        {
+          "alt": "Omega-3 + Vitamin D3 Kids Kautabletten 27 St Doppelherz",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752284408/assets/pas/images/8fe3c32f-0ad5-4912-9681-30da59407401/doppelherz-omega-3-vitamin-d3-kids-kautabletten-27-st"
+        },
+        {
+          "alt": "Omega-3 + Vitamin D3 Kids Kautabletten 27 St Doppelherz",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855392/assets/pas/images/cd7002e5-5d43-4ab2-bd5d-47e13431a369/doppelherz-omega-3-vitamin-d3-kids-kautabletten-27-st"
+        },
+        {
+          "alt": "Omega-3 + Vitamin D3 Kids Kautabletten 27 St Doppelherz",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855386/assets/pas/images/918cdb94-03fa-494a-acb4-84d0d675888e/doppelherz-omega-3-vitamin-d3-kids-kautabletten-27-st"
+        },
+        {
+          "alt": "Omega-3 + Vitamin D3 Kids Kautabletten 27 St Doppelherz",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855381/assets/pas/images/1ad8837e-f80f-4e5d-b656-64a0985a3bbf/doppelherz-omega-3-vitamin-d3-kids-kautabletten-27-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,0351 kg (185,06 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0351 kg (198,01 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 95,
+        "ratingValue": 4.6421
+      },
+      "self": "/p/d/2487039/doppelherz-omega-3-vitamin-d3-kids-kautabletten-27-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g",
+        "tileHeadlineLong": "Omega-3 + Vitamin D3 Kids Kautabletten 27 St, 35,1 g"
+      },
+      "trackingData": {
+        "brand": "Doppelherz",
+        "categories": [
+          "Herz, Kreislauf & Cholesterin"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6421,
+        "ratingCount": 95
+      }
+    }
+  },
+  {
+    "gtin": 4255599601107,
+    "dan": 2974587,
+    "brandName": "yuicy",
+    "title": "Haarvitamine Hair Glow Biotin I B12 + 8 Essentials Gummies (45 Stück), 121 g",
+    "tileData": {
+      "a11yLabel": "Marke: yuicy; Produktname: Haarvitamine Hair Glow Biotin I B12 + 8 Essentials Gummies (45 Stück), 121 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 11,95 €; Grundpreis: 0,121 kg (98,76 € je 1 kg)",
+      "brand": {
+        "name": "yuicy"
+      },
+      "dan": 2974587,
+      "gtin": 4255599601107,
+      "images": [
+        {
+          "alt": "Haarvitamine Hair Glow Biotin I B12 + 8 Essentials Gummies (45 Stück) yuicy",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764380785/assets/pas/images/4f90cacd-c939-414b-9876-e93cfcbb904a/yuicy-haarvitamine-hair-glow-biotin-i-b12-8-essentials-gummies-45-stueck"
+        },
+        {
+          "alt": "Haarvitamine Hair Glow Biotin I B12 + 8 Essentials Gummies (45 Stück) yuicy",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755817371/assets/pas/images/dd566842-5383-46be-bd4f-554ae61d939e/yuicy-haarvitamine-hair-glow-biotin-i-b12-8-essentials-gummies-45-stueck"
+        },
+        {
+          "alt": "Haarvitamine Hair Glow Biotin I B12 + 8 Essentials Gummies (45 Stück) yuicy",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764898166/assets/pas/images/96d71f95-82eb-45dc-a33a-48b296963416/yuicy-haarvitamine-hair-glow-biotin-i-b12-8-essentials-gummies-45-stueck"
+        },
+        {
+          "alt": "Haarvitamine Hair Glow Biotin I B12 + 8 Essentials Gummies (45 Stück) yuicy",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764898159/assets/pas/images/6f49034e-3da4-4fac-b000-dd0bc3bf77d9/yuicy-haarvitamine-hair-glow-biotin-i-b12-8-essentials-gummies-45-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,121 kg (92,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,121 kg (98,76 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.1719
+      },
+      "self": "/p/d/2974587/yuicy-haarvitamine-hair-glow-biotin-i-b12-8-essentials-gummies-45-stueck",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Haarvitamine Hair Glow Biotin I B12 + 8..., 121 g",
+        "tileHeadlineLong": "Haarvitamine Hair Glow Biotin I B12 + 8..., 121 g"
+      },
+      "trackingData": {
+        "brand": "yuicy",
+        "categories": [
+          "Haarkur & Haarmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 11.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1719,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 4066447522099,
+    "dan": 1641155,
+    "brandName": "Balea",
+    "title": "Tuchmaske Vitamin C, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Tuchmaske Vitamin C, 1 St; Preis: 0,95 €; Grundpreis: 1 St (0,95 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1641155,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447522099,
+      "images": [
+        {
+          "alt": "Tuchmaske Vitamin C Balea",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774598103/assets/pas/images/bdf6469a-7dd0-4bdf-8a90-0dc99e8056bc/balea-tuchmaske-vitamin-c"
+        },
+        {
+          "alt": "Tuchmaske Vitamin C Balea",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774598095/assets/pas/images/985861fd-dfe9-45c5-95c3-d2965f5eb4f2/balea-tuchmaske-vitamin-c"
+        },
+        {
+          "alt": "Tuchmaske Vitamin C Balea",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483245/assets/pas/images/ce5c04f9-b311-476c-9741-8d23428608bf/balea-tuchmaske-vitamin-c"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (0,80 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (0,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 124,
+        "ratingValue": 4.3952
+      },
+      "self": "/p/d/1641155/balea-tuchmaske-vitamin-c",
+      "title": {
+        "tileHeadline": "Tuchmaske Vitamin C, 1 St",
+        "tileHeadlineLong": "Tuchmaske Vitamin C, 1 St"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Gesichtsmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3952,
+        "ratingCount": 124
+      }
+    }
+  },
+  {
+    "gtin": 4262354841395,
+    "dan": 3103609,
+    "brandName": "Glow25",
+    "title": "Kollagen Pulver mit Vitamin C, 450 g",
+    "tileData": {
+      "a11yLabel": "Marke: Glow25; Produktname: Kollagen Pulver mit Vitamin C, 450 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 29,95 €; Grundpreis: 0,45 kg (66,56 € je 1 kg)",
+      "brand": {
+        "name": "Glow25"
+      },
+      "dan": 3103609,
+      "gtin": 4262354841395,
+      "images": [
+        {
+          "alt": "Kollagen Pulver mit Vitamin C Glow25",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760745647/assets/pas/images/881facb4-2e66-460c-9836-c46ec8eb59c8/glow25-kollagen-pulver-mit-vitamin-c"
+        },
+        {
+          "alt": "Kollagen Pulver mit Vitamin C Glow25",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760745658/assets/pas/images/f539b0db-cc40-4b2c-94ae-a6bcf208f8e7/glow25-kollagen-pulver-mit-vitamin-c"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "27,99 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 kg (62,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 kg (66,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 71,
+        "ratingValue": 4.493
+      },
+      "self": "/p/d/3103609/glow25-kollagen-pulver-mit-vitamin-c",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Kollagen Pulver mit Vitamin C, 450 g",
+        "tileHeadlineLong": "Kollagen Pulver mit Vitamin C, 450 g"
+      },
+      "trackingData": {
+        "brand": "Glow25",
+        "categories": [
+          "Hautbild"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.493,
+        "ratingCount": 71
+      }
+    }
+  },
+  {
+    "gtin": 4066447833140,
+    "dan": 3104287,
+    "brandName": "Mivolis",
+    "title": "Vitamin B12 350 Mini-Tabletten 30 St, 6 g",
+    "tileData": {
+      "a11yLabel": "Marke: Mivolis; Produktname: Vitamin B12 350 Mini-Tabletten 30 St, 6 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 1,95 €; Grundpreis: 0,006 kg (325,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Mivolis"
+      },
+      "dan": 3104287,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447833140,
+      "images": [
+        {
+          "alt": "Vitamin B12 350 Mini-Tabletten 30 St Mivolis",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768356153/assets/pas/images/7f8f8274-1a23-4fb9-8e49-d06d9868a7b1/mivolis-vitamin-b12-350-mini-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin B12 350 Mini-Tabletten 30 St Mivolis",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768356158/assets/pas/images/4ef9dd3e-22ee-4e2b-b6b3-04e38c369bb6/mivolis-vitamin-b12-350-mini-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin B12 350 Mini-Tabletten 30 St Mivolis",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768356144/assets/pas/images/3dcb662d-a500-44f4-893e-639ccf97c357/mivolis-vitamin-b12-350-mini-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin B12 350 Mini-Tabletten 30 St Mivolis",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768356139/assets/pas/images/49e72317-ad4d-4409-8a2e-885dc0337875/mivolis-vitamin-b12-350-mini-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin B12 350 Mini-Tabletten 30 St Mivolis",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768356149/assets/pas/images/577e2384-fd78-456b-a398-9aeca8ab1246/mivolis-vitamin-b12-350-mini-tabletten-30-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,006 kg (303,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,006 kg (325,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 42,
+        "ratingValue": 4.381
+      },
+      "self": "/p/d/3104287/mivolis-vitamin-b12-350-mini-tabletten-30-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin B12 350 Mini-Tabletten 30 St, 6 g",
+        "tileHeadlineLong": "Vitamin B12 350 Mini-Tabletten 30 St, 6 g"
+      },
+      "trackingData": {
+        "brand": "Mivolis",
+        "categories": [
+          "Wohlbefinden & Stärkung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.381,
+        "ratingCount": 42
+      }
+    }
+  },
+  {
+    "gtin": 4066447832419,
+    "dan": 3104259,
+    "brandName": "Mivolis",
+    "title": "Vitamin D3 Perlen 1000 I.E. 60 St, 13,3 g",
+    "tileData": {
+      "a11yLabel": "Marke: Mivolis; Produktname: Vitamin D3 Perlen 1000 I.E. 60 St, 13,3 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 2,65 €; Grundpreis: 0,013 kg (203,85 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Mivolis"
+      },
+      "dan": 3104259,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447832419,
+      "images": [
+        {
+          "alt": "Vitamin D3 Perlen 1000 I.E. 60 St Mivolis",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770251477/assets/pas/images/50ad395d-0e66-4f3e-ba7d-5554bf8128ec/mivolis-vitamin-d3-perlen-1000-i-e-60-st"
+        },
+        {
+          "alt": "Vitamin D3 Perlen 1000 I.E. 60 St Mivolis",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770251482/assets/pas/images/6375ac05-8830-4c40-8871-02ea3bf6b920/mivolis-vitamin-d3-perlen-1000-i-e-60-st"
+        },
+        {
+          "alt": "Vitamin D3 Perlen 1000 I.E. 60 St Mivolis",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770251469/assets/pas/images/07a8b954-01b0-49e8-9066-6b187305431a/mivolis-vitamin-d3-perlen-1000-i-e-60-st"
+        },
+        {
+          "alt": "Vitamin D3 Perlen 1000 I.E. 60 St Mivolis",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770251474/assets/pas/images/2d3c540d-d64d-4b44-812b-cbec8f125d49/mivolis-vitamin-d3-perlen-1000-i-e-60-st"
+        },
+        {
+          "alt": "Vitamin D3 Perlen 1000 I.E. 60 St Mivolis",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770251465/assets/pas/images/616749ed-ecc7-4a6f-9c94-59e3fa2b9549/mivolis-vitamin-d3-perlen-1000-i-e-60-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,013 kg (190,51 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,013 kg (203,85 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.7037
+      },
+      "self": "/p/d/3104259/mivolis-vitamin-d3-perlen-1000-i-e-60-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin D3 Perlen 1000 I.E. 60 St, 13,3 g",
+        "tileHeadlineLong": "Vitamin D3 Perlen 1000 I.E. 60 St, 13,3 g"
+      },
+      "trackingData": {
+        "brand": "Mivolis",
+        "categories": [
+          "Vitamin D"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7037,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 4009932134001,
+    "dan": 1582081,
+    "brandName": "Doppelherz",
+    "title": "Vitamin D3 2000 I.E. Mini Tabletten 60 St, 24,9 g",
+    "tileData": {
+      "a11yLabel": "Marke: Doppelherz; Produktname: Vitamin D3 2000 I.E. Mini Tabletten 60 St, 24,9 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 2,95 €; Grundpreis: 0,0249 kg (118,47 € je 1 kg)",
+      "brand": {
+        "name": "Doppelherz"
+      },
+      "dan": 1582081,
+      "gtin": 4009932134001,
+      "images": [
+        {
+          "alt": "Vitamin D3 2000 I.E. Mini Tabletten 60 St Doppelherz",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436446/assets/pas/images/3db9511e-6e2c-4f25-8b6d-5cb1d4e416ce/doppelherz-vitamin-d3-2000-i-e-mini-tabletten-60-st"
+        },
+        {
+          "alt": "Vitamin D3 2000 I.E. Mini Tabletten 60 St Doppelherz",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436485/assets/pas/images/f12ebed9-797e-4f00-b46e-c1891c432940/doppelherz-vitamin-d3-2000-i-e-mini-tabletten-60-st"
+        },
+        {
+          "alt": "Vitamin D3 2000 I.E. Mini Tabletten 60 St Doppelherz",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436484/assets/pas/images/b285cfcf-ec07-44d4-8797-7f40dfaa4a69/doppelherz-vitamin-d3-2000-i-e-mini-tabletten-60-st"
+        },
+        {
+          "alt": "Vitamin D3 2000 I.E. Mini Tabletten 60 St Doppelherz",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436486/assets/pas/images/9d3be2c9-792c-40df-b1e9-e7cbccdce4fe/doppelherz-vitamin-d3-2000-i-e-mini-tabletten-60-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,0249 kg (110,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0249 kg (118,47 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.7558
+      },
+      "self": "/p/d/1582081/doppelherz-vitamin-d3-2000-i-e-mini-tabletten-60-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin D3 2000 I.E. Mini Tabletten 60 St, 24,9 g",
+        "tileHeadlineLong": "Vitamin D3 2000 I.E. Mini Tabletten 60 St, 24,9 g"
+      },
+      "trackingData": {
+        "brand": "Doppelherz",
+        "categories": [
+          "Vitamin D"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7558,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4008491122047,
+    "dan": 3090740,
+    "brandName": "tetesept",
+    "title": "Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g",
+    "tileData": {
+      "a11yLabel": "Marke: tetesept; Produktname: Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 3,95 €; Grundpreis: 0,009 kg (438,89 € je 1 kg)",
+      "brand": {
+        "name": "tetesept"
+      },
+      "dan": 3090740,
+      "gtin": 4008491122047,
+      "images": [
+        {
+          "alt": "Vitamin K2 + D3 3000 Mini-Tabletten 30 St tetesept",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897360/assets/pas/images/f6c9d0db-1e8c-46f0-b08e-16d64e077e7e/tetesept-vitamin-k2-d3-3000-mini-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin K2 + D3 3000 Mini-Tabletten 30 St tetesept",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753412282/assets/pas/images/f78d1b19-1e77-4be4-90fa-e149d7519435/tetesept-vitamin-k2-d3-3000-mini-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin K2 + D3 3000 Mini-Tabletten 30 St tetesept",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753412269/assets/pas/images/699c1658-a26e-4b39-b879-9040617f8858/tetesept-vitamin-k2-d3-3000-mini-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin K2 + D3 3000 Mini-Tabletten 30 St tetesept",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753412340/assets/pas/images/b223d728-45ea-4f59-a2dc-82e9a2db7543/tetesept-vitamin-k2-d3-3000-mini-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin K2 + D3 3000 Mini-Tabletten 30 St tetesept",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753412324/assets/pas/images/7410c89d-87bf-489a-8231-86bce5eae306/tetesept-vitamin-k2-d3-3000-mini-tabletten-30-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,009 kg (410,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,009 kg (438,89 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.7667
+      },
+      "self": "/p/d/3090740/tetesept-vitamin-k2-d3-3000-mini-tabletten-30-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g",
+        "tileHeadlineLong": "Vitamin K2 + D3 3000 Mini-Tabletten 30 St, 9,2 g"
+      },
+      "trackingData": {
+        "brand": "tetesept",
+        "categories": [
+          "Vitamine"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7667,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 4009932008999,
+    "dan": 1203539,
+    "brandName": "Doppelherz",
+    "title": "Coenzym Q 10 + B-Vitamine Kapseln 30 St, 12,5 g",
+    "tileData": {
+      "a11yLabel": "Marke: Doppelherz; Produktname: Coenzym Q 10 + B-Vitamine Kapseln 30 St, 12,5 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 5,45 €; Grundpreis: 0,0125 kg (436,00 € je 1 kg)",
+      "brand": {
+        "name": "Doppelherz"
+      },
+      "dan": 1203539,
+      "gtin": 4009932008999,
+      "images": [
+        {
+          "alt": "Coenzym Q 10 + B-Vitamine Kapseln 30 St Doppelherz",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436406/assets/pas/images/4b6898c3-c9a2-4c78-a811-e2c0fff2749e/doppelherz-coenzym-q-10-b-vitamine-kapseln-30-st"
+        },
+        {
+          "alt": "Coenzym Q 10 + B-Vitamine Kapseln 30 St Doppelherz",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436390/assets/pas/images/343563a4-86f2-4beb-894c-790e75d387be/doppelherz-coenzym-q-10-b-vitamine-kapseln-30-st"
+        },
+        {
+          "alt": "Coenzym Q 10 + B-Vitamine Kapseln 30 St Doppelherz",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436405/assets/pas/images/1f2d306a-d319-4780-9b2a-090b07cdc294/doppelherz-coenzym-q-10-b-vitamine-kapseln-30-st"
+        },
+        {
+          "alt": "Coenzym Q 10 + B-Vitamine Kapseln 30 St Doppelherz",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436228/assets/pas/images/ae291c1a-9751-4865-b6de-271e72fce992/doppelherz-coenzym-q-10-b-vitamine-kapseln-30-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,09 €"
+          }
+        },
+        "tileInfos": [
+          "0,0125 kg (407,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,0125 kg (436,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 79,
+        "ratingValue": 4.5823
+      },
+      "self": "/p/d/1203539/doppelherz-coenzym-q-10-b-vitamine-kapseln-30-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Coenzym Q 10 + B-Vitamine Kapseln 30 St, 12,5 g",
+        "tileHeadlineLong": "Coenzym Q 10 + B-Vitamine Kapseln 30 St, 12,5 g"
+      },
+      "trackingData": {
+        "brand": "Doppelherz",
+        "categories": [
+          "Sonstige Mineralstoffe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5823,
+        "ratingCount": 79
+      }
+    }
+  },
+  {
+    "gtin": 4009932136616,
+    "dan": 1691669,
+    "brandName": "Doppelherz",
+    "title": "Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g",
+    "tileData": {
+      "a11yLabel": "Marke: Doppelherz; Produktname: Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 3,95 €; Grundpreis: 0,0131 kg (301,53 € je 1 kg)",
+      "brand": {
+        "name": "Doppelherz"
+      },
+      "dan": 1691669,
+      "gtin": 4009932136616,
+      "images": [
+        {
+          "alt": "Vitamin K2 + D3 2500 I.E. Tabletten 30 St Doppelherz",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773532574/assets/pas/images/573973bf-8a68-4c6c-9c1a-51ebcf54a7ee/doppelherz-vitamin-k2-d3-2500-i-e-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin K2 + D3 2500 I.E. Tabletten 30 St Doppelherz",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966240/assets/pas/images/7c6415d1-6e71-4988-9d64-2a1b90f84009/doppelherz-vitamin-k2-d3-2500-i-e-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin K2 + D3 2500 I.E. Tabletten 30 St Doppelherz",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966248/assets/pas/images/eac9d1fa-ea8f-4e47-826e-9786689df8d0/doppelherz-vitamin-k2-d3-2500-i-e-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin K2 + D3 2500 I.E. Tabletten 30 St Doppelherz",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966236/assets/pas/images/414986ce-44a1-49f2-9744-bd4043929c57/doppelherz-vitamin-k2-d3-2500-i-e-tabletten-30-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,0131 kg (281,80 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0131 kg (301,53 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 4.7432
+      },
+      "self": "/p/d/1691669/doppelherz-vitamin-k2-d3-2500-i-e-tabletten-30-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g",
+        "tileHeadlineLong": "Vitamin K2 + D3 2500 I.E. Tabletten 30 St, 13,1 g"
+      },
+      "trackingData": {
+        "brand": "Doppelherz",
+        "categories": [
+          "Vitamine"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7432,
+        "ratingCount": 74
+      }
+    }
+  },
+  {
+    "gtin": 4008491131940,
+    "dan": 1617377,
+    "brandName": "tetesept",
+    "title": "Magnesium Calcium Vitamin K + D Tabletten 40 St, 73,2 g",
+    "tileData": {
+      "a11yLabel": "Marke: tetesept; Produktname: Magnesium Calcium Vitamin K + D Tabletten 40 St, 73,2 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 3,95 €; Grundpreis: 0,0732 kg (53,96 € je 1 kg)",
+      "brand": {
+        "name": "tetesept"
+      },
+      "dan": 1617377,
+      "gtin": 4008491131940,
+      "images": [
+        {
+          "alt": "Magnesium Calcium Vitamin K + D Tabletten 40 St tetesept",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434806/assets/pas/images/bfc547bb-7826-4554-b515-fddbd3c9e056/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st"
+        },
+        {
+          "alt": "Magnesium Calcium Vitamin K + D Tabletten 40 St tetesept",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434881/assets/pas/images/5f2fd733-213d-48a9-a825-29b837ff940c/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st"
+        },
+        {
+          "alt": "Magnesium Calcium Vitamin K + D Tabletten 40 St tetesept",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434807/assets/pas/images/007df75b-0e58-40a7-8fd8-a4c1fb2b423f/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st"
+        },
+        {
+          "alt": "Magnesium Calcium Vitamin K + D Tabletten 40 St tetesept",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434629/assets/pas/images/6a49bd68-562c-4f74-a882-49e4239660d1/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st"
+        },
+        {
+          "alt": "Magnesium Calcium Vitamin K + D Tabletten 40 St tetesept",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747557475/assets/pas/images/5aa135f1-18fd-4253-9073-331e1d9dcf58/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st"
+        },
+        {
+          "alt": "Magnesium Calcium Vitamin K + D Tabletten 40 St tetesept",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434808/assets/pas/images/512c818b-6c30-4639-a9ae-764a5245d596/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st"
+        },
+        {
+          "alt": "Magnesium Calcium Vitamin K + D Tabletten 40 St tetesept",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434629/assets/pas/images/1f203079-0fa6-473d-9ef2-466cfed056b7/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st"
+        },
+        {
+          "alt": "Magnesium Calcium Vitamin K + D Tabletten 40 St tetesept",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434807/assets/pas/images/1dd48641-3ca2-4bae-877f-2f6fef3ad615/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st"
+        },
+        {
+          "alt": "Magnesium Calcium Vitamin K + D Tabletten 40 St tetesept",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434630/assets/pas/images/7a1a1738-83f8-4f63-8b67-2f37dfc415c5/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,0732 kg (50,43 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0732 kg (53,96 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.4286
+      },
+      "self": "/p/d/1617377/tetesept-magnesium-calcium-vitamin-k-d-tabletten-40-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Magnesium Calcium Vitamin K + D Tabletten 40 St, 73,2 g",
+        "tileHeadlineLong": "Magnesium Calcium Vitamin K + D Tabletten 40 St, 73,2 g"
+      },
+      "trackingData": {
+        "brand": "tetesept",
+        "categories": [
+          "Magnesium"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4286,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4008491277297,
+    "dan": 1521264,
+    "brandName": "tetesept",
+    "title": "Vitamin D3 2000 I.E Tabletten 50 St, 15,3 g",
+    "tileData": {
+      "a11yLabel": "Marke: tetesept; Produktname: Vitamin D3 2000 I.E Tabletten 50 St, 15,3 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 2,95 €; Grundpreis: 0,0153 kg (192,81 € je 1 kg)",
+      "brand": {
+        "name": "tetesept"
+      },
+      "dan": 1521264,
+      "gtin": 4008491277297,
+      "images": [
+        {
+          "alt": "Vitamin D3 2000 I.E Tabletten 50 St tetesept",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435056/assets/pas/images/077bd2b6-b906-4c02-96b0-6381b2360cc9/tetesept-vitamin-d3-2000-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2000 I.E Tabletten 50 St tetesept",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435061/assets/pas/images/37cde972-503d-4268-959c-1127f3ab12c2/tetesept-vitamin-d3-2000-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2000 I.E Tabletten 50 St tetesept",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435063/assets/pas/images/3897a250-9671-463f-b54e-a1ff15423d14/tetesept-vitamin-d3-2000-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2000 I.E Tabletten 50 St tetesept",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776376612/assets/pas/images/5ec3eac6-894f-4f31-9137-c54c1d41d179/tetesept-vitamin-d3-2000-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2000 I.E Tabletten 50 St tetesept",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434841/assets/pas/images/bb331b5d-b370-4fdd-816a-cccab629ca68/tetesept-vitamin-d3-2000-i-e-tabletten-50-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,0153 kg (180,20 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0153 kg (192,81 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 100,
+        "ratingValue": 4.63
+      },
+      "self": "/p/d/1521264/tetesept-vitamin-d3-2000-i-e-tabletten-50-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin D3 2000 I.E Tabletten 50 St, 15,3 g",
+        "tileHeadlineLong": "Vitamin D3 2000 I.E Tabletten 50 St, 15,3 g"
+      },
+      "trackingData": {
+        "brand": "tetesept",
+        "categories": [
+          "Vitamin D"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.63,
+        "ratingCount": 100
+      }
+    }
+  },
+  {
+    "gtin": 4066447833676,
+    "dan": 3104297,
+    "brandName": "Mivolis",
+    "title": "Vitamin D3 für Kinder Kautabletten 60 St, 51 g",
+    "tileData": {
+      "a11yLabel": "Marke: Mivolis; Produktname: Vitamin D3 für Kinder Kautabletten 60 St, 51 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 2,45 €; Grundpreis: 0,051 kg (48,04 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Mivolis"
+      },
+      "dan": 3104297,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447833676,
+      "images": [
+        {
+          "alt": "Vitamin D3 für Kinder Kautabletten 60 St Mivolis",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775862442/assets/pas/images/ff1db459-0735-4e22-a1d7-1b1cdeab6df3/mivolis-vitamin-d3-fuer-kinder-kautabletten-60-st"
+        },
+        {
+          "alt": "Vitamin D3 für Kinder Kautabletten 60 St Mivolis",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775862437/assets/pas/images/f6a1900b-6c56-4113-8738-47215ced466b/mivolis-vitamin-d3-fuer-kinder-kautabletten-60-st"
+        },
+        {
+          "alt": "Vitamin D3 für Kinder Kautabletten 60 St Mivolis",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775862431/assets/pas/images/0e0d8d00-d3ec-4f2d-949e-ff920a5f6305/mivolis-vitamin-d3-fuer-kinder-kautabletten-60-st"
+        },
+        {
+          "alt": "Vitamin D3 für Kinder Kautabletten 60 St Mivolis",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775862447/assets/pas/images/00961a8b-487d-47c4-b22d-d4525a2f0b8c/mivolis-vitamin-d3-fuer-kinder-kautabletten-60-st"
+        },
+        {
+          "alt": "Vitamin D3 für Kinder Kautabletten 60 St Mivolis",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775862427/assets/pas/images/33dd3b3e-8874-418a-80f7-35ae426b838a/mivolis-vitamin-d3-fuer-kinder-kautabletten-60-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,051 kg (44,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,051 kg (48,04 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.8235
+      },
+      "self": "/p/d/3104297/mivolis-vitamin-d3-fuer-kinder-kautabletten-60-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin D3 für Kinder Kautabletten 60 St, 51 g",
+        "tileHeadlineLong": "Vitamin D3 für Kinder Kautabletten 60 St, 51 g"
+      },
+      "trackingData": {
+        "brand": "Mivolis",
+        "categories": [
+          "Vitamin D"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8235,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4066447831559,
+    "dan": 3104238,
+    "brandName": "Mivolis",
+    "title": "Vitamin D3 5600 I.E. Wochen-Depot Weichkapseln 12 St, 5 g",
+    "tileData": {
+      "a11yLabel": "Marke: Mivolis; Produktname: Vitamin D3 5600 I.E. Wochen-Depot Weichkapseln 12 St, 5 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 1,95 €; Grundpreis: 0,005 kg (390,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Mivolis"
+      },
+      "dan": 3104238,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447831559,
+      "images": [
+        {
+          "alt": "Vitamin D3 5600 I.E. Wochen-Depot Weichkapseln 12 St Mivolis",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783734367/assets/pas/images/02951f4f-db2f-49f8-97b8-d61850e292ee/mivolis-vitamin-d3-5600-i-e-wochen-depot-weichkapseln-12-st"
+        },
+        {
+          "alt": "Vitamin D3 5600 I.E. Wochen-Depot Weichkapseln 12 St Mivolis",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783734361/assets/pas/images/856ea737-ba31-4b5c-b654-8c7bfdf86d02/mivolis-vitamin-d3-5600-i-e-wochen-depot-weichkapseln-12-st"
+        },
+        {
+          "alt": "Vitamin D3 5600 I.E. Wochen-Depot Weichkapseln 12 St Mivolis",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783734343/assets/pas/images/e6e521cb-3568-4008-8f7f-dd40fbf32a86/mivolis-vitamin-d3-5600-i-e-wochen-depot-weichkapseln-12-st"
+        },
+        {
+          "alt": "Vitamin D3 5600 I.E. Wochen-Depot Weichkapseln 12 St Mivolis",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783734348/assets/pas/images/475a14a4-4f12-4bfd-9f90-bb36393f1015/mivolis-vitamin-d3-5600-i-e-wochen-depot-weichkapseln-12-st"
+        },
+        {
+          "alt": "Vitamin D3 5600 I.E. Wochen-Depot Weichkapseln 12 St Mivolis",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783734354/assets/pas/images/1691dd70-84bc-4c00-aac2-55b80c0da21e/mivolis-vitamin-d3-5600-i-e-wochen-depot-weichkapseln-12-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,005 kg (364,49 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,005 kg (390,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 40,
+        "ratingValue": 4.925
+      },
+      "self": "/p/d/3104238/mivolis-vitamin-d3-5600-i-e-wochen-depot-weichkapseln-12-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin D3 5600 I.E. Wochen-Depot Weichkapseln 12..., 5 g",
+        "tileHeadlineLong": "Vitamin D3 5600 I.E. Wochen-Depot Weichkapseln 12..., 5 g"
+      },
+      "trackingData": {
+        "brand": "Mivolis",
+        "categories": [
+          "Vitamin D"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.925,
+        "ratingCount": 40
+      }
+    }
+  },
+  {
+    "gtin": 4066447985290,
+    "dan": 1690679,
+    "brandName": "Balea",
+    "title": "Dunkle Flecken Aufheller Vitamin C, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Dunkle Flecken Aufheller Vitamin C, 50 ml; Preis: 3,95 €; Grundpreis: 0,05 l (79,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1690679,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447985290,
+      "images": [
+        {
+          "alt": "Dunkle Flecken Aufheller Vitamin C Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778969207/assets/pas/images/70206298-0c60-492e-9510-887312457f59/balea-dunkle-flecken-aufheller-vitamin-c"
+        },
+        {
+          "alt": "Dunkle Flecken Aufheller Vitamin C Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778969197/assets/pas/images/586ca999-3bad-46ff-bfd6-a7041a017ddc/balea-dunkle-flecken-aufheller-vitamin-c"
+        },
+        {
+          "alt": "Dunkle Flecken Aufheller Vitamin C Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778969200/assets/pas/images/d9ea952d-a5ed-4187-b656-a2c5867e4d1c/balea-dunkle-flecken-aufheller-vitamin-c"
+        },
+        {
+          "alt": "Dunkle Flecken Aufheller Vitamin C Balea",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778969215/assets/pas/images/70d40074-efe3-472a-a70f-3967d4ed560d/balea-dunkle-flecken-aufheller-vitamin-c"
+        },
+        {
+          "alt": "Dunkle Flecken Aufheller Vitamin C Balea",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783739915/assets/pas/images/52a16ae5-316f-4f80-8daf-03416475092e/balea-dunkle-flecken-aufheller-vitamin-c"
+        },
+        {
+          "alt": "Dunkle Flecken Aufheller Vitamin C Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778969203/assets/pas/images/56ee7eee-4f88-45a0-8097-09cb35c5f6a3/balea-dunkle-flecken-aufheller-vitamin-c"
+        },
+        {
+          "alt": "Dunkle Flecken Aufheller Vitamin C Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778969212/assets/pas/images/60eaacbe-ac76-4b15-8181-09a235cccdcb/balea-dunkle-flecken-aufheller-vitamin-c"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (66,39 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (79,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 148,
+        "ratingValue": 3.3514
+      },
+      "self": "/p/d/1690679/balea-dunkle-flecken-aufheller-vitamin-c",
+      "title": {
+        "tileHeadline": "Dunkle Flecken Aufheller Vitamin C, 50 ml",
+        "tileHeadlineLong": "Dunkle Flecken Aufheller Vitamin C, 50 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Tagescreme"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.3514,
+        "ratingCount": 148
+      }
+    }
+  },
+  {
+    "gtin": 4250616671040,
+    "dan": 1647297,
+    "brandName": "Vitamin Well",
+    "title": "Erfrischungsgetränk, Reload Zitrone-Limette, 500 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Vitamin Well; Produktname: Erfrischungsgetränk, Reload Zitrone-Limette, 500 ml EINWEG; Preis: 1,95 €; Grundpreis: 0,5 l (3,90 € je 1 l)",
+      "brand": {
+        "name": "Vitamin Well"
+      },
+      "dan": 1647297,
+      "gtin": 4250616671040,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Reload Zitrone-Limette Vitamin Well",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747489975/assets/pas/images/ccef5516-4d89-4325-94aa-a73dfc07c7b7/vitamin-well-erfrischungsgetraenk-reload-zitrone-limette"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (3,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (3,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.6716
+      },
+      "self": "/p/d/1647297/vitamin-well-erfrischungsgetraenk-reload-zitrone-limette",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Reload Zitrone-Limette, 500 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Reload Zitrone-Limette, 500 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "Vitamin Well",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6716,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4066447438765,
+    "dan": 1710324,
+    "brandName": "Balea",
+    "title": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Serum Beauty Expert Vitamin C Serum-Creme LSF 30, 50 ml; Preis: 5,95 €; Grundpreis: 0,05 l (119,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1710324,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447438765,
+      "images": [
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760480239/assets/pas/images/7f776bc9-92b8-4a6e-833a-58f08d58436a/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779234873/assets/pas/images/da3a5d9e-9b66-4a84-a208-a49148513a93/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760480231/assets/pas/images/8bc6e616-63ae-42db-83eb-cb0b544f9a6d/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760480235/assets/pas/images/63a61c4a-4477-4bae-a147-2abdfea14843/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779234884/assets/pas/images/69e8c1b9-5aa3-46d5-93c1-9e4b5466d9b2/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760480256/assets/pas/images/052cd722-cf3c-44f6-80c2-8c7c8ef3ad76/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482119/assets/pas/images/bae9ae42-25cd-425f-9e5c-5f005740f9f5/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482119/assets/pas/images/a381e0bb-e8bc-4600-a7f0-292b0427f854/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760480227/assets/pas/images/8ce054fd-000c-4273-bcd0-5ec106212c0e/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482164/assets/pas/images/c05d2222-aab0-492b-9d63-c04d7f52052b/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        },
+        {
+          "alt": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30 Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760480244/assets/pas/images/1703d687-b345-4a11-aa54-eff461964d97/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (100,00 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (119,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 162,
+        "ratingValue": 3.6358
+      },
+      "self": "/p/d/1710324/balea-serum-beauty-expert-vitamin-c-serum-creme-lsf-30",
+      "title": {
+        "tileHeadline": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30, 50 ml",
+        "tileHeadlineLong": "Serum Beauty Expert Vitamin C Serum-Creme LSF 30, 50 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Serum & Kur",
+          "Tagescreme"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6358,
+        "ratingCount": 162
+      }
+    }
+  },
+  {
+    "gtin": 4008491116855,
+    "dan": 3064221,
+    "brandName": "tetesept",
+    "title": "Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g",
+    "tileData": {
+      "a11yLabel": "Marke: tetesept; Produktname: Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 5,45 €; Grundpreis: 6 g (0,91 € je 1 g)",
+      "brand": {
+        "name": "tetesept"
+      },
+      "dan": 3064221,
+      "gtin": 4008491116855,
+      "images": [
+        {
+          "alt": "Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St tetesept",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774393505/assets/pas/images/14cfd66b-8329-4723-b5ed-130759085377/tetesept-vitamin-d3-10-000-i-e-wochendepot-tabletten-12-st"
+        },
+        {
+          "alt": "Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St tetesept",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435056/assets/pas/images/ddfac8c4-ce59-4e0d-b58a-e2354d695340/tetesept-vitamin-d3-10-000-i-e-wochendepot-tabletten-12-st"
+        },
+        {
+          "alt": "Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St tetesept",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776379317/assets/pas/images/f7078a7f-d1af-42e7-8b49-6c79312179c3/tetesept-vitamin-d3-10-000-i-e-wochendepot-tabletten-12-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,09 €"
+          }
+        },
+        "tileInfos": [
+          "6 g (0,85 € je 1 g)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "6 g (0,91 € je 1 g)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.8214
+      },
+      "self": "/p/d/3064221/tetesept-vitamin-d3-10-000-i-e-wochendepot-tabletten-12-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g",
+        "tileHeadlineLong": "Vitamin D3 10.000 I.E. Wochendepot Tabletten 12 St, 6 g"
+      },
+      "trackingData": {
+        "brand": "tetesept",
+        "categories": [
+          "Vitamin D"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8214,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 4008617040293,
+    "dan": 1306558,
+    "brandName": "taxofit",
+    "title": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück), 22 g",
+    "tileData": {
+      "a11yLabel": "Marke: taxofit; Produktname: Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück), 22 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 3,25 €; Grundpreis: 0,022 kg (147,73 € je 1 kg)",
+      "brand": {
+        "name": "taxofit"
+      },
+      "dan": 1306558,
+      "gtin": 4008617040293,
+      "images": [
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435855/assets/pas/images/911a6c53-2469-4595-a2d4-ce3963f65697/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435854/assets/pas/images/6fbb2e62-ac22-4d04-a2f4-6b5698181730/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305287/assets/pas/images/5fbbe27d-9673-4d4f-a560-c1f0e8b69438/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305295/assets/pas/images/0d2c046c-857e-4e06-bf13-dc27e430429a/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305301/assets/pas/images/62d7c8d4-fce0-4820-a7d2-6a14a7e16282/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305308/assets/pas/images/c66bcb00-a585-4605-a605-3cf77796c712/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305315/assets/pas/images/bb321433-b375-475c-83e4-ae6e76d3e9b9/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305322/assets/pas/images/0e3bc9b0-ba3d-4137-8eae-749e23250341/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435855/assets/pas/images/337f61fd-651d-4abf-ae0a-5da2c10a03f4/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435597/assets/pas/images/277d80c4-0e36-4fa7-b834-040ee6c10dea/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        },
+        {
+          "alt": "Eisen + Folsäure + Vitamin C direkt Granulat (20 Stück) taxofit",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305282/assets/pas/images/3be792dc-3d2c-496e-ab35-91fc22fa9cc6/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,022 kg (138,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,022 kg (147,73 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 104,
+        "ratingValue": 4.6442
+      },
+      "self": "/p/d/1306558/taxofit-eisen-folsaeure-vitamin-c-direkt-granulat-20-stueck",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Eisen + Folsäure + Vitamin C direkt Granulat (20..., 22 g",
+        "tileHeadlineLong": "Eisen + Folsäure + Vitamin C direkt Granulat (20..., 22 g"
+      },
+      "trackingData": {
+        "brand": "taxofit",
+        "categories": [
+          "Eisen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6442,
+        "ratingCount": 104
+      }
+    }
+  },
+  {
+    "gtin": 3574661876689,
+    "dan": 1672209,
+    "brandName": "bebe",
+    "title": "Pflegende Reinigungstücher mit Vitamin E und Glycerin, 30 St",
+    "tileData": {
+      "a11yLabel": "Marke: bebe; Produktname: Pflegende Reinigungstücher mit Vitamin E und Glycerin, 30 St; Preis: 2,25 €; Grundpreis: 30 St (0,08 € je 1 St)",
+      "brand": {
+        "name": "bebe"
+      },
+      "dan": 1672209,
+      "gtin": 3574661876689,
+      "images": [
+        {
+          "alt": "Pflegende Reinigungstücher mit Vitamin E und Glycerin bebe",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974591/assets/pas/images/f8d4c1b0-4375-44c3-860f-3db372069241/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin"
+        },
+        {
+          "alt": "Pflegende Reinigungstücher mit Vitamin E und Glycerin bebe",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974615/assets/pas/images/d0aa2871-0e69-4d1e-bff6-6f932d659bc5/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin"
+        },
+        {
+          "alt": "Pflegende Reinigungstücher mit Vitamin E und Glycerin bebe",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974607/assets/pas/images/9e9e4ab6-042d-48e1-a3d6-b5e47e420ea1/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin"
+        },
+        {
+          "alt": "Pflegende Reinigungstücher mit Vitamin E und Glycerin bebe",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974599/assets/pas/images/200beda3-6814-4e60-8fe9-81a71eac9a71/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin"
+        },
+        {
+          "alt": "Pflegende Reinigungstücher mit Vitamin E und Glycerin bebe",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974624/assets/pas/images/7abb9543-c93c-45c7-9257-81f153293525/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin"
+        },
+        {
+          "alt": "Pflegende Reinigungstücher mit Vitamin E und Glycerin bebe",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777687920/assets/pas/images/10f22f34-3135-4f1f-a577-51dc34fa13a7/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin"
+        },
+        {
+          "alt": "Pflegende Reinigungstücher mit Vitamin E und Glycerin bebe",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777687936/assets/pas/images/3a972c93-ba87-460d-a3b4-4ed039f3abd6/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin"
+        },
+        {
+          "alt": "Pflegende Reinigungstücher mit Vitamin E und Glycerin bebe",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777687907/assets/pas/images/00e7fe21-9c2e-4e72-b6db-0d85dd946563/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin"
+        },
+        {
+          "alt": "Pflegende Reinigungstücher mit Vitamin E und Glycerin bebe",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777687927/assets/pas/images/8c4484a1-2acd-4bcb-8295-75224e94247e/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,89 €"
+          }
+        },
+        "tileInfos": [
+          "30 St (0,07 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "30 St (0,08 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4750,
+        "ratingValue": 3.0779
+      },
+      "self": "/p/d/1672209/bebe-pflegende-reinigungstuecher-mit-vitamin-e-und-glycerin",
+      "title": {
+        "tileHeadline": "Pflegende Reinigungstücher mit Vitamin E und..., 30 St",
+        "tileHeadlineLong": "Pflegende Reinigungstücher mit Vitamin E und..., 30 St"
+      },
+      "trackingData": {
+        "brand": "bebe",
+        "categories": [
+          "Gesichtsreinigung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0779,
+        "ratingCount": 4750
+      }
+    }
+  },
+  {
+    "gtin": 4009932135565,
+    "dan": 1541003,
+    "brandName": "Doppelherz",
+    "title": "Vitamin C 1000 + D3 + Zink Depot Tabletten 30 St, 42,9 g",
+    "tileData": {
+      "a11yLabel": "Marke: Doppelherz; Produktname: Vitamin C 1000 + D3 + Zink Depot Tabletten 30 St, 42,9 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 4,95 €; Grundpreis: 0,0429 kg (115,38 € je 1 kg)",
+      "brand": {
+        "name": "Doppelherz"
+      },
+      "dan": 1541003,
+      "gtin": 4009932135565,
+      "images": [
+        {
+          "alt": "Vitamin C 1000 + D3 + Zink Depot Tabletten 30 St Doppelherz",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436654/assets/pas/images/840495ee-daab-41bf-83c0-4c091e727ef8/doppelherz-vitamin-c-1000-d3-zink-depot-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin C 1000 + D3 + Zink Depot Tabletten 30 St Doppelherz",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436431/assets/pas/images/dda23102-005e-491f-9ad0-b2f0ba25f892/doppelherz-vitamin-c-1000-d3-zink-depot-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin C 1000 + D3 + Zink Depot Tabletten 30 St Doppelherz",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436426/assets/pas/images/5fab2782-1732-4917-bb69-2881fe039689/doppelherz-vitamin-c-1000-d3-zink-depot-tabletten-30-st"
+        },
+        {
+          "alt": "Vitamin C 1000 + D3 + Zink Depot Tabletten 30 St Doppelherz",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436630/assets/pas/images/88b17544-61f7-459a-b5dd-ebe059ad1039/doppelherz-vitamin-c-1000-d3-zink-depot-tabletten-30-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,0429 kg (107,83 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0429 kg (115,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.7073
+      },
+      "self": "/p/d/1541003/doppelherz-vitamin-c-1000-d3-zink-depot-tabletten-30-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin C 1000 + D3 + Zink Depot Tabletten 30 St, 42,9 g",
+        "tileHeadlineLong": "Vitamin C 1000 + D3 + Zink Depot Tabletten 30 St, 42,9 g"
+      },
+      "trackingData": {
+        "brand": "Doppelherz",
+        "categories": [
+          "Vitamin C"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7073,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 3600542658317,
+    "dan": 3112379,
+    "brandName": "GARNIER",
+    "title": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell, 40 ml",
+    "tileData": {
+      "a11yLabel": "Marke: GARNIER; Produktname: Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell, 40 ml; Preis: 12,95 €; Grundpreis: 0,04 l (323,75 € je 1 l)",
+      "brand": {
+        "name": "GARNIER"
+      },
+      "dan": 3112379,
+      "gtin": 3600542658317,
+      "images": [
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762771967/assets/pas/images/383206b4-bdc8-4e64-8888-cb134098643b/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765580222/assets/pas/images/8b484c72-f7cc-40c7-b283-6f04d950ddbc/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765580077/assets/pas/images/c5a80f54-b7c9-40f3-adcf-c4097a1b9a18/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765580098/assets/pas/images/adb8d214-e9f9-454c-89d7-a18b2c886bcc/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774992776/assets/pas/images/18739080-016a-466a-a94a-bd9be1da64b2/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765580242/assets/pas/images/1b0633ef-c379-4c2d-8317-22f0c61de060/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765580230/assets/pas/images/6bf42018-0d9f-46fa-9651-e4af914275c7/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765580180/assets/pas/images/a346f35d-da04-4e26-9da2-d8197191fe4e/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765580210/assets/pas/images/c6bdef05-113f-46f2-9a42-bf3e2ad17cc3/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765580119/assets/pas/images/4f6527bc-45f5-46bd-aae9-e3f6df418072/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        },
+        {
+          "alt": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell GARNIER",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765580201/assets/pas/images/a18b1e3c-f4ea-4838-991b-9cc1cd5db4e4/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,88 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 l (272,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 l (323,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 150,
+        "ratingValue": 4.16
+      },
+      "self": "/p/d/3112379/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell",
+      "title": {
+        "tileHeadline": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+,..., 40 ml",
+        "tileHeadlineLong": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+,..., 40 ml"
+      },
+      "trackingData": {
+        "brand": "GARNIER",
+        "categories": [
+          "Tagescreme"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 12.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Variante",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 3112379,
+            "gtin": 3600542658317,
+            "hex": "#ECCEAC",
+            "href": "/p/d/3112379/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-hell",
+            "isSelected": true,
+            "tooltip": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Hell"
+          },
+          {
+            "dan": 3112369,
+            "gtin": 3600542658423,
+            "hex": "#C38E64",
+            "href": "/p/d/3112369/garnier-gesichtsfluid-vitamin-c-wonder-tint-uv-lsf-50-medium",
+            "isSelected": false,
+            "tooltip": "Gesichtsfluid Vitamin C Wonder Tint UV LSF 50+, Medium"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.16,
+        "ratingCount": 150
+      }
+    }
+  },
+  {
+    "gtin": 4250616671118,
+    "dan": 3043072,
+    "brandName": "Vitamin Well",
+    "title": "Erfrischungsgetränk, Hydrate Erdbeer-Rhabarber, 500 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Vitamin Well; Produktname: Erfrischungsgetränk, Hydrate Erdbeer-Rhabarber, 500 ml EINWEG; Preis: 1,95 €; Grundpreis: 0,5 l (3,90 € je 1 l)",
+      "brand": {
+        "name": "Vitamin Well"
+      },
+      "dan": 3043072,
+      "gtin": 4250616671118,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Hydrate Erdbeer-Rhabarber Vitamin Well",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490330/assets/pas/images/7c2a7937-bb9e-4cf2-8c03-a4d5b62bd3d7/vitamin-well-erfrischungsgetraenk-hydrate-erdbeer-rhabarber"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Hydrate Erdbeer-Rhabarber Vitamin Well",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490331/assets/pas/images/177eb07f-c23b-4bfb-a51b-283cbc9f57c7/vitamin-well-erfrischungsgetraenk-hydrate-erdbeer-rhabarber"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (3,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (3,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.6324
+      },
+      "self": "/p/d/3043072/vitamin-well-erfrischungsgetraenk-hydrate-erdbeer-rhabarber",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Hydrate Erdbeer-Rhabarber, 500 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Hydrate Erdbeer-Rhabarber, 500 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "Vitamin Well",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6324,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4009932008463,
+    "dan": 1257432,
+    "brandName": "Doppelherz",
+    "title": "Magnesium 400 + Vitamine B6 + B12 + Folsäure Brausetabletten 15 St., 97,5 g",
+    "tileData": {
+      "a11yLabel": "Marke: Doppelherz; Produktname: Magnesium 400 + Vitamine B6 + B12 + Folsäure Brausetabletten 15 St., 97,5 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 2,95 €; Grundpreis: 0,0975 kg (30,26 € je 1 kg)",
+      "brand": {
+        "name": "Doppelherz"
+      },
+      "dan": 1257432,
+      "gtin": 4009932008463,
+      "images": [
+        {
+          "alt": "Magnesium 400 + Vitamine B6 + B12 + Folsäure Brausetabletten 15 St. Doppelherz",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436617/assets/pas/images/d4807f44-2da1-4823-90fd-6ea9fc6d141b/doppelherz-magnesium-400-vitamine-b6-b12-folsaeure-brausetabletten-15-st"
+        },
+        {
+          "alt": "Magnesium 400 + Vitamine B6 + B12 + Folsäure Brausetabletten 15 St. Doppelherz",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436617/assets/pas/images/be16b1f9-a27b-477f-9b5d-6239b4ec6728/doppelherz-magnesium-400-vitamine-b6-b12-folsaeure-brausetabletten-15-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,0975 kg (28,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0975 kg (30,26 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 77,
+        "ratingValue": 4.7143
+      },
+      "self": "/p/d/1257432/doppelherz-magnesium-400-vitamine-b6-b12-folsaeure-brausetabletten-15-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Magnesium 400 + Vitamine B6 + B12 + Folsäure..., 97,5 g",
+        "tileHeadlineLong": "Magnesium 400 + Vitamine B6 + B12 + Folsäure..., 97,5 g"
+      },
+      "trackingData": {
+        "brand": "Doppelherz",
+        "categories": [
+          "Magnesium"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7143,
+        "ratingCount": 77
+      }
+    }
+  },
+  {
+    "gtin": 4009932004700,
+    "dan": 1097201,
+    "brandName": "Doppelherz",
+    "title": "Lecithin + B-Vitamine Kapseln 40 St, 41,6 g",
+    "tileData": {
+      "a11yLabel": "Marke: Doppelherz; Produktname: Lecithin + B-Vitamine Kapseln 40 St, 41,6 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 3,95 €; Grundpreis: 0,0416 kg (94,95 € je 1 kg)",
+      "brand": {
+        "name": "Doppelherz"
+      },
+      "dan": 1097201,
+      "gtin": 4009932004700,
+      "images": [
+        {
+          "alt": "Lecithin + B-Vitamine Kapseln 40 St Doppelherz",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093821/assets/pas/images/fdef8dba-9e6f-4663-9d8b-dc8a7833ebd0/doppelherz-lecithin-b-vitamine-kapseln-40-st"
+        },
+        {
+          "alt": "Lecithin + B-Vitamine Kapseln 40 St Doppelherz",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093817/assets/pas/images/029b1467-b98a-4253-af58-0e2337313b6a/doppelherz-lecithin-b-vitamine-kapseln-40-st"
+        },
+        {
+          "alt": "Lecithin + B-Vitamine Kapseln 40 St Doppelherz",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093827/assets/pas/images/7f64122f-5125-496a-b60b-789a358b58d0/doppelherz-lecithin-b-vitamine-kapseln-40-st"
+        },
+        {
+          "alt": "Lecithin + B-Vitamine Kapseln 40 St Doppelherz",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093817/assets/pas/images/1ec0fc4a-e123-4ed5-9fbb-8b592d96f675/doppelherz-lecithin-b-vitamine-kapseln-40-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,0416 kg (88,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0416 kg (94,95 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.7625
+      },
+      "self": "/p/d/1097201/doppelherz-lecithin-b-vitamine-kapseln-40-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Lecithin + B-Vitamine Kapseln 40 St, 41,6 g",
+        "tileHeadlineLong": "Lecithin + B-Vitamine Kapseln 40 St, 41,6 g"
+      },
+      "trackingData": {
+        "brand": "Doppelherz",
+        "categories": [
+          "Gedächtnis & Konzentration"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7625,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 4260253660253,
+    "dan": 1689758,
+    "brandName": "Partyfly",
+    "title": "Elektrolyt-Vitamin C-Komplex Brausetabletten 50 St, 325 g",
+    "tileData": {
+      "a11yLabel": "Marke: Partyfly; Produktname: Elektrolyt-Vitamin C-Komplex Brausetabletten 50 St, 325 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 39,95 €; Grundpreis: 0,325 kg (122,92 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Partyfly"
+      },
+      "dan": 1689758,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260253660253,
+      "images": [
+        {
+          "alt": "Elektrolyt-Vitamin C-Komplex Brausetabletten 50 St Partyfly",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492084/assets/pas/images/55f7f266-223e-4b36-a598-c2397a3eeba0/partyfly-elektrolyt-vitamin-c-komplex-brausetabletten-50-st"
+        },
+        {
+          "alt": "Elektrolyt-Vitamin C-Komplex Brausetabletten 50 St Partyfly",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491702/assets/pas/images/af397947-ae2b-4d06-a632-be030c6f5255/partyfly-elektrolyt-vitamin-c-komplex-brausetabletten-50-st"
+        },
+        {
+          "alt": "Elektrolyt-Vitamin C-Komplex Brausetabletten 50 St Partyfly",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491931/assets/pas/images/15a8dfa3-0630-4993-b4be-49d05ca59009/partyfly-elektrolyt-vitamin-c-komplex-brausetabletten-50-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "37,34 €"
+          }
+        },
+        "tileInfos": [
+          "0,325 kg (114,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "39,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,325 kg (122,92 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 4.3
+      },
+      "self": "/p/d/1689758/partyfly-elektrolyt-vitamin-c-komplex-brausetabletten-50-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Elektrolyt-Vitamin C-Komplex Brausetabletten 50 St, 325 g",
+        "tileHeadlineLong": "Elektrolyt-Vitamin C-Komplex Brausetabletten 50 St, 325 g"
+      },
+      "trackingData": {
+        "brand": "Partyfly",
+        "categories": [
+          "Sonstige Mineralstoffe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 39.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3,
+        "ratingCount": 10
+      }
+    }
+  },
+  {
+    "gtin": 4009932137187,
+    "dan": 1432068,
+    "brandName": "Doppelherz",
+    "title": "Ginkgo + B-Vitamine + Cholin Kapseln 40 St, 22,4 g",
+    "tileData": {
+      "a11yLabel": "Marke: Doppelherz; Produktname: Ginkgo + B-Vitamine + Cholin Kapseln 40 St, 22,4 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 4,75 €; Grundpreis: 0,0224 kg (212,05 € je 1 kg)",
+      "brand": {
+        "name": "Doppelherz"
+      },
+      "dan": 1432068,
+      "gtin": 4009932137187,
+      "images": [
+        {
+          "alt": "Ginkgo + B-Vitamine + Cholin Kapseln 40 St Doppelherz",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436431/assets/pas/images/cd8b9875-bb4e-451d-9a3b-51773aad34a9/doppelherz-ginkgo-b-vitamine-cholin-kapseln-40-st"
+        },
+        {
+          "alt": "Ginkgo + B-Vitamine + Cholin Kapseln 40 St Doppelherz",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436631/assets/pas/images/2ecf3d3e-97e0-4bfc-956c-070a90a57943/doppelherz-ginkgo-b-vitamine-cholin-kapseln-40-st"
+        },
+        {
+          "alt": "Ginkgo + B-Vitamine + Cholin Kapseln 40 St Doppelherz",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436630/assets/pas/images/c3626ec5-2b0d-4ba5-9bb6-6506e9b9a2a0/doppelherz-ginkgo-b-vitamine-cholin-kapseln-40-st"
+        },
+        {
+          "alt": "Ginkgo + B-Vitamine + Cholin Kapseln 40 St Doppelherz",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436630/assets/pas/images/87f3a244-32e9-42d0-8075-02da078cecf8/doppelherz-ginkgo-b-vitamine-cholin-kapseln-40-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,44 €"
+          }
+        },
+        "tileInfos": [
+          "0,0224 kg (198,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,0224 kg (212,05 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.6981
+      },
+      "self": "/p/d/1432068/doppelherz-ginkgo-b-vitamine-cholin-kapseln-40-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Ginkgo + B-Vitamine + Cholin Kapseln 40 St, 22,4 g",
+        "tileHeadlineLong": "Ginkgo + B-Vitamine + Cholin Kapseln 40 St, 22,4 g"
+      },
+      "trackingData": {
+        "brand": "Doppelherz",
+        "categories": [
+          "Gedächtnis & Konzentration"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6981,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4008617032168,
+    "dan": 1541272,
+    "brandName": "taxofit",
+    "title": "Vitamin D3 2500 I.E. Tabletten 50 St, 7,7 g",
+    "tileData": {
+      "a11yLabel": "Marke: taxofit; Produktname: Vitamin D3 2500 I.E. Tabletten 50 St, 7,7 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 3,55 €",
+      "brand": {
+        "name": "taxofit"
+      },
+      "dan": 1541272,
+      "gtin": 4008617032168,
+      "images": [
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754985926/assets/pas/images/73d64280-a158-4a82-bf8a-f5972f20e32c/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754985923/assets/pas/images/9ff4a6ff-7fd5-4acf-8cd0-6882f2617639/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249146/assets/pas/images/2bc7ce90-798b-47be-b8b3-9e9a04596db6/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249153/assets/pas/images/d3dbf2c4-016e-41da-aec5-bdcfc9c8fb34/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249159/assets/pas/images/388717e5-ad39-4c33-aa01-ecd7743fe050/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249165/assets/pas/images/a03f3314-ee38-4e9a-a0b5-c55b2a1b80b8/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249172/assets/pas/images/44ee47a7-49ae-4f0e-9492-10c731c3b45c/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249179/assets/pas/images/5dc1ba53-00f4-4f37-9470-110ae04bd4c8/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754985923/assets/pas/images/b180bf46-8e66-439f-9e14-7135cb05994d/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        },
+        {
+          "alt": "Vitamin D3 2500 I.E. Tabletten 50 St taxofit",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754985926/assets/pas/images/5624351d-9512-45b1-ab49-22e92321793b/taxofit-vitamin-d3-2500-i-e-tabletten-50-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        }
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,55 €"
+          }
+        }
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.7831
+      },
+      "self": "/p/d/1541272/taxofit-vitamin-d3-2500-i-e-tabletten-50-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitamin D3 2500 I.E. Tabletten 50 St, 7,7 g",
+        "tileHeadlineLong": "Vitamin D3 2500 I.E. Tabletten 50 St, 7,7 g"
+      },
+      "trackingData": {
+        "brand": "taxofit",
+        "categories": [
+          "Vitamin D"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7831,
+        "ratingCount": 83
+      }
+    }
+  }
+]

@@ -1,0 +1,2829 @@
+[
+  {
+    "gtin": 4066447576283,
+    "dan": 1629013,
+    "brandName": "dmBio",
+    "title": "Quinoa Tricolore, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Quinoa Tricolore, 500 g; Preis: 2,95 €; Grundpreis: 0,5 kg (5,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1629013,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447576283,
+      "images": [
+        {
+          "alt": "Quinoa Tricolore dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755005818/assets/pas/images/d03716fe-cc05-443b-8e7d-8fc546d4c185/dmbio-quinoa-tricolore"
+        },
+        {
+          "alt": "Quinoa Tricolore dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483520/assets/pas/images/25df3026-4ccb-400f-9779-3378bb466cd0/dmbio-quinoa-tricolore"
+        },
+        {
+          "alt": "Quinoa Tricolore dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755005819/assets/pas/images/686b9daf-2a35-4027-9cf5-17733b271d53/dmbio-quinoa-tricolore"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,51 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 145,
+        "ratingValue": 4.8552
+      },
+      "self": "/p/d/1629013/dmbio-quinoa-tricolore",
+      "title": {
+        "tileHeadline": "Quinoa Tricolore, 500 g",
+        "tileHeadlineLong": "Quinoa Tricolore, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Bulgur, Quinoa & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8552,
+        "ratingCount": 145
+      }
+    }
+  },
+  {
+    "gtin": 4067796167818,
+    "dan": 1570746,
+    "brandName": "dmBio",
+    "title": "Quinoa, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Quinoa, 500 g; Preis: 2,85 €; Grundpreis: 0,5 kg (5,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1570746,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796167818,
+      "images": [
+        {
+          "alt": "Quinoa dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755004517/assets/pas/images/f4e32ff1-100b-4687-bf22-b8906adb1121/dmbio-quinoa"
+        },
+        {
+          "alt": "Quinoa dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755004517/assets/pas/images/2b8b4166-8a84-4965-bbf5-77e297d57077/dmbio-quinoa"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,33 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 108,
+        "ratingValue": 4.7593
+      },
+      "self": "/p/d/1570746/dmbio-quinoa",
+      "title": {
+        "tileHeadline": "Quinoa, 500 g",
+        "tileHeadlineLong": "Quinoa, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Bulgur, Quinoa & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7593,
+        "ratingCount": 108
+      }
+    }
+  },
+  {
+    "gtin": 4058172824616,
+    "dan": 1611058,
+    "brandName": "dmBio",
+    "title": "Couscous, Kichererbsen & Rote Linsen, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Couscous, Kichererbsen & Rote Linsen, 250 g; Preis: 2,25 €; Grundpreis: 0,25 kg (9,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1611058,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172824616,
+      "images": [
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455590/assets/pas/images/ec3c7192-04d9-48aa-975e-08d1f0f9b5ee/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455585/assets/pas/images/7ef61091-74fc-4101-b5e6-514ca46f70c9/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761822146/assets/pas/images/2a26a10d-8f24-4be8-8b3f-2b5a0faf4b30/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455456/assets/pas/images/13f51885-f934-422b-9cc9-7dc18e0ffe3d/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455785/assets/pas/images/84218890-ce9c-43e0-8ce2-abbd2f6d4833/dmbio-couscous-kichererbsen-und-rote-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (8,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 159,
+        "ratingValue": 4.673
+      },
+      "self": "/p/d/1611058/dmbio-couscous-kichererbsen-und-rote-linsen",
+      "title": {
+        "tileHeadline": "Couscous, Kichererbsen & Rote Linsen, 250 g",
+        "tileHeadlineLong": "Couscous, Kichererbsen & Rote Linsen, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Bulgur, Quinoa & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.675,
+        "ratingCount": 160
+      }
+    }
+  },
+  {
+    "gtin": 4070765020335,
+    "dan": 3121358,
+    "brandName": "dmBio",
+    "title": "Buchweizen-Bulgur, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Buchweizen-Bulgur, 500 g; Preis: 2,95 €; Grundpreis: 0,5 kg (5,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3121358,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765020335,
+      "images": [
+        {
+          "alt": "Buchweizen-Bulgur dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774486962/assets/pas/images/8d6ec92d-6772-4c1e-8d26-870bbd56403a/dmbio-buchweizen-bulgur"
+        },
+        {
+          "alt": "Buchweizen-Bulgur dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774486973/assets/pas/images/539001e9-8a9c-4f39-bce3-737cf09efa24/dmbio-buchweizen-bulgur"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,51 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 32,
+        "ratingValue": 4.7813
+      },
+      "self": "/p/d/3121358/dmbio-buchweizen-bulgur",
+      "title": {
+        "tileHeadline": "Buchweizen-Bulgur, 500 g",
+        "tileHeadlineLong": "Buchweizen-Bulgur, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Bulgur, Quinoa & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7813,
+        "ratingCount": 32
+      }
+    }
+  },
+  {
+    "gtin": 4019339308141,
+    "dan": 1639533,
+    "brandName": "Davert",
+    "title": "Grieß, 2- Minuten-Polenta, glutenfrei, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Grieß, 2- Minuten-Polenta, glutenfrei, 500 g; Preis: 2,55 €; Grundpreis: 0,5 kg (5,10 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1639533,
+      "gtin": 4019339308141,
+      "images": [
+        {
+          "alt": "Grieß, 2- Minuten-Polenta, glutenfrei Davert",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442468/assets/pas/images/40058008-aaa4-4f0f-b878-f4333689a237/davert-griess-2-minuten-polenta-glutenfrei"
+        },
+        {
+          "alt": "Grieß, 2- Minuten-Polenta, glutenfrei Davert",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762121688/assets/pas/images/a364a18c-8179-4351-8391-0dfd4f0e2fb6/davert-griess-2-minuten-polenta-glutenfrei"
+        },
+        {
+          "alt": "Grieß, 2- Minuten-Polenta, glutenfrei Davert",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764378336/assets/pas/images/8aa04eb3-d7ea-47c8-95b9-436703344db1/davert-griess-2-minuten-polenta-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,10 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.7879
+      },
+      "self": "/p/d/1639533/davert-griess-2-minuten-polenta-glutenfrei",
+      "title": {
+        "tileHeadline": "Grieß, 2- Minuten-Polenta, glutenfrei, 500 g",
+        "tileHeadlineLong": "Grieß, 2- Minuten-Polenta, glutenfrei, 500 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Bulgur, Quinoa & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7879,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4066447867664,
+    "dan": 1454942,
+    "brandName": "dmBio",
+    "title": "Couscous, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Couscous, 500 g; Preis: 1,25 €; Grundpreis: 0,5 kg (2,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454942,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447867664,
+      "images": [
+        {
+          "alt": "Couscous dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754988874/assets/pas/images/323440d9-caa4-4429-ad03-9a23188b03d0/dmbio-couscous"
+        },
+        {
+          "alt": "Couscous dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754988876/assets/pas/images/4cbaaddd-e685-45c0-adaf-2d8c063c11b8/dmbio-couscous"
+        },
+        {
+          "alt": "Couscous dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761142121/assets/pas/images/9a49f1fb-22ed-4101-b7dc-f43011561468/dmbio-couscous"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,34 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 107,
+        "ratingValue": 4.8972
+      },
+      "self": "/p/d/1454942/dmbio-couscous",
+      "title": {
+        "tileHeadline": "Couscous, 500 g",
+        "tileHeadlineLong": "Couscous, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Bulgur, Quinoa & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8972,
+        "ratingCount": 107
+      }
+    }
+  },
+  {
+    "gtin": 4066447732559,
+    "dan": 1454920,
+    "brandName": "dmBio",
+    "title": "Bulgur, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Bulgur, 500 g; Preis: 1,35 €; Grundpreis: 0,5 kg (2,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454920,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447732559,
+      "images": [
+        {
+          "alt": "Bulgur dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485400/assets/pas/images/dd777969-17f5-4d74-9e86-ee85a6f58433/dmbio-bulgur"
+        },
+        {
+          "alt": "Bulgur dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485286/assets/pas/images/d9c99dbd-aaaf-4d14-96d5-e5c074a84378/dmbio-bulgur"
+        },
+        {
+          "alt": "Bulgur dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761142026/assets/pas/images/cabb3af5-9e6c-4572-9be7-3e6c544b5f5c/dmbio-bulgur"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,52 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 93,
+        "ratingValue": 4.7957
+      },
+      "self": "/p/d/1454920/dmbio-bulgur",
+      "title": {
+        "tileHeadline": "Bulgur, 500 g",
+        "tileHeadlineLong": "Bulgur, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Bulgur, Quinoa & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7957,
+        "ratingCount": 93
+      }
+    }
+  },
+  {
+    "gtin": 8008698027400,
+    "dan": 1641098,
+    "brandName": "Schär",
+    "title": "Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei, 330 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei, 330 g; Preis: 3,15 €; Grundpreis: 0,33 kg (9,55 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1641098,
+      "gtin": 8008698027400,
+      "images": [
+        {
+          "alt": "Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751493284/assets/pas/images/151aee40-ae9c-42b1-b16c-61e20cc080c7/schaer-brot-meisterbaeckers-classic-mit-hirse-und-quinoa-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751493259/assets/pas/images/33e6bc27-d9af-4e3b-96d7-0d10db25413c/schaer-brot-meisterbaeckers-classic-mit-hirse-und-quinoa-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748039153/assets/pas/images/e4472ea9-57e1-4314-bc24-8cbc70ca9960/schaer-brot-meisterbaeckers-classic-mit-hirse-und-quinoa-12-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 kg (8,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 kg (9,55 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.598
+      },
+      "self": "/p/d/1641098/schaer-brot-meisterbaeckers-classic-mit-hirse-und-quinoa-12-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Meisterbäckers Classic mit Hirse & Quinoa..., 330 g",
+        "tileHeadlineLong": "Brot, Meisterbäckers Classic mit Hirse & Quinoa..., 330 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.598,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4067796149012,
+    "dan": 1440256,
+    "brandName": "dmBio",
+    "title": "Quinoa, gepufft, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Quinoa, gepufft, 125 g; Preis: 1,75 €; Grundpreis: 0,125 kg (14,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1440256,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796149012,
+      "images": [
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488058/assets/pas/images/21e223c2-07ee-4cf7-8a6c-92ccada751cb/dmbio-quinoa-gepufft"
+        },
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488057/assets/pas/images/de7e6b05-4ca7-41ca-baa0-603b686b5db9/dmbio-quinoa-gepufft"
+        },
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761042325/assets/pas/images/86a419a3-1f08-44d8-b6da-e4b9c9e2a6aa/dmbio-quinoa-gepufft"
+        },
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488058/assets/pas/images/ffbc4b4f-bf4a-4549-8d45-d759c3200e79/dmbio-quinoa-gepufft"
+        },
+        {
+          "alt": "Quinoa, gepufft dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488058/assets/pas/images/cfb1de4c-fb38-4613-9bab-a56d2924432c/dmbio-quinoa-gepufft"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (13,08 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (14,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 111,
+        "ratingValue": 4.6847
+      },
+      "self": "/p/d/1440256/dmbio-quinoa-gepufft",
+      "title": {
+        "tileHeadline": "Quinoa, gepufft, 125 g",
+        "tileHeadlineLong": "Quinoa, gepufft, 125 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Getreide"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6847,
+        "ratingCount": 111
+      }
+    }
+  },
+  {
+    "gtin": 4066447889925,
+    "dan": 1549898,
+    "brandName": "dmBio",
+    "title": "Fertiggericht, Gemüsepfanne mit Bulgur & Quinoa, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Fertiggericht, Gemüsepfanne mit Bulgur & Quinoa, 250 g; Preis: 2,35 €; Grundpreis: 0,25 kg (9,40 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1549898,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447889925,
+      "images": [
+        {
+          "alt": "Fertiggericht, Gemüsepfanne mit Bulgur & Quinoa dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764979690/assets/pas/images/bb449512-4793-4eca-95de-04ae649ca710/dmbio-fertiggericht-gemuesepfanne-mit-bulgur-und-quinoa"
+        },
+        {
+          "alt": "Fertiggericht, Gemüsepfanne mit Bulgur & Quinoa dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764979697/assets/pas/images/848f019b-6b46-4a56-afa9-d3a7c50d4695/dmbio-fertiggericht-gemuesepfanne-mit-bulgur-und-quinoa"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (8,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,40 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 224,
+        "ratingValue": 3.9152
+      },
+      "self": "/p/d/1549898/dmbio-fertiggericht-gemuesepfanne-mit-bulgur-und-quinoa",
+      "title": {
+        "tileHeadline": "Fertiggericht, Gemüsepfanne mit Bulgur & Quinoa, 250 g",
+        "tileHeadlineLong": "Fertiggericht, Gemüsepfanne mit Bulgur & Quinoa, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schnelle Gerichte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9152,
+        "ratingCount": 224
+      }
+    }
+  },
+  {
+    "gtin": 4262367681582,
+    "dan": 1453595,
+    "brandName": "Freche Freunde",
+    "title": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten, 100 g; Preis: 0,95 €; Grundpreis: 0,1 kg (9,50 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 1453595,
+      "gtin": 4262367681582,
+      "images": [
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755119008/assets/pas/images/c3749370-2e0d-4cf6-b958-d5eb7916c89d/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755118996/assets/pas/images/946f2143-4f36-49f7-b58b-8f5a2d2400b2/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747496051/assets/pas/images/de3df1b4-bf36-49f0-83a8-c64e21f4765f/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747496057/assets/pas/images/8ebae2ff-f442-41c2-9c84-ddde60303fcb/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495992/assets/pas/images/cd17458a-48b7-4cef-97c4-725af72ea3af/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495625/assets/pas/images/37beb181-6f3b-4887-b709-191d9956df9a/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747496053/assets/pas/images/215d6e3a-bcec-4474-ac5e-35d2857da72c/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755119012/assets/pas/images/78fb6ed0-f36a-4b17-a202-3e0313335319/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495623/assets/pas/images/772ab87e-a202-4d58-9acb-dd02cc6a9b50/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab 6 Monaten  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747496051/assets/pas/images/b0218677-7486-469d-8d40-bc66e843e70e/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (8,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (9,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 55,
+        "ratingValue": 4.7091
+      },
+      "self": "/p/d/1453595/freche-freunde-quetschie-banane-erdbeere-mit-hafer-und-quinoa-ab-6-monaten",
+      "title": {
+        "tileHeadline": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab..., 100 g",
+        "tileHeadlineLong": "Quetschie Banane, Erdbeere mit Hafer & Quinoa ab..., 100 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7091,
+        "ratingCount": 55
+      }
+    }
+  },
+  {
+    "gtin": 4260137741924,
+    "dan": 1534313,
+    "brandName": "Frusano",
+    "title": "Crispies, Quinoa, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Frusano; Produktname: Crispies, Quinoa, 125 g; Preis: 4,95 €; Grundpreis: 0,125 kg (39,60 € je 1 kg)",
+      "brand": {
+        "name": "Frusano"
+      },
+      "dan": 1534313,
+      "gtin": 4260137741924,
+      "images": [
+        {
+          "alt": "Crispies, Quinoa Frusano",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759915495/assets/pas/images/ceb48ad3-6c89-4c2f-9b23-bcb38785df49/frusano-crispies-quinoa"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (37,01 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (39,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.4746
+      },
+      "self": "/p/d/1534313/frusano-crispies-quinoa",
+      "title": {
+        "tileHeadline": "Crispies, Quinoa, 125 g",
+        "tileHeadlineLong": "Crispies, Quinoa, 125 g"
+      },
+      "trackingData": {
+        "brand": "Frusano",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4746,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 3444570201110,
+    "dan": 1307942,
+    "brandName": "LoveMade Organics",
+    "title": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: LoveMade Organics; Produktname: Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten, 100 g; Preis: 1,10 €; Grundpreis: 0,1 kg (11,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "LoveMade Organics"
+      },
+      "dan": 1307942,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 3444570201110,
+      "images": [
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411450/assets/pas/images/548d80c6-42a7-4cc3-9a65-11e235c49b3a/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411690/assets/pas/images/29c5e847-fc4a-470f-9fcb-fd3c4552531b/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002281/assets/pas/images/a6abca7a-3ac6-4cdf-a895-88b065b024e5/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002312/assets/pas/images/fa730a65-24b7-4f1c-b5af-d7232c251c17/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002319/assets/pas/images/a80079ff-1708-4329-9960-b616c32911d1/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002336/assets/pas/images/6509d3f7-36e1-4d52-b164-f53047e8cda5/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002292/assets/pas/images/a608ad25-d9ee-4d1d-8185-15e41572d62c/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002302/assets/pas/images/4f6f4fe5-9cf6-4373-a6af-0e92f4e84f89/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002326/assets/pas/images/1a5d5990-601b-4833-a972-eea78ade2606/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002345/assets/pas/images/b7992ee2-bda6-4e6c-b2a8-11105417ac91/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002355/assets/pas/images/e2eaf8a6-d86b-41f9-98e6-096e32433078/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,03 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (10,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (11,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 36,
+        "ratingValue": 4.0556
+      },
+      "self": "/p/d/1307942/lovemade-organics-quetschie-erbsen-zucchini-apfel-und-quinoa-ab-6-monaten",
+      "title": {
+        "tileHeadline": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab..., 100 g",
+        "tileHeadlineLong": "Quetschie Erbsen, Zucchini, Apfel und Quinoa, ab..., 100 g"
+      },
+      "trackingData": {
+        "brand": "LoveMade Organics",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.1
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0556,
+        "ratingCount": 36
+      }
+    }
+  },
+  {
+    "gtin": 3444570201103,
+    "dan": 1307849,
+    "brandName": "LoveMade Organics",
+    "title": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: LoveMade Organics; Produktname: Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten, 100 g; Preis: 1,10 €; Grundpreis: 0,1 kg (11,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "LoveMade Organics"
+      },
+      "dan": 1307849,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 3444570201103,
+      "images": [
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411379/assets/pas/images/f1fb9d4e-4279-418c-abd5-6ca7648b322e/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411384/assets/pas/images/079274c4-f670-4c54-a39c-bbdc4b1f8e8f/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004467/assets/pas/images/c226f6be-9d54-4361-b842-9389db878457/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004497/assets/pas/images/98bdbc55-c26a-466e-87e6-8040f7b18394/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004504/assets/pas/images/af367d92-ae26-46e9-83b5-f1f11ead0cf9/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004520/assets/pas/images/711a4c68-20fd-45b0-9621-fe7a938ba8f2/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004478/assets/pas/images/297a0093-5bf2-400f-86b4-1cbb8b804ee1/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004488/assets/pas/images/5294c9e0-6a18-4b8b-a2e2-985bc5c2944d/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004512/assets/pas/images/ba9f0339-521e-409f-a6eb-c2bff5aa6908/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004529/assets/pas/images/83dd0630-7f73-4742-b0f3-b5a16ba4814c/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und Zimt, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754004539/assets/pas/images/e53ca1a4-7c46-4cf9-b8b7-77f57255a9b1/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,03 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (10,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (11,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 34,
+        "ratingValue": 4.1765
+      },
+      "self": "/p/d/1307849/lovemade-organics-quetschie-haferbrei-apfel-pastinake-quinoa-und-zimt-ab-6-monaten",
+      "title": {
+        "tileHeadline": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und..., 100 g",
+        "tileHeadlineLong": "Quetschie Haferbrei, Apfel, Pastinake, Quinoa und..., 100 g"
+      },
+      "trackingData": {
+        "brand": "LoveMade Organics",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.1
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1765,
+        "ratingCount": 34
+      }
+    }
+  },
+  {
+    "gtin": 3444570201134,
+    "dan": 1308021,
+    "brandName": "LoveMade Organics",
+    "title": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: LoveMade Organics; Produktname: Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten, 100 g; Preis: 1,10 €; Grundpreis: 0,1 kg (11,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "LoveMade Organics"
+      },
+      "dan": 1308021,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 3444570201134,
+      "images": [
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411451/assets/pas/images/da2e0dfe-47b6-43dd-a4f7-2fbb3db42ec1/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411442/assets/pas/images/94d704c3-a62f-4155-a866-cdb1ef0f1758/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001927/assets/pas/images/82b735d0-ebff-452c-86d1-4d493c1691b2/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001942/assets/pas/images/c48bccdb-b444-4ae5-a82c-21c600cdc2fd/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001973/assets/pas/images/3edc3cde-e8fe-4acb-9691-da94cdf221c6/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001867/assets/pas/images/57bd9086-c117-470c-b8c9-07c0781a383f/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001895/assets/pas/images/abbb376c-5bfa-47a3-8736-3520faffae6e/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001913/assets/pas/images/d3d2a872-4717-4f87-a1aa-f0c1c93a0938/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001956/assets/pas/images/f62e010d-105c-49b9-b3e0-c65f65526331/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001995/assets/pas/images/7cda81a0-fe50-479d-a2bc-7ce47be1780f/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002015/assets/pas/images/2e11bbef-c101-4124-af25-bee1b2329b37/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,03 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (10,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (11,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 37,
+        "ratingValue": 4.0541
+      },
+      "self": "/p/d/1308021/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten",
+      "title": {
+        "tileHeadline": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6..., 100 g",
+        "tileHeadlineLong": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6..., 100 g"
+      },
+      "trackingData": {
+        "brand": "LoveMade Organics",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.1
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0541,
+        "ratingCount": 37
+      }
+    }
+  },
+  {
+    "gtin": 3444570201127,
+    "dan": 1307988,
+    "brandName": "LoveMade Organics",
+    "title": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: LoveMade Organics; Produktname: Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten, 100 g; Preis: 1,10 €; Grundpreis: 0,1 kg (11,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "LoveMade Organics"
+      },
+      "dan": 1307988,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 3444570201127,
+      "images": [
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411693/assets/pas/images/6a6a382c-303b-45a8-8873-7d12587bf951/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411442/assets/pas/images/1df5c6c0-0a97-4f72-8809-ed8f79d37561/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754005573/assets/pas/images/cee52d19-430c-469c-a1f4-13111260cd26/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754005585/assets/pas/images/6ad87f9f-dbe0-4979-9c18-980b347ea488/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754005615/assets/pas/images/e047ec29-b246-4fc0-97b0-3f22f67b5d36/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754005512/assets/pas/images/e843753c-a442-4cf9-a83d-2a3e19a6d800/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754005538/assets/pas/images/ace1afe4-b036-4cca-ad95-9daae319f8b8/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754005557/assets/pas/images/ad393e0e-0558-4a3a-9b91-a3eabc94fece/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754005599/assets/pas/images/13eaf9c8-a415-4a78-bbcd-556b9fc3124b/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754005635/assets/pas/images/2241cffb-d64a-4049-a578-51a0e9c08df6/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754005654/assets/pas/images/3191ec7a-1781-49f2-8c35-91de1cd4e7df/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,03 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (10,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (11,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 33,
+        "ratingValue": 3.6061
+      },
+      "self": "/p/d/1307988/lovemade-organics-quetschie-apfel-suesskartoffel-und-quinoa-ab-6-monaten",
+      "title": {
+        "tileHeadline": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6..., 100 g",
+        "tileHeadlineLong": "Quetschie Apfel, Süßkartoffel und Quinoa, ab 6..., 100 g"
+      },
+      "trackingData": {
+        "brand": "LoveMade Organics",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.1
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6061,
+        "ratingCount": 33
+      }
+    }
+  },
+  {
+    "gtin": 4066447892659,
+    "dan": 1694551,
+    "brandName": "dmBio",
+    "title": "Brotaufstrich, Saatenaufstrich Tomate & Quinoa, 135 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Brotaufstrich, Saatenaufstrich Tomate & Quinoa, 135 g; Preis: 1,25 €; Grundpreis: 0,135 kg (9,26 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1694551,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447892659,
+      "images": [
+        {
+          "alt": "Brotaufstrich, Saatenaufstrich Tomate & Quinoa dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099118/assets/pas/images/50ad090e-260a-41f1-a30c-3931c6523d72/dmbio-brotaufstrich-saatenaufstrich-tomate-und-quinoa"
+        },
+        {
+          "alt": "Brotaufstrich, Saatenaufstrich Tomate & Quinoa dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099125/assets/pas/images/a9dbb7dd-5390-4a4a-b1fd-7345e911e3d1/dmbio-brotaufstrich-saatenaufstrich-tomate-und-quinoa"
+        },
+        {
+          "alt": "Brotaufstrich, Saatenaufstrich Tomate & Quinoa dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099111/assets/pas/images/044e4a59-06f5-4e37-9754-ca60695a9b1e/dmbio-brotaufstrich-saatenaufstrich-tomate-und-quinoa"
+        },
+        {
+          "alt": "Brotaufstrich, Saatenaufstrich Tomate & Quinoa dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099104/assets/pas/images/455bc36e-8a97-4da2-a538-5da189a4d66b/dmbio-brotaufstrich-saatenaufstrich-tomate-und-quinoa"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (8,65 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (9,26 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.5116
+      },
+      "self": "/p/d/1694551/dmbio-brotaufstrich-saatenaufstrich-tomate-und-quinoa",
+      "title": {
+        "tileHeadline": "Brotaufstrich, Saatenaufstrich Tomate & Quinoa, 135 g",
+        "tileHeadlineLong": "Brotaufstrich, Saatenaufstrich Tomate & Quinoa, 135 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Herzhafte Brotaufstriche"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5116,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4021457655397,
+    "dan": 1582106,
+    "brandName": "lavera NATURKOSMETIK",
+    "title": "Festes Shampoo Volumen & Kraft, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: lavera NATURKOSMETIK; Produktname: Festes Shampoo Volumen & Kraft, 50 g; Preis: 2,95 €; Grundpreis: 0,05 kg (59,00 € je 1 kg)",
+      "brand": {
+        "name": "lavera NATURKOSMETIK"
+      },
+      "dan": 1582106,
+      "gtin": 4021457655397,
+      "images": [
+        {
+          "alt": "Festes Shampoo Volumen & Kraft  lavera NATURKOSMETIK",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443402/assets/pas/images/134dc07d-09a0-4b95-a52e-7ffb1990086a/lavera-naturkosmetik-festes-shampoo-volumen-und-kraft"
+        },
+        {
+          "alt": "Festes Shampoo Volumen & Kraft  lavera NATURKOSMETIK",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443281/assets/pas/images/f26b2904-1523-42ee-a656-c157d462274e/lavera-naturkosmetik-festes-shampoo-volumen-und-kraft"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (49,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (59,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 79,
+        "ratingValue": 4.3924
+      },
+      "self": "/p/d/1582106/lavera-naturkosmetik-festes-shampoo-volumen-und-kraft",
+      "title": {
+        "tileHeadline": "Festes Shampoo Volumen & Kraft, 50 g",
+        "tileHeadlineLong": "Festes Shampoo Volumen & Kraft, 50 g"
+      },
+      "trackingData": {
+        "brand": "lavera NATURKOSMETIK",
+        "categories": [
+          "Haarseife, festes Shampoo & Conditioner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3924,
+        "ratingCount": 79
+      }
+    }
+  },
+  {
+    "gtin": 4260625260074,
+    "dan": 2968663,
+    "brandName": "SHYNE Professional",
+    "title": "Shampoo Color Protect, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SHYNE Professional; Produktname: Shampoo Color Protect, 250 ml; Preis: 14,95 €; Grundpreis: 0,25 l (59,80 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "SHYNE Professional"
+      },
+      "dan": 2968663,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260625260074,
+      "images": [
+        {
+          "alt": "Shampoo Color Protect SHYNE Professional",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493956/assets/pas/images/862e9a57-5395-450c-85ad-910a27c66c98/shyne-professional-shampoo-color-protect"
+        },
+        {
+          "alt": "Shampoo Color Protect SHYNE Professional",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494038/assets/pas/images/3b3adbfc-e429-456a-8af6-298033a4c9ae/shyne-professional-shampoo-color-protect"
+        },
+        {
+          "alt": "Shampoo Color Protect SHYNE Professional",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493957/assets/pas/images/9d744f86-4fdc-43b2-89d5-05c36d6a473f/shyne-professional-shampoo-color-protect"
+        },
+        {
+          "alt": "Shampoo Color Protect SHYNE Professional",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493600/assets/pas/images/5ddcb507-0e78-4c55-8440-56c1177fcf69/shyne-professional-shampoo-color-protect"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,56 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (50,25 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (59,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 3,
+        "ratingValue": 3.6667
+      },
+      "self": "/p/d/2968663/shyne-professional-shampoo-color-protect",
+      "title": {
+        "tileHeadline": "Shampoo Color Protect, 250 ml",
+        "tileHeadlineLong": "Shampoo Color Protect, 250 ml"
+      },
+      "trackingData": {
+        "brand": "SHYNE Professional",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 14.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6667,
+        "ratingCount": 3
+      }
+    }
+  },
+  {
+    "gtin": 4022993300208,
+    "dan": 1456807,
+    "brandName": "Schnitzer",
+    "title": "Aufbackbrötchen, Super Panini Rustic (2 Stück), 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schnitzer; Produktname: Aufbackbrötchen, Super Panini Rustic (2 Stück), 180 g; Preis: 2,65 €; Grundpreis: 0,18 kg (14,72 € je 1 kg)",
+      "brand": {
+        "name": "Schnitzer"
+      },
+      "dan": 1456807,
+      "gtin": 4022993300208,
+      "images": [
+        {
+          "alt": "Aufbackbrötchen, Super Panini Rustic (2 Stück) Schnitzer",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761664164/assets/pas/images/7279401f-a4e3-4e33-84b7-c3614d6f5b63/schnitzer-aufbackbroetchen-super-panini-rustic-2-stueck"
+        },
+        {
+          "alt": "Aufbackbrötchen, Super Panini Rustic (2 Stück) Schnitzer",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777511181/assets/pas/images/4e1706d6-ef7e-4046-b643-32cb07990eca/schnitzer-aufbackbroetchen-super-panini-rustic-2-stueck"
+        },
+        {
+          "alt": "Aufbackbrötchen, Super Panini Rustic (2 Stück) Schnitzer",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754973807/assets/pas/images/88ac50e2-6ec7-45af-8d97-fba4d8f566cc/schnitzer-aufbackbroetchen-super-panini-rustic-2-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (13,76 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (14,72 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.4828
+      },
+      "self": "/p/d/1456807/schnitzer-aufbackbroetchen-super-panini-rustic-2-stueck",
+      "title": {
+        "tileHeadline": "Aufbackbrötchen, Super Panini Rustic (2 Stück), 180 g",
+        "tileHeadlineLong": "Aufbackbrötchen, Super Panini Rustic (2 Stück), 180 g"
+      },
+      "trackingData": {
+        "brand": "Schnitzer",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4828,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4015537002348,
+    "dan": 1633052,
+    "brandName": "Hammermühle",
+    "title": "Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4 Stück), 275 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4 Stück), 275 g; Preis: 3,15 €; Grundpreis: 0,275 kg (11,45 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1633052,
+      "gtin": 4015537002348,
+      "images": [
+        {
+          "alt": "Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4 Stück) Hammermühle",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757975043/assets/pas/images/e68ba97a-351e-4c19-a3ab-7d1017bc54e4/hammermuehle-brot-5-saatenbrot-simply-seeds-glutenfrei-4-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,275 kg (10,70 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,275 kg (11,45 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 79,
+        "ratingValue": 4.6709
+      },
+      "self": "/p/d/1633052/hammermuehle-brot-5-saatenbrot-simply-seeds-glutenfrei-4-stueck",
+      "title": {
+        "tileHeadline": "Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4..., 275 g",
+        "tileHeadlineLong": "Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4..., 275 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6709,
+        "ratingCount": 79
+      }
+    }
+  },
+  {
+    "gtin": 8008698022214,
+    "dan": 1521335,
+    "brandName": "Schär",
+    "title": "Brot, Mehrkorn (5 Stück), glutenfrei, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Mehrkorn (5 Stück), glutenfrei, 250 g; Preis: 2,95 €; Grundpreis: 0,25 kg (11,80 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1521335,
+      "gtin": 8008698022214,
+      "images": [
+        {
+          "alt": "Brot, Mehrkorn (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748642342/assets/pas/images/088690f9-faa0-41c3-a7c3-02a4d4e2921d/schaer-brot-mehrkorn-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Mehrkorn (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748642388/assets/pas/images/86a888b1-bcae-4c9f-9c76-b12f70d76d84/schaer-brot-mehrkorn-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Mehrkorn (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518445/assets/pas/images/8e5804fe-78de-4f76-9f00-2b738a8439b7/schaer-brot-mehrkorn-5-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.5802
+      },
+      "self": "/p/d/1521335/schaer-brot-mehrkorn-5-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Mehrkorn (5 Stück), glutenfrei, 250 g",
+        "tileHeadlineLong": "Brot, Mehrkorn (5 Stück), glutenfrei, 250 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5802,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 8008698013175,
+    "dan": 1425092,
+    "brandName": "Schär",
+    "title": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g; Preis: 2,85 €; Grundpreis: 0,21 kg (13,57 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1425092,
+      "gtin": 8008698013175,
+      "images": [
+        {
+          "alt": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750890699/assets/pas/images/f4bc0b2e-e9ed-46eb-886c-d193a8408948/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517774/assets/pas/images/58c9fc41-df09-4eb8-b61e-1f1b1ecf49d8/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747570357/assets/pas/images/eccf256b-cafb-4fa8-b1c0-fa34aa07e8e5/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,21 kg (12,68 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,21 kg (13,57 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.7424
+      },
+      "self": "/p/d/1425092/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g",
+        "tileHeadlineLong": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7424,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4015637827438,
+    "dan": 1617217,
+    "brandName": "Bauck Mühle",
+    "title": "Backmischung Mühlenbrot 7-Saaten, glutenfrei, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bauck Mühle; Produktname: Backmischung Mühlenbrot 7-Saaten, glutenfrei, 500 g; Preis: 3,95 €; Grundpreis: 0,5 kg (7,90 € je 1 kg)",
+      "brand": {
+        "name": "Bauck Mühle"
+      },
+      "dan": 1617217,
+      "gtin": 4015637827438,
+      "images": [
+        {
+          "alt": "Backmischung Mühlenbrot 7-Saaten, glutenfrei Bauck Mühle",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777070982/assets/pas/images/aa849ace-61e1-4225-a588-d2e16f504b83/bauck-muehle-backmischung-muehlenbrot-7-saaten-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.7576
+      },
+      "self": "/p/d/1617217/bauck-muehle-backmischung-muehlenbrot-7-saaten-glutenfrei",
+      "title": {
+        "tileHeadline": "Backmischung Mühlenbrot 7-Saaten, glutenfrei, 500 g",
+        "tileHeadlineLong": "Backmischung Mühlenbrot 7-Saaten, glutenfrei, 500 g"
+      },
+      "trackingData": {
+        "brand": "Bauck Mühle",
+        "categories": [
+          "Backmischungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7576,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4015637024943,
+    "dan": 1706918,
+    "brandName": "Bauck Mühle",
+    "title": "Backmischung 8 Wunderbrötchen, Protein, glutenfrei, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bauck Mühle; Produktname: Backmischung 8 Wunderbrötchen, Protein, glutenfrei, 350 g; Preis: 3,95 €; Grundpreis: 0,35 kg (11,29 € je 1 kg)",
+      "brand": {
+        "name": "Bauck Mühle"
+      },
+      "dan": 1706918,
+      "gtin": 4015637024943,
+      "images": [
+        {
+          "alt": "Backmischung 8 Wunderbrötchen, Protein, glutenfrei Bauck Mühle",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763076058/assets/pas/images/e4958df3-f2d9-4573-a7f8-b6e8c04fa4dc/bauck-muehle-backmischung-8-wunderbroetchen-protein-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (10,55 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (11,29 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.5303
+      },
+      "self": "/p/d/1706918/bauck-muehle-backmischung-8-wunderbroetchen-protein-glutenfrei",
+      "title": {
+        "tileHeadline": "Backmischung 8 Wunderbrötchen, Protein, glutenfrei, 350 g",
+        "tileHeadlineLong": "Backmischung 8 Wunderbrötchen, Protein, glutenfrei, 350 g"
+      },
+      "trackingData": {
+        "brand": "Bauck Mühle",
+        "categories": [
+          "Backmischungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5303,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4016249177713,
+    "dan": 2974340,
+    "brandName": "ALLOS",
+    "title": "Maiswaffeln Amaranth Meersalz, 115 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Maiswaffeln Amaranth Meersalz, 115 g; Preis: 1,85 €; Grundpreis: 0,115 kg (16,09 € je 1 kg)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 2974340,
+      "gtin": 4016249177713,
+      "images": [
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751691827/assets/pas/images/81563780-6731-4ba4-8252-6b47de246573/allos-maiswaffeln-amaranth-meersalz"
+        },
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768966424/assets/pas/images/09756e37-edc8-4299-990a-754b6e52f300/allos-maiswaffeln-amaranth-meersalz"
+        },
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751691846/assets/pas/images/19b901e2-0a8e-4906-a217-74fd76e567c2/allos-maiswaffeln-amaranth-meersalz"
+        },
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751691878/assets/pas/images/05c14aa3-7200-4d43-aa28-4c4118200436/allos-maiswaffeln-amaranth-meersalz"
+        },
+        {
+          "alt": "Maiswaffeln Amaranth Meersalz ALLOS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768441782/assets/pas/images/27a7916d-8fd1-44a7-ad31-dc21547d47b5/allos-maiswaffeln-amaranth-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 kg (15,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 kg (16,09 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.7358
+      },
+      "self": "/p/d/2974340/allos-maiswaffeln-amaranth-meersalz",
+      "title": {
+        "tileHeadline": "Maiswaffeln Amaranth Meersalz, 115 g",
+        "tileHeadlineLong": "Maiswaffeln Amaranth Meersalz, 115 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7358,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 8008698027424,
+    "dan": 1641099,
+    "brandName": "Schär",
+    "title": "Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei, 330 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei, 330 g; Preis: 3,15 €; Grundpreis: 0,33 kg (9,55 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1641099,
+      "gtin": 8008698027424,
+      "images": [
+        {
+          "alt": "Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752878717/assets/pas/images/367b867f-4e6e-4223-8395-330bccdedbe0/schaer-brot-meisterbaeckers-mehrkorn-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752878693/assets/pas/images/6e68c866-2e5b-48a5-b9c1-18463c1dc7ba/schaer-brot-meisterbaeckers-mehrkorn-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518549/assets/pas/images/6f3a5736-4f2d-4ef6-8b4e-2feeefc5cc10/schaer-brot-meisterbaeckers-mehrkorn-12-stueck-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 kg (8,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 kg (9,55 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 4.6364
+      },
+      "self": "/p/d/1641099/schaer-brot-meisterbaeckers-mehrkorn-12-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Meisterbäckers Mehrkorn (12 Stück),..., 330 g",
+        "tileHeadlineLong": "Brot, Meisterbäckers Mehrkorn (12 Stück),..., 330 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6364,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 8008698038734,
+    "dan": 1641100,
+    "brandName": "Schär",
+    "title": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei, 350 g; Preis: 2,95 €; Grundpreis: 0,35 kg (8,43 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1641100,
+      "gtin": 8008698038734,
+      "images": [
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780955986/assets/pas/images/2833eb73-477c-407c-adb7-900aedb35ca8/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780956013/assets/pas/images/91eda419-deda-4fe6-a05e-e575d5341dbe/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518210/assets/pas/images/21986eaa-6913-470b-b0dc-88cb0cf91a9f/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780956036/assets/pas/images/797c1b7c-ee78-468b-abe1-bc91c267b0e3/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780955967/assets/pas/images/330df4fc-5acb-4451-bb89-ad0a75cf525a/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (7,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (8,43 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 108,
+        "ratingValue": 4.6204
+      },
+      "self": "/p/d/1641100/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Meisterbäckers Vital mit Sauerteig (12..., 350 g",
+        "tileHeadlineLong": "Brot, Meisterbäckers Vital mit Sauerteig (12..., 350 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6204,
+        "ratingCount": 108
+      }
+    }
+  },
+  {
+    "gtin": 8008698010778,
+    "dan": 1623172,
+    "brandName": "Schär",
+    "title": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei, 240 g; Preis: 3,45 €; Grundpreis: 0,24 kg (14,38 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1623172,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8008698010778,
+      "images": [
+        {
+          "alt": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517780/assets/pas/images/d7b1e898-33ad-4bf8-8821-7b154f4539e2/schaer-brot-sauerteig-surdegsbroed-mit-preiselbeeren-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517420/assets/pas/images/eeca5546-a36b-48e9-9117-d42e9c1c56a9/schaer-brot-sauerteig-surdegsbroed-mit-preiselbeeren-5-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (13,44 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (14,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/1623172/schaer-brot-sauerteig-surdegsbroed-mit-preiselbeeren-5-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren..., 240 g",
+        "tileHeadlineLong": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren..., 240 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 30
+      }
+    }
+  },
+  {
+    "gtin": 9120134760494,
+    "dan": 3068516,
+    "brandName": "get your well being BY BIOGENA",
+    "title": "Stressige Zeiten Edition Kapseln Bundle 3 x 60 St, 69 g",
+    "tileData": {
+      "a11yLabel": "Marke: get your well being BY BIOGENA; Produktname: Stressige Zeiten Edition Kapseln Bundle 3 x 60 St, 69 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 29,95 €; Grundpreis: 0,069 kg (434,06 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "get your well being BY BIOGENA"
+      },
+      "dan": 3068516,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9120134760494,
+      "images": [
+        {
+          "alt": "Stressige Zeiten Edition Kapseln Bundle 3 x 60 St get your well being BY BIOGENA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751431476/assets/pas/images/0ee9c0de-1fbb-4201-a8ed-89c52c1f9a76/get-your-well-being-by-biogena-stressige-zeiten-edition-kapseln-bundle-3-x-60-st"
+        },
+        {
+          "alt": "Stressige Zeiten Edition Kapseln Bundle 3 x 60 St get your well being BY BIOGENA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751431614/assets/pas/images/1b72108f-3fc1-4cdd-81d5-79fb72b5b015/get-your-well-being-by-biogena-stressige-zeiten-edition-kapseln-bundle-3-x-60-st"
+        },
+        {
+          "alt": "Stressige Zeiten Edition Kapseln Bundle 3 x 60 St get your well being BY BIOGENA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751431583/assets/pas/images/689eef8b-2198-4167-b394-a569caf60634/get-your-well-being-by-biogena-stressige-zeiten-edition-kapseln-bundle-3-x-60-st"
+        },
+        {
+          "alt": "Stressige Zeiten Edition Kapseln Bundle 3 x 60 St get your well being BY BIOGENA",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751601429/assets/pas/images/0e143bc1-37b4-429e-825e-2bc830f0c439/get-your-well-being-by-biogena-stressige-zeiten-edition-kapseln-bundle-3-x-60-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "27,99 €"
+          }
+        },
+        "tileInfos": [
+          "0,069 kg (405,66 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,069 kg (434,06 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 0,
+        "ratingValue": 0.0
+      },
+      "self": "/p/d/3068516/get-your-well-being-by-biogena-stressige-zeiten-edition-kapseln-bundle-3-x-60-st",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Stressige Zeiten Edition Kapseln Bundle 3 x 60 St, 69 g",
+        "tileHeadlineLong": "Stressige Zeiten Edition Kapseln Bundle 3 x 60 St, 69 g"
+      },
+      "trackingData": {
+        "brand": "get your well being BY BIOGENA",
+        "categories": [
+          "Schlafen & Nerven"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 0.0,
+        "ratingCount": 0
+      }
+    }
+  }
+]

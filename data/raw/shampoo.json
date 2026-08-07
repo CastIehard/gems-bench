@@ -1,0 +1,3123 @@
+[
+  {
+    "gtin": 8001090896315,
+    "dan": 1493055,
+    "brandName": "head&shoulders",
+    "title": "Shampoo Anti-Schuppen Classic Clean, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: head&shoulders; Produktname: Shampoo  Anti-Schuppen  Classic Clean, 500 ml; Preis: 6,95 €; Grundpreis: 0,5 l (13,90 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "head&shoulders"
+      },
+      "dan": 1493055,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 8001090896315,
+      "images": [
+        {
+          "alt": "Shampoo  Anti-Schuppen  Classic Clean head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766527353/assets/pas/images/f37d92f9-d613-4c3c-b2ee-972f4608fd60/head-und-shoulders-shampoo-anti-schuppen-classic-clean"
+        },
+        {
+          "alt": "Shampoo  Anti-Schuppen  Classic Clean head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766527345/assets/pas/images/677cf0a8-83c1-4e99-b39a-28d546bf666f/head-und-shoulders-shampoo-anti-schuppen-classic-clean"
+        },
+        {
+          "alt": "Shampoo  Anti-Schuppen  Classic Clean head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149631/assets/pas/images/46d07461-143e-4962-9fa6-830aadad4206/head-und-shoulders-shampoo-anti-schuppen-classic-clean"
+        },
+        {
+          "alt": "Shampoo  Anti-Schuppen  Classic Clean head&shoulders",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149616/assets/pas/images/53475d71-b84b-4490-a46f-097a61b01d1d/head-und-shoulders-shampoo-anti-schuppen-classic-clean"
+        },
+        {
+          "alt": "Shampoo  Anti-Schuppen  Classic Clean head&shoulders",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149644/assets/pas/images/ddfb0744-bdb1-47b5-89ee-cc03cdf65755/head-und-shoulders-shampoo-anti-schuppen-classic-clean"
+        },
+        {
+          "alt": "Shampoo  Anti-Schuppen  Classic Clean head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149678/assets/pas/images/8300ca64-1343-4cb7-8c26-2933f9933bf8/head-und-shoulders-shampoo-anti-schuppen-classic-clean"
+        },
+        {
+          "alt": "Shampoo  Anti-Schuppen  Classic Clean head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149664/assets/pas/images/7d1c1a85-ebbc-4cc5-b3a8-2a4a8d159663/head-und-shoulders-shampoo-anti-schuppen-classic-clean"
+        },
+        {
+          "alt": "Shampoo  Anti-Schuppen  Classic Clean head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780004902/assets/pas/images/12f274b8-651a-4551-a696-4cbf98b3fc45/head-und-shoulders-shampoo-anti-schuppen-classic-clean"
+        },
+        {
+          "alt": "Shampoo  Anti-Schuppen  Classic Clean head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766527336/assets/pas/images/d6a0d169-7489-4f53-866a-8e9fd5530a47/head-und-shoulders-shampoo-anti-schuppen-classic-clean"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (11,68 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (13,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 105,
+        "ratingValue": 4.6571
+      },
+      "self": "/p/d/1493055/head-und-shoulders-shampoo-anti-schuppen-classic-clean",
+      "title": {
+        "tileHeadline": "Shampoo  Anti-Schuppen  Classic Clean, 500 ml",
+        "tileHeadlineLong": "Shampoo  Anti-Schuppen  Classic Clean, 500 ml"
+      },
+      "trackingData": {
+        "brand": "head&shoulders",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6571,
+        "ratingCount": 105
+      }
+    }
+  },
+  {
+    "gtin": 4066447966008,
+    "dan": 1569035,
+    "brandName": "Balea med",
+    "title": "Shampoo Ultra Sensitive, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea med; Produktname: Shampoo Ultra Sensitive, 250 ml; Preis: 1,75 €; Grundpreis: 0,25 l (7,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea med"
+      },
+      "dan": 1569035,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447966008,
+      "images": [
+        {
+          "alt": "Shampoo Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772150521/assets/pas/images/1fcbf079-eaca-4c6f-bf93-ba222052d98a/balea-med-shampoo-ultra-sensitive"
+        },
+        {
+          "alt": "Shampoo Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772150525/assets/pas/images/cb9e56bf-1edd-41e1-959d-c080a9962dbf/balea-med-shampoo-ultra-sensitive"
+        },
+        {
+          "alt": "Shampoo Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772150516/assets/pas/images/836e3e0c-5434-40a1-bf15-1d23dffab570/balea-med-shampoo-ultra-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (5,88 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 429,
+        "ratingValue": 3.9441
+      },
+      "self": "/p/d/1569035/balea-med-shampoo-ultra-sensitive",
+      "title": {
+        "tileHeadline": "Shampoo Ultra Sensitive, 250 ml",
+        "tileHeadlineLong": "Shampoo Ultra Sensitive, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Balea med",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9441,
+        "ratingCount": 429
+      }
+    }
+  },
+  {
+    "gtin": 8006530060042,
+    "dan": 3115706,
+    "brandName": "PANTENE PRO-V",
+    "title": "Shampoo Grow Abundant Anti-Haarverlust, 290 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PANTENE PRO-V; Produktname: Shampoo Grow Abundant Anti-Haarverlust, 290 ml; Preis: 7,95 €; Grundpreis: 0,29 l (27,41 € je 1 l)",
+      "brand": {
+        "name": "PANTENE PRO-V"
+      },
+      "dan": 3115706,
+      "gtin": 8006530060042,
+      "images": [
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334746/assets/pas/images/ccc7901e-c5d8-4e37-b31a-d2ad0bc75cd3/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334788/assets/pas/images/ce8f7f13-80d3-4db3-8a72-d1d17f70b800/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334780/assets/pas/images/0bd94ec3-81dc-4c1c-a8b1-27b23ed70209/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334733/assets/pas/images/882b16e3-b667-42d8-930b-c3eb8b22dd52/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334707/assets/pas/images/9b7d90a5-1a98-443b-8f64-3a4cedac115c/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334721/assets/pas/images/02a7bc63-43ed-4cc6-9d10-494b313caab1/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334698/assets/pas/images/d7007158-e576-4f9a-b8be-8d08838cb92f/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334753/assets/pas/images/65c29028-6c8d-401c-b2a3-6d20f9b16939/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334763/assets/pas/images/cd4ffc3f-78b1-4bd5-9fb4-b6ffa64e3127/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Grow Abundant Anti-Haarverlust PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334773/assets/pas/images/0f76def5-9b52-473a-a343-11b3ad858ac8/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "0,29 l (23,03 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,29 l (27,41 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 682,
+        "ratingValue": 4.5997
+      },
+      "self": "/p/d/3115706/pantene-pro-v-shampoo-grow-abundant-anti-haarverlust",
+      "title": {
+        "tileHeadline": "Shampoo Grow Abundant Anti-Haarverlust, 290 ml",
+        "tileHeadlineLong": "Shampoo Grow Abundant Anti-Haarverlust, 290 ml"
+      },
+      "trackingData": {
+        "brand": "PANTENE PRO-V",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5997,
+        "ratingCount": 682
+      }
+    }
+  },
+  {
+    "gtin": 8001090896049,
+    "dan": 1493053,
+    "brandName": "head&shoulders",
+    "title": "Shampoo Anti-Schuppen Apple Fresh, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: head&shoulders; Produktname: Shampoo Anti-Schuppen Apple Fresh, 500 ml; Preis: 6,95 €; Grundpreis: 0,5 l (13,90 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "head&shoulders"
+      },
+      "dan": 1493053,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 8001090896049,
+      "images": [
+        {
+          "alt": "Shampoo Anti-Schuppen Apple Fresh head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766527317/assets/pas/images/8f0984be-4399-405f-8d96-31a7b001b4af/head-und-shoulders-shampoo-anti-schuppen-apple-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Apple Fresh head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783807360/assets/pas/images/775e6559-774b-4776-8446-4a5fa0a1c0af/head-und-shoulders-shampoo-anti-schuppen-apple-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Apple Fresh head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766527309/assets/pas/images/e59bc8a8-361b-4a71-be28-c8bd8cbffcd3/head-und-shoulders-shampoo-anti-schuppen-apple-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Apple Fresh head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547812/assets/pas/images/0996737e-82ed-44fc-bc00-51ee1d4f45b4/head-und-shoulders-shampoo-anti-schuppen-apple-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Apple Fresh head&shoulders",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547788/assets/pas/images/2ba7f160-14bd-4ae9-b3be-544e3a429d38/head-und-shoulders-shampoo-anti-schuppen-apple-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Apple Fresh head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547825/assets/pas/images/98130979-4ee0-4f5f-915d-53f9b23e9a5f/head-und-shoulders-shampoo-anti-schuppen-apple-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Apple Fresh head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547853/assets/pas/images/ed7fff5b-f719-493c-9fb2-da8b035f3d33/head-und-shoulders-shampoo-anti-schuppen-apple-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Apple Fresh head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547798/assets/pas/images/a0266b5a-fc5a-4718-9ad1-9a7a32316ba3/head-und-shoulders-shampoo-anti-schuppen-apple-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Apple Fresh head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766527325/assets/pas/images/7369f91e-72bc-4d28-b197-3aaa3e137853/head-und-shoulders-shampoo-anti-schuppen-apple-fresh"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (11,68 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (13,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.6986
+      },
+      "self": "/p/d/1493053/head-und-shoulders-shampoo-anti-schuppen-apple-fresh",
+      "title": {
+        "tileHeadline": "Shampoo Anti-Schuppen Apple Fresh, 500 ml",
+        "tileHeadlineLong": "Shampoo Anti-Schuppen Apple Fresh, 500 ml"
+      },
+      "trackingData": {
+        "brand": "head&shoulders",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6986,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 8700216558136,
+    "dan": 1561889,
+    "brandName": "PANTENE PRO-V",
+    "title": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PANTENE PRO-V; Produktname: Shampoo & Conditioner & Haarkur 3in1 Repair & Care, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l)",
+      "brand": {
+        "name": "PANTENE PRO-V"
+      },
+      "dan": 1561889,
+      "gtin": 8700216558136,
+      "images": [
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530220/assets/pas/images/590a7823-3f73-4b85-a9ac-7f58c61ddb8a/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768264280/assets/pas/images/ad05696a-004a-4b4e-939a-fbdab0785221/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530102/assets/pas/images/f20f42ab-3b77-4853-9743-b71451c9ddf4/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768264319/assets/pas/images/5141b2e7-3732-425c-afc2-f80794c039dd/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530220/assets/pas/images/2dc4a23b-6679-4c93-b78a-85489965dd51/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530752/assets/pas/images/22216875-91b1-4ee1-8b0c-c650f654c9c1/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530225/assets/pas/images/41589097-c27c-4fff-ac2a-5403f6bdb959/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768264294/assets/pas/images/5219a466-ce55-41d4-9f69-3812467752ae/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768264265/assets/pas/images/75acee55-f311-4c73-815d-b348643f6d0c/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768349627/assets/pas/images/8e19fe75-a21d-4c8b-b970-bdb75803fcab/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530225/assets/pas/images/e0df282b-0746-49a5-9c0e-78af22c4877e/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530548/assets/pas/images/a0e345c8-8a55-49fb-9ca4-62b22c4ce6bc/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768264287/assets/pas/images/18791246-7577-4f92-a2c2-d591bc1dc039/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768264305/assets/pas/images/df37c9ad-4105-4279-878b-28225e67993c/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530752/assets/pas/images/389dbbdb-9472-48ed-961d-c2f759aac45a/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        },
+        {
+          "alt": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768264274/assets/pas/images/829d292a-bff5-4d92-bcb5-9cf07d085683/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 271,
+        "ratingValue": 4.5203
+      },
+      "self": "/p/d/1561889/pantene-pro-v-shampoo-und-conditioner-und-haarkur-3in1-repair-und-care",
+      "title": {
+        "tileHeadline": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care, 250 ml",
+        "tileHeadlineLong": "Shampoo & Conditioner & Haarkur 3in1 Repair & Care, 250 ml"
+      },
+      "trackingData": {
+        "brand": "PANTENE PRO-V",
+        "categories": [
+          "Conditioner",
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5203,
+        "ratingCount": 271
+      }
+    }
+  },
+  {
+    "gtin": 8006530123556,
+    "dan": 3115708,
+    "brandName": "Herbal Essences",
+    "title": "Shampoo Limettenduft, Tiefenreinigung & Glanz, 350 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Herbal Essences; Produktname: Shampoo Limettenduft, Tiefenreinigung & Glanz, 350 ml; Preis: 3,95 €; Grundpreis: 0,35 l (11,29 € je 1 l)",
+      "brand": {
+        "name": "Herbal Essences"
+      },
+      "dan": 3115708,
+      "gtin": 8006530123556,
+      "images": [
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767488700/assets/pas/images/3c97724c-a564-4655-b927-ef5901ea8892/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        },
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767488709/assets/pas/images/b4f8c7dd-f886-45d0-9103-cf97a8d04a8d/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        },
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098707/assets/pas/images/faf60e31-41ca-42bb-b6b4-115bbdc3503c/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        },
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098720/assets/pas/images/72f3ffed-124c-43a6-9eda-45d60dfc2039/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        },
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098748/assets/pas/images/14ec6f0f-63a4-4c14-9522-4ae589fbf5a7/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        },
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767488730/assets/pas/images/f9c7984e-09ed-4188-afea-15efc3e611c4/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        },
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098761/assets/pas/images/15b837cd-ef25-4a08-8e51-589a0b38805a/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        },
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098734/assets/pas/images/54547a70-7654-4e62-9d0f-e78d68ea57b2/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        },
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767488717/assets/pas/images/f6279760-80d2-4b17-bf3f-b229f7acfc76/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        },
+        {
+          "alt": "Shampoo Limettenduft, Tiefenreinigung & Glanz Herbal Essences",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767488691/assets/pas/images/aef71d53-2ae1-444b-b35e-5ea8a9655afd/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 l (9,49 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 l (11,29 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.7787
+      },
+      "self": "/p/d/3115708/herbal-essences-shampoo-limettenduft-tiefenreinigung-und-glanz",
+      "title": {
+        "tileHeadline": "Shampoo Limettenduft, Tiefenreinigung & Glanz, 350 ml",
+        "tileHeadlineLong": "Shampoo Limettenduft, Tiefenreinigung & Glanz, 350 ml"
+      },
+      "trackingData": {
+        "brand": "Herbal Essences",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7787,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 8700216422413,
+    "dan": 1561837,
+    "brandName": "PANTENE PRO-V",
+    "title": "Shampoo Repair & Care XXL, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PANTENE PRO-V; Produktname: Shampoo Repair & Care XXL, 500 ml; Preis: 5,95 €; Grundpreis: 0,5 l (11,90 € je 1 l)",
+      "brand": {
+        "name": "PANTENE PRO-V"
+      },
+      "dan": 1561837,
+      "gtin": 8700216422413,
+      "images": [
+        {
+          "alt": "Shampoo Repair & Care XXL PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529817/assets/pas/images/31c7c870-f44c-40f8-abed-6e61a2959807/pantene-pro-v-shampoo-repair-und-care-xxl"
+        },
+        {
+          "alt": "Shampoo Repair & Care XXL PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530580/assets/pas/images/322ddff8-c6d1-4cd3-84eb-da7792ab0aee/pantene-pro-v-shampoo-repair-und-care-xxl"
+        },
+        {
+          "alt": "Shampoo Repair & Care XXL PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530189/assets/pas/images/be34dba0-000d-4f43-9675-29e189f09f82/pantene-pro-v-shampoo-repair-und-care-xxl"
+        },
+        {
+          "alt": "Shampoo Repair & Care XXL PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530183/assets/pas/images/6068e640-ad73-4932-aa50-ba7788201276/pantene-pro-v-shampoo-repair-und-care-xxl"
+        },
+        {
+          "alt": "Shampoo Repair & Care XXL PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529817/assets/pas/images/ee278b39-a1d6-4df6-b219-ca91b2dd2100/pantene-pro-v-shampoo-repair-und-care-xxl"
+        },
+        {
+          "alt": "Shampoo Repair & Care XXL PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530189/assets/pas/images/2bb76cf1-91d6-424e-8610-62ba54eddf1d/pantene-pro-v-shampoo-repair-und-care-xxl"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (10,00 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (11,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 233,
+        "ratingValue": 4.6609
+      },
+      "self": "/p/d/1561837/pantene-pro-v-shampoo-repair-und-care-xxl",
+      "title": {
+        "tileHeadline": "Shampoo Repair & Care XXL, 500 ml",
+        "tileHeadlineLong": "Shampoo Repair & Care XXL, 500 ml"
+      },
+      "trackingData": {
+        "brand": "PANTENE PRO-V",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+3 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6609,
+        "ratingCount": 233
+      }
+    }
+  },
+  {
+    "gtin": 8700216328661,
+    "dan": 1343250,
+    "brandName": "head&shoulders",
+    "title": "Shampoo Derma x Pro Beruhigende Pflege, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: head&shoulders; Produktname: Shampoo Derma x Pro Beruhigende Pflege, 250 ml; Preis: 4,95 €; Grundpreis: 0,25 l (19,80 € je 1 l)",
+      "brand": {
+        "name": "head&shoulders"
+      },
+      "dan": 1343250,
+      "gtin": 8700216328661,
+      "images": [
+        {
+          "alt": "Shampoo Derma x Pro Beruhigende Pflege head&shoulders",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773354105/assets/pas/images/d37fa267-ac05-495a-bfff-0390cee65c72/head-und-shoulders-shampoo-derma-x-pro-beruhigende-pflege"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigende Pflege head&shoulders",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774048856/assets/pas/images/bd037c06-6396-46d0-a043-ac97c52995cc/head-und-shoulders-shampoo-derma-x-pro-beruhigende-pflege"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigende Pflege head&shoulders",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774048865/assets/pas/images/fc22a3fc-d652-425e-9b12-996fb75f847b/head-und-shoulders-shampoo-derma-x-pro-beruhigende-pflege"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigende Pflege head&shoulders",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529781/assets/pas/images/42ddd1f6-ee5f-4b6f-a3aa-c1fbca30d9a8/head-und-shoulders-shampoo-derma-x-pro-beruhigende-pflege"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigende Pflege head&shoulders",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529783/assets/pas/images/a3c2ef24-e1ff-4a84-9dde-35ca02b2713d/head-und-shoulders-shampoo-derma-x-pro-beruhigende-pflege"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigende Pflege head&shoulders",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774048834/assets/pas/images/2ccb035f-ee56-4e7b-b680-18d1004e0f55/head-und-shoulders-shampoo-derma-x-pro-beruhigende-pflege"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigende Pflege head&shoulders",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774048845/assets/pas/images/2b731c5e-8e96-4b53-b840-b203f87b137f/head-und-shoulders-shampoo-derma-x-pro-beruhigende-pflege"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (16,64 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (19,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 233,
+        "ratingValue": 4.5794
+      },
+      "self": "/p/d/1343250/head-und-shoulders-shampoo-derma-x-pro-beruhigende-pflege",
+      "title": {
+        "tileHeadline": "Shampoo Derma x Pro Beruhigende Pflege, 250 ml",
+        "tileHeadlineLong": "Shampoo Derma x Pro Beruhigende Pflege, 250 ml"
+      },
+      "trackingData": {
+        "brand": "head&shoulders",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5794,
+        "ratingCount": 233
+      }
+    }
+  },
+  {
+    "gtin": 8006530290012,
+    "dan": 3130636,
+    "brandName": "Herbal Essences",
+    "title": "Shampoo Fiji, 350 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Herbal Essences; Produktname: Shampoo Fiji, 350 ml; Preis: 3,95 €; Grundpreis: 0,35 l (11,29 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "Herbal Essences"
+      },
+      "dan": 3130636,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 8006530290012,
+      "images": [
+        {
+          "alt": "Shampoo Fiji Herbal Essences",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773867112/assets/pas/images/1cbddc2d-00a6-4154-9727-f626992bc65c/herbal-essences-shampoo-fiji"
+        },
+        {
+          "alt": "Shampoo Fiji Herbal Essences",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773867120/assets/pas/images/08d7be06-9558-40ca-bdde-3115a2940401/herbal-essences-shampoo-fiji"
+        },
+        {
+          "alt": "Shampoo Fiji Herbal Essences",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779234915/assets/pas/images/feb8c819-c699-4210-882e-90db9af278ed/herbal-essences-shampoo-fiji"
+        },
+        {
+          "alt": "Shampoo Fiji Herbal Essences",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168366/assets/pas/images/12f08f30-5c64-4db1-b354-d49276796055/herbal-essences-shampoo-fiji"
+        },
+        {
+          "alt": "Shampoo Fiji Herbal Essences",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168392/assets/pas/images/08272a3d-b87f-4523-8165-4e91c88d48a8/herbal-essences-shampoo-fiji"
+        },
+        {
+          "alt": "Shampoo Fiji Herbal Essences",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168406/assets/pas/images/79e764d6-512d-4e21-a038-1ed7784fae19/herbal-essences-shampoo-fiji"
+        },
+        {
+          "alt": "Shampoo Fiji Herbal Essences",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168420/assets/pas/images/ae6d7a2b-571d-4dae-aba9-70afbf47364c/herbal-essences-shampoo-fiji"
+        },
+        {
+          "alt": "Shampoo Fiji Herbal Essences",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168434/assets/pas/images/38c3a956-b8fb-4891-910c-087999df89c7/herbal-essences-shampoo-fiji"
+        },
+        {
+          "alt": "Shampoo Fiji Herbal Essences",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773963072/assets/pas/images/435e5189-a1f4-4bd3-bdcf-7c752c5f3fa3/herbal-essences-shampoo-fiji"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 l (9,49 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 l (11,29 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.7255
+      },
+      "self": "/p/d/3130636/herbal-essences-shampoo-fiji",
+      "title": {
+        "tileHeadline": "Shampoo Fiji, 350 ml",
+        "tileHeadlineLong": "Shampoo Fiji, 350 ml"
+      },
+      "trackingData": {
+        "brand": "Herbal Essences",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7255,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 8700216328869,
+    "dan": 1343267,
+    "brandName": "head&shoulders",
+    "title": "Shampoo Derma x Pro Beruhigend, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: head&shoulders; Produktname: Shampoo Derma x Pro Beruhigend, 400 ml; Preis: 7,75 €; Grundpreis: 0,4 l (19,38 € je 1 l)",
+      "brand": {
+        "name": "head&shoulders"
+      },
+      "dan": 1343267,
+      "gtin": 8700216328869,
+      "images": [
+        {
+          "alt": "Shampoo Derma x Pro Beruhigend head&shoulders",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773791288/assets/pas/images/d01f2a29-6c82-48e1-82a4-569a53b8d0b5/head-und-shoulders-shampoo-derma-x-pro-beruhigend"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigend head&shoulders",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773962273/assets/pas/images/226ae155-382f-4e41-b52e-c6f60dc9ffa9/head-und-shoulders-shampoo-derma-x-pro-beruhigend"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigend head&shoulders",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529381/assets/pas/images/53395b41-bf54-4764-9836-eac1ec1d80f9/head-und-shoulders-shampoo-derma-x-pro-beruhigend"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigend head&shoulders",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529381/assets/pas/images/50358ac2-21a3-46c3-bbb0-1b8974671bbc/head-und-shoulders-shampoo-derma-x-pro-beruhigend"
+        },
+        {
+          "alt": "Shampoo Derma x Pro Beruhigend head&shoulders",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770503654/assets/pas/images/d941177a-775c-47a3-8d68-b2f0ff38a1ac/head-und-shoulders-shampoo-derma-x-pro-beruhigend"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,51 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (16,29 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (19,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.7444
+      },
+      "self": "/p/d/1343267/head-und-shoulders-shampoo-derma-x-pro-beruhigend",
+      "title": {
+        "tileHeadline": "Shampoo Derma x Pro Beruhigend, 400 ml",
+        "tileHeadlineLong": "Shampoo Derma x Pro Beruhigend, 400 ml"
+      },
+      "trackingData": {
+        "brand": "head&shoulders",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.75
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7444,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4104260073500,
+    "dan": 2555198,
+    "brandName": "Swiss-o-Par",
+    "title": "Shampoo Tiefenreinigung, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Swiss-o-Par; Produktname: Shampoo Tiefenreinigung, 250 ml; Preis: 2,45 €; Grundpreis: 0,25 l (9,80 € je 1 l)",
+      "brand": {
+        "name": "Swiss-o-Par"
+      },
+      "dan": 2555198,
+      "gtin": 4104260073500,
+      "images": [
+        {
+          "alt": "Shampoo Tiefenreinigung Swiss-o-Par",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488995/assets/pas/images/d0c8f2c5-fb2d-4a5d-a8a8-c79300514f85/swiss-o-par-shampoo-tiefenreinigung"
+        },
+        {
+          "alt": "Shampoo Tiefenreinigung Swiss-o-Par",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748384486/assets/pas/images/6309bd24-1b4b-47a9-9d92-578f31a7a4eb/swiss-o-par-shampoo-tiefenreinigung"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (8,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 94,
+        "ratingValue": 4.5851
+      },
+      "self": "/p/d/2555198/swiss-o-par-shampoo-tiefenreinigung",
+      "title": {
+        "tileHeadline": "Shampoo Tiefenreinigung, 250 ml",
+        "tileHeadlineLong": "Shampoo Tiefenreinigung, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Swiss-o-Par",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5851,
+        "ratingCount": 94
+      }
+    }
+  },
+  {
+    "gtin": 4103040051776,
+    "dan": 1692477,
+    "brandName": "sebamed",
+    "title": "Shampoo Every-Day, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: Shampoo Every-Day, 400 ml; Preis: 6,75 €; Grundpreis: 0,4 l (16,88 € je 1 l)",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1692477,
+      "gtin": 4103040051776,
+      "images": [
+        {
+          "alt": "Shampoo Every-Day sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762382588/assets/pas/images/97b01de6-71c4-42cf-a5f0-2bd56951dee4/sebamed-shampoo-every-day"
+        },
+        {
+          "alt": "Shampoo Every-Day sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762382551/assets/pas/images/6f43854a-b750-4fe9-8381-a6ada75c0d8d/sebamed-shampoo-every-day"
+        },
+        {
+          "alt": "Shampoo Every-Day sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762382576/assets/pas/images/04938daf-1589-46c6-9f94-a70b3ff1988a/sebamed-shampoo-every-day"
+        },
+        {
+          "alt": "Shampoo Every-Day sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762382563/assets/pas/images/da55a4f5-9732-4714-8271-5132bec33a28/sebamed-shampoo-every-day"
+        },
+        {
+          "alt": "Shampoo Every-Day sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762382538/assets/pas/images/c447ce5a-57c7-46ce-af05-260138bb43db/sebamed-shampoo-every-day"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,67 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (14,18 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (16,88 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 105,
+        "ratingValue": 4.7143
+      },
+      "self": "/p/d/1692477/sebamed-shampoo-every-day",
+      "title": {
+        "tileHeadline": "Shampoo Every-Day, 400 ml",
+        "tileHeadlineLong": "Shampoo Every-Day, 400 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7143,
+        "ratingCount": 105
+      }
+    }
+  },
+  {
+    "gtin": 4270004570106,
+    "dan": 3063729,
+    "brandName": "DEJAN GARZ",
+    "title": "Shampoo The Foundation, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: DEJAN GARZ; Produktname: Shampoo The Foundation, 300 ml; Preis: 9,95 €; Grundpreis: 0,3 l (33,17 € je 1 l)",
+      "brand": {
+        "name": "DEJAN GARZ"
+      },
+      "dan": 3063729,
+      "gtin": 4270004570106,
+      "images": [
+        {
+          "alt": "Shampoo The Foundation DEJAN GARZ",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495699/assets/pas/images/a517624f-7771-4828-b8d9-8e01288d6ce8/dejan-garz-shampoo-the-foundation"
+        },
+        {
+          "alt": "Shampoo The Foundation DEJAN GARZ",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764200767/assets/pas/images/52c3f763-cf9e-4008-b8d6-910ccca7ac84/dejan-garz-shampoo-the-foundation"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (27,87 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (33,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 712,
+        "ratingValue": 3.6404
+      },
+      "self": "/p/d/3063729/dejan-garz-shampoo-the-foundation",
+      "title": {
+        "tileHeadline": "Shampoo The Foundation, 300 ml",
+        "tileHeadlineLong": "Shampoo The Foundation, 300 ml"
+      },
+      "trackingData": {
+        "brand": "DEJAN GARZ",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6404,
+        "ratingCount": 712
+      }
+    }
+  },
+  {
+    "gtin": 4103040051714,
+    "dan": 1410661,
+    "brandName": "sebamed",
+    "title": "Shampoo Anti-Schuppen, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: Shampoo Anti-Schuppen, 400 ml; Preis: 7,95 €; Grundpreis: 0,4 l (19,88 € je 1 l)",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1410661,
+      "gtin": 4103040051714,
+      "images": [
+        {
+          "alt": "Shampoo Anti-Schuppen sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295133/assets/pas/images/db3f80f7-d0ff-428f-9f85-cb28fdba3ab7/sebamed-shampoo-anti-schuppen"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295161/assets/pas/images/d51764e0-20f2-4f1d-a1cc-ef422804a9aa/sebamed-shampoo-anti-schuppen"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776810084/assets/pas/images/cb0415c6-7c6f-4ec9-b28b-4c9dc8e5fcba/sebamed-shampoo-anti-schuppen"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen sebamed",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295105/assets/pas/images/23701b03-387c-4401-b0f7-23276158f49d/sebamed-shampoo-anti-schuppen"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295147/assets/pas/images/3ceb8127-45fc-4e55-b6a1-4cf628c5ddf9/sebamed-shampoo-anti-schuppen"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (16,71 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (19,88 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.7976
+      },
+      "self": "/p/d/1410661/sebamed-shampoo-anti-schuppen",
+      "title": {
+        "tileHeadline": "Shampoo Anti-Schuppen, 400 ml",
+        "tileHeadlineLong": "Shampoo Anti-Schuppen, 400 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7976,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4008890006405,
+    "dan": 1585727,
+    "brandName": "Salthouse",
+    "title": "Shampoo Totes Meer Therapie Anti-Juckreiz, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Salthouse; Produktname: Shampoo Totes Meer Therapie Anti-Juckreiz, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Salthouse"
+      },
+      "dan": 1585727,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4008890006405,
+      "images": [
+        {
+          "alt": "Shampoo Totes Meer Therapie Anti-Juckreiz  Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765665610/assets/pas/images/db9df261-7b1d-4c74-890e-7306b8d554af/salthouse-shampoo-totes-meer-therapie-anti-juckreiz"
+        },
+        {
+          "alt": "Shampoo Totes Meer Therapie Anti-Juckreiz  Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765665605/assets/pas/images/3727a197-d5d3-4ff3-9b86-6e3706774431/salthouse-shampoo-totes-meer-therapie-anti-juckreiz"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 180,
+        "ratingValue": 4.2667
+      },
+      "self": "/p/d/1585727/salthouse-shampoo-totes-meer-therapie-anti-juckreiz",
+      "title": {
+        "tileHeadline": "Shampoo Totes Meer Therapie Anti-Juckreiz, 250 ml",
+        "tileHeadlineLong": "Shampoo Totes Meer Therapie Anti-Juckreiz, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Salthouse",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2667,
+        "ratingCount": 180
+      }
+    }
+  },
+  {
+    "gtin": 4103040051677,
+    "dan": 1585729,
+    "brandName": "sebamed",
+    "title": "Shampoo Anti-Schuppen Plus, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: Shampoo Anti-Schuppen Plus, 200 ml; Preis: 4,95 €; Grundpreis: 0,2 l (24,75 € je 1 l)",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1585729,
+      "gtin": 4103040051677,
+      "images": [
+        {
+          "alt": "Shampoo Anti-Schuppen Plus sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294447/assets/pas/images/6e4232be-b711-413c-908e-8d70015bc891/sebamed-shampoo-anti-schuppen-plus"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Plus sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294473/assets/pas/images/80f6173a-c4cc-4479-8dc4-67b04b1e7374/sebamed-shampoo-anti-schuppen-plus"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Plus sebamed",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294421/assets/pas/images/461863d9-58b0-4aaa-a078-7dba874d8a00/sebamed-shampoo-anti-schuppen-plus"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Plus sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294434/assets/pas/images/38cc9b3e-9936-451e-b372-2c8e667a46aa/sebamed-shampoo-anti-schuppen-plus"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Plus sebamed",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294460/assets/pas/images/41b5d365-01ef-4461-895a-ed55a60525ca/sebamed-shampoo-anti-schuppen-plus"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (20,80 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (24,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 198,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/1585729/sebamed-shampoo-anti-schuppen-plus",
+      "title": {
+        "tileHeadline": "Shampoo Anti-Schuppen Plus, 200 ml",
+        "tileHeadlineLong": "Shampoo Anti-Schuppen Plus, 200 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 198
+      }
+    }
+  },
+  {
+    "gtin": 3574661876450,
+    "dan": 3121564,
+    "brandName": "OGX",
+    "title": "Shampoo ProGrowth + Peptide, 385 ml",
+    "tileData": {
+      "a11yLabel": "Marke: OGX; Produktname: Shampoo ProGrowth + Peptide, 385 ml; Preis: 6,95 €; Grundpreis: 0,385 l (18,05 € je 1 l)",
+      "brand": {
+        "name": "OGX"
+      },
+      "dan": 3121564,
+      "gtin": 3574661876450,
+      "images": [
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768831497/assets/pas/images/5d1cb56d-27b0-40ad-9fa6-508f712e4350/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768831510/assets/pas/images/8b4b0b33-d895-45b4-8b3e-0faed8e525ec/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768831523/assets/pas/images/b4a32325-f280-43c0-882b-33dacf183f65/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769206227/assets/pas/images/d0cd9073-bd14-48c9-9e58-57cd8f97e547/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768831585/assets/pas/images/e576a4cd-61e0-453f-acf2-cee0e0e087d2/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768831620/assets/pas/images/4e42d199-4d18-45e1-9931-73a7beda643d/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768831551/assets/pas/images/0f4947ae-6912-46bf-a93a-5b4031ba047d/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768831599/assets/pas/images/fd59a589-e8e5-4f0a-82ee-1a845b678fae/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768831535/assets/pas/images/3ab10931-99d9-43e3-b896-f73d4ac2a242/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783808530/assets/pas/images/48d14935-8741-4055-a42c-3d98f41b20ff/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783808545/assets/pas/images/1759b049-5e7e-4443-bb98-83362caf73ca/ogx-shampoo-progrowth-peptide"
+        },
+        {
+          "alt": "Shampoo ProGrowth + Peptide OGX",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768831568/assets/pas/images/6b8773a5-cf3f-4731-8896-69c5d7df2794/ogx-shampoo-progrowth-peptide"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,385 l (15,17 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,385 l (18,05 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 160,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/3121564/ogx-shampoo-progrowth-peptide",
+      "title": {
+        "tileHeadline": "Shampoo ProGrowth + Peptide, 385 ml",
+        "tileHeadlineLong": "Shampoo ProGrowth + Peptide, 385 ml"
+      },
+      "trackingData": {
+        "brand": "OGX",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 160
+      }
+    }
+  },
+  {
+    "gtin": 8001090896735,
+    "dan": 1493056,
+    "brandName": "head&shoulders",
+    "title": "Shampoo Anti-Schuppen bei juckender Kopfhaut, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: head&shoulders; Produktname: Shampoo Anti-Schuppen bei juckender Kopfhaut, 500 ml; Preis: 6,95 €; Grundpreis: 0,5 l (13,90 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "head&shoulders"
+      },
+      "dan": 1493056,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 8001090896735,
+      "images": [
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766529227/assets/pas/images/70a9c252-840e-44ef-ba41-a1600afae540/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784074936/assets/pas/images/e0813491-f56d-48f9-a1b7-7e3c62548d7a/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766529220/assets/pas/images/d52f3f2c-8df7-4b95-8cf6-f6242bd20b7a/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546901/assets/pas/images/4cfa74ff-41b4-4441-81f0-18dc0c4abc4c/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546876/assets/pas/images/d457d9a4-d115-4ba1-99f3-abda1dcf9909/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546885/assets/pas/images/a8acfdf8-555c-43bd-9b07-387cfb3c61d8/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546946/assets/pas/images/03b63cde-a335-421c-b581-eb64a1c7b54b/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546915/assets/pas/images/6ede1515-ae5c-473c-a0ef-6d48f6ff52f8/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546931/assets/pas/images/939e3c24-2018-4258-a667-ba2e99c2e50e/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei juckender Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766529212/assets/pas/images/0e321f85-638e-480d-bf8a-347441fc188b/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (11,68 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (13,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.625
+      },
+      "self": "/p/d/1493056/head-und-shoulders-shampoo-anti-schuppen-bei-juckender-kopfhaut",
+      "title": {
+        "tileHeadline": "Shampoo Anti-Schuppen bei juckender Kopfhaut, 500 ml",
+        "tileHeadlineLong": "Shampoo Anti-Schuppen bei juckender Kopfhaut, 500 ml"
+      },
+      "trackingData": {
+        "brand": "head&shoulders",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.625,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 8001090896216,
+    "dan": 1493054,
+    "brandName": "head&shoulders",
+    "title": "Shampoo Anti-Schuppen Citrus Fresh, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: head&shoulders; Produktname: Shampoo Anti-Schuppen Citrus Fresh, 500 ml; Preis: 6,95 €; Grundpreis: 0,5 l (13,90 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "head&shoulders"
+      },
+      "dan": 1493054,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 8001090896216,
+      "images": [
+        {
+          "alt": "Shampoo Anti-Schuppen Citrus Fresh head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766527211/assets/pas/images/1dfb15d2-8b00-436a-aba0-d087c325d777/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Citrus Fresh head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766527227/assets/pas/images/210f4c95-0877-417a-bcfa-88781c5fe58e/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Citrus Fresh head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546561/assets/pas/images/be760f73-cf65-4ae6-af38-3aef7c639a91/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Citrus Fresh head&shoulders",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546517/assets/pas/images/b303ad3e-24a9-49bf-95d1-d022bc028218/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Citrus Fresh head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546532/assets/pas/images/b50a68a9-cbaa-41af-9bc7-dd98e74fed40/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Citrus Fresh head&shoulders",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546547/assets/pas/images/b2fe7b1c-d845-452e-8bbe-159ef7c1b114/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Citrus Fresh head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771546589/assets/pas/images/066258c3-7572-4853-b2e1-59b3bed8f676/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Citrus Fresh head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778190928/assets/pas/images/02f0df06-ad1c-40a8-ac40-05a9421bd1df/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Citrus Fresh head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766527218/assets/pas/images/ecf2e1a0-ef88-4e0b-9a0e-92e24f5135e3/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (11,68 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (13,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 55,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/1493054/head-und-shoulders-shampoo-anti-schuppen-citrus-fresh",
+      "title": {
+        "tileHeadline": "Shampoo Anti-Schuppen Citrus Fresh, 500 ml",
+        "tileHeadlineLong": "Shampoo Anti-Schuppen Citrus Fresh, 500 ml"
+      },
+      "trackingData": {
+        "brand": "head&shoulders",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 55
+      }
+    }
+  },
+  {
+    "gtin": 8006530325530,
+    "dan": 3135993,
+    "brandName": "AUSSIE",
+    "title": "Shampoo Bouncy Curls, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: AUSSIE; Produktname: Shampoo Bouncy Curls, 300 ml; Preis: 4,95 €; Grundpreis: 0,3 l (16,50 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "AUSSIE"
+      },
+      "dan": 3135993,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 8006530325530,
+      "images": [
+        {
+          "alt": "Shampoo Bouncy Curls AUSSIE",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778026207/assets/pas/images/180d7727-7157-427e-880a-178a61653209/aussie-shampoo-bouncy-curls"
+        },
+        {
+          "alt": "Shampoo Bouncy Curls AUSSIE",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778026225/assets/pas/images/d3de2ecc-fe7c-4f19-a928-3b72cd91e1fe/aussie-shampoo-bouncy-curls"
+        },
+        {
+          "alt": "Shampoo Bouncy Curls AUSSIE",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777931344/assets/pas/images/4170b468-27af-4858-a0a2-cebc9f2efbf3/aussie-shampoo-bouncy-curls"
+        },
+        {
+          "alt": "Shampoo Bouncy Curls AUSSIE",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777931353/assets/pas/images/aebef104-2412-4b16-9c42-0f832eb5d795/aussie-shampoo-bouncy-curls"
+        },
+        {
+          "alt": "Shampoo Bouncy Curls AUSSIE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777931363/assets/pas/images/c5519746-116d-4225-9143-899cb273e69a/aussie-shampoo-bouncy-curls"
+        },
+        {
+          "alt": "Shampoo Bouncy Curls AUSSIE",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777931373/assets/pas/images/0cbf7341-fe84-4182-a546-60772e92a16e/aussie-shampoo-bouncy-curls"
+        },
+        {
+          "alt": "Shampoo Bouncy Curls AUSSIE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778026215/assets/pas/images/84740fd7-985b-48ff-ad49-51f4a8730d51/aussie-shampoo-bouncy-curls"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,87 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (16,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.7826
+      },
+      "self": "/p/d/3135993/aussie-shampoo-bouncy-curls",
+      "title": {
+        "tileHeadline": "Shampoo Bouncy Curls, 300 ml",
+        "tileHeadlineLong": "Shampoo Bouncy Curls, 300 ml"
+      },
+      "trackingData": {
+        "brand": "AUSSIE",
+        "categories": [
+          "Locken Produkte",
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7826,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4058172920684,
+    "dan": 1539789,
+    "brandName": "LANGHAARMÄDCHEN",
+    "title": "Shampoo Intense Repair, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LANGHAARMÄDCHEN; Produktname: Shampoo Intense Repair, 300 ml; Preis: 4,95 €; Grundpreis: 0,3 l (16,50 € je 1 l); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "LANGHAARMÄDCHEN"
+      },
+      "dan": 1539789,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4058172920684,
+      "images": [
+        {
+          "alt": "Shampoo Intense Repair LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747456284/assets/pas/images/cd46d4f2-f8c7-4f32-8946-9c4b45007d21/langhaarmaedchen-shampoo-intense-repair"
+        },
+        {
+          "alt": "Shampoo Intense Repair LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747456284/assets/pas/images/8fb43346-9c51-4a4b-a036-e10cf9dc8995/langhaarmaedchen-shampoo-intense-repair"
+        },
+        {
+          "alt": "Shampoo Intense Repair LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747456303/assets/pas/images/9b08bc1c-345f-40fb-9bc7-cd61befe10d3/langhaarmaedchen-shampoo-intense-repair"
+        },
+        {
+          "alt": "Shampoo Intense Repair LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747456284/assets/pas/images/f284ae2e-7f59-49dc-ae16-fd920a0a93c1/langhaarmaedchen-shampoo-intense-repair"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,87 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (16,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 224,
+        "ratingValue": 3.8839
+      },
+      "self": "/p/d/1539789/langhaarmaedchen-shampoo-intense-repair",
+      "title": {
+        "tileHeadline": "Shampoo Intense Repair, 300 ml",
+        "tileHeadlineLong": "Shampoo Intense Repair, 300 ml"
+      },
+      "trackingData": {
+        "brand": "LANGHAARMÄDCHEN",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8839,
+        "ratingCount": 224
+      }
+    }
+  },
+  {
+    "gtin": 5037156297133,
+    "dan": 3123430,
+    "brandName": "John Frieda",
+    "title": "Shampoo Violet Crush Intensiv Silber, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: John Frieda; Produktname: Shampoo Violet Crush Intensiv Silber, 250 ml; Preis: 9,95 €; Grundpreis: 0,25 l (39,80 € je 1 l)",
+      "brand": {
+        "name": "John Frieda"
+      },
+      "dan": 3123430,
+      "gtin": 5037156297133,
+      "images": [
+        {
+          "alt": "Shampoo Violet Crush Intensiv Silber John Frieda",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770880448/assets/pas/images/7b711bc7-968b-433e-9dc7-8fa2638c4ff5/john-frieda-shampoo-violet-crush-intensiv-silber"
+        },
+        {
+          "alt": "Shampoo Violet Crush Intensiv Silber John Frieda",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770880458/assets/pas/images/70244590-11ec-42c7-bfb1-eb91f5c5626a/john-frieda-shampoo-violet-crush-intensiv-silber"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (33,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (39,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.6471
+      },
+      "self": "/p/d/3123430/john-frieda-shampoo-violet-crush-intensiv-silber",
+      "title": {
+        "tileHeadline": "Shampoo Violet Crush Intensiv Silber, 250 ml",
+        "tileHeadlineLong": "Shampoo Violet Crush Intensiv Silber, 250 ml"
+      },
+      "trackingData": {
+        "brand": "John Frieda",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6471,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4008890006429,
+    "dan": 1477449,
+    "brandName": "Salthouse",
+    "title": "Shampoo Anti-Schuppen Totes Meer, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Salthouse; Produktname: Shampoo Anti-Schuppen Totes Meer, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l)",
+      "brand": {
+        "name": "Salthouse"
+      },
+      "dan": 1477449,
+      "gtin": 4008890006429,
+      "images": [
+        {
+          "alt": "Shampoo Anti-Schuppen Totes Meer Salthouse",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765666805/assets/pas/images/6be72887-14df-4229-a191-df38aed1f7db/salthouse-shampoo-anti-schuppen-totes-meer"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen Totes Meer Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765666810/assets/pas/images/9f323c4f-2772-4946-92e1-798bce36f16a/salthouse-shampoo-anti-schuppen-totes-meer"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 142,
+        "ratingValue": 4.169
+      },
+      "self": "/p/d/1477449/salthouse-shampoo-anti-schuppen-totes-meer",
+      "title": {
+        "tileHeadline": "Shampoo Anti-Schuppen Totes Meer, 250 ml",
+        "tileHeadlineLong": "Shampoo Anti-Schuppen Totes Meer, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Salthouse",
+        "categories": [
+          "Haarpflege",
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.169,
+        "ratingCount": 142
+      }
+    }
+  },
+  {
+    "gtin": 4066447785425,
+    "dan": 2968885,
+    "brandName": "Balea med",
+    "title": "Shampoo Anti-Schuppen ultra sensitive, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea med; Produktname: Shampoo Anti-Schuppen ultra sensitive, 250 ml; Preis: 2,45 €; Grundpreis: 0,25 l (9,80 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea med"
+      },
+      "dan": 2968885,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447785425,
+      "images": [
+        {
+          "alt": "Shampoo Anti-Schuppen ultra sensitive Balea med",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486189/assets/pas/images/d9c4a1bc-cdfb-4b9f-938b-7a3bb8ce2196/balea-med-shampoo-anti-schuppen-ultra-sensitive"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen ultra sensitive Balea med",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774593007/assets/pas/images/1d5929be-7ab2-43bc-9159-5c767c7e5ff2/balea-med-shampoo-anti-schuppen-ultra-sensitive"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen ultra sensitive Balea med",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486275/assets/pas/images/b8b0e7dd-95bf-4467-872c-268da469d213/balea-med-shampoo-anti-schuppen-ultra-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (8,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 142,
+        "ratingValue": 4.3662
+      },
+      "self": "/p/d/2968885/balea-med-shampoo-anti-schuppen-ultra-sensitive",
+      "title": {
+        "tileHeadline": "Shampoo Anti-Schuppen ultra sensitive, 250 ml",
+        "tileHeadlineLong": "Shampoo Anti-Schuppen ultra sensitive, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Balea med",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3662,
+        "ratingCount": 142
+      }
+    }
+  },
+  {
+    "gtin": 8700216301749,
+    "dan": 1343187,
+    "brandName": "head&shoulders",
+    "title": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: head&shoulders; Produktname: Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust, 250 ml; Preis: 5,45 €; Grundpreis: 0,25 l (21,80 € je 1 l)",
+      "brand": {
+        "name": "head&shoulders"
+      },
+      "dan": 1343187,
+      "gtin": 8700216301749,
+      "images": [
+        {
+          "alt": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529580/assets/pas/images/e5add85d-d14f-4bd6-9dd7-859e01e3a8de/head-und-shoulders-shampoo-anti-schuppen-proexpert-7-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773446239/assets/pas/images/f4218bd0-3e75-4253-97ee-48004557ef4f/head-und-shoulders-shampoo-anti-schuppen-proexpert-7-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust head&shoulders",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529581/assets/pas/images/10967a73-32a0-411d-84ce-0e21c92125b4/head-und-shoulders-shampoo-anti-schuppen-proexpert-7-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust head&shoulders",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529446/assets/pas/images/d5b69852-adb6-4190-b59c-dcbbaf5735f7/head-und-shoulders-shampoo-anti-schuppen-proexpert-7-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust head&shoulders",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529587/assets/pas/images/66eaaae1-a3c1-440c-9e59-31dadd7819fd/head-und-shoulders-shampoo-anti-schuppen-proexpert-7-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529588/assets/pas/images/b3cbbe4a-7772-42dc-8778-4a23e6d76f2d/head-und-shoulders-shampoo-anti-schuppen-proexpert-7-anti-haarverlust"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust head&shoulders",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529587/assets/pas/images/b921575d-6e09-4a9d-9a60-141ce8ed1187/head-und-shoulders-shampoo-anti-schuppen-proexpert-7-anti-haarverlust"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,58 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (18,32 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (21,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 708,
+        "ratingValue": 4.678
+      },
+      "self": "/p/d/1343187/head-und-shoulders-shampoo-anti-schuppen-proexpert-7-anti-haarverlust",
+      "title": {
+        "tileHeadline": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust, 250 ml",
+        "tileHeadlineLong": "Shampoo Anti-Schuppen ProExpert 7 Anti-Haarverlust, 250 ml"
+      },
+      "trackingData": {
+        "brand": "head&shoulders",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.678,
+        "ratingCount": 708
+      }
+    }
+  },
+  {
+    "gtin": 4262391990049,
+    "dan": 3070315,
+    "brandName": "BALI CURLS",
+    "title": "Shampoo Nourishing, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: BALI CURLS; Produktname: Shampoo Nourishing, 250 ml; Preis: 8,95 €; Grundpreis: 0,25 l (35,80 € je 1 l)",
+      "brand": {
+        "name": "BALI CURLS"
+      },
+      "dan": 3070315,
+      "gtin": 4262391990049,
+      "images": [
+        {
+          "alt": "Shampoo Nourishing BALI CURLS",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974964/assets/pas/images/6afa5962-ac79-49f1-9a01-3faca6408d3c/bali-curls-shampoo-nourishing"
+        },
+        {
+          "alt": "Shampoo Nourishing BALI CURLS",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974976/assets/pas/images/fe9b5164-c87b-4b40-b736-8bf98f4553df/bali-curls-shampoo-nourishing"
+        },
+        {
+          "alt": "Shampoo Nourishing BALI CURLS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495448/assets/pas/images/c4679bb9-b5f3-4de9-9abb-f13d67d6a2dd/bali-curls-shampoo-nourishing"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (30,08 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (35,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.1186
+      },
+      "self": "/p/d/3070315/bali-curls-shampoo-nourishing",
+      "title": {
+        "tileHeadline": "Shampoo Nourishing, 250 ml",
+        "tileHeadlineLong": "Shampoo Nourishing, 250 ml"
+      },
+      "trackingData": {
+        "brand": "BALI CURLS",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1186,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 8700216517669,
+    "dan": 1493058,
+    "brandName": "head&shoulders",
+    "title": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: head&shoulders; Produktname: Shampoo Anti-Schuppen bei empfindlicher Kopfhaut, 500 ml; Preis: 6,95 €; Grundpreis: 0,5 l (13,90 € je 1 l)",
+      "brand": {
+        "name": "head&shoulders"
+      },
+      "dan": 1493058,
+      "gtin": 8700216517669,
+      "images": [
+        {
+          "alt": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766529956/assets/pas/images/a146629e-2324-48df-939f-8e1199817aa9/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766529971/assets/pas/images/31020a43-2cd7-497e-aaa1-c20536bdcb56/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773098202/assets/pas/images/9bb3ce63-a2d7-4f37-a88d-97433a275a47/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773098179/assets/pas/images/d7af787d-9fea-4bee-886f-f6dd1eeb1fed/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut head&shoulders",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773098188/assets/pas/images/9ef8e70a-9c77-44f3-aba0-7868e912c30c/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773098215/assets/pas/images/0bc190c7-a3d8-4853-9d82-b4a978eda663/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773098228/assets/pas/images/0cd29ce5-46d1-4e56-95bb-dc73e609f356/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut head&shoulders",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773098243/assets/pas/images/a407487b-991d-4b06-a1ba-88d9f8855c8a/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut"
+        },
+        {
+          "alt": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut head&shoulders",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766529964/assets/pas/images/3f1a8caf-f5bc-494e-b610-c99e41577a56/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (11,68 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (13,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.8475
+      },
+      "self": "/p/d/1493058/head-und-shoulders-shampoo-anti-schuppen-bei-empfindlicher-kopfhaut",
+      "title": {
+        "tileHeadline": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut, 500 ml",
+        "tileHeadlineLong": "Shampoo Anti-Schuppen bei empfindlicher Kopfhaut, 500 ml"
+      },
+      "trackingData": {
+        "brand": "head&shoulders",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8475,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 5037156298628,
+    "dan": 3123412,
+    "brandName": "John Frieda",
+    "title": "Shampoo Frizz Ease Wunder-Reparatur, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: John Frieda; Produktname: Shampoo Frizz Ease Wunder-Reparatur, 250 ml; Preis: 9,95 €; Grundpreis: 0,25 l (39,80 € je 1 l)",
+      "brand": {
+        "name": "John Frieda"
+      },
+      "dan": 3123412,
+      "gtin": 5037156298628,
+      "images": [
+        {
+          "alt": "Shampoo Frizz Ease Wunder-Reparatur John Frieda",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770251588/assets/pas/images/0ce6165a-8b99-4ce1-9667-a848e7a85431/john-frieda-shampoo-frizz-ease-wunder-reparatur"
+        },
+        {
+          "alt": "Shampoo Frizz Ease Wunder-Reparatur John Frieda",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770251595/assets/pas/images/325b016a-3d31-4eee-bef0-0d84c80ba7fd/john-frieda-shampoo-frizz-ease-wunder-reparatur"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (33,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (39,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 192,
+        "ratingValue": 4.3906
+      },
+      "self": "/p/d/3123412/john-frieda-shampoo-frizz-ease-wunder-reparatur",
+      "title": {
+        "tileHeadline": "Shampoo Frizz Ease Wunder-Reparatur, 250 ml",
+        "tileHeadlineLong": "Shampoo Frizz Ease Wunder-Reparatur, 250 ml"
+      },
+      "trackingData": {
+        "brand": "John Frieda",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3906,
+        "ratingCount": 192
+      }
+    }
+  },
+  {
+    "gtin": 5037156296136,
+    "dan": 3123426,
+    "brandName": "John Frieda",
+    "title": "Shampoo Go Blonder, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: John Frieda; Produktname: Shampoo Go Blonder, 250 ml; Preis: 9,95 €; Grundpreis: 0,25 l (39,80 € je 1 l)",
+      "brand": {
+        "name": "John Frieda"
+      },
+      "dan": 3123426,
+      "gtin": 5037156296136,
+      "images": [
+        {
+          "alt": "Shampoo Go Blonder John Frieda",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770855332/assets/pas/images/e7d9cf3d-1c2e-41f8-944e-af9e42125c79/john-frieda-shampoo-go-blonder"
+        },
+        {
+          "alt": "Shampoo Go Blonder John Frieda",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770855339/assets/pas/images/dc7ce17a-8e19-467d-81aa-8beeee69575d/john-frieda-shampoo-go-blonder"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (33,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (39,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 94,
+        "ratingValue": 4.4894
+      },
+      "self": "/p/d/3123426/john-frieda-shampoo-go-blonder",
+      "title": {
+        "tileHeadline": "Shampoo Go Blonder, 250 ml",
+        "tileHeadlineLong": "Shampoo Go Blonder, 250 ml"
+      },
+      "trackingData": {
+        "brand": "John Frieda",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4894,
+        "ratingCount": 94
+      }
+    }
+  },
+  {
+    "gtin": 4067796002621,
+    "dan": 1559584,
+    "brandName": "LANGHAARMÄDCHEN",
+    "title": "Shampoo Lovely Long, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LANGHAARMÄDCHEN; Produktname: Shampoo Lovely Long, 300 ml; Preis: 4,95 €; Grundpreis: 0,3 l (16,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "LANGHAARMÄDCHEN"
+      },
+      "dan": 1559584,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796002621,
+      "images": [
+        {
+          "alt": "Shampoo Lovely Long LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020077/assets/pas/images/9cf305f9-abf5-40b3-b225-6777363bf615/langhaarmaedchen-shampoo-lovely-long"
+        },
+        {
+          "alt": "Shampoo Lovely Long LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020075/assets/pas/images/91a2c999-59d9-463e-a469-ef75cdc41016/langhaarmaedchen-shampoo-lovely-long"
+        },
+        {
+          "alt": "Shampoo Lovely Long LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486668/assets/pas/images/54e2ede1-74b8-4191-9b1c-a4b50579c6d9/langhaarmaedchen-shampoo-lovely-long"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,87 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (16,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 164,
+        "ratingValue": 3.628
+      },
+      "self": "/p/d/1559584/langhaarmaedchen-shampoo-lovely-long",
+      "title": {
+        "tileHeadline": "Shampoo Lovely Long, 300 ml",
+        "tileHeadlineLong": "Shampoo Lovely Long, 300 ml"
+      },
+      "trackingData": {
+        "brand": "LANGHAARMÄDCHEN",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.628,
+        "ratingCount": 164
+      }
+    }
+  }
+]

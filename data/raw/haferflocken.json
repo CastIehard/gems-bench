@@ -1,0 +1,2663 @@
+[
+  {
+    "gtin": 4067796181500,
+    "dan": 1517804,
+    "brandName": "dmBio",
+    "title": "Haferflocken, Feinblatt, glutenfrei, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferflocken, Feinblatt, glutenfrei, 500 g; Preis: 2,35 €; Grundpreis: 0,5 kg (4,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1517804,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796181500,
+      "images": [
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088923/assets/pas/images/7b14a170-c106-434d-801c-dbbbb3eb3904/dmbio-haferflocken-feinblatt-glutenfrei"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088924/assets/pas/images/c00edb22-c4f8-4dc3-b55f-618165d37784/dmbio-haferflocken-feinblatt-glutenfrei"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761744449/assets/pas/images/3b89549a-b8d2-400c-b051-347b120afc7a/dmbio-haferflocken-feinblatt-glutenfrei"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088920/assets/pas/images/4eee8a92-d8a6-44a2-922f-45650209ee3e/dmbio-haferflocken-feinblatt-glutenfrei"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088922/assets/pas/images/6fec9014-1df6-4e75-90d0-a4a677783edc/dmbio-haferflocken-feinblatt-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,39 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.6597
+      },
+      "self": "/p/d/1517804/dmbio-haferflocken-feinblatt-glutenfrei",
+      "title": {
+        "tileHeadline": "Haferflocken, Feinblatt, glutenfrei, 500 g",
+        "tileHeadlineLong": "Haferflocken, Feinblatt, glutenfrei, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6597,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4260654782882,
+    "dan": 1598907,
+    "brandName": "KoRo",
+    "title": "Energy Ball, Haferflocken & Erdnussmusfüllung, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Energy Ball, Haferflocken & Erdnussmusfüllung, 30 g; Preis: 1,35 €; Grundpreis: 0,03 kg (45,00 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1598907,
+      "gtin": 4260654782882,
+      "images": [
+        {
+          "alt": "Energy Ball, Haferflocken & Erdnussmusfüllung KoRo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757112489/assets/pas/images/885b090b-db55-4019-9b34-85ec2a16e3d1/koro-energy-ball-haferflocken-und-erdnussmusfuellung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (42,06 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (45,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.3333
+      },
+      "self": "/p/d/1598907/koro-energy-ball-haferflocken-und-erdnussmusfuellung",
+      "title": {
+        "tileHeadline": "Energy Ball, Haferflocken & Erdnussmusfüllung, 30 g",
+        "tileHeadlineLong": "Energy Ball, Haferflocken & Erdnussmusfüllung, 30 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3333,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4260654789898,
+    "dan": 1598908,
+    "brandName": "KoRo",
+    "title": "Energy Ball, Haferflocken & Pistazienmusfüllung, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Energy Ball, Haferflocken & Pistazienmusfüllung, 30 g; Preis: 1,65 €; Grundpreis: 0,03 kg (55,00 € je 1 kg)",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1598908,
+      "gtin": 4260654789898,
+      "images": [
+        {
+          "alt": "Energy Ball, Haferflocken & Pistazienmusfüllung KoRo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757111964/assets/pas/images/e0d5be37-e7fd-45a1-a703-b788546aaf15/koro-energy-ball-haferflocken-und-pistazienmusfuellung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (51,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (55,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 137,
+        "ratingValue": 3.9197
+      },
+      "self": "/p/d/1598908/koro-energy-ball-haferflocken-und-pistazienmusfuellung",
+      "title": {
+        "tileHeadline": "Energy Ball, Haferflocken & Pistazienmusfüllung, 30 g",
+        "tileHeadlineLong": "Energy Ball, Haferflocken & Pistazienmusfüllung, 30 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9197,
+        "ratingCount": 137
+      }
+    }
+  },
+  {
+    "gtin": 4066447992199,
+    "dan": 3113312,
+    "brandName": "Sportness",
+    "title": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen, 40 g; Preis: 0,85 €; Grundpreis: 0,04 kg (21,25 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3113312,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447992199,
+      "images": [
+        {
+          "alt": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776467788/assets/pas/images/f230a9cb-1fb8-4c81-bb2b-1623baad94d4/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen"
+        },
+        {
+          "alt": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776467791/assets/pas/images/6a6f3e8d-6c9c-4fe3-b566-a09c6b313cfe/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen"
+        },
+        {
+          "alt": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776467782/assets/pas/images/dfbd8e6f-ee0b-4f95-a6ee-a4778e0035c4/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen"
+        },
+        {
+          "alt": "Energieriegel, mit Haferflocken, Rosinen & Apfelstückchen Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776467795/assets/pas/images/6f9ac518-c4e6-401d-a0e9-a3af61d1f958/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (19,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (21,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.5098
+      },
+      "self": "/p/d/3113312/sportness-energieriegel-mit-haferflocken-rosinen-und-apfelstueckchen",
+      "title": {
+        "tileHeadline": "Energieriegel, mit Haferflocken, Rosinen &..., 40 g",
+        "tileHeadlineLong": "Energieriegel, mit Haferflocken, Rosinen &..., 40 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Müsliriegel & Fruchtriegel",
+          "Energie-Produkte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5098,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 4062300441361,
+    "dan": 1687016,
+    "brandName": "HiPP",
+    "title": "Frucht & Getreide Blaubeere Johannisbeere in Apfel mit Haferflocken ab dem 8.Monat, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Frucht & Getreide Blaubeere Johannisbeere in Apfel mit Haferflocken ab dem 8.Monat, 160 g; Rechtliche Kategorie: Beikost; Preis: 1,55 €; Grundpreis: 0,16 kg (9,69 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1687016,
+      "gtin": 4062300441361,
+      "images": [
+        {
+          "alt": "Frucht & Getreide Blaubeere Johannisbeere in Apfel mit Haferflocken ab dem 8.Monat HiPP",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474017/assets/pas/images/586f53b0-530a-4e19-bf0d-c406eb28f27a/hipp-frucht-und-getreide-blaubeere-johannisbeere-in-apfel-mit-haferflocken-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (9,06 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (9,69 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 462,
+        "ratingValue": 4.8593
+      },
+      "self": "/p/d/1687016/hipp-frucht-und-getreide-blaubeere-johannisbeere-in-apfel-mit-haferflocken-ab-dem-8-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Getreide Blaubeere Johannisbeere in..., 160 g",
+        "tileHeadlineLong": "Frucht & Getreide Blaubeere Johannisbeere in..., 160 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8593,
+        "ratingCount": 462
+      }
+    }
+  },
+  {
+    "gtin": 4067796181487,
+    "dan": 1442821,
+    "brandName": "dmBio",
+    "title": "Haferflocken, Feinblatt, 1.000 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferflocken, Feinblatt, 1.000 g; Preis: 1,55 €; Grundpreis: 1 kg (1,55 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1442821,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796181487,
+      "images": [
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088975/assets/pas/images/3bddb1d8-7a7c-4bad-9268-f55453f4105b/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088970/assets/pas/images/a0f598dd-fe28-44ea-9874-4fc20234f5ba/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088973/assets/pas/images/7fa90c8c-179f-430c-a51a-60c58768bf72/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088974/assets/pas/images/367f9329-34c4-47d5-9053-7169b6810b58/dmbio-haferflocken-feinblatt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (1,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (1,55 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 290,
+        "ratingValue": 4.3759
+      },
+      "self": "/p/d/1442821/dmbio-haferflocken-feinblatt",
+      "title": {
+        "tileHeadline": "Haferflocken, Feinblatt, 1.000 g",
+        "tileHeadlineLong": "Haferflocken, Feinblatt, 1.000 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3759,
+        "ratingCount": 290
+      }
+    }
+  },
+  {
+    "gtin": 4067796181463,
+    "dan": 1442845,
+    "brandName": "dmBio",
+    "title": "Haferflocken, Großblatt, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferflocken, Großblatt, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1442845,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796181463,
+      "images": [
+        {
+          "alt": "Haferflocken, Großblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006698/assets/pas/images/4d013658-48b3-48a6-9992-551a370e7a4d/dmbio-haferflocken-grossblatt"
+        },
+        {
+          "alt": "Haferflocken, Großblatt dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006694/assets/pas/images/a9942d64-9aa9-4fe7-99cc-ac0407db6caa/dmbio-haferflocken-grossblatt"
+        },
+        {
+          "alt": "Haferflocken, Großblatt dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006694/assets/pas/images/a2f3c3f4-2129-4c5e-9809-5e442fe81144/dmbio-haferflocken-grossblatt"
+        },
+        {
+          "alt": "Haferflocken, Großblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006698/assets/pas/images/2d3e0fc3-aa67-476e-b1db-925d204bf8cf/dmbio-haferflocken-grossblatt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.2459
+      },
+      "self": "/p/d/1442845/dmbio-haferflocken-grossblatt",
+      "title": {
+        "tileHeadline": "Haferflocken, Großblatt, 500 g",
+        "tileHeadlineLong": "Haferflocken, Großblatt, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2459,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 4067796180091,
+    "dan": 1442819,
+    "brandName": "dmBio",
+    "title": "Haferflocken, Feinblatt, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferflocken, Feinblatt, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik, Grafik: Öko Test dmBio Haferflocken Feinblatt, 500g sehr gut Öko-TEST Magazin Ausgabe 10/2024 35 Produkte im Test, davon 21x sehr gut",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1442819,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Grafik: Öko Test dmBio Haferflocken Feinblatt, 500g sehr gut Öko-TEST Magazin Ausgabe 10/2024 35 Produkte im Test, davon 21x sehr gut",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768551198/assets/pas/seals/04f3daf9-2089-4626-82ed-496c6153ef41/04f3daf9-2089-4626-82ed-496c6153ef41.webp",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768551198/assets/pas/seals/04f3daf9-2089-4626-82ed-496c6153ef41/04f3daf9-2089-4626-82ed-496c6153ef41.webp"
+        }
+      ],
+      "gtin": 4067796180091,
+      "images": [
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009947/assets/pas/images/5afbfe47-5615-4f96-b97e-457fd58a7eb9/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009947/assets/pas/images/df700b4c-819c-4bb5-9f71-092ed0493592/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009951/assets/pas/images/71da8b55-0e47-4cfb-8b7e-d4bdd12d700a/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009948/assets/pas/images/a5a0f64a-30a6-482a-aae1-9e2676fb868d/dmbio-haferflocken-feinblatt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 137,
+        "ratingValue": 4.3212
+      },
+      "self": "/p/d/1442819/dmbio-haferflocken-feinblatt",
+      "title": {
+        "tileHeadline": "Haferflocken, Feinblatt, 500 g",
+        "tileHeadlineLong": "Haferflocken, Feinblatt, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3212,
+        "ratingCount": 137
+      }
+    }
+  },
+  {
+    "gtin": 4067796194661,
+    "dan": 1612898,
+    "brandName": "dmBio",
+    "title": "Knuspermüsli, Kokos Mandel Granola, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Knuspermüsli, Kokos Mandel Granola, 500 g; Preis: 3,45 €; Grundpreis: 0,5 kg (6,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1612898,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796194661,
+      "images": [
+        {
+          "alt": "Knuspermüsli, Kokos Mandel Granola dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762470924/assets/pas/images/ad5ef43e-8189-4bd2-a7db-4d7e4335e41b/dmbio-knuspermuesli-kokos-mandel-granola"
+        },
+        {
+          "alt": "Knuspermüsli, Kokos Mandel Granola dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762470930/assets/pas/images/6156ad6e-1eef-4bb8-bf1c-c19160a61d5b/dmbio-knuspermuesli-kokos-mandel-granola"
+        },
+        {
+          "alt": "Knuspermüsli, Kokos Mandel Granola dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762470917/assets/pas/images/96b64df9-9da6-4ba7-baf7-94f837604211/dmbio-knuspermuesli-kokos-mandel-granola"
+        },
+        {
+          "alt": "Knuspermüsli, Kokos Mandel Granola dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762470920/assets/pas/images/db721fb7-6a5e-434d-9c1f-94f998e84baa/dmbio-knuspermuesli-kokos-mandel-granola"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 229,
+        "ratingValue": 4.7162
+      },
+      "self": "/p/d/1612898/dmbio-knuspermuesli-kokos-mandel-granola",
+      "title": {
+        "tileHeadline": "Knuspermüsli, Kokos Mandel Granola, 500 g",
+        "tileHeadlineLong": "Knuspermüsli, Kokos Mandel Granola, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7162,
+        "ratingCount": 229
+      }
+    }
+  },
+  {
+    "gtin": 4022993045406,
+    "dan": 1626069,
+    "brandName": "Schnitzer",
+    "title": "Brötchen, Panini Hafer (3 Stück), 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schnitzer; Produktname: Brötchen, Panini Hafer (3 Stück), 180 g; Preis: 2,55 €; Grundpreis: 0,18 kg (14,17 € je 1 kg)",
+      "brand": {
+        "name": "Schnitzer"
+      },
+      "dan": 1626069,
+      "gtin": 4022993045406,
+      "images": [
+        {
+          "alt": "Brötchen, Panini Hafer (3 Stück) Schnitzer",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777500589/assets/pas/images/fdd42280-fb37-4172-940c-3d18078039fb/schnitzer-broetchen-panini-hafer-3-stueck"
+        },
+        {
+          "alt": "Brötchen, Panini Hafer (3 Stück) Schnitzer",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755076537/assets/pas/images/082ac3e7-6d2b-40d0-8a17-3feb0c0f34b3/schnitzer-broetchen-panini-hafer-3-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (13,24 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (14,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.614
+      },
+      "self": "/p/d/1626069/schnitzer-broetchen-panini-hafer-3-stueck",
+      "title": {
+        "tileHeadline": "Brötchen, Panini Hafer (3 Stück), 180 g",
+        "tileHeadlineLong": "Brötchen, Panini Hafer (3 Stück), 180 g"
+      },
+      "trackingData": {
+        "brand": "Schnitzer",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.614,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4070765021363,
+    "dan": 1678895,
+    "brandName": "dmBio",
+    "title": "Brot, Das Pure Hafer & Saaten, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Brot, Das Pure Hafer & Saaten, 300 g; Preis: 1,75 €; Grundpreis: 0,3 kg (5,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1678895,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765021363,
+      "images": [
+        {
+          "alt": "Brot, Das Pure Hafer & Saaten dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408021/assets/pas/images/34e68cb4-73d5-4c01-8a59-8e71ee2480bd/dmbio-brot-das-pure-hafer-und-saaten"
+        },
+        {
+          "alt": "Brot, Das Pure Hafer & Saaten dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408030/assets/pas/images/a54d8386-cf50-4c5f-8568-d90496ef950c/dmbio-brot-das-pure-hafer-und-saaten"
+        },
+        {
+          "alt": "Brot, Das Pure Hafer & Saaten dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408036/assets/pas/images/651f52d7-bb7a-429e-bcd1-9c9e1d70bd5b/dmbio-brot-das-pure-hafer-und-saaten"
+        },
+        {
+          "alt": "Brot, Das Pure Hafer & Saaten dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408026/assets/pas/images/1379a52b-0e61-4695-8a12-b1173f397b10/dmbio-brot-das-pure-hafer-und-saaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (5,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (5,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 284,
+        "ratingValue": 4.7746
+      },
+      "self": "/p/d/1678895/dmbio-brot-das-pure-hafer-und-saaten",
+      "title": {
+        "tileHeadline": "Brot, Das Pure Hafer & Saaten, 300 g",
+        "tileHeadlineLong": "Brot, Das Pure Hafer & Saaten, 300 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7746,
+        "ratingCount": 284
+      }
+    }
+  },
+  {
+    "gtin": 9004617065651,
+    "dan": 3070190,
+    "brandName": "VERIVAL",
+    "title": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: VERIVAL; Produktname: Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g; Preis: 4,95 €; Grundpreis: 0,3 kg (16,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "VERIVAL"
+      },
+      "dan": 3070190,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9004617065651,
+      "images": [
+        {
+          "alt": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei VERIVAL",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748338551/assets/pas/images/46135ecf-b64e-4d28-b7f6-044df85a9693/verival-protein-muesli-erdbeere-sauerkirsche-glutenfrei"
+        },
+        {
+          "alt": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei VERIVAL",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747538208/assets/pas/images/b7264d9e-0396-41bc-82c2-7ff1d1f360b6/verival-protein-muesli-erdbeere-sauerkirsche-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (15,42 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (16,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3070190/verival-protein-muesli-erdbeere-sauerkirsche-glutenfrei",
+      "title": {
+        "tileHeadline": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g",
+        "tileHeadlineLong": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g"
+      },
+      "trackingData": {
+        "brand": "VERIVAL",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4067796210644,
+    "dan": 3078376,
+    "brandName": "dmBio",
+    "title": "Smoothie Bowl, Heidelbeere-Kirsche, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Smoothie Bowl, Heidelbeere-Kirsche, 50 g; Preis: 1,45 €; Grundpreis: 0,05 kg (29,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3078376,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796210644,
+      "images": [
+        {
+          "alt": "Smoothie Bowl, Heidelbeere-Kirsche dmBio",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769213529/assets/pas/images/1a417609-52ab-4fe2-89a1-d99e128ba547/dmbio-smoothie-bowl-heidelbeere-kirsche"
+        },
+        {
+          "alt": "Smoothie Bowl, Heidelbeere-Kirsche dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769213523/assets/pas/images/da8adb37-c497-45f6-bafc-2fcf820bf301/dmbio-smoothie-bowl-heidelbeere-kirsche"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (27,10 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (29,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.6377
+      },
+      "self": "/p/d/3078376/dmbio-smoothie-bowl-heidelbeere-kirsche",
+      "title": {
+        "tileHeadline": "Smoothie Bowl, Heidelbeere-Kirsche, 50 g",
+        "tileHeadlineLong": "Smoothie Bowl, Heidelbeere-Kirsche, 50 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Porridge & Frühstücksbrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6377,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4262367685214,
+    "dan": 1459783,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Kakao Würfel, ab 3 Jahren, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Kakao Würfel, ab 3 Jahren, 20 g; Preis: 0,95 €; Grundpreis: 0,02 kg (47,50 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 1459783,
+      "gtin": 4262367685214,
+      "images": [
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750687374/assets/pas/images/c2aac7e2-1278-42a6-b104-a719e2b38a24/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750687388/assets/pas/images/a0f60477-5c03-4760-8810-7fe2a4b160b5/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562074/assets/pas/images/7cbc47c2-7fd0-4e3c-b583-6de8f454f4f0/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562108/assets/pas/images/b1615273-60ed-4df2-b43c-dd1c13995881/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562089/assets/pas/images/dd51364f-a488-4a0c-b96d-751160bc059b/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562124/assets/pas/images/86375399-fc8d-460a-9f52-e6e168d27e7c/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750687381/assets/pas/images/ed60e9a4-f506-41ff-b2e6-ba04867472f1/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562060/assets/pas/images/80dd8186-73e4-4d7a-9769-76c035151e55/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562100/assets/pas/images/f5e71d4c-37c4-4bad-9369-f54b75f4dca2/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562066/assets/pas/images/af9f7234-7898-4d4b-bf28-1cf089623ba3/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (44,39 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (47,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.3974
+      },
+      "self": "/p/d/1459783/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Kakao Würfel, ab 3 Jahren, 20 g",
+        "tileHeadlineLong": "Kindersnack Kakao Würfel, ab 3 Jahren, 20 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3974,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4067796210620,
+    "dan": 3078340,
+    "brandName": "dmBio",
+    "title": "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Smoothie Bowl, Mango-Maracuja-Kokos, 50 g; Preis: 1,45 €; Grundpreis: 0,05 kg (29,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3078340,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796210620,
+      "images": [
+        {
+          "alt": "Smoothie Bowl, Mango-Maracuja-Kokos dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769213332/assets/pas/images/860afe3f-d199-4b4d-8bbf-9a9e567e2ec7/dmbio-smoothie-bowl-mango-maracuja-kokos"
+        },
+        {
+          "alt": "Smoothie Bowl, Mango-Maracuja-Kokos dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769213339/assets/pas/images/66f139e9-b5ed-4d3d-a15c-13c2b5cb35e4/dmbio-smoothie-bowl-mango-maracuja-kokos"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (27,10 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (29,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 4.2027
+      },
+      "self": "/p/d/3078340/dmbio-smoothie-bowl-mango-maracuja-kokos",
+      "title": {
+        "tileHeadline": "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g",
+        "tileHeadlineLong": "Smoothie Bowl, Mango-Maracuja-Kokos, 50 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Porridge & Frühstücksbrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2027,
+        "ratingCount": 74
+      }
+    }
+  },
+  {
+    "gtin": 4260519490525,
+    "dan": 2971696,
+    "brandName": "HEYHO!",
+    "title": "Granola, Peanut Power, 320 g",
+    "tileData": {
+      "a11yLabel": "Marke: HEYHO!; Produktname: Granola, Peanut Power, 320 g; Preis: 4,95 €; Grundpreis: 0,32 kg (15,47 € je 1 kg)",
+      "brand": {
+        "name": "HEYHO!"
+      },
+      "dan": 2971696,
+      "gtin": 4260519490525,
+      "images": [
+        {
+          "alt": "Granola, Peanut Power HEYHO!",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763077148/assets/pas/images/62671f62-fd04-4005-9caf-e6c902bc1a1e/heyho-granola-peanut-power"
+        },
+        {
+          "alt": "Granola, Peanut Power HEYHO!",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763077155/assets/pas/images/6ee1d748-d8ab-46ee-b5ca-67095e7aa5dd/heyho-granola-peanut-power"
+        },
+        {
+          "alt": "Granola, Peanut Power HEYHO!",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904176/assets/pas/images/c9910d69-32ec-42dd-8d6e-a6517d8190d9/heyho-granola-peanut-power"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,32 kg (14,46 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,32 kg (15,47 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 21,
+        "ratingValue": 4.9048
+      },
+      "self": "/p/d/2971696/heyho-granola-peanut-power",
+      "title": {
+        "tileHeadline": "Granola, Peanut Power, 320 g",
+        "tileHeadlineLong": "Granola, Peanut Power, 320 g"
+      },
+      "trackingData": {
+        "brand": "HEYHO!",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9048,
+        "ratingCount": 21
+      }
+    }
+  },
+  {
+    "gtin": 4056631002957,
+    "dan": 1565433,
+    "brandName": "Milupa",
+    "title": "Porridge Kinder Hafer & Früchte ab dem 10.Monat, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: Milupa; Produktname: Porridge Kinder Hafer & Früchte ab dem 10.Monat, 400 g; Rechtliche Kategorie: Beikost; Preis: 4,95 €; Grundpreis: 0,4 kg (12,38 € je 1 kg)",
+      "brand": {
+        "name": "Milupa"
+      },
+      "dan": 1565433,
+      "gtin": 4056631002957,
+      "images": [
+        {
+          "alt": "Porridge Kinder Hafer & Früchte ab dem 10.Monat Milupa",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747448944/assets/pas/images/7cd64d47-49f8-4a3e-8e3f-03efd82da153/milupa-porridge-kinder-hafer-und-fruechte-ab-dem-10-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (11,57 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (12,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.589
+      },
+      "self": "/p/d/1565433/milupa-porridge-kinder-hafer-und-fruechte-ab-dem-10-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Porridge Kinder Hafer & Früchte ab dem 10.Monat, 400 g",
+        "tileHeadlineLong": "Porridge Kinder Hafer & Früchte ab dem 10.Monat, 400 g"
+      },
+      "trackingData": {
+        "brand": "Milupa",
+        "categories": [
+          "Babybrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.589,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 4016249227869,
+    "dan": 1726796,
+    "brandName": "ALLOS",
+    "title": "Haferkekse Nutri+ Schoko, 130 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Haferkekse Nutri+ Schoko, 130 g; Preis: 2,15 €; Grundpreis: 0,13 kg (16,54 € je 1 kg)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 1726796,
+      "gtin": 4016249227869,
+      "images": [
+        {
+          "alt": "Haferkekse Nutri+ Schoko ALLOS",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442396/assets/pas/images/b9e1dcfc-c802-4c23-8630-4bb537e724d6/allos-haferkekse-nutri-schoko"
+        },
+        {
+          "alt": "Haferkekse Nutri+ Schoko ALLOS",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442397/assets/pas/images/ec209ee0-3a1a-4ed3-9cb5-db357b9b6924/allos-haferkekse-nutri-schoko"
+        },
+        {
+          "alt": "Haferkekse Nutri+ Schoko ALLOS",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442487/assets/pas/images/d2787a19-666b-4f1c-ab99-1018c1b8072b/allos-haferkekse-nutri-schoko"
+        },
+        {
+          "alt": "Haferkekse Nutri+ Schoko ALLOS",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442204/assets/pas/images/c59eaac7-ee04-48f8-9c0e-9d2ab5512fcd/allos-haferkekse-nutri-schoko"
+        },
+        {
+          "alt": "Haferkekse Nutri+ Schoko ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442245/assets/pas/images/a77d14ba-e5d6-4f95-a071-42aeb0d338df/allos-haferkekse-nutri-schoko"
+        },
+        {
+          "alt": "Haferkekse Nutri+ Schoko ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442204/assets/pas/images/e2887a45-2b17-4282-a8bd-5cb501ad054b/allos-haferkekse-nutri-schoko"
+        },
+        {
+          "alt": "Haferkekse Nutri+ Schoko ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442204/assets/pas/images/ae5e77e6-cae0-4ef8-a047-89639c605681/allos-haferkekse-nutri-schoko"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,01 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (15,46 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (16,54 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.7544
+      },
+      "self": "/p/d/1726796/allos-haferkekse-nutri-schoko",
+      "title": {
+        "tileHeadline": "Haferkekse Nutri+ Schoko, 130 g",
+        "tileHeadlineLong": "Haferkekse Nutri+ Schoko, 130 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7544,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4062300406490,
+    "dan": 1011113,
+    "brandName": "HiPP",
+    "title": "Frucht & Getreide Apfel-Bananen-Müsli, ab dem 8.Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Frucht & Getreide Apfel-Bananen-Müsli, ab dem 8.Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,45 €; Grundpreis: 0,19 kg (7,63 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1011113,
+      "gtin": 4062300406490,
+      "images": [
+        {
+          "alt": "Frucht & Getreide Apfel-Bananen-Müsli, ab dem 8.Monat HiPP",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473734/assets/pas/images/b31fe4f8-d195-491f-ab80-d13b44b02d31/hipp-frucht-und-getreide-apfel-bananen-muesli-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (7,13 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (7,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 77,
+        "ratingValue": 4.8442
+      },
+      "self": "/p/d/1011113/hipp-frucht-und-getreide-apfel-bananen-muesli-ab-dem-8-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Frucht & Getreide Apfel-Bananen-Müsli, ab dem..., 190 g",
+        "tileHeadlineLong": "Frucht & Getreide Apfel-Bananen-Müsli, ab dem..., 190 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8442,
+        "ratingCount": 77
+      }
+    }
+  },
+  {
+    "gtin": 4015537003284,
+    "dan": 3094895,
+    "brandName": "Hammermühle",
+    "title": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g; Preis: 2,75 €; Grundpreis: 0,1 kg (27,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 3094895,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4015537003284,
+      "images": [
+        {
+          "alt": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei Hammermühle",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756163569/assets/pas/images/369408bc-40dd-4b4a-bb61-4b3ca5387c23/hammermuehle-simply-seeds-cracker-kaese-zwiebel-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (25,70 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (27,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 3.875
+      },
+      "self": "/p/d/3094895/hammermuehle-simply-seeds-cracker-kaese-zwiebel-glutenfrei",
+      "title": {
+        "tileHeadline": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g",
+        "tileHeadlineLong": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.875,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 4067796172423,
+    "dan": 1647368,
+    "brandName": "babylove",
+    "title": "Frucht-Getreide-Riegel Apfel-Banane ab 1 Jahr (4x25 g), 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: babylove; Produktname: Frucht-Getreide-Riegel Apfel-Banane ab 1 Jahr (4x25 g), 100 g; Preis: 1,75 €; Grundpreis: 0,1 kg (17,50 € je 1 kg); Nur Online Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "babylove"
+      },
+      "dan": 1647368,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796172423,
+      "images": [
+        {
+          "alt": "Frucht-Getreide-Riegel Apfel-Banane ab 1 Jahr (4x25 g) babylove",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748562340/assets/pas/images/9587f0dd-a8f4-48a9-8eee-6076e39ca79e/babylove-frucht-getreide-riegel-apfel-banane-ab-1-jahr-4x25-g"
+        },
+        {
+          "alt": "Frucht-Getreide-Riegel Apfel-Banane ab 1 Jahr (4x25 g) babylove",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748562325/assets/pas/images/e485ca01-95c1-403d-8fad-b34c9067fe9e/babylove-frucht-getreide-riegel-apfel-banane-ab-1-jahr-4x25-g"
+        },
+        {
+          "alt": "Frucht-Getreide-Riegel Apfel-Banane ab 1 Jahr (4x25 g) babylove",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748562334/assets/pas/images/5a3f7250-40e4-4ea5-baf4-78019668f14f/babylove-frucht-getreide-riegel-apfel-banane-ab-1-jahr-4x25-g"
+        },
+        {
+          "alt": "Frucht-Getreide-Riegel Apfel-Banane ab 1 Jahr (4x25 g) babylove",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748562329/assets/pas/images/3c9f6d6f-e25e-47ff-b7fe-316f934fb69b/babylove-frucht-getreide-riegel-apfel-banane-ab-1-jahr-4x25-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (16,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (17,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.8621
+      },
+      "self": "/p/d/1647368/babylove-frucht-getreide-riegel-apfel-banane-ab-1-jahr-4x25-g",
+      "title": {
+        "tileHeadline": "Frucht-Getreide-Riegel Apfel-Banane ab 1 Jahr..., 100 g",
+        "tileHeadlineLong": "Frucht-Getreide-Riegel Apfel-Banane ab 1 Jahr..., 100 g"
+      },
+      "trackingData": {
+        "brand": "babylove",
+        "categories": [
+          "Riegel für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8621,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4067796194685,
+    "dan": 1494147,
+    "brandName": "dmBio",
+    "title": "Knuspermüsli, Kerne & Saaten Granola, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Knuspermüsli, Kerne & Saaten Granola, 500 g; Preis: 3,45 €; Grundpreis: 0,5 kg (6,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1494147,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796194685,
+      "images": [
+        {
+          "alt": "Knuspermüsli, Kerne & Saaten Granola dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169279/assets/pas/images/03d0f4e5-574b-40a9-9ab3-8753f42b5df8/dmbio-knuspermuesli-kerne-und-saaten-granola"
+        },
+        {
+          "alt": "Knuspermüsli, Kerne & Saaten Granola dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169265/assets/pas/images/ab9ce2ce-71ac-4cee-bae1-8b476f82c39c/dmbio-knuspermuesli-kerne-und-saaten-granola"
+        },
+        {
+          "alt": "Knuspermüsli, Kerne & Saaten Granola dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169271/assets/pas/images/87d24a27-4f72-4538-a74d-a247c5b19329/dmbio-knuspermuesli-kerne-und-saaten-granola"
+        },
+        {
+          "alt": "Knuspermüsli, Kerne & Saaten Granola dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169275/assets/pas/images/d2c3c2ba-4ba7-4a00-bd50-6b7fc2ec97c0/dmbio-knuspermuesli-kerne-und-saaten-granola"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 685,
+        "ratingValue": 4.6803
+      },
+      "self": "/p/d/1494147/dmbio-knuspermuesli-kerne-und-saaten-granola",
+      "title": {
+        "tileHeadline": "Knuspermüsli, Kerne & Saaten Granola, 500 g",
+        "tileHeadlineLong": "Knuspermüsli, Kerne & Saaten Granola, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6803,
+        "ratingCount": 685
+      }
+    }
+  },
+  {
+    "gtin": 4067796000306,
+    "dan": 1588699,
+    "brandName": "dmBio",
+    "title": "Müsli Crunchy, Schoko, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Müsli Crunchy, Schoko, 500 g; Preis: 2,35 €; Grundpreis: 0,5 kg (4,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1588699,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796000306,
+      "images": [
+        {
+          "alt": "Müsli Crunchy, Schoko dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486714/assets/pas/images/9300195c-5292-4874-a283-ac60718c05e8/dmbio-muesli-crunchy-schoko"
+        },
+        {
+          "alt": "Müsli Crunchy, Schoko dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774589552/assets/pas/images/9805b091-9bb5-42f6-a266-4ef0a7cb8b4e/dmbio-muesli-crunchy-schoko"
+        },
+        {
+          "alt": "Müsli Crunchy, Schoko dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486886/assets/pas/images/c058413a-320c-45c2-ad34-e2ea7f336301/dmbio-muesli-crunchy-schoko"
+        },
+        {
+          "alt": "Müsli Crunchy, Schoko dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486715/assets/pas/images/318a8d05-5b10-4701-8a4e-0b94b3cdb8e0/dmbio-muesli-crunchy-schoko"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,39 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 229,
+        "ratingValue": 4.5764
+      },
+      "self": "/p/d/1588699/dmbio-muesli-crunchy-schoko",
+      "title": {
+        "tileHeadline": "Müsli Crunchy, Schoko, 500 g",
+        "tileHeadlineLong": "Müsli Crunchy, Schoko, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5764,
+        "ratingCount": 229
+      }
+    }
+  },
+  {
+    "gtin": 4070765029222,
+    "dan": 1493761,
+    "brandName": "dmBio",
+    "title": "Porridge Basen in Balance, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Porridge Basen in Balance, 500 g; Preis: 3,75 €; Grundpreis: 0,5 kg (7,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1493761,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765029222,
+      "images": [
+        {
+          "alt": "Porridge Basen in Balance dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773188712/assets/pas/images/32f1d23a-7a5e-4ef8-b239-d5a87b8f06ce/dmbio-porridge-basen-in-balance"
+        },
+        {
+          "alt": "Porridge Basen in Balance dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773188723/assets/pas/images/fa295915-de88-471c-8c0d-9c5835e0a779/dmbio-porridge-basen-in-balance"
+        },
+        {
+          "alt": "Porridge Basen in Balance dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773188720/assets/pas/images/5da07710-4a6e-4a59-acc3-d82ec5aab9e7/dmbio-porridge-basen-in-balance"
+        },
+        {
+          "alt": "Porridge Basen in Balance dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773188707/assets/pas/images/d95b6841-6e03-4c8c-aa0a-0e50bc92daa8/dmbio-porridge-basen-in-balance"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,01 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 297,
+        "ratingValue": 4.1616
+      },
+      "self": "/p/d/1493761/dmbio-porridge-basen-in-balance",
+      "title": {
+        "tileHeadline": "Porridge Basen in Balance, 500 g",
+        "tileHeadlineLong": "Porridge Basen in Balance, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Porridge & Frühstücksbrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1616,
+        "ratingCount": 297
+      }
+    }
+  },
+  {
+    "gtin": 4066447422825,
+    "dan": 1691724,
+    "brandName": "dmBio",
+    "title": "Müsli Crunchy, Hafer Beeren, glutenfrei, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Müsli Crunchy, Hafer Beeren, glutenfrei, 350 g; Preis: 3,25 €; Grundpreis: 0,35 kg (9,29 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1691724,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447422825,
+      "images": [
+        {
+          "alt": "Müsli Crunchy, Hafer Beeren, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481696/assets/pas/images/d42cbabd-5bb0-440d-989b-830d94bf8b27/dmbio-muesli-crunchy-hafer-beeren-glutenfrei"
+        },
+        {
+          "alt": "Müsli Crunchy, Hafer Beeren, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481581/assets/pas/images/224a0db2-665c-495b-a31a-89be0acefdae/dmbio-muesli-crunchy-hafer-beeren-glutenfrei"
+        },
+        {
+          "alt": "Müsli Crunchy, Hafer Beeren, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481582/assets/pas/images/2e185480-b3a0-4441-9090-1f8e0a275602/dmbio-muesli-crunchy-hafer-beeren-glutenfrei"
+        },
+        {
+          "alt": "Müsli Crunchy, Hafer Beeren, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481834/assets/pas/images/f9858368-8666-483f-a22d-ca1ab509e991/dmbio-muesli-crunchy-hafer-beeren-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (8,68 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (9,29 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 93,
+        "ratingValue": 4.7097
+      },
+      "self": "/p/d/1691724/dmbio-muesli-crunchy-hafer-beeren-glutenfrei",
+      "title": {
+        "tileHeadline": "Müsli Crunchy, Hafer Beeren, glutenfrei, 350 g",
+        "tileHeadlineLong": "Müsli Crunchy, Hafer Beeren, glutenfrei, 350 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7097,
+        "ratingCount": 93
+      }
+    }
+  },
+  {
+    "gtin": 4067796193893,
+    "dan": 3081974,
+    "brandName": "dmBio",
+    "title": "Leinsamen Mix, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Leinsamen Mix, 200 g; Preis: 1,95 €; Grundpreis: 0,2 kg (9,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3081974,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796193893,
+      "images": [
+        {
+          "alt": "Leinsamen Mix dmBio",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751763728/assets/pas/images/3ca6a4af-ec39-4e45-815e-412768fe50bd/dmbio-leinsamen-mix"
+        },
+        {
+          "alt": "Leinsamen Mix dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751763717/assets/pas/images/72a16bdc-2982-43e1-aefa-51b17606b56e/dmbio-leinsamen-mix"
+        },
+        {
+          "alt": "Leinsamen Mix dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751763714/assets/pas/images/8505e097-6e1e-4c41-b27f-c10e6ab8d2be/dmbio-leinsamen-mix"
+        },
+        {
+          "alt": "Leinsamen Mix dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751763723/assets/pas/images/394fbca8-50c2-44ed-b938-7074b1452fed/dmbio-leinsamen-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (9,11 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (9,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 62,
+        "ratingValue": 4.2258
+      },
+      "self": "/p/d/3081974/dmbio-leinsamen-mix",
+      "title": {
+        "tileHeadline": "Leinsamen Mix, 200 g",
+        "tileHeadlineLong": "Leinsamen Mix, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Saaten & Körner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2258,
+        "ratingCount": 62
+      }
+    }
+  },
+  {
+    "gtin": 4015537002478,
+    "dan": 1713906,
+    "brandName": "Hammermühle",
+    "title": "Körnerstangen, glutenfrei (2 Stück), 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Körnerstangen, glutenfrei (2 Stück), 220 g; Preis: 3,45 €; Grundpreis: 0,22 kg (15,68 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1713906,
+      "gtin": 4015537002478,
+      "images": [
+        {
+          "alt": "Körnerstangen, glutenfrei (2 Stück) Hammermühle",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099293/assets/pas/images/e686b01b-9ba2-4484-aa38-a13d1328aefa/hammermuehle-koernerstangen-glutenfrei-2-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (14,65 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (15,68 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.7059
+      },
+      "self": "/p/d/1713906/hammermuehle-koernerstangen-glutenfrei-2-stueck",
+      "title": {
+        "tileHeadline": "Körnerstangen, glutenfrei (2 Stück), 220 g",
+        "tileHeadlineLong": "Körnerstangen, glutenfrei (2 Stück), 220 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7059,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 4015637826417,
+    "dan": 1618158,
+    "brandName": "Bauck Mühle",
+    "title": "Backmischung Wunderbrot, glutenfrei, 600 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bauck Mühle; Produktname: Backmischung Wunderbrot, glutenfrei, 600 g; Preis: 4,45 €; Grundpreis: 0,6 kg (7,42 € je 1 kg)",
+      "brand": {
+        "name": "Bauck Mühle"
+      },
+      "dan": 1618158,
+      "gtin": 4015637826417,
+      "images": [
+        {
+          "alt": "Backmischung Wunderbrot, glutenfrei Bauck Mühle",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904349/assets/pas/images/67926038-8655-4ea2-b066-1b1292208b02/bauck-muehle-backmischung-wunderbrot-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (6,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (7,42 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 189,
+        "ratingValue": 4.7989
+      },
+      "self": "/p/d/1618158/bauck-muehle-backmischung-wunderbrot-glutenfrei",
+      "title": {
+        "tileHeadline": "Backmischung Wunderbrot, glutenfrei, 600 g",
+        "tileHeadlineLong": "Backmischung Wunderbrot, glutenfrei, 600 g"
+      },
+      "trackingData": {
+        "brand": "Bauck Mühle",
+        "categories": [
+          "Backmischungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7989,
+        "ratingCount": 189
+      }
+    }
+  },
+  {
+    "gtin": 9120111881709,
+    "dan": 3068151,
+    "brandName": "PURE & FUN",
+    "title": "Frucht-Getreide-Riegel Hafer, Apfel, Banane & Aronia ab 3 Jahren, 25 g",
+    "tileData": {
+      "a11yLabel": "Marke: PURE & FUN; Produktname: Frucht-Getreide-Riegel Hafer, Apfel, Banane & Aronia ab 3 Jahren, 25 g; Preis: 0,85 €; Grundpreis: 0,025 kg (34,00 € je 1 kg)",
+      "brand": {
+        "name": "PURE & FUN"
+      },
+      "dan": 3068151,
+      "gtin": 9120111881709,
+      "images": [
+        {
+          "alt": "Frucht-Getreide-Riegel Hafer, Apfel, Banane & Aronia ab 3 Jahren PURE & FUN",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751525059/assets/pas/images/d7ffd49b-b52e-4872-9c25-f13bbbf6a19f/pure-und-fun-frucht-getreide-riegel-hafer-apfel-banane-und-aronia-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (31,78 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (34,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 41,
+        "ratingValue": 4.7561
+      },
+      "self": "/p/d/3068151/pure-und-fun-frucht-getreide-riegel-hafer-apfel-banane-und-aronia-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Frucht-Getreide-Riegel Hafer, Apfel, Banane &..., 25 g",
+        "tileHeadlineLong": "Frucht-Getreide-Riegel Hafer, Apfel, Banane &..., 25 g"
+      },
+      "trackingData": {
+        "brand": "PURE & FUN",
+        "categories": [
+          "Riegel für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7561,
+        "ratingCount": 41
+      }
+    }
+  },
+  {
+    "gtin": 609332574014,
+    "dan": 3119477,
+    "brandName": "e.l.f. Cosmetics",
+    "title": "Gesichtscreme Barrier Goals Holy Hydration!, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: e.l.f. Cosmetics; Produktname: Gesichtscreme Barrier Goals Holy Hydration!, 60 g; Preis: 7,45 €; Grundpreis: 0,06 kg (124,17 € je 1 kg); Ausverkauf Grafik",
+      "brand": {
+        "name": "e.l.f. Cosmetics"
+      },
+      "dan": 3119477,
+      "eyecatchers": [
+        {
+          "alt": "Ausverkauf Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815050/assets/mp/highlight-graphics/media_highlight_graphic_sale_de_de/media_highlight_graphic_sale_de_de"
+        }
+      ],
+      "gtin": 609332574014,
+      "images": [
+        {
+          "alt": "Gesichtscreme Barrier Goals Holy Hydration!  e.l.f. Cosmetics",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770942165/assets/pas/images/b3e1f00b-c80c-4ce9-97ac-96b96b4bff1a/e-l-f-cosmetics-gesichtscreme-barrier-goals-holy-hydration"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "a11yLabel": "Aktueller Preis:",
+            "value": "6,26 €"
+          },
+          "previous": {
+            "a11yLabel": "Vorheriger Preis:",
+            "value": "12,56 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (104,34 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "a11yLabel": "Aktueller Preis:",
+            "value": "7,45 €"
+          },
+          "previous": {
+            "a11yLabel": "Vorheriger Preis:",
+            "value": "14,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (124,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 4.375
+      },
+      "self": "/p/d/3119477/e-l-f-cosmetics-gesichtscreme-barrier-goals-holy-hydration",
+      "title": {
+        "tileHeadline": "Gesichtscreme Barrier Goals Holy Hydration!, 60 g",
+        "tileHeadlineLong": "Gesichtscreme Barrier Goals Holy Hydration!, 60 g"
+      },
+      "trackingData": {
+        "brand": "e.l.f. Cosmetics",
+        "categories": [
+          "Tagescreme"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.375,
+        "ratingCount": 8
+      }
+    }
+  }
+]

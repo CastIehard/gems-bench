@@ -1,0 +1,3042 @@
+[
+  {
+    "gtin": 4260248060044,
+    "dan": 1620450,
+    "brandName": "Xucker",
+    "title": "Kakaopulver, Heiße Schokolade mit Xylit, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: Xucker; Produktname: Kakaopulver, Heiße Schokolade mit Xylit, 200 g; Preis: 4,75 €; Grundpreis: 0,2 kg (23,75 € je 1 kg)",
+      "brand": {
+        "name": "Xucker"
+      },
+      "dan": 1620450,
+      "gtin": 4260248060044,
+      "images": [
+        {
+          "alt": "Kakaopulver, Heiße Schokolade mit Xylit Xucker",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491947/assets/pas/images/f221f6fc-cdd3-4207-853f-28723a541346/xucker-kakaopulver-heisse-schokolade-mit-xylit"
+        },
+        {
+          "alt": "Kakaopulver, Heiße Schokolade mit Xylit Xucker",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491960/assets/pas/images/85ad2e2c-f0d0-4786-99ab-4a39448be8c0/xucker-kakaopulver-heisse-schokolade-mit-xylit"
+        },
+        {
+          "alt": "Kakaopulver, Heiße Schokolade mit Xylit Xucker",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782255463/assets/pas/images/d47bc361-198e-4690-a89a-19e3a1c9f9f4/xucker-kakaopulver-heisse-schokolade-mit-xylit"
+        },
+        {
+          "alt": "Kakaopulver, Heiße Schokolade mit Xylit Xucker",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491549/assets/pas/images/09bc7b10-d1a2-4830-bdbf-7d8ea28b2bbf/xucker-kakaopulver-heisse-schokolade-mit-xylit"
+        },
+        {
+          "alt": "Kakaopulver, Heiße Schokolade mit Xylit Xucker",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491961/assets/pas/images/2abdecb8-c0a0-4bc2-82e8-b9fcdb47a8c4/xucker-kakaopulver-heisse-schokolade-mit-xylit"
+        },
+        {
+          "alt": "Kakaopulver, Heiße Schokolade mit Xylit Xucker",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491552/assets/pas/images/eb6fcd53-d0af-43d3-ba35-9ff91567cac7/xucker-kakaopulver-heisse-schokolade-mit-xylit"
+        },
+        {
+          "alt": "Kakaopulver, Heiße Schokolade mit Xylit Xucker",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491960/assets/pas/images/958a2b38-9a24-48e0-bd54-7c880350a0b5/xucker-kakaopulver-heisse-schokolade-mit-xylit"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,44 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (22,20 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (23,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 209,
+        "ratingValue": 4.5646
+      },
+      "self": "/p/d/1620450/xucker-kakaopulver-heisse-schokolade-mit-xylit",
+      "title": {
+        "tileHeadline": "Kakaopulver, Heiße Schokolade mit Xylit, 200 g",
+        "tileHeadlineLong": "Kakaopulver, Heiße Schokolade mit Xylit, 200 g"
+      },
+      "trackingData": {
+        "brand": "Xucker",
+        "categories": [
+          "Trinkschokolade"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5646,
+        "ratingCount": 209
+      }
+    }
+  },
+  {
+    "gtin": 4260407950926,
+    "dan": 1529074,
+    "brandName": "koawach",
+    "title": "Getränkepulver, pur mit Kakao & Guarana, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: koawach; Produktname: Getränkepulver, pur mit Kakao & Guarana, 100 g; Preis: 4,45 €; Grundpreis: 0,1 kg (44,50 € je 1 kg)",
+      "brand": {
+        "name": "koawach"
+      },
+      "dan": 1529074,
+      "gtin": 4260407950926,
+      "images": [
+        {
+          "alt": "Getränkepulver, pur mit Kakao & Guarana koawach",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336192/assets/pas/images/1b2bbeee-f631-48a8-a1ea-dbbcb0f0d6f1/koawach-getraenkepulver-pur-mit-kakao-und-guarana"
+        },
+        {
+          "alt": "Getränkepulver, pur mit Kakao & Guarana koawach",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336184/assets/pas/images/0ab0eae7-dff6-40ac-8fb7-e8b94a12e57a/koawach-getraenkepulver-pur-mit-kakao-und-guarana"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (41,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (44,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 103,
+        "ratingValue": 4.5631
+      },
+      "self": "/p/d/1529074/koawach-getraenkepulver-pur-mit-kakao-und-guarana",
+      "title": {
+        "tileHeadline": "Getränkepulver, pur mit Kakao & Guarana, 100 g",
+        "tileHeadlineLong": "Getränkepulver, pur mit Kakao & Guarana, 100 g"
+      },
+      "trackingData": {
+        "brand": "koawach",
+        "categories": [
+          "Trinkschokolade"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5631,
+        "ratingCount": 103
+      }
+    }
+  },
+  {
+    "gtin": 4260407953798,
+    "dan": 1711830,
+    "brandName": "koawach",
+    "title": "Getränkepulver, Cinnamon Roll mit Kakao & Guarana, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: koawach; Produktname: Getränkepulver, Cinnamon Roll mit Kakao & Guarana, 100 g; Preis: 4,25 €; Grundpreis: 0,1 kg (42,50 € je 1 kg)",
+      "brand": {
+        "name": "koawach"
+      },
+      "dan": 1711830,
+      "gtin": 4260407953798,
+      "images": [
+        {
+          "alt": "Getränkepulver, Cinnamon Roll mit Kakao & Guarana koawach",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295204/assets/pas/images/a965300d-af79-47cf-9eef-d15a4f5db158/koawach-getraenkepulver-cinnamon-roll-mit-kakao-und-guarana"
+        },
+        {
+          "alt": "Getränkepulver, Cinnamon Roll mit Kakao & Guarana koawach",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295196/assets/pas/images/e0272ea6-0fbd-49d5-a1f9-c0b41610ae8b/koawach-getraenkepulver-cinnamon-roll-mit-kakao-und-guarana"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (39,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (42,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.2632
+      },
+      "self": "/p/d/1711830/koawach-getraenkepulver-cinnamon-roll-mit-kakao-und-guarana",
+      "title": {
+        "tileHeadline": "Getränkepulver, Cinnamon Roll mit Kakao & Guarana, 100 g",
+        "tileHeadlineLong": "Getränkepulver, Cinnamon Roll mit Kakao & Guarana, 100 g"
+      },
+      "trackingData": {
+        "brand": "koawach",
+        "categories": [
+          "Trinkschokolade"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2632,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4260407955129,
+    "dan": 3122094,
+    "brandName": "koawach",
+    "title": "Getränkepulver, Milchshake Typ Blaubeer, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: koawach; Produktname: Getränkepulver, Milchshake Typ Blaubeer, 75 g; Preis: 2,95 €; Grundpreis: 0,075 kg (39,33 € je 1 kg)",
+      "brand": {
+        "name": "koawach"
+      },
+      "dan": 3122094,
+      "gtin": 4260407955129,
+      "images": [
+        {
+          "alt": "Getränkepulver, Milchshake Typ Blaubeer  koawach",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774049589/assets/pas/images/fe11c8ca-5353-4117-a9cb-08817ce55bf4/koawach-getraenkepulver-milchshake-typ-blaubeer"
+        },
+        {
+          "alt": "Getränkepulver, Milchshake Typ Blaubeer  koawach",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772491205/assets/pas/images/d9d58963-be6c-46d2-a79b-83da394ee38c/koawach-getraenkepulver-milchshake-typ-blaubeer"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (36,76 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (39,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 3.9412
+      },
+      "self": "/p/d/3122094/koawach-getraenkepulver-milchshake-typ-blaubeer",
+      "title": {
+        "tileHeadline": "Getränkepulver, Milchshake Typ Blaubeer, 75 g",
+        "tileHeadlineLong": "Getränkepulver, Milchshake Typ Blaubeer, 75 g"
+      },
+      "trackingData": {
+        "brand": "koawach",
+        "categories": [
+          "Smoothies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9412,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4260686520919,
+    "dan": 1631788,
+    "brandName": "oatsome",
+    "title": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: oatsome; Produktname: Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao, 200 g; Preis: 6,95 €; Grundpreis: 0,2 kg (34,75 € je 1 kg)",
+      "brand": {
+        "name": "oatsome"
+      },
+      "dan": 1631788,
+      "gtin": 4260686520919,
+      "images": [
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494547/assets/pas/images/26872045-5632-416f-8624-26b09d42812b/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494553/assets/pas/images/8ebae798-b8c3-4a01-af77-da9cd420e1c2/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494867/assets/pas/images/bdf7036d-309b-440d-9ecc-8c5b0cac6ab9/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494837/assets/pas/images/86c603cc-aec8-4950-ae73-521e4325e636/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494551/assets/pas/images/15e932c0-d97a-4c60-8d14-22f166933ed5/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747617351/assets/pas/images/a8b27428-9a35-4906-b8a3-2a7b943c708c/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747617357/assets/pas/images/b6a474f2-eefe-47cf-bdae-ac0db85c06ec/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494932/assets/pas/images/d723de15-4899-47f6-8560-e8dccdb3317e/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494836/assets/pas/images/5573696b-008d-4218-835f-b6c80b983e02/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494547/assets/pas/images/d6fda2c0-4bb4-47a6-b4e9-677113958e1d/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494547/assets/pas/images/56d30ad9-a693-482f-b675-cbc5108aace8/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494867/assets/pas/images/2e8c4045-9c55-45d2-9b62-ac42811a793a/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494938/assets/pas/images/7ca7c393-4376-4f9c-9f48-8a50af325a4a/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        },
+        {
+          "alt": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads, Haselnuss Kakao oatsome",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494546/assets/pas/images/4688de5c-efb3-4889-978e-2cb94ba63393/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (32,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (34,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 409,
+        "ratingValue": 4.6895
+      },
+      "self": "/p/d/1631788/oatsome-haselnussmus-happy-hazel-feelgood-spreads-haselnuss-kakao",
+      "title": {
+        "tileHeadline": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads,..., 200 g",
+        "tileHeadlineLong": "Haselnussmus, \"Happy Hazel\" Feelgood Spreads,..., 200 g"
+      },
+      "trackingData": {
+        "brand": "oatsome",
+        "categories": [
+          "Nuss- & Schokocreme"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6895,
+        "ratingCount": 409
+      }
+    }
+  },
+  {
+    "gtin": 4067796081626,
+    "dan": 1457774,
+    "brandName": "dmBio",
+    "title": "Porridge, Kakao Dinkel mit Haselnüssen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Porridge, Kakao Dinkel mit Haselnüssen, 500 g; Preis: 3,55 €; Grundpreis: 0,5 kg (7,10 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1457774,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796081626,
+      "images": [
+        {
+          "alt": "Porridge, Kakao Dinkel mit Haselnüssen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487469/assets/pas/images/d8923e29-de13-4810-a5d2-f5a9f6b0e430/dmbio-porridge-kakao-dinkel-mit-haselnuessen"
+        },
+        {
+          "alt": "Porridge, Kakao Dinkel mit Haselnüssen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487714/assets/pas/images/a7a68961-07f6-4d0a-b10c-989d8c4383ee/dmbio-porridge-kakao-dinkel-mit-haselnuessen"
+        },
+        {
+          "alt": "Porridge, Kakao Dinkel mit Haselnüssen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487713/assets/pas/images/f1824525-a5a2-4be1-888c-a2a38f004ed5/dmbio-porridge-kakao-dinkel-mit-haselnuessen"
+        },
+        {
+          "alt": "Porridge, Kakao Dinkel mit Haselnüssen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487469/assets/pas/images/74af889d-d8f5-4f0b-9279-0d935330f17f/dmbio-porridge-kakao-dinkel-mit-haselnuessen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,10 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 354,
+        "ratingValue": 4.4379
+      },
+      "self": "/p/d/1457774/dmbio-porridge-kakao-dinkel-mit-haselnuessen",
+      "title": {
+        "tileHeadline": "Porridge, Kakao Dinkel mit Haselnüssen, 500 g",
+        "tileHeadlineLong": "Porridge, Kakao Dinkel mit Haselnüssen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Porridge & Frühstücksbrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4379,
+        "ratingCount": 354
+      }
+    }
+  },
+  {
+    "gtin": 4260311986110,
+    "dan": 3105496,
+    "brandName": "MOGLi",
+    "title": "Kindersnack Mini Kakao Waffeln mit Haselnüssen, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: MOGLi; Produktname: Kindersnack Mini Kakao Waffeln mit Haselnüssen, 75 g; Preis: 2,45 €; Grundpreis: 0,075 kg (32,67 € je 1 kg)",
+      "brand": {
+        "name": "MOGLi"
+      },
+      "dan": 3105496,
+      "gtin": 4260311986110,
+      "images": [
+        {
+          "alt": "Kindersnack Mini Kakao Waffeln mit Haselnüssen MOGLi",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762210653/assets/pas/images/ad01d7c6-0a70-420d-84f1-058a94cb5ecd/mogli-kindersnack-mini-kakao-waffeln-mit-haselnuessen"
+        },
+        {
+          "alt": "Kindersnack Mini Kakao Waffeln mit Haselnüssen MOGLi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762210680/assets/pas/images/d3e5ee97-17c1-4363-b029-f329984c8415/mogli-kindersnack-mini-kakao-waffeln-mit-haselnuessen"
+        },
+        {
+          "alt": "Kindersnack Mini Kakao Waffeln mit Haselnüssen MOGLi",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765581059/assets/pas/images/f09bb666-30ab-47fa-98d8-c8c255ef0822/mogli-kindersnack-mini-kakao-waffeln-mit-haselnuessen"
+        },
+        {
+          "alt": "Kindersnack Mini Kakao Waffeln mit Haselnüssen MOGLi",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765581098/assets/pas/images/b82ca3f3-8df0-4a1c-abea-a5f733978cbb/mogli-kindersnack-mini-kakao-waffeln-mit-haselnuessen"
+        },
+        {
+          "alt": "Kindersnack Mini Kakao Waffeln mit Haselnüssen MOGLi",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768607003/assets/pas/images/a3067295-0ce8-4aa6-8312-9e01153f4562/mogli-kindersnack-mini-kakao-waffeln-mit-haselnuessen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (30,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (32,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.6964
+      },
+      "self": "/p/d/3105496/mogli-kindersnack-mini-kakao-waffeln-mit-haselnuessen",
+      "title": {
+        "tileHeadline": "Kindersnack Mini Kakao Waffeln mit Haselnüssen, 75 g",
+        "tileHeadlineLong": "Kindersnack Mini Kakao Waffeln mit Haselnüssen, 75 g"
+      },
+      "trackingData": {
+        "brand": "MOGLi",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6964,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 4066447731538,
+    "dan": 1713565,
+    "brandName": "Sportness",
+    "title": "Protein Wafer Bites, Haselnuss-Kakao Geschmack, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Wafer Bites, Haselnuss-Kakao Geschmack, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1713565,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447731538,
+      "images": [
+        {
+          "alt": "Protein Wafer Bites, Haselnuss-Kakao Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763642043/assets/pas/images/b78a5faa-878a-449e-8448-7f731c3ba959/sportness-protein-wafer-bites-haselnuss-kakao-geschmack"
+        },
+        {
+          "alt": "Protein Wafer Bites, Haselnuss-Kakao Geschmack Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763642051/assets/pas/images/114b1819-fc56-45cd-bf7f-ce0fe8ba094a/sportness-protein-wafer-bites-haselnuss-kakao-geschmack"
+        },
+        {
+          "alt": "Protein Wafer Bites, Haselnuss-Kakao Geschmack Sportness",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485476/assets/pas/images/55f0df3d-db66-40a6-adfb-b7d9a535ccc9/sportness-protein-wafer-bites-haselnuss-kakao-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 116,
+        "ratingValue": 4.3103
+      },
+      "self": "/p/d/1713565/sportness-protein-wafer-bites-haselnuss-kakao-geschmack",
+      "title": {
+        "tileHeadline": "Protein Wafer Bites, Haselnuss-Kakao Geschmack, 30 g",
+        "tileHeadlineLong": "Protein Wafer Bites, Haselnuss-Kakao Geschmack, 30 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Gesundheit",
+          "Snacks & Süßigkeiten",
+          "Sport Zubehör & Spezialprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3103,
+        "ratingCount": 116
+      }
+    }
+  },
+  {
+    "gtin": 4067796068597,
+    "dan": 1608368,
+    "brandName": "babylove Mama",
+    "title": "Dattelriegel Kakao & Himbeere, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: babylove Mama; Produktname: Dattelriegel Kakao & Himbeere, 40 g; Preis: 0,85 €; Grundpreis: 0,04 kg (21,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "babylove Mama"
+      },
+      "dan": 1608368,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796068597,
+      "images": [
+        {
+          "alt": "Dattelriegel Kakao & Himbeere babylove Mama",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782081720/assets/pas/images/a04276e9-c29d-4175-83ac-22a8b7ee52c4/babylove-mama-dattelriegel-kakao-und-himbeere"
+        },
+        {
+          "alt": "Dattelriegel Kakao & Himbeere babylove Mama",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782081728/assets/pas/images/6fb9c65f-edd5-4182-b0b0-224b379cc9fe/babylove-mama-dattelriegel-kakao-und-himbeere"
+        },
+        {
+          "alt": "Dattelriegel Kakao & Himbeere babylove Mama",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782081731/assets/pas/images/443bb7eb-a704-4086-9e17-b19fc09b127d/babylove-mama-dattelriegel-kakao-und-himbeere"
+        },
+        {
+          "alt": "Dattelriegel Kakao & Himbeere babylove Mama",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782081723/assets/pas/images/2dc295bb-ecb6-41e2-9b24-82cca10f2b98/babylove-mama-dattelriegel-kakao-und-himbeere"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (19,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (21,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 329,
+        "ratingValue": 4.3343
+      },
+      "self": "/p/d/1608368/babylove-mama-dattelriegel-kakao-und-himbeere",
+      "title": {
+        "tileHeadline": "Dattelriegel Kakao & Himbeere, 40 g",
+        "tileHeadlineLong": "Dattelriegel Kakao & Himbeere, 40 g"
+      },
+      "trackingData": {
+        "brand": "babylove Mama",
+        "categories": [
+          "Ernährung für Schwangerschaft & Stillzeit"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3343,
+        "ratingCount": 329
+      }
+    }
+  },
+  {
+    "gtin": 4260133235632,
+    "dan": 2486861,
+    "brandName": "FRUCHTBAR Pausenfreund",
+    "title": "Kindersnack Frühstückskissen Kakao ab 3 Jahren, 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: FRUCHTBAR Pausenfreund; Produktname: Kindersnack Frühstückskissen Kakao ab 3 Jahren, 180 g; Preis: 2,95 €; Grundpreis: 0,18 kg (16,39 € je 1 kg)",
+      "brand": {
+        "name": "FRUCHTBAR Pausenfreund"
+      },
+      "dan": 2486861,
+      "gtin": 4260133235632,
+      "images": [
+        {
+          "alt": "Kindersnack Frühstückskissen Kakao ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778365209/assets/pas/images/43202c67-397f-4c9d-9528-13861cba8604/fruchtbar-pausenfreund-kindersnack-fruehstueckskissen-kakao-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Frühstückskissen Kakao ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777599152/assets/pas/images/097ab058-9073-4046-93a4-7ddb803e2a2f/fruchtbar-pausenfreund-kindersnack-fruehstueckskissen-kakao-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (15,32 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (16,39 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 127,
+        "ratingValue": 4.4961
+      },
+      "self": "/p/d/2486861/fruchtbar-pausenfreund-kindersnack-fruehstueckskissen-kakao-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Frühstückskissen Kakao ab 3 Jahren, 180 g",
+        "tileHeadlineLong": "Kindersnack Frühstückskissen Kakao ab 3 Jahren, 180 g"
+      },
+      "trackingData": {
+        "brand": "FRUCHTBAR Pausenfreund",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4961,
+        "ratingCount": 127
+      }
+    }
+  },
+  {
+    "gtin": 4260133234802,
+    "dan": 1710291,
+    "brandName": "FRUCHTBAR Pausenfreund",
+    "title": "Brotaufstrich Kakao-Creme Cashew & Dattel , ab 3 Jahren, 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: FRUCHTBAR Pausenfreund; Produktname: Brotaufstrich Kakao-Creme Cashew & Dattel , ab 3 Jahren, 180 g; Preis: 4,95 €; Grundpreis: 0,18 kg (27,50 € je 1 kg)",
+      "brand": {
+        "name": "FRUCHTBAR Pausenfreund"
+      },
+      "dan": 1710291,
+      "gtin": 4260133234802,
+      "images": [
+        {
+          "alt": "Brotaufstrich Kakao-Creme Cashew & Dattel , ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773276808/assets/pas/images/adc9bb4b-d9ae-4bed-9993-8a05bbc7923e/fruchtbar-pausenfreund-brotaufstrich-kakao-creme-cashew-und-dattel-ab-3-jahren"
+        },
+        {
+          "alt": "Brotaufstrich Kakao-Creme Cashew & Dattel , ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773276842/assets/pas/images/99242e1c-7502-4380-b9a0-7da223e387dd/fruchtbar-pausenfreund-brotaufstrich-kakao-creme-cashew-und-dattel-ab-3-jahren"
+        },
+        {
+          "alt": "Brotaufstrich Kakao-Creme Cashew & Dattel , ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773871523/assets/pas/images/1931b085-a517-4837-b5e4-1d15e069ad7b/fruchtbar-pausenfreund-brotaufstrich-kakao-creme-cashew-und-dattel-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (25,70 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (27,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 173,
+        "ratingValue": 4.578
+      },
+      "self": "/p/d/1710291/fruchtbar-pausenfreund-brotaufstrich-kakao-creme-cashew-und-dattel-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Brotaufstrich Kakao-Creme Cashew & Dattel , ab 3..., 180 g",
+        "tileHeadlineLong": "Brotaufstrich Kakao-Creme Cashew & Dattel , ab 3..., 180 g"
+      },
+      "trackingData": {
+        "brand": "FRUCHTBAR Pausenfreund",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.578,
+        "ratingCount": 173
+      }
+    }
+  },
+  {
+    "gtin": 4067796188271,
+    "dan": 3066017,
+    "brandName": "Sportness",
+    "title": "Protein Loops, Kakao-Crisp-Geschmack, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Loops, Kakao-Crisp-Geschmack, 250 g; Preis: 3,55 €; Grundpreis: 0,25 kg (14,20 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3066017,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796188271,
+      "images": [
+        {
+          "alt": "Protein Loops, Kakao-Crisp-Geschmack Sportness",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748559670/assets/pas/images/cfe4796f-2c8a-474e-a292-e0c3e6a69e7a/sportness-protein-loops-kakao-crisp-geschmack"
+        },
+        {
+          "alt": "Protein Loops, Kakao-Crisp-Geschmack Sportness",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748559655/assets/pas/images/51ef301b-a8de-46c1-ae1a-e44116127ebe/sportness-protein-loops-kakao-crisp-geschmack"
+        },
+        {
+          "alt": "Protein Loops, Kakao-Crisp-Geschmack Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488130/assets/pas/images/ef1728f9-a358-4be2-896d-293c47c9c1e7/sportness-protein-loops-kakao-crisp-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (13,27 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (14,20 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 238,
+        "ratingValue": 4.1597
+      },
+      "self": "/p/d/3066017/sportness-protein-loops-kakao-crisp-geschmack",
+      "title": {
+        "tileHeadline": "Protein Loops, Kakao-Crisp-Geschmack, 250 g",
+        "tileHeadlineLong": "Protein Loops, Kakao-Crisp-Geschmack, 250 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Müsli & Granola",
+          "Sport Zubehör & Spezialprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1597,
+        "ratingCount": 238
+      }
+    }
+  },
+  {
+    "gtin": 4260311980026,
+    "dan": 1548168,
+    "brandName": "MOGLi",
+    "title": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: MOGLi; Produktname: Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren, 125 g; Preis: 2,35 €; Grundpreis: 0,125 kg (18,80 € je 1 kg)",
+      "brand": {
+        "name": "MOGLi"
+      },
+      "dan": 1548168,
+      "gtin": 4260311980026,
+      "images": [
+        {
+          "alt": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491881/assets/pas/images/1b4369e0-17e9-4fb9-ae70-b422844c79cc/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491880/assets/pas/images/3217798a-1ff5-400f-be15-08699d77946f/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491882/assets/pas/images/f34b8cb4-243f-4799-aa2a-8bf9913cee27/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren MOGLi",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492143/assets/pas/images/f54ce1db-cd27-4c80-821b-462efd10c328/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492144/assets/pas/images/db54cf5b-8913-4fcd-935d-8c8e2665f06e/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492296/assets/pas/images/0a4a3f0f-3d8c-484e-b08b-68c73f719a10/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786361/assets/pas/images/7c290445-b755-49c7-9ada-2bec155dda82/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786404/assets/pas/images/9413d69b-4eed-4799-80eb-dc4f47cc6950/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492144/assets/pas/images/6b10b252-7b16-47fb-b77d-76ddb0c63561/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (17,57 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (18,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 136,
+        "ratingValue": 4.6176
+      },
+      "self": "/p/d/1548168/mogli-kinderkekse-kakao-mit-dinkel-und-butter-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren, 125 g",
+        "tileHeadlineLong": "Kinderkekse Kakao mit Dinkel & Butter ab 3 Jahren, 125 g"
+      },
+      "trackingData": {
+        "brand": "MOGLi",
+        "categories": [
+          "Kinderkekse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6176,
+        "ratingCount": 136
+      }
+    }
+  },
+  {
+    "gtin": 4260133231375,
+    "dan": 1640827,
+    "brandName": "FRUCHTBAR Pausenfreund",
+    "title": "Kindersnack Pausenfreund Knusper-Duo, Hafer, Kakao, Apfel, ab 3 Jahren (3x23 g), 69 g",
+    "tileData": {
+      "a11yLabel": "Marke: FRUCHTBAR Pausenfreund; Produktname: Kindersnack Pausenfreund Knusper-Duo, Hafer, Kakao, Apfel, ab 3 Jahren (3x23 g), 69 g; Preis: 1,95 €; Grundpreis: 0,069 kg (28,26 € je 1 kg)",
+      "brand": {
+        "name": "FRUCHTBAR Pausenfreund"
+      },
+      "dan": 1640827,
+      "gtin": 4260133231375,
+      "images": [
+        {
+          "alt": "Kindersnack Pausenfreund Knusper-Duo, Hafer, Kakao, Apfel, ab 3 Jahren (3x23 g)  FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754951472/assets/pas/images/530654ef-9789-4134-9f94-c9df7543cd93/fruchtbar-pausenfreund-kindersnack-pausenfreund-knusper-duo-hafer-kakao-apfel-ab-3-jahren-3x23-g"
+        },
+        {
+          "alt": "Kindersnack Pausenfreund Knusper-Duo, Hafer, Kakao, Apfel, ab 3 Jahren (3x23 g)  FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754951474/assets/pas/images/a88d27c4-3df1-4608-9117-0eca70e69186/fruchtbar-pausenfreund-kindersnack-pausenfreund-knusper-duo-hafer-kakao-apfel-ab-3-jahren-3x23-g"
+        },
+        {
+          "alt": "Kindersnack Pausenfreund Knusper-Duo, Hafer, Kakao, Apfel, ab 3 Jahren (3x23 g)  FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754951471/assets/pas/images/ddb68c05-3c39-41d8-86e8-77575920f24d/fruchtbar-pausenfreund-kindersnack-pausenfreund-knusper-duo-hafer-kakao-apfel-ab-3-jahren-3x23-g"
+        },
+        {
+          "alt": "Kindersnack Pausenfreund Knusper-Duo, Hafer, Kakao, Apfel, ab 3 Jahren (3x23 g)  FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491605/assets/pas/images/4d145d94-698e-4629-8f57-b759f299fe55/fruchtbar-pausenfreund-kindersnack-pausenfreund-knusper-duo-hafer-kakao-apfel-ab-3-jahren-3x23-g"
+        },
+        {
+          "alt": "Kindersnack Pausenfreund Knusper-Duo, Hafer, Kakao, Apfel, ab 3 Jahren (3x23 g)  FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491607/assets/pas/images/f36505ac-e355-4181-8953-028654013a5a/fruchtbar-pausenfreund-kindersnack-pausenfreund-knusper-duo-hafer-kakao-apfel-ab-3-jahren-3x23-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,069 kg (26,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,069 kg (28,26 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.7654
+      },
+      "self": "/p/d/1640827/fruchtbar-pausenfreund-kindersnack-pausenfreund-knusper-duo-hafer-kakao-apfel-ab-3-jahren-3x23-g",
+      "title": {
+        "tileHeadline": "Kindersnack Pausenfreund Knusper-Duo, Hafer,..., 69 g",
+        "tileHeadlineLong": "Kindersnack Pausenfreund Knusper-Duo, Hafer,..., 69 g"
+      },
+      "trackingData": {
+        "brand": "FRUCHTBAR Pausenfreund",
+        "categories": [
+          "Riegel für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7654,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 3600542518970,
+    "dan": 1703541,
+    "brandName": "GARNIER GOOD",
+    "title": "Haarfarbe 4.0 Kakao Braun, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: GARNIER GOOD; Produktname: Haarfarbe 4.0 Kakao Braun, 1 St; Preis: 8,95 €; Grundpreis: 1 St (8,95 € je 1 St)",
+      "brand": {
+        "name": "GARNIER GOOD"
+      },
+      "dan": 1703541,
+      "gtin": 3600542518970,
+      "images": [
+        {
+          "alt": "Haarfarbe 4.0 Kakao Braun GARNIER GOOD",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758153017/assets/pas/images/bb555633-11d5-4b4d-b173-d8087fbf56ef/garnier-good-haarfarbe-4-0-kakao-braun"
+        },
+        {
+          "alt": "Haarfarbe 4.0 Kakao Braun GARNIER GOOD",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420813/assets/pas/images/8f28525b-2f34-46b6-8bcd-d38de7a7de97/garnier-good-haarfarbe-4-0-kakao-braun"
+        },
+        {
+          "alt": "Haarfarbe 4.0 Kakao Braun GARNIER GOOD",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420666/assets/pas/images/75197755-c133-4b0e-8740-0c50cc426dce/garnier-good-haarfarbe-4-0-kakao-braun"
+        },
+        {
+          "alt": "Haarfarbe 4.0 Kakao Braun GARNIER GOOD",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420659/assets/pas/images/a5c4470a-bb14-4e4b-bb0f-102b6d08771e/garnier-good-haarfarbe-4-0-kakao-braun"
+        },
+        {
+          "alt": "Haarfarbe 4.0 Kakao Braun GARNIER GOOD",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420564/assets/pas/images/4290fb28-8a68-466d-bb28-7fb6d5cda84b/garnier-good-haarfarbe-4-0-kakao-braun"
+        },
+        {
+          "alt": "Haarfarbe 4.0 Kakao Braun GARNIER GOOD",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420565/assets/pas/images/9ed98091-d43b-480b-88b0-ba244a3b1264/garnier-good-haarfarbe-4-0-kakao-braun"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (7,52 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (8,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 532,
+        "ratingValue": 4.344
+      },
+      "self": "/p/d/1703541/garnier-good-haarfarbe-4-0-kakao-braun",
+      "title": {
+        "tileHeadline": "Haarfarbe 4.0 Kakao Braun, 1 St",
+        "tileHeadlineLong": "Haarfarbe 4.0 Kakao Braun, 1 St"
+      },
+      "trackingData": {
+        "brand": "GARNIER GOOD",
+        "categories": [
+          "Dauerhafte Haarfarben"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+6 weitere Varianten",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 1703541,
+            "gtin": 3600542518970,
+            "hex": "#302118",
+            "href": "/p/d/1703541/garnier-good-haarfarbe-4-0-kakao-braun",
+            "isSelected": true,
+            "tooltip": "Kakao Braun"
+          },
+          {
+            "dan": 2483373,
+            "gtin": 3600542574686,
+            "hex": "#0B0F14",
+            "href": "/p/d/2483373/garnier-good-haarfarbe-1-10-mitternachtsschwarz",
+            "isSelected": false,
+            "tooltip": "Haarfarbe 1.10 Mitternachtsschwarz"
+          },
+          {
+            "dan": 2483374,
+            "gtin": 3600542574709,
+            "hex": "#4F1018",
+            "href": "/p/d/2483374/garnier-good-haarfarbe-4-61-sonnenaufgangs-violett",
+            "isSelected": false,
+            "tooltip": "Haarfarbe 4.61 Sonnenaufgangs-Violett"
+          },
+          {
+            "dan": 1703540,
+            "gtin": 3600542519014,
+            "hex": "#43281B",
+            "href": "/p/d/1703540/garnier-good-haarfarbe-6-0-mocchaccino-braun",
+            "isSelected": false,
+            "tooltip": "Mochaccino Braun"
+          },
+          {
+            "dan": 1703560,
+            "gtin": 3600542524698,
+            "hex": "#855739",
+            "href": "/p/d/1703560/garnier-good-haarfarbe-7-12-latte-macchiato-braun",
+            "isSelected": false,
+            "tooltip": "Latte Macchiato Braun"
+          },
+          {
+            "dan": 1703547,
+            "gtin": 3600542519052,
+            "hex": "#BE6121",
+            "href": "/p/d/1703547/garnier-good-haarfarbe-7-43-kurkuma-kupfer",
+            "isSelected": false,
+            "tooltip": "Kurkuma Kupfer"
+          },
+          {
+            "dan": 1703544,
+            "gtin": 3600542519076,
+            "hex": "#CAAF8F",
+            "href": "/p/d/1703544/garnier-good-haarfarbe-9-1-vanilla-blond",
+            "isSelected": false,
+            "tooltip": "Vanilla Blond"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.344,
+        "ratingCount": 532
+      }
+    }
+  },
+  {
+    "gtin": 4260311985892,
+    "dan": 3108315,
+    "brandName": "MOGLi",
+    "title": "Kinderkekse Doppel Kekse mit Haselnuss Kakao Creme ab 3 Jahren, 95 g",
+    "tileData": {
+      "a11yLabel": "Marke: MOGLi; Produktname: Kinderkekse Doppel Kekse mit Haselnuss Kakao Creme ab 3 Jahren, 95 g; Preis: 2,45 €; Grundpreis: 0,095 kg (25,79 € je 1 kg)",
+      "brand": {
+        "name": "MOGLi"
+      },
+      "dan": 3108315,
+      "gtin": 4260311985892,
+      "images": [
+        {
+          "alt": "Kinderkekse Doppel Kekse mit Haselnuss Kakao Creme ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762385368/assets/pas/images/6b13d336-4912-4db7-ad2b-8b269e3d6267/mogli-kinderkekse-doppel-kekse-mit-haselnuss-kakao-creme-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Doppel Kekse mit Haselnuss Kakao Creme ab 3 Jahren MOGLi",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762385394/assets/pas/images/ef04706a-c1ed-4cf6-bd48-2560e14f642f/mogli-kinderkekse-doppel-kekse-mit-haselnuss-kakao-creme-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Doppel Kekse mit Haselnuss Kakao Creme ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769820427/assets/pas/images/c07da1e0-61b4-4e31-bcab-0c5c58e3f5f0/mogli-kinderkekse-doppel-kekse-mit-haselnuss-kakao-creme-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Doppel Kekse mit Haselnuss Kakao Creme ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769820460/assets/pas/images/d2284b89-f71b-4351-a666-b548a200587a/mogli-kinderkekse-doppel-kekse-mit-haselnuss-kakao-creme-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Doppel Kekse mit Haselnuss Kakao Creme ab 3 Jahren MOGLi",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769820494/assets/pas/images/280fe3f6-a5cb-4e92-a4e9-6442ae240d39/mogli-kinderkekse-doppel-kekse-mit-haselnuss-kakao-creme-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,095 kg (24,10 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,095 kg (25,79 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 29,
+        "ratingValue": 4.5517
+      },
+      "self": "/p/d/3108315/mogli-kinderkekse-doppel-kekse-mit-haselnuss-kakao-creme-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kinderkekse Doppel Kekse mit Haselnuss Kakao..., 95 g",
+        "tileHeadlineLong": "Kinderkekse Doppel Kekse mit Haselnuss Kakao..., 95 g"
+      },
+      "trackingData": {
+        "brand": "MOGLi",
+        "categories": [
+          "Kinderkekse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5517,
+        "ratingCount": 29
+      }
+    }
+  },
+  {
+    "gtin": 4260133234789,
+    "dan": 1712807,
+    "brandName": "FRUCHTBAR Pausenfreund",
+    "title": "Kinderkekse Dattel, Cashew & Kakao, ab 3 Jahren, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: FRUCHTBAR Pausenfreund; Produktname: Kinderkekse Dattel, Cashew & Kakao, ab 3 Jahren, 120 g; Preis: 2,45 €; Grundpreis: 0,12 kg (20,42 € je 1 kg)",
+      "brand": {
+        "name": "FRUCHTBAR Pausenfreund"
+      },
+      "dan": 1712807,
+      "gtin": 4260133234789,
+      "images": [
+        {
+          "alt": "Kinderkekse Dattel, Cashew & Kakao, ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754953619/assets/pas/images/caa4b3c5-778c-447b-85b9-19f673099fac/fruchtbar-pausenfreund-kinderkekse-dattel-cashew-und-kakao-ab-3-jahren"
+        },
+        {
+          "alt": "Kinderkekse Dattel, Cashew & Kakao, ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754953624/assets/pas/images/9785fcb1-eef8-424d-b151-157158816a9d/fruchtbar-pausenfreund-kinderkekse-dattel-cashew-und-kakao-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (19,08 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (20,42 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 101,
+        "ratingValue": 4.4455
+      },
+      "self": "/p/d/1712807/fruchtbar-pausenfreund-kinderkekse-dattel-cashew-und-kakao-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kinderkekse Dattel, Cashew & Kakao, ab 3 Jahren, 120 g",
+        "tileHeadlineLong": "Kinderkekse Dattel, Cashew & Kakao, ab 3 Jahren, 120 g"
+      },
+      "trackingData": {
+        "brand": "FRUCHTBAR Pausenfreund",
+        "categories": [
+          "Kinderkekse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4455,
+        "ratingCount": 101
+      }
+    }
+  },
+  {
+    "gtin": 4262367684347,
+    "dan": 3066932,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren, 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren, 180 g; Preis: 4,95 €; Grundpreis: 0,18 kg (27,50 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 3066932,
+      "gtin": 4262367684347,
+      "images": [
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784088279/assets/pas/images/b68ab554-2459-4d39-9685-e81c1a6e10ac/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784088291/assets/pas/images/6579a710-adfb-4399-8ca7-152fa999e327/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784088269/assets/pas/images/982c3d2b-5324-4843-9975-d9fd82b8e713/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784088259/assets/pas/images/f6a18fe8-f177-4247-ba35-e27d515c60c6/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782858720/assets/pas/images/a7e4d0f2-4a14-4af9-aa6f-87a6e3d99a84/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782858711/assets/pas/images/25e7a2a0-d0be-47ed-b59e-f7594ac98f49/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782858732/assets/pas/images/daa55881-526a-4168-b0f9-39ebf2e89aae/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782858760/assets/pas/images/11525846-3b33-4f29-9c42-2f53200065b4/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001426/assets/pas/images/03cfbff9-8f0f-4d6c-82ff-b776afb4e475/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782858746/assets/pas/images/f9c3aa8a-f5c4-42f9-9f22-1e565fa96ac4/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme Datteln, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782858753/assets/pas/images/b3006841-844c-4b7e-9a82-d2600fb04e28/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (25,70 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (27,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 4.0667
+      },
+      "self": "/p/d/3066932/freche-freunde-kindersnack-brotaufstrich-haselnuss-kakao-creme-datteln-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme..., 180 g",
+        "tileHeadlineLong": "Kindersnack Brotaufstrich Haselnuss-Kakao-Creme..., 180 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0667,
+        "ratingCount": 30
+      }
+    }
+  },
+  {
+    "gtin": 4066447203431,
+    "dan": 1535292,
+    "brandName": "dmBio",
+    "title": "Müsliriegel, Hafer Kakao, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Müsliriegel, Hafer Kakao, 35 g; Preis: 0,95 €; Grundpreis: 0,035 kg (27,14 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1535292,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447203431,
+      "images": [
+        {
+          "alt": "Müsliriegel, Hafer Kakao dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754989804/assets/pas/images/f274079a-3b2a-4950-9948-7f6da8fcfcdb/dmbio-muesliriegel-hafer-kakao"
+        },
+        {
+          "alt": "Müsliriegel, Hafer Kakao dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754989804/assets/pas/images/1a7d1699-bbff-4a7d-8160-7dcf5412d455/dmbio-muesliriegel-hafer-kakao"
+        },
+        {
+          "alt": "Müsliriegel, Hafer Kakao dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747477647/assets/pas/images/b8cf48bc-82e4-4030-85a5-7a1ac6d6b1bd/dmbio-muesliriegel-hafer-kakao"
+        },
+        {
+          "alt": "Müsliriegel, Hafer Kakao dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754989799/assets/pas/images/b748aa06-8daa-4fb9-a059-6706f4d59b37/dmbio-muesliriegel-hafer-kakao"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (25,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (27,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 93,
+        "ratingValue": 4.4086
+      },
+      "self": "/p/d/1535292/dmbio-muesliriegel-hafer-kakao",
+      "title": {
+        "tileHeadline": "Müsliriegel, Hafer Kakao, 35 g",
+        "tileHeadlineLong": "Müsliriegel, Hafer Kakao, 35 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4086,
+        "ratingCount": 93
+      }
+    }
+  },
+  {
+    "gtin": 4262367685245,
+    "dan": 3129505,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Crispy Riegel Kokos & Kakao ab 3+ Jahren (6x23 g), 138 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Crispy Riegel Kokos & Kakao ab 3+ Jahren (6x23 g), 138 g; Preis: 2,95 €; Grundpreis: 0,138 kg (21,38 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 3129505,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4262367685245,
+      "images": [
+        {
+          "alt": "Kindersnack Crispy Riegel Kokos & Kakao ab 3+ Jahren (6x23 g) Freche Freunde",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771325692/assets/pas/images/50a996d6-04d0-49ec-9914-8032989a1313/freche-freunde-kindersnack-crispy-riegel-kokos-und-kakao-ab-3-jahren-6x23-g"
+        },
+        {
+          "alt": "Kindersnack Crispy Riegel Kokos & Kakao ab 3+ Jahren (6x23 g) Freche Freunde",
+          "backgroundColor": "#F9F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771325720/assets/pas/images/bfa2be9c-c83c-4969-8555-61facbfcb5e6/freche-freunde-kindersnack-crispy-riegel-kokos-und-kakao-ab-3-jahren-6x23-g"
+        },
+        {
+          "alt": "Kindersnack Crispy Riegel Kokos & Kakao ab 3+ Jahren (6x23 g) Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771325706/assets/pas/images/f6a99669-5178-43f4-a5ae-c6bcbb6865c4/freche-freunde-kindersnack-crispy-riegel-kokos-und-kakao-ab-3-jahren-6x23-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,138 kg (19,98 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,138 kg (21,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 7,
+        "ratingValue": 4.7143
+      },
+      "self": "/p/d/3129505/freche-freunde-kindersnack-crispy-riegel-kokos-und-kakao-ab-3-jahren-6x23-g",
+      "title": {
+        "tileHeadline": "Kindersnack Crispy Riegel Kokos & Kakao ab 3+..., 138 g",
+        "tileHeadlineLong": "Kindersnack Crispy Riegel Kokos & Kakao ab 3+..., 138 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Riegel für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7143,
+        "ratingCount": 7
+      }
+    }
+  },
+  {
+    "gtin": 4262367685092,
+    "dan": 3080130,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren, 60 g; Preis: 1,95 €; Grundpreis: 0,06 kg (32,50 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 3080130,
+      "gtin": 4262367685092,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750921489/assets/pas/images/070b79aa-0e5b-4200-8457-5db51f803aec/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750921499/assets/pas/images/c6812109-9715-4c24-b604-6020a6241014/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755731418/assets/pas/images/8fbcbdb7-a097-457d-9223-67fb8b323b7c/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755731437/assets/pas/images/5234f0ee-8bbf-4323-9289-f3e8a637d8d4/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755731407/assets/pas/images/730512e6-a382-4636-849b-b91ab5e0a169/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755731448/assets/pas/images/68e24664-430e-4e9d-a4dd-ce5ec39b42e5/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755814647/assets/pas/images/5633644d-2bc9-4e78-867e-344e9c67b276/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755731430/assets/pas/images/1f03f901-66f0-4374-a239-5fd5fd1ba567/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Knusper Donuts Banane, Kakao & Zimt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755814655/assets/pas/images/9b4d2827-0b80-41f6-8f24-a7497575f5d9/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (30,37 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (32,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 29,
+        "ratingValue": 4.6552
+      },
+      "self": "/p/d/3080130/freche-freunde-kindersnack-knusper-donuts-banane-kakao-und-zimt-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper Donuts Banane, Kakao & Zimt..., 60 g",
+        "tileHeadlineLong": "Kindersnack Knusper Donuts Banane, Kakao & Zimt..., 60 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6552,
+        "ratingCount": 29
+      }
+    }
+  },
+  {
+    "gtin": 4262367684958,
+    "dan": 3060363,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Knusper Bits Kakao Nuss, für Schulkinder, 30 g; Preis: 1,45 €; Grundpreis: 0,03 kg (48,33 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 3060363,
+      "gtin": 4262367684958,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755087821/assets/pas/images/6fed8972-4a61-4dc5-87de-f37da6b5831f/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757197698/assets/pas/images/8fbaef70-b88f-4c4e-93dc-8c7458af99d6/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755087821/assets/pas/images/b336a5a1-d75e-456a-92b3-462c15ee8d01/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757197677/assets/pas/images/b9e993eb-3f55-4f5d-a1d4-c4a42f15d54a/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757197659/assets/pas/images/d3d1738b-5981-49b1-b2de-1b5f3429614f/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757197688/assets/pas/images/e50ddc5b-ee4a-4648-b0e1-33acfb9d3186/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757197645/assets/pas/images/4a2bca79-c8a8-4023-9807-13b0e04d43f2/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757197707/assets/pas/images/f5830b2d-eb57-4518-bc08-16a991404c61/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757197669/assets/pas/images/0c8f3250-48f1-4523-9239-ae72686b0d70/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Knusper Bits Kakao Nuss, für Schulkinder Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757197652/assets/pas/images/25932906-5256-40ac-923d-285ac41a3597/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (45,17 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (48,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.5745
+      },
+      "self": "/p/d/3060363/freche-freunde-kindersnack-knusper-bits-kakao-nuss-fuer-schulkinder",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper Bits Kakao Nuss, für..., 30 g",
+        "tileHeadlineLong": "Kindersnack Knusper Bits Kakao Nuss, für..., 30 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5745,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 4262367681667,
+    "dan": 3080096,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren, 23 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren, 23 g; Preis: 0,85 €; Grundpreis: 0,023 kg (36,96 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 3080096,
+      "gtin": 4262367681667,
+      "images": [
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747604052/assets/pas/images/46d79da3-0f2c-49c4-81a5-6fb05329b49f/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        },
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747604046/assets/pas/images/20b7f134-d47a-46f9-9ecf-9112da9212dd/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        },
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757198736/assets/pas/images/ce6449b2-67fa-4bfe-9a9e-8d988f90b171/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        },
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757198752/assets/pas/images/22f91b62-f5ea-4d27-88c9-09b82fe41f23/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        },
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757198765/assets/pas/images/821a927b-27db-4842-a652-16c927d8bbf7/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        },
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757198776/assets/pas/images/3671dec3-ece3-45e2-9b09-63cb09da652c/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        },
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757198784/assets/pas/images/2e75d710-d0c4-4f8f-8772-01129b5d607b/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        },
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757198729/assets/pas/images/e5390b82-4639-4a8a-993f-7920dcff12ee/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        },
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747604056/assets/pas/images/6aa8c9dd-5e27-4dfe-b76d-9ab2a9a66d5e/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        },
+        {
+          "alt": "Kindersnack Crunchy Sticks mit Cremefüllung Haselnuss, Kakao & Kokos ab 4 Jahren Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757198747/assets/pas/images/8aeb88e2-a387-4926-b400-a36e3ef173b3/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,023 kg (34,54 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,023 kg (36,96 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.2586
+      },
+      "self": "/p/d/3080096/freche-freunde-kindersnack-crunchy-sticks-mit-cremefuellung-haselnuss-kakao-und-kokos-ab-4-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Crunchy Sticks mit Cremefüllung..., 23 g",
+        "tileHeadlineLong": "Kindersnack Crunchy Sticks mit Cremefüllung..., 23 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2586,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4262367685849,
+    "dan": 3125241,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr, 25 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Waffel-Herzchen Kakao ab 1 Jahr, 25 g; Preis: 1,95 €; Grundpreis: 0,025 kg (78,00 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 3125241,
+      "gtin": 4262367685849,
+      "images": [
+        {
+          "alt": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772180323/assets/pas/images/ff116f40-782c-45d7-ad45-d819b88fb41b/freche-freunde-kindersnack-waffel-herzchen-kakao-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772180331/assets/pas/images/fdaf2561-1b81-4f8b-a40e-964a73ff2577/freche-freunde-kindersnack-waffel-herzchen-kakao-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083355/assets/pas/images/2e35e326-3866-4bbf-9501-793bef9c9419/freche-freunde-kindersnack-waffel-herzchen-kakao-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083382/assets/pas/images/9362adcb-6a64-4ab6-8d11-8c21013aeeec/freche-freunde-kindersnack-waffel-herzchen-kakao-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083375/assets/pas/images/77ba2500-adad-4249-ba19-6d576562df88/freche-freunde-kindersnack-waffel-herzchen-kakao-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083362/assets/pas/images/2dc5884d-9157-4325-833f-710ddc0a00d6/freche-freunde-kindersnack-waffel-herzchen-kakao-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr Freche Freunde",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083368/assets/pas/images/06ea6e5f-27eb-403d-aba5-6c6978f66479/freche-freunde-kindersnack-waffel-herzchen-kakao-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (72,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (78,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 14,
+        "ratingValue": 3.9286
+      },
+      "self": "/p/d/3125241/freche-freunde-kindersnack-waffel-herzchen-kakao-ab-1-jahr",
+      "title": {
+        "tileHeadline": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr, 25 g",
+        "tileHeadlineLong": "Kindersnack Waffel-Herzchen Kakao ab 1 Jahr, 25 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9286,
+        "ratingCount": 14
+      }
+    }
+  },
+  {
+    "gtin": 9004617065613,
+    "dan": 3063227,
+    "brandName": "VERIVAL",
+    "title": "Protein Porridge, Kakao & Banane, glutenfrei, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: VERIVAL; Produktname: Protein Porridge, Kakao & Banane, glutenfrei, 350 g; Preis: 4,95 €; Grundpreis: 0,35 kg (14,14 € je 1 kg)",
+      "brand": {
+        "name": "VERIVAL"
+      },
+      "dan": 3063227,
+      "gtin": 9004617065613,
+      "images": [
+        {
+          "alt": "Protein Porridge, Kakao & Banane, glutenfrei VERIVAL",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748338918/assets/pas/images/c99d5fea-842b-4c1d-8ed4-70544cf9b9db/verival-protein-porridge-kakao-und-banane-glutenfrei"
+        },
+        {
+          "alt": "Protein Porridge, Kakao & Banane, glutenfrei VERIVAL",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783117096/assets/pas/images/438e161f-2217-4f62-9455-82c99600d2db/verival-protein-porridge-kakao-und-banane-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (13,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (14,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 38,
+        "ratingValue": 3.9474
+      },
+      "self": "/p/d/3063227/verival-protein-porridge-kakao-und-banane-glutenfrei",
+      "title": {
+        "tileHeadline": "Protein Porridge, Kakao & Banane, glutenfrei, 350 g",
+        "tileHeadlineLong": "Protein Porridge, Kakao & Banane, glutenfrei, 350 g"
+      },
+      "trackingData": {
+        "brand": "VERIVAL",
+        "categories": [
+          "Porridge & Frühstücksbrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9474,
+        "ratingCount": 38
+      }
+    }
+  },
+  {
+    "gtin": 4262367685214,
+    "dan": 1459783,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Kakao Würfel, ab 3 Jahren, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Kakao Würfel, ab 3 Jahren, 20 g; Preis: 0,95 €; Grundpreis: 0,02 kg (47,50 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 1459783,
+      "gtin": 4262367685214,
+      "images": [
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750687374/assets/pas/images/c2aac7e2-1278-42a6-b104-a719e2b38a24/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750687388/assets/pas/images/a0f60477-5c03-4760-8810-7fe2a4b160b5/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562074/assets/pas/images/7cbc47c2-7fd0-4e3c-b583-6de8f454f4f0/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562108/assets/pas/images/b1615273-60ed-4df2-b43c-dd1c13995881/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562089/assets/pas/images/dd51364f-a488-4a0c-b96d-751160bc059b/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562124/assets/pas/images/86375399-fc8d-460a-9f52-e6e168d27e7c/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750687381/assets/pas/images/ed60e9a4-f506-41ff-b2e6-ba04867472f1/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562060/assets/pas/images/80dd8186-73e4-4d7a-9769-76c035151e55/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562100/assets/pas/images/f5e71d4c-37c4-4bad-9369-f54b75f4dca2/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Würfel, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562066/assets/pas/images/af9f7234-7898-4d4b-bf28-1cf089623ba3/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (44,39 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (47,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.3974
+      },
+      "self": "/p/d/1459783/freche-freunde-kindersnack-kakao-wuerfel-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Kakao Würfel, ab 3 Jahren, 20 g",
+        "tileHeadlineLong": "Kindersnack Kakao Würfel, ab 3 Jahren, 20 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3974,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4260311980958,
+    "dan": 1592854,
+    "brandName": "MOGLi",
+    "title": "Kindersnack Kakao-Waffeln, ab 3 Jahren, 15 g",
+    "tileData": {
+      "a11yLabel": "Marke: MOGLi; Produktname: Kindersnack Kakao-Waffeln, ab 3 Jahren, 15 g; Preis: 0,65 €; Grundpreis: 0,015 kg (43,33 € je 1 kg)",
+      "brand": {
+        "name": "MOGLi"
+      },
+      "dan": 1592854,
+      "gtin": 4260311980958,
+      "images": [
+        {
+          "alt": "Kindersnack Kakao-Waffeln, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492595/assets/pas/images/78a72408-5229-4e1b-9f04-437e2ee46458/mogli-kindersnack-kakao-waffeln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao-Waffeln, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769467838/assets/pas/images/8af88f4b-85b4-450b-901c-7a696056f51f/mogli-kindersnack-kakao-waffeln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao-Waffeln, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753831858/assets/pas/images/7f2b6b3a-2653-4cdf-8d0f-1a59613aaa48/mogli-kindersnack-kakao-waffeln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao-Waffeln, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753831901/assets/pas/images/02115372-39ac-4626-8a79-0846711816b7/mogli-kindersnack-kakao-waffeln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao-Waffeln, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492679/assets/pas/images/429fe292-eaab-49f2-9412-54e6117c5bac/mogli-kindersnack-kakao-waffeln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao-Waffeln, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492649/assets/pas/images/a554b361-9dac-4afd-9cf9-907b14b6f3f4/mogli-kindersnack-kakao-waffeln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao-Waffeln, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492230/assets/pas/images/a956aa32-8a62-4b49-a8a6-ca49f9e1e582/mogli-kindersnack-kakao-waffeln-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,61 €"
+          }
+        },
+        "tileInfos": [
+          "0,015 kg (40,50 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,015 kg (43,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.4667
+      },
+      "self": "/p/d/1592854/mogli-kindersnack-kakao-waffeln-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Kakao-Waffeln, ab 3 Jahren, 15 g",
+        "tileHeadlineLong": "Kindersnack Kakao-Waffeln, ab 3 Jahren, 15 g"
+      },
+      "trackingData": {
+        "brand": "MOGLi",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4667,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4063528008879,
+    "dan": 1568996,
+    "brandName": "Foamie",
+    "title": "Festes Duschgel Kokos & Kakaobutter, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: Foamie; Produktname: Festes Duschgel Kokos & Kakaobutter, 80 g; Preis: 4,45 €; Grundpreis: 0,08 kg (55,63 € je 1 kg)",
+      "brand": {
+        "name": "Foamie"
+      },
+      "dan": 1568996,
+      "gtin": 4063528008879,
+      "images": [
+        {
+          "alt": "Festes Duschgel Kokos & Kakaobutter Foamie",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759874246/assets/pas/images/05401353-5491-4b44-9eac-694c0f298281/foamie-festes-duschgel-kokos-und-kakaobutter"
+        },
+        {
+          "alt": "Festes Duschgel Kokos & Kakaobutter Foamie",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474202/assets/pas/images/efdb6121-290e-48f8-a3b0-5fa124358736/foamie-festes-duschgel-kokos-und-kakaobutter"
+        },
+        {
+          "alt": "Festes Duschgel Kokos & Kakaobutter Foamie",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757718353/assets/pas/images/afea7a16-b328-463e-9ff7-204303c59f1e/foamie-festes-duschgel-kokos-und-kakaobutter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,74 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (46,75 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (55,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 117,
+        "ratingValue": 4.6068
+      },
+      "self": "/p/d/1568996/foamie-festes-duschgel-kokos-und-kakaobutter",
+      "title": {
+        "tileHeadline": "Festes Duschgel Kokos & Kakaobutter, 80 g",
+        "tileHeadlineLong": "Festes Duschgel Kokos & Kakaobutter, 80 g"
+      },
+      "trackingData": {
+        "brand": "Foamie",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6068,
+        "ratingCount": 117
+      }
+    }
+  },
+  {
+    "gtin": 4066447656879,
+    "dan": 1615564,
+    "brandName": "dmBio",
+    "title": "Kakao Nibs, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kakao Nibs, 200 g; Preis: 4,95 €; Grundpreis: 0,2 kg (24,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1615564,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447656879,
+      "images": [
+        {
+          "alt": "Kakao Nibs dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768086366/assets/pas/images/321a2255-854b-4a8f-ba79-36d1969f88cd/dmbio-kakao-nibs"
+        },
+        {
+          "alt": "Kakao Nibs dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768086372/assets/pas/images/9750f230-1c9e-44fb-86e4-663e8c751d54/dmbio-kakao-nibs"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (20,80 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (24,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 343,
+        "ratingValue": 4.277
+      },
+      "self": "/p/d/1615564/dmbio-kakao-nibs",
+      "title": {
+        "tileHeadline": "Kakao Nibs, 200 g",
+        "tileHeadlineLong": "Kakao Nibs, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Backzutaten"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.277,
+        "ratingCount": 343
+      }
+    }
+  },
+  {
+    "gtin": 4260739350531,
+    "dan": 3137491,
+    "brandName": "FRUCHTBAR Pausenfreund",
+    "title": "Kindersnack Kakao Waffeln ab 3 Jahren, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: FRUCHTBAR Pausenfreund; Produktname: Kindersnack Kakao Waffeln ab 3 Jahren, 100 g; Preis: 2,45 €; Grundpreis: 0,1 kg (24,50 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "FRUCHTBAR Pausenfreund"
+      },
+      "dan": 3137491,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4260739350531,
+      "images": [
+        {
+          "alt": "Kindersnack Kakao Waffeln ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082661/assets/pas/images/c20fdebf-268d-42e3-9fcd-24ad5b0b0554/fruchtbar-pausenfreund-kindersnack-kakao-waffeln-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Kakao Waffeln ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082653/assets/pas/images/f26ad739-109c-44e9-83b4-728b899dba8b/fruchtbar-pausenfreund-kindersnack-kakao-waffeln-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (22,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (24,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 4.4444
+      },
+      "self": "/p/d/3137491/fruchtbar-pausenfreund-kindersnack-kakao-waffeln-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Kakao Waffeln ab 3 Jahren, 100 g",
+        "tileHeadlineLong": "Kindersnack Kakao Waffeln ab 3 Jahren, 100 g"
+      },
+      "trackingData": {
+        "brand": "FRUCHTBAR Pausenfreund",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4444,
+        "ratingCount": 9
+      }
+    }
+  }
+]

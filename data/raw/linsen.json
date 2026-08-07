@@ -1,0 +1,2716 @@
+[
+  {
+    "gtin": 4066447373189,
+    "dan": 1635196,
+    "brandName": "dmBio",
+    "title": "Braune Linsen, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Braune Linsen, 240 g; Preis: 1,15 €; Grundpreis: 0,24 kg (4,79 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1635196,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447373189,
+      "images": [
+        {
+          "alt": "Braune Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480837/assets/pas/images/b6b28d65-0791-429f-9bb9-567f87a2b81a/dmbio-braune-linsen"
+        },
+        {
+          "alt": "Braune Linsen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480706/assets/pas/images/fe9e0cbd-f123-46c0-ab45-05e905951777/dmbio-braune-linsen"
+        },
+        {
+          "alt": "Braune Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480598/assets/pas/images/3bde7092-35eb-4542-9b8c-c2405fb8dfe5/dmbio-braune-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (4,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (4,79 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.8929
+      },
+      "self": "/p/d/1635196/dmbio-braune-linsen",
+      "title": {
+        "tileHeadline": "Braune Linsen, 240 g",
+        "tileHeadlineLong": "Braune Linsen, 240 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Konserven",
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8929,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4019339490167,
+    "dan": 3137219,
+    "brandName": "Davert",
+    "title": "Protein Linsen Mix, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Protein Linsen Mix, 500 g; Preis: 3,95 €; Grundpreis: 0,5 kg (7,90 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 3137219,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4019339490167,
+      "images": [
+        {
+          "alt": "Protein Linsen Mix Davert",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776389598/assets/pas/images/aef3f761-153c-45c4-8efa-76b8ab379753/davert-protein-linsen-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 4.875
+      },
+      "self": "/p/d/3137219/davert-protein-linsen-mix",
+      "title": {
+        "tileHeadline": "Protein Linsen Mix, 500 g",
+        "tileHeadlineLong": "Protein Linsen Mix, 500 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.875,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 4066447759129,
+    "dan": 1454967,
+    "brandName": "dmBio",
+    "title": "Beluga Linsen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Beluga Linsen, 500 g; Preis: 2,45 €; Grundpreis: 0,5 kg (4,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454967,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447759129,
+      "images": [
+        {
+          "alt": "Beluga Linsen dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774596776/assets/pas/images/ab1cff64-e5fa-4285-970b-32f4d43250fd/dmbio-beluga-linsen"
+        },
+        {
+          "alt": "Beluga Linsen dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774596788/assets/pas/images/92e34840-b316-4af3-9805-40b3acf1d6db/dmbio-beluga-linsen"
+        },
+        {
+          "alt": "Beluga Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761143152/assets/pas/images/ee770872-e6d7-4d90-ac21-4df53da44de4/dmbio-beluga-linsen"
+        },
+        {
+          "alt": "Beluga Linsen dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774596783/assets/pas/images/bf955731-73b2-4bfc-bc2c-6b891f0a7f77/dmbio-beluga-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.8804
+      },
+      "self": "/p/d/1454967/dmbio-beluga-linsen",
+      "title": {
+        "tileHeadline": "Beluga Linsen, 500 g",
+        "tileHeadlineLong": "Beluga Linsen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8804,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4070765080025,
+    "dan": 3145654,
+    "brandName": "dmBio",
+    "title": "Grüne Linsen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Grüne Linsen, 500 g; Preis: 2,85 €; Grundpreis: 0,5 kg (5,70 € je 1 kg); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3145654,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765080025,
+      "images": [
+        {
+          "alt": "Grüne Linsen  dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781402636/assets/pas/images/81ecb8a0-7148-4507-8b55-8a2e475176f7/dmbio-gruene-linsen"
+        },
+        {
+          "alt": "Grüne Linsen  dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781402630/assets/pas/images/4e2610e3-3aba-4007-a758-eee3d93961a8/dmbio-gruene-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,33 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3145654/dmbio-gruene-linsen",
+      "title": {
+        "tileHeadline": "Grüne Linsen, 500 g",
+        "tileHeadlineLong": "Grüne Linsen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 6
+      }
+    }
+  },
+  {
+    "gtin": 4066447717945,
+    "dan": 1490004,
+    "brandName": "dmBio",
+    "title": "Rote Linsen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Rote Linsen, 500 g; Preis: 1,45 €; Grundpreis: 0,5 kg (2,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1490004,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447717945,
+      "images": [
+        {
+          "alt": "Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485160/assets/pas/images/7c676ef2-32a1-4232-b2eb-dc94f4d044c9/dmbio-rote-linsen"
+        },
+        {
+          "alt": "Rote Linsen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485386/assets/pas/images/1a12dc4c-e800-4fef-8d85-20216563db88/dmbio-rote-linsen"
+        },
+        {
+          "alt": "Rote Linsen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485159/assets/pas/images/331e6cb9-bc3f-4c77-a777-789ca4081cc4/dmbio-rote-linsen"
+        },
+        {
+          "alt": "Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485160/assets/pas/images/c5d8371a-9410-4580-8390-e56f0b61798c/dmbio-rote-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 157,
+        "ratingValue": 4.7452
+      },
+      "self": "/p/d/1490004/dmbio-rote-linsen",
+      "title": {
+        "tileHeadline": "Rote Linsen, 500 g",
+        "tileHeadlineLong": "Rote Linsen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7452,
+        "ratingCount": 157
+      }
+    }
+  },
+  {
+    "gtin": 4067796175295,
+    "dan": 1573424,
+    "brandName": "dmBio",
+    "title": "Gelbe Linsen, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gelbe Linsen, 500 g; Preis: 2,45 €; Grundpreis: 0,5 kg (4,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1573424,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796175295,
+      "images": [
+        {
+          "alt": "Gelbe Linsen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755089685/assets/pas/images/92779243-7570-4750-bb4c-5beb018d2a05/dmbio-gelbe-linsen"
+        },
+        {
+          "alt": "Gelbe Linsen dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755089690/assets/pas/images/d0df9040-2857-4bf8-b8dc-01f40599588a/dmbio-gelbe-linsen"
+        },
+        {
+          "alt": "Gelbe Linsen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755089686/assets/pas/images/cb89eb80-1fb8-43b2-aacb-11bf0449fd52/dmbio-gelbe-linsen"
+        },
+        {
+          "alt": "Gelbe Linsen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755089690/assets/pas/images/eaf60161-5483-4a66-8f1d-5db0b283a33a/dmbio-gelbe-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.7037
+      },
+      "self": "/p/d/1573424/dmbio-gelbe-linsen",
+      "title": {
+        "tileHeadline": "Gelbe Linsen, 500 g",
+        "tileHeadlineLong": "Gelbe Linsen, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7037,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 4019339487129,
+    "dan": 1535543,
+    "brandName": "Davert",
+    "title": "Schwarze Bohnen, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Schwarze Bohnen, 240 g; Preis: 1,65 €; Grundpreis: 0,24 kg (6,88 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1535543,
+      "gtin": 4019339487129,
+      "images": [
+        {
+          "alt": "Schwarze Bohnen Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922804/assets/pas/images/00519aa2-4fa8-4474-9f21-4835da1c6f10/davert-schwarze-bohnen"
+        },
+        {
+          "alt": "Schwarze Bohnen Davert",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922829/assets/pas/images/81673c2e-b2c1-414b-b4b9-0da9f2810865/davert-schwarze-bohnen"
+        },
+        {
+          "alt": "Schwarze Bohnen Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922817/assets/pas/images/f88452b2-618d-4e5b-b146-7a668ee476bf/davert-schwarze-bohnen"
+        },
+        {
+          "alt": "Schwarze Bohnen Davert",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442620/assets/pas/images/a67f136e-673e-404c-9ba9-caed2b9894a4/davert-schwarze-bohnen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (6,43 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (6,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.8659
+      },
+      "self": "/p/d/1535543/davert-schwarze-bohnen",
+      "title": {
+        "tileHeadline": "Schwarze Bohnen, 240 g",
+        "tileHeadlineLong": "Schwarze Bohnen, 240 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Konserven",
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8659,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 4066447087192,
+    "dan": 1638679,
+    "brandName": "dmBio",
+    "title": "Riesenbohnen in Tomatensauce, Gigantes, 230 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Riesenbohnen in Tomatensauce, Gigantes, 230 g; Preis: 2,95 €; Grundpreis: 0,23 kg (12,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1638679,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447087192,
+      "images": [
+        {
+          "alt": "Riesenbohnen in Tomatensauce, Gigantes dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476113/assets/pas/images/c74f62fd-37ab-4227-b78e-b696a9cc1ece/dmbio-riesenbohnen-in-tomatensauce-gigantes"
+        },
+        {
+          "alt": "Riesenbohnen in Tomatensauce, Gigantes dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476112/assets/pas/images/03353109-48a7-458d-ab4e-2974df1afe5a/dmbio-riesenbohnen-in-tomatensauce-gigantes"
+        },
+        {
+          "alt": "Riesenbohnen in Tomatensauce, Gigantes dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476123/assets/pas/images/fd95f508-8003-48e4-8863-ae483246f71e/dmbio-riesenbohnen-in-tomatensauce-gigantes"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,23 kg (11,99 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,23 kg (12,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 143,
+        "ratingValue": 4.6713
+      },
+      "self": "/p/d/1638679/dmbio-riesenbohnen-in-tomatensauce-gigantes",
+      "title": {
+        "tileHeadline": "Riesenbohnen in Tomatensauce, Gigantes, 230 g",
+        "tileHeadlineLong": "Riesenbohnen in Tomatensauce, Gigantes, 230 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Fertiggerichte & Konserven",
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6713,
+        "ratingCount": 143
+      }
+    }
+  },
+  {
+    "gtin": 4019339487150,
+    "dan": 1535541,
+    "brandName": "Davert",
+    "title": "Bohnen Mix, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Bohnen Mix, 240 g; Preis: 1,65 €; Grundpreis: 0,24 kg (6,88 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1535541,
+      "gtin": 4019339487150,
+      "images": [
+        {
+          "alt": "Bohnen Mix Davert",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442437/assets/pas/images/c1e52115-455e-4f25-817f-b635e82698d4/davert-bohnen-mix"
+        },
+        {
+          "alt": "Bohnen Mix Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442438/assets/pas/images/fc5ab89f-eef1-4d29-9c12-6854639206c8/davert-bohnen-mix"
+        },
+        {
+          "alt": "Bohnen Mix Davert",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760563168/assets/pas/images/2c9e6c9c-8844-430a-9488-ac8461c7e556/davert-bohnen-mix"
+        },
+        {
+          "alt": "Bohnen Mix Davert",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442709/assets/pas/images/27090f13-5030-435c-8933-0b6166696be8/davert-bohnen-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (6,43 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (6,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.8806
+      },
+      "self": "/p/d/1535541/davert-bohnen-mix",
+      "title": {
+        "tileHeadline": "Bohnen Mix, 240 g",
+        "tileHeadlineLong": "Bohnen Mix, 240 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Konserven",
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8806,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4067796187038,
+    "dan": 1635195,
+    "brandName": "dmBio",
+    "title": "Kidneybohnen, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kidneybohnen, 240 g; Preis: 0,85 €; Grundpreis: 0,24 kg (3,54 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1635195,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796187038,
+      "images": [
+        {
+          "alt": "Kidneybohnen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019692/assets/pas/images/721a37d3-27f2-4509-8019-174dea666a42/dmbio-kidneybohnen"
+        },
+        {
+          "alt": "Kidneybohnen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019696/assets/pas/images/4403d2cd-9c13-431b-8b1e-6e93bda385da/dmbio-kidneybohnen"
+        },
+        {
+          "alt": "Kidneybohnen dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019694/assets/pas/images/7c670704-6b7d-47b9-a26e-b673058b1212/dmbio-kidneybohnen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (3,31 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (3,54 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 111,
+        "ratingValue": 4.4234
+      },
+      "self": "/p/d/1635195/dmbio-kidneybohnen",
+      "title": {
+        "tileHeadline": "Kidneybohnen, 240 g",
+        "tileHeadlineLong": "Kidneybohnen, 240 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Linsen & Bohnen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4234,
+        "ratingCount": 111
+      }
+    }
+  },
+  {
+    "gtin": 4066447562644,
+    "dan": 1676867,
+    "brandName": "dmBio",
+    "title": "Linsenwaffeln, gesalzen, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Linsenwaffeln, gesalzen, 100 g; Preis: 1,35 €; Grundpreis: 0,1 kg (13,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1676867,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447562644,
+      "images": [
+        {
+          "alt": "Linsenwaffeln, gesalzen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483051/assets/pas/images/8fa8ea42-76e2-4138-8e1d-3ddf9bf63c3f/dmbio-linsenwaffeln-gesalzen"
+        },
+        {
+          "alt": "Linsenwaffeln, gesalzen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483051/assets/pas/images/b86921a5-ab7d-4b5b-a6f3-ef324e4742b2/dmbio-linsenwaffeln-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (12,62 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (13,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 333,
+        "ratingValue": 3.8468
+      },
+      "self": "/p/d/1676867/dmbio-linsenwaffeln-gesalzen",
+      "title": {
+        "tileHeadline": "Linsenwaffeln, gesalzen, 100 g",
+        "tileHeadlineLong": "Linsenwaffeln, gesalzen, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8468,
+        "ratingCount": 333
+      }
+    }
+  },
+  {
+    "gtin": 4260350927136,
+    "dan": 1587647,
+    "brandName": "HEIMATGUT",
+    "title": "Linsenchips mit Meersalz, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: HEIMATGUT; Produktname: Linsenchips mit Meersalz, 75 g; Preis: 2,45 €; Grundpreis: 0,075 kg (32,67 € je 1 kg)",
+      "brand": {
+        "name": "HEIMATGUT"
+      },
+      "dan": 1587647,
+      "gtin": 4260350927136,
+      "images": [
+        {
+          "alt": "Linsenchips mit Meersalz HEIMATGUT",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754979851/assets/pas/images/1673df62-8675-44c0-a6aa-ab98da2d20bb/heimatgut-linsenchips-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (30,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (32,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 124,
+        "ratingValue": 4.7581
+      },
+      "self": "/p/d/1587647/heimatgut-linsenchips-mit-meersalz",
+      "title": {
+        "tileHeadline": "Linsenchips mit Meersalz, 75 g",
+        "tileHeadlineLong": "Linsenchips mit Meersalz, 75 g"
+      },
+      "trackingData": {
+        "brand": "HEIMATGUT",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7581,
+        "ratingCount": 124
+      }
+    }
+  },
+  {
+    "gtin": 4058172824616,
+    "dan": 1611058,
+    "brandName": "dmBio",
+    "title": "Couscous, Kichererbsen & Rote Linsen, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Couscous, Kichererbsen & Rote Linsen, 250 g; Preis: 2,25 €; Grundpreis: 0,25 kg (9,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1611058,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172824616,
+      "images": [
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455590/assets/pas/images/ec3c7192-04d9-48aa-975e-08d1f0f9b5ee/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455585/assets/pas/images/7ef61091-74fc-4101-b5e6-514ca46f70c9/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761822146/assets/pas/images/2a26a10d-8f24-4be8-8b3f-2b5a0faf4b30/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455456/assets/pas/images/13f51885-f934-422b-9cc9-7dc18e0ffe3d/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455785/assets/pas/images/84218890-ce9c-43e0-8ce2-abbd2f6d4833/dmbio-couscous-kichererbsen-und-rote-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (8,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 159,
+        "ratingValue": 4.673
+      },
+      "self": "/p/d/1611058/dmbio-couscous-kichererbsen-und-rote-linsen",
+      "title": {
+        "tileHeadline": "Couscous, Kichererbsen & Rote Linsen, 250 g",
+        "tileHeadlineLong": "Couscous, Kichererbsen & Rote Linsen, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Bulgur, Quinoa & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.673,
+        "ratingCount": 159
+      }
+    }
+  },
+  {
+    "gtin": 4067796149036,
+    "dan": 1625174,
+    "brandName": "Sportness",
+    "title": "Protein Linsen Chips, Paprika Geschmack, vegan, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Linsen Chips, Paprika Geschmack, vegan, 40 g; Preis: 0,95 €; Grundpreis: 0,04 kg (23,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1625174,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796149036,
+      "images": [
+        {
+          "alt": "Protein Linsen Chips, Paprika Geschmack, vegan Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769817367/assets/pas/images/1433038e-1c68-41f1-a227-3f2157f55990/sportness-protein-linsen-chips-paprika-geschmack-vegan"
+        },
+        {
+          "alt": "Protein Linsen Chips, Paprika Geschmack, vegan Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487990/assets/pas/images/ef794a6e-5d3f-4296-8384-f51350d96d05/sportness-protein-linsen-chips-paprika-geschmack-vegan"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (22,20 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (23,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 245,
+        "ratingValue": 4.3306
+      },
+      "self": "/p/d/1625174/sportness-protein-linsen-chips-paprika-geschmack-vegan",
+      "title": {
+        "tileHeadline": "Protein Linsen Chips, Paprika Geschmack, vegan, 40 g",
+        "tileHeadlineLong": "Protein Linsen Chips, Paprika Geschmack, vegan, 40 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3306,
+        "ratingCount": 245
+      }
+    }
+  },
+  {
+    "gtin": 4260739998252,
+    "dan": 1664999,
+    "brandName": "share",
+    "title": "Linsenchips, gesalzen mit schwarzem Reis, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: share; Produktname: Linsenchips, gesalzen mit schwarzem Reis, 80 g; Preis: 1,95 €; Grundpreis: 0,08 kg (24,38 € je 1 kg)",
+      "brand": {
+        "name": "share"
+      },
+      "dan": 1664999,
+      "gtin": 4260739998252,
+      "images": [
+        {
+          "alt": "Linsenchips, gesalzen mit schwarzem Reis share",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303018/assets/pas/images/45b3ce6f-2a23-4295-8138-1d4b8224b066/share-linsenchips-gesalzen-mit-schwarzem-reis"
+        },
+        {
+          "alt": "Linsenchips, gesalzen mit schwarzem Reis share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303032/assets/pas/images/cba111b1-0bb1-4a17-a6a3-72852b6b9c0d/share-linsenchips-gesalzen-mit-schwarzem-reis"
+        },
+        {
+          "alt": "Linsenchips, gesalzen mit schwarzem Reis share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303023/assets/pas/images/f01c49e8-2ced-441e-b30e-4e3700ffe499/share-linsenchips-gesalzen-mit-schwarzem-reis"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (22,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (24,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 146,
+        "ratingValue": 4.1986
+      },
+      "self": "/p/d/1664999/share-linsenchips-gesalzen-mit-schwarzem-reis",
+      "title": {
+        "tileHeadline": "Linsenchips, gesalzen mit schwarzem Reis, 80 g",
+        "tileHeadlineLong": "Linsenchips, gesalzen mit schwarzem Reis, 80 g"
+      },
+      "trackingData": {
+        "brand": "share",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1986,
+        "ratingCount": 146
+      }
+    }
+  },
+  {
+    "gtin": 4069559000301,
+    "dan": 1450427,
+    "brandName": "Visiomax",
+    "title": "Kontaktlinsen-Pflegemittel Hartlinsen-Aufbewahrungslösung, 240 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Visiomax; Produktname: Kontaktlinsen-Pflegemittel Hartlinsen-Aufbewahrungslösung, 240 ml; Rechtliche Kategorie: Medizinprodukt; Preis: 5,45 €; Grundpreis: 0,24 l (22,71 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Visiomax"
+      },
+      "dan": 1450427,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4069559000301,
+      "images": [
+        {
+          "alt": "Kontaktlinsen-Pflegemittel Hartlinsen-Aufbewahrungslösung Visiomax",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763251739/assets/pas/images/62bc1249-e7d9-4f9b-b01f-64070faee7b4/visiomax-kontaktlinsen-pflegemittel-hartlinsen-aufbewahrungsloesung"
+        },
+        {
+          "alt": "Kontaktlinsen-Pflegemittel Hartlinsen-Aufbewahrungslösung Visiomax",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763251737/assets/pas/images/a5acf1e0-f6a8-4e53-8387-d63123b8360b/visiomax-kontaktlinsen-pflegemittel-hartlinsen-aufbewahrungsloesung"
+        },
+        {
+          "alt": "Kontaktlinsen-Pflegemittel Hartlinsen-Aufbewahrungslösung Visiomax",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763251733/assets/pas/images/6d07e9b9-e8df-4b1b-9eb3-4e1510ca0062/visiomax-kontaktlinsen-pflegemittel-hartlinsen-aufbewahrungsloesung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,58 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 l (19,08 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 l (22,71 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.7761
+      },
+      "self": "/p/d/1450427/visiomax-kontaktlinsen-pflegemittel-hartlinsen-aufbewahrungsloesung",
+      "title": {
+        "subheadline": "Medizinprodukt",
+        "tileHeadline": "Kontaktlinsen-Pflegemittel..., 240 ml",
+        "tileHeadlineLong": "Kontaktlinsen-Pflegemittel..., 240 ml"
+      },
+      "trackingData": {
+        "brand": "Visiomax",
+        "categories": [
+          "Kontaktlinsenflüssigkeit & Augentropfen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7761,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4260195540286,
+    "dan": 1569880,
+    "brandName": "Daily Soup",
+    "title": "Suppe, rotes Linsen-Dal mit Kurkuma, 380 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Daily Soup; Produktname: Suppe, rotes Linsen-Dal mit Kurkuma, 380 ml; Preis: 2,95 €; Grundpreis: 0,38 l (7,76 € je 1 l)",
+      "brand": {
+        "name": "Daily Soup"
+      },
+      "dan": 1569880,
+      "gtin": 4260195540286,
+      "images": [
+        {
+          "alt": "Suppe, rotes Linsen-Dal mit Kurkuma Daily Soup",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491709/assets/pas/images/6604c199-247e-4f18-9d1e-0b25d31f26fa/daily-soup-suppe-rotes-linsen-dal-mit-kurkuma"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,38 l (7,25 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,38 l (7,76 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 155,
+        "ratingValue": 3.7355
+      },
+      "self": "/p/d/1569880/daily-soup-suppe-rotes-linsen-dal-mit-kurkuma",
+      "title": {
+        "tileHeadline": "Suppe, rotes Linsen-Dal mit Kurkuma, 380 ml",
+        "tileHeadlineLong": "Suppe, rotes Linsen-Dal mit Kurkuma, 380 ml"
+      },
+      "trackingData": {
+        "brand": "Daily Soup",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7355,
+        "ratingCount": 155
+      }
+    }
+  },
+  {
+    "gtin": 4062300455887,
+    "dan": 1687013,
+    "brandName": "HiPP",
+    "title": "Menü Buntes Gemüse mit Linsen und Reis ab 6. Monat pflanzlich, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Menü Buntes Gemüse mit Linsen und Reis ab 6. Monat pflanzlich, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,65 €; Grundpreis: 0,19 kg (8,68 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1687013,
+      "gtin": 4062300455887,
+      "images": [
+        {
+          "alt": "Menü Buntes Gemüse mit Linsen und Reis ab 6. Monat pflanzlich HiPP",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473896/assets/pas/images/f8eed0e0-8b37-4581-ba77-6496b68f70f7/hipp-menue-buntes-gemuese-mit-linsen-und-reis-ab-6-monat-pflanzlich"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (8,11 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (8,68 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.7857
+      },
+      "self": "/p/d/1687013/hipp-menue-buntes-gemuese-mit-linsen-und-reis-ab-6-monat-pflanzlich",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Buntes Gemüse mit Linsen und Reis ab 6...., 190 g",
+        "tileHeadlineLong": "Menü Buntes Gemüse mit Linsen und Reis ab 6...., 190 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7857,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4260527047230,
+    "dan": 3115090,
+    "brandName": "pumpkin organics",
+    "title": "Kindersnack Bluey Linsen Stangen Pizza Style ab 3 Jahren, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Kindersnack Bluey Linsen Stangen Pizza Style ab 3 Jahren, 30 g; Preis: 1,25 €; Grundpreis: 0,03 kg (41,67 € je 1 kg)",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 3115090,
+      "gtin": 4260527047230,
+      "images": [
+        {
+          "alt": "Kindersnack Bluey Linsen Stangen Pizza Style ab 3 Jahren pumpkin organics",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763627577/assets/pas/images/f2c3f4b1-13a0-44da-8b56-ebedbc937856/pumpkin-organics-kindersnack-bluey-linsen-stangen-pizza-style-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Bluey Linsen Stangen Pizza Style ab 3 Jahren pumpkin organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763627566/assets/pas/images/7eb06aab-f4a3-4260-a445-90ba7c993425/pumpkin-organics-kindersnack-bluey-linsen-stangen-pizza-style-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,94 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (41,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 16,
+        "ratingValue": 4.8125
+      },
+      "self": "/p/d/3115090/pumpkin-organics-kindersnack-bluey-linsen-stangen-pizza-style-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Bluey Linsen Stangen Pizza Style ab 3..., 30 g",
+        "tileHeadlineLong": "Kindersnack Bluey Linsen Stangen Pizza Style ab 3..., 30 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8125,
+        "ratingCount": 16
+      }
+    }
+  },
+  {
+    "gtin": 4260654785746,
+    "dan": 1598917,
+    "brandName": "KoRo",
+    "title": "Linsenchips mit Meersalz, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Linsenchips mit Meersalz, 100 g; Preis: 2,45 €; Grundpreis: 0,1 kg (24,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1598917,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260654785746,
+      "images": [
+        {
+          "alt": "Linsenchips mit Meersalz KoRo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759266923/assets/pas/images/73c0d529-7801-4a5c-baed-cde3252ec9f8/koro-linsenchips-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (22,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (24,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 39,
+        "ratingValue": 4.359
+      },
+      "self": "/p/d/1598917/koro-linsenchips-mit-meersalz",
+      "title": {
+        "tileHeadline": "Linsenchips mit Meersalz, 100 g",
+        "tileHeadlineLong": "Linsenchips mit Meersalz, 100 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.359,
+        "ratingCount": 39
+      }
+    }
+  },
+  {
+    "gtin": 4260526595442,
+    "dan": 3133341,
+    "brandName": "pumpkin organics",
+    "title": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten, 100 g; Preis: 1,25 €; Grundpreis: 0,1 kg (12,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 3133341,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260526595442,
+      "images": [
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775086067/assets/pas/images/0e75518e-0352-4e02-a825-6b559043dd5c/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        },
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775086086/assets/pas/images/55692fcc-cd0d-4865-a362-5691137ef85b/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        },
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324796/assets/pas/images/28c238c4-77c9-4268-a70c-cd05f63a67df/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        },
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324785/assets/pas/images/34437aee-14dc-48bc-917e-43f7c9d1553e/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        },
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324805/assets/pas/images/ac82cffc-7b14-44c0-9183-2bd0e23c23da/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        },
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324835/assets/pas/images/63239758-2f7a-4289-b189-16856ebd786c/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        },
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324826/assets/pas/images/734aaa62-10c7-47fd-9fca-5144c96600f6/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        },
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324844/assets/pas/images/543811a4-fc16-4e81-9939-8116cec90d3c/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        },
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324853/assets/pas/images/63925f3d-c546-4a47-a557-adda08813bcf/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        },
+        {
+          "alt": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli & Banane ab 8 Monaten pumpkin organics",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324820/assets/pas/images/89b7434f-8ecb-467a-a139-7eb34b2a2184/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (11,68 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (12,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 4.8889
+      },
+      "self": "/p/d/3133341/pumpkin-organics-quetschie-suesskartoffel-karotte-linsen-brokkoli-und-banane-ab-8-monaten",
+      "title": {
+        "tileHeadline": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli..., 100 g",
+        "tileHeadlineLong": "Quetschie Süßkartoffel, Karotte, Linsen, Brokkoli..., 100 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8889,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 4066447600636,
+    "dan": 1323162,
+    "brandName": "dmBio",
+    "title": "Menü Dinkelspaghetti mit Linsenbolognese, ab dem 12.Monat, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Menü Dinkelspaghetti mit Linsenbolognese, ab dem 12.Monat, 250 g; Rechtliche Kategorie: Beikost; Preis: 1,45 €; Grundpreis: 0,25 kg (5,80 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1323162,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447600636,
+      "images": [
+        {
+          "alt": "Menü Dinkelspaghetti mit Linsenbolognese, ab dem 12.Monat  dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483832/assets/pas/images/54657bf1-2526-4677-90d7-d23c6fa6c3db/dmbio-menue-dinkelspaghetti-mit-linsenbolognese-ab-dem-12-monat"
+        },
+        {
+          "alt": "Menü Dinkelspaghetti mit Linsenbolognese, ab dem 12.Monat  dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483832/assets/pas/images/740bd6af-fd72-4f2f-8d9e-99403de6339e/dmbio-menue-dinkelspaghetti-mit-linsenbolognese-ab-dem-12-monat"
+        },
+        {
+          "alt": "Menü Dinkelspaghetti mit Linsenbolognese, ab dem 12.Monat  dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484050/assets/pas/images/590d64fc-85f1-4d99-b380-62d2b4445b57/dmbio-menue-dinkelspaghetti-mit-linsenbolognese-ab-dem-12-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (5,42 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (5,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.7558
+      },
+      "self": "/p/d/1323162/dmbio-menue-dinkelspaghetti-mit-linsenbolognese-ab-dem-12-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Dinkelspaghetti mit Linsenbolognese, ab dem..., 250 g",
+        "tileHeadlineLong": "Menü Dinkelspaghetti mit Linsenbolognese, ab dem..., 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7558,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4032254789888,
+    "dan": 3086673,
+    "brandName": "Green Petfood",
+    "title": "Trockenfutter Hund mit roten Linsen, veggie, 10 kg",
+    "tileData": {
+      "a11yLabel": "Marke: Green Petfood; Produktname: Trockenfutter Hund mit roten Linsen, veggie, 10 kg; Rechtliche Kategorie: Alleinfuttermittel; Preis: 39,95 €; Grundpreis: 10 kg (4,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Green Petfood"
+      },
+      "dan": 3086673,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4032254789888,
+      "images": [
+        {
+          "alt": "Trockenfutter Hund mit roten Linsen, veggie Green Petfood",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754953140/assets/pas/images/91fe7b1e-8b55-4af0-b1d2-af7245246012/green-petfood-trockenfutter-hund-mit-roten-linsen-veggie"
+        },
+        {
+          "alt": "Trockenfutter Hund mit roten Linsen, veggie Green Petfood",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754953141/assets/pas/images/843c767e-2e71-43a4-a302-46f346e0d7a4/green-petfood-trockenfutter-hund-mit-roten-linsen-veggie"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "37,34 €"
+          }
+        },
+        "tileInfos": [
+          "10 kg (3,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "39,95 €"
+          }
+        },
+        "tileInfos": [
+          "10 kg (4,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/3086673/green-petfood-trockenfutter-hund-mit-roten-linsen-veggie",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Trockenfutter Hund mit roten Linsen, veggie, 10 kg",
+        "tileHeadlineLong": "Trockenfutter Hund mit roten Linsen, veggie, 10 kg"
+      },
+      "trackingData": {
+        "brand": "Green Petfood",
+        "categories": [
+          "Trockenfutter Hund"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 39.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4019339646113,
+    "dan": 1625854,
+    "brandName": "Davert",
+    "title": "Fertiggericht, Noodle Cup mit Linsen Bolognese, 65 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Fertiggericht, Noodle Cup mit Linsen Bolognese, 65 g; Preis: 1,85 €; Grundpreis: 0,065 kg (28,46 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1625854,
+      "gtin": 4019339646113,
+      "images": [
+        {
+          "alt": "Fertiggericht, Noodle Cup mit Linsen Bolognese Davert",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442546/assets/pas/images/3e58d877-4135-40da-86b7-b5d57ef15b83/davert-fertiggericht-noodle-cup-mit-linsen-bolognese"
+        },
+        {
+          "alt": "Fertiggericht, Noodle Cup mit Linsen Bolognese Davert",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442695/assets/pas/images/0d621edd-0336-4acb-a940-9e4e8c0adb8c/davert-fertiggericht-noodle-cup-mit-linsen-bolognese"
+        },
+        {
+          "alt": "Fertiggericht, Noodle Cup mit Linsen Bolognese Davert",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442794/assets/pas/images/cff5960b-2920-4ec2-84cc-f89391371e03/davert-fertiggericht-noodle-cup-mit-linsen-bolognese"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 kg (26,60 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 kg (28,46 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 3.0098
+      },
+      "self": "/p/d/1625854/davert-fertiggericht-noodle-cup-mit-linsen-bolognese",
+      "title": {
+        "tileHeadline": "Fertiggericht, Noodle Cup mit Linsen Bolognese, 65 g",
+        "tileHeadlineLong": "Fertiggericht, Noodle Cup mit Linsen Bolognese, 65 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Schnelle Gerichte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0098,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4260527087274,
+    "dan": 3106118,
+    "brandName": "pumpkin organics",
+    "title": "Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g; Preis: 3,15 €; Grundpreis: 0,34 kg (9,26 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 3106118,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260527087274,
+      "images": [
+        {
+          "alt": "Sauce Bluey Linsen Bolognese ab 3 Jahren pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763077061/assets/pas/images/f58ab788-ad53-4703-af68-ef6cd3876b26/pumpkin-organics-sauce-bluey-linsen-bolognese-ab-3-jahren"
+        },
+        {
+          "alt": "Sauce Bluey Linsen Bolognese ab 3 Jahren pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763077034/assets/pas/images/a30ed832-e92e-4a50-9306-0fb6719bb75c/pumpkin-organics-sauce-bluey-linsen-bolognese-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (8,65 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (9,26 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3106118/pumpkin-organics-sauce-bluey-linsen-bolognese-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g",
+        "tileHeadlineLong": "Sauce Bluey Linsen Bolognese ab 3 Jahren, 340 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4260526592564,
+    "dan": 1583269,
+    "brandName": "pumpkin organics",
+    "title": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr, 20 g; Preis: 0,75 €; Grundpreis: 0,02 kg (37,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 1583269,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260526592564,
+      "images": [
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493477/assets/pas/images/d9a9f5ce-238a-41b6-b4e4-28f1f186a34d/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493069/assets/pas/images/e46b5d83-2d2a-4fc3-ac03-9f47a3236a4d/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493421/assets/pas/images/7430defb-f1e2-4b73-bc5c-c70cad4f6679/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493473/assets/pas/images/b4dbe2f7-6a09-4dc3-ba79-28b72e916f85/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493066/assets/pas/images/f8796c4a-9d59-49b6-9289-df805bac6ddb/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493423/assets/pas/images/e3eee798-bdae-4023-8186-05b8bbe95460/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493423/assets/pas/images/3cb06d2e-20db-4fdd-9b26-682a3ce79c47/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493476/assets/pas/images/b9fb31ea-bfde-48e5-8ddf-4e92d4355a5c/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493479/assets/pas/images/458f0431-5a7f-4b2f-a69a-80953ce2847d/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Linsen Puffs mit Tomate, Karotte & Kräutern ab 1 Jahr pumpkin organics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493422/assets/pas/images/ed49e3e8-468c-4873-8b07-a02471691b3c/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,70 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (35,05 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (37,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.5333
+      },
+      "self": "/p/d/1583269/pumpkin-organics-kindersnack-linsen-puffs-mit-tomate-karotte-und-kraeutern-ab-1-jahr",
+      "title": {
+        "tileHeadline": "Kindersnack Linsen Puffs mit Tomate, Karotte &..., 20 g",
+        "tileHeadlineLong": "Kindersnack Linsen Puffs mit Tomate, Karotte &..., 20 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5333,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 4066447892444,
+    "dan": 1491032,
+    "brandName": "dmBio",
+    "title": "Eintopf, Linsen mit Kartoffeln, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Eintopf, Linsen mit Kartoffeln, 400 g; Preis: 1,35 €; Grundpreis: 0,4 kg (3,38 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1491032,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447892444,
+      "images": [
+        {
+          "alt": "Eintopf, Linsen mit Kartoffeln dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760131088/assets/pas/images/002a545c-0337-489f-b332-a05daf3eaaf1/dmbio-eintopf-linsen-mit-kartoffeln"
+        },
+        {
+          "alt": "Eintopf, Linsen mit Kartoffeln dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760131077/assets/pas/images/9e3c32f9-bb11-4246-a47d-8010f17c84bd/dmbio-eintopf-linsen-mit-kartoffeln"
+        },
+        {
+          "alt": "Eintopf, Linsen mit Kartoffeln dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760131083/assets/pas/images/733a0a84-6f13-400e-b4f0-50f886aa66dd/dmbio-eintopf-linsen-mit-kartoffeln"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (3,16 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (3,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 231,
+        "ratingValue": 4.3247
+      },
+      "self": "/p/d/1491032/dmbio-eintopf-linsen-mit-kartoffeln",
+      "title": {
+        "tileHeadline": "Eintopf, Linsen mit Kartoffeln, 400 g",
+        "tileHeadlineLong": "Eintopf, Linsen mit Kartoffeln, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3247,
+        "ratingCount": 231
+      }
+    }
+  },
+  {
+    "gtin": 4066447208344,
+    "dan": 1556326,
+    "brandName": "dmBio",
+    "title": "Menü Ratatouille mit Kartoffeln & Linsen ab dem 8. Monat, 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Menü Ratatouille mit Kartoffeln & Linsen ab dem 8. Monat, 220 g; Rechtliche Kategorie: Beikost; Preis: 1,35 €; Grundpreis: 0,22 kg (6,14 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1556326,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447208344,
+      "images": [
+        {
+          "alt": "Menü Ratatouille mit Kartoffeln & Linsen ab dem 8. Monat dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747477721/assets/pas/images/c1a97b06-7933-446e-bed5-180111226140/dmbio-menue-ratatouille-mit-kartoffeln-und-linsen-ab-dem-8-monat"
+        },
+        {
+          "alt": "Menü Ratatouille mit Kartoffeln & Linsen ab dem 8. Monat dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478023/assets/pas/images/27ce9985-10b8-4ceb-bccf-6b7e188844d7/dmbio-menue-ratatouille-mit-kartoffeln-und-linsen-ab-dem-8-monat"
+        },
+        {
+          "alt": "Menü Ratatouille mit Kartoffeln & Linsen ab dem 8. Monat dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747477842/assets/pas/images/29257305-4e82-4275-9d9c-decba0adfa2d/dmbio-menue-ratatouille-mit-kartoffeln-und-linsen-ab-dem-8-monat"
+        },
+        {
+          "alt": "Menü Ratatouille mit Kartoffeln & Linsen ab dem 8. Monat dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478022/assets/pas/images/b10e3f8d-c555-456a-84d3-bd637b7f716d/dmbio-menue-ratatouille-mit-kartoffeln-und-linsen-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (5,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (6,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.4419
+      },
+      "self": "/p/d/1556326/dmbio-menue-ratatouille-mit-kartoffeln-und-linsen-ab-dem-8-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Ratatouille mit Kartoffeln & Linsen ab dem..., 220 g",
+        "tileHeadlineLong": "Menü Ratatouille mit Kartoffeln & Linsen ab dem..., 220 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4419,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4260526967157,
+    "dan": 3115144,
+    "brandName": "pumpkin organics",
+    "title": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren, 20 g; Preis: 1,15 €; Grundpreis: 0,02 kg (57,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 3115144,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260526967157,
+      "images": [
+        {
+          "alt": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763627578/assets/pas/images/8b341849-a697-445c-a30f-1c4c200449e8/pumpkin-organics-kindersnack-bluey-linsen-puffs-kaese-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren pumpkin organics",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763627565/assets/pas/images/e6312979-3eca-49d8-b9f1-24dcdec8b7cd/pumpkin-organics-kindersnack-bluey-linsen-puffs-kaese-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (53,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (57,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3115144/pumpkin-organics-kindersnack-bluey-linsen-puffs-kaese-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren, 20 g",
+        "tileHeadlineLong": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren, 20 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4056631004272,
+    "dan": 3118220,
+    "brandName": "Milupa",
+    "title": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten, 20 g",
+    "tileData": {
+      "dan": 3118220,
+      "gtin": 4056631004272,
+      "self": "/p/d/3118220/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+      "brand": {
+        "name": "Milupa"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,02 kg (57,50 € je 1 kg)"
+        ]
+      },
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten, 20 g",
+        "tileHeadlineLong": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten, 20 g"
+      },
+      "images": [
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765526004/assets/pas/images/82dfa776-26b7-4af1-8ec9-ec17ecf8b623/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F8F9"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765525991/assets/pas/images/1bc385c3-ac0b-407a-8c06-b36ff34b8161/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F6F1"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770763757/assets/pas/images/a228e5c6-d988-428d-b288-4e4f7ce2c96b/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F7F9"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770763737/assets/pas/images/be37b55e-3ea1-42f9-a2f6-4cebf1705f6b/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770763743/assets/pas/images/3bc6b16b-8613-48e8-a416-7f66df2a0dce/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F6F1"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771283797/assets/pas/images/ee53b6fc-8569-44b5-9023-470dd11e3e4b/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F5F1"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770763750/assets/pas/images/7fea0475-0d88-49c0-af53-a44de77c3fcc/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F9F9"
+        }
+      ],
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 5.0
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,02 kg (53,74 € je 1 kg)"
+        ]
+      },
+      "a11yLabel": "Marke: Milupa; Produktname: Babysnack Knusperräder Linse-Mais ab 10+ Monaten, 20 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,02 kg (57,50 € je 1 kg); Nur Online Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "Milupa",
+        "price": 1.15,
+        "currency": "EUR",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 6
+      }
+    }
+  }
+]

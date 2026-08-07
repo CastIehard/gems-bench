@@ -1,0 +1,3037 @@
+[
+  {
+    "gtin": 3574661563398,
+    "dan": 2322377,
+    "brandName": "OGX",
+    "title": "Haaröl Coconut Miracle Oil, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: OGX; Produktname: Haaröl Coconut Miracle Oil, 100 ml; Preis: 7,95 €; Grundpreis: 0,1 l (79,50 € je 1 l)",
+      "brand": {
+        "name": "OGX"
+      },
+      "dan": 2322377,
+      "gtin": 3574661563398,
+      "images": [
+        {
+          "alt": "Haaröl Coconut Miracle Oil OGX",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855587/assets/pas/images/f69d44fd-6400-42b1-ae23-90c5fd007e34/ogx-haaroel-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Miracle Oil OGX",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752586443/assets/pas/images/583f7a10-99a8-4bce-b2ff-15ae71e8027a/ogx-haaroel-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Miracle Oil OGX",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755555192/assets/pas/images/af097031-bec5-4e75-8d1a-ba8609629b3e/ogx-haaroel-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Miracle Oil OGX",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755555180/assets/pas/images/c86bba51-0277-44b8-8dbc-7e72ce47e3f9/ogx-haaroel-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Miracle Oil OGX",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755815737/assets/pas/images/ab4b4f69-b2a0-4e41-8940-af60e9b46d3d/ogx-haaroel-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Miracle Oil OGX",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755815728/assets/pas/images/6d06de1a-d713-4be9-af41-b856957b22f4/ogx-haaroel-coconut-miracle-oil"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (66,81 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (79,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.4769
+      },
+      "self": "/p/d/2322377/ogx-haaroel-coconut-miracle-oil",
+      "title": {
+        "tileHeadline": "Haaröl Coconut Miracle Oil, 100 ml",
+        "tileHeadlineLong": "Haaröl Coconut Miracle Oil, 100 ml"
+      },
+      "trackingData": {
+        "brand": "OGX",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4769,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 8006530075718,
+    "dan": 3115710,
+    "brandName": "Herbal Essences",
+    "title": "Haaröl Arganöl Elixir, Tiefenreparatur, 95 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Herbal Essences; Produktname: Haaröl Arganöl Elixir, Tiefenreparatur, 95 ml; Preis: 5,95 €; Grundpreis: 0,095 l (62,63 € je 1 l)",
+      "brand": {
+        "name": "Herbal Essences"
+      },
+      "dan": 3115710,
+      "gtin": 8006530075718,
+      "images": [
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098347/assets/pas/images/1d1d4b1c-b549-402b-a045-23f95dcf976f/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098355/assets/pas/images/fcebf229-78b4-447b-adcf-e76b59960da8/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098309/assets/pas/images/2f6756cc-e412-41c4-830e-861177963159/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098322/assets/pas/images/f424ceeb-33fb-488b-9cac-f6893b95f802/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098335/assets/pas/images/073a23f7-c905-400b-b55d-3d0cc6fe3f54/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773963055/assets/pas/images/f39db0fa-826a-4738-bfdf-5e60d44c704d/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768961543/assets/pas/images/fb37d55a-3e72-447c-a378-666c8e840791/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771548309/assets/pas/images/8611c78e-bb14-4a0e-9384-9d02a75f79d4/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771548296/assets/pas/images/9cf148f8-2585-4a8a-bea0-11005d08ad23/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779412243/assets/pas/images/4e52ba8f-bcbe-42a5-b58a-9de2e786ab1b/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        },
+        {
+          "alt": "Haaröl Arganöl Elixir, Tiefenreparatur Herbal Essences",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098362/assets/pas/images/08885d17-b7f8-4bd8-afac-d9f0e1db8ade/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,095 l (52,63 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,095 l (62,63 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 89,
+        "ratingValue": 4.7753
+      },
+      "self": "/p/d/3115710/herbal-essences-haaroel-arganoel-elixir-tiefenreparatur",
+      "title": {
+        "tileHeadline": "Haaröl Arganöl Elixir, Tiefenreparatur, 95 ml",
+        "tileHeadlineLong": "Haaröl Arganöl Elixir, Tiefenreparatur, 95 ml"
+      },
+      "trackingData": {
+        "brand": "Herbal Essences",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7753,
+        "ratingCount": 89
+      }
+    }
+  },
+  {
+    "gtin": 3574661563312,
+    "dan": 1442285,
+    "brandName": "OGX",
+    "title": "Haaröl Moroccan Argan Penetrating Oil, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: OGX; Produktname: Haaröl Moroccan Argan Penetrating Oil, 100 ml; Preis: 7,95 €; Grundpreis: 0,1 l (79,50 € je 1 l)",
+      "brand": {
+        "name": "OGX"
+      },
+      "dan": 1442285,
+      "gtin": 3574661563312,
+      "images": [
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412126/assets/pas/images/b3d18b86-a337-407f-a9b9-b8bc917ee155/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411989/assets/pas/images/aea1f64d-44ed-4f37-a49a-6d388734cc4b/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412007/assets/pas/images/c8d227d0-31e1-4cc0-a129-cf0926db9ecc/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412002/assets/pas/images/4e387ed5-4788-4e96-bc2b-dd7bb4ff07c2/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411990/assets/pas/images/1453a67f-f213-4ffe-8c19-2cf8ba72deea/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784073690/assets/pas/images/261973cc-ca29-4991-9418-fbec7edfd94e/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784073700/assets/pas/images/69d9fa3e-8212-4555-a3a1-3278e0a0139b/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784073670/assets/pas/images/b8a59ece-5c66-422d-bd57-9d96f5a8cf19/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784073654/assets/pas/images/fa3956d9-e96c-420b-b717-d0aca819b7b4/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784073685/assets/pas/images/f8dcb47e-0721-477d-a758-f657e0196109/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784073647/assets/pas/images/9ad8685f-c057-4ebc-b019-afd590a8d2aa/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784073678/assets/pas/images/0434282d-27ae-4e15-a4e2-988e56dbe393/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784073663/assets/pas/images/39cf2630-4f76-4793-90bb-c27ed21380ce/ogx-haaroel-moroccan-argan-penetrating-oil"
+        },
+        {
+          "alt": "Haaröl Moroccan Argan Penetrating Oil OGX",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412125/assets/pas/images/c8abef92-df25-43db-b72f-22da6e9297c7/ogx-haaroel-moroccan-argan-penetrating-oil"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (66,81 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (79,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 272,
+        "ratingValue": 3.8162
+      },
+      "self": "/p/d/1442285/ogx-haaroel-moroccan-argan-penetrating-oil",
+      "title": {
+        "tileHeadline": "Haaröl Moroccan Argan Penetrating Oil, 100 ml",
+        "tileHeadlineLong": "Haaröl Moroccan Argan Penetrating Oil, 100 ml"
+      },
+      "trackingData": {
+        "brand": "OGX",
+        "categories": [
+          "Haaröl",
+          "Haarkur & Haarmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8162,
+        "ratingCount": 272
+      }
+    }
+  },
+  {
+    "gtin": 4063528101808,
+    "dan": 3110122,
+    "brandName": "DEJAN GARZ",
+    "title": "Haaröl Violet Hair Oil The Britney, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: DEJAN GARZ; Produktname: Haaröl Violet Hair Oil The Britney, 50 ml; Preis: 8,95 €; Grundpreis: 0,05 l (179,00 € je 1 l)",
+      "brand": {
+        "name": "DEJAN GARZ"
+      },
+      "dan": 3110122,
+      "gtin": 4063528101808,
+      "images": [
+        {
+          "alt": "Haaröl Violet Hair Oil The Britney DEJAN GARZ",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774485894/assets/pas/images/94d0b768-4cd6-4441-b6e4-9c71c9d54b2c/dejan-garz-haaroel-violet-hair-oil-the-britney"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (150,42 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (179,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 326,
+        "ratingValue": 4.6902
+      },
+      "self": "/p/d/3110122/dejan-garz-haaroel-violet-hair-oil-the-britney",
+      "title": {
+        "tileHeadline": "Haaröl Violet Hair Oil The Britney, 50 ml",
+        "tileHeadlineLong": "Haaröl Violet Hair Oil The Britney, 50 ml"
+      },
+      "trackingData": {
+        "brand": "DEJAN GARZ",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6902,
+        "ratingCount": 326
+      }
+    }
+  },
+  {
+    "gtin": 4001638093620,
+    "dan": 1342502,
+    "brandName": "WELEDA",
+    "title": "Haaröl Rosmarin, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: Haaröl Rosmarin, 50 ml; Preis: 11,95 €; Grundpreis: 0,05 l (239,00 € je 1 l)",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 1342502,
+      "gtin": 4001638093620,
+      "images": [
+        {
+          "alt": "Haaröl Rosmarin WELEDA",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760371642/assets/pas/images/3eb68096-a94e-43b1-a398-6bfb2bb3ef23/weleda-haaroel-rosmarin"
+        },
+        {
+          "alt": "Haaröl Rosmarin WELEDA",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760371632/assets/pas/images/5b529895-6ff9-4b0a-868e-b73e213a2ffd/weleda-haaroel-rosmarin"
+        },
+        {
+          "alt": "Haaröl Rosmarin WELEDA",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760371624/assets/pas/images/3dee6ae3-6365-493c-93f7-af697180db2d/weleda-haaroel-rosmarin"
+        },
+        {
+          "alt": "Haaröl Rosmarin WELEDA",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760371654/assets/pas/images/8541162c-cec6-4914-8763-6ad779093e65/weleda-haaroel-rosmarin"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (200,84 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (239,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.0882
+      },
+      "self": "/p/d/1342502/weleda-haaroel-rosmarin",
+      "title": {
+        "tileHeadline": "Haaröl Rosmarin, 50 ml",
+        "tileHeadlineLong": "Haaröl Rosmarin, 50 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 11.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0882,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4066447983791,
+    "dan": 3130747,
+    "brandName": "Balea med",
+    "title": "Haaröl Ultra Sensitive 3in1, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea med; Produktname: Haaröl Ultra Sensitive 3in1, 100 ml; Preis: 3,45 €; Grundpreis: 0,1 l (34,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea med"
+      },
+      "dan": 3130747,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447983791,
+      "images": [
+        {
+          "alt": "Haaröl Ultra Sensitive 3in1 Balea med",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387125/assets/pas/images/bb1b196b-7e92-4e64-9793-e6525e1ec211/balea-med-haaroel-ultra-sensitive-3in1"
+        },
+        {
+          "alt": "Haaröl Ultra Sensitive 3in1 Balea med",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387122/assets/pas/images/3e92c28b-20e4-485c-9218-9290535ae989/balea-med-haaroel-ultra-sensitive-3in1"
+        },
+        {
+          "alt": "Haaröl Ultra Sensitive 3in1 Balea med",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387129/assets/pas/images/ade499a7-bed4-4b17-b9da-067db4471569/balea-med-haaroel-ultra-sensitive-3in1"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (28,99 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (34,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 25,
+        "ratingValue": 3.88
+      },
+      "self": "/p/d/3130747/balea-med-haaroel-ultra-sensitive-3in1",
+      "title": {
+        "tileHeadline": "Haaröl Ultra Sensitive 3in1, 100 ml",
+        "tileHeadlineLong": "Haaröl Ultra Sensitive 3in1, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Balea med",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.88,
+        "ratingCount": 25
+      }
+    }
+  },
+  {
+    "gtin": 8006530274746,
+    "dan": 3130932,
+    "brandName": "PANTENE PRO-V",
+    "title": "Haaröl LOVE Edition Repair & Care, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PANTENE PRO-V; Produktname: Haaröl LOVE Edition Repair & Care, 100 ml; Preis: 5,95 €; Grundpreis: 0,1 l (59,50 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "PANTENE PRO-V"
+      },
+      "dan": 3130932,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 8006530274746,
+      "images": [
+        {
+          "alt": "Haaröl LOVE Edition Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773962707/assets/pas/images/9da30830-7a1d-4702-8296-91c6706c0e62/pantene-pro-v-haaroel-love-edition-repair-und-care"
+        },
+        {
+          "alt": "Haaröl LOVE Edition Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773962715/assets/pas/images/923aa298-43d8-44d4-b89d-571d08eaa07f/pantene-pro-v-haaroel-love-edition-repair-und-care"
+        },
+        {
+          "alt": "Haaröl LOVE Edition Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775774104/assets/pas/images/a602a574-e88f-4422-8b71-347124e61011/pantene-pro-v-haaroel-love-edition-repair-und-care"
+        },
+        {
+          "alt": "Haaröl LOVE Edition Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776209405/assets/pas/images/bff61ffa-49b8-4613-a723-c4eb70f3923c/pantene-pro-v-haaroel-love-edition-repair-und-care"
+        },
+        {
+          "alt": "Haaröl LOVE Edition Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776209421/assets/pas/images/46030d62-fec2-4c79-b125-97f365058693/pantene-pro-v-haaroel-love-edition-repair-und-care"
+        },
+        {
+          "alt": "Haaröl LOVE Edition Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778363302/assets/pas/images/c1096693-639c-48f1-960e-095088a99e8e/pantene-pro-v-haaroel-love-edition-repair-und-care"
+        },
+        {
+          "alt": "Haaröl LOVE Edition Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778363317/assets/pas/images/ae6965ed-d386-422e-96de-f17c8d9cd76a/pantene-pro-v-haaroel-love-edition-repair-und-care"
+        },
+        {
+          "alt": "Haaröl LOVE Edition Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778363332/assets/pas/images/bcd7f880-729a-4e7c-884e-e65b12a69159/pantene-pro-v-haaroel-love-edition-repair-und-care"
+        },
+        {
+          "alt": "Haaröl LOVE Edition Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778363343/assets/pas/images/80e196f5-a555-406a-b927-63e2d3f19f18/pantene-pro-v-haaroel-love-edition-repair-und-care"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (50,00 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (59,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.7458
+      },
+      "self": "/p/d/3130932/pantene-pro-v-haaroel-love-edition-repair-und-care",
+      "title": {
+        "tileHeadline": "Haaröl LOVE Edition Repair & Care, 100 ml",
+        "tileHeadlineLong": "Haaröl LOVE Edition Repair & Care, 100 ml"
+      },
+      "trackingData": {
+        "brand": "PANTENE PRO-V",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7458,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 8001841890012,
+    "dan": 1612745,
+    "brandName": "PANTENE PRO-V",
+    "title": "Haaröl Coconut Infused Oil, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PANTENE PRO-V; Produktname: Haaröl Coconut Infused Oil, 100 ml; Preis: 4,95 €; Grundpreis: 0,1 l (49,50 € je 1 l)",
+      "brand": {
+        "name": "PANTENE PRO-V"
+      },
+      "dan": 1612745,
+      "gtin": 8001841890012,
+      "images": [
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755118344/assets/pas/images/eb3c7384-6a77-45cf-98a7-90d3deea88fa/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755118328/assets/pas/images/aa5c98dc-b5ee-4492-adf7-b9901a1b3806/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768265496/assets/pas/images/b608c71a-5bbf-4791-b9b8-117332fafe27/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755118346/assets/pas/images/e871694c-90f3-4322-a8d0-fba4838e1a2f/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777416473/assets/pas/images/753713ef-a370-4f53-9a54-b29d773949a9/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747514069/assets/pas/images/ed2cd554-e01d-4ed6-a45b-e051f5f37b7b/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747514835/assets/pas/images/87d18261-1d6a-4edc-86c4-db7c2a0a1147/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747871284/assets/pas/images/bcd98b1a-2963-470d-ad09-df4a5f2bb370/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768265541/assets/pas/images/7d9e6b5d-6d20-4d45-bb3a-498a3cfdef8d/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747871303/assets/pas/images/94d7b1b3-d4f1-4f2f-9c2d-b08784c5ae35/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747871251/assets/pas/images/f573ddd1-6610-473a-80c4-0d3ad441f0d1/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747871294/assets/pas/images/39f7962c-e761-47b6-923a-4374c338e7d6/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768265509/assets/pas/images/af9b5dc9-a497-4f9a-a536-c0b6100c3255/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768265518/assets/pas/images/c4eb782c-ddd0-4a8b-b9ed-aae80d75af47/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768265526/assets/pas/images/2c598812-62f0-4f16-9387-9aac10ad1810/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755118333/assets/pas/images/ab61d962-e7d2-425a-95fa-68bef8a2f44c/pantene-pro-v-haaroel-coconut-infused-oil"
+        },
+        {
+          "alt": "Haaröl Coconut Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768265535/assets/pas/images/80dc9b9d-0744-41ec-93b0-8ec78b071bfb/pantene-pro-v-haaroel-coconut-infused-oil"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (41,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (49,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 191,
+        "ratingValue": 4.6283
+      },
+      "self": "/p/d/1612745/pantene-pro-v-haaroel-coconut-infused-oil",
+      "title": {
+        "tileHeadline": "Haaröl Coconut Infused Oil, 100 ml",
+        "tileHeadlineLong": "Haaröl Coconut Infused Oil, 100 ml"
+      },
+      "trackingData": {
+        "brand": "PANTENE PRO-V",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6283,
+        "ratingCount": 191
+      }
+    }
+  },
+  {
+    "gtin": 3600523734955,
+    "dan": 1621820,
+    "brandName": "L'ORÉAL PARiS ELVITAL",
+    "title": "Haaröl Öl Magique, für alle Haartypen, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: L'ORÉAL PARiS ELVITAL; Produktname: Haaröl Öl Magique, für alle Haartypen, 100 ml; Preis: 6,95 €; Grundpreis: 0,1 l (69,50 € je 1 l)",
+      "brand": {
+        "name": "L'ORÉAL PARiS ELVITAL"
+      },
+      "dan": 1621820,
+      "gtin": 3600523734955,
+      "images": [
+        {
+          "alt": "Haaröl Öl Magique, für alle Haartypen L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747414488/assets/pas/images/14573ff0-7a16-4f59-bc69-c9e309fc0edc/l-oreal-paris-elvital-haaroel-oel-magique-fuer-alle-haartypen"
+        },
+        {
+          "alt": "Haaröl Öl Magique, für alle Haartypen L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747414487/assets/pas/images/7dcb4385-f819-477e-8be6-5765805cf4db/l-oreal-paris-elvital-haaroel-oel-magique-fuer-alle-haartypen"
+        },
+        {
+          "alt": "Haaröl Öl Magique, für alle Haartypen L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747414230/assets/pas/images/77ca6176-f53d-4ba8-b858-eaa5ddcc48b6/l-oreal-paris-elvital-haaroel-oel-magique-fuer-alle-haartypen"
+        },
+        {
+          "alt": "Haaröl Öl Magique, für alle Haartypen L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747414483/assets/pas/images/1590d5c4-1f53-48d4-8ef7-5646f4341e8a/l-oreal-paris-elvital-haaroel-oel-magique-fuer-alle-haartypen"
+        },
+        {
+          "alt": "Haaröl Öl Magique, für alle Haartypen L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747414230/assets/pas/images/80697c96-a53d-49fe-88fc-f9ce499ef908/l-oreal-paris-elvital-haaroel-oel-magique-fuer-alle-haartypen"
+        },
+        {
+          "alt": "Haaröl Öl Magique, für alle Haartypen L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747414487/assets/pas/images/42823c5b-7344-4593-9f99-bbece00757be/l-oreal-paris-elvital-haaroel-oel-magique-fuer-alle-haartypen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (58,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (69,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 318,
+        "ratingValue": 4.695
+      },
+      "self": "/p/d/1621820/l-oreal-paris-elvital-haaroel-oel-magique-fuer-alle-haartypen",
+      "title": {
+        "tileHeadline": "Haaröl Öl Magique, für alle Haartypen, 100 ml",
+        "tileHeadlineLong": "Haaröl Öl Magique, für alle Haartypen, 100 ml"
+      },
+      "trackingData": {
+        "brand": "L'ORÉAL PARiS ELVITAL",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.695,
+        "ratingCount": 318
+      }
+    }
+  },
+  {
+    "gtin": 4015100813791,
+    "dan": 1534910,
+    "brandName": "Schwarzkopf GLISS",
+    "title": "Haaröl Tägliches Öl Elixier, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf GLISS; Produktname: Haaröl Tägliches Öl Elixier, 75 ml; Preis: 5,95 €; Grundpreis: 0,075 l (79,33 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf GLISS"
+      },
+      "dan": 1534910,
+      "gtin": 4015100813791,
+      "images": [
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755072009/assets/pas/images/e6f36e32-1285-4954-ad42-04907340468c/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768430148/assets/pas/images/da720610-af3f-4c5a-9cb0-889fa7afd382/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768430153/assets/pas/images/2ee02595-e377-4148-8c76-9eee630872e7/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441731/assets/pas/images/fe42e82e-1a26-489c-90d8-4c8bd75772b5/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441508/assets/pas/images/74417ec7-097d-4890-b6b9-c435d89caf31/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441511/assets/pas/images/a488049b-2d63-4cb3-a27b-2d0e7ee92984/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441464/assets/pas/images/4b05e381-df8d-49d1-b14a-f939511575c2/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441458/assets/pas/images/5ce2c535-5fcb-46f3-829b-baf59a7af12d/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441465/assets/pas/images/9f8a8d28-f62b-4073-808e-704bb134e5ee/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441511/assets/pas/images/2e65e117-754f-4017-a16e-cb85edebcddf/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441459/assets/pas/images/d8b89723-3bc3-4c0a-afea-9c285577cb77/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        },
+        {
+          "alt": "Haaröl Tägliches Öl Elixier  Schwarzkopf GLISS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441726/assets/pas/images/52087288-95a8-4242-bb56-2aeb209fe4d8/schwarzkopf-gliss-haaroel-taegliches-oel-elixier"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (66,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (79,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 153,
+        "ratingValue": 4.549
+      },
+      "self": "/p/d/1534910/schwarzkopf-gliss-haaroel-taegliches-oel-elixier",
+      "title": {
+        "tileHeadline": "Haaröl Tägliches Öl Elixier, 75 ml",
+        "tileHeadlineLong": "Haaröl Tägliches Öl Elixier, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf GLISS",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.549,
+        "ratingCount": 153
+      }
+    }
+  },
+  {
+    "gtin": 4066447241679,
+    "dan": 1539520,
+    "brandName": "LANGHAARMÄDCHEN",
+    "title": "Haaröl Intense Repair, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LANGHAARMÄDCHEN; Produktname: Haaröl Intense Repair, 150 ml; Preis: 4,95 €; Grundpreis: 0,15 l (33,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "LANGHAARMÄDCHEN"
+      },
+      "dan": 1539520,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447241679,
+      "images": [
+        {
+          "alt": "Haaröl Intense Repair LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755022644/assets/pas/images/f45cbe48-3c69-44ee-af7a-8a4fcc7e04a3/langhaarmaedchen-haaroel-intense-repair"
+        },
+        {
+          "alt": "Haaröl Intense Repair LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755022642/assets/pas/images/a7dafd08-e618-415d-b51a-32daf2719a22/langhaarmaedchen-haaroel-intense-repair"
+        },
+        {
+          "alt": "Haaröl Intense Repair LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478644/assets/pas/images/97f9da9f-6ec7-4bb1-b2ad-ccc6e9bc2254/langhaarmaedchen-haaroel-intense-repair"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (27,73 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (33,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 357,
+        "ratingValue": 4.5322
+      },
+      "self": "/p/d/1539520/langhaarmaedchen-haaroel-intense-repair",
+      "title": {
+        "tileHeadline": "Haaröl Intense Repair, 150 ml",
+        "tileHeadlineLong": "Haaröl Intense Repair, 150 ml"
+      },
+      "trackingData": {
+        "brand": "LANGHAARMÄDCHEN",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5322,
+        "ratingCount": 357
+      }
+    }
+  },
+  {
+    "gtin": 4262391990513,
+    "dan": 3093558,
+    "brandName": "BALI CURLS",
+    "title": "Haaröl Bonding Oil, 30 ml",
+    "tileData": {
+      "a11yLabel": "Marke: BALI CURLS; Produktname: Haaröl Bonding Oil, 30 ml; Preis: 9,95 €; Grundpreis: 0,03 l (331,67 € je 1 l)",
+      "brand": {
+        "name": "BALI CURLS"
+      },
+      "dan": 3093558,
+      "gtin": 4262391990513,
+      "images": [
+        {
+          "alt": "Haaröl Bonding Oil BALI CURLS",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772058454/assets/pas/images/90dca543-0e78-41ae-b796-a8e13cc4db1e/bali-curls-haaroel-bonding-oil"
+        },
+        {
+          "alt": "Haaröl Bonding Oil BALI CURLS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772058464/assets/pas/images/6c07ab75-92ac-410f-9f83-a15ab7079578/bali-curls-haaroel-bonding-oil"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (278,71 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (331,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.5156
+      },
+      "self": "/p/d/3093558/bali-curls-haaroel-bonding-oil",
+      "title": {
+        "tileHeadline": "Haaröl Bonding Oil, 30 ml",
+        "tileHeadlineLong": "Haaröl Bonding Oil, 30 ml"
+      },
+      "trackingData": {
+        "brand": "BALI CURLS",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5231,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 3600523749188,
+    "dan": 1621825,
+    "brandName": "L'ORÉAL PARiS ELVITAL",
+    "title": "Haaröl Öl Magique Jojoba, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: L'ORÉAL PARiS ELVITAL; Produktname: Haaröl Öl Magique Jojoba, 100 ml; Preis: 6,95 €; Grundpreis: 0,1 l (69,50 € je 1 l)",
+      "brand": {
+        "name": "L'ORÉAL PARiS ELVITAL"
+      },
+      "dan": 1621825,
+      "gtin": 3600523749188,
+      "images": [
+        {
+          "alt": "Haaröl Öl Magique Jojoba L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747617752/assets/pas/images/355a4e5a-42c9-42af-82d5-9999d5147b4c/l-oreal-paris-elvital-haaroel-oel-magique-jojoba"
+        },
+        {
+          "alt": "Haaröl Öl Magique Jojoba L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747414349/assets/pas/images/ac725226-a332-4f9a-a666-d61a5fda3879/l-oreal-paris-elvital-haaroel-oel-magique-jojoba"
+        },
+        {
+          "alt": "Haaröl Öl Magique Jojoba L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747414097/assets/pas/images/f993d3a9-abdd-4478-b3be-59c2acdf5895/l-oreal-paris-elvital-haaroel-oel-magique-jojoba"
+        },
+        {
+          "alt": "Haaröl Öl Magique Jojoba L'ORÉAL PARiS ELVITAL",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747414137/assets/pas/images/fd7f0a3c-9a94-481f-be47-feb7d7877e63/l-oreal-paris-elvital-haaroel-oel-magique-jojoba"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (58,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (69,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 203,
+        "ratingValue": 4.6897
+      },
+      "self": "/p/d/1621825/l-oreal-paris-elvital-haaroel-oel-magique-jojoba",
+      "title": {
+        "tileHeadline": "Haaröl Öl Magique Jojoba, 100 ml",
+        "tileHeadlineLong": "Haaröl Öl Magique Jojoba, 100 ml"
+      },
+      "trackingData": {
+        "brand": "L'ORÉAL PARiS ELVITAL",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6897,
+        "ratingCount": 203
+      }
+    }
+  },
+  {
+    "gtin": 4063528104564,
+    "dan": 3124935,
+    "brandName": "NEQI",
+    "title": "Haaröl Diamond Glass, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NEQI; Produktname: Haaröl Diamond Glass, 50 ml; Preis: 12,95 €; Grundpreis: 0,05 l (259,00 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "NEQI"
+      },
+      "dan": 3124935,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4063528104564,
+      "images": [
+        {
+          "alt": "Haaröl Diamond Glass NEQI",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773965247/assets/pas/images/3b05baa2-6ded-4bed-a856-5bf41d7a50ec/neqi-haaroel-diamond-glass"
+        },
+        {
+          "alt": "Haaröl Diamond Glass NEQI",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773965259/assets/pas/images/cee375bc-769f-4f4c-9ea7-c2ee4c5e322b/neqi-haaroel-diamond-glass"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,88 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (217,65 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (259,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2,
+        "ratingValue": 3.5
+      },
+      "self": "/p/d/3124935/neqi-haaroel-diamond-glass",
+      "title": {
+        "tileHeadline": "Haaröl Diamond Glass, 50 ml",
+        "tileHeadlineLong": "Haaröl Diamond Glass, 50 ml"
+      },
+      "trackingData": {
+        "brand": "NEQI",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 12.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5,
+        "ratingCount": 2
+      }
+    }
+  },
+  {
+    "gtin": 4001638590839,
+    "dan": 3090516,
+    "brandName": "WELEDA",
+    "title": "Haaröl Hydro Shine, 30 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: Haaröl Hydro Shine, 30 ml; Preis: 9,95 €; Grundpreis: 0,03 l (331,67 € je 1 l)",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 3090516,
+      "gtin": 4001638590839,
+      "images": [
+        {
+          "alt": "Haaröl Hydro Shine WELEDA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781828416/assets/pas/images/d3bfb7dc-1603-488f-a5fe-6801c7f98e20/weleda-haaroel-hydro-shine"
+        },
+        {
+          "alt": "Haaröl Hydro Shine WELEDA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781828435/assets/pas/images/6b6570b6-5a64-4c0b-885b-874a5f7db3ff/weleda-haaroel-hydro-shine"
+        },
+        {
+          "alt": "Haaröl Hydro Shine WELEDA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781828423/assets/pas/images/7f49a7c9-ea4a-4476-8aba-e925ee6bf9d6/weleda-haaroel-hydro-shine"
+        },
+        {
+          "alt": "Haaröl Hydro Shine WELEDA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781828429/assets/pas/images/b31000cc-c3d0-43c7-9974-99bb89cc3c29/weleda-haaroel-hydro-shine"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (278,71 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (331,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 23,
+        "ratingValue": 3.9565
+      },
+      "self": "/p/d/3090516/weleda-haaroel-hydro-shine",
+      "title": {
+        "tileHeadline": "Haaröl Hydro Shine, 30 ml",
+        "tileHeadlineLong": "Haaröl Hydro Shine, 30 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9565,
+        "ratingCount": 23
+      }
+    }
+  },
+  {
+    "gtin": 4063528101792,
+    "dan": 3122180,
+    "brandName": "DEJAN GARZ",
+    "title": "Haaröl The Fairy, Light Oil, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: DEJAN GARZ; Produktname: Haaröl The Fairy, Light Oil, 50 ml; Preis: 8,95 €; Grundpreis: 0,05 l (179,00 € je 1 l)",
+      "brand": {
+        "name": "DEJAN GARZ"
+      },
+      "dan": 3122180,
+      "gtin": 4063528101792,
+      "images": [
+        {
+          "alt": "Haaröl The Fairy, Light Oil DEJAN GARZ",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775085740/assets/pas/images/2695b883-3c71-404e-b06e-7e88b6bfb1eb/dejan-garz-haaroel-the-fairy-light-oil"
+        },
+        {
+          "alt": "Haaröl The Fairy, Light Oil DEJAN GARZ",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775085839/assets/pas/images/492f472f-93e7-475f-a558-cd229cd95efa/dejan-garz-haaroel-the-fairy-light-oil"
+        },
+        {
+          "alt": "Haaröl The Fairy, Light Oil DEJAN GARZ",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775085783/assets/pas/images/f07d9fac-b5db-443a-ae27-243937e65494/dejan-garz-haaroel-the-fairy-light-oil"
+        },
+        {
+          "alt": "Haaröl The Fairy, Light Oil DEJAN GARZ",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774399477/assets/pas/images/aaef89ea-14b6-4fb2-b63f-d5deb4f74701/dejan-garz-haaroel-the-fairy-light-oil"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (150,42 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (179,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 3.0678
+      },
+      "self": "/p/d/3122180/dejan-garz-haaroel-the-fairy-light-oil",
+      "title": {
+        "tileHeadline": "Haaröl The Fairy, Light Oil, 50 ml",
+        "tileHeadlineLong": "Haaröl The Fairy, Light Oil, 50 ml"
+      },
+      "trackingData": {
+        "brand": "DEJAN GARZ",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.05,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 4063528107008,
+    "dan": 3133705,
+    "brandName": "DEJAN GARZ",
+    "title": "Haaröl Sensitive The Gentle, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: DEJAN GARZ; Produktname: Haaröl Sensitive The Gentle, 50 ml; Preis: 8,95 €; Grundpreis: 0,05 l (179,00 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "DEJAN GARZ"
+      },
+      "dan": 3133705,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4063528107008,
+      "images": [
+        {
+          "alt": "Haaröl Sensitive The Gentle DEJAN GARZ",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784079087/assets/pas/images/716ae811-86f2-4db7-8e33-b8b6ff50a11c/dejan-garz-haaroel-sensitive-the-gentle"
+        },
+        {
+          "alt": "Haaröl Sensitive The Gentle DEJAN GARZ",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784079154/assets/pas/images/37d424be-5afc-4e19-bd9f-b0bcb9ac6545/dejan-garz-haaroel-sensitive-the-gentle"
+        },
+        {
+          "alt": "Haaröl Sensitive The Gentle DEJAN GARZ",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784079210/assets/pas/images/e0822bee-d95e-4876-b129-9b94577b5552/dejan-garz-haaroel-sensitive-the-gentle"
+        },
+        {
+          "alt": "Haaröl Sensitive The Gentle DEJAN GARZ",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784079216/assets/pas/images/777993d5-7e48-42a7-9ec3-83fdca57c446/dejan-garz-haaroel-sensitive-the-gentle"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (150,42 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (179,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 7,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3133705/dejan-garz-haaroel-sensitive-the-gentle",
+      "title": {
+        "tileHeadline": "Haaröl Sensitive The Gentle, 50 ml",
+        "tileHeadlineLong": "Haaröl Sensitive The Gentle, 50 ml"
+      },
+      "trackingData": {
+        "brand": "DEJAN GARZ",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 7
+      }
+    }
+  },
+  {
+    "gtin": 3600542020053,
+    "dan": 1499815,
+    "brandName": "GARNIER FRUCTIS",
+    "title": "Haaröl Oil Repair Wunder-Öl, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: GARNIER FRUCTIS; Produktname: Haaröl Oil Repair Wunder-Öl, 150 ml; Preis: 5,95 €; Grundpreis: 0,15 l (39,67 € je 1 l)",
+      "brand": {
+        "name": "GARNIER FRUCTIS"
+      },
+      "dan": 1499815,
+      "gtin": 3600542020053,
+      "images": [
+        {
+          "alt": "Haaröl Oil Repair Wunder-Öl  GARNIER FRUCTIS",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419703/assets/pas/images/155e090c-abb1-471b-98c5-1eb11a2ea5c6/garnier-fructis-haaroel-oil-repair-wunder-oel"
+        },
+        {
+          "alt": "Haaröl Oil Repair Wunder-Öl  GARNIER FRUCTIS",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419552/assets/pas/images/ee497010-993a-47d6-9b43-315c32f60c98/garnier-fructis-haaroel-oil-repair-wunder-oel"
+        },
+        {
+          "alt": "Haaröl Oil Repair Wunder-Öl  GARNIER FRUCTIS",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419375/assets/pas/images/83bc29a5-dcf0-4770-bf2b-f6f36fbf57f9/garnier-fructis-haaroel-oil-repair-wunder-oel"
+        },
+        {
+          "alt": "Haaröl Oil Repair Wunder-Öl  GARNIER FRUCTIS",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419376/assets/pas/images/a39ec795-cd9e-4989-9ac2-901351d57d09/garnier-fructis-haaroel-oil-repair-wunder-oel"
+        },
+        {
+          "alt": "Haaröl Oil Repair Wunder-Öl  GARNIER FRUCTIS",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419370/assets/pas/images/c36f8783-fcdf-4ca3-9700-76c332202fb5/garnier-fructis-haaroel-oil-repair-wunder-oel"
+        },
+        {
+          "alt": "Haaröl Oil Repair Wunder-Öl  GARNIER FRUCTIS",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419552/assets/pas/images/ab31467f-3cba-4b26-a3ec-0d74fba66e71/garnier-fructis-haaroel-oil-repair-wunder-oel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (33,34 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (39,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 305,
+        "ratingValue": 4.6295
+      },
+      "self": "/p/d/1499815/garnier-fructis-haaroel-oil-repair-wunder-oel",
+      "title": {
+        "tileHeadline": "Haaröl Oil Repair Wunder-Öl, 150 ml",
+        "tileHeadlineLong": "Haaröl Oil Repair Wunder-Öl, 150 ml"
+      },
+      "trackingData": {
+        "brand": "GARNIER FRUCTIS",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6295,
+        "ratingCount": 305
+      }
+    }
+  },
+  {
+    "gtin": 4066447793291,
+    "dan": 1635760,
+    "brandName": "Balea PROFESSIONAL",
+    "title": "Haaröl Traumlocken, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea PROFESSIONAL; Produktname: Haaröl Traumlocken, 100 ml; Preis: 2,75 €; Grundpreis: 0,1 l (27,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea PROFESSIONAL"
+      },
+      "dan": 1635760,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447793291,
+      "images": [
+        {
+          "alt": "Haaröl Traumlocken Balea PROFESSIONAL",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763769574/assets/pas/images/e597d79d-667c-4ec7-9c6b-84c004053271/balea-professional-haaroel-traumlocken"
+        },
+        {
+          "alt": "Haaröl Traumlocken Balea PROFESSIONAL",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763769577/assets/pas/images/73ce35af-fca0-47a1-923c-28b823d9be92/balea-professional-haaroel-traumlocken"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (23,11 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (27,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 201,
+        "ratingValue": 2.9801
+      },
+      "self": "/p/d/1635760/balea-professional-haaroel-traumlocken",
+      "title": {
+        "tileHeadline": "Haaröl Traumlocken, 100 ml",
+        "tileHeadlineLong": "Haaröl Traumlocken, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Balea PROFESSIONAL",
+        "categories": [
+          "Locken Produkte",
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.9801,
+        "ratingCount": 201
+      }
+    }
+  },
+  {
+    "gtin": 4066447888218,
+    "dan": 1343983,
+    "brandName": "Balea PROFESSIONAL",
+    "title": "Haaröl Plex Care, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea PROFESSIONAL; Produktname: Haaröl Plex Care, 50 ml; Preis: 2,75 €; Grundpreis: 0,05 l (55,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea PROFESSIONAL"
+      },
+      "dan": 1343983,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447888218,
+      "images": [
+        {
+          "alt": "Haaröl Plex Care Balea PROFESSIONAL",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769036847/assets/pas/images/f323d1d1-2df7-423e-b1b4-d80be8d6f848/balea-professional-haaroel-plex-care"
+        },
+        {
+          "alt": "Haaröl Plex Care Balea PROFESSIONAL",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769036852/assets/pas/images/af74d5a3-d82f-4e6d-9c65-2ac13ebcea0b/balea-professional-haaroel-plex-care"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (46,22 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (55,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 228,
+        "ratingValue": 4.6579
+      },
+      "self": "/p/d/1343983/balea-professional-haaroel-plex-care",
+      "title": {
+        "tileHeadline": "Haaröl Plex Care, 50 ml",
+        "tileHeadlineLong": "Haaröl Plex Care, 50 ml"
+      },
+      "trackingData": {
+        "brand": "Balea PROFESSIONAL",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6579,
+        "ratingCount": 228
+      }
+    }
+  },
+  {
+    "gtin": 4066447888195,
+    "dan": 1700841,
+    "brandName": "Balea PROFESSIONAL",
+    "title": "Haaröl Oil Repair Intensiv, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea PROFESSIONAL; Produktname: Haaröl Oil Repair Intensiv, 100 ml; Preis: 2,75 €; Grundpreis: 0,1 l (27,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea PROFESSIONAL"
+      },
+      "dan": 1700841,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447888195,
+      "images": [
+        {
+          "alt": "Haaröl Oil Repair Intensiv Balea PROFESSIONAL",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762469115/assets/pas/images/ce2b8606-8882-44b3-807f-cc896fd7b3b2/balea-professional-haaroel-oil-repair-intensiv"
+        },
+        {
+          "alt": "Haaröl Oil Repair Intensiv Balea PROFESSIONAL",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762469112/assets/pas/images/ecf95fe0-12ee-427a-9c73-fc6ac6a34751/balea-professional-haaroel-oil-repair-intensiv"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (23,11 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (27,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 183,
+        "ratingValue": 4.3607
+      },
+      "self": "/p/d/1700841/balea-professional-haaroel-oil-repair-intensiv",
+      "title": {
+        "tileHeadline": "Haaröl Oil Repair Intensiv, 100 ml",
+        "tileHeadlineLong": "Haaröl Oil Repair Intensiv, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Balea PROFESSIONAL",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3641,
+        "ratingCount": 184
+      }
+    }
+  },
+  {
+    "gtin": 4084500084971,
+    "dan": 1395948,
+    "brandName": "PANTENE PRO-V",
+    "title": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PANTENE PRO-V; Produktname: Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care, 100 ml; Preis: 4,95 €; Grundpreis: 0,1 l (49,50 € je 1 l)",
+      "brand": {
+        "name": "PANTENE PRO-V"
+      },
+      "dan": 1395948,
+      "gtin": 4084500084971,
+      "images": [
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488613/assets/pas/images/15dd3809-f474-4d27-aafc-82e00e462280/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777411270/assets/pas/images/10e7e0aa-1b07-482b-8458-c06d821df73f/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488815/assets/pas/images/f1f6e063-3b9f-4fd2-879b-114b559f1739/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488816/assets/pas/images/fb9b5f18-2cd2-40b1-b930-f4db8394476c/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488850/assets/pas/images/12a01cc6-064d-4437-80b8-3631111c65fc/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488851/assets/pas/images/e4dab9b8-7408-4dfb-849f-da193928c910/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488817/assets/pas/images/78c94307-2a78-41b6-9e9d-83f1796f3aec/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488851/assets/pas/images/c0b682cc-b1d2-44ce-a813-f312b4532c94/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488617/assets/pas/images/1b645113-6513-4f56-a09e-93f249d7a71d/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488530/assets/pas/images/d0581ce6-c9cd-44bc-960e-422ee78e59bf/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        },
+        {
+          "alt": "Trocken Öl mit Vitamin E Keratin Protect Oil Repair & Care PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488619/assets/pas/images/2c89d02e-847d-46b3-92cf-adb25606813d/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (41,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (49,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 302,
+        "ratingValue": 4.6291
+      },
+      "self": "/p/d/1395948/pantene-pro-v-trocken-oel-mit-vitamin-e-keratin-protect-oil-repair-und-care",
+      "title": {
+        "tileHeadline": "Trocken Öl mit Vitamin E Keratin Protect Oil..., 100 ml",
+        "tileHeadlineLong": "Trocken Öl mit Vitamin E Keratin Protect Oil..., 100 ml"
+      },
+      "trackingData": {
+        "brand": "PANTENE PRO-V",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6291,
+        "ratingCount": 302
+      }
+    }
+  },
+  {
+    "gtin": 4262391991077,
+    "dan": 3111428,
+    "brandName": "BALI CURLS",
+    "title": "Haar-& Kopfhautöl Rosmarin, 30 ml",
+    "tileData": {
+      "a11yLabel": "Marke: BALI CURLS; Produktname: Haar-& Kopfhautöl Rosmarin, 30 ml; Preis: 9,95 €; Grundpreis: 0,03 l (331,67 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "BALI CURLS"
+      },
+      "dan": 3111428,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4262391991077,
+      "images": [
+        {
+          "alt": "Haar-& Kopfhautöl Rosmarin BALI CURLS",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772058546/assets/pas/images/af4bd948-6085-4d22-8a3d-2ca6dcdea018/bali-curls-haar-und-kopfhautoel-rosmarin"
+        },
+        {
+          "alt": "Haar-& Kopfhautöl Rosmarin BALI CURLS",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772058559/assets/pas/images/2dda1b42-ff21-4818-8205-02cf0bf32227/bali-curls-haar-und-kopfhautoel-rosmarin"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (278,71 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 l (331,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 4.875
+      },
+      "self": "/p/d/3111428/bali-curls-haar-und-kopfhautoel-rosmarin",
+      "title": {
+        "tileHeadline": "Haar-& Kopfhautöl Rosmarin, 30 ml",
+        "tileHeadlineLong": "Haar-& Kopfhautöl Rosmarin, 30 ml"
+      },
+      "trackingData": {
+        "brand": "BALI CURLS",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.875,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 4084500085350,
+    "dan": 1523357,
+    "brandName": "PANTENE PRO-V",
+    "title": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PANTENE PRO-V; Produktname: Haarkur Glatt & Seidig Arganöl Argan Infused Oil, 100 ml; Preis: 4,95 €; Grundpreis: 0,1 l (49,50 € je 1 l)",
+      "brand": {
+        "name": "PANTENE PRO-V"
+      },
+      "dan": 1523357,
+      "gtin": 4084500085350,
+      "images": [
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488822/assets/pas/images/bcbfef9f-73aa-4595-96c9-1263b3adea9a/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488533/assets/pas/images/672572f6-34ca-4a6f-b291-60f6b993fc4e/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778365572/assets/pas/images/a4776142-f1fd-4d5e-9456-4daad46c519f/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780525866/assets/pas/images/e19f289e-2087-4b5c-b0bf-5ab6eeb7d1e7/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488528/assets/pas/images/cc401b64-ace1-4613-a965-76122c3d8e3e/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488850/assets/pas/images/52fc4346-a039-45cb-a93d-bca1a7a83817/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488823/assets/pas/images/81597d4b-3e2b-47b9-8a98-30cb43f43dc1/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488616/assets/pas/images/2b6aaceb-87b6-4597-96a9-3b9d2f694f53/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488823/assets/pas/images/5748b22a-0388-47f7-b738-1105104878ce/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488855/assets/pas/images/38335542-d564-4432-8942-573fae498e39/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488623/assets/pas/images/c6d54dac-ce5d-4026-8695-86218d3c0108/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488815/assets/pas/images/d0f4ca6f-b166-4caf-9b1e-ae714de8e504/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488529/assets/pas/images/55998da7-2f7f-471c-b8b0-a01262a389f4/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488529/assets/pas/images/ecb1913d-2352-46fa-8e0c-e52240269c07/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488856/assets/pas/images/7af4afd8-0676-470c-9ae7-ae2844e88738/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        },
+        {
+          "alt": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil PANTENE PRO-V",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488622/assets/pas/images/46e6605f-b47b-480b-b1cc-1be2f57266e0/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (41,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (49,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 245,
+        "ratingValue": 4.6286
+      },
+      "self": "/p/d/1523357/pantene-pro-v-haarkur-glatt-und-seidig-arganoel-argan-infused-oil",
+      "title": {
+        "tileHeadline": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil, 100 ml",
+        "tileHeadlineLong": "Haarkur Glatt & Seidig Arganöl Argan Infused Oil, 100 ml"
+      },
+      "trackingData": {
+        "brand": "PANTENE PRO-V",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6286,
+        "ratingCount": 245
+      }
+    }
+  },
+  {
+    "gtin": 4063528086280,
+    "dan": 2972764,
+    "brandName": "NEQI",
+    "title": "Rosmarin Öl Smooth Strength, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NEQI; Produktname: Rosmarin Öl Smooth Strength, 75 ml; Preis: 9,95 €; Grundpreis: 0,075 l (132,67 € je 1 l)",
+      "brand": {
+        "name": "NEQI"
+      },
+      "dan": 2972764,
+      "gtin": 4063528086280,
+      "images": [
+        {
+          "alt": "Rosmarin Öl Smooth Strength NEQI",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474472/assets/pas/images/cca7560c-d2c4-482b-bce2-927aecfee9e8/neqi-rosmarin-oel-smooth-strength"
+        },
+        {
+          "alt": "Rosmarin Öl Smooth Strength NEQI",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474677/assets/pas/images/22eae509-d78b-4caf-a506-e6fe8348b6c0/neqi-rosmarin-oel-smooth-strength"
+        },
+        {
+          "alt": "Rosmarin Öl Smooth Strength NEQI",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474680/assets/pas/images/a163d60a-a10a-42c8-abec-c5d7096af067/neqi-rosmarin-oel-smooth-strength"
+        },
+        {
+          "alt": "Rosmarin Öl Smooth Strength NEQI",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474681/assets/pas/images/8664a1dc-4603-425c-852c-d9aabff1b254/neqi-rosmarin-oel-smooth-strength"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (111,49 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (132,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 189,
+        "ratingValue": 4.5397
+      },
+      "self": "/p/d/2972764/neqi-rosmarin-oel-smooth-strength",
+      "title": {
+        "tileHeadline": "Rosmarin Öl Smooth Strength, 75 ml",
+        "tileHeadlineLong": "Rosmarin Öl Smooth Strength, 75 ml"
+      },
+      "trackingData": {
+        "brand": "NEQI",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5397,
+        "ratingCount": 189
+      }
+    }
+  },
+  {
+    "gtin": 3600542567329,
+    "dan": 1324799,
+    "brandName": "Wahre Schätze",
+    "title": "Haarserum Honig reparierend, 115 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Wahre Schätze; Produktname: Haarserum Honig reparierend, 115 ml; Preis: 6,95 €; Grundpreis: 0,115 l (60,43 € je 1 l)",
+      "brand": {
+        "name": "Wahre Schätze"
+      },
+      "dan": 1324799,
+      "gtin": 3600542567329,
+      "images": [
+        {
+          "alt": "Haarserum Honig reparierend Wahre Schätze",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420591/assets/pas/images/a408169a-0778-4e4c-9b6b-f4a64e3eb11c/wahre-schaetze-haarserum-honig-reparierend"
+        },
+        {
+          "alt": "Haarserum Honig reparierend Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420587/assets/pas/images/0de2c8e7-5abb-4a41-aa3d-273ef62de8e7/wahre-schaetze-haarserum-honig-reparierend"
+        },
+        {
+          "alt": "Haarserum Honig reparierend Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420593/assets/pas/images/b77af659-3277-4891-96a1-5eb9bfccf2c1/wahre-schaetze-haarserum-honig-reparierend"
+        },
+        {
+          "alt": "Haarserum Honig reparierend Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420715/assets/pas/images/2b447ba2-5cbc-4115-b865-6ea671afd4fb/wahre-schaetze-haarserum-honig-reparierend"
+        },
+        {
+          "alt": "Haarserum Honig reparierend Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420697/assets/pas/images/8f11158d-56f8-4989-abc3-bcca5049f8ec/wahre-schaetze-haarserum-honig-reparierend"
+        },
+        {
+          "alt": "Haarserum Honig reparierend Wahre Schätze",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420699/assets/pas/images/04e77c55-17a9-428f-bf5a-f8a4dc90fa26/wahre-schaetze-haarserum-honig-reparierend"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 l (50,78 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 l (60,43 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2808,
+        "ratingValue": 4.3301
+      },
+      "self": "/p/d/1324799/wahre-schaetze-haarserum-honig-reparierend",
+      "title": {
+        "tileHeadline": "Haarserum Honig reparierend, 115 ml",
+        "tileHeadlineLong": "Haarserum Honig reparierend, 115 ml"
+      },
+      "trackingData": {
+        "brand": "Wahre Schätze",
+        "categories": [
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3301,
+        "ratingCount": 2808
+      }
+    }
+  },
+  {
+    "gtin": 3600542020060,
+    "dan": 1499834,
+    "brandName": "GARNIER FRUCTIS",
+    "title": "Hitzeschutzspray Wunderöl, stark geschädigtes Haar, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: GARNIER FRUCTIS; Produktname: Hitzeschutzspray Wunderöl, stark geschädigtes Haar, 150 ml; Preis: 5,95 €; Grundpreis: 0,15 l (39,67 € je 1 l)",
+      "brand": {
+        "name": "GARNIER FRUCTIS"
+      },
+      "dan": 1499834,
+      "gtin": 3600542020060,
+      "images": [
+        {
+          "alt": "Hitzeschutzspray Wunderöl, stark geschädigtes Haar GARNIER FRUCTIS",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419525/assets/pas/images/3e77ffff-439e-4abb-bd9c-379d8aab13e4/garnier-fructis-hitzeschutzspray-wunderoel-stark-geschaedigtes-haar"
+        },
+        {
+          "alt": "Hitzeschutzspray Wunderöl, stark geschädigtes Haar GARNIER FRUCTIS",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747419240/assets/pas/images/f73c5272-7d36-4cc9-a6b5-3013d158a75a/garnier-fructis-hitzeschutzspray-wunderoel-stark-geschaedigtes-haar"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (33,34 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (39,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 382,
+        "ratingValue": 4.7565
+      },
+      "self": "/p/d/1499834/garnier-fructis-hitzeschutzspray-wunderoel-stark-geschaedigtes-haar",
+      "title": {
+        "tileHeadline": "Hitzeschutzspray Wunderöl, stark geschädigtes Haar, 150 ml",
+        "tileHeadlineLong": "Hitzeschutzspray Wunderöl, stark geschädigtes Haar, 150 ml"
+      },
+      "trackingData": {
+        "brand": "GARNIER FRUCTIS",
+        "categories": [
+          "Hitzeschutzspray & Co.",
+          "Haaröl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7565,
+        "ratingCount": 382
+      }
+    }
+  },
+  {
+    "gtin": 4066447679007,
+    "dan": 1459196,
+    "brandName": "Balea PROFESSIONAL",
+    "title": "Kopfhautpflege Serum Sensitive, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea PROFESSIONAL; Produktname: Kopfhautpflege Serum Sensitive, 150 ml; Preis: 2,95 €; Grundpreis: 0,15 l (19,67 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea PROFESSIONAL"
+      },
+      "dan": 1459196,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447679007,
+      "images": [
+        {
+          "alt": "Kopfhautpflege Serum Sensitive Balea PROFESSIONAL",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774599632/assets/pas/images/3fc53c81-3d23-4018-86b5-46473e139eb4/balea-professional-kopfhautpflege-serum-sensitive"
+        },
+        {
+          "alt": "Kopfhautpflege Serum Sensitive Balea PROFESSIONAL",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484575/assets/pas/images/e2728517-b28d-4d9e-92f3-c9a9ca79aac8/balea-professional-kopfhautpflege-serum-sensitive"
+        },
+        {
+          "alt": "Kopfhautpflege Serum Sensitive Balea PROFESSIONAL",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484576/assets/pas/images/b00b7d62-1ad9-4c86-9bbc-29412d25bd5b/balea-professional-kopfhautpflege-serum-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (16,53 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (19,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 107,
+        "ratingValue": 4.1869
+      },
+      "self": "/p/d/1459196/balea-professional-kopfhautpflege-serum-sensitive",
+      "title": {
+        "tileHeadline": "Kopfhautpflege Serum Sensitive, 150 ml",
+        "tileHeadlineLong": "Kopfhautpflege Serum Sensitive, 150 ml"
+      },
+      "trackingData": {
+        "brand": "Balea PROFESSIONAL",
+        "categories": [
+          "Haaröl",
+          "Haarkur & Haarmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1869,
+        "ratingCount": 107
+      }
+    }
+  },
+  {
+    "gtin": 4063528078520,
+    "dan": 1455216,
+    "brandName": "NEQI",
+    "title": "Haarserum Opulent Oil, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NEQI; Produktname: Haarserum Opulent Oil, 75 ml; Preis: 7,95 €; Grundpreis: 0,075 l (106,00 € je 1 l)",
+      "brand": {
+        "name": "NEQI"
+      },
+      "dan": 1455216,
+      "gtin": 4063528078520,
+      "images": [
+        {
+          "alt": "Haarserum Opulent Oil  NEQI",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474494/assets/pas/images/b357a489-576a-4e81-afde-c477508edbbf/neqi-haarserum-opulent-oil"
+        },
+        {
+          "alt": "Haarserum Opulent Oil  NEQI",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474495/assets/pas/images/37b1bd28-9036-461a-8b98-1d7dccca774a/neqi-haarserum-opulent-oil"
+        },
+        {
+          "alt": "Haarserum Opulent Oil  NEQI",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474674/assets/pas/images/139d33bf-9a87-47c0-8b62-fce5b5aa61f2/neqi-haarserum-opulent-oil"
+        },
+        {
+          "alt": "Haarserum Opulent Oil  NEQI",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474464/assets/pas/images/99e1cbe0-8333-46c0-8440-5fa34b079a55/neqi-haarserum-opulent-oil"
+        },
+        {
+          "alt": "Haarserum Opulent Oil  NEQI",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474456/assets/pas/images/46bd1423-2b52-40a0-a7ca-ecf100b10922/neqi-haarserum-opulent-oil"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (89,08 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (106,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 172,
+        "ratingValue": 3.0988
+      },
+      "self": "/p/d/1455216/neqi-haarserum-opulent-oil",
+      "title": {
+        "tileHeadline": "Haarserum Opulent Oil, 75 ml",
+        "tileHeadlineLong": "Haarserum Opulent Oil, 75 ml"
+      },
+      "trackingData": {
+        "brand": "NEQI",
+        "categories": [
+          "Haaröl",
+          "Haarkur & Haarmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0988,
+        "ratingCount": 172
+      }
+    }
+  },
+  {
+    "gtin": 3574661685168,
+    "dan": 2170211,
+    "brandName": "OGX",
+    "title": "Haarkur Coconut Miracle Oil, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: OGX; Produktname: Haarkur Coconut Miracle Oil, 300 ml; Preis: 8,95 €; Grundpreis: 0,3 l (29,83 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "OGX"
+      },
+      "dan": 2170211,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 3574661685168,
+      "images": [
+        {
+          "alt": "Haarkur Coconut Miracle Oil OGX",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761552765/assets/pas/images/3308ca0b-34bb-4552-8a68-3d2e5c60ab2c/ogx-haarkur-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haarkur Coconut Miracle Oil OGX",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761552793/assets/pas/images/351f4369-6f6c-4128-991e-2bc148b939bf/ogx-haarkur-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haarkur Coconut Miracle Oil OGX",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761552774/assets/pas/images/1f16f2a9-62fb-4c74-825e-d67177b9b99b/ogx-haarkur-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haarkur Coconut Miracle Oil OGX",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761552785/assets/pas/images/d27638a7-b51d-4b86-8919-72548739d19c/ogx-haarkur-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haarkur Coconut Miracle Oil OGX",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763638551/assets/pas/images/8114a678-cae2-4da3-8255-180ce8a93b20/ogx-haarkur-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haarkur Coconut Miracle Oil OGX",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763638560/assets/pas/images/2504211e-6f67-4bc3-84bb-939f5d103dd5/ogx-haarkur-coconut-miracle-oil"
+        },
+        {
+          "alt": "Haarkur Coconut Miracle Oil OGX",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763638573/assets/pas/images/1bc11d97-0e98-496c-9855-799c6a6a2217/ogx-haarkur-coconut-miracle-oil"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (25,07 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (29,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 3,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/2170211/ogx-haarkur-coconut-miracle-oil",
+      "title": {
+        "tileHeadline": "Haarkur Coconut Miracle Oil, 300 ml",
+        "tileHeadlineLong": "Haarkur Coconut Miracle Oil, 300 ml"
+      },
+      "trackingData": {
+        "brand": "OGX",
+        "categories": [
+          "Haarkur & Haarmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 3
+      }
+    }
+  }
+]

@@ -1,0 +1,2885 @@
+[
+  {
+    "gtin": 4067796285260,
+    "dan": 3094530,
+    "brandName": "Dein Bestes",
+    "title": "Nassfutter Katze, Suppe mit Hühnerbrustfilet & Karotte, das Süppchen, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dein Bestes; Produktname: Nassfutter Katze, Suppe mit Hühnerbrustfilet & Karotte, das Süppchen, 50 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 0,55 €; Grundpreis: 0,05 kg (11,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Dein Bestes"
+      },
+      "dan": 3094530,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796285260,
+      "images": [
+        {
+          "alt": "Nassfutter Katze, Suppe mit Hühnerbrustfilet & Karotte, das Süppchen Dein Bestes",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765575970/assets/pas/images/58aef8e8-0c2c-451a-84f5-533787eea755/dein-bestes-nassfutter-katze-suppe-mit-huehnerbrustfilet-und-karotte-das-sueppchen"
+        },
+        {
+          "alt": "Nassfutter Katze, Suppe mit Hühnerbrustfilet & Karotte, das Süppchen Dein Bestes",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765575976/assets/pas/images/e6ae9341-66d8-4cff-a531-e16b51a54883/dein-bestes-nassfutter-katze-suppe-mit-huehnerbrustfilet-und-karotte-das-sueppchen"
+        },
+        {
+          "alt": "Nassfutter Katze, Suppe mit Hühnerbrustfilet & Karotte, das Süppchen Dein Bestes",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780446240/assets/pas/images/2bcb250f-52ba-4a43-b36f-bfc2f327d824/dein-bestes-nassfutter-katze-suppe-mit-huehnerbrustfilet-und-karotte-das-sueppchen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,51 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (10,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (11,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.661
+      },
+      "self": "/p/d/3094530/dein-bestes-nassfutter-katze-suppe-mit-huehnerbrustfilet-und-karotte-das-sueppchen",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze, Suppe mit Hühnerbrustfilet &..., 50 g",
+        "tileHeadlineLong": "Nassfutter Katze, Suppe mit Hühnerbrustfilet &..., 50 g"
+      },
+      "trackingData": {
+        "brand": "Dein Bestes",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.661,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4066447892505,
+    "dan": 1488557,
+    "brandName": "dmBio",
+    "title": "Eintopf, Kichererbsen mit Kokosmilch, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Eintopf, Kichererbsen mit Kokosmilch, 400 g; Preis: 2,25 €; Grundpreis: 0,4 kg (5,63 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1488557,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447892505,
+      "images": [
+        {
+          "alt": "Eintopf, Kichererbsen mit Kokosmilch dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764280520/assets/pas/images/4c083765-7b12-4af3-bf3c-34a8e89a8a1b/dmbio-eintopf-kichererbsen-mit-kokosmilch"
+        },
+        {
+          "alt": "Eintopf, Kichererbsen mit Kokosmilch dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764280526/assets/pas/images/c9d9a3f1-b46d-48cc-80c1-7042e45ad358/dmbio-eintopf-kichererbsen-mit-kokosmilch"
+        },
+        {
+          "alt": "Eintopf, Kichererbsen mit Kokosmilch dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764280532/assets/pas/images/bf5280ec-ddc9-4ec2-b59b-f8fa8a5aa698/dmbio-eintopf-kichererbsen-mit-kokosmilch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (5,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (5,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 187,
+        "ratingValue": 4.6684
+      },
+      "self": "/p/d/1488557/dmbio-eintopf-kichererbsen-mit-kokosmilch",
+      "title": {
+        "tileHeadline": "Eintopf, Kichererbsen mit Kokosmilch, 400 g",
+        "tileHeadlineLong": "Eintopf, Kichererbsen mit Kokosmilch, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6684,
+        "ratingCount": 187
+      }
+    }
+  },
+  {
+    "gtin": 4067796285352,
+    "dan": 3094797,
+    "brandName": "Dein Bestes",
+    "title": "Nassfutter Katze mit Pute, Brokkoli & Ei, das Süppchen, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dein Bestes; Produktname: Nassfutter Katze mit Pute, Brokkoli & Ei, das Süppchen, 50 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 0,55 €; Grundpreis: 0,05 kg (11,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Dein Bestes"
+      },
+      "dan": 3094797,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796285352,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Pute, Brokkoli & Ei, das Süppchen Dein Bestes",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767915581/assets/pas/images/b05d9afc-25bb-45e7-931c-0e5718a4d354/dein-bestes-nassfutter-katze-mit-pute-brokkoli-und-ei-das-sueppchen"
+        },
+        {
+          "alt": "Nassfutter Katze mit Pute, Brokkoli & Ei, das Süppchen Dein Bestes",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767915587/assets/pas/images/583dbb5b-0ecb-4699-8633-6be6ac644354/dein-bestes-nassfutter-katze-mit-pute-brokkoli-und-ei-das-sueppchen"
+        },
+        {
+          "alt": "Nassfutter Katze mit Pute, Brokkoli & Ei, das Süppchen Dein Bestes",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780445465/assets/pas/images/ce34f613-aac7-49b6-990f-3f72792ddf05/dein-bestes-nassfutter-katze-mit-pute-brokkoli-und-ei-das-sueppchen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,51 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (10,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (11,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.7736
+      },
+      "self": "/p/d/3094797/dein-bestes-nassfutter-katze-mit-pute-brokkoli-und-ei-das-sueppchen",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Pute, Brokkoli & Ei, das..., 50 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Pute, Brokkoli & Ei, das..., 50 g"
+      },
+      "trackingData": {
+        "brand": "Dein Bestes",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7736,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4260195540293,
+    "dan": 1616917,
+    "brandName": "Daily Soup",
+    "title": "Suppe, Süßkartoffel mit Kokos & Ingwer, cremig, 380 g",
+    "tileData": {
+      "a11yLabel": "Marke: Daily Soup; Produktname: Suppe, Süßkartoffel mit Kokos & Ingwer, cremig, 380 g; Preis: 2,95 €; Grundpreis: 0,38 kg (7,76 € je 1 kg)",
+      "brand": {
+        "name": "Daily Soup"
+      },
+      "dan": 1616917,
+      "gtin": 4260195540293,
+      "images": [
+        {
+          "alt": "Suppe, Süßkartoffel mit Kokos & Ingwer, cremig Daily Soup",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754953228/assets/pas/images/d0efdc66-9827-4421-844b-671c9ec96b85/daily-soup-suppe-suesskartoffel-mit-kokos-und-ingwer-cremig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,38 kg (7,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,38 kg (7,76 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 131,
+        "ratingValue": 4.5573
+      },
+      "self": "/p/d/1616917/daily-soup-suppe-suesskartoffel-mit-kokos-und-ingwer-cremig",
+      "title": {
+        "tileHeadline": "Suppe, Süßkartoffel mit Kokos & Ingwer, cremig, 380 g",
+        "tileHeadlineLong": "Suppe, Süßkartoffel mit Kokos & Ingwer, cremig, 380 g"
+      },
+      "trackingData": {
+        "brand": "Daily Soup",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5573,
+        "ratingCount": 131
+      }
+    }
+  },
+  {
+    "gtin": 4260195540286,
+    "dan": 1569880,
+    "brandName": "Daily Soup",
+    "title": "Suppe, rotes Linsen-Dal mit Kurkuma, 380 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Daily Soup; Produktname: Suppe, rotes Linsen-Dal mit Kurkuma, 380 ml; Preis: 2,95 €; Grundpreis: 0,38 l (7,76 € je 1 l)",
+      "brand": {
+        "name": "Daily Soup"
+      },
+      "dan": 1569880,
+      "gtin": 4260195540286,
+      "images": [
+        {
+          "alt": "Suppe, rotes Linsen-Dal mit Kurkuma Daily Soup",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491709/assets/pas/images/6604c199-247e-4f18-9d1e-0b25d31f26fa/daily-soup-suppe-rotes-linsen-dal-mit-kurkuma"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,38 l (7,25 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,38 l (7,76 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 155,
+        "ratingValue": 3.7355
+      },
+      "self": "/p/d/1569880/daily-soup-suppe-rotes-linsen-dal-mit-kurkuma",
+      "title": {
+        "tileHeadline": "Suppe, rotes Linsen-Dal mit Kurkuma, 380 ml",
+        "tileHeadlineLong": "Suppe, rotes Linsen-Dal mit Kurkuma, 380 ml"
+      },
+      "trackingData": {
+        "brand": "Daily Soup",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7355,
+        "ratingCount": 155
+      }
+    }
+  },
+  {
+    "gtin": 4260189683401,
+    "dan": 1712458,
+    "brandName": "TRESSBRÜDER",
+    "title": "Suppe, Kürbis Kokos, 375 ml",
+    "tileData": {
+      "a11yLabel": "Marke: TRESSBRÜDER; Produktname: Suppe, Kürbis Kokos, 375 ml; Preis: 2,95 €; Grundpreis: 0,375 l (7,87 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "TRESSBRÜDER"
+      },
+      "dan": 1712458,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260189683401,
+      "images": [
+        {
+          "alt": "Suppe, Kürbis Kokos TRESSBRÜDER",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759526657/assets/pas/images/5de3f948-1500-46a4-b6f1-82a641d28e99/tressbrueder-suppe-kuerbis-kokos"
+        },
+        {
+          "alt": "Suppe, Kürbis Kokos TRESSBRÜDER",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763640387/assets/pas/images/0477e7c4-f0dd-4486-a0df-3ea5ba46fbfa/tressbrueder-suppe-kuerbis-kokos"
+        },
+        {
+          "alt": "Suppe, Kürbis Kokos TRESSBRÜDER",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763640490/assets/pas/images/18700853-d4ef-42cc-940b-861ada460936/tressbrueder-suppe-kuerbis-kokos"
+        },
+        {
+          "alt": "Suppe, Kürbis Kokos TRESSBRÜDER",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763640269/assets/pas/images/8e107390-c439-4a16-97db-e1e2ff68d18c/tressbrueder-suppe-kuerbis-kokos"
+        },
+        {
+          "alt": "Suppe, Kürbis Kokos TRESSBRÜDER",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766100716/assets/pas/images/be480a21-9b5d-4340-8e94-f9ba8c0b1055/tressbrueder-suppe-kuerbis-kokos"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 l (7,36 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 l (7,87 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 20,
+        "ratingValue": 4.45
+      },
+      "self": "/p/d/1712458/tressbrueder-suppe-kuerbis-kokos",
+      "title": {
+        "tileHeadline": "Suppe, Kürbis Kokos, 375 ml",
+        "tileHeadlineLong": "Suppe, Kürbis Kokos, 375 ml"
+      },
+      "trackingData": {
+        "brand": "TRESSBRÜDER",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.45,
+        "ratingCount": 20
+      }
+    }
+  },
+  {
+    "gtin": 4062300462892,
+    "dan": 2979163,
+    "brandName": "HiPP",
+    "title": "Menü Tomatensuppe mit Hühnchen ab dem 8. Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Menü Tomatensuppe mit Hühnchen ab dem 8. Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,75 €; Grundpreis: 0,19 kg (9,21 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 2979163,
+      "gtin": 4062300462892,
+      "images": [
+        {
+          "alt": "Menü Tomatensuppe mit Hühnchen ab dem 8. Monat HiPP",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754992829/assets/pas/images/194bad9f-8391-4f4e-b611-1382259cc041/hipp-menue-tomatensuppe-mit-huehnchen-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (8,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (9,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.8462
+      },
+      "self": "/p/d/2979163/hipp-menue-tomatensuppe-mit-huehnchen-ab-dem-8-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Tomatensuppe mit Hühnchen ab dem 8. Monat, 190 g",
+        "tileHeadlineLong": "Menü Tomatensuppe mit Hühnchen ab dem 8. Monat, 190 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8462,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 4062300463042,
+    "dan": 3038121,
+    "brandName": "HiPP",
+    "title": "Menü Gemüsesuppe mit Pute ab dem 8. Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Menü Gemüsesuppe mit Pute ab dem 8. Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,75 €; Grundpreis: 0,19 kg (9,21 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 3038121,
+      "gtin": 4062300463042,
+      "images": [
+        {
+          "alt": "Menü Gemüsesuppe mit Pute ab dem 8. Monat HiPP",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473869/assets/pas/images/c2c34670-42da-44ab-8811-256e47a9da54/hipp-menue-gemuesesuppe-mit-pute-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (8,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (9,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3038121/hipp-menue-gemuesesuppe-mit-pute-ab-dem-8-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Gemüsesuppe mit Pute ab dem 8. Monat, 190 g",
+        "tileHeadlineLong": "Menü Gemüsesuppe mit Pute ab dem 8. Monat, 190 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 4066447892444,
+    "dan": 1491032,
+    "brandName": "dmBio",
+    "title": "Eintopf, Linsen mit Kartoffeln, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Eintopf, Linsen mit Kartoffeln, 400 g; Preis: 1,35 €; Grundpreis: 0,4 kg (3,38 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1491032,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447892444,
+      "images": [
+        {
+          "alt": "Eintopf, Linsen mit Kartoffeln dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760131088/assets/pas/images/002a545c-0337-489f-b332-a05daf3eaaf1/dmbio-eintopf-linsen-mit-kartoffeln"
+        },
+        {
+          "alt": "Eintopf, Linsen mit Kartoffeln dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760131077/assets/pas/images/9e3c32f9-bb11-4246-a47d-8010f17c84bd/dmbio-eintopf-linsen-mit-kartoffeln"
+        },
+        {
+          "alt": "Eintopf, Linsen mit Kartoffeln dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760131083/assets/pas/images/733a0a84-6f13-400e-b4f0-50f886aa66dd/dmbio-eintopf-linsen-mit-kartoffeln"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (3,16 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (3,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 231,
+        "ratingValue": 4.3247
+      },
+      "self": "/p/d/1491032/dmbio-eintopf-linsen-mit-kartoffeln",
+      "title": {
+        "tileHeadline": "Eintopf, Linsen mit Kartoffeln, 400 g",
+        "tileHeadlineLong": "Eintopf, Linsen mit Kartoffeln, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3247,
+        "ratingCount": 231
+      }
+    }
+  },
+  {
+    "gtin": 4260189680196,
+    "dan": 2978107,
+    "brandName": "TRESSBRÜDER",
+    "title": "4-Tage Suppenkur, vegan, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: TRESSBRÜDER; Produktname: 4-Tage Suppenkur, vegan, 1 St; Preis: 20,95 €; Grundpreis: 1 St (20,95 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "TRESSBRÜDER"
+      },
+      "dan": 2978107,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260189680196,
+      "images": [
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491696/assets/pas/images/60ad9f69-6d27-46a5-b2eb-1642165ea5e0/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491859/assets/pas/images/289569c5-b0eb-4dae-98c4-7a745fa4a749/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491711/assets/pas/images/68704220-1c8c-4da9-8e18-ff6c73d6ea28/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491471/assets/pas/images/a48c267d-b935-41f3-9bc2-c1d7475a0034/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491471/assets/pas/images/27348bc0-18cb-4d5d-811e-821485877954/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491861/assets/pas/images/220c8b65-f504-4019-bc2d-54b85ec920f7/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491472/assets/pas/images/65ee167f-9b00-4d83-a758-4433db52f786/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491887/assets/pas/images/64b50fbd-b678-4be9-831d-bfedc26ee54e/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491887/assets/pas/images/388472d7-9133-42e9-8032-6c7f8d0721bf/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491861/assets/pas/images/fdc641f8-7318-49ee-b65d-0b877d6feb44/tressbrueder-4-tage-suppenkur-vegan"
+        },
+        {
+          "alt": "4-Tage Suppenkur, vegan TRESSBRÜDER",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491471/assets/pas/images/03f622f9-49e8-4040-9d6a-1afb13d9f42c/tressbrueder-4-tage-suppenkur-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "19,58 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (19,58 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "20,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (20,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 4.5333
+      },
+      "self": "/p/d/2978107/tressbrueder-4-tage-suppenkur-vegan",
+      "title": {
+        "tileHeadline": "4-Tage Suppenkur, vegan, 1 St",
+        "tileHeadlineLong": "4-Tage Suppenkur, vegan, 1 St"
+      },
+      "trackingData": {
+        "brand": "TRESSBRÜDER",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 20.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5333,
+        "ratingCount": 30
+      }
+    }
+  },
+  {
+    "gtin": 4062300462922,
+    "dan": 3038142,
+    "brandName": "HiPP",
+    "title": "Menü Rote Beete Suppe mit Rind ab dem 8. Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Menü Rote Beete Suppe mit Rind ab dem 8. Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,75 €; Grundpreis: 0,19 kg (9,21 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 3038142,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4062300462922,
+      "images": [
+        {
+          "alt": "Menü Rote Beete Suppe mit Rind ab dem 8. Monat HiPP",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473868/assets/pas/images/3dbfa178-3bf1-46d5-9546-a710ea5b4270/hipp-menue-rote-beete-suppe-mit-rind-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (8,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (9,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 29,
+        "ratingValue": 4.6552
+      },
+      "self": "/p/d/3038142/hipp-menue-rote-beete-suppe-mit-rind-ab-dem-8-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Rote Beete Suppe mit Rind ab dem 8. Monat, 190 g",
+        "tileHeadlineLong": "Menü Rote Beete Suppe mit Rind ab dem 8. Monat, 190 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6552,
+        "ratingCount": 29
+      }
+    }
+  },
+  {
+    "gtin": 4260474327225,
+    "dan": 3070853,
+    "brandName": "Pets Deli",
+    "title": "Katzenleckerli Suppe, functional soup snack Multipack (6x40g), 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: Pets Deli; Produktname: Katzenleckerli Suppe, functional soup snack Multipack (6x40g), 240 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 6,25 €; Grundpreis: 0,24 kg (26,04 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Pets Deli"
+      },
+      "dan": 3070853,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260474327225,
+      "images": [
+        {
+          "alt": "Katzenleckerli Suppe, functional soup snack Multipack (6x40g) Pets Deli",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492909/assets/pas/images/612a356a-3b58-4098-b87d-da2ab2dfcbd9/pets-deli-katzenleckerli-suppe-functional-soup-snack-multipack-6x40g"
+        },
+        {
+          "alt": "Katzenleckerli Suppe, functional soup snack Multipack (6x40g) Pets Deli",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492488/assets/pas/images/d931fd42-e7c2-45bc-a2af-4c1fbfe62027/pets-deli-katzenleckerli-suppe-functional-soup-snack-multipack-6x40g"
+        },
+        {
+          "alt": "Katzenleckerli Suppe, functional soup snack Multipack (6x40g) Pets Deli",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492892/assets/pas/images/052c2b58-eef0-41bc-88ce-8a4ee109ac25/pets-deli-katzenleckerli-suppe-functional-soup-snack-multipack-6x40g"
+        },
+        {
+          "alt": "Katzenleckerli Suppe, functional soup snack Multipack (6x40g) Pets Deli",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492895/assets/pas/images/f7a4d6eb-b0d3-46b2-b59b-3c838262f507/pets-deli-katzenleckerli-suppe-functional-soup-snack-multipack-6x40g"
+        },
+        {
+          "alt": "Katzenleckerli Suppe, functional soup snack Multipack (6x40g) Pets Deli",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492896/assets/pas/images/a79bb8ca-96ed-4be2-88c4-6116e8bede01/pets-deli-katzenleckerli-suppe-functional-soup-snack-multipack-6x40g"
+        },
+        {
+          "alt": "Katzenleckerli Suppe, functional soup snack Multipack (6x40g) Pets Deli",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492904/assets/pas/images/e6536ff4-cb34-4680-a812-0d7e2722f3be/pets-deli-katzenleckerli-suppe-functional-soup-snack-multipack-6x40g"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (24,34 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (26,04 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 3,
+        "ratingValue": 3.6667
+      },
+      "self": "/p/d/3070853/pets-deli-katzenleckerli-suppe-functional-soup-snack-multipack-6x40g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Katzenleckerli Suppe, functional soup snack..., 240 g",
+        "tileHeadlineLong": "Katzenleckerli Suppe, functional soup snack..., 240 g"
+      },
+      "trackingData": {
+        "brand": "Pets Deli",
+        "categories": [
+          "Snacks für Katzen",
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6667,
+        "ratingCount": 3
+      }
+    }
+  },
+  {
+    "gtin": 4066447951301,
+    "dan": 3130244,
+    "brandName": "dmBio",
+    "title": "Gemüsesuppe Kinder Süßkartoffel & Gemüse mit Kokosmilch ab 12 Monaten, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gemüsesuppe Kinder Süßkartoffel & Gemüse mit Kokosmilch ab 12 Monaten, 250 g; Rechtliche Kategorie: Beikost; Preis: 1,45 €; Grundpreis: 0,25 kg (5,80 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3130244,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447951301,
+      "images": [
+        {
+          "alt": "Gemüsesuppe Kinder Süßkartoffel & Gemüse mit Kokosmilch ab 12 Monaten dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772935901/assets/pas/images/b4826c03-5907-4a24-be8c-9366f188040b/dmbio-gemuesesuppe-kinder-suesskartoffel-und-gemuese-mit-kokosmilch-ab-12-monaten"
+        },
+        {
+          "alt": "Gemüsesuppe Kinder Süßkartoffel & Gemüse mit Kokosmilch ab 12 Monaten dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772935906/assets/pas/images/8d9f0f4b-0b48-467d-b177-1cbc977a811a/dmbio-gemuesesuppe-kinder-suesskartoffel-und-gemuese-mit-kokosmilch-ab-12-monaten"
+        },
+        {
+          "alt": "Gemüsesuppe Kinder Süßkartoffel & Gemüse mit Kokosmilch ab 12 Monaten dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772935911/assets/pas/images/7cf1954a-44b6-49c1-814a-71edc90242d0/dmbio-gemuesesuppe-kinder-suesskartoffel-und-gemuese-mit-kokosmilch-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (5,42 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (5,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 24,
+        "ratingValue": 4.7917
+      },
+      "self": "/p/d/3130244/dmbio-gemuesesuppe-kinder-suesskartoffel-und-gemuese-mit-kokosmilch-ab-12-monaten",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Gemüsesuppe Kinder Süßkartoffel & Gemüse mit..., 250 g",
+        "tileHeadlineLong": "Gemüsesuppe Kinder Süßkartoffel & Gemüse mit..., 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7917,
+        "ratingCount": 24
+      }
+    }
+  },
+  {
+    "gtin": 4066447892468,
+    "dan": 1601912,
+    "brandName": "dmBio",
+    "title": "Eintopf, Erbsen mit Gemüse, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Eintopf, Erbsen mit Gemüse, 400 g; Preis: 1,35 €; Grundpreis: 0,4 kg (3,38 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1601912,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447892468,
+      "images": [
+        {
+          "alt": "Eintopf, Erbsen mit Gemüse dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761166695/assets/pas/images/3e45c92e-2b8a-40b9-9a3c-50dfa9d9dbac/dmbio-eintopf-erbsen-mit-gemuese"
+        },
+        {
+          "alt": "Eintopf, Erbsen mit Gemüse dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761166689/assets/pas/images/6e2eba66-44b0-4ea5-b410-0510a1602d13/dmbio-eintopf-erbsen-mit-gemuese"
+        },
+        {
+          "alt": "Eintopf, Erbsen mit Gemüse dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761166684/assets/pas/images/aa460651-89ac-451a-ac8a-9baf79f7813c/dmbio-eintopf-erbsen-mit-gemuese"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (3,16 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (3,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 169,
+        "ratingValue": 4.2781
+      },
+      "self": "/p/d/1601912/dmbio-eintopf-erbsen-mit-gemuese",
+      "title": {
+        "tileHeadline": "Eintopf, Erbsen mit Gemüse, 400 g",
+        "tileHeadlineLong": "Eintopf, Erbsen mit Gemüse, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2781,
+        "ratingCount": 169
+      }
+    }
+  },
+  {
+    "gtin": 8053323644163,
+    "dan": 1711534,
+    "brandName": "LaSelva",
+    "title": "Gelbe Tomatensuppe, 345 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Gelbe Tomatensuppe, 345 ml; Preis: 2,75 €; Grundpreis: 0,345 l (7,97 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 1711534,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8053323644163,
+      "images": [
+        {
+          "alt": "Gelbe Tomatensuppe LaSelva",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747523392/assets/pas/images/55f90796-f71f-435e-8bc8-b7c5aa890f9b/laselva-gelbe-tomatensuppe"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,345 l (7,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,345 l (7,97 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 13,
+        "ratingValue": 3.7692
+      },
+      "self": "/p/d/1711534/laselva-gelbe-tomatensuppe",
+      "title": {
+        "tileHeadline": "Gelbe Tomatensuppe, 345 ml",
+        "tileHeadlineLong": "Gelbe Tomatensuppe, 345 ml"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7692,
+        "ratingCount": 13
+      }
+    }
+  },
+  {
+    "gtin": 8053323644156,
+    "dan": 1711533,
+    "brandName": "LaSelva",
+    "title": "Tomatensuppe, 345 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Tomatensuppe, 345 ml; Preis: 2,75 €; Grundpreis: 0,345 l (7,97 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 1711533,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8053323644156,
+      "images": [
+        {
+          "alt": "Tomatensuppe LaSelva",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747523728/assets/pas/images/f20082c4-b413-4d0a-92df-5cad8ebb7af0/laselva-tomatensuppe"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,345 l (7,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,345 l (7,97 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 3.75
+      },
+      "self": "/p/d/1711533/laselva-tomatensuppe",
+      "title": {
+        "tileHeadline": "Tomatensuppe, 345 ml",
+        "tileHeadlineLong": "Tomatensuppe, 345 ml"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.75,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 4062300457683,
+    "dan": 2978897,
+    "brandName": "HiPP",
+    "title": "Menü Gemüse-Eintopf ab dem 12. Monat, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Menü Gemüse-Eintopf ab dem 12. Monat, 250 g; Rechtliche Kategorie: Beikost; Preis: 1,85 €; Grundpreis: 0,25 kg (7,40 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 2978897,
+      "gtin": 4062300457683,
+      "images": [
+        {
+          "alt": "Menü Gemüse-Eintopf ab dem 12. Monat HiPP",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763643388/assets/pas/images/a8bc7544-7ab9-4668-990d-7a36a1012db5/hipp-menue-gemuese-eintopf-ab-dem-12-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (6,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (7,40 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.8125
+      },
+      "self": "/p/d/2978897/hipp-menue-gemuese-eintopf-ab-dem-12-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Gemüse-Eintopf ab dem 12. Monat, 250 g",
+        "tileHeadlineLong": "Menü Gemüse-Eintopf ab dem 12. Monat, 250 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8125,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 7613036631952,
+    "dan": 1689846,
+    "brandName": "Felix",
+    "title": "Nassfutter Katze mit Rind, Huhn & Lamm, Original Soup Time Multipack (6x48 g), 288 g",
+    "tileData": {
+      "a11yLabel": "Marke: Felix; Produktname: Nassfutter Katze mit Rind, Huhn & Lamm, Original Soup Time Multipack (6x48 g), 288 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 2,25 €; Grundpreis: 0,288 kg (7,81 € je 1 kg)",
+      "brand": {
+        "name": "Felix"
+      },
+      "dan": 1689846,
+      "gtin": 7613036631952,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Rind, Huhn & Lamm, Original Soup Time Multipack (6x48 g) Felix",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767652390/assets/pas/images/f1c909ca-66e3-4c37-8b17-1f94501b3c17/felix-nassfutter-katze-mit-rind-huhn-und-lamm-original-soup-time-multipack-6x48-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Rind, Huhn & Lamm, Original Soup Time Multipack (6x48 g) Felix",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767652383/assets/pas/images/1b48f473-0049-4a4c-90ec-8a68e97d8d59/felix-nassfutter-katze-mit-rind-huhn-und-lamm-original-soup-time-multipack-6x48-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Rind, Huhn & Lamm, Original Soup Time Multipack (6x48 g) Felix",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767652360/assets/pas/images/49760383-4bfc-4b01-9091-b9df36d50483/felix-nassfutter-katze-mit-rind-huhn-und-lamm-original-soup-time-multipack-6x48-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Rind, Huhn & Lamm, Original Soup Time Multipack (6x48 g) Felix",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776297737/assets/pas/images/8eb085b9-c201-476a-86dd-4e4ca9a211f7/felix-nassfutter-katze-mit-rind-huhn-und-lamm-original-soup-time-multipack-6x48-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Rind, Huhn & Lamm, Original Soup Time Multipack (6x48 g) Felix",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767652398/assets/pas/images/3cd10284-1fd7-4afa-a50c-fce053828cdb/felix-nassfutter-katze-mit-rind-huhn-und-lamm-original-soup-time-multipack-6x48-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Rind, Huhn & Lamm, Original Soup Time Multipack (6x48 g) Felix",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767652368/assets/pas/images/e9de9a4a-a0f8-48d9-beaf-c8510510f620/felix-nassfutter-katze-mit-rind-huhn-und-lamm-original-soup-time-multipack-6x48-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Rind, Huhn & Lamm, Original Soup Time Multipack (6x48 g) Felix",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767652376/assets/pas/images/b14e0bae-0011-4f35-a3fd-75e5f7d10cf3/felix-nassfutter-katze-mit-rind-huhn-und-lamm-original-soup-time-multipack-6x48-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,288 kg (7,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,288 kg (7,81 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1936,
+        "ratingValue": 4.6658
+      },
+      "self": "/p/d/1689846/felix-nassfutter-katze-mit-rind-huhn-und-lamm-original-soup-time-multipack-6x48-g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Rind, Huhn & Lamm, Original..., 288 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Rind, Huhn & Lamm, Original..., 288 g"
+      },
+      "trackingData": {
+        "brand": "Felix",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6658,
+        "ratingCount": 1936
+      }
+    }
+  },
+  {
+    "gtin": 7613036631976,
+    "dan": 1433507,
+    "brandName": "Felix",
+    "title": "Nassfutter Katze mit Kabeljau, Thunfisch, Scholle, Original Soup Time, Multipack (6x48g), 288 g",
+    "tileData": {
+      "a11yLabel": "Marke: Felix; Produktname: Nassfutter Katze mit Kabeljau, Thunfisch, Scholle, Original Soup Time, Multipack (6x48g), 288 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 2,25 €; Grundpreis: 0,288 kg (7,81 € je 1 kg)",
+      "brand": {
+        "name": "Felix"
+      },
+      "dan": 1433507,
+      "gtin": 7613036631976,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Kabeljau, Thunfisch, Scholle, Original Soup Time, Multipack (6x48g) Felix",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767655593/assets/pas/images/bfa99351-8824-449b-a3f7-8646d0f96007/felix-nassfutter-katze-mit-kabeljau-thunfisch-scholle-original-soup-time-multipack-6x48g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Kabeljau, Thunfisch, Scholle, Original Soup Time, Multipack (6x48g) Felix",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776295804/assets/pas/images/71821de9-e335-4390-9c35-1a88007ebe9f/felix-nassfutter-katze-mit-kabeljau-thunfisch-scholle-original-soup-time-multipack-6x48g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Kabeljau, Thunfisch, Scholle, Original Soup Time, Multipack (6x48g) Felix",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767655569/assets/pas/images/78fb7229-e44b-4ed4-8400-3e26ca15ba07/felix-nassfutter-katze-mit-kabeljau-thunfisch-scholle-original-soup-time-multipack-6x48g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Kabeljau, Thunfisch, Scholle, Original Soup Time, Multipack (6x48g) Felix",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767655602/assets/pas/images/dd0cc50f-4b8b-4f92-a69c-6667154e1845/felix-nassfutter-katze-mit-kabeljau-thunfisch-scholle-original-soup-time-multipack-6x48g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Kabeljau, Thunfisch, Scholle, Original Soup Time, Multipack (6x48g) Felix",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767655561/assets/pas/images/8c2d7bc4-fb19-47a6-af91-32277c9a1941/felix-nassfutter-katze-mit-kabeljau-thunfisch-scholle-original-soup-time-multipack-6x48g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,288 kg (7,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,288 kg (7,81 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 772,
+        "ratingValue": 4.7163
+      },
+      "self": "/p/d/1433507/felix-nassfutter-katze-mit-kabeljau-thunfisch-scholle-original-soup-time-multipack-6x48g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Kabeljau, Thunfisch,..., 288 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Kabeljau, Thunfisch,..., 288 g"
+      },
+      "trackingData": {
+        "brand": "Felix",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7163,
+        "ratingCount": 772
+      }
+    }
+  },
+  {
+    "gtin": 8445291848467,
+    "dan": 3125180,
+    "brandName": "Purina Gourmet",
+    "title": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g), 270 g",
+    "tileData": {
+      "a11yLabel": "Marke: Purina Gourmet; Produktname: Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g), 270 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 3,25 €; Grundpreis: 0,27 kg (12,04 € je 1 kg)",
+      "brand": {
+        "name": "Purina Gourmet"
+      },
+      "dan": 3125180,
+      "gtin": 8445291848467,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248060/assets/pas/images/356683c5-0a49-4c42-87a3-aa0dd08add13/purina-gourmet-nassfutter-katze-mit-huhn-rind-und-truthahn-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248077/assets/pas/images/1b7dadb9-ffe4-49c0-8558-b8696bec146b/purina-gourmet-nassfutter-katze-mit-huhn-rind-und-truthahn-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248068/assets/pas/images/e1a6b597-b7aa-4a0f-9236-ee6d89e5aa03/purina-gourmet-nassfutter-katze-mit-huhn-rind-und-truthahn-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248053/assets/pas/images/8ff8b992-2a73-4e41-a2ed-c3f7ccdd887f/purina-gourmet-nassfutter-katze-mit-huhn-rind-und-truthahn-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248098/assets/pas/images/728e6060-8cae-4056-9240-7425c8d57069/purina-gourmet-nassfutter-katze-mit-huhn-rind-und-truthahn-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248085/assets/pas/images/e54d7ff2-96ea-45be-9c3c-7b461267af2f/purina-gourmet-nassfutter-katze-mit-huhn-rind-und-truthahn-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248108/assets/pas/images/cb396ad6-2251-4873-983c-09f47487182b/purina-gourmet-nassfutter-katze-mit-huhn-rind-und-truthahn-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248046/assets/pas/images/87500576-a259-4f98-9491-1799c9e8a373/purina-gourmet-nassfutter-katze-mit-huhn-rind-und-truthahn-soup-royale-multipack-6x45-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,27 kg (11,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,27 kg (12,04 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 19,
+        "ratingValue": 4.7368
+      },
+      "self": "/p/d/3125180/purina-gourmet-nassfutter-katze-mit-huhn-rind-und-truthahn-soup-royale-multipack-6x45-g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup..., 270 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Huhn, Rind & Truthahn, Soup..., 270 g"
+      },
+      "trackingData": {
+        "brand": "Purina Gourmet",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7368,
+        "ratingCount": 19
+      }
+    }
+  },
+  {
+    "gtin": 8445291848702,
+    "dan": 3125235,
+    "brandName": "Purina Gourmet",
+    "title": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g), 270 g",
+    "tileData": {
+      "a11yLabel": "Marke: Purina Gourmet; Produktname: Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g), 270 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 3,25 €; Grundpreis: 0,27 kg (12,04 € je 1 kg)",
+      "brand": {
+        "name": "Purina Gourmet"
+      },
+      "dan": 3125235,
+      "gtin": 8445291848702,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770029191/assets/pas/images/fd45a50b-9f81-45b2-a96f-d134fa4c7149/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770029237/assets/pas/images/a16ac2d5-16a1-444d-8711-0d3743ebc17d/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770029247/assets/pas/images/f6f5dcd6-f5f2-4157-9532-1ad17955978d/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770029221/assets/pas/images/1292320c-2b4f-4e08-ae12-4228bca55f92/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770029202/assets/pas/images/1434f3e0-76e5-4c15-98ad-1ce24dff5675/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770029256/assets/pas/images/5a96d3d7-2731-4d25-8b25-4e4902d9295d/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550152/assets/pas/images/ff2feb6e-97be-44e6-a5ae-4d95079910fa/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770029229/assets/pas/images/cac355af-9f3d-42c9-9f73-9652feab5f1f/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550125/assets/pas/images/966cdeb8-a08a-493f-bd1d-e8b42d1f086b/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550135/assets/pas/images/2af78934-fefa-41a7-b9f3-4336d96aee78/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550143/assets/pas/images/4ed42c0f-2ebf-48fb-9192-6c738fd1ed37/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs & Kabeljau oder Scholle, Soup Royale, Multipack (6x45 g) Purina Gourmet",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770029213/assets/pas/images/76fcaa6e-862c-4dab-a8b9-e2aa4a3f5142/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,27 kg (11,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,27 kg (12,04 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 13,
+        "ratingValue": 4.4615
+      },
+      "self": "/p/d/3125235/purina-gourmet-nassfutter-katze-mit-lachs-und-kabeljau-oder-scholle-soup-royale-multipack-6x45-g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Lachs & Kabeljau oder..., 270 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Lachs & Kabeljau oder..., 270 g"
+      },
+      "trackingData": {
+        "brand": "Purina Gourmet",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4615,
+        "ratingCount": 13
+      }
+    }
+  },
+  {
+    "gtin": 8445291547001,
+    "dan": 3125171,
+    "brandName": "PURINA ONE",
+    "title": "Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g), 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: PURINA ONE; Produktname: Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g), 300 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 4,45 €; Grundpreis: 0,3 kg (14,83 € je 1 kg)",
+      "brand": {
+        "name": "PURINA ONE"
+      },
+      "dan": 3125171,
+      "gtin": 8445291547001,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770076964/assets/pas/images/98a6fcd0-551c-40d3-880f-f5d044ab4c9c/purina-one-nassfutter-katze-mit-huhn-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770076986/assets/pas/images/0390239a-f598-4dc8-b961-63f83f4f47a8/purina-one-nassfutter-katze-mit-huhn-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770076978/assets/pas/images/defc42c1-8447-46cc-8875-b6673a01531f/purina-one-nassfutter-katze-mit-huhn-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770076954/assets/pas/images/2fb2fb62-8045-481c-9959-2f7c5f885a6a/purina-one-nassfutter-katze-mit-huhn-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773188700/assets/pas/images/f42308d7-1421-407d-9512-2d6641a4cf29/purina-one-nassfutter-katze-mit-huhn-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770077003/assets/pas/images/acc81aea-be93-452d-8fd1-f8012a7460cf/purina-one-nassfutter-katze-mit-huhn-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770076971/assets/pas/images/629f0bbc-1175-4a50-97d0-01b1bcb239b3/purina-one-nassfutter-katze-mit-huhn-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Huhn, hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770076995/assets/pas/images/f7f710ff-91ed-4e3a-b107-ddc4245133ad/purina-one-nassfutter-katze-mit-huhn-hydralife-multipack-6x50-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (13,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (14,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 351,
+        "ratingValue": 4.7009
+      },
+      "self": "/p/d/3125171/purina-one-nassfutter-katze-mit-huhn-hydralife-multipack-6x50-g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Huhn, hydralife Multipack..., 300 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Huhn, hydralife Multipack..., 300 g"
+      },
+      "trackingData": {
+        "brand": "PURINA ONE",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7009,
+        "ratingCount": 351
+      }
+    }
+  },
+  {
+    "gtin": 8853301003506,
+    "dan": 1626074,
+    "brandName": "Sheba",
+    "title": "Nassfutter Katze Soup mit Huhn, Multipack (4x40 g), 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sheba; Produktname: Nassfutter Katze Soup mit Huhn, Multipack (4x40 g), 160 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 2,65 €; Grundpreis: 0,16 kg (16,56 € je 1 kg)",
+      "brand": {
+        "name": "Sheba"
+      },
+      "dan": 1626074,
+      "gtin": 8853301003506,
+      "images": [
+        {
+          "alt": "Nassfutter Katze Soup mit Huhn, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771937229/assets/pas/images/6b185aba-fed6-4109-9e53-85d7639e39ae/sheba-nassfutter-katze-soup-mit-huhn-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze Soup mit Huhn, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771937186/assets/pas/images/77db914d-9ab0-476f-bf9e-b3ddc6f43274/sheba-nassfutter-katze-soup-mit-huhn-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze Soup mit Huhn, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771937209/assets/pas/images/5413b6e1-2ecc-44f7-8618-46896758bcaf/sheba-nassfutter-katze-soup-mit-huhn-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze Soup mit Huhn, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771937253/assets/pas/images/9d49b956-759e-4588-a473-ef676325d6d7/sheba-nassfutter-katze-soup-mit-huhn-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze Soup mit Huhn, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771937174/assets/pas/images/e81a1bdb-a97d-425c-892a-01bcf96cab22/sheba-nassfutter-katze-soup-mit-huhn-multipack-4x40-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (15,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (16,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.2892
+      },
+      "self": "/p/d/1626074/sheba-nassfutter-katze-soup-mit-huhn-multipack-4x40-g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze Soup mit Huhn, Multipack (4x40 g), 160 g",
+        "tileHeadlineLong": "Nassfutter Katze Soup mit Huhn, Multipack (4x40 g), 160 g"
+      },
+      "trackingData": {
+        "brand": "Sheba",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2892,
+        "ratingCount": 83
+      }
+    }
+  },
+  {
+    "gtin": 8445291547537,
+    "dan": 3125246,
+    "brandName": "PURINA ONE",
+    "title": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g), 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: PURINA ONE; Produktname: Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g), 300 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 4,45 €; Grundpreis: 0,3 kg (14,83 € je 1 kg)",
+      "brand": {
+        "name": "PURINA ONE"
+      },
+      "dan": 3125246,
+      "gtin": 8445291547537,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770071709/assets/pas/images/ab802cd5-599e-44f0-bd9b-9a8fc9d13956/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770071773/assets/pas/images/4acf2f8a-2339-4cb9-ba8a-d07b54538b5d/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770071747/assets/pas/images/96aa7fcc-aa66-4028-a79c-84807386ab01/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770071723/assets/pas/images/a0704428-e4de-44d0-ba29-c62fb02fec69/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770071731/assets/pas/images/5df82616-e487-4c0a-b414-f8e482435c1c/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770071740/assets/pas/images/86104d1b-cfa6-477b-8325-3411613551ee/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770071761/assets/pas/images/4455726b-31b4-4446-962f-a109ff63dbba/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770071717/assets/pas/images/c0755804-6a21-4e4f-a0ba-4093bc404625/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Hydralife Multipack (6x50 g) PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770071754/assets/pas/images/b1924e0d-25c1-4ec8-9b06-fe73af0d850b/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (13,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (14,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 233,
+        "ratingValue": 4.7983
+      },
+      "self": "/p/d/3125246/purina-one-nassfutter-katze-mit-lachs-hydralife-multipack-6x50-g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Lachs, Hydralife Multipack..., 300 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Lachs, Hydralife Multipack..., 300 g"
+      },
+      "trackingData": {
+        "brand": "PURINA ONE",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7983,
+        "ratingCount": 233
+      }
+    }
+  },
+  {
+    "gtin": 8853301003629,
+    "dan": 1626075,
+    "brandName": "Sheba",
+    "title": "Nassfutter Katze Soup mit Thunfisch, Multipack (4x40 g), 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sheba; Produktname: Nassfutter Katze Soup mit Thunfisch, Multipack (4x40 g), 160 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 2,65 €; Grundpreis: 0,16 kg (16,56 € je 1 kg)",
+      "brand": {
+        "name": "Sheba"
+      },
+      "dan": 1626075,
+      "gtin": 8853301003629,
+      "images": [
+        {
+          "alt": "Nassfutter Katze Soup mit Thunfisch, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772581229/assets/pas/images/54a620c2-0efd-4241-b1e7-ec1d51146e5c/sheba-nassfutter-katze-soup-mit-thunfisch-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze Soup mit Thunfisch, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772581181/assets/pas/images/fc7e43ef-9458-4a64-8d49-070db2c21a88/sheba-nassfutter-katze-soup-mit-thunfisch-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze Soup mit Thunfisch, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772581253/assets/pas/images/a88b9df9-ff09-41c8-9531-8b5b74e2186d/sheba-nassfutter-katze-soup-mit-thunfisch-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze Soup mit Thunfisch, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772581216/assets/pas/images/58a7e4ef-54bf-4b83-8fd7-294bca66ed39/sheba-nassfutter-katze-soup-mit-thunfisch-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze Soup mit Thunfisch, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772581204/assets/pas/images/3367b183-4881-497a-9154-7f8286f78144/sheba-nassfutter-katze-soup-mit-thunfisch-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze Soup mit Thunfisch, Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772581273/assets/pas/images/11d742d9-85b5-4aaa-b886-28a8e677905e/sheba-nassfutter-katze-soup-mit-thunfisch-multipack-4x40-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (15,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (16,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.377
+      },
+      "self": "/p/d/1626075/sheba-nassfutter-katze-soup-mit-thunfisch-multipack-4x40-g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze Soup mit Thunfisch, Multipack..., 160 g",
+        "tileHeadlineLong": "Nassfutter Katze Soup mit Thunfisch, Multipack..., 160 g"
+      },
+      "trackingData": {
+        "brand": "Sheba",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.377,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 8853301003568,
+    "dan": 1715129,
+    "brandName": "Sheba",
+    "title": "Nassfutter Katze mit Lachs, Soup Multipack (4x40 g), 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sheba; Produktname: Nassfutter Katze mit Lachs, Soup Multipack (4x40 g), 160 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 2,65 €; Grundpreis: 0,16 kg (16,56 € je 1 kg)",
+      "brand": {
+        "name": "Sheba"
+      },
+      "dan": 1715129,
+      "gtin": 8853301003568,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Lachs, Soup Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026016/assets/pas/images/8dad4ac3-6c0a-4117-9425-79c0c4632d1a/sheba-nassfutter-katze-mit-lachs-soup-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Soup Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026039/assets/pas/images/ff84dd73-7891-4693-bd93-561a6f5451a4/sheba-nassfutter-katze-mit-lachs-soup-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Soup Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026061/assets/pas/images/a75636f7-de96-406c-8d83-181492975a98/sheba-nassfutter-katze-mit-lachs-soup-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Soup Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026079/assets/pas/images/f6239574-bbe9-4280-9ced-964a5fdd2031/sheba-nassfutter-katze-mit-lachs-soup-multipack-4x40-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Lachs, Soup Multipack (4x40 g) Sheba",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026005/assets/pas/images/e4a10005-712c-4d12-8f39-b000bfd37ff7/sheba-nassfutter-katze-mit-lachs-soup-multipack-4x40-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (15,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (16,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.6923
+      },
+      "self": "/p/d/1715129/sheba-nassfutter-katze-mit-lachs-soup-multipack-4x40-g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Lachs, Soup Multipack (4x40..., 160 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Lachs, Soup Multipack (4x40..., 160 g"
+      },
+      "trackingData": {
+        "brand": "Sheba",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6923,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 4066447892482,
+    "dan": 1488556,
+    "brandName": "dmBio",
+    "title": "Chili sin Carne, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Chili sin Carne, 400 g; Preis: 1,95 €; Grundpreis: 0,4 kg (4,88 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1488556,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447892482,
+      "images": [
+        {
+          "alt": "Chili sin Carne dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132574/assets/pas/images/abf40f1e-d479-49e1-9ccf-ef6b77b102d6/dmbio-chili-sin-carne"
+        },
+        {
+          "alt": "Chili sin Carne dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132580/assets/pas/images/9c2bca1d-ab95-4a11-8b3c-94a5b4fc10fc/dmbio-chili-sin-carne"
+        },
+        {
+          "alt": "Chili sin Carne dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760132586/assets/pas/images/da20e631-5440-4b9f-83d7-0e612b67e5ba/dmbio-chili-sin-carne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (4,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 309,
+        "ratingValue": 3.6505
+      },
+      "self": "/p/d/1488556/dmbio-chili-sin-carne",
+      "title": {
+        "tileHeadline": "Chili sin Carne, 400 g",
+        "tileHeadlineLong": "Chili sin Carne, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6505,
+        "ratingCount": 309
+      }
+    }
+  },
+  {
+    "gtin": 4066447876574,
+    "dan": 3081070,
+    "brandName": "dmBio",
+    "title": "Vegane Pekingsuppe, 340 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Vegane Pekingsuppe, 340 ml; Preis: 1,95 €; Grundpreis: 0,34 l (5,74 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3081070,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447876574,
+      "images": [
+        {
+          "alt": "Vegane Pekingsuppe dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752186564/assets/pas/images/35eb6b76-afc3-476e-96c0-4ca94191b742/dmbio-vegane-pekingsuppe"
+        },
+        {
+          "alt": "Vegane Pekingsuppe dmBio",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768088091/assets/pas/images/cad234bf-733a-4210-b214-70c9e20d56c1/dmbio-vegane-pekingsuppe"
+        },
+        {
+          "alt": "Vegane Pekingsuppe dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752186572/assets/pas/images/72c57789-5425-4ff0-b381-ed3d39e7284b/dmbio-vegane-pekingsuppe"
+        },
+        {
+          "alt": "Vegane Pekingsuppe dmBio",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752186557/assets/pas/images/ace790c2-b56c-4b0b-9de8-f7cc1e6ea781/dmbio-vegane-pekingsuppe"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 l (5,36 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 l (5,74 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 77,
+        "ratingValue": 3.7792
+      },
+      "self": "/p/d/3081070/dmbio-vegane-pekingsuppe",
+      "title": {
+        "tileHeadline": "Vegane Pekingsuppe, 340 ml",
+        "tileHeadlineLong": "Vegane Pekingsuppe, 340 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Suppen & Eintöpfe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7792,
+        "ratingCount": 77
+      }
+    }
+  },
+  {
+    "gtin": 4066447087130,
+    "dan": 1639878,
+    "brandName": "dmBio",
+    "title": "Kimchi, fermentiertes Gemüse, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kimchi, fermentiertes Gemüse, 240 g; Preis: 3,95 €; Grundpreis: 0,24 kg (16,46 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1639878,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447087130,
+      "images": [
+        {
+          "alt": "Kimchi, fermentiertes Gemüse dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774604245/assets/pas/images/2813332a-55e4-44d3-95e6-889134e26514/dmbio-kimchi-fermentiertes-gemuese"
+        },
+        {
+          "alt": "Kimchi, fermentiertes Gemüse dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774604270/assets/pas/images/43c992f1-392a-4a95-8244-1ddbd9918de5/dmbio-kimchi-fermentiertes-gemuese"
+        },
+        {
+          "alt": "Kimchi, fermentiertes Gemüse dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761829290/assets/pas/images/041074ac-d266-4574-9768-4d4cf762badc/dmbio-kimchi-fermentiertes-gemuese"
+        },
+        {
+          "alt": "Kimchi, fermentiertes Gemüse dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774604253/assets/pas/images/cb7b2d98-6e65-4d41-844d-f347d7c5229e/dmbio-kimchi-fermentiertes-gemuese"
+        },
+        {
+          "alt": "Kimchi, fermentiertes Gemüse dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768466082/assets/pas/images/c60abad3-9373-4875-9486-879ba53e67e2/dmbio-kimchi-fermentiertes-gemuese"
+        },
+        {
+          "alt": "Kimchi, fermentiertes Gemüse dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774604261/assets/pas/images/eb8be2de-bddd-467e-8ffb-77bf8a1462d1/dmbio-kimchi-fermentiertes-gemuese"
+        },
+        {
+          "alt": "Kimchi, fermentiertes Gemüse dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774604278/assets/pas/images/8a7908c1-b527-48fa-9899-6d195dd6b993/dmbio-kimchi-fermentiertes-gemuese"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (15,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (16,46 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 392,
+        "ratingValue": 3.301
+      },
+      "self": "/p/d/1639878/dmbio-kimchi-fermentiertes-gemuese",
+      "title": {
+        "tileHeadline": "Kimchi, fermentiertes Gemüse, 240 g",
+        "tileHeadlineLong": "Kimchi, fermentiertes Gemüse, 240 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Konserven"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.301,
+        "ratingCount": 392
+      }
+    }
+  },
+  {
+    "gtin": 4058172824616,
+    "dan": 1611058,
+    "brandName": "dmBio",
+    "title": "Couscous, Kichererbsen & Rote Linsen, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Couscous, Kichererbsen & Rote Linsen, 250 g; Preis: 2,25 €; Grundpreis: 0,25 kg (9,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1611058,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172824616,
+      "images": [
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455590/assets/pas/images/ec3c7192-04d9-48aa-975e-08d1f0f9b5ee/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455585/assets/pas/images/7ef61091-74fc-4101-b5e6-514ca46f70c9/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761822146/assets/pas/images/2a26a10d-8f24-4be8-8b3f-2b5a0faf4b30/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455456/assets/pas/images/13f51885-f934-422b-9cc9-7dc18e0ffe3d/dmbio-couscous-kichererbsen-und-rote-linsen"
+        },
+        {
+          "alt": "Couscous, Kichererbsen & Rote Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455785/assets/pas/images/84218890-ce9c-43e0-8ce2-abbd2f6d4833/dmbio-couscous-kichererbsen-und-rote-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (8,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 159,
+        "ratingValue": 4.673
+      },
+      "self": "/p/d/1611058/dmbio-couscous-kichererbsen-und-rote-linsen",
+      "title": {
+        "tileHeadline": "Couscous, Kichererbsen & Rote Linsen, 250 g",
+        "tileHeadlineLong": "Couscous, Kichererbsen & Rote Linsen, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Bulgur, Quinoa & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.673,
+        "ratingCount": 159
+      }
+    }
+  }
+]

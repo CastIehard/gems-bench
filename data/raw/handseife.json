@@ -1,0 +1,2902 @@
+[
+  {
+    "gtin": 4066447948219,
+    "dan": 3110756,
+    "brandName": "Balea",
+    "title": "Flüssigseife Ginseng & Green Mandarin Nachfüllpack, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Flüssigseife Ginseng & Green Mandarin Nachfüllpack, 500 ml; Preis: 1,95 €; Grundpreis: 0,5 l (3,90 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3110756,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447948219,
+      "images": [
+        {
+          "alt": "Flüssigseife Ginseng & Green Mandarin Nachfüllpack Balea",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769308203/assets/pas/images/06b7476a-6e76-4dbc-8782-9ff32c976abc/balea-fluessigseife-ginseng-und-green-mandarin-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Ginseng & Green Mandarin Nachfüllpack Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769308210/assets/pas/images/f7bb72cc-582f-4483-a87c-9707fb651ac4/balea-fluessigseife-ginseng-und-green-mandarin-nachfuellpack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.8356
+      },
+      "self": "/p/d/3110756/balea-fluessigseife-ginseng-und-green-mandarin-nachfuellpack",
+      "title": {
+        "tileHeadline": "Flüssigseife Ginseng & Green Mandarin Nachfüllpack, 500 ml",
+        "tileHeadlineLong": "Flüssigseife Ginseng & Green Mandarin Nachfüllpack, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8356,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 4067796170375,
+    "dan": 3038087,
+    "brandName": "Balea",
+    "title": "Flüssigseife Eukalyptus & Lotus, Nachfüllpack, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Flüssigseife Eukalyptus & Lotus, Nachfüllpack, 500 ml; Preis: 1,95 €; Grundpreis: 0,5 l (3,90 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3038087,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796170375,
+      "images": [
+        {
+          "alt": "Flüssigseife Eukalyptus & Lotus, Nachfüllpack Balea",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755013964/assets/pas/images/567dc804-eaa7-4ba7-b26a-bbcbecc61cc3/balea-fluessigseife-eukalyptus-und-lotus-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Eukalyptus & Lotus, Nachfüllpack Balea",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755013964/assets/pas/images/defa9023-e0f4-44dd-948d-29406d95ba93/balea-fluessigseife-eukalyptus-und-lotus-nachfuellpack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.6222
+      },
+      "self": "/p/d/3038087/balea-fluessigseife-eukalyptus-und-lotus-nachfuellpack",
+      "title": {
+        "tileHeadline": "Flüssigseife Eukalyptus & Lotus, Nachfüllpack, 500 ml",
+        "tileHeadlineLong": "Flüssigseife Eukalyptus & Lotus, Nachfüllpack, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6222,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4260702187003,
+    "dan": 1679655,
+    "brandName": "Jean&Len",
+    "title": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack, 0,5 l",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack, 0,5 l; Preis: 6,95 €; Grundpreis: 0,5 l (13,90 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 1679655,
+      "gtin": 4260702187003,
+      "images": [
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494957/assets/pas/images/bb62a947-b3b3-4fbe-bf43-c57aa1a74d7e/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494587/assets/pas/images/565b5613-2057-4afb-832e-bca7a9505d1c/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494892/assets/pas/images/7926db3f-95cd-4b29-af1b-bb2a6300adcf/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494587/assets/pas/images/a502a383-379e-4309-82b2-ee15a5b3d47e/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494892/assets/pas/images/19b70311-852c-42be-a4c4-75caa01133a1/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494963/assets/pas/images/68e0708e-492b-435c-b24c-bcc26cb114fe/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494870/assets/pas/images/f8345218-6d57-4be6-a92e-1dea959f2f8c/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (11,68 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (13,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 195,
+        "ratingValue": 4.5128
+      },
+      "self": "/p/d/1679655/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack",
+      "title": {
+        "tileHeadline": "Flüssigseife rosemary & ginger, Rosmarin &..., 0,5 l",
+        "tileHeadlineLong": "Flüssigseife rosemary & ginger, Rosmarin &..., 0,5 l"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5128,
+        "ratingCount": 195
+      }
+    }
+  },
+  {
+    "gtin": 8720181481239,
+    "dan": 2170424,
+    "brandName": "Dove",
+    "title": "Seifenstück beauty cream (2x90g), 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dove; Produktname: Seifenstück beauty cream (2x90g), 180 g; Preis: 2,95 €; Grundpreis: 0,18 kg (16,39 € je 1 kg)",
+      "brand": {
+        "name": "Dove"
+      },
+      "dan": 2170424,
+      "gtin": 8720181481239,
+      "images": [
+        {
+          "alt": "Seifenstück beauty cream (2x90g) Dove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533901/assets/pas/images/6e34ea2f-2e10-4b5c-97bb-bf8fed149c41/dove-seifenstueck-beauty-cream-2x90g"
+        },
+        {
+          "alt": "Seifenstück beauty cream (2x90g) Dove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533916/assets/pas/images/5629786d-7f82-4718-87c2-f235facebe9a/dove-seifenstueck-beauty-cream-2x90g"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (13,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (16,39 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.8519
+      },
+      "self": "/p/d/2170424/dove-seifenstueck-beauty-cream-2x90g",
+      "title": {
+        "tileHeadline": "Seifenstück beauty cream (2x90g), 180 g",
+        "tileHeadlineLong": "Seifenstück beauty cream (2x90g), 180 g"
+      },
+      "trackingData": {
+        "brand": "Dove",
+        "categories": [
+          "Duschseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8519,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 4262401736421,
+    "dan": 1621789,
+    "brandName": "Jean&Len",
+    "title": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack, 1,5 l",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack, 1,5 l; Preis: 17,95 €; Grundpreis: 1,5 l (11,97 € je 1 l); Limitierte Editition Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 1621789,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4262401736421,
+      "images": [
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771310065/assets/pas/images/ccbd2ea0-60da-4d87-8067-f62bc6c954ea/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771310050/assets/pas/images/e3696544-6aa6-40d1-b444-a20ea2ffa12c/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495641/assets/pas/images/3de268fb-0118-4c31-9c18-52120db5529b/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495941/assets/pas/images/46f5366b-2b8a-4f59-b54a-e6d60cd07d19/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495942/assets/pas/images/cb3fa91c-823e-4127-b604-762f6823c5bc/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747496066/assets/pas/images/d841fdfa-abed-4439-a096-90d37795aa20/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495997/assets/pas/images/b94c5128-8902-430c-8527-364589a76794/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife rosemary & ginger, Rosmarin & Ingwer, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495999/assets/pas/images/97bc9f20-8d55-4465-8507-016b4ba7291c/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,08 €"
+          }
+        },
+        "tileInfos": [
+          "1,5 l (10,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "17,95 €"
+          }
+        },
+        "tileInfos": [
+          "1,5 l (11,97 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 108,
+        "ratingValue": 4.8148
+      },
+      "self": "/p/d/1621789/jean-und-len-fluessigseife-rosemary-und-ginger-rosmarin-und-ingwer-nachfuellpack",
+      "title": {
+        "tileHeadline": "Flüssigseife rosemary & ginger, Rosmarin &..., 1,5 l",
+        "tileHeadlineLong": "Flüssigseife rosemary & ginger, Rosmarin &..., 1,5 l"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 17.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8148,
+        "ratingCount": 108
+      }
+    }
+  },
+  {
+    "gtin": 4262401738036,
+    "dan": 1459076,
+    "brandName": "Jean&Len",
+    "title": "Flüssigseife Pfingstrose & Litschi, Nachfüllpack, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Flüssigseife Pfingstrose & Litschi, Nachfüllpack, 500 ml; Preis: 6,95 €; Grundpreis: 0,5 l (13,90 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 1459076,
+      "gtin": 4262401738036,
+      "images": [
+        {
+          "alt": "Flüssigseife Pfingstrose & Litschi, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762906164/assets/pas/images/f3bd2baa-4494-4c76-bf1e-5676555d4b9a/jean-und-len-fluessigseife-pfingstrose-und-litschi-nachfuellpack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (11,68 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (13,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.7945
+      },
+      "self": "/p/d/1459076/jean-und-len-fluessigseife-pfingstrose-und-litschi-nachfuellpack",
+      "title": {
+        "tileHeadline": "Flüssigseife Pfingstrose & Litschi, Nachfüllpack, 500 ml",
+        "tileHeadlineLong": "Flüssigseife Pfingstrose & Litschi, Nachfüllpack, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7945,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 4066447921793,
+    "dan": 3103103,
+    "brandName": "Balea",
+    "title": "Flüssigseife Ginseng & Green Mandarin, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Flüssigseife Ginseng & Green Mandarin, 300 ml; Preis: 1,45 €; Grundpreis: 0,3 l (4,83 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3103103,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447921793,
+      "images": [
+        {
+          "alt": "Flüssigseife Ginseng & Green Mandarin Balea",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762466285/assets/pas/images/5ab496fd-755a-4734-af47-b3f61d4b4a90/balea-fluessigseife-ginseng-und-green-mandarin"
+        },
+        {
+          "alt": "Flüssigseife Ginseng & Green Mandarin Balea",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762466281/assets/pas/images/e2b37ee2-aa48-4ec3-850e-f026344f99c5/balea-fluessigseife-ginseng-und-green-mandarin"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.7333
+      },
+      "self": "/p/d/3103103/balea-fluessigseife-ginseng-und-green-mandarin",
+      "title": {
+        "tileHeadline": "Flüssigseife Ginseng & Green Mandarin, 300 ml",
+        "tileHeadlineLong": "Flüssigseife Ginseng & Green Mandarin, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7333,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 4002448101635,
+    "dan": 1485256,
+    "brandName": "Sagrotan",
+    "title": "Schaumhandseife Vanille & Orchidee, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sagrotan; Produktname: Schaumhandseife Vanille & Orchidee, 250 ml; Preis: 2,95 €; Grundpreis: 0,25 l (11,80 € je 1 l)",
+      "brand": {
+        "name": "Sagrotan"
+      },
+      "dan": 1485256,
+      "gtin": 4002448101635,
+      "images": [
+        {
+          "alt": "Schaumhandseife Vanille & Orchidee Sagrotan",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430580/assets/pas/images/9c1b2144-7b03-4017-9954-c9b5ebb648e2/sagrotan-schaumhandseife-vanille-und-orchidee"
+        },
+        {
+          "alt": "Schaumhandseife Vanille & Orchidee Sagrotan",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778023642/assets/pas/images/f8d7d371-cb86-478a-9d2f-7fa899e1ff34/sagrotan-schaumhandseife-vanille-und-orchidee"
+        },
+        {
+          "alt": "Schaumhandseife Vanille & Orchidee Sagrotan",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430388/assets/pas/images/df11e66a-3529-4c99-9279-bb9fa5163aa8/sagrotan-schaumhandseife-vanille-und-orchidee"
+        },
+        {
+          "alt": "Schaumhandseife Vanille & Orchidee Sagrotan",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430305/assets/pas/images/02d624b6-007f-4a99-a4dd-6c7b619c0f85/sagrotan-schaumhandseife-vanille-und-orchidee"
+        },
+        {
+          "alt": "Schaumhandseife Vanille & Orchidee Sagrotan",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430629/assets/pas/images/4b218aaf-e805-4a41-b870-9e2c2d83bbbb/sagrotan-schaumhandseife-vanille-und-orchidee"
+        },
+        {
+          "alt": "Schaumhandseife Vanille & Orchidee Sagrotan",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430580/assets/pas/images/8f951142-bb25-41ac-a67b-b73f98118ec9/sagrotan-schaumhandseife-vanille-und-orchidee"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 101,
+        "ratingValue": 4.7228
+      },
+      "self": "/p/d/1485256/sagrotan-schaumhandseife-vanille-und-orchidee",
+      "title": {
+        "tileHeadline": "Schaumhandseife Vanille & Orchidee, 250 ml",
+        "tileHeadlineLong": "Schaumhandseife Vanille & Orchidee, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Sagrotan",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Variante",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 1485256,
+            "gtin": 4002448101635,
+            "hex": "#E2A2F5",
+            "href": "/p/d/1485256/sagrotan-schaumhandseife-vanille-und-orchidee",
+            "isSelected": true,
+            "tooltip": "Schaumhandseife Vanille & Orchidee"
+          },
+          {
+            "dan": 1485204,
+            "gtin": 4002448101659,
+            "hex": "#FF5760",
+            "href": "/p/d/1485204/sagrotan-schaumhandseife-kirschbluete-und-rose",
+            "isSelected": false,
+            "tooltip": "Schaumhandseife Kirschblüte & Rose "
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7228,
+        "ratingCount": 101
+      }
+    }
+  },
+  {
+    "gtin": 4067796139006,
+    "dan": 3046824,
+    "brandName": "Balea",
+    "title": "Flüssigseife Peony & Sandalwood, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Flüssigseife Peony & Sandalwood, 300 ml; Preis: 1,45 €; Grundpreis: 0,3 l (4,83 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3046824,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796139006,
+      "images": [
+        {
+          "alt": "Flüssigseife Peony & Sandalwood Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008003/assets/pas/images/bfdf9786-b61e-4303-827c-a276b2186fd6/balea-fluessigseife-peony-und-sandalwood"
+        },
+        {
+          "alt": "Flüssigseife Peony & Sandalwood Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008003/assets/pas/images/c74d3dc2-7e7e-4081-8385-6e1ba954287b/balea-fluessigseife-peony-und-sandalwood"
+        },
+        {
+          "alt": "Flüssigseife Peony & Sandalwood Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488054/assets/pas/images/cf5828a8-b450-4559-a630-8aa76cc3d305/balea-fluessigseife-peony-und-sandalwood"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 99,
+        "ratingValue": 4.7071
+      },
+      "self": "/p/d/3046824/balea-fluessigseife-peony-und-sandalwood",
+      "title": {
+        "tileHeadline": "Flüssigseife Peony & Sandalwood, 300 ml",
+        "tileHeadlineLong": "Flüssigseife Peony & Sandalwood, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7071,
+        "ratingCount": 99
+      }
+    }
+  },
+  {
+    "gtin": 4006000184036,
+    "dan": 1015524,
+    "brandName": "NIVEA",
+    "title": "Flüssigseife Creme soft Nachfüllpack, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Flüssigseife Creme soft Nachfüllpack, 500 ml; Preis: 2,95 €; Grundpreis: 0,5 l (5,90 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1015524,
+      "gtin": 4006000184036,
+      "images": [
+        {
+          "alt": "Flüssigseife Creme soft Nachfüllpack NIVEA",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739281/assets/pas/images/29df8cba-4926-4f15-acf5-98363df2573c/nivea-fluessigseife-creme-soft-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Creme soft Nachfüllpack NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776807688/assets/pas/images/e07722d8-4096-49c5-8d3e-47aa426b58b1/nivea-fluessigseife-creme-soft-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Creme soft Nachfüllpack NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739304/assets/pas/images/5508b863-12d4-4b0d-b841-e0cfe781d7a3/nivea-fluessigseife-creme-soft-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Creme soft Nachfüllpack NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739349/assets/pas/images/525b66b9-9f44-48dc-afa5-6d0fa60fd1c2/nivea-fluessigseife-creme-soft-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Creme soft Nachfüllpack NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739314/assets/pas/images/43bda3f6-df64-4d29-831f-eefa7afee86c/nivea-fluessigseife-creme-soft-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Creme soft Nachfüllpack NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739331/assets/pas/images/a6583dfe-2693-4ae9-8b3a-a5444780c2d0/nivea-fluessigseife-creme-soft-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Creme soft Nachfüllpack NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739321/assets/pas/images/ce50c731-10c5-4712-bcd0-b0788db0af34/nivea-fluessigseife-creme-soft-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Creme soft Nachfüllpack NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739339/assets/pas/images/134745b3-1a17-4fc8-b5a0-24b98d5012b3/nivea-fluessigseife-creme-soft-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Creme soft Nachfüllpack NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739358/assets/pas/images/c088867e-3166-4eef-8600-adbbdeff398c/nivea-fluessigseife-creme-soft-nachfuellpack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (4,96 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (5,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.8824
+      },
+      "self": "/p/d/1015524/nivea-fluessigseife-creme-soft-nachfuellpack",
+      "title": {
+        "tileHeadline": "Flüssigseife Creme soft Nachfüllpack, 500 ml",
+        "tileHeadlineLong": "Flüssigseife Creme soft Nachfüllpack, 500 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8824,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4002448101659,
+    "dan": 1485204,
+    "brandName": "Sagrotan",
+    "title": "Schaumhandseife Kirschblüte & Rose, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sagrotan; Produktname: Schaumhandseife Kirschblüte & Rose, 250 ml; Preis: 2,95 €; Grundpreis: 0,25 l (11,80 € je 1 l)",
+      "brand": {
+        "name": "Sagrotan"
+      },
+      "dan": 1485204,
+      "gtin": 4002448101659,
+      "images": [
+        {
+          "alt": "Schaumhandseife Kirschblüte & Rose  Sagrotan",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430386/assets/pas/images/441ed45a-17c1-4033-930d-f3ec02355ad9/sagrotan-schaumhandseife-kirschbluete-und-rose"
+        },
+        {
+          "alt": "Schaumhandseife Kirschblüte & Rose  Sagrotan",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430386/assets/pas/images/2d83958b-3244-4133-8ca0-81250fb527d7/sagrotan-schaumhandseife-kirschbluete-und-rose"
+        },
+        {
+          "alt": "Schaumhandseife Kirschblüte & Rose  Sagrotan",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430628/assets/pas/images/0631665b-dc47-48fd-9ffb-8e940e882254/sagrotan-schaumhandseife-kirschbluete-und-rose"
+        },
+        {
+          "alt": "Schaumhandseife Kirschblüte & Rose  Sagrotan",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430578/assets/pas/images/86062d1f-5e49-4541-9a3d-5fac5776a151/sagrotan-schaumhandseife-kirschbluete-und-rose"
+        },
+        {
+          "alt": "Schaumhandseife Kirschblüte & Rose  Sagrotan",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430577/assets/pas/images/3b465f73-0ce6-4958-834b-82610d61e14e/sagrotan-schaumhandseife-kirschbluete-und-rose"
+        },
+        {
+          "alt": "Schaumhandseife Kirschblüte & Rose  Sagrotan",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430309/assets/pas/images/aa382bbf-777f-4ec7-91ed-79e70b64603e/sagrotan-schaumhandseife-kirschbluete-und-rose"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 100,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/1485204/sagrotan-schaumhandseife-kirschbluete-und-rose",
+      "title": {
+        "tileHeadline": "Schaumhandseife Kirschblüte & Rose, 250 ml",
+        "tileHeadlineLong": "Schaumhandseife Kirschblüte & Rose, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Sagrotan",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Variante",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 1485204,
+            "gtin": 4002448101659,
+            "hex": "#FF5760",
+            "href": "/p/d/1485204/sagrotan-schaumhandseife-kirschbluete-und-rose",
+            "isSelected": true,
+            "tooltip": "Schaumhandseife Kirschblüte & Rose "
+          },
+          {
+            "dan": 1485256,
+            "gtin": 4002448101635,
+            "hex": "#E2A2F5",
+            "href": "/p/d/1485256/sagrotan-schaumhandseife-vanille-und-orchidee",
+            "isSelected": false,
+            "tooltip": "Schaumhandseife Vanille & Orchidee"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 100
+      }
+    }
+  },
+  {
+    "gtin": 4262401739163,
+    "dan": 3066066,
+    "brandName": "Jean&Len",
+    "title": "Flüssigseife bergamot & cedarwood, Nachfüllpack, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Flüssigseife bergamot & cedarwood, Nachfüllpack, 500 ml; Preis: 6,95 €; Grundpreis: 0,5 l (13,90 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 3066066,
+      "gtin": 4262401739163,
+      "images": [
+        {
+          "alt": "Flüssigseife bergamot & cedarwood, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495592/assets/pas/images/c7ab57c4-d7a5-4f91-8580-14f56abc617f/jean-und-len-fluessigseife-bergamot-und-cedarwood-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife bergamot & cedarwood, Nachfüllpack Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495699/assets/pas/images/e2754d38-8474-4b47-8766-299b90954b02/jean-und-len-fluessigseife-bergamot-und-cedarwood-nachfuellpack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (11,68 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (13,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 50,
+        "ratingValue": 4.72
+      },
+      "self": "/p/d/3066066/jean-und-len-fluessigseife-bergamot-und-cedarwood-nachfuellpack",
+      "title": {
+        "tileHeadline": "Flüssigseife bergamot & cedarwood, Nachfüllpack, 500 ml",
+        "tileHeadlineLong": "Flüssigseife bergamot & cedarwood, Nachfüllpack, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.72,
+        "ratingCount": 50
+      }
+    }
+  },
+  {
+    "gtin": 4000388179004,
+    "dan": 1023700,
+    "brandName": "Dove",
+    "title": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Dove; Produktname: Flüssigseife, pflegende Handwaschlotion, Nachfüllpack, 500 ml; Preis: 2,55 €; Grundpreis: 0,5 l (5,10 € je 1 l)",
+      "brand": {
+        "name": "Dove"
+      },
+      "dan": 1023700,
+      "gtin": 4000388179004,
+      "images": [
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757548451/assets/pas/images/fcdad218-1504-442c-a31b-dd80aba1316f/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757548461/assets/pas/images/e54feb26-791e-4564-8276-ea5635dfe043/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429186/assets/pas/images/69c1ee41-79f7-40cd-8b7e-45269c67db1e/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429294/assets/pas/images/525bd36d-d7cf-458b-ad83-1aab7ab5775b/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784066787/assets/pas/images/e5680283-c639-4e35-b7fa-888e51ddc354/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784066815/assets/pas/images/f3cb6703-16b2-4a3b-a37e-a63a325fed88/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429295/assets/pas/images/e8463ff1-1f2a-4946-8633-18263aaca519/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784066773/assets/pas/images/bcf447da-9c2c-4511-8b2c-44fd741c9d32/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784066797/assets/pas/images/ad523a2d-d84e-4931-ab18-5ea2ba87fe46/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784066806/assets/pas/images/7e36b894-756e-4667-9ae7-8de05f7dea11/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429186/assets/pas/images/55dd6198-7dbd-4441-8af9-25ac745414e4/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429291/assets/pas/images/47ee573c-b4e2-47de-8aa8-096b1ef47a55/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747429187/assets/pas/images/f6522d0d-bdbe-4d17-bbf1-cb60c5936270/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757548469/assets/pas/images/9824c8c3-e2f3-4a07-b56b-d99dd68e471e/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757548477/assets/pas/images/eb732d10-e653-4705-a4a3-114bafd944dc/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife, pflegende Handwaschlotion, Nachfüllpack Dove",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784066780/assets/pas/images/16b2d105-a196-43ec-b63e-3f647fb71248/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,14 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (4,29 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (5,10 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 109,
+        "ratingValue": 3.7982
+      },
+      "self": "/p/d/1023700/dove-fluessigseife-pflegende-handwaschlotion-nachfuellpack",
+      "title": {
+        "tileHeadline": "Flüssigseife, pflegende Handwaschlotion,..., 500 ml",
+        "tileHeadlineLong": "Flüssigseife, pflegende Handwaschlotion,..., 500 ml"
+      },
+      "trackingData": {
+        "brand": "Dove",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7982,
+        "ratingCount": 109
+      }
+    }
+  },
+  {
+    "gtin": 4251758425195,
+    "dan": 3125072,
+    "brandName": "Sagrotan",
+    "title": "Flüssigseife No Touch Hawaii, Nachfüllpack (2x250 ml), 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sagrotan; Produktname: Flüssigseife No Touch Hawaii, Nachfüllpack (2x250 ml), 500 ml; Preis: 5,45 €; Grundpreis: 0,5 l (10,90 € je 1 l)",
+      "brand": {
+        "name": "Sagrotan"
+      },
+      "dan": 3125072,
+      "gtin": 4251758425195,
+      "images": [
+        {
+          "alt": "Flüssigseife No Touch Hawaii, Nachfüllpack (2x250 ml) Sagrotan",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773965212/assets/pas/images/8cdff59b-df44-4880-b30f-8119bc7bfe1f/sagrotan-fluessigseife-no-touch-hawaii-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife No Touch Hawaii, Nachfüllpack (2x250 ml) Sagrotan",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773965200/assets/pas/images/ba4ce26d-e2e1-4d68-830e-2e22bd5d8c1d/sagrotan-fluessigseife-no-touch-hawaii-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife No Touch Hawaii, Nachfüllpack (2x250 ml) Sagrotan",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773965228/assets/pas/images/2f67219b-341c-4b22-96e9-828868c6a415/sagrotan-fluessigseife-no-touch-hawaii-nachfuellpack-2x250-ml"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,58 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (9,16 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (10,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 25,
+        "ratingValue": 4.88
+      },
+      "self": "/p/d/3125072/sagrotan-fluessigseife-no-touch-hawaii-nachfuellpack-2x250-ml",
+      "title": {
+        "tileHeadline": "Flüssigseife No Touch Hawaii, Nachfüllpack (2x250..., 500 ml",
+        "tileHeadlineLong": "Flüssigseife No Touch Hawaii, Nachfüllpack (2x250..., 500 ml"
+      },
+      "trackingData": {
+        "brand": "Sagrotan",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8077,
+        "ratingCount": 26
+      }
+    }
+  },
+  {
+    "gtin": 4067796137668,
+    "dan": 3046639,
+    "brandName": "Balea",
+    "title": "Flüssigseife Eukalyptus & Lotus, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Flüssigseife Eukalyptus & Lotus, 300 ml; Preis: 1,45 €; Grundpreis: 0,3 l (4,83 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3046639,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796137668,
+      "images": [
+        {
+          "alt": "Flüssigseife Eukalyptus & Lotus Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755013757/assets/pas/images/454b7d42-2c73-49de-b73b-5f39f432416d/balea-fluessigseife-eukalyptus-und-lotus"
+        },
+        {
+          "alt": "Flüssigseife Eukalyptus & Lotus Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755013757/assets/pas/images/64b248fb-e495-4f6c-8bde-3e4e5a17affb/balea-fluessigseife-eukalyptus-und-lotus"
+        },
+        {
+          "alt": "Flüssigseife Eukalyptus & Lotus Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488045/assets/pas/images/49fa9282-9d62-4f9f-b170-41e2212829da/balea-fluessigseife-eukalyptus-und-lotus"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.6154
+      },
+      "self": "/p/d/3046639/balea-fluessigseife-eukalyptus-und-lotus",
+      "title": {
+        "tileHeadline": "Flüssigseife Eukalyptus & Lotus, 300 ml",
+        "tileHeadlineLong": "Flüssigseife Eukalyptus & Lotus, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6154,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4260372933740,
+    "dan": 1525298,
+    "brandName": "Jean&Len",
+    "title": "Flüssigseife Rosemary & Ginger, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Flüssigseife Rosemary & Ginger, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 1525298,
+      "gtin": 4260372933740,
+      "images": [
+        {
+          "alt": "Flüssigseife Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492607/assets/pas/images/eafd3fba-d030-426f-bbbf-fdfb7617b34f/jean-und-len-fluessigseife-rosemary-und-ginger"
+        },
+        {
+          "alt": "Flüssigseife Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747635991/assets/pas/images/ba843d70-ae36-4214-802c-bf9437a71982/jean-und-len-fluessigseife-rosemary-und-ginger"
+        },
+        {
+          "alt": "Flüssigseife Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492608/assets/pas/images/274633a5-03aa-4def-99a0-f96d9c69b200/jean-und-len-fluessigseife-rosemary-und-ginger"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 293,
+        "ratingValue": 3.9727
+      },
+      "self": "/p/d/1525298/jean-und-len-fluessigseife-rosemary-und-ginger",
+      "title": {
+        "tileHeadline": "Flüssigseife Rosemary & Ginger, 250 ml",
+        "tileHeadlineLong": "Flüssigseife Rosemary & Ginger, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9727,
+        "ratingCount": 293
+      }
+    }
+  },
+  {
+    "gtin": 4006000220673,
+    "dan": 1015793,
+    "brandName": "NIVEA",
+    "title": "Flüssigseife Creme soft, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Flüssigseife Creme soft, 250 ml; Preis: 2,25 €; Grundpreis: 0,25 l (9,00 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1015793,
+      "gtin": 4006000220673,
+      "images": [
+        {
+          "alt": "Flüssigseife Creme soft NIVEA",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739271/assets/pas/images/d9420cd1-aeac-4348-8042-7421e146e879/nivea-fluessigseife-creme-soft"
+        },
+        {
+          "alt": "Flüssigseife Creme soft NIVEA",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773739264/assets/pas/images/28aeda99-5eb8-4116-b5cf-3ff9dce79d2e/nivea-fluessigseife-creme-soft"
+        },
+        {
+          "alt": "Flüssigseife Creme soft NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774133526/assets/pas/images/f330a3b7-30b3-4460-be18-9e1fa8b15e68/nivea-fluessigseife-creme-soft"
+        },
+        {
+          "alt": "Flüssigseife Creme soft NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774133542/assets/pas/images/60daa24d-bc7d-4bf7-b45b-e8da92c5f5ba/nivea-fluessigseife-creme-soft"
+        },
+        {
+          "alt": "Flüssigseife Creme soft NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774133518/assets/pas/images/55e56f77-3a2f-4cbf-aec8-d33f417228bf/nivea-fluessigseife-creme-soft"
+        },
+        {
+          "alt": "Flüssigseife Creme soft NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774133548/assets/pas/images/25d2b1ff-f729-4163-a660-0e7cd153c692/nivea-fluessigseife-creme-soft"
+        },
+        {
+          "alt": "Flüssigseife Creme soft NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774133534/assets/pas/images/667bcc6c-76d3-416e-a159-e70ca5501111/nivea-fluessigseife-creme-soft"
+        },
+        {
+          "alt": "Flüssigseife Creme soft NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774133509/assets/pas/images/300db1d3-260f-4a83-bc82-c846813a154f/nivea-fluessigseife-creme-soft"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,56 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.7717
+      },
+      "self": "/p/d/1015793/nivea-fluessigseife-creme-soft",
+      "title": {
+        "tileHeadline": "Flüssigseife Creme soft, 250 ml",
+        "tileHeadlineLong": "Flüssigseife Creme soft, 250 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7717,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4251758435477,
+    "dan": 3120425,
+    "brandName": "Sagrotan",
+    "title": "Schaumhandseife Berry Rebel, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sagrotan; Produktname: Schaumhandseife Berry Rebel, 250 ml; Preis: 2,95 €; Grundpreis: 0,25 l (11,80 € je 1 l)",
+      "brand": {
+        "name": "Sagrotan"
+      },
+      "dan": 3120425,
+      "gtin": 4251758435477,
+      "images": [
+        {
+          "alt": "Schaumhandseife Berry Rebel  Sagrotan",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772490995/assets/pas/images/6b0eafe8-b495-45ef-be1c-f9cd0dc0273d/sagrotan-schaumhandseife-berry-rebel"
+        },
+        {
+          "alt": "Schaumhandseife Berry Rebel  Sagrotan",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772491032/assets/pas/images/e2ef0786-d138-46dd-9302-1ae4e307f88f/sagrotan-schaumhandseife-berry-rebel"
+        },
+        {
+          "alt": "Schaumhandseife Berry Rebel  Sagrotan",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772491044/assets/pas/images/c14dffa0-079b-4ea2-a2eb-a0c5428b0f49/sagrotan-schaumhandseife-berry-rebel"
+        },
+        {
+          "alt": "Schaumhandseife Berry Rebel  Sagrotan",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772491014/assets/pas/images/ac4fdc18-1b9f-42fe-948d-4ad1ede31c09/sagrotan-schaumhandseife-berry-rebel"
+        },
+        {
+          "alt": "Schaumhandseife Berry Rebel  Sagrotan",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772491008/assets/pas/images/791bc15b-5f18-424d-9be0-1da6cd081e99/sagrotan-schaumhandseife-berry-rebel"
+        },
+        {
+          "alt": "Schaumhandseife Berry Rebel  Sagrotan",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772491023/assets/pas/images/5a6fff4f-1e3b-4f0f-b7a1-656ba8f3a283/sagrotan-schaumhandseife-berry-rebel"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 42,
+        "ratingValue": 4.6429
+      },
+      "self": "/p/d/3120425/sagrotan-schaumhandseife-berry-rebel",
+      "title": {
+        "tileHeadline": "Schaumhandseife Berry Rebel, 250 ml",
+        "tileHeadlineLong": "Schaumhandseife Berry Rebel, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Sagrotan",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6429,
+        "ratingCount": 42
+      }
+    }
+  },
+  {
+    "gtin": 4021457632947,
+    "dan": 1671555,
+    "brandName": "lavera NATURKOSMETIK",
+    "title": "Flüssigseife Basis sensitiv mit Bio-Aloe Vera & Bio-Kamille, Nachfüllpack, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: lavera NATURKOSMETIK; Produktname: Flüssigseife Basis sensitiv mit Bio-Aloe Vera & Bio-Kamille, Nachfüllpack, 500 ml; Preis: 3,95 €; Grundpreis: 0,5 l (7,90 € je 1 l)",
+      "brand": {
+        "name": "lavera NATURKOSMETIK"
+      },
+      "dan": 1671555,
+      "gtin": 4021457632947,
+      "images": [
+        {
+          "alt": "Flüssigseife Basis sensitiv mit Bio-Aloe Vera & Bio-Kamille, Nachfüllpack lavera NATURKOSMETIK",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442783/assets/pas/images/430ac236-4ad1-40a0-ad47-223c11dd0255/lavera-naturkosmetik-fluessigseife-basis-sensitiv-mit-bio-aloe-vera-und-bio-kamille-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Basis sensitiv mit Bio-Aloe Vera & Bio-Kamille, Nachfüllpack lavera NATURKOSMETIK",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442972/assets/pas/images/0471d3cc-84b5-4a16-82a7-504603aba191/lavera-naturkosmetik-fluessigseife-basis-sensitiv-mit-bio-aloe-vera-und-bio-kamille-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Basis sensitiv mit Bio-Aloe Vera & Bio-Kamille, Nachfüllpack lavera NATURKOSMETIK",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443086/assets/pas/images/e464bf05-1613-4549-bd96-c5fe3aff5a89/lavera-naturkosmetik-fluessigseife-basis-sensitiv-mit-bio-aloe-vera-und-bio-kamille-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Basis sensitiv mit Bio-Aloe Vera & Bio-Kamille, Nachfüllpack lavera NATURKOSMETIK",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442786/assets/pas/images/fca51100-167d-42f4-ab64-2f66c0761eb6/lavera-naturkosmetik-fluessigseife-basis-sensitiv-mit-bio-aloe-vera-und-bio-kamille-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Basis sensitiv mit Bio-Aloe Vera & Bio-Kamille, Nachfüllpack lavera NATURKOSMETIK",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442862/assets/pas/images/8f920a1e-15ef-4628-a6f0-a067e6378fdb/lavera-naturkosmetik-fluessigseife-basis-sensitiv-mit-bio-aloe-vera-und-bio-kamille-nachfuellpack"
+        },
+        {
+          "alt": "Flüssigseife Basis sensitiv mit Bio-Aloe Vera & Bio-Kamille, Nachfüllpack lavera NATURKOSMETIK",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442972/assets/pas/images/18d55ad6-ed57-4a99-8f99-b755c9308b3c/lavera-naturkosmetik-fluessigseife-basis-sensitiv-mit-bio-aloe-vera-und-bio-kamille-nachfuellpack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (6,64 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (7,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 77,
+        "ratingValue": 4.4805
+      },
+      "self": "/p/d/1671555/lavera-naturkosmetik-fluessigseife-basis-sensitiv-mit-bio-aloe-vera-und-bio-kamille-nachfuellpack",
+      "title": {
+        "tileHeadline": "Flüssigseife Basis sensitiv mit Bio-Aloe Vera &..., 500 ml",
+        "tileHeadlineLong": "Flüssigseife Basis sensitiv mit Bio-Aloe Vera &..., 500 ml"
+      },
+      "trackingData": {
+        "brand": "lavera NATURKOSMETIK",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4805,
+        "ratingCount": 77
+      }
+    }
+  },
+  {
+    "gtin": 4001499972560,
+    "dan": 1446830,
+    "brandName": "Frosch Senses",
+    "title": "Flüssigseife sensitiv, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch Senses; Produktname: Flüssigseife sensitiv, 300 ml; Preis: 1,95 €; Grundpreis: 0,3 l (6,50 € je 1 l)",
+      "brand": {
+        "name": "Frosch Senses"
+      },
+      "dan": 1446830,
+      "gtin": 4001499972560,
+      "images": [
+        {
+          "alt": "Flüssigseife sensitiv Frosch Senses",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761082462/assets/pas/images/143a65e8-4f85-42aa-bfee-ddd42bf42ebb/frosch-senses-fluessigseife-sensitiv"
+        },
+        {
+          "alt": "Flüssigseife sensitiv Frosch Senses",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761082458/assets/pas/images/da3e9679-d627-4bd4-ac8d-fa61ea292f99/frosch-senses-fluessigseife-sensitiv"
+        },
+        {
+          "alt": "Flüssigseife sensitiv Frosch Senses",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764374249/assets/pas/images/2104c403-635f-4482-9f83-2fb5a75314f6/frosch-senses-fluessigseife-sensitiv"
+        },
+        {
+          "alt": "Flüssigseife sensitiv Frosch Senses",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761082453/assets/pas/images/3f3d09f3-bfa0-4d1e-87a9-df23268cc70e/frosch-senses-fluessigseife-sensitiv"
+        },
+        {
+          "alt": "Flüssigseife sensitiv Frosch Senses",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761082467/assets/pas/images/d09c7d6f-b159-4fd9-b389-b4e84b865089/frosch-senses-fluessigseife-sensitiv"
+        },
+        {
+          "alt": "Flüssigseife sensitiv Frosch Senses",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761082472/assets/pas/images/adbbf366-1934-4994-99e0-19d513d843f8/frosch-senses-fluessigseife-sensitiv"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (5,46 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (6,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.6857
+      },
+      "self": "/p/d/1446830/frosch-senses-fluessigseife-sensitiv",
+      "title": {
+        "tileHeadline": "Flüssigseife sensitiv, 300 ml",
+        "tileHeadlineLong": "Flüssigseife sensitiv, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch Senses",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6857,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4005900939616,
+    "dan": 1275222,
+    "brandName": "NIVEA",
+    "title": "Seifenstück Creme Soft Pflegeseife, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Seifenstück Creme Soft Pflegeseife, 100 g; Preis: 1,45 €; Grundpreis: 0,1 kg (14,50 € je 1 kg)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1275222,
+      "gtin": 4005900939616,
+      "images": [
+        {
+          "alt": "Seifenstück Creme Soft Pflegeseife NIVEA",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432331/assets/pas/images/5925d8cf-8335-4cfb-8efe-d8bbe21a174f/nivea-seifenstueck-creme-soft-pflegeseife"
+        },
+        {
+          "alt": "Seifenstück Creme Soft Pflegeseife NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432522/assets/pas/images/bf8c84f9-320c-4147-9a72-4e66464e6efa/nivea-seifenstueck-creme-soft-pflegeseife"
+        },
+        {
+          "alt": "Seifenstück Creme Soft Pflegeseife NIVEA",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432332/assets/pas/images/7d5ce865-ed90-424c-a3fc-fed2fcf0bd4a/nivea-seifenstueck-creme-soft-pflegeseife"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (12,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (14,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 117,
+        "ratingValue": 4.2991
+      },
+      "self": "/p/d/1275222/nivea-seifenstueck-creme-soft-pflegeseife",
+      "title": {
+        "tileHeadline": "Seifenstück Creme Soft Pflegeseife, 100 g",
+        "tileHeadlineLong": "Seifenstück Creme Soft Pflegeseife, 100 g"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Feste Seife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2991,
+        "ratingCount": 117
+      }
+    }
+  },
+  {
+    "gtin": 8718951727502,
+    "dan": 3083989,
+    "brandName": "Palmolive",
+    "title": "Flüssigseife Lavendel & Bergamotte Nachfüllpack (2x250 ml), 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Palmolive; Produktname: Flüssigseife Lavendel & Bergamotte Nachfüllpack (2x250 ml), 500 ml; Preis: 1,75 €; Grundpreis: 0,5 l (3,50 € je 1 l); Öko-Test Palmolive Lavendel & Bergamotte Flüssigseife Nachfüllbeutel, 500 ml sehr gut ÖKO-TEST-Magazin 10/2025",
+      "brand": {
+        "name": "Palmolive"
+      },
+      "dan": 3083989,
+      "eyecatchers": [
+        {
+          "alt": "Öko-Test Palmolive Lavendel & Bergamotte Flüssigseife Nachfüllbeutel, 500 ml sehr gut ÖKO-TEST-Magazin 10/2025",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1777369978/assets/pas/seals/b2415a3d-c0cc-4be9-b527-206afff7a731/b2415a3d-c0cc-4be9-b527-206afff7a731.png",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1777369978/assets/pas/seals/b2415a3d-c0cc-4be9-b527-206afff7a731/b2415a3d-c0cc-4be9-b527-206afff7a731.png"
+        }
+      ],
+      "gtin": 8718951727502,
+      "images": [
+        {
+          "alt": "Flüssigseife Lavendel & Bergamotte Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754951867/assets/pas/images/ed1494ec-51bd-443e-be10-15dc857a7835/palmolive-fluessigseife-lavendel-und-bergamotte-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Lavendel & Bergamotte Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754951866/assets/pas/images/1780017d-2f87-41bf-ba59-f30373b11084/palmolive-fluessigseife-lavendel-und-bergamotte-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Lavendel & Bergamotte Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752105894/assets/pas/images/41a2aeef-23b1-4433-8bc8-98b8875a960d/palmolive-fluessigseife-lavendel-und-bergamotte-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Lavendel & Bergamotte Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752105903/assets/pas/images/841a5997-a626-489f-89f7-2472f915d0a3/palmolive-fluessigseife-lavendel-und-bergamotte-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Lavendel & Bergamotte Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752105883/assets/pas/images/0ed6b81e-ca54-412d-bdc0-b98c81291c92/palmolive-fluessigseife-lavendel-und-bergamotte-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Lavendel & Bergamotte Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752105912/assets/pas/images/b3465f3e-e162-4559-94be-0abab17b614d/palmolive-fluessigseife-lavendel-und-bergamotte-nachfuellpack-2x250-ml"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (2,94 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 95,
+        "ratingValue": 4.7368
+      },
+      "self": "/p/d/3083989/palmolive-fluessigseife-lavendel-und-bergamotte-nachfuellpack-2x250-ml",
+      "title": {
+        "tileHeadline": "Flüssigseife Lavendel & Bergamotte Nachfüllpack..., 500 ml",
+        "tileHeadlineLong": "Flüssigseife Lavendel & Bergamotte Nachfüllpack..., 500 ml"
+      },
+      "trackingData": {
+        "brand": "Palmolive",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7368,
+        "ratingCount": 95
+      }
+    }
+  },
+  {
+    "gtin": 4001499968976,
+    "dan": 3065638,
+    "brandName": "Frosch Senses",
+    "title": "Flüssigseife sensitiv, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch Senses; Produktname: Flüssigseife sensitiv, 300 ml; Preis: 1,95 €; Grundpreis: 0,3 l (6,50 € je 1 l)",
+      "brand": {
+        "name": "Frosch Senses"
+      },
+      "dan": 3065638,
+      "gtin": 4001499968976,
+      "images": [
+        {
+          "alt": "Flüssigseife sensitiv Frosch Senses",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774485510/assets/pas/images/9be88173-8d53-4a9c-b43a-c79ec981528f/frosch-senses-fluessigseife-sensitiv"
+        },
+        {
+          "alt": "Flüssigseife sensitiv Frosch Senses",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774485520/assets/pas/images/1493fec1-9522-4b47-88e9-8d2fa3b5d425/frosch-senses-fluessigseife-sensitiv"
+        },
+        {
+          "alt": "Flüssigseife sensitiv Frosch Senses",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774485515/assets/pas/images/2e2bb41f-3a30-4f94-af81-88205d614efa/frosch-senses-fluessigseife-sensitiv"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (5,46 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (6,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.7647
+      },
+      "self": "/p/d/3065638/frosch-senses-fluessigseife-sensitiv",
+      "title": {
+        "tileHeadline": "Flüssigseife sensitiv, 300 ml",
+        "tileHeadlineLong": "Flüssigseife sensitiv, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch Senses",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7647,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 17854100176,
+    "dan": 2120016,
+    "brandName": "Baylis & Harding",
+    "title": "Flüssigseife Goodness Oud, Cedar & Amber, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Baylis & Harding; Produktname: Flüssigseife Goodness Oud, Cedar & Amber, 500 ml; Preis: 3,95 €; Grundpreis: 0,5 l (7,90 € je 1 l)",
+      "brand": {
+        "name": "Baylis & Harding"
+      },
+      "dan": 2120016,
+      "gtin": 17854100176,
+      "images": [
+        {
+          "alt": "Flüssigseife Goodness Oud, Cedar & Amber Baylis & Harding",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773355350/assets/pas/images/5ae67502-3fa2-4693-a4e7-6c43723c90d3/baylis-und-harding-fluessigseife-goodness-oud-cedar-und-amber"
+        },
+        {
+          "alt": "Flüssigseife Goodness Oud, Cedar & Amber Baylis & Harding",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371908/assets/pas/images/e55a18d6-7374-4d7e-bbca-118e3a2fedb4/baylis-und-harding-fluessigseife-goodness-oud-cedar-und-amber"
+        },
+        {
+          "alt": "Flüssigseife Goodness Oud, Cedar & Amber Baylis & Harding",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371900/assets/pas/images/b95de331-0df8-4b6e-99d6-10b13f77e408/baylis-und-harding-fluessigseife-goodness-oud-cedar-und-amber"
+        },
+        {
+          "alt": "Flüssigseife Goodness Oud, Cedar & Amber Baylis & Harding",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773355359/assets/pas/images/3de29743-5647-4ad2-8fb7-27541b9ea47f/baylis-und-harding-fluessigseife-goodness-oud-cedar-und-amber"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (6,64 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (7,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.8302
+      },
+      "self": "/p/d/2120016/baylis-und-harding-fluessigseife-goodness-oud-cedar-und-amber",
+      "title": {
+        "tileHeadline": "Flüssigseife Goodness Oud, Cedar & Amber, 500 ml",
+        "tileHeadlineLong": "Flüssigseife Goodness Oud, Cedar & Amber, 500 ml"
+      },
+      "trackingData": {
+        "brand": "Baylis & Harding",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8302,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4260702180813,
+    "dan": 1602716,
+    "brandName": "Jean&Len",
+    "title": "Flüssigseife Pfingstrose Litschi, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Flüssigseife Pfingstrose Litschi, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 1602716,
+      "gtin": 4260702180813,
+      "images": [
+        {
+          "alt": "Flüssigseife Pfingstrose Litschi  Jean&Len",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494857/assets/pas/images/e7cb4e4d-adc8-4b29-afad-fe750418d994/jean-und-len-fluessigseife-pfingstrose-litschi"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Litschi  Jean&Len",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750929442/assets/pas/images/f17c8ad4-6441-43ea-8e7f-006cfca27ce4/jean-und-len-fluessigseife-pfingstrose-litschi"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Litschi  Jean&Len",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494857/assets/pas/images/1d3bf0c5-65b7-4a18-9068-3929b70a3ffc/jean-und-len-fluessigseife-pfingstrose-litschi"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Litschi  Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494573/assets/pas/images/567f9281-1025-4043-a8f2-ec6a22323288/jean-und-len-fluessigseife-pfingstrose-litschi"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Litschi  Jean&Len",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750929467/assets/pas/images/67b2cd10-3d2c-449c-925c-6f6ece8e3910/jean-und-len-fluessigseife-pfingstrose-litschi"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 117,
+        "ratingValue": 4.4701
+      },
+      "self": "/p/d/1602716/jean-und-len-fluessigseife-pfingstrose-litschi",
+      "title": {
+        "tileHeadline": "Flüssigseife Pfingstrose Litschi, 250 ml",
+        "tileHeadlineLong": "Flüssigseife Pfingstrose Litschi, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4701,
+        "ratingCount": 117
+      }
+    }
+  },
+  {
+    "gtin": 4002448099871,
+    "dan": 1474301,
+    "brandName": "Sagrotan",
+    "title": "Flüssigseife sanft zur Haut Aloe Vera, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sagrotan; Produktname: Flüssigseife sanft zur Haut Aloe Vera, 250 ml; Preis: 2,45 €; Grundpreis: 0,25 l (9,80 € je 1 l)",
+      "brand": {
+        "name": "Sagrotan"
+      },
+      "dan": 1474301,
+      "gtin": 4002448099871,
+      "images": [
+        {
+          "alt": "Flüssigseife sanft zur Haut Aloe Vera Sagrotan",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430566/assets/pas/images/cf7709ab-d486-41c3-9fb2-d5740aa000d8/sagrotan-fluessigseife-sanft-zur-haut-aloe-vera"
+        },
+        {
+          "alt": "Flüssigseife sanft zur Haut Aloe Vera Sagrotan",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430566/assets/pas/images/10768c5e-b435-494c-92f2-7fc4410490cd/sagrotan-fluessigseife-sanft-zur-haut-aloe-vera"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (8,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/1474301/sagrotan-fluessigseife-sanft-zur-haut-aloe-vera",
+      "title": {
+        "tileHeadline": "Flüssigseife sanft zur Haut Aloe Vera, 250 ml",
+        "tileHeadlineLong": "Flüssigseife sanft zur Haut Aloe Vera, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Sagrotan",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 8718951727465,
+    "dan": 3064306,
+    "brandName": "Palmolive",
+    "title": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml), 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Palmolive; Produktname: Flüssigseife Pfingstrose Nachfüllpack (2x250 ml), 500 ml; Preis: 1,75 €; Grundpreis: 0,5 l (3,50 € je 1 l)",
+      "brand": {
+        "name": "Palmolive"
+      },
+      "dan": 3064306,
+      "gtin": 8718951727465,
+      "images": [
+        {
+          "alt": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533425/assets/pas/images/ca5a8115-126c-4dba-80fe-1a036b3e4bdd/palmolive-fluessigseife-pfingstrose-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758575567/assets/pas/images/9da4a159-3b41-4f79-8b11-e4f052a1a08c/palmolive-fluessigseife-pfingstrose-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533054/assets/pas/images/e7f8fb0e-a711-4745-84cf-a101b8741040/palmolive-fluessigseife-pfingstrose-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533095/assets/pas/images/775159d1-bc83-4cfc-a754-4b346c64afdd/palmolive-fluessigseife-pfingstrose-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533052/assets/pas/images/85a8234f-ae50-4f88-8d0b-a6741826e884/palmolive-fluessigseife-pfingstrose-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533112/assets/pas/images/4c340cbe-f236-4ac9-9af8-f23c38790a42/palmolive-fluessigseife-pfingstrose-nachfuellpack-2x250-ml"
+        },
+        {
+          "alt": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml) Palmolive",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533888/assets/pas/images/c58c4e6b-1638-4f18-8842-7ef928fa3167/palmolive-fluessigseife-pfingstrose-nachfuellpack-2x250-ml"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (2,94 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.8889
+      },
+      "self": "/p/d/3064306/palmolive-fluessigseife-pfingstrose-nachfuellpack-2x250-ml",
+      "title": {
+        "tileHeadline": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml), 500 ml",
+        "tileHeadlineLong": "Flüssigseife Pfingstrose Nachfüllpack (2x250 ml), 500 ml"
+      },
+      "trackingData": {
+        "brand": "Palmolive",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8889,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 4262376082158,
+    "dan": 3102659,
+    "brandName": "nordesign",
+    "title": "Flüssigseife Lavender & Sage, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: nordesign; Produktname: Flüssigseife Lavender & Sage, 300 ml; Preis: 3,95 €; Grundpreis: 0,3 l (13,17 € je 1 l)",
+      "brand": {
+        "name": "nordesign"
+      },
+      "dan": 3102659,
+      "gtin": 4262376082158,
+      "images": [
+        {
+          "alt": "Flüssigseife Lavender & Sage nordesign",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772150314/assets/pas/images/48732398-c07a-486b-85ea-f5eef75f977f/nordesign-fluessigseife-lavender-und-sage"
+        },
+        {
+          "alt": "Flüssigseife Lavender & Sage nordesign",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772150320/assets/pas/images/95eb3283-36dd-4eba-9841-8a9324db2563/nordesign-fluessigseife-lavender-und-sage"
+        },
+        {
+          "alt": "Flüssigseife Lavender & Sage nordesign",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772150333/assets/pas/images/4d356196-8aa3-4f44-bd32-f5c81a377951/nordesign-fluessigseife-lavender-und-sage"
+        },
+        {
+          "alt": "Flüssigseife Lavender & Sage nordesign",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772150357/assets/pas/images/93cebcdb-02b5-4268-a7f5-e9fbfd386e71/nordesign-fluessigseife-lavender-und-sage"
+        },
+        {
+          "alt": "Flüssigseife Lavender & Sage nordesign",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772150345/assets/pas/images/b771bb1e-296b-493e-b779-e014a129ce96/nordesign-fluessigseife-lavender-und-sage"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (11,07 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 27,
+        "ratingValue": 4.8889
+      },
+      "self": "/p/d/3102659/nordesign-fluessigseife-lavender-und-sage",
+      "title": {
+        "tileHeadline": "Flüssigseife Lavender & Sage, 300 ml",
+        "tileHeadlineLong": "Flüssigseife Lavender & Sage, 300 ml"
+      },
+      "trackingData": {
+        "brand": "nordesign",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8889,
+        "ratingCount": 27
+      }
+    }
+  },
+  {
+    "gtin": 4045612009412,
+    "dan": 1675196,
+    "brandName": "CD",
+    "title": "mildes Seifenstück mit Avocado, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: CD; Produktname: mildes Seifenstück mit Avocado, 100 g; Preis: 0,95 €; Grundpreis: 0,1 kg (9,50 € je 1 kg)",
+      "brand": {
+        "name": "CD"
+      },
+      "dan": 1675196,
+      "gtin": 4045612009412,
+      "images": [
+        {
+          "alt": "mildes Seifenstück mit Avocado CD",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445692/assets/pas/images/06aaf494-e9cc-4aa2-836d-ed6ce366bd05/cd-mildes-seifenstueck-mit-avocado"
+        },
+        {
+          "alt": "mildes Seifenstück mit Avocado CD",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445693/assets/pas/images/945957e5-754b-4ee8-87ee-e5ded5ccb32d/cd-mildes-seifenstueck-mit-avocado"
+        },
+        {
+          "alt": "mildes Seifenstück mit Avocado CD",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445271/assets/pas/images/b17f5c32-5f0c-43aa-b231-a49b56145827/cd-mildes-seifenstueck-mit-avocado"
+        },
+        {
+          "alt": "mildes Seifenstück mit Avocado CD",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445480/assets/pas/images/f280c05a-3195-4892-9bad-3cc9a8d61b5d/cd-mildes-seifenstueck-mit-avocado"
+        },
+        {
+          "alt": "mildes Seifenstück mit Avocado CD",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445536/assets/pas/images/67b99aec-adbc-4b76-a7f6-2ec46e51da2b/cd-mildes-seifenstueck-mit-avocado"
+        },
+        {
+          "alt": "mildes Seifenstück mit Avocado CD",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445489/assets/pas/images/f4286a78-912f-4953-a98c-d96886428fae/cd-mildes-seifenstueck-mit-avocado"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (7,98 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (9,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 85,
+        "ratingValue": 4.2353
+      },
+      "self": "/p/d/1675196/cd-mildes-seifenstueck-mit-avocado",
+      "title": {
+        "tileHeadline": "mildes Seifenstück mit Avocado, 100 g",
+        "tileHeadlineLong": "mildes Seifenstück mit Avocado, 100 g"
+      },
+      "trackingData": {
+        "brand": "CD",
+        "categories": [
+          "Feste Seife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2353,
+        "ratingCount": 85
+      }
+    }
+  },
+  {
+    "gtin": 4008890063200,
+    "dan": 3047080,
+    "brandName": "Salthouse",
+    "title": "Waschgel seifenfrei, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Salthouse; Produktname: Waschgel seifenfrei, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l)",
+      "brand": {
+        "name": "Salthouse"
+      },
+      "dan": 3047080,
+      "gtin": 4008890063200,
+      "images": [
+        {
+          "alt": "Waschgel seifenfrei Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436115/assets/pas/images/57c1fe2d-a4c5-4b16-9d25-d5c350b30b84/salthouse-waschgel-seifenfrei"
+        },
+        {
+          "alt": "Waschgel seifenfrei Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436134/assets/pas/images/8019293a-2cd3-4a9d-b1de-83c70904a01a/salthouse-waschgel-seifenfrei"
+        },
+        {
+          "alt": "Waschgel seifenfrei Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435887/assets/pas/images/c94b1736-0519-4eaa-b42e-4261ccbb7082/salthouse-waschgel-seifenfrei"
+        },
+        {
+          "alt": "Waschgel seifenfrei Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436133/assets/pas/images/2fdb01dc-c9a3-4f5e-82a3-e99411d6501a/salthouse-waschgel-seifenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 27,
+        "ratingValue": 4.7407
+      },
+      "self": "/p/d/3047080/salthouse-waschgel-seifenfrei",
+      "title": {
+        "tileHeadline": "Waschgel seifenfrei, 250 ml",
+        "tileHeadlineLong": "Waschgel seifenfrei, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Salthouse",
+        "categories": [
+          "Flüssigseife"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7407,
+        "ratingCount": 27
+      }
+    }
+  }
+]

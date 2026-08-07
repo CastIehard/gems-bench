@@ -1,0 +1,2701 @@
+[
+  {
+    "gtin": 7640143674138,
+    "dan": 1473118,
+    "brandName": "PPURA",
+    "title": "Tomatensauce mit cremigem Frischkäse für Kinder, 340 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Tomatensauce mit cremigem Frischkäse für Kinder, 340 g; Preis: 2,85 €; Grundpreis: 0,34 kg (8,38 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1473118,
+      "gtin": 7640143674138,
+      "images": [
+        {
+          "alt": "Tomatensauce mit cremigem Frischkäse für Kinder PPURA",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756198427/assets/pas/images/07a5a38d-a8cc-4910-9252-c498c7daff48/ppura-tomatensauce-mit-cremigem-frischkaese-fuer-kinder"
+        },
+        {
+          "alt": "Tomatensauce mit cremigem Frischkäse für Kinder PPURA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756198280/assets/pas/images/b097b396-a0e3-4928-89f2-20d4a7be241d/ppura-tomatensauce-mit-cremigem-frischkaese-fuer-kinder"
+        },
+        {
+          "alt": "Tomatensauce mit cremigem Frischkäse für Kinder PPURA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756198461/assets/pas/images/15391e5e-2bcd-4c09-af36-8ddd29ce4673/ppura-tomatensauce-mit-cremigem-frischkaese-fuer-kinder"
+        },
+        {
+          "alt": "Tomatensauce mit cremigem Frischkäse für Kinder PPURA",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756198443/assets/pas/images/e2592df2-dbcf-4383-974f-233e5c536077/ppura-tomatensauce-mit-cremigem-frischkaese-fuer-kinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (7,83 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (8,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 134,
+        "ratingValue": 4.806
+      },
+      "self": "/p/d/1473118/ppura-tomatensauce-mit-cremigem-frischkaese-fuer-kinder",
+      "title": {
+        "tileHeadline": "Tomatensauce mit cremigem Frischkäse für Kinder, 340 g",
+        "tileHeadlineLong": "Tomatensauce mit cremigem Frischkäse für Kinder, 340 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Soßen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.806,
+        "ratingCount": 134
+      }
+    }
+  },
+  {
+    "gtin": 4260133232259,
+    "dan": 1577643,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12 Monaten, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Knusper-Stäbchen Mais & Käse, ab 12 Monaten, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1577643,
+      "gtin": 4260133232259,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952999/assets/pas/images/1e8d9be9-5e4c-4fcf-b60f-f345c6f19497/fruchtbar-kindersnack-knusper-staebchen-mais-und-kaese-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952998/assets/pas/images/528987a8-2d7e-46bc-9f37-f66ce116c494/fruchtbar-kindersnack-knusper-staebchen-mais-und-kaese-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 118,
+        "ratingValue": 4.8729
+      },
+      "self": "/p/d/1577643/fruchtbar-kindersnack-knusper-staebchen-mais-und-kaese-ab-12-monaten",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12..., 30 g",
+        "tileHeadlineLong": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8729,
+        "ratingCount": 118
+      }
+    }
+  },
+  {
+    "gtin": 4260311980286,
+    "dan": 1557825,
+    "brandName": "MOGLi",
+    "title": "Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: MOGLi; Produktname: Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren, 75 g; Preis: 1,55 €; Grundpreis: 0,075 kg (20,67 € je 1 kg)",
+      "brand": {
+        "name": "MOGLi"
+      },
+      "dan": 1557825,
+      "gtin": 4260311980286,
+      "images": [
+        {
+          "alt": "Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491886/assets/pas/images/d6a84e41-7945-4445-850c-af5afb627c7c/mogli-kindersnack-pizza-stangen-mit-kaese-und-olivenoel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492166/assets/pas/images/516f81ec-1264-40ee-8c68-2654bb3f9175/mogli-kindersnack-pizza-stangen-mit-kaese-und-olivenoel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492282/assets/pas/images/7d92eb31-dd0a-4af0-a944-dd7c0b882123/mogli-kindersnack-pizza-stangen-mit-kaese-und-olivenoel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492157/assets/pas/images/8cec87bf-6f29-49a9-8b75-a5aa12d28918/mogli-kindersnack-pizza-stangen-mit-kaese-und-olivenoel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492154/assets/pas/images/bd61df87-235d-483f-8f9a-f851a1cae5b2/mogli-kindersnack-pizza-stangen-mit-kaese-und-olivenoel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492282/assets/pas/images/ad69afd5-2431-44f5-9d54-7fe94a2f2739/mogli-kindersnack-pizza-stangen-mit-kaese-und-olivenoel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492166/assets/pas/images/297849d1-5c79-451a-8c6a-b90654b89bad/mogli-kindersnack-pizza-stangen-mit-kaese-und-olivenoel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Pizza Stangen mit Käse und Olivenöl, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786397/assets/pas/images/bfb7feed-d91e-4d51-931a-286fa46bbd20/mogli-kindersnack-pizza-stangen-mit-kaese-und-olivenoel-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (19,32 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (20,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 129,
+        "ratingValue": 4.7442
+      },
+      "self": "/p/d/1557825/mogli-kindersnack-pizza-stangen-mit-kaese-und-olivenoel-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Pizza Stangen mit Käse und Olivenöl,..., 75 g",
+        "tileHeadlineLong": "Kindersnack Pizza Stangen mit Käse und Olivenöl,..., 75 g"
+      },
+      "trackingData": {
+        "brand": "MOGLi",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7442,
+        "ratingCount": 129
+      }
+    }
+  },
+  {
+    "gtin": 4260133237360,
+    "dan": 3090324,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab 12 Monaten, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Pizza-Flieger Tomate, Käse & Mais ab 12 Monaten, 30 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 3090324,
+      "gtin": 4260133237360,
+      "images": [
+        {
+          "alt": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771309956/assets/pas/images/9810c3f3-14b3-44ac-9af3-48f40fed5542/fruchtbar-kindersnack-pizza-flieger-tomate-kaese-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771309935/assets/pas/images/d2bc42f7-ca04-4f06-865d-01a1effdc3bb/fruchtbar-kindersnack-pizza-flieger-tomate-kaese-und-mais-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.6111
+      },
+      "self": "/p/d/3090324/fruchtbar-kindersnack-pizza-flieger-tomate-kaese-und-mais-ab-12-monaten",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab..., 30 g",
+        "tileHeadlineLong": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6111,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 4260133233812,
+    "dan": 1690710,
+    "brandName": "FRUCHTBAR Pausenfreund",
+    "title": "Kindersnack Laugen-Sterne mit Käse, ab 3 Jahren, 70 g",
+    "tileData": {
+      "a11yLabel": "Marke: FRUCHTBAR Pausenfreund; Produktname: Kindersnack Laugen-Sterne mit Käse, ab 3 Jahren, 70 g; Preis: 1,95 €; Grundpreis: 0,07 kg (27,86 € je 1 kg)",
+      "brand": {
+        "name": "FRUCHTBAR Pausenfreund"
+      },
+      "dan": 1690710,
+      "gtin": 4260133233812,
+      "images": [
+        {
+          "alt": "Kindersnack Laugen-Sterne mit Käse, ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754955338/assets/pas/images/bc292443-958a-44af-a2a8-547f802cdb71/fruchtbar-pausenfreund-kindersnack-laugen-sterne-mit-kaese-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Laugen-Sterne mit Käse, ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754955333/assets/pas/images/d26899ea-b56c-4810-8621-aa4a4cba5644/fruchtbar-pausenfreund-kindersnack-laugen-sterne-mit-kaese-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Laugen-Sterne mit Käse, ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491814/assets/pas/images/b1391c1c-e805-4de4-a2fe-2992804abe08/fruchtbar-pausenfreund-kindersnack-laugen-sterne-mit-kaese-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Laugen-Sterne mit Käse, ab 3 Jahren FRUCHTBAR Pausenfreund",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491854/assets/pas/images/2146116c-ec0c-4fb4-94bf-061cae23b30b/fruchtbar-pausenfreund-kindersnack-laugen-sterne-mit-kaese-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,07 kg (26,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,07 kg (27,86 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 103,
+        "ratingValue": 4.9223
+      },
+      "self": "/p/d/1690710/fruchtbar-pausenfreund-kindersnack-laugen-sterne-mit-kaese-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Laugen-Sterne mit Käse, ab 3 Jahren, 70 g",
+        "tileHeadlineLong": "Kindersnack Laugen-Sterne mit Käse, ab 3 Jahren, 70 g"
+      },
+      "trackingData": {
+        "brand": "FRUCHTBAR Pausenfreund",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9223,
+        "ratingCount": 103
+      }
+    }
+  },
+  {
+    "gtin": 4067796236170,
+    "dan": 1459857,
+    "brandName": "dmBio",
+    "title": "Nudeln, Tortellini mit Käse gefüllt, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Tortellini mit Käse gefüllt, 250 g; Preis: 1,95 €; Grundpreis: 0,25 kg (7,80 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1459857,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796236170,
+      "images": [
+        {
+          "alt": "Nudeln, Tortellini mit Käse gefüllt dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762989201/assets/pas/images/b8f68e74-6bdd-468f-9e22-72b37c8144ab/dmbio-nudeln-tortellini-mit-kaese-gefuellt"
+        },
+        {
+          "alt": "Nudeln, Tortellini mit Käse gefüllt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762989207/assets/pas/images/2b4d8e07-7839-4219-b155-0ce9cbdb1270/dmbio-nudeln-tortellini-mit-kaese-gefuellt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (7,29 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (7,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 115,
+        "ratingValue": 3.8609
+      },
+      "self": "/p/d/1459857/dmbio-nudeln-tortellini-mit-kaese-gefuellt",
+      "title": {
+        "tileHeadline": "Nudeln, Tortellini mit Käse gefüllt, 250 g",
+        "tileHeadlineLong": "Nudeln, Tortellini mit Käse gefüllt, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8609,
+        "ratingCount": 115
+      }
+    }
+  },
+  {
+    "gtin": 4062300253735,
+    "dan": 1017384,
+    "brandName": "HiPP",
+    "title": "Menü Pasta Bambini Tagliatelle in Spinat-Käse-Sauce ab dem 12. Monat, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Menü Pasta Bambini Tagliatelle in Spinat-Käse-Sauce ab dem 12. Monat, 250 g; Rechtliche Kategorie: Beikost; Preis: 1,85 €; Grundpreis: 0,25 kg (7,40 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1017384,
+      "gtin": 4062300253735,
+      "images": [
+        {
+          "alt": "Menü Pasta Bambini Tagliatelle in Spinat-Käse-Sauce ab dem 12. Monat HiPP",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473476/assets/pas/images/9f8ef450-980e-4558-a609-5752764efcd3/hipp-menue-pasta-bambini-tagliatelle-in-spinat-kaese-sauce-ab-dem-12-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (6,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (7,40 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.7586
+      },
+      "self": "/p/d/1017384/hipp-menue-pasta-bambini-tagliatelle-in-spinat-kaese-sauce-ab-dem-12-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Pasta Bambini Tagliatelle in..., 250 g",
+        "tileHeadlineLong": "Menü Pasta Bambini Tagliatelle in..., 250 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7586,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4067796265934,
+    "dan": 1713461,
+    "brandName": "Dein Bestes",
+    "title": "Nassfutter Katze, reich an Hühnchen in Käsesauce, Exquisit, 85 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dein Bestes; Produktname: Nassfutter Katze, reich an Hühnchen in Käsesauce, Exquisit, 85 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 0,45 €; Grundpreis: 0,085 kg (5,29 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Dein Bestes"
+      },
+      "dan": 1713461,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796265934,
+      "images": [
+        {
+          "alt": "Nassfutter Katze, reich an Hühnchen in Käsesauce, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774133475/assets/pas/images/cd2f5bd8-ffcc-4546-83b0-6fe27d20efd2/dein-bestes-nassfutter-katze-reich-an-huehnchen-in-kaesesauce-exquisit"
+        },
+        {
+          "alt": "Nassfutter Katze, reich an Hühnchen in Käsesauce, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774133482/assets/pas/images/6da65db9-cb50-47d5-b390-2f09a93e24c0/dein-bestes-nassfutter-katze-reich-an-huehnchen-in-kaesesauce-exquisit"
+        },
+        {
+          "alt": "Nassfutter Katze, reich an Hühnchen in Käsesauce, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780446712/assets/pas/images/dd4cecf1-8748-4a25-bf47-25559fca4d1f/dein-bestes-nassfutter-katze-reich-an-huehnchen-in-kaesesauce-exquisit"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,42 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (4,94 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (5,29 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.619
+      },
+      "self": "/p/d/1713461/dein-bestes-nassfutter-katze-reich-an-huehnchen-in-kaesesauce-exquisit",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Nassfutter Katze, reich an Hühnchen in Käsesauce,..., 85 g",
+        "tileHeadlineLong": "Nassfutter Katze, reich an Hühnchen in Käsesauce,..., 85 g"
+      },
+      "trackingData": {
+        "brand": "Dein Bestes",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Variante",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 1713461,
+            "gtin": 4067796265934,
+            "hex": "#FFB90F",
+            "href": "/p/d/1713461/dein-bestes-nassfutter-katze-reich-an-huehnchen-in-kaesesauce-exquisit",
+            "isSelected": true,
+            "tooltip": "Nassfutter Katze, reich an Hühnchen in Käsesauce, Exquisit"
+          },
+          {
+            "dan": 1713524,
+            "gtin": 4067796265903,
+            "hex": "#FFE4E1",
+            "href": "/p/d/1713524/dein-bestes-nassfutter-katze-reich-an-pute-mit-ei-in-sauce-exquisit",
+            "isSelected": false,
+            "tooltip": "Nassfutter Katze, reich an Pute mit Ei in Sauce, Exquisit"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.619,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4070765008234,
+    "dan": 3088172,
+    "brandName": "Dein Bestes",
+    "title": "Hundeleckerli feine Pastetencreme reich an Huhn mit Käse, Exquisit, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dein Bestes; Produktname: Hundeleckerli feine Pastetencreme reich an Huhn mit Käse, Exquisit, 80 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 1,65 €; Grundpreis: 0,08 kg (20,63 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Dein Bestes"
+      },
+      "dan": 3088172,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765008234,
+      "images": [
+        {
+          "alt": "Hundeleckerli feine Pastetencreme reich an Huhn mit Käse, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551518/assets/pas/images/07abffb8-bdfc-4bca-9cb5-6fd4df960b7d/dein-bestes-hundeleckerli-feine-pastetencreme-reich-an-huhn-mit-kaese-exquisit"
+        },
+        {
+          "alt": "Hundeleckerli feine Pastetencreme reich an Huhn mit Käse, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551514/assets/pas/images/3e19943c-a804-47e2-9524-77af34c19d79/dein-bestes-hundeleckerli-feine-pastetencreme-reich-an-huhn-mit-kaese-exquisit"
+        },
+        {
+          "alt": "Hundeleckerli feine Pastetencreme reich an Huhn mit Käse, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780438747/assets/pas/images/67e17e58-0b26-4b8d-b3f5-5dd82da4b2c9/dein-bestes-hundeleckerli-feine-pastetencreme-reich-an-huhn-mit-kaese-exquisit"
+        },
+        {
+          "alt": "Hundeleckerli feine Pastetencreme reich an Huhn mit Käse, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772710388/assets/pas/images/d1ac8197-f8a5-4c59-bd84-3453c50362b8/dein-bestes-hundeleckerli-feine-pastetencreme-reich-an-huhn-mit-kaese-exquisit"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (19,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (20,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 23,
+        "ratingValue": 4.6087
+      },
+      "self": "/p/d/3088172/dein-bestes-hundeleckerli-feine-pastetencreme-reich-an-huhn-mit-kaese-exquisit",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Hundeleckerli feine Pastetencreme reich an Huhn..., 80 g",
+        "tileHeadlineLong": "Hundeleckerli feine Pastetencreme reich an Huhn..., 80 g"
+      },
+      "trackingData": {
+        "brand": "Dein Bestes",
+        "categories": [
+          "Leckerlis für Hunde"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Variante",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 3088172,
+            "gtin": 4070765008234,
+            "hex": "#FFC125",
+            "href": "/p/d/3088172/dein-bestes-hundeleckerli-feine-pastetencreme-reich-an-huhn-mit-kaese-exquisit",
+            "isSelected": true,
+            "tooltip": "Hundeleckerli feine Pastetencreme reich an Huhn mit Käse, Exquisit"
+          },
+          {
+            "dan": 3088163,
+            "gtin": 4070765008227,
+            "hex": "#FA8072",
+            "href": "/p/d/3088163/dein-bestes-hundeleckerli-kernige-pastetencreme-reich-an-leber-exquisit",
+            "isSelected": false,
+            "tooltip": "Hundeleckerli kernige Pastetencreme reich an Leber, Exquisit"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6087,
+        "ratingCount": 23
+      }
+    }
+  },
+  {
+    "gtin": 4013182023848,
+    "dan": 1430885,
+    "brandName": "Nabio",
+    "title": "Brotaufstrich, Gegrillte Aubergine Bergkäse, 135 g",
+    "tileData": {
+      "a11yLabel": "Marke: Nabio; Produktname: Brotaufstrich, Gegrillte Aubergine Bergkäse, 135 g; Preis: 2,55 €; Grundpreis: 0,135 kg (18,89 € je 1 kg)",
+      "brand": {
+        "name": "Nabio"
+      },
+      "dan": 1430885,
+      "gtin": 4013182023848,
+      "images": [
+        {
+          "alt": "Brotaufstrich, Gegrillte Aubergine Bergkäse Nabio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772922289/assets/pas/images/561b05f2-063b-47e4-8de4-0b150e2cbf11/nabio-brotaufstrich-gegrillte-aubergine-bergkaese"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (17,65 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (18,89 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 24,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/1430885/nabio-brotaufstrich-gegrillte-aubergine-bergkaese",
+      "title": {
+        "tileHeadline": "Brotaufstrich, Gegrillte Aubergine Bergkäse, 135 g",
+        "tileHeadlineLong": "Brotaufstrich, Gegrillte Aubergine Bergkäse, 135 g"
+      },
+      "trackingData": {
+        "brand": "Nabio",
+        "categories": [
+          "Herzhafte Brotaufstriche"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 24
+      }
+    }
+  },
+  {
+    "gtin": 4019339646014,
+    "dan": 1534494,
+    "brandName": "Davert",
+    "title": "Fertiggericht, Noodle Cup mit Brokkoli-Käse-Sauce, No.2, 64 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Fertiggericht, Noodle Cup mit Brokkoli-Käse-Sauce, No.2, 64 g; Preis: 1,85 €; Grundpreis: 0,064 kg (28,91 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1534494,
+      "gtin": 4019339646014,
+      "images": [
+        {
+          "alt": "Fertiggericht, Noodle Cup mit Brokkoli-Käse-Sauce, No.2 Davert",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442501/assets/pas/images/4192916f-25f7-4d32-bff0-d75744f5a0f1/davert-fertiggericht-noodle-cup-mit-brokkoli-kaese-sauce-no-2"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,064 kg (27,02 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,064 kg (28,91 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 111,
+        "ratingValue": 3.0
+      },
+      "self": "/p/d/1534494/davert-fertiggericht-noodle-cup-mit-brokkoli-kaese-sauce-no-2",
+      "title": {
+        "tileHeadline": "Fertiggericht, Noodle Cup mit..., 64 g",
+        "tileHeadlineLong": "Fertiggericht, Noodle Cup mit..., 64 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Schnelle Gerichte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0,
+        "ratingCount": 111
+      }
+    }
+  },
+  {
+    "gtin": 4058172590399,
+    "dan": 1672237,
+    "brandName": "Dein Bestes",
+    "title": "Katzenleckerli Cremesnack mit Käse, Himmlisch (8x15 g), 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dein Bestes; Produktname: Katzenleckerli Cremesnack mit Käse, Himmlisch (8x15 g), 120 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 1,45 €; Grundpreis: 0,12 kg (12,08 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Dein Bestes"
+      },
+      "dan": 1672237,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172590399,
+      "images": [
+        {
+          "alt": "Katzenleckerli Cremesnack mit Käse, Himmlisch (8x15 g) Dein Bestes",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747452677/assets/pas/images/c3cde0e3-d45a-41d9-87d0-e4cc5fa89be6/dein-bestes-katzenleckerli-cremesnack-mit-kaese-himmlisch-8x15-g"
+        },
+        {
+          "alt": "Katzenleckerli Cremesnack mit Käse, Himmlisch (8x15 g) Dein Bestes",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747452837/assets/pas/images/311e4704-4d7d-4b40-ac8d-d1315e8c2160/dein-bestes-katzenleckerli-cremesnack-mit-kaese-himmlisch-8x15-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (11,29 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (12,08 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 111,
+        "ratingValue": 4.8018
+      },
+      "self": "/p/d/1672237/dein-bestes-katzenleckerli-cremesnack-mit-kaese-himmlisch-8x15-g",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Katzenleckerli Cremesnack mit Käse, Himmlisch..., 120 g",
+        "tileHeadlineLong": "Katzenleckerli Cremesnack mit Käse, Himmlisch..., 120 g"
+      },
+      "trackingData": {
+        "brand": "Dein Bestes",
+        "categories": [
+          "Snacks für Katzen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8018,
+        "ratingCount": 111
+      }
+    }
+  },
+  {
+    "gtin": 5998749139677,
+    "dan": 1637475,
+    "brandName": "Whiskas",
+    "title": "Katzenleckerli Knuspertaschen mit Huhn & Käse, Megapack, 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Whiskas; Produktname: Katzenleckerli Knuspertaschen mit Huhn & Käse, Megapack, 180 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 3,75 €; Grundpreis: 0,18 kg (20,83 € je 1 kg)",
+      "brand": {
+        "name": "Whiskas"
+      },
+      "dan": 1637475,
+      "gtin": 5998749139677,
+      "images": [
+        {
+          "alt": "Katzenleckerli Knuspertaschen mit Huhn & Käse, Megapack Whiskas",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781128603/assets/pas/images/77cde81b-d755-4515-aec7-c40afd3a4237/whiskas-katzenleckerli-knuspertaschen-mit-huhn-und-kaese-megapack"
+        },
+        {
+          "alt": "Katzenleckerli Knuspertaschen mit Huhn & Käse, Megapack Whiskas",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781128578/assets/pas/images/dcd7ba61-00ae-44df-9ce6-c9749e20d94a/whiskas-katzenleckerli-knuspertaschen-mit-huhn-und-kaese-megapack"
+        },
+        {
+          "alt": "Katzenleckerli Knuspertaschen mit Huhn & Käse, Megapack Whiskas",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781128631/assets/pas/images/b78f6f77-01ed-4f7a-9a42-e5e31978081b/whiskas-katzenleckerli-knuspertaschen-mit-huhn-und-kaese-megapack"
+        },
+        {
+          "alt": "Katzenleckerli Knuspertaschen mit Huhn & Käse, Megapack Whiskas",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780439577/assets/pas/images/c867536d-a7fa-4012-9a50-fb54111158e6/whiskas-katzenleckerli-knuspertaschen-mit-huhn-und-kaese-megapack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (19,47 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (20,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 49,
+        "ratingValue": 4.7551
+      },
+      "self": "/p/d/1637475/whiskas-katzenleckerli-knuspertaschen-mit-huhn-und-kaese-megapack",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Katzenleckerli Knuspertaschen mit Huhn & Käse,..., 180 g",
+        "tileHeadlineLong": "Katzenleckerli Knuspertaschen mit Huhn & Käse,..., 180 g"
+      },
+      "trackingData": {
+        "brand": "Whiskas",
+        "categories": [
+          "Snacks für Katzen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7551,
+        "ratingCount": 49
+      }
+    }
+  },
+  {
+    "gtin": 4070765005172,
+    "dan": 3125321,
+    "brandName": "dm home",
+    "title": "Käsereibe aus Holz & Edelstahl, natur/silber (7x4x24,7 cm) 2tlg, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: dm home; Produktname: Käsereibe aus Holz & Edelstahl, natur/silber (7x4x24,7 cm) 2tlg, 1 St; Preis: 7,95 €; Grundpreis: 1 St (7,95 € je 1 St); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dm home"
+      },
+      "dan": 3125321,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765005172,
+      "images": [
+        {
+          "alt": "Käsereibe aus Holz & Edelstahl, natur/silber (7x4x24,7 cm) 2tlg dm home",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779840074/assets/pas/images/44df0222-e122-4925-970c-0cec9ee25d5b/dm-home-kaesereibe-aus-holz-und-edelstahl-natur-silber-7x4x24-7-cm-2tlg"
+        },
+        {
+          "alt": "Käsereibe aus Holz & Edelstahl, natur/silber (7x4x24,7 cm) 2tlg dm home",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779840071/assets/pas/images/80d30db7-b038-4f87-888e-6c9f9c1095ec/dm-home-kaesereibe-aus-holz-und-edelstahl-natur-silber-7x4x24-7-cm-2tlg"
+        },
+        {
+          "alt": "Käsereibe aus Holz & Edelstahl, natur/silber (7x4x24,7 cm) 2tlg dm home",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782520465/assets/pas/images/7f1ee90e-6b7a-4e17-9cc5-c6f13b3d96b4/dm-home-kaesereibe-aus-holz-und-edelstahl-natur-silber-7x4x24-7-cm-2tlg"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (6,68 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (7,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3125321/dm-home-kaesereibe-aus-holz-und-edelstahl-natur-silber-7x4x24-7-cm-2tlg",
+      "title": {
+        "tileHeadline": "Käsereibe aus Holz & Edelstahl, natur/silber..., 1 St",
+        "tileHeadlineLong": "Käsereibe aus Holz & Edelstahl, natur/silber..., 1 St"
+      },
+      "trackingData": {
+        "brand": "dm home",
+        "categories": [
+          "Deko Limited Editions",
+          "Geschirr"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 1
+      }
+    }
+  },
+  {
+    "gtin": 4067796254648,
+    "dan": 3071095,
+    "brandName": "Dein Bestes",
+    "title": "Katzenleckerli Knabbertaschen reich an Geflügel mit Käse, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dein Bestes; Produktname: Katzenleckerli Knabbertaschen reich an Geflügel mit Käse, 150 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 0,95 €; Grundpreis: 0,15 kg (6,33 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Dein Bestes"
+      },
+      "dan": 3071095,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796254648,
+      "images": [
+        {
+          "alt": "Katzenleckerli Knabbertaschen reich an Geflügel mit Käse Dein Bestes",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755012486/assets/pas/images/56896a7d-d70c-40da-a85c-caa1734de499/dein-bestes-katzenleckerli-knabbertaschen-reich-an-gefluegel-mit-kaese"
+        },
+        {
+          "alt": "Katzenleckerli Knabbertaschen reich an Geflügel mit Käse Dein Bestes",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755012491/assets/pas/images/4969b460-811b-4f6f-a559-c876efb51b41/dein-bestes-katzenleckerli-knabbertaschen-reich-an-gefluegel-mit-kaese"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (5,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (6,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.8475
+      },
+      "self": "/p/d/3071095/dein-bestes-katzenleckerli-knabbertaschen-reich-an-gefluegel-mit-kaese",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Katzenleckerli Knabbertaschen reich an Geflügel..., 150 g",
+        "tileHeadlineLong": "Katzenleckerli Knabbertaschen reich an Geflügel..., 150 g"
+      },
+      "trackingData": {
+        "brand": "Dein Bestes",
+        "categories": [
+          "Snacks für Katzen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8475,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4067796208856,
+    "dan": 3070611,
+    "brandName": "dmBio",
+    "title": "Brotaufstrich, Mediterranes Gemüse & Käse, 135 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Brotaufstrich, Mediterranes Gemüse & Käse, 135 g; Preis: 1,55 €; Grundpreis: 0,135 kg (11,48 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3070611,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796208856,
+      "images": [
+        {
+          "alt": "Brotaufstrich, Mediterranes Gemüse & Käse dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753078037/assets/pas/images/8b645862-4af4-4842-873f-e0e1527a0a9a/dmbio-brotaufstrich-mediterranes-gemuese-und-kaese"
+        },
+        {
+          "alt": "Brotaufstrich, Mediterranes Gemüse & Käse dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748559921/assets/pas/images/7f78147a-6926-459f-b0eb-57e4a2a0a5dd/dmbio-brotaufstrich-mediterranes-gemuese-und-kaese"
+        },
+        {
+          "alt": "Brotaufstrich, Mediterranes Gemüse & Käse dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748559903/assets/pas/images/9c3096c0-df68-4ceb-8407-1f26c4fb091a/dmbio-brotaufstrich-mediterranes-gemuese-und-kaese"
+        },
+        {
+          "alt": "Brotaufstrich, Mediterranes Gemüse & Käse dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748559928/assets/pas/images/b3c2f633-0976-4f2a-b844-13730e45850b/dmbio-brotaufstrich-mediterranes-gemuese-und-kaese"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (10,73 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (11,48 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.8933
+      },
+      "self": "/p/d/3070611/dmbio-brotaufstrich-mediterranes-gemuese-und-kaese",
+      "title": {
+        "tileHeadline": "Brotaufstrich, Mediterranes Gemüse & Käse, 135 g",
+        "tileHeadlineLong": "Brotaufstrich, Mediterranes Gemüse & Käse, 135 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Herzhafte Brotaufstriche"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8933,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 4017721830508,
+    "dan": 3132659,
+    "brandName": "animonda VOM FEINSTEN",
+    "title": "Nassfutter Katze mit Pute & Käse, mildes Menü, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: animonda VOM FEINSTEN; Produktname: Nassfutter Katze mit Pute & Käse, mildes Menü, 100 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 0,95 €; Grundpreis: 0,1 kg (9,50 € je 1 kg)",
+      "brand": {
+        "name": "animonda VOM FEINSTEN"
+      },
+      "dan": 3132659,
+      "gtin": 4017721830508,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Pute & Käse, mildes Menü animonda VOM FEINSTEN",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777071485/assets/pas/images/9fbe78b7-bef4-415d-ab00-c5cf92ef9c21/animonda-vom-feinsten-nassfutter-katze-mit-pute-und-kaese-mildes-menue"
+        },
+        {
+          "alt": "Nassfutter Katze mit Pute & Käse, mildes Menü animonda VOM FEINSTEN",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783730804/assets/pas/images/ebafa56b-c788-47db-b2b6-12bc572c1f55/animonda-vom-feinsten-nassfutter-katze-mit-pute-und-kaese-mildes-menue"
+        },
+        {
+          "alt": "Nassfutter Katze mit Pute & Käse, mildes Menü animonda VOM FEINSTEN",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895803/assets/pas/images/4e9f9498-5002-4a7d-8e20-c0e6bf2676b2/animonda-vom-feinsten-nassfutter-katze-mit-pute-und-kaese-mildes-menue"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (8,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (9,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3132659/animonda-vom-feinsten-nassfutter-katze-mit-pute-und-kaese-mildes-menue",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Pute & Käse, mildes Menü, 100 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Pute & Käse, mildes Menü, 100 g"
+      },
+      "trackingData": {
+        "brand": "animonda VOM FEINSTEN",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 2
+      }
+    }
+  },
+  {
+    "gtin": 4008429081781,
+    "dan": 1547089,
+    "brandName": "Dreamies",
+    "title": "Katzenleckerli mit Käse, 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dreamies; Produktname: Katzenleckerli mit Käse, 180 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 3,75 €; Grundpreis: 0,18 kg (20,83 € je 1 kg)",
+      "brand": {
+        "name": "Dreamies"
+      },
+      "dan": 1547089,
+      "gtin": 4008429081781,
+      "images": [
+        {
+          "alt": "Katzenleckerli mit Käse Dreamies",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786146/assets/pas/images/c5282e69-c6e8-469b-bf8f-e39c89da22a1/dreamies-katzenleckerli-mit-kaese"
+        },
+        {
+          "alt": "Katzenleckerli mit Käse Dreamies",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786113/assets/pas/images/20f7e4ed-bf29-46d2-be16-e0fbb262f363/dreamies-katzenleckerli-mit-kaese"
+        },
+        {
+          "alt": "Katzenleckerli mit Käse Dreamies",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786177/assets/pas/images/8e51ed9d-f889-42c2-940d-bac835f04c3b/dreamies-katzenleckerli-mit-kaese"
+        },
+        {
+          "alt": "Katzenleckerli mit Käse Dreamies",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786105/assets/pas/images/bd9032f8-5fe1-4afa-9efd-24f7eb6aa07c/dreamies-katzenleckerli-mit-kaese"
+        },
+        {
+          "alt": "Katzenleckerli mit Käse Dreamies",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786184/assets/pas/images/5643e519-fcad-4e9c-a6e8-7aadaaabc26d/dreamies-katzenleckerli-mit-kaese"
+        },
+        {
+          "alt": "Katzenleckerli mit Käse Dreamies",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786099/assets/pas/images/97ebca74-cf6b-451e-b510-0bd153873692/dreamies-katzenleckerli-mit-kaese"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (19,47 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (20,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1656,
+        "ratingValue": 4.9444
+      },
+      "self": "/p/d/1547089/dreamies-katzenleckerli-mit-kaese",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Katzenleckerli mit Käse, 180 g",
+        "tileHeadlineLong": "Katzenleckerli mit Käse, 180 g"
+      },
+      "trackingData": {
+        "brand": "Dreamies",
+        "categories": [
+          "Snacks für Katzen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9444,
+        "ratingCount": 1656
+      }
+    }
+  },
+  {
+    "gtin": 4018852035589,
+    "dan": 1584138,
+    "brandName": "Bebivita",
+    "title": "Menü Risotto mit Spinat und Käse, ab dem 8. Monat, 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bebivita; Produktname: Menü Risotto mit Spinat und Käse, ab dem 8. Monat, 220 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,22 kg (5,23 € je 1 kg)",
+      "brand": {
+        "name": "Bebivita"
+      },
+      "dan": 1584138,
+      "gtin": 4018852035589,
+      "images": [
+        {
+          "alt": "Menü Risotto mit Spinat und Käse, ab dem 8. Monat Bebivita",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442441/assets/pas/images/0e6518a0-c889-4d60-b5d3-5656c1f940ea/bebivita-menue-risotto-mit-spinat-und-kaese-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (4,89 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (5,23 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.2105
+      },
+      "self": "/p/d/1584138/bebivita-menue-risotto-mit-spinat-und-kaese-ab-dem-8-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Risotto mit Spinat und Käse, ab dem 8. Monat, 220 g",
+        "tileHeadlineLong": "Menü Risotto mit Spinat und Käse, ab dem 8. Monat, 220 g"
+      },
+      "trackingData": {
+        "brand": "Bebivita",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2105,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4260633077480,
+    "dan": 1635205,
+    "brandName": "Pets Deli",
+    "title": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: Pets Deli; Produktname: Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit, 400 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 3,45 €; Grundpreis: 0,4 kg (8,63 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Pets Deli"
+      },
+      "dan": 1635205,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260633077480,
+      "images": [
+        {
+          "alt": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit Pets Deli",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494005/assets/pas/images/6aa4f298-55eb-4ed2-8981-40e4868128a4/pets-deli-nassfutter-hund-mit-huhn-huettenkaese-und-reis-vet-magen-und-darm-fit"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit Pets Deli",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774398647/assets/pas/images/1409d9f1-a078-4b21-b6d6-750fb5a9d3c1/pets-deli-nassfutter-hund-mit-huhn-huettenkaese-und-reis-vet-magen-und-darm-fit"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit Pets Deli",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494078/assets/pas/images/f28ce631-02b5-42a3-a08b-cd6628bf8b50/pets-deli-nassfutter-hund-mit-huhn-huettenkaese-und-reis-vet-magen-und-darm-fit"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit Pets Deli",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493652/assets/pas/images/88f74342-5a56-49ca-af57-bf15d52ff305/pets-deli-nassfutter-hund-mit-huhn-huettenkaese-und-reis-vet-magen-und-darm-fit"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit Pets Deli",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494000/assets/pas/images/3bee9256-2ada-4cc6-8ab3-5ccbf670acf0/pets-deli-nassfutter-hund-mit-huhn-huettenkaese-und-reis-vet-magen-und-darm-fit"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit Pets Deli",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493990/assets/pas/images/2f80f04d-5371-4a79-916b-d4a312d4874d/pets-deli-nassfutter-hund-mit-huhn-huettenkaese-und-reis-vet-magen-und-darm-fit"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit Pets Deli",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494006/assets/pas/images/37b2a9cc-41d9-407a-aebe-99fee8f4f1e5/pets-deli-nassfutter-hund-mit-huhn-huettenkaese-und-reis-vet-magen-und-darm-fit"
+        },
+        {
+          "alt": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET Magen & Darm fit Pets Deli",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494083/assets/pas/images/b995630a-e408-4cac-b6f4-a199c6f02f88/pets-deli-nassfutter-hund-mit-huhn-huettenkaese-und-reis-vet-magen-und-darm-fit"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (8,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (8,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 12,
+        "ratingValue": 4.4167
+      },
+      "self": "/p/d/1635205/pets-deli-nassfutter-hund-mit-huhn-huettenkaese-und-reis-vet-magen-und-darm-fit",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET..., 400 g",
+        "tileHeadlineLong": "Nassfutter Hund mit Huhn, Hüttenkäse & Reis, VET..., 400 g"
+      },
+      "trackingData": {
+        "brand": "Pets Deli",
+        "categories": [
+          "Nahrungsergänzung & Diätfutter Hund",
+          "Nassfutter Hund"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4167,
+        "ratingCount": 12
+      }
+    }
+  },
+  {
+    "gtin": 4260526967157,
+    "dan": 3115144,
+    "brandName": "pumpkin organics",
+    "title": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren, 20 g; Preis: 1,15 €; Grundpreis: 0,02 kg (57,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 3115144,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260526967157,
+      "images": [
+        {
+          "alt": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763627578/assets/pas/images/8b341849-a697-445c-a30f-1c4c200449e8/pumpkin-organics-kindersnack-bluey-linsen-puffs-kaese-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren pumpkin organics",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763627565/assets/pas/images/e6312979-3eca-49d8-b9f1-24dcdec8b7cd/pumpkin-organics-kindersnack-bluey-linsen-puffs-kaese-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (53,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (57,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3115144/pumpkin-organics-kindersnack-bluey-linsen-puffs-kaese-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren, 20 g",
+        "tileHeadlineLong": "Kindersnack Bluey Linsen Puffs Käse ab 3 Jahren, 20 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4008429111464,
+    "dan": 1709299,
+    "brandName": "Dreamies",
+    "title": "Katzenleckerli mit Käse, Mega Box, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dreamies; Produktname: Katzenleckerli mit Käse, Mega Box, 350 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 6,45 €; Grundpreis: 0,35 kg (18,43 € je 1 kg); Limitierte Editition Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "Dreamies"
+      },
+      "dan": 1709299,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4008429111464,
+      "images": [
+        {
+          "alt": "Katzenleckerli mit Käse, Mega Box Dreamies",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434483/assets/pas/images/a28d0129-9f12-42b8-ac6a-d65facbcb71f/dreamies-katzenleckerli-mit-kaese-mega-box"
+        },
+        {
+          "alt": "Katzenleckerli mit Käse, Mega Box Dreamies",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434170/assets/pas/images/38985350-a362-4d6f-aba1-d11b06f42ac4/dreamies-katzenleckerli-mit-kaese-mega-box"
+        },
+        {
+          "alt": "Katzenleckerli mit Käse, Mega Box Dreamies",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434483/assets/pas/images/dd5e7701-9cae-4729-b55c-9ff0ed677504/dreamies-katzenleckerli-mit-kaese-mega-box"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,03 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (17,22 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (18,43 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1701,
+        "ratingValue": 4.9442
+      },
+      "self": "/p/d/1709299/dreamies-katzenleckerli-mit-kaese-mega-box",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Katzenleckerli mit Käse, Mega Box, 350 g",
+        "tileHeadlineLong": "Katzenleckerli mit Käse, Mega Box, 350 g"
+      },
+      "trackingData": {
+        "brand": "Dreamies",
+        "categories": [
+          "Snacks für Katzen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9442,
+        "ratingCount": 1701
+      }
+    }
+  },
+  {
+    "gtin": 4262437745367,
+    "dan": 3062976,
+    "brandName": "Pawsome",
+    "title": "Katzenleckerli mit Geflügel & Käse, crunchy paws, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Pawsome; Produktname: Katzenleckerli mit Geflügel & Käse, crunchy paws, 150 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 2,45 €; Grundpreis: 0,15 kg (16,33 € je 1 kg)",
+      "brand": {
+        "name": "Pawsome"
+      },
+      "dan": 3062976,
+      "gtin": 4262437745367,
+      "images": [
+        {
+          "alt": "Katzenleckerli mit Geflügel & Käse, crunchy paws Pawsome",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762122685/assets/pas/images/5ef845b3-a74f-45f5-93c7-7990c071f37a/pawsome-katzenleckerli-mit-gefluegel-und-kaese-crunchy-paws"
+        },
+        {
+          "alt": "Katzenleckerli mit Geflügel & Käse, crunchy paws Pawsome",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762122677/assets/pas/images/9a1a8ffd-ead3-4e4c-b806-661e55867931/pawsome-katzenleckerli-mit-gefluegel-und-kaese-crunchy-paws"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (15,26 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (16,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 11,
+        "ratingValue": 4.9091
+      },
+      "self": "/p/d/3062976/pawsome-katzenleckerli-mit-gefluegel-und-kaese-crunchy-paws",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Katzenleckerli mit Geflügel & Käse, crunchy paws, 150 g",
+        "tileHeadlineLong": "Katzenleckerli mit Geflügel & Käse, crunchy paws, 150 g"
+      },
+      "trackingData": {
+        "brand": "Pawsome",
+        "categories": [
+          "Snacks für Katzen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9091,
+        "ratingCount": 11
+      }
+    }
+  },
+  {
+    "gtin": 4260474328925,
+    "dan": 3070854,
+    "brandName": "Pets Deli",
+    "title": "Hundeleckerlie Käsecreme, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Pets Deli; Produktname: Hundeleckerlie Käsecreme, 75 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 2,75 €; Grundpreis: 0,075 kg (36,67 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Pets Deli"
+      },
+      "dan": 3070854,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260474328925,
+      "images": [
+        {
+          "alt": "Hundeleckerlie Käsecreme Pets Deli",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750928979/assets/pas/images/a5ae3283-2a18-4161-ac23-0eba19592991/pets-deli-hundeleckerlie-kaesecreme"
+        },
+        {
+          "alt": "Hundeleckerlie Käsecreme Pets Deli",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750928987/assets/pas/images/9b9e09a1-8dbd-41ce-8e9c-05be4d46e7cc/pets-deli-hundeleckerlie-kaesecreme"
+        },
+        {
+          "alt": "Hundeleckerlie Käsecreme Pets Deli",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492904/assets/pas/images/b8977738-7950-4100-8ab2-8ea4bef9afcc/pets-deli-hundeleckerlie-kaesecreme"
+        },
+        {
+          "alt": "Hundeleckerlie Käsecreme Pets Deli",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492904/assets/pas/images/c89ac221-b047-4ff3-8f29-2193d3c20a97/pets-deli-hundeleckerlie-kaesecreme"
+        },
+        {
+          "alt": "Hundeleckerlie Käsecreme Pets Deli",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492908/assets/pas/images/59379ad8-b708-430c-8f77-e7da2d6292c6/pets-deli-hundeleckerlie-kaesecreme"
+        },
+        {
+          "alt": "Hundeleckerlie Käsecreme Pets Deli",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492487/assets/pas/images/1cf72cc4-8b52-4e7b-a7fd-3278bd9edd1f/pets-deli-hundeleckerlie-kaesecreme"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (34,27 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (36,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3070854/pets-deli-hundeleckerlie-kaesecreme",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Hundeleckerlie Käsecreme, 75 g",
+        "tileHeadlineLong": "Hundeleckerlie Käsecreme, 75 g"
+      },
+      "trackingData": {
+        "brand": "Pets Deli",
+        "categories": [
+          "Leckerlis für Hunde"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4015537003284,
+    "dan": 3094895,
+    "brandName": "Hammermühle",
+    "title": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g; Preis: 2,75 €; Grundpreis: 0,1 kg (27,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 3094895,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4015537003284,
+      "images": [
+        {
+          "alt": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei Hammermühle",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756163569/assets/pas/images/369408bc-40dd-4b4a-bb61-4b3ca5387c23/hammermuehle-simply-seeds-cracker-kaese-zwiebel-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (25,70 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (27,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 3.875
+      },
+      "self": "/p/d/3094895/hammermuehle-simply-seeds-cracker-kaese-zwiebel-glutenfrei",
+      "title": {
+        "tileHeadline": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g",
+        "tileHeadlineLong": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.875,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 4067796272703,
+    "dan": 3086536,
+    "brandName": "Dein Bestes",
+    "title": "Katzenleckerli Käse Trio, 65 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dein Bestes; Produktname: Katzenleckerli Käse Trio, 65 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 0,45 €; Grundpreis: 0,065 kg (6,92 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Dein Bestes"
+      },
+      "dan": 3086536,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796272703,
+      "images": [
+        {
+          "alt": "Katzenleckerli Käse Trio Dein Bestes",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760478054/assets/pas/images/be356c2a-fd34-4081-8eb6-c243231c5e90/dein-bestes-katzenleckerli-kaese-trio"
+        },
+        {
+          "alt": "Katzenleckerli Käse Trio Dein Bestes",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760478061/assets/pas/images/deaaa251-7884-4d18-8d9f-369fdefe06a8/dein-bestes-katzenleckerli-kaese-trio"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,42 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 kg (6,47 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 kg (6,92 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.807
+      },
+      "self": "/p/d/3086536/dein-bestes-katzenleckerli-kaese-trio",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Katzenleckerli Käse Trio, 65 g",
+        "tileHeadlineLong": "Katzenleckerli Käse Trio, 65 g"
+      },
+      "trackingData": {
+        "brand": "Dein Bestes",
+        "categories": [
+          "Snacks für Katzen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.807,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4066447910711,
+    "dan": 1313631,
+    "brandName": "dmBio",
+    "title": "Cashewcreme Frischkäse Alternative, 135 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Cashewcreme Frischkäse Alternative, 135 g; Preis: 1,95 €; Grundpreis: 0,135 kg (14,44 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1313631,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447910711,
+      "images": [
+        {
+          "alt": "Cashewcreme Frischkäse Alternative dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762123586/assets/pas/images/21395f95-a2fc-4f6d-9b27-ff10042be921/dmbio-cashewcreme-frischkaese-alternative"
+        },
+        {
+          "alt": "Cashewcreme Frischkäse Alternative dmBio",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770771993/assets/pas/images/2b3e8df5-9251-49db-b3b1-2c83471c143d/dmbio-cashewcreme-frischkaese-alternative"
+        },
+        {
+          "alt": "Cashewcreme Frischkäse Alternative dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762123567/assets/pas/images/4686559b-4544-4e89-97ac-17659c8c0607/dmbio-cashewcreme-frischkaese-alternative"
+        },
+        {
+          "alt": "Cashewcreme Frischkäse Alternative dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762123579/assets/pas/images/8ac1103c-396a-40b9-99c4-ece4f8340a74/dmbio-cashewcreme-frischkaese-alternative"
+        },
+        {
+          "alt": "Cashewcreme Frischkäse Alternative dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762123572/assets/pas/images/658b89d8-77de-47e3-b130-672425694520/dmbio-cashewcreme-frischkaese-alternative"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (13,50 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (14,44 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 94,
+        "ratingValue": 3.5106
+      },
+      "self": "/p/d/1313631/dmbio-cashewcreme-frischkaese-alternative",
+      "title": {
+        "tileHeadline": "Cashewcreme Frischkäse Alternative, 135 g",
+        "tileHeadlineLong": "Cashewcreme Frischkäse Alternative, 135 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Herzhafte Brotaufstriche"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5106,
+        "ratingCount": 94
+      }
+    }
+  },
+  {
+    "gtin": 4066447888508,
+    "dan": 1585852,
+    "brandName": "dmBio",
+    "title": "Snack Knäcke, Käse Kürbiskern, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Snack Knäcke, Käse Kürbiskern, 200 g; Preis: 1,75 €; Grundpreis: 0,2 kg (8,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1585852,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447888508,
+      "images": [
+        {
+          "alt": "Snack Knäcke, Käse Kürbiskern dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759098028/assets/pas/images/f8c998fe-e068-4937-acea-a4b679c80756/dmbio-snack-knaecke-kaese-kuerbiskern"
+        },
+        {
+          "alt": "Snack Knäcke, Käse Kürbiskern dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759098045/assets/pas/images/26f1a1cb-217c-4ade-886e-1fe014bb9181/dmbio-snack-knaecke-kaese-kuerbiskern"
+        },
+        {
+          "alt": "Snack Knäcke, Käse Kürbiskern dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759098041/assets/pas/images/87fa9f55-009e-4e66-8318-0149355a60b0/dmbio-snack-knaecke-kaese-kuerbiskern"
+        },
+        {
+          "alt": "Snack Knäcke, Käse Kürbiskern dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759098036/assets/pas/images/ab2dccfb-9dca-4836-ba63-5f1d8118ca54/dmbio-snack-knaecke-kaese-kuerbiskern"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 161,
+        "ratingValue": 4.5714
+      },
+      "self": "/p/d/1585852/dmbio-snack-knaecke-kaese-kuerbiskern",
+      "title": {
+        "tileHeadline": "Snack Knäcke, Käse Kürbiskern, 200 g",
+        "tileHeadlineLong": "Snack Knäcke, Käse Kürbiskern, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5714,
+        "ratingCount": 161
+      }
+    }
+  },
+  {
+    "gtin": 8018759000235,
+    "dan": 3142740,
+    "brandName": "LaSelva",
+    "title": "Fruchtaufstrich, Feige, 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Fruchtaufstrich, Feige, 220 g; Preis: 2,45 €; Grundpreis: 0,22 kg (11,14 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 3142740,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 8018759000235,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Feige LaSelva",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779835440/assets/pas/images/3baea6d5-62c4-4469-bc18-ea7666d5ac92/laselva-fruchtaufstrich-feige"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (10,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (11,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 3,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/3142740/laselva-fruchtaufstrich-feige",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Feige, 220 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Feige, 220 g"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 3
+      }
+    }
+  },
+  {
+    "gtin": 4067796175219,
+    "dan": 3066711,
+    "brandName": "Profissimo",
+    "title": "Mini-Reibe schwarz Sommerliebe, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: Profissimo; Produktname: Mini-Reibe schwarz Sommerliebe, 1 St; Preis: 1,95 €; Grundpreis: 1 St (1,95 € je 1 St); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Profissimo"
+      },
+      "dan": 3066711,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796175219,
+      "images": [
+        {
+          "alt": "Mini-Reibe schwarz Sommerliebe Profissimo",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019036/assets/pas/images/d94386a5-e201-48bf-9585-829cc011f6a2/profissimo-mini-reibe-schwarz-sommerliebe"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (1,64 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (1,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/3066711/profissimo-mini-reibe-schwarz-sommerliebe",
+      "title": {
+        "tileHeadline": "Mini-Reibe schwarz Sommerliebe, 1 St",
+        "tileHeadlineLong": "Mini-Reibe schwarz Sommerliebe, 1 St"
+      },
+      "trackingData": {
+        "brand": "Profissimo",
+        "categories": [
+          "Backen & Kochen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 2
+      }
+    }
+  }
+]

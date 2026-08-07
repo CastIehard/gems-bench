@@ -1,0 +1,2706 @@
+[
+  {
+    "gtin": 4005924108029,
+    "dan": 1491724,
+    "brandName": "Saphir",
+    "title": "Meersalz, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Saphir; Produktname: Meersalz, 500 g; Preis: 0,75 €; Grundpreis: 0,5 kg (1,50 € je 1 kg)",
+      "brand": {
+        "name": "Saphir"
+      },
+      "dan": 1491724,
+      "gtin": 4005924108029,
+      "images": [
+        {
+          "alt": "Meersalz Saphir",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432720/assets/pas/images/54f40319-6bca-4450-a19f-3acffc8e61eb/saphir-meersalz"
+        },
+        {
+          "alt": "Meersalz Saphir",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432880/assets/pas/images/f31eac25-7594-43af-bb52-103f7f5d5754/saphir-meersalz"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,70 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 4.6392
+      },
+      "self": "/p/d/1491724/saphir-meersalz",
+      "title": {
+        "tileHeadline": "Meersalz, 500 g",
+        "tileHeadlineLong": "Meersalz, 500 g"
+      },
+      "trackingData": {
+        "brand": "Saphir",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6392,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 4005924108036,
+    "dan": 1491804,
+    "brandName": "Saphir",
+    "title": "Meersalz, jodiert, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Saphir; Produktname: Meersalz, jodiert, 500 g; Preis: 0,75 €; Grundpreis: 0,5 kg (1,50 € je 1 kg)",
+      "brand": {
+        "name": "Saphir"
+      },
+      "dan": 1491804,
+      "gtin": 4005924108036,
+      "images": [
+        {
+          "alt": "Meersalz, jodiert Saphir",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432885/assets/pas/images/8988c492-b72b-42d1-bcf8-14d559424688/saphir-meersalz-jodiert"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,70 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 85,
+        "ratingValue": 4.9647
+      },
+      "self": "/p/d/1491804/saphir-meersalz-jodiert",
+      "title": {
+        "tileHeadline": "Meersalz, jodiert, 500 g",
+        "tileHeadlineLong": "Meersalz, jodiert, 500 g"
+      },
+      "trackingData": {
+        "brand": "Saphir",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9647,
+        "ratingCount": 85
+      }
+    }
+  },
+  {
+    "gtin": 4058172640858,
+    "dan": 1592734,
+    "brandName": "dmBio",
+    "title": "Kräutersalz, ohne Jod, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kräutersalz, ohne Jod, 200 g; Preis: 1,65 €; Grundpreis: 0,2 kg (8,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1592734,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172640858,
+      "images": [
+        {
+          "alt": "Kräutersalz, ohne Jod dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453491/assets/pas/images/fb0ad836-34c3-4ad5-a424-12ffe23e9456/dmbio-kraeutersalz-ohne-jod"
+        },
+        {
+          "alt": "Kräutersalz, ohne Jod dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453418/assets/pas/images/3dd1f3e9-8ae8-43b7-8296-75d379f33455/dmbio-kraeutersalz-ohne-jod"
+        },
+        {
+          "alt": "Kräutersalz, ohne Jod dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453418/assets/pas/images/da7793ee-b5cf-4e54-af1b-759aed96d50a/dmbio-kraeutersalz-ohne-jod"
+        },
+        {
+          "alt": "Kräutersalz, ohne Jod dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453315/assets/pas/images/7de69c4e-8dad-4e5d-af72-4d9449089c7c/dmbio-kraeutersalz-ohne-jod"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (7,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 101,
+        "ratingValue": 4.5545
+      },
+      "self": "/p/d/1592734/dmbio-kraeutersalz-ohne-jod",
+      "title": {
+        "tileHeadline": "Kräutersalz, ohne Jod, 200 g",
+        "tileHeadlineLong": "Kräutersalz, ohne Jod, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5545,
+        "ratingCount": 101
+      }
+    }
+  },
+  {
+    "gtin": 4066447878295,
+    "dan": 1592774,
+    "brandName": "dmBio",
+    "title": "Schwarzer Pfeffer, ganze Körner, 70 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schwarzer Pfeffer, ganze Körner, 70 g; Preis: 1,65 €; Grundpreis: 0,07 kg (23,57 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1592774,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447878295,
+      "images": [
+        {
+          "alt": "Schwarzer Pfeffer, ganze Körner dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093016/assets/pas/images/3a19ae03-d839-44a0-a01b-b566a89b18cf/dmbio-schwarzer-pfeffer-ganze-koerner"
+        },
+        {
+          "alt": "Schwarzer Pfeffer, ganze Körner dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093019/assets/pas/images/3665879d-d1f2-4b8d-997f-aa433b62263f/dmbio-schwarzer-pfeffer-ganze-koerner"
+        },
+        {
+          "alt": "Schwarzer Pfeffer, ganze Körner dmBio",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093023/assets/pas/images/8af5c8e5-34a7-498d-96b9-547088c77900/dmbio-schwarzer-pfeffer-ganze-koerner"
+        },
+        {
+          "alt": "Schwarzer Pfeffer, ganze Körner dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093020/assets/pas/images/28425f54-a041-48d1-9254-01232cf66323/dmbio-schwarzer-pfeffer-ganze-koerner"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,07 kg (22,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,07 kg (23,57 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.8889
+      },
+      "self": "/p/d/1592774/dmbio-schwarzer-pfeffer-ganze-koerner",
+      "title": {
+        "tileHeadline": "Schwarzer Pfeffer, ganze Körner, 70 g",
+        "tileHeadlineLong": "Schwarzer Pfeffer, ganze Körner, 70 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8889,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4012346158501,
+    "dan": 3064565,
+    "brandName": "LEBENSBAUM",
+    "title": "Pfeffer, bunt, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Pfeffer, bunt, 50 g; Preis: 3,45 €; Grundpreis: 0,05 kg (69,00 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 3064565,
+      "gtin": 4012346158501,
+      "images": [
+        {
+          "alt": "Pfeffer, bunt LEBENSBAUM",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764373840/assets/pas/images/c121443d-d66c-4211-8b97-a0addbed8651/lebensbaum-pfeffer-bunt"
+        },
+        {
+          "alt": "Pfeffer, bunt LEBENSBAUM",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764373817/assets/pas/images/1a34d581-f5e5-4808-8544-9336e3623317/lebensbaum-pfeffer-bunt"
+        },
+        {
+          "alt": "Pfeffer, bunt LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764373833/assets/pas/images/7e591dad-0892-4c8d-a696-0b8699a56613/lebensbaum-pfeffer-bunt"
+        },
+        {
+          "alt": "Pfeffer, bunt LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764456473/assets/pas/images/22599467-440f-4f64-a23f-eb1abd27678c/lebensbaum-pfeffer-bunt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (64,49 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (69,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3064565/lebensbaum-pfeffer-bunt",
+      "title": {
+        "tileHeadline": "Pfeffer, bunt, 50 g",
+        "tileHeadlineLong": "Pfeffer, bunt, 50 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 4260350927136,
+    "dan": 1587647,
+    "brandName": "HEIMATGUT",
+    "title": "Linsenchips mit Meersalz, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: HEIMATGUT; Produktname: Linsenchips mit Meersalz, 75 g; Preis: 2,45 €; Grundpreis: 0,075 kg (32,67 € je 1 kg)",
+      "brand": {
+        "name": "HEIMATGUT"
+      },
+      "dan": 1587647,
+      "gtin": 4260350927136,
+      "images": [
+        {
+          "alt": "Linsenchips mit Meersalz HEIMATGUT",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754979851/assets/pas/images/1673df62-8675-44c0-a6aa-ab98da2d20bb/heimatgut-linsenchips-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (30,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (32,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 124,
+        "ratingValue": 4.7581
+      },
+      "self": "/p/d/1587647/heimatgut-linsenchips-mit-meersalz",
+      "title": {
+        "tileHeadline": "Linsenchips mit Meersalz, 75 g",
+        "tileHeadlineLong": "Linsenchips mit Meersalz, 75 g"
+      },
+      "trackingData": {
+        "brand": "HEIMATGUT",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7581,
+        "ratingCount": 124
+      }
+    }
+  },
+  {
+    "gtin": 4015200035765,
+    "dan": 1005055,
+    "brandName": "Somat",
+    "title": "Spülmaschinen-Salz Spezialsalz, 1,2 kg",
+    "tileData": {
+      "a11yLabel": "Marke: Somat; Produktname: Spülmaschinen-Salz Spezialsalz, 1,2 kg; Preis: 1,45 €; Grundpreis: 1,2 kg (1,21 € je 1 kg)",
+      "brand": {
+        "name": "Somat"
+      },
+      "dan": 1005055,
+      "gtin": 4015200035765,
+      "images": [
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Somat",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441883/assets/pas/images/3c985005-0fff-4e8d-8b21-ec21214c54f5/somat-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Somat",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442004/assets/pas/images/bf747e90-bee7-4cd0-81b0-b0edbfacb7db/somat-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Somat",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441883/assets/pas/images/4825a334-47c8-40a0-b72e-354a9e076e12/somat-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Somat",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441883/assets/pas/images/6755b6cc-2bed-4533-98e5-a05249dcf4ee/somat-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Somat",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442098/assets/pas/images/5395a55a-3e3b-4e6e-bcfb-e7cc7850ac6d/somat-spuelmaschinen-salz-spezialsalz"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "1,2 kg (1,02 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "1,2 kg (1,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 193,
+        "ratingValue": 4.8756
+      },
+      "self": "/p/d/1005055/somat-spuelmaschinen-salz-spezialsalz",
+      "title": {
+        "tileHeadline": "Spülmaschinen-Salz Spezialsalz, 1,2 kg",
+        "tileHeadlineLong": "Spülmaschinen-Salz Spezialsalz, 1,2 kg"
+      },
+      "trackingData": {
+        "brand": "Somat",
+        "categories": [
+          "Geschirrspülmittel, -Tabs, -Salz & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8756,
+        "ratingCount": 193
+      }
+    }
+  },
+  {
+    "gtin": 4069559000035,
+    "dan": 1315090,
+    "brandName": "Visiomax",
+    "title": "Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Visiomax; Produktname: Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml; Rechtliche Kategorie: Medizinprodukt; Preis: 2,75 €; Grundpreis: 0,36 l (7,64 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Visiomax"
+      },
+      "dan": 1315090,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4069559000035,
+      "images": [
+        {
+          "alt": "Kontaktlinsen-Pflegemittel Kochsalzlösung Visiomax",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758152704/assets/pas/images/5cab9e38-a756-4531-815c-eaf26dc34510/visiomax-kontaktlinsen-pflegemittel-kochsalzloesung"
+        },
+        {
+          "alt": "Kontaktlinsen-Pflegemittel Kochsalzlösung Visiomax",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758152701/assets/pas/images/b991a870-cfe5-41f7-9c27-5d63c8cc48a4/visiomax-kontaktlinsen-pflegemittel-kochsalzloesung"
+        },
+        {
+          "alt": "Kontaktlinsen-Pflegemittel Kochsalzlösung Visiomax",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758152696/assets/pas/images/ae91e242-8e53-4285-8205-baafaddb2fe0/visiomax-kontaktlinsen-pflegemittel-kochsalzloesung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,36 l (6,42 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,36 l (7,64 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 134,
+        "ratingValue": 4.709
+      },
+      "self": "/p/d/1315090/visiomax-kontaktlinsen-pflegemittel-kochsalzloesung",
+      "title": {
+        "subheadline": "Medizinprodukt",
+        "tileHeadline": "Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml",
+        "tileHeadlineLong": "Kontaktlinsen-Pflegemittel Kochsalzlösung, 360 ml"
+      },
+      "trackingData": {
+        "brand": "Visiomax",
+        "categories": [
+          "Kontaktlinsenflüssigkeit & Augentropfen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.709,
+        "ratingCount": 134
+      }
+    }
+  },
+  {
+    "gtin": 4103040047977,
+    "dan": 1647764,
+    "brandName": "sebamed",
+    "title": "Duschgel Meersalz, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: Duschgel Meersalz, 400 ml; Preis: 4,95 €; Grundpreis: 0,4 l (12,38 € je 1 l)",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1647764,
+      "gtin": 4103040047977,
+      "images": [
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294935/assets/pas/images/aec8fd22-7f18-4985-9526-2c7e8ac07c08/sebamed-duschgel-meersalz"
+        },
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294962/assets/pas/images/8d5e411d-ec8b-4b0c-bda0-dcde330e9d66/sebamed-duschgel-meersalz"
+        },
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294949/assets/pas/images/73b1dd1c-2b1a-4b9d-a7ff-996e91bd9ce7/sebamed-duschgel-meersalz"
+        },
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294922/assets/pas/images/fa9c9b92-cc8c-4123-a2e9-9ff21aa6ec41/sebamed-duschgel-meersalz"
+        },
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294977/assets/pas/images/bea68462-4773-4f70-91e2-846ffdc3f5f8/sebamed-duschgel-meersalz"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (10,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (12,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.7246
+      },
+      "self": "/p/d/1647764/sebamed-duschgel-meersalz",
+      "title": {
+        "tileHeadline": "Duschgel Meersalz, 400 ml",
+        "tileHeadlineLong": "Duschgel Meersalz, 400 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7246,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4066447599466,
+    "dan": 1490874,
+    "brandName": "dmBio",
+    "title": "Brezeln, Dinkel ohne Aufstreusalz, mini, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Brezeln, Dinkel ohne Aufstreusalz, mini, 125 g; Preis: 1,25 €; Grundpreis: 0,125 kg (10,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1490874,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447599466,
+      "images": [
+        {
+          "alt": "Brezeln, Dinkel ohne Aufstreusalz, mini dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755014846/assets/pas/images/cea5827e-d1bb-4b2f-8ac0-1ba17bd5f8d4/dmbio-brezeln-dinkel-ohne-aufstreusalz-mini"
+        },
+        {
+          "alt": "Brezeln, Dinkel ohne Aufstreusalz, mini dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755014840/assets/pas/images/e1857361-9e8c-47a3-af3f-8f15b23622d4/dmbio-brezeln-dinkel-ohne-aufstreusalz-mini"
+        },
+        {
+          "alt": "Brezeln, Dinkel ohne Aufstreusalz, mini dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483704/assets/pas/images/6203d1d2-286c-4e8f-bac4-5923a10e521e/dmbio-brezeln-dinkel-ohne-aufstreusalz-mini"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (9,35 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (10,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 211,
+        "ratingValue": 4.7062
+      },
+      "self": "/p/d/1490874/dmbio-brezeln-dinkel-ohne-aufstreusalz-mini",
+      "title": {
+        "tileHeadline": "Brezeln, Dinkel ohne Aufstreusalz, mini, 125 g",
+        "tileHeadlineLong": "Brezeln, Dinkel ohne Aufstreusalz, mini, 125 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7062,
+        "ratingCount": 211
+      }
+    }
+  },
+  {
+    "gtin": 4250752203709,
+    "dan": 1579577,
+    "brandName": "Abtei",
+    "title": "Meersalz Nasen Spray, 20 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Abtei; Produktname: Meersalz Nasen Spray, 20 ml; Rechtliche Kategorie: Medizinprodukt; Preis: 3,65 €; Grundpreis: 0,02 l (182,50 € je 1 l)",
+      "brand": {
+        "name": "Abtei"
+      },
+      "dan": 1579577,
+      "gtin": 4250752203709,
+      "images": [
+        {
+          "alt": "Meersalz Nasen Spray Abtei",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490332/assets/pas/images/9ac3cfa4-3ebb-4042-98f3-53be133a95a8/abtei-meersalz-nasen-spray"
+        },
+        {
+          "alt": "Meersalz Nasen Spray Abtei",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490114/assets/pas/images/1a64eec5-86c2-45fc-9688-19f23823d4ba/abtei-meersalz-nasen-spray"
+        },
+        {
+          "alt": "Meersalz Nasen Spray Abtei",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490332/assets/pas/images/bc6f1ab1-233f-42e1-8aa0-87263d500f86/abtei-meersalz-nasen-spray"
+        },
+        {
+          "alt": "Meersalz Nasen Spray Abtei",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747489992/assets/pas/images/9db92d7f-f85e-422e-a625-9ec8872baf4e/abtei-meersalz-nasen-spray"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 l (153,36 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 l (182,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 50,
+        "ratingValue": 4.78
+      },
+      "self": "/p/d/1579577/abtei-meersalz-nasen-spray",
+      "title": {
+        "subheadline": "Medizinprodukt",
+        "tileHeadline": "Meersalz Nasen Spray, 20 ml",
+        "tileHeadlineLong": "Meersalz Nasen Spray, 20 ml"
+      },
+      "trackingData": {
+        "brand": "Abtei",
+        "categories": [
+          "Schnupfen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.78,
+        "ratingCount": 50
+      }
+    }
+  },
+  {
+    "gtin": 4002448046424,
+    "dan": 1010054,
+    "brandName": "Finish",
+    "title": "Spülmaschinen-Salz Spezialsalz, 1,2 kg",
+    "tileData": {
+      "a11yLabel": "Marke: Finish; Produktname: Spülmaschinen-Salz Spezialsalz, 1,2 kg; Preis: 1,45 €; Grundpreis: 1,2 kg (1,21 € je 1 kg)",
+      "brand": {
+        "name": "Finish"
+      },
+      "dan": 1010054,
+      "gtin": 4002448046424,
+      "images": [
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Finish",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747580611/assets/pas/images/ebb26c41-0946-4e8e-9740-ffa1dfc88e3c/finish-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Finish",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747580630/assets/pas/images/b6ea37cf-68bb-4396-b496-c8b4198bdafc/finish-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Finish",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747580621/assets/pas/images/807796a2-c511-40ef-97f3-77bef46e015a/finish-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Finish",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430748/assets/pas/images/b2ea0525-1e73-43da-afc3-13cabffd8770/finish-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Finish",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430446/assets/pas/images/1e62d894-772d-4861-9075-db0b636f9edd/finish-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Finish",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430546/assets/pas/images/9b210d96-9d83-4d15-ad60-652b7b06b4a5/finish-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Finish",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430447/assets/pas/images/09f9ccc8-077f-4940-a4c7-fd9b4ae09dba/finish-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Finish",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430546/assets/pas/images/7e94d106-5ef5-408b-a849-ec50b20882df/finish-spuelmaschinen-salz-spezialsalz"
+        },
+        {
+          "alt": "Spülmaschinen-Salz Spezialsalz Finish",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430776/assets/pas/images/4fd22ad5-8a41-4931-894b-bd281ac6cdf9/finish-spuelmaschinen-salz-spezialsalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "1,2 kg (1,02 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "1,2 kg (1,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 133,
+        "ratingValue": 4.8872
+      },
+      "self": "/p/d/1010054/finish-spuelmaschinen-salz-spezialsalz",
+      "title": {
+        "tileHeadline": "Spülmaschinen-Salz Spezialsalz, 1,2 kg",
+        "tileHeadlineLong": "Spülmaschinen-Salz Spezialsalz, 1,2 kg"
+      },
+      "trackingData": {
+        "brand": "Finish",
+        "categories": [
+          "Geschirrspülmittel, -Tabs, -Salz & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8872,
+        "ratingCount": 133
+      }
+    }
+  },
+  {
+    "gtin": 8008698002049,
+    "dan": 1601140,
+    "brandName": "Schär",
+    "title": "Cracker, \"Salti\" mit Meersalz, glutenfrei, 175 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Cracker, \"Salti\" mit Meersalz, glutenfrei, 175 g; Preis: 2,85 €; Grundpreis: 0,175 kg (16,29 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1601140,
+      "gtin": 8008698002049,
+      "images": [
+        {
+          "alt": "Cracker, \"Salti\" mit Meersalz, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762211827/assets/pas/images/e5adcb78-0e37-4860-8745-2f8df392ec51/schaer-cracker-salti-mit-meersalz-glutenfrei"
+        },
+        {
+          "alt": "Cracker, \"Salti\" mit Meersalz, glutenfrei Schär",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762211855/assets/pas/images/69f3cb64-cf9f-4904-8587-70ed8195a7e6/schaer-cracker-salti-mit-meersalz-glutenfrei"
+        },
+        {
+          "alt": "Cracker, \"Salti\" mit Meersalz, glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518431/assets/pas/images/6bde2c9c-b8b0-4e55-afff-caf5739df118/schaer-cracker-salti-mit-meersalz-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,175 kg (15,22 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,175 kg (16,29 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.4328
+      },
+      "self": "/p/d/1601140/schaer-cracker-salti-mit-meersalz-glutenfrei",
+      "title": {
+        "tileHeadline": "Cracker, \"Salti\" mit Meersalz, glutenfrei, 175 g",
+        "tileHeadlineLong": "Cracker, \"Salti\" mit Meersalz, glutenfrei, 175 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4328,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4066447909722,
+    "dan": 1691741,
+    "brandName": "alverde NATURKOSMETIK",
+    "title": "Körperpeeling Verwöhnendes Salz-Öl-Peeling, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: alverde NATURKOSMETIK; Produktname: Körperpeeling Verwöhnendes Salz-Öl-Peeling, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "alverde NATURKOSMETIK"
+      },
+      "dan": 1691741,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447909722,
+      "images": [
+        {
+          "alt": "Körperpeeling Verwöhnendes Salz-Öl-Peeling alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773353802/assets/pas/images/0b00f0f8-1c10-4ea8-8ec0-cd3befffa166/alverde-naturkosmetik-koerperpeeling-verwoehnendes-salz-oel-peeling"
+        },
+        {
+          "alt": "Körperpeeling Verwöhnendes Salz-Öl-Peeling alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773353790/assets/pas/images/3f638d18-f451-45e0-b04e-9b8a477a0f6d/alverde-naturkosmetik-koerperpeeling-verwoehnendes-salz-oel-peeling"
+        },
+        {
+          "alt": "Körperpeeling Verwöhnendes Salz-Öl-Peeling alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773353796/assets/pas/images/3674ab36-655e-40fc-b8f3-934e01c507e4/alverde-naturkosmetik-koerperpeeling-verwoehnendes-salz-oel-peeling"
+        },
+        {
+          "alt": "Körperpeeling Verwöhnendes Salz-Öl-Peeling alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773353807/assets/pas/images/ebdf6887-8767-4f34-a700-204ca58b06b1/alverde-naturkosmetik-koerperpeeling-verwoehnendes-salz-oel-peeling"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.1967
+      },
+      "self": "/p/d/1691741/alverde-naturkosmetik-koerperpeeling-verwoehnendes-salz-oel-peeling",
+      "title": {
+        "tileHeadline": "Körperpeeling Verwöhnendes Salz-Öl-Peeling, 250 ml",
+        "tileHeadlineLong": "Körperpeeling Verwöhnendes Salz-Öl-Peeling, 250 ml"
+      },
+      "trackingData": {
+        "brand": "alverde NATURKOSMETIK",
+        "categories": [
+          "Körperpeeling & Body Scrub"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2033,
+        "ratingCount": 123
+      }
+    }
+  },
+  {
+    "gtin": 4008258464007,
+    "dan": 3078302,
+    "brandName": "Seeberger",
+    "title": "Nussmischung, Schoko & Meersalz, 110 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Nussmischung, Schoko & Meersalz, 110 g; Preis: 2,95 €; Grundpreis: 0,11 kg (26,82 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 3078302,
+      "gtin": 4008258464007,
+      "images": [
+        {
+          "alt": "Nussmischung, Schoko & Meersalz Seeberger",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750114582/assets/pas/images/36acbe88-f004-48e3-8571-01d526452444/seeberger-nussmischung-schoko-und-meersalz"
+        },
+        {
+          "alt": "Nussmischung, Schoko & Meersalz Seeberger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750114571/assets/pas/images/ee93066e-7a76-4b0e-8972-024d521c9979/seeberger-nussmischung-schoko-und-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (25,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (26,82 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.6226
+      },
+      "self": "/p/d/3078302/seeberger-nussmischung-schoko-und-meersalz",
+      "title": {
+        "tileHeadline": "Nussmischung, Schoko & Meersalz, 110 g",
+        "tileHeadlineLong": "Nussmischung, Schoko & Meersalz, 110 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6226,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4008890006504,
+    "dan": 1121154,
+    "brandName": "Salthouse",
+    "title": "Badesalz Totes Meer, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Salthouse; Produktname: Badesalz Totes Meer, 500 g; Preis: 2,25 €; Grundpreis: 0,5 kg (4,50 € je 1 kg)",
+      "brand": {
+        "name": "Salthouse"
+      },
+      "dan": 1121154,
+      "gtin": 4008890006504,
+      "images": [
+        {
+          "alt": "Badesalz Totes Meer Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766016972/assets/pas/images/d984f329-2be1-4e4c-acc9-adabec0caf33/salthouse-badesalz-totes-meer"
+        },
+        {
+          "alt": "Badesalz Totes Meer Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766016985/assets/pas/images/0b9bf725-20e4-4ad2-bc91-2e2a56ee7c1f/salthouse-badesalz-totes-meer"
+        },
+        {
+          "alt": "Badesalz Totes Meer Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770938687/assets/pas/images/8842b1b9-dda0-43cd-bf07-fce1e55342eb/salthouse-badesalz-totes-meer"
+        },
+        {
+          "alt": "Badesalz Totes Meer Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766016979/assets/pas/images/3a40a10a-ee7e-4915-8e59-cd4ca4187cb3/salthouse-badesalz-totes-meer"
+        },
+        {
+          "alt": "Badesalz Totes Meer Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766269963/assets/pas/images/3bee7b22-c375-45b2-8965-4778a8ffbcf1/salthouse-badesalz-totes-meer"
+        },
+        {
+          "alt": "Badesalz Totes Meer Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766269972/assets/pas/images/fba8b7cd-a35e-4cde-af92-c13af3463c23/salthouse-badesalz-totes-meer"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,78 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.8261
+      },
+      "self": "/p/d/1121154/salthouse-badesalz-totes-meer",
+      "title": {
+        "tileHeadline": "Badesalz Totes Meer, 500 g",
+        "tileHeadlineLong": "Badesalz Totes Meer, 500 g"
+      },
+      "trackingData": {
+        "brand": "Salthouse",
+        "categories": [
+          "Badezusatz & Badesalz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8261,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4250752202986,
+    "dan": 1592646,
+    "brandName": "Abtei",
+    "title": "Nasenspülung mit Meersalz, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Abtei; Produktname: Nasenspülung mit Meersalz, 100 ml; Rechtliche Kategorie: Medizinprodukt; Preis: 6,95 €; Grundpreis: 0,1 l (69,50 € je 1 l)",
+      "brand": {
+        "name": "Abtei"
+      },
+      "dan": 1592646,
+      "gtin": 4250752202986,
+      "images": [
+        {
+          "alt": "Nasenspülung mit Meersalz Abtei",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490138/assets/pas/images/da870074-bd24-4b12-9ba0-2fcf124baccf/abtei-nasenspuelung-mit-meersalz"
+        },
+        {
+          "alt": "Nasenspülung mit Meersalz Abtei",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490484/assets/pas/images/c73f0a73-bb5b-40f5-a162-53d9ce065a23/abtei-nasenspuelung-mit-meersalz"
+        },
+        {
+          "alt": "Nasenspülung mit Meersalz Abtei",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490484/assets/pas/images/03649223-92d4-443b-b9ab-fc476f02c650/abtei-nasenspuelung-mit-meersalz"
+        },
+        {
+          "alt": "Nasenspülung mit Meersalz Abtei",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490484/assets/pas/images/d4027efc-2b08-4b1e-8d61-014b5cde2d8d/abtei-nasenspuelung-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (58,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (69,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 104,
+        "ratingValue": 4.3365
+      },
+      "self": "/p/d/1592646/abtei-nasenspuelung-mit-meersalz",
+      "title": {
+        "subheadline": "Medizinprodukt",
+        "tileHeadline": "Nasenspülung mit Meersalz, 100 ml",
+        "tileHeadlineLong": "Nasenspülung mit Meersalz, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Abtei",
+        "categories": [
+          "Schnupfen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3365,
+        "ratingCount": 104
+      }
+    }
+  },
+  {
+    "gtin": 4067796180442,
+    "dan": 1552686,
+    "brandName": "Mivolis",
+    "title": "Badesalz Original Totes Meer (3x500 g), 1,5 kg",
+    "tileData": {
+      "a11yLabel": "Marke: Mivolis; Produktname: Badesalz Original Totes Meer (3x500 g), 1,5 kg; Preis: 2,65 €; Grundpreis: 1,5 kg (1,77 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Mivolis"
+      },
+      "dan": 1552686,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796180442,
+      "images": [
+        {
+          "alt": "Badesalz Original Totes Meer (3x500 g) Mivolis",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008254/assets/pas/images/ef41a4bc-553c-4f1a-bb4f-15e570fd008e/mivolis-badesalz-original-totes-meer-3x500-g"
+        },
+        {
+          "alt": "Badesalz Original Totes Meer (3x500 g) Mivolis",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008253/assets/pas/images/0d8bb03c-a71a-442d-a84d-c16ed5dffdd5/mivolis-badesalz-original-totes-meer-3x500-g"
+        },
+        {
+          "alt": "Badesalz Original Totes Meer (3x500 g) Mivolis",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008255/assets/pas/images/c542f2c2-bd87-46a0-9394-bc2de15e53fa/mivolis-badesalz-original-totes-meer-3x500-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,23 €"
+          }
+        },
+        "tileInfos": [
+          "1,5 kg (1,49 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "1,5 kg (1,77 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 168,
+        "ratingValue": 4.625
+      },
+      "self": "/p/d/1552686/mivolis-badesalz-original-totes-meer-3x500-g",
+      "title": {
+        "tileHeadline": "Badesalz Original Totes Meer (3x500 g), 1,5 kg",
+        "tileHeadlineLong": "Badesalz Original Totes Meer (3x500 g), 1,5 kg"
+      },
+      "trackingData": {
+        "brand": "Mivolis",
+        "categories": [
+          "Badezusatz & Badesalz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.625,
+        "ratingCount": 168
+      }
+    }
+  },
+  {
+    "gtin": 4008455037615,
+    "dan": 1336622,
+    "brandName": "BULLRICH",
+    "title": "Salz Magentabletten gegen Sodbrennen, 180 St",
+    "tileData": {
+      "a11yLabel": "Marke: BULLRICH; Produktname: Salz Magentabletten gegen Sodbrennen, 180 St; Rechtliche Kategorie: Arzneimittel; Preis: 3,95 €; Grundpreis: 180 St (0,02 € je 1 St)",
+      "brand": {
+        "name": "BULLRICH"
+      },
+      "dan": 1336622,
+      "gtin": 4008455037615,
+      "images": [
+        {
+          "alt": "Salz Magentabletten gegen Sodbrennen BULLRICH",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434141/assets/pas/images/f831036f-6404-4529-86c1-ca2ef09caff0/bullrich-salz-magentabletten-gegen-sodbrennen"
+        },
+        {
+          "alt": "Salz Magentabletten gegen Sodbrennen BULLRICH",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434142/assets/pas/images/e1fbb403-5ac9-4741-a422-8c8f808700e0/bullrich-salz-magentabletten-gegen-sodbrennen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "180 St (0,02 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "180 St (0,02 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 113,
+        "ratingValue": 4.7611
+      },
+      "self": "/p/d/1336622/bullrich-salz-magentabletten-gegen-sodbrennen",
+      "title": {
+        "subheadline": "Arzneimittel",
+        "tileHeadline": "Salz Magentabletten gegen Sodbrennen, 180 St",
+        "tileHeadlineLong": "Salz Magentabletten gegen Sodbrennen, 180 St"
+      },
+      "trackingData": {
+        "brand": "BULLRICH",
+        "categories": [
+          "Magen & Verdauung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7611,
+        "ratingCount": 113
+      }
+    }
+  },
+  {
+    "gtin": 4066447422863,
+    "dan": 1691725,
+    "brandName": "dmBio",
+    "title": "Mini-Salz-Brezeln, glutenfrei, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Mini-Salz-Brezeln, glutenfrei, 80 g; Preis: 1,55 €; Grundpreis: 0,08 kg (19,38 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1691725,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447422863,
+      "images": [
+        {
+          "alt": "Mini-Salz-Brezeln, glutenfrei dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481580/assets/pas/images/c58987b0-4fbc-41bc-b7f7-d8ea27bbb1f2/dmbio-mini-salz-brezeln-glutenfrei"
+        },
+        {
+          "alt": "Mini-Salz-Brezeln, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481819/assets/pas/images/0fc28a58-e8c4-42c2-8b0d-9c6d8fc42934/dmbio-mini-salz-brezeln-glutenfrei"
+        },
+        {
+          "alt": "Mini-Salz-Brezeln, glutenfrei dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481580/assets/pas/images/21ff2b5b-cfc1-4696-914a-a75bfd75bda8/dmbio-mini-salz-brezeln-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (18,11 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (19,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 4.7727
+      },
+      "self": "/p/d/1691725/dmbio-mini-salz-brezeln-glutenfrei",
+      "title": {
+        "tileHeadline": "Mini-Salz-Brezeln, glutenfrei, 80 g",
+        "tileHeadlineLong": "Mini-Salz-Brezeln, glutenfrei, 80 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7727,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 4067796125450,
+    "dan": 1494252,
+    "brandName": "dmBio",
+    "title": "Kichererbsen Chips mit Meersalz, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kichererbsen Chips mit Meersalz, 75 g; Preis: 1,75 €; Grundpreis: 0,075 kg (23,33 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1494252,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796125450,
+      "images": [
+        {
+          "alt": "Kichererbsen Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755018586/assets/pas/images/a497f589-9a03-497c-8aff-6827e4108411/dmbio-kichererbsen-chips-mit-meersalz"
+        },
+        {
+          "alt": "Kichererbsen Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755018588/assets/pas/images/222ac077-36e3-4464-9129-96085f8eb92e/dmbio-kichererbsen-chips-mit-meersalz"
+        },
+        {
+          "alt": "Kichererbsen Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487580/assets/pas/images/258ffe03-1874-4ebc-8f39-10f13c6abeb6/dmbio-kichererbsen-chips-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (21,80 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (23,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 310,
+        "ratingValue": 4.4548
+      },
+      "self": "/p/d/1494252/dmbio-kichererbsen-chips-mit-meersalz",
+      "title": {
+        "tileHeadline": "Kichererbsen Chips mit Meersalz, 75 g",
+        "tileHeadlineLong": "Kichererbsen Chips mit Meersalz, 75 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4566,
+        "ratingCount": 311
+      }
+    }
+  },
+  {
+    "gtin": 8008698002070,
+    "dan": 1175793,
+    "brandName": "Schär",
+    "title": "Salzbrezeln \"Salinis\", glutenfrei, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Salzbrezeln \"Salinis\", glutenfrei, 60 g; Preis: 0,95 €; Grundpreis: 0,06 kg (15,83 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1175793,
+      "gtin": 8008698002070,
+      "images": [
+        {
+          "alt": "Salzbrezeln \"Salinis\", glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748901182/assets/pas/images/ddda1040-4900-420c-a0a5-d8690588f70d/schaer-salzbrezeln-salinis-glutenfrei"
+        },
+        {
+          "alt": "Salzbrezeln \"Salinis\", glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748901151/assets/pas/images/e6b8a586-7459-41f5-8072-a2a1ef3e5bcd/schaer-salzbrezeln-salinis-glutenfrei"
+        },
+        {
+          "alt": "Salzbrezeln \"Salinis\", glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747570444/assets/pas/images/60473ac6-7783-480d-866c-3daf915ab950/schaer-salzbrezeln-salinis-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (14,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (15,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 100,
+        "ratingValue": 4.58
+      },
+      "self": "/p/d/1175793/schaer-salzbrezeln-salinis-glutenfrei",
+      "title": {
+        "tileHeadline": "Salzbrezeln \"Salinis\", glutenfrei, 60 g",
+        "tileHeadlineLong": "Salzbrezeln \"Salinis\", glutenfrei, 60 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.58,
+        "ratingCount": 100
+      }
+    }
+  },
+  {
+    "gtin": 4008491124775,
+    "dan": 3121059,
+    "brandName": "tetesept: KIDS",
+    "title": "Kinder Badezusatz Konfetti Badesalz Beste Freunde, 45 g",
+    "tileData": {
+      "a11yLabel": "Marke: tetesept: KIDS; Produktname: Kinder Badezusatz Konfetti Badesalz Beste Freunde, 45 g; Preis: 0,95 €; Grundpreis: 0,045 kg (21,11 € je 1 kg)",
+      "brand": {
+        "name": "tetesept: KIDS"
+      },
+      "dan": 3121059,
+      "gtin": 4008491124775,
+      "images": [
+        {
+          "alt": "Kinder Badezusatz Konfetti Badesalz Beste Freunde tetesept: KIDS",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768481130/assets/pas/images/6e3caa85-f4d5-4ac8-bfe9-771dabdb7b62/tetesept-kids-kinder-badezusatz-konfetti-badesalz-beste-freunde"
+        },
+        {
+          "alt": "Kinder Badezusatz Konfetti Badesalz Beste Freunde tetesept: KIDS",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768481105/assets/pas/images/7ed480a1-cd80-44f2-ab05-7c728232eef9/tetesept-kids-kinder-badezusatz-konfetti-badesalz-beste-freunde"
+        },
+        {
+          "alt": "Kinder Badezusatz Konfetti Badesalz Beste Freunde tetesept: KIDS",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768481155/assets/pas/images/2fdc2acc-05a8-4d1f-b603-4c8bdcfd7de9/tetesept-kids-kinder-badezusatz-konfetti-badesalz-beste-freunde"
+        },
+        {
+          "alt": "Kinder Badezusatz Konfetti Badesalz Beste Freunde tetesept: KIDS",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768481183/assets/pas/images/8d8eb680-7131-4eef-9627-ba9c3a438fff/tetesept-kids-kinder-badezusatz-konfetti-badesalz-beste-freunde"
+        },
+        {
+          "alt": "Kinder Badezusatz Konfetti Badesalz Beste Freunde tetesept: KIDS",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768481206/assets/pas/images/dc198bd1-623d-4ad6-9284-c210ad54a6b7/tetesept-kids-kinder-badezusatz-konfetti-badesalz-beste-freunde"
+        },
+        {
+          "alt": "Kinder Badezusatz Konfetti Badesalz Beste Freunde tetesept: KIDS",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768481231/assets/pas/images/d5641469-4243-40d6-8c54-4e8c5a0009b7/tetesept-kids-kinder-badezusatz-konfetti-badesalz-beste-freunde"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,045 kg (17,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,045 kg (21,11 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3121059/tetesept-kids-kinder-badezusatz-konfetti-badesalz-beste-freunde",
+      "title": {
+        "tileHeadline": "Kinder Badezusatz Konfetti Badesalz Beste Freunde, 45 g",
+        "tileHeadlineLong": "Kinder Badezusatz Konfetti Badesalz Beste Freunde, 45 g"
+      },
+      "trackingData": {
+        "brand": "tetesept: KIDS",
+        "categories": [
+          "Kinderbadezusätze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 10
+      }
+    }
+  },
+  {
+    "gtin": 4260654785746,
+    "dan": 1598917,
+    "brandName": "KoRo",
+    "title": "Linsenchips mit Meersalz, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Linsenchips mit Meersalz, 100 g; Preis: 2,45 €; Grundpreis: 0,1 kg (24,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1598917,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260654785746,
+      "images": [
+        {
+          "alt": "Linsenchips mit Meersalz KoRo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759266923/assets/pas/images/73c0d529-7801-4a5c-baed-cde3252ec9f8/koro-linsenchips-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (22,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (24,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 39,
+        "ratingValue": 4.359
+      },
+      "self": "/p/d/1598917/koro-linsenchips-mit-meersalz",
+      "title": {
+        "tileHeadline": "Linsenchips mit Meersalz, 100 g",
+        "tileHeadlineLong": "Linsenchips mit Meersalz, 100 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.359,
+        "ratingCount": 39
+      }
+    }
+  },
+  {
+    "gtin": 4067796173673,
+    "dan": 3048815,
+    "brandName": "Balea",
+    "title": "Sea Salt Texture Spray, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Sea Salt Texture Spray, 200 ml; Preis: 1,45 €; Grundpreis: 0,2 l (7,25 € je 1 l); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3048815,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4067796173673,
+      "images": [
+        {
+          "alt": "Sea Salt Texture Spray Balea",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755017568/assets/pas/images/a92c53e6-11d5-440f-a77b-0a6ab1ff30b5/balea-sea-salt-texture-spray"
+        },
+        {
+          "alt": "Sea Salt Texture Spray Balea",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755986894/assets/pas/images/9e69bb3a-fa48-4f46-8ed5-3789435c5662/balea-sea-salt-texture-spray"
+        },
+        {
+          "alt": "Sea Salt Texture Spray Balea",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755017572/assets/pas/images/2a56ba44-fa7b-405a-ad88-8482b32477df/balea-sea-salt-texture-spray"
+        },
+        {
+          "alt": "Sea Salt Texture Spray Balea",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755986890/assets/pas/images/039bbe89-e00e-4895-b8ae-373cf77f10d7/balea-sea-salt-texture-spray"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (6,09 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (7,25 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 118,
+        "ratingValue": 2.8305
+      },
+      "self": "/p/d/3048815/balea-sea-salt-texture-spray",
+      "title": {
+        "tileHeadline": "Sea Salt Texture Spray, 200 ml",
+        "tileHeadlineLong": "Sea Salt Texture Spray, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.8305,
+        "ratingCount": 118
+      }
+    }
+  },
+  {
+    "gtin": 4008491103251,
+    "dan": 1275936,
+    "brandName": "tetesept",
+    "title": "Badesalz Meeressalz Rücken & Schulter, 600 g",
+    "tileData": {
+      "a11yLabel": "Marke: tetesept; Produktname: Badesalz Meeressalz Rücken & Schulter, 600 g; Preis: 5,95 €; Grundpreis: 0,6 kg (9,92 € je 1 kg)",
+      "brand": {
+        "name": "tetesept"
+      },
+      "dan": 1275936,
+      "gtin": 4008491103251,
+      "images": [
+        {
+          "alt": "Badesalz Meeressalz Rücken & Schulter  tetesept",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434303/assets/pas/images/604daf57-4203-48da-914c-8f4f9beae057/tetesept-badesalz-meeressalz-ruecken-und-schulter"
+        },
+        {
+          "alt": "Badesalz Meeressalz Rücken & Schulter  tetesept",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434599/assets/pas/images/efbc0fa6-6214-45db-b655-a006c28bcc86/tetesept-badesalz-meeressalz-ruecken-und-schulter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (8,34 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (9,92 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 179,
+        "ratingValue": 4.7542
+      },
+      "self": "/p/d/1275936/tetesept-badesalz-meeressalz-ruecken-und-schulter",
+      "title": {
+        "tileHeadline": "Badesalz Meeressalz Rücken & Schulter, 600 g",
+        "tileHeadlineLong": "Badesalz Meeressalz Rücken & Schulter, 600 g"
+      },
+      "trackingData": {
+        "brand": "tetesept",
+        "categories": [
+          "Badezusatz & Badesalz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7542,
+        "ratingCount": 179
+      }
+    }
+  },
+  {
+    "gtin": 4066447898767,
+    "dan": 3116959,
+    "brandName": "alverde NATURKOSMETIK",
+    "title": "Festes Shampoo Rosmarin-Öl & Meersalz, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: alverde NATURKOSMETIK; Produktname: Festes Shampoo Rosmarin-Öl & Meersalz, 60 g; Preis: 3,45 €; Grundpreis: 0,06 kg (57,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "alverde NATURKOSMETIK"
+      },
+      "dan": 3116959,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447898767,
+      "images": [
+        {
+          "alt": "Festes Shampoo Rosmarin-Öl & Meersalz alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371852/assets/pas/images/4312ee0b-f77c-4d24-8534-1ec8b7c013aa/alverde-naturkosmetik-festes-shampoo-rosmarin-oel-und-meersalz"
+        },
+        {
+          "alt": "Festes Shampoo Rosmarin-Öl & Meersalz alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371831/assets/pas/images/f5d8199a-d880-45e6-96cf-4e9aca4bd9d5/alverde-naturkosmetik-festes-shampoo-rosmarin-oel-und-meersalz"
+        },
+        {
+          "alt": "Festes Shampoo Rosmarin-Öl & Meersalz alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371840/assets/pas/images/3b2c6f7c-a5f2-4d78-b32e-da1d836cdf45/alverde-naturkosmetik-festes-shampoo-rosmarin-oel-und-meersalz"
+        },
+        {
+          "alt": "Festes Shampoo Rosmarin-Öl & Meersalz alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772241082/assets/pas/images/944e1f40-2c9f-47e8-9549-5c196ec5d9ac/alverde-naturkosmetik-festes-shampoo-rosmarin-oel-und-meersalz"
+        },
+        {
+          "alt": "Festes Shampoo Rosmarin-Öl & Meersalz alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772241076/assets/pas/images/615e0f97-f3b7-4302-86d7-b0cac6e34986/alverde-naturkosmetik-festes-shampoo-rosmarin-oel-und-meersalz"
+        },
+        {
+          "alt": "Festes Shampoo Rosmarin-Öl & Meersalz alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371825/assets/pas/images/6ae7a2e3-5e1e-4720-b5f6-b09138c287d0/alverde-naturkosmetik-festes-shampoo-rosmarin-oel-und-meersalz"
+        },
+        {
+          "alt": "Festes Shampoo Rosmarin-Öl & Meersalz alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771371846/assets/pas/images/8a49c779-650e-4433-9128-0ea1452a4262/alverde-naturkosmetik-festes-shampoo-rosmarin-oel-und-meersalz"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (48,32 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (57,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 18,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/3116959/alverde-naturkosmetik-festes-shampoo-rosmarin-oel-und-meersalz",
+      "title": {
+        "tileHeadline": "Festes Shampoo Rosmarin-Öl & Meersalz, 60 g",
+        "tileHeadlineLong": "Festes Shampoo Rosmarin-Öl & Meersalz, 60 g"
+      },
+      "trackingData": {
+        "brand": "alverde NATURKOSMETIK",
+        "categories": [
+          "Haarseife, festes Shampoo & Conditioner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 18
+      }
+    }
+  },
+  {
+    "gtin": 4055297149501,
+    "dan": 1612045,
+    "brandName": "Santé naturally.",
+    "title": "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: Santé naturally.; Produktname: Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz, 80 g; Preis: 4,75 €; Grundpreis: 0,08 kg (59,38 € je 1 kg); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Santé naturally."
+      },
+      "dan": 1612045,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4055297149501,
+      "images": [
+        {
+          "alt": "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz Santé naturally.",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758750662/assets/pas/images/d39e6519-57d3-4961-bff5-2a2dc482fff9/sante-naturally-festes-duschgel-ocean-dive-bio-aloe-vera-und-meersalz"
+        },
+        {
+          "alt": "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz Santé naturally.",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758750678/assets/pas/images/f5afb0de-49ec-44c3-869e-5e656c003b5a/sante-naturally-festes-duschgel-ocean-dive-bio-aloe-vera-und-meersalz"
+        },
+        {
+          "alt": "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz Santé naturally.",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758750696/assets/pas/images/d4fb71da-a443-4191-9966-800180603a95/sante-naturally-festes-duschgel-ocean-dive-bio-aloe-vera-und-meersalz"
+        },
+        {
+          "alt": "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz Santé naturally.",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758750705/assets/pas/images/0804f39a-d375-4df2-b1ba-1dafb2c900c6/sante-naturally-festes-duschgel-ocean-dive-bio-aloe-vera-und-meersalz"
+        },
+        {
+          "alt": "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz Santé naturally.",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758750637/assets/pas/images/4a609575-745e-4f8a-9528-6e83bec93289/sante-naturally-festes-duschgel-ocean-dive-bio-aloe-vera-und-meersalz"
+        },
+        {
+          "alt": "Festes Duschgel Ocean Dive Bio-Aloe Vera & Meersalz Santé naturally.",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758750654/assets/pas/images/995106c6-0a6f-491f-8f1c-bc02b36e5989/sante-naturally-festes-duschgel-ocean-dive-bio-aloe-vera-und-meersalz"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,99 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (49,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (59,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 4.6486
+      },
+      "self": "/p/d/1612045/sante-naturally-festes-duschgel-ocean-dive-bio-aloe-vera-und-meersalz",
+      "title": {
+        "tileHeadline": "Festes Duschgel Ocean Dive Bio-Aloe Vera &..., 80 g",
+        "tileHeadlineLong": "Festes Duschgel Ocean Dive Bio-Aloe Vera &..., 80 g"
+      },
+      "trackingData": {
+        "brand": "Santé naturally.",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6486,
+        "ratingCount": 74
+      }
+    }
+  },
+  {
+    "gtin": 4008491100755,
+    "dan": 1709520,
+    "brandName": "tetesept",
+    "title": "Badesalz Muskel-Entspannung, 600 g",
+    "tileData": {
+      "a11yLabel": "Marke: tetesept; Produktname: Badesalz Muskel-Entspannung, 600 g; Preis: 5,95 €; Grundpreis: 0,6 kg (9,92 € je 1 kg)",
+      "brand": {
+        "name": "tetesept"
+      },
+      "dan": 1709520,
+      "gtin": 4008491100755,
+      "images": [
+        {
+          "alt": "Badesalz Muskel-Entspannung tetesept",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757718250/assets/pas/images/3b229306-4816-4290-abc2-a6704ee3a56e/tetesept-badesalz-muskel-entspannung"
+        },
+        {
+          "alt": "Badesalz Muskel-Entspannung tetesept",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434269/assets/pas/images/0af33383-bcd8-4320-ba11-9eef44b02d4c/tetesept-badesalz-muskel-entspannung"
+        },
+        {
+          "alt": "Badesalz Muskel-Entspannung tetesept",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434574/assets/pas/images/5c6902f7-4b11-4c38-8ed3-e1c1fe3e7dfe/tetesept-badesalz-muskel-entspannung"
+        },
+        {
+          "alt": "Badesalz Muskel-Entspannung tetesept",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434425/assets/pas/images/087670cc-20cb-4278-b825-f726c808a169/tetesept-badesalz-muskel-entspannung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (8,34 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (9,92 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 110,
+        "ratingValue": 4.7364
+      },
+      "self": "/p/d/1709520/tetesept-badesalz-muskel-entspannung",
+      "title": {
+        "tileHeadline": "Badesalz Muskel-Entspannung, 600 g",
+        "tileHeadlineLong": "Badesalz Muskel-Entspannung, 600 g"
+      },
+      "trackingData": {
+        "brand": "tetesept",
+        "categories": [
+          "Badezusatz & Badesalz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7364,
+        "ratingCount": 110
+      }
+    }
+  },
+  {
+    "gtin": 4008491106955,
+    "dan": 1275029,
+    "brandName": "tetesept",
+    "title": "Badesalz Ruhe & Entspannung, 600 g",
+    "tileData": {
+      "a11yLabel": "Marke: tetesept; Produktname: Badesalz Ruhe & Entspannung, 600 g; Preis: 5,95 €; Grundpreis: 0,6 kg (9,92 € je 1 kg)",
+      "brand": {
+        "name": "tetesept"
+      },
+      "dan": 1275029,
+      "gtin": 4008491106955,
+      "images": [
+        {
+          "alt": "Badesalz Ruhe & Entspannung tetesept",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772230899/assets/pas/images/28d1fa88-7e63-40e3-982a-39c76d83238b/tetesept-badesalz-ruhe-und-entspannung"
+        },
+        {
+          "alt": "Badesalz Ruhe & Entspannung tetesept",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772230916/assets/pas/images/e36adf19-70e1-4169-a371-8e4468728fad/tetesept-badesalz-ruhe-und-entspannung"
+        },
+        {
+          "alt": "Badesalz Ruhe & Entspannung tetesept",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772230932/assets/pas/images/1b903039-b9a0-450d-9b52-3fbf7c81e72e/tetesept-badesalz-ruhe-und-entspannung"
+        },
+        {
+          "alt": "Badesalz Ruhe & Entspannung tetesept",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434366/assets/pas/images/b1b6f6e9-d0fc-4259-8574-3225c4055c51/tetesept-badesalz-ruhe-und-entspannung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (8,34 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (9,92 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/1275029/tetesept-badesalz-ruhe-und-entspannung",
+      "title": {
+        "tileHeadline": "Badesalz Ruhe & Entspannung, 600 g",
+        "tileHeadlineLong": "Badesalz Ruhe & Entspannung, 600 g"
+      },
+      "trackingData": {
+        "brand": "tetesept",
+        "categories": [
+          "Badezusatz & Badesalz"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 66
+      }
+    }
+  }
+]

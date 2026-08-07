@@ -1,0 +1,2632 @@
+[
+  {
+    "gtin": 4066447918724,
+    "dan": 1675768,
+    "brandName": "dmBio",
+    "title": "Bratöl Olive, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Bratöl Olive, 750 ml; Preis: 7,95 €; Grundpreis: 0,75 l (10,60 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1675768,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447918724,
+      "images": [
+        {
+          "alt": "Bratöl Olive dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238842/assets/pas/images/b3406093-1673-4826-9bb8-4cf8a70548e7/dmbio-bratoel-olive"
+        },
+        {
+          "alt": "Bratöl Olive dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238845/assets/pas/images/a645057d-1071-443d-852b-ce1919da931a/dmbio-bratoel-olive"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,43 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (9,91 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (10,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 269,
+        "ratingValue": 4.4758
+      },
+      "self": "/p/d/1675768/dmbio-bratoel-olive",
+      "title": {
+        "tileHeadline": "Bratöl Olive, 750 ml",
+        "tileHeadlineLong": "Bratöl Olive, 750 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4758,
+        "ratingCount": 269
+      }
+    }
+  },
+  {
+    "gtin": 4066447918908,
+    "dan": 3063376,
+    "brandName": "dmBio",
+    "title": "Hanföl, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Hanföl, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3063376,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447918908,
+      "images": [
+        {
+          "alt": "Hanföl dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098938/assets/pas/images/c0b78630-6149-4e86-96e6-6deb40998593/dmbio-hanfoel"
+        },
+        {
+          "alt": "Hanföl dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766098930/assets/pas/images/e5fc8558-9a13-49f4-b94e-3329d2936db9/dmbio-hanfoel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (14,77 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 50,
+        "ratingValue": 4.78
+      },
+      "self": "/p/d/3063376/dmbio-hanfoel",
+      "title": {
+        "tileHeadline": "Hanföl, 250 ml",
+        "tileHeadlineLong": "Hanföl, 250 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.78,
+        "ratingCount": 50
+      }
+    }
+  },
+  {
+    "gtin": 4067796072945,
+    "dan": 1714605,
+    "brandName": "dmBio",
+    "title": "Sesamöl, 0,25 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Sesamöl, 0,25 l; Preis: 3,75 €; Grundpreis: 0,25 l (15,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1714605,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796072945,
+      "images": [
+        {
+          "alt": "Sesamöl dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755018522/assets/pas/images/c50d5436-ffb3-4453-a172-04a85687f13a/dmbio-sesamoel"
+        },
+        {
+          "alt": "Sesamöl dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755018517/assets/pas/images/cdbac84b-6368-4750-8590-905c273d1fa1/dmbio-sesamoel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (14,02 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.7375
+      },
+      "self": "/p/d/1714605/dmbio-sesamoel",
+      "title": {
+        "tileHeadline": "Sesamöl, 0,25 l",
+        "tileHeadlineLong": "Sesamöl, 0,25 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7375,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 4066447918885,
+    "dan": 3065041,
+    "brandName": "dmBio",
+    "title": "Walnussöl, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Walnussöl, 250 ml; Preis: 5,45 €; Grundpreis: 0,25 l (21,80 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3065041,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447918885,
+      "images": [
+        {
+          "alt": "Walnussöl dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764973704/assets/pas/images/c3ff0b87-cfe0-4d80-a410-6e0810799d99/dmbio-walnussoel"
+        },
+        {
+          "alt": "Walnussöl dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764973697/assets/pas/images/6b8bb4da-d2e6-4929-8cc3-668f53780948/dmbio-walnussoel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,09 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (20,37 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (21,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 45,
+        "ratingValue": 4.5333
+      },
+      "self": "/p/d/3065041/dmbio-walnussoel",
+      "title": {
+        "tileHeadline": "Walnussöl, 250 ml",
+        "tileHeadlineLong": "Walnussöl, 250 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5333,
+        "ratingCount": 45
+      }
+    }
+  },
+  {
+    "gtin": 4260718296232,
+    "dan": 1657270,
+    "brandName": "KoRo",
+    "title": "MCT Öl, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: MCT Öl, 500 ml; Preis: 16,95 €; Grundpreis: 0,5 l (33,90 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1657270,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260718296232,
+      "images": [
+        {
+          "alt": "MCT Öl KoRo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754978657/assets/pas/images/88620b38-82df-4ff6-906f-8ad4764c2578/koro-mct-oel"
+        },
+        {
+          "alt": "MCT Öl KoRo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754978655/assets/pas/images/daef4ab8-99de-4dc2-9085-95922a0734c4/koro-mct-oel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,24 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (28,49 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "16,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (33,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 41,
+        "ratingValue": 4.9756
+      },
+      "self": "/p/d/1657270/koro-mct-oel",
+      "title": {
+        "tileHeadline": "MCT Öl, 500 ml",
+        "tileHeadlineLong": "MCT Öl, 500 ml"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 16.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9756,
+        "ratingCount": 41
+      }
+    }
+  },
+  {
+    "gtin": 4058172504969,
+    "dan": 1544928,
+    "brandName": "dmBio",
+    "title": "Kokosöl, nativ, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kokosöl, nativ, 300 ml; Preis: 2,85 €; Grundpreis: 0,3 l (9,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1544928,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172504969,
+      "images": [
+        {
+          "alt": "Kokosöl, nativ dmBio",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747452225/assets/pas/images/65d245af-1af5-4f0f-83a1-5a524b36beee/dmbio-kokosoel-nativ"
+        },
+        {
+          "alt": "Kokosöl, nativ dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747452050/assets/pas/images/f2705c9e-decf-4fac-b36a-f1e42c940261/dmbio-kokosoel-nativ"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (8,88 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (9,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 337,
+        "ratingValue": 4.8932
+      },
+      "self": "/p/d/1544928/dmbio-kokosoel-nativ",
+      "title": {
+        "tileHeadline": "Kokosöl, nativ, 300 ml",
+        "tileHeadlineLong": "Kokosöl, nativ, 300 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8932,
+        "ratingCount": 337
+      }
+    }
+  },
+  {
+    "gtin": 4066447602685,
+    "dan": 1522571,
+    "brandName": "dmBio",
+    "title": "Kokosöl, nativ, 620 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kokosöl, nativ, 620 ml; Preis: 5,45 €; Grundpreis: 0,62 l (8,79 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1522571,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447602685,
+      "images": [
+        {
+          "alt": "Kokosöl, nativ dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484053/assets/pas/images/94ad41d7-77ab-4eec-906c-a1508baae61a/dmbio-kokosoel-nativ"
+        },
+        {
+          "alt": "Kokosöl, nativ dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483839/assets/pas/images/84453e59-a23a-4e23-b089-d5349e43debb/dmbio-kokosoel-nativ"
+        },
+        {
+          "alt": "Kokosöl, nativ dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483839/assets/pas/images/e9619cf0-d545-4572-ba72-5d94f7b16c33/dmbio-kokosoel-nativ"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,09 €"
+          }
+        },
+        "tileInfos": [
+          "0,62 l (8,21 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,62 l (8,79 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 682,
+        "ratingValue": 4.9238
+      },
+      "self": "/p/d/1522571/dmbio-kokosoel-nativ",
+      "title": {
+        "tileHeadline": "Kokosöl, nativ, 620 ml",
+        "tileHeadlineLong": "Kokosöl, nativ, 620 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9238,
+        "ratingCount": 682
+      }
+    }
+  },
+  {
+    "gtin": 9010874000014,
+    "dan": 3042182,
+    "brandName": "Wanu",
+    "title": "Walnussöl, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Wanu; Produktname: Walnussöl, 100 ml; Preis: 9,85 €; Grundpreis: 0,1 l (98,50 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "Wanu"
+      },
+      "dan": 3042182,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9010874000014,
+      "images": [
+        {
+          "alt": "Walnussöl Wanu",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750116241/assets/pas/images/51ba1fc5-8555-4008-9baa-bd7b9973dbcf/wanu-walnussoel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,21 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (92,06 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (98,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3042182/wanu-walnussoel",
+      "title": {
+        "tileHeadline": "Walnussöl, 100 ml",
+        "tileHeadlineLong": "Walnussöl, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Wanu",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 2
+      }
+    }
+  },
+  {
+    "gtin": 4066447918762,
+    "dan": 1479633,
+    "brandName": "dmBio",
+    "title": "Sonnenblumenöl, kaltgepresst, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Sonnenblumenöl, kaltgepresst, 500 ml; Preis: 1,45 €; Grundpreis: 0,5 l (2,90 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1479633,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447918762,
+      "images": [
+        {
+          "alt": "Sonnenblumenöl, kaltgepresst dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764379055/assets/pas/images/8eeb9013-6a5a-40cd-8068-ef0ae3b79e6e/dmbio-sonnenblumenoel-kaltgepresst"
+        },
+        {
+          "alt": "Sonnenblumenöl, kaltgepresst dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764379060/assets/pas/images/801caed6-7bd0-42bf-8818-62f4c5c01aa6/dmbio-sonnenblumenoel-kaltgepresst"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (2,71 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (2,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 105,
+        "ratingValue": 4.3524
+      },
+      "self": "/p/d/1479633/dmbio-sonnenblumenoel-kaltgepresst",
+      "title": {
+        "tileHeadline": "Sonnenblumenöl, kaltgepresst, 500 ml",
+        "tileHeadlineLong": "Sonnenblumenöl, kaltgepresst, 500 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3524,
+        "ratingCount": 105
+      }
+    }
+  },
+  {
+    "gtin": 4070765083750,
+    "dan": 1473792,
+    "brandName": "dmBio",
+    "title": "Bratöl Sonnenblume, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Bratöl Sonnenblume, 750 ml; Preis: 2,75 €; Grundpreis: 0,75 l (3,67 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1473792,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765083750,
+      "images": [
+        {
+          "alt": "Bratöl Sonnenblume dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325901/assets/pas/images/619581da-5cef-47b9-9632-ba643f6c4d08/dmbio-bratoel-sonnenblume"
+        },
+        {
+          "alt": "Bratöl Sonnenblume dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325904/assets/pas/images/d2270f2e-e0ff-4384-a6cd-5f2bbd11734e/dmbio-bratoel-sonnenblume"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (3,43 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (3,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 318,
+        "ratingValue": 4.6132
+      },
+      "self": "/p/d/1473792/dmbio-bratoel-sonnenblume",
+      "title": {
+        "tileHeadline": "Bratöl Sonnenblume, 750 ml",
+        "tileHeadlineLong": "Bratöl Sonnenblume, 750 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6132,
+        "ratingCount": 318
+      }
+    }
+  },
+  {
+    "gtin": 4066447918700,
+    "dan": 1512947,
+    "brandName": "dmBio",
+    "title": "natives Olivenöl, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: natives Olivenöl, 500 ml; Preis: 7,45 €; Grundpreis: 0,5 l (14,90 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1512947,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447918700,
+      "images": [
+        {
+          "alt": "natives Olivenöl dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772231804/assets/pas/images/436eab9e-6dbf-464e-b470-d0ac2d3f933d/dmbio-natives-olivenoel"
+        },
+        {
+          "alt": "natives Olivenöl dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772231798/assets/pas/images/33c8add4-9666-44cf-ba53-ef9da261e4e2/dmbio-natives-olivenoel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,96 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (13,93 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (14,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 335,
+        "ratingValue": 4.594
+      },
+      "self": "/p/d/1512947/dmbio-natives-olivenoel",
+      "title": {
+        "tileHeadline": "natives Olivenöl, 500 ml",
+        "tileHeadlineLong": "natives Olivenöl, 500 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.594,
+        "ratingCount": 335
+      }
+    }
+  },
+  {
+    "gtin": 4066447918687,
+    "dan": 1459848,
+    "brandName": "dmBio",
+    "title": "Natives Olivenöl extra, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Natives Olivenöl extra, 750 ml; Preis: 6,95 €; Grundpreis: 0,75 l (9,27 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1459848,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447918687,
+      "images": [
+        {
+          "alt": "Natives Olivenöl extra dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775776295/assets/pas/images/b806c71e-612f-40e2-9e58-e584fb1a3968/dmbio-natives-olivenoel-extra"
+        },
+        {
+          "alt": "Natives Olivenöl extra dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775776297/assets/pas/images/4c68aa4f-f474-47b3-aa79-156d04a91870/dmbio-natives-olivenoel-extra"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (8,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (9,27 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1234,
+        "ratingValue": 4.0502
+      },
+      "self": "/p/d/1459848/dmbio-natives-olivenoel-extra",
+      "title": {
+        "tileHeadline": "Natives Olivenöl extra, 750 ml",
+        "tileHeadlineLong": "Natives Olivenöl extra, 750 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0502,
+        "ratingCount": 1234
+      }
+    }
+  },
+  {
+    "gtin": 4067796175318,
+    "dan": 1469719,
+    "brandName": "dmBio",
+    "title": "Ghee, geklärte Butter, 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Ghee, geklärte Butter, 180 g; Preis: 4,45 €; Grundpreis: 0,18 kg (24,72 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1469719,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796175318,
+      "images": [
+        {
+          "alt": "Ghee, geklärte Butter dmBio",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764899978/assets/pas/images/c1194ae8-d8cd-42c9-b411-348aa8cff593/dmbio-ghee-geklaerte-butter"
+        },
+        {
+          "alt": "Ghee, geklärte Butter dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761144470/assets/pas/images/b13a73bf-93fe-42dd-894d-1ff23884c8ba/dmbio-ghee-geklaerte-butter"
+        },
+        {
+          "alt": "Ghee, geklärte Butter dmBio",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764899971/assets/pas/images/62546093-44fb-4f6d-b897-a810806b1b47/dmbio-ghee-geklaerte-butter"
+        },
+        {
+          "alt": "Ghee, geklärte Butter dmBio",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764899962/assets/pas/images/e660d5a2-35f8-4186-95b3-6ec71a10482a/dmbio-ghee-geklaerte-butter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (23,10 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (24,72 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 276,
+        "ratingValue": 4.7935
+      },
+      "self": "/p/d/1469719/dmbio-ghee-geklaerte-butter",
+      "title": {
+        "tileHeadline": "Ghee, geklärte Butter, 180 g",
+        "tileHeadlineLong": "Ghee, geklärte Butter, 180 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7935,
+        "ratingCount": 276
+      }
+    }
+  },
+  {
+    "gtin": 8053323643883,
+    "dan": 1711478,
+    "brandName": "LaSelva",
+    "title": "Natives Olivenöl extra, fruchtig, 0,5 l",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Natives Olivenöl extra, fruchtig, 0,5 l; Preis: 9,95 €; Grundpreis: 0,5 l (19,90 € je 1 l)",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 1711478,
+      "gtin": 8053323643883,
+      "images": [
+        {
+          "alt": "Natives Olivenöl extra, fruchtig  LaSelva",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747523729/assets/pas/images/bdf6f4b3-38b0-4c1f-b1cb-56934b1ea954/laselva-natives-olivenoel-extra-fruchtig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,30 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (18,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (19,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 45,
+        "ratingValue": 4.8444
+      },
+      "self": "/p/d/1711478/laselva-natives-olivenoel-extra-fruchtig",
+      "title": {
+        "tileHeadline": "Natives Olivenöl extra, fruchtig, 0,5 l",
+        "tileHeadlineLong": "Natives Olivenöl extra, fruchtig, 0,5 l"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8444,
+        "ratingCount": 45
+      }
+    }
+  },
+  {
+    "gtin": 8018759001263,
+    "dan": 1711479,
+    "brandName": "LaSelva",
+    "title": "Natives Olivenöl extra, ausgewogen, 0,5 l",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Natives Olivenöl extra, ausgewogen, 0,5 l; Preis: 9,95 €; Grundpreis: 0,5 l (19,90 € je 1 l)",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 1711479,
+      "gtin": 8018759001263,
+      "images": [
+        {
+          "alt": "Natives Olivenöl extra, ausgewogen LaSelva",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747523157/assets/pas/images/86a7a734-1418-4534-87c2-f9d4591af592/laselva-natives-olivenoel-extra-ausgewogen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,30 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (18,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (19,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 23,
+        "ratingValue": 4.6522
+      },
+      "self": "/p/d/1711479/laselva-natives-olivenoel-extra-ausgewogen",
+      "title": {
+        "tileHeadline": "Natives Olivenöl extra, ausgewogen, 0,5 l",
+        "tileHeadlineLong": "Natives Olivenöl extra, ausgewogen, 0,5 l"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6522,
+        "ratingCount": 23
+      }
+    }
+  },
+  {
+    "gtin": 7640143672387,
+    "dan": 1578707,
+    "brandName": "PPURA",
+    "title": "natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen, 100 ml; Preis: 3,95 €; Grundpreis: 0,1 l (39,50 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1578707,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7640143672387,
+      "images": [
+        {
+          "alt": "natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen PPURA",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757933037/assets/pas/images/3584de33-fc1f-46dd-91ed-9eca372a0c58/ppura-natives-olivenoel-extra-amalfi-zitrone-mit-frischen-amalfi-zitronen"
+        },
+        {
+          "alt": "natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen PPURA",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757933050/assets/pas/images/74e8211f-b5f3-4483-a836-0e3660d18f29/ppura-natives-olivenoel-extra-amalfi-zitrone-mit-frischen-amalfi-zitronen"
+        },
+        {
+          "alt": "natives Olivenöl extra \"Amalfi Zitrone\" mit frischen Amalfi Zitronen PPURA",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776384447/assets/pas/images/820c571a-f9af-4f4a-b5b2-c40762f5909b/ppura-natives-olivenoel-extra-amalfi-zitrone-mit-frischen-amalfi-zitronen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (36,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (39,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.8906
+      },
+      "self": "/p/d/1578707/ppura-natives-olivenoel-extra-amalfi-zitrone-mit-frischen-amalfi-zitronen",
+      "title": {
+        "tileHeadline": "natives Olivenöl extra \"Amalfi Zitrone\" mit..., 100 ml",
+        "tileHeadlineLong": "natives Olivenöl extra \"Amalfi Zitrone\" mit..., 100 ml"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8906,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 7640143672370,
+    "dan": 1578714,
+    "brandName": "PPURA",
+    "title": "natives Olivenöl extra \"Mammas Gemüse\" mit Paprika, roten Zwiebeln & Basilikum, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: natives Olivenöl extra \"Mammas Gemüse\" mit Paprika, roten Zwiebeln & Basilikum, 100 ml; Preis: 3,95 €; Grundpreis: 0,1 l (39,50 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1578714,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7640143672370,
+      "images": [
+        {
+          "alt": "natives Olivenöl extra \"Mammas Gemüse\" mit Paprika, roten Zwiebeln & Basilikum PPURA",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764972926/assets/pas/images/2e8af2ee-c572-4e50-a6d1-d09123b99e3e/ppura-natives-olivenoel-extra-mammas-gemuese-mit-paprika-roten-zwiebeln-und-basilikum"
+        },
+        {
+          "alt": "natives Olivenöl extra \"Mammas Gemüse\" mit Paprika, roten Zwiebeln & Basilikum PPURA",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764972940/assets/pas/images/bfd8a4ea-cef6-4ed7-bd1e-78653c37dbe2/ppura-natives-olivenoel-extra-mammas-gemuese-mit-paprika-roten-zwiebeln-und-basilikum"
+        },
+        {
+          "alt": "natives Olivenöl extra \"Mammas Gemüse\" mit Paprika, roten Zwiebeln & Basilikum PPURA",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776388668/assets/pas/images/49537fda-b178-440a-80d1-d5d364304b0b/ppura-natives-olivenoel-extra-mammas-gemuese-mit-paprika-roten-zwiebeln-und-basilikum"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (36,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (39,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 18,
+        "ratingValue": 4.7778
+      },
+      "self": "/p/d/1578714/ppura-natives-olivenoel-extra-mammas-gemuese-mit-paprika-roten-zwiebeln-und-basilikum",
+      "title": {
+        "tileHeadline": "natives Olivenöl extra \"Mammas Gemüse\" mit..., 100 ml",
+        "tileHeadlineLong": "natives Olivenöl extra \"Mammas Gemüse\" mit..., 100 ml"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7778,
+        "ratingCount": 18
+      }
+    }
+  },
+  {
+    "gtin": 4066447918861,
+    "dan": 1343487,
+    "brandName": "dmBio",
+    "title": "Leinöl, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Leinöl, 250 ml; Preis: 1,35 €; Grundpreis: 0,25 l (5,40 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1343487,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447918861,
+      "images": [
+        {
+          "alt": "Leinöl dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764980936/assets/pas/images/b2558ab1-a41c-4db1-ae91-72ec16f98e85/dmbio-leinoel"
+        },
+        {
+          "alt": "Leinöl dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764980942/assets/pas/images/4cb82909-78f0-47ab-aafa-942e2632be8e/dmbio-leinoel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (5,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (5,40 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 108,
+        "ratingValue": 4.3056
+      },
+      "self": "/p/d/1343487/dmbio-leinoel",
+      "title": {
+        "tileHeadline": "Leinöl, 250 ml",
+        "tileHeadlineLong": "Leinöl, 250 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3056,
+        "ratingCount": 108
+      }
+    }
+  },
+  {
+    "gtin": 4066447918809,
+    "dan": 1479618,
+    "brandName": "dmBio",
+    "title": "Rapsöl, 0,5 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Rapsöl, 0,5 l; Preis: 1,55 €; Grundpreis: 0,5 l (3,10 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1479618,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447918809,
+      "images": [
+        {
+          "alt": "Rapsöl dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764379716/assets/pas/images/d096d6bf-ffc9-418f-a407-07a6aa9ecb89/dmbio-rapsoel"
+        },
+        {
+          "alt": "Rapsöl dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764379713/assets/pas/images/803044fd-3345-4d0c-9aad-10604178d76f/dmbio-rapsoel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (2,90 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (3,10 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 143,
+        "ratingValue": 4.7832
+      },
+      "self": "/p/d/1479618/dmbio-rapsoel",
+      "title": {
+        "tileHeadline": "Rapsöl, 0,5 l",
+        "tileHeadlineLong": "Rapsöl, 0,5 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7832,
+        "ratingCount": 143
+      }
+    }
+  },
+  {
+    "gtin": 4066447982411,
+    "dan": 1639876,
+    "brandName": "dmBio",
+    "title": "Reisessig, mild-säuerlich, 145 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reisessig, mild-säuerlich, 145 ml; Preis: 2,25 €; Grundpreis: 0,145 l (15,52 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1639876,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447982411,
+      "images": [
+        {
+          "alt": "Reisessig, mild-säuerlich dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774137223/assets/pas/images/30b5eec3-88b8-43b2-a514-6f5a2debed4e/dmbio-reisessig-mild-saeuerlich"
+        },
+        {
+          "alt": "Reisessig, mild-säuerlich dmBio",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774137230/assets/pas/images/a69cd919-14fc-4d30-b9f0-13dbf41db9ed/dmbio-reisessig-mild-saeuerlich"
+        },
+        {
+          "alt": "Reisessig, mild-säuerlich dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774137227/assets/pas/images/36c9b972-cdb2-4d1d-a24e-f81d99c56a30/dmbio-reisessig-mild-saeuerlich"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,145 l (14,50 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,145 l (15,52 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.6949
+      },
+      "self": "/p/d/1639876/dmbio-reisessig-mild-saeuerlich",
+      "title": {
+        "tileHeadline": "Reisessig, mild-säuerlich, 145 ml",
+        "tileHeadlineLong": "Reisessig, mild-säuerlich, 145 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6949,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4260742566011,
+    "dan": 1456820,
+    "brandName": "Theo der Essigbrauer",
+    "title": "Essig, Balsamico Gold, 350 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Theo der Essigbrauer; Produktname: Essig, Balsamico Gold, 350 ml; Preis: 3,75 €; Grundpreis: 0,35 l (10,71 € je 1 l)",
+      "brand": {
+        "name": "Theo der Essigbrauer"
+      },
+      "dan": 1456820,
+      "gtin": 4260742566011,
+      "images": [
+        {
+          "alt": "Essig, Balsamico Gold Theo der Essigbrauer",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249143/assets/pas/images/54b2bec5-9ea8-4bcf-8e34-a63f2e43d069/theo-der-essigbrauer-essig-balsamico-gold"
+        },
+        {
+          "alt": "Essig, Balsamico Gold Theo der Essigbrauer",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249157/assets/pas/images/f4d9878e-3067-411d-8814-2c18eab86f9a/theo-der-essigbrauer-essig-balsamico-gold"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 l (10,01 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 l (10,71 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/1456820/theo-der-essigbrauer-essig-balsamico-gold",
+      "title": {
+        "tileHeadline": "Essig, Balsamico Gold, 350 ml",
+        "tileHeadlineLong": "Essig, Balsamico Gold, 350 ml"
+      },
+      "trackingData": {
+        "brand": "Theo der Essigbrauer",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 8018759001294,
+    "dan": 1711520,
+    "brandName": "LaSelva",
+    "title": "Creme mit Balsamessig aus Modena, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Creme mit Balsamessig aus Modena, 250 ml; Preis: 4,95 €; Grundpreis: 0,25 l (19,80 € je 1 l)",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 1711520,
+      "gtin": 8018759001294,
+      "images": [
+        {
+          "alt": "Creme mit Balsamessig aus Modena LaSelva",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747523432/assets/pas/images/bd0ac170-1fa0-40b5-8919-44729c86c79e/laselva-creme-mit-balsamessig-aus-modena"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (18,50 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (19,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 15,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/1711520/laselva-creme-mit-balsamessig-aus-modena",
+      "title": {
+        "tileHeadline": "Creme mit Balsamessig aus Modena, 250 ml",
+        "tileHeadlineLong": "Creme mit Balsamessig aus Modena, 250 ml"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 15
+      }
+    }
+  },
+  {
+    "gtin": 4067796150513,
+    "dan": 1454154,
+    "brandName": "dmBio",
+    "title": "Condimento bianco, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Condimento bianco, 500 ml; Preis: 2,45 €; Grundpreis: 0,5 l (4,90 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454154,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796150513,
+      "images": [
+        {
+          "alt": "Condimento bianco dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755013848/assets/pas/images/25d74622-d689-4b4b-8108-eb952eb71637/dmbio-condimento-bianco"
+        },
+        {
+          "alt": "Condimento bianco dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755013848/assets/pas/images/99abf2d8-2895-45b7-8346-8895c4aa8716/dmbio-condimento-bianco"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (4,58 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (4,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 101,
+        "ratingValue": 4.8812
+      },
+      "self": "/p/d/1454154/dmbio-condimento-bianco",
+      "title": {
+        "tileHeadline": "Condimento bianco, 500 ml",
+        "tileHeadlineLong": "Condimento bianco, 500 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8812,
+        "ratingCount": 101
+      }
+    }
+  },
+  {
+    "gtin": 4066447990980,
+    "dan": 1454078,
+    "brandName": "dmBio",
+    "title": "Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml; Preis: 2,95 €; Grundpreis: 0,25 l (11,80 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454078,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447990980,
+      "images": [
+        {
+          "alt": "Crema con \"Aceto Balsamico di Modena g.g.A.\" dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779234392/assets/pas/images/01c6028b-d370-4390-b6d2-5ec33c279f4a/dmbio-crema-con-aceto-balsamico-di-modena-g-g-a"
+        },
+        {
+          "alt": "Crema con \"Aceto Balsamico di Modena g.g.A.\" dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779234387/assets/pas/images/0d1f1981-96be-4f08-9e63-4030524f1577/dmbio-crema-con-aceto-balsamico-di-modena-g-g-a"
+        },
+        {
+          "alt": "Crema con \"Aceto Balsamico di Modena g.g.A.\" dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779234396/assets/pas/images/8b19953e-5a14-4ac6-b5ee-7f0814499dcf/dmbio-crema-con-aceto-balsamico-di-modena-g-g-a"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,03 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 103,
+        "ratingValue": 4.6796
+      },
+      "self": "/p/d/1454078/dmbio-crema-con-aceto-balsamico-di-modena-g-g-a",
+      "title": {
+        "tileHeadline": "Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml",
+        "tileHeadlineLong": "Crema con \"Aceto Balsamico di Modena g.g.A.\", 250 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6796,
+        "ratingCount": 103
+      }
+    }
+  },
+  {
+    "gtin": 4066447990805,
+    "dan": 1470124,
+    "brandName": "dmBio",
+    "title": "Apfelessig, 750 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Apfelessig, 750 ml; Preis: 1,55 €; Grundpreis: 0,75 l (2,07 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1470124,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447990805,
+      "images": [
+        {
+          "alt": "Apfelessig dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782256207/assets/pas/images/4c84f533-6378-419f-9a7a-d7dfb62a983d/dmbio-apfelessig"
+        },
+        {
+          "alt": "Apfelessig dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782256204/assets/pas/images/8925b82c-4fa3-44af-a48a-0d4822cc5c23/dmbio-apfelessig"
+        },
+        {
+          "alt": "Apfelessig dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782256211/assets/pas/images/e537806e-76fd-4acc-8877-72019c20e7fc/dmbio-apfelessig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (1,93 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,75 l (2,07 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 149,
+        "ratingValue": 4.5906
+      },
+      "self": "/p/d/1470124/dmbio-apfelessig",
+      "title": {
+        "tileHeadline": "Apfelessig, 750 ml",
+        "tileHeadlineLong": "Apfelessig, 750 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5906,
+        "ratingCount": 149
+      }
+    }
+  },
+  {
+    "gtin": 4069826000577,
+    "dan": 3134634,
+    "brandName": "SHIRIN BEAUTY",
+    "title": "Körperöl Shimmering Body Oil Strawberry, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SHIRIN BEAUTY; Produktname: Körperöl Shimmering Body Oil Strawberry, 150 ml; Preis: 5,95 €; Grundpreis: 0,15 l (39,67 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "SHIRIN BEAUTY"
+      },
+      "dan": 3134634,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4069826000577,
+      "images": [
+        {
+          "alt": "Körperöl Shimmering Body Oil Strawberry SHIRIN BEAUTY",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776073516/assets/pas/images/847c69e2-1131-4885-814a-f1f8a553b706/shirin-beauty-koerperoel-shimmering-body-oil-strawberry"
+        },
+        {
+          "alt": "Körperöl Shimmering Body Oil Strawberry SHIRIN BEAUTY",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776073523/assets/pas/images/c61e9afa-ea5e-4b46-bec7-5e113519fb24/shirin-beauty-koerperoel-shimmering-body-oil-strawberry"
+        },
+        {
+          "alt": "Körperöl Shimmering Body Oil Strawberry SHIRIN BEAUTY",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780438917/assets/pas/images/370be865-5d72-4485-ae44-ef0a81c8f975/shirin-beauty-koerperoel-shimmering-body-oil-strawberry"
+        },
+        {
+          "alt": "Körperöl Shimmering Body Oil Strawberry SHIRIN BEAUTY",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780093532/assets/pas/images/9cb466cc-7838-4ac1-88c6-19512629b935/shirin-beauty-koerperoel-shimmering-body-oil-strawberry"
+        },
+        {
+          "alt": "Körperöl Shimmering Body Oil Strawberry SHIRIN BEAUTY",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780093558/assets/pas/images/000a6f6e-0e27-4f62-ba4f-afa921f375e1/shirin-beauty-koerperoel-shimmering-body-oil-strawberry"
+        },
+        {
+          "alt": "Körperöl Shimmering Body Oil Strawberry SHIRIN BEAUTY",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780093595/assets/pas/images/7a675a22-c16b-4bef-a0da-3d393eb68f7e/shirin-beauty-koerperoel-shimmering-body-oil-strawberry"
+        },
+        {
+          "alt": "Körperöl Shimmering Body Oil Strawberry SHIRIN BEAUTY",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780093627/assets/pas/images/6722bf7f-69ae-46a4-a5c6-7711c901f35a/shirin-beauty-koerperoel-shimmering-body-oil-strawberry"
+        },
+        {
+          "alt": "Körperöl Shimmering Body Oil Strawberry SHIRIN BEAUTY",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780093660/assets/pas/images/cb5a4eaf-3c27-40c9-9de6-1480abdf93b2/shirin-beauty-koerperoel-shimmering-body-oil-strawberry"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (33,34 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (39,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 79,
+        "ratingValue": 4.2658
+      },
+      "self": "/p/d/3134634/shirin-beauty-koerperoel-shimmering-body-oil-strawberry",
+      "title": {
+        "tileHeadline": "Körperöl Shimmering Body Oil Strawberry, 150 ml",
+        "tileHeadlineLong": "Körperöl Shimmering Body Oil Strawberry, 150 ml"
+      },
+      "trackingData": {
+        "brand": "SHIRIN BEAUTY",
+        "categories": [
+          "Körperöl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2658,
+        "ratingCount": 79
+      }
+    }
+  },
+  {
+    "gtin": 5099821109219,
+    "dan": 1679089,
+    "brandName": "Hawaiian Tropic",
+    "title": "Sonnenölspray glowing protection mit Kokosnuss & Arganöl, LSF 30, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Hawaiian Tropic; Produktname: Sonnenölspray glowing protection mit Kokosnuss & Arganöl, LSF 30, 200 ml; Preis: 9,75 €; Grundpreis: 0,2 l (48,75 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Hawaiian Tropic"
+      },
+      "dan": 1679089,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 5099821109219,
+      "images": [
+        {
+          "alt": "Sonnenölspray glowing protection mit Kokosnuss & Arganöl, LSF 30 Hawaiian Tropic",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500998/assets/pas/images/442573e2-e8a7-4394-893c-ee333c15a1c6/hawaiian-tropic-sonnenoelspray-glowing-protection-mit-kokosnuss-und-arganoel-lsf-30"
+        },
+        {
+          "alt": "Sonnenölspray glowing protection mit Kokosnuss & Arganöl, LSF 30 Hawaiian Tropic",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774481363/assets/pas/images/66bbc6b9-65f9-46b1-b04e-c6598f02bd2f/hawaiian-tropic-sonnenoelspray-glowing-protection-mit-kokosnuss-und-arganoel-lsf-30"
+        },
+        {
+          "alt": "Sonnenölspray glowing protection mit Kokosnuss & Arganöl, LSF 30 Hawaiian Tropic",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500998/assets/pas/images/06485094-f4ba-4be1-8687-074f6018d5d3/hawaiian-tropic-sonnenoelspray-glowing-protection-mit-kokosnuss-und-arganoel-lsf-30"
+        },
+        {
+          "alt": "Sonnenölspray glowing protection mit Kokosnuss & Arganöl, LSF 30 Hawaiian Tropic",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774481358/assets/pas/images/21a1c8d6-2cad-4b3b-879a-33432a1c116c/hawaiian-tropic-sonnenoelspray-glowing-protection-mit-kokosnuss-und-arganoel-lsf-30"
+        },
+        {
+          "alt": "Sonnenölspray glowing protection mit Kokosnuss & Arganöl, LSF 30 Hawaiian Tropic",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500660/assets/pas/images/622d0558-24c6-491e-a2d5-9cefd0e0c420/hawaiian-tropic-sonnenoelspray-glowing-protection-mit-kokosnuss-und-arganoel-lsf-30"
+        },
+        {
+          "alt": "Sonnenölspray glowing protection mit Kokosnuss & Arganöl, LSF 30 Hawaiian Tropic",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501123/assets/pas/images/ed2c2931-2439-4a1f-8066-0365db91d223/hawaiian-tropic-sonnenoelspray-glowing-protection-mit-kokosnuss-und-arganoel-lsf-30"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,19 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (40,97 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (48,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 178,
+        "ratingValue": 4.6236
+      },
+      "self": "/p/d/1679089/hawaiian-tropic-sonnenoelspray-glowing-protection-mit-kokosnuss-und-arganoel-lsf-30",
+      "title": {
+        "tileHeadline": "Sonnenölspray glowing protection mit Kokosnuss &..., 200 ml",
+        "tileHeadlineLong": "Sonnenölspray glowing protection mit Kokosnuss &..., 200 ml"
+      },
+      "trackingData": {
+        "brand": "Hawaiian Tropic",
+        "categories": [
+          "Sonnenspray"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6236,
+        "ratingCount": 178
+      }
+    }
+  },
+  {
+    "gtin": 5099821001070,
+    "dan": 1538904,
+    "brandName": "Hawaiian Tropic",
+    "title": "Bräunungsöl glowing oil beautiful tan, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Hawaiian Tropic; Produktname: Bräunungsöl glowing oil beautiful tan, 200 ml; Preis: 7,75 €; Grundpreis: 0,2 l (38,75 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Hawaiian Tropic"
+      },
+      "dan": 1538904,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 5099821001070,
+      "images": [
+        {
+          "alt": "Bräunungsöl glowing oil beautiful tan Hawaiian Tropic",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501207/assets/pas/images/afd73842-8ed0-45dd-b876-f8c5ce27260a/hawaiian-tropic-braeunungsoel-glowing-oil-beautiful-tan"
+        },
+        {
+          "alt": "Bräunungsöl glowing oil beautiful tan Hawaiian Tropic",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501196/assets/pas/images/ddf757e1-52a9-420c-84ea-c32f1ed8fd1c/hawaiian-tropic-braeunungsoel-glowing-oil-beautiful-tan"
+        },
+        {
+          "alt": "Bräunungsöl glowing oil beautiful tan Hawaiian Tropic",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500762/assets/pas/images/132d31f6-317e-417d-a712-63dd8aa04df0/hawaiian-tropic-braeunungsoel-glowing-oil-beautiful-tan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,51 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (32,56 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (38,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 210,
+        "ratingValue": 4.4857
+      },
+      "self": "/p/d/1538904/hawaiian-tropic-braeunungsoel-glowing-oil-beautiful-tan",
+      "title": {
+        "tileHeadline": "Bräunungsöl glowing oil beautiful tan, 200 ml",
+        "tileHeadlineLong": "Bräunungsöl glowing oil beautiful tan, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Hawaiian Tropic",
+        "categories": [
+          "Selbstbräuner & Bräunungsbeschleuniger"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4857,
+        "ratingCount": 210
+      }
+    }
+  },
+  {
+    "gtin": 8006530294072,
+    "dan": 3131495,
+    "brandName": "Herbal Essences",
+    "title": "Haarserum Fiji mit Kokosnussöl, 95 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Herbal Essences; Produktname: Haarserum Fiji mit Kokosnussöl, 95 ml; Preis: 5,95 €; Grundpreis: 0,095 l (62,63 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "Herbal Essences"
+      },
+      "dan": 3131495,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 8006530294072,
+      "images": [
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168901/assets/pas/images/d08e7965-833f-45be-8d68-55e8b82124c4/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        },
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168908/assets/pas/images/b9b98a29-0467-4510-adf8-a1b526a2fa64/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        },
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168954/assets/pas/images/0112a823-1a46-430c-b87f-fc414cb3138c/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        },
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777414162/assets/pas/images/5df6f414-9294-4f48-baac-091599752a58/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        },
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168967/assets/pas/images/5af9bb1f-c28b-4998-b6c1-d261e7d9ca30/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        },
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779235280/assets/pas/images/da2490e0-68f3-4305-a9bc-33c902d55b0a/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        },
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168889/assets/pas/images/6b8a740f-1a6b-491f-a4d7-13df50fbda91/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        },
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168928/assets/pas/images/e3c1b502-28a1-4dc6-9ab8-5c72471829ca/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        },
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168916/assets/pas/images/e2e7ad3f-eb7b-4802-b099-b83c092f387b/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        },
+        {
+          "alt": "Haarserum Fiji mit Kokosnussöl Herbal Essences",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168940/assets/pas/images/901a6ce8-6394-4a84-94d3-d197cc412512/herbal-essences-haarserum-fiji-mit-kokosnussoel"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,095 l (52,63 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,095 l (62,63 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 91,
+        "ratingValue": 4.6923
+      },
+      "self": "/p/d/3131495/herbal-essences-haarserum-fiji-mit-kokosnussoel",
+      "title": {
+        "tileHeadline": "Haarserum Fiji mit Kokosnussöl, 95 ml",
+        "tileHeadlineLong": "Haarserum Fiji mit Kokosnussöl, 95 ml"
+      },
+      "trackingData": {
+        "brand": "Herbal Essences",
+        "categories": [
+          "Haarkur & Haarmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6923,
+        "ratingCount": 91
+      }
+    }
+  },
+  {
+    "gtin": 5099821002282,
+    "dan": 2118643,
+    "brandName": "Hawaiian Tropic",
+    "title": "Sonnenölspray glowing protection dry oil, LSF 30, 180 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Hawaiian Tropic; Produktname: Sonnenölspray glowing protection dry oil, LSF 30, 180 ml; Preis: 10,95 €; Grundpreis: 0,18 l (60,83 € je 1 l)",
+      "brand": {
+        "name": "Hawaiian Tropic"
+      },
+      "dan": 2118643,
+      "gtin": 5099821002282,
+      "images": [
+        {
+          "alt": "Sonnenölspray glowing protection dry oil, LSF 30 Hawaiian Tropic",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768349553/assets/pas/images/100da4f4-2c4a-490d-8935-ac3b6a318248/hawaiian-tropic-sonnenoelspray-glowing-protection-dry-oil-lsf-30"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 l (51,12 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 l (60,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 24,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/2118643/hawaiian-tropic-sonnenoelspray-glowing-protection-dry-oil-lsf-30",
+      "title": {
+        "tileHeadline": "Sonnenölspray glowing protection dry oil, LSF 30, 180 ml",
+        "tileHeadlineLong": "Sonnenölspray glowing protection dry oil, LSF 30, 180 ml"
+      },
+      "trackingData": {
+        "brand": "Hawaiian Tropic",
+        "categories": [
+          "Sonnenspray"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 10.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 24
+      }
+    }
+  }
+]

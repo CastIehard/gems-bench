@@ -1,0 +1,1370 @@
+[
+  {
+    "gtin": 4070765058864,
+    "dan": 1356633,
+    "brandName": "dmBio",
+    "title": "Senf mittelscharf, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Senf mittelscharf, 200 ml; Preis: 1,45 €; Grundpreis: 0,2 l (7,25 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1356633,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765058864,
+      "images": [
+        {
+          "alt": "Senf mittelscharf dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782011411/assets/pas/images/4ada21c5-158b-4a38-b102-1d7ec230a763/dmbio-senf-mittelscharf"
+        },
+        {
+          "alt": "Senf mittelscharf dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782011406/assets/pas/images/42c4adc1-92ef-4783-a309-aa6f8a660b33/dmbio-senf-mittelscharf"
+        },
+        {
+          "alt": "Senf mittelscharf dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782011421/assets/pas/images/ff99e550-89b9-4c32-b833-d46b9d28227f/dmbio-senf-mittelscharf"
+        },
+        {
+          "alt": "Senf mittelscharf dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782011416/assets/pas/images/a70eb8f3-df89-4888-9487-5162d067f6a8/dmbio-senf-mittelscharf"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (6,78 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (7,25 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 113,
+        "ratingValue": 4.4248
+      },
+      "self": "/p/d/1356633/dmbio-senf-mittelscharf",
+      "title": {
+        "tileHeadline": "Senf mittelscharf, 200 ml",
+        "tileHeadlineLong": "Senf mittelscharf, 200 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4248,
+        "ratingCount": 113
+      }
+    }
+  },
+  {
+    "gtin": 4260137743126,
+    "dan": 1562547,
+    "brandName": "Frusano",
+    "title": "Tomaten Ketchup, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frusano; Produktname: Tomaten Ketchup, 300 ml; Preis: 4,15 €; Grundpreis: 0,3 l (13,83 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "Frusano"
+      },
+      "dan": 1562547,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260137743126,
+      "images": [
+        {
+          "alt": "Tomaten Ketchup Frusano",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491708/assets/pas/images/7b7d5d84-ecff-404d-86ef-15b2f0330eec/frusano-tomaten-ketchup"
+        },
+        {
+          "alt": "Tomaten Ketchup Frusano",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491504/assets/pas/images/5ad301bc-296c-4b56-9199-7a737847b692/frusano-tomaten-ketchup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,88 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (12,93 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.7391
+      },
+      "self": "/p/d/1562547/frusano-tomaten-ketchup",
+      "title": {
+        "tileHeadline": "Tomaten Ketchup, 300 ml",
+        "tileHeadlineLong": "Tomaten Ketchup, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Frusano",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7391,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4066447940619,
+    "dan": 3115713,
+    "brandName": "dmBio",
+    "title": "Vegane Mayo, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Vegane Mayo, 250 ml; Preis: 1,85 €; Grundpreis: 0,25 l (7,40 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115713,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447940619,
+      "images": [
+        {
+          "alt": "Vegane Mayo dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771548262/assets/pas/images/2185b22c-1510-4291-b4db-4f5589cc2c57/dmbio-vegane-mayo"
+        },
+        {
+          "alt": "Vegane Mayo dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771548257/assets/pas/images/c109b009-8923-44aa-9f29-509a9cae9091/dmbio-vegane-mayo"
+        },
+        {
+          "alt": "Vegane Mayo dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771548252/assets/pas/images/c7d5d810-f756-46e3-9be8-f24f10b7126d/dmbio-vegane-mayo"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (6,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,40 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.3393
+      },
+      "self": "/p/d/3115713/dmbio-vegane-mayo",
+      "title": {
+        "tileHeadline": "Vegane Mayo, 250 ml",
+        "tileHeadlineLong": "Vegane Mayo, 250 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3393,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 4066447887723,
+    "dan": 1622220,
+    "brandName": "dmBio",
+    "title": "Tomaten Ketchup, 450 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Tomaten Ketchup, 450 ml; Preis: 2,05 €; Grundpreis: 0,45 l (4,56 € je 1 l); Marke von dm Grafik, Stiftung Warentest\nGUT (2,0)\nIm Test: 23 Tomatenketchups\nErmittelt am Produkt mit MHD: 11.04.2028\nAusgabe 04/2026\nwww.test.de\n26PN31",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1622220,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Stiftung Warentest\nGUT (2,0)\nIm Test: 23 Tomatenketchups\nErmittelt am Produkt mit MHD: 11.04.2028\nAusgabe 04/2026\nwww.test.de\n26PN31",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1781849575/assets/pas/seals/38b8deb0-b1c3-497a-9ca8-a2c1c548c79f/38b8deb0-b1c3-497a-9ca8-a2c1c548c79f.jpg",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1781849575/assets/pas/seals/38b8deb0-b1c3-497a-9ca8-a2c1c548c79f/38b8deb0-b1c3-497a-9ca8-a2c1c548c79f.jpg"
+        }
+      ],
+      "gtin": 4066447887723,
+      "images": [
+        {
+          "alt": "Tomaten Ketchup dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762122702/assets/pas/images/275a9ccc-6eec-4ebd-8aee-083dafb99756/dmbio-tomaten-ketchup"
+        },
+        {
+          "alt": "Tomaten Ketchup dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762122696/assets/pas/images/4313dd6c-5bdd-4ffa-a0e1-6c9ec4b266c0/dmbio-tomaten-ketchup"
+        },
+        {
+          "alt": "Tomaten Ketchup dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762122699/assets/pas/images/3a62e782-07de-48e3-a9f4-3802f0c03e1a/dmbio-tomaten-ketchup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,92 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (4,26 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 l (4,56 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 421,
+        "ratingValue": 4.1781
+      },
+      "self": "/p/d/1622220/dmbio-tomaten-ketchup",
+      "title": {
+        "tileHeadline": "Tomaten Ketchup, 450 ml",
+        "tileHeadlineLong": "Tomaten Ketchup, 450 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.05
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1781,
+        "ratingCount": 421
+      }
+    }
+  },
+  {
+    "gtin": 4066447887716,
+    "dan": 1446420,
+    "brandName": "dmBio",
+    "title": "Tomatenmark, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Tomatenmark, 200 g; Preis: 0,95 €; Grundpreis: 0,2 kg (4,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1446420,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447887716,
+      "images": [
+        {
+          "alt": "Tomatenmark dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769212823/assets/pas/images/ee05f5c9-076f-465d-be7c-35e6c40ed1ad/dmbio-tomatenmark"
+        },
+        {
+          "alt": "Tomatenmark dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769212820/assets/pas/images/2685e8e1-2d05-46f6-8f6d-314973415c5a/dmbio-tomatenmark"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (4,44 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (4,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 221,
+        "ratingValue": 4.5339
+      },
+      "self": "/p/d/1446420/dmbio-tomatenmark",
+      "title": {
+        "tileHeadline": "Tomatenmark, 200 g",
+        "tileHeadlineLong": "Tomatenmark, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Senf, Ketchup & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5339,
+        "ratingCount": 221
+      }
+    }
+  },
+  {
+    "gtin": 4067796070699,
+    "dan": 2978567,
+    "brandName": "babylove",
+    "title": "Mulltücher Starterset weiß/senf, 9 St",
+    "tileData": {
+      "a11yLabel": "Marke: babylove; Produktname: Mulltücher Starterset weiß/senf, 9 St; Preis: 9,95 €; Grundpreis: 9 St (1,11 € je 1 St); Nur Online Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "babylove"
+      },
+      "dan": 2978567,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796070699,
+      "images": [
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487494/assets/pas/images/90712a27-69b6-4221-88e5-efcef1398dea/babylove-mulltuecher-starterset-weiss-senf"
+        },
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487179/assets/pas/images/47e67dcc-bf04-40a4-8229-bfd4c3dafbeb/babylove-mulltuecher-starterset-weiss-senf"
+        },
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487414/assets/pas/images/020d9c79-69bc-4fcc-8649-f558168948cb/babylove-mulltuecher-starterset-weiss-senf"
+        },
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487250/assets/pas/images/1ae782be-3d87-4101-8e26-6af2a7857f59/babylove-mulltuecher-starterset-weiss-senf"
+        },
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487413/assets/pas/images/58aed359-7a7a-4fe4-8f52-1c567192153c/babylove-mulltuecher-starterset-weiss-senf"
+        },
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487495/assets/pas/images/e15e3386-8b96-45da-9a1b-a54447fb0331/babylove-mulltuecher-starterset-weiss-senf"
+        },
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487178/assets/pas/images/3318c2a2-dc71-4fbd-94b0-016c7119887e/babylove-mulltuecher-starterset-weiss-senf"
+        },
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487248/assets/pas/images/73d34e13-18cb-44be-acc6-9bddf046ab96/babylove-mulltuecher-starterset-weiss-senf"
+        },
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487177/assets/pas/images/d2a0c815-4037-4a42-836d-6c42455e1f2e/babylove-mulltuecher-starterset-weiss-senf"
+        },
+        {
+          "alt": "Mulltücher Starterset weiß/senf babylove",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487414/assets/pas/images/92e1ba1d-0332-436c-a298-d83bce7548de/babylove-mulltuecher-starterset-weiss-senf"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "9 St (0,93 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "9 St (1,11 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 46,
+        "ratingValue": 4.7391
+      },
+      "self": "/p/d/2978567/babylove-mulltuecher-starterset-weiss-senf",
+      "title": {
+        "tileHeadline": "Mulltücher Starterset weiß/senf, 9 St",
+        "tileHeadlineLong": "Mulltücher Starterset weiß/senf, 9 St"
+      },
+      "trackingData": {
+        "brand": "babylove",
+        "categories": [
+          "Mull- & Moltontücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7391,
+        "ratingCount": 46
+      }
+    }
+  },
+  {
+    "gtin": 4008600446705,
+    "dan": 3110267,
+    "brandName": "NUK",
+    "title": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate, 2 St",
+    "tileData": {
+      "a11yLabel": "Marke: NUK; Produktname: Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate, 2 St; Preis: 6,95 €; Grundpreis: 2 St (3,48 € je 1 St)",
+      "brand": {
+        "name": "NUK"
+      },
+      "dan": 3110267,
+      "gtin": 4008600446705,
+      "images": [
+        {
+          "alt": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate  NUK",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765797277/assets/pas/images/1c2b2a0c-677e-478d-9e5c-f33ab37f2990/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate"
+        },
+        {
+          "alt": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate  NUK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765797271/assets/pas/images/761f5f6a-7f4d-42a1-ba0e-32a177b2aee7/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate"
+        },
+        {
+          "alt": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate  NUK",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765797264/assets/pas/images/1f855838-b8ff-4d89-8072-670c2dce9b6b/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate"
+        },
+        {
+          "alt": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate  NUK",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765797294/assets/pas/images/2ef64785-aceb-4578-8514-4d119f6126b0/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate"
+        },
+        {
+          "alt": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate  NUK",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765797306/assets/pas/images/69b06f66-bffb-4fe8-a432-022820677e8c/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate"
+        },
+        {
+          "alt": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate  NUK",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765797338/assets/pas/images/b120f578-219b-4735-9f7c-87ccda97dcad/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate"
+        },
+        {
+          "alt": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate  NUK",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765797327/assets/pas/images/be426d36-1438-43da-8b08-29b8f5c03d98/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate"
+        },
+        {
+          "alt": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate  NUK",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765797316/assets/pas/images/7fae38c1-fcc5-4d39-aa7f-24e9ee1d722c/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate"
+        },
+        {
+          "alt": "Schnuller Perfect Match Air Silikon, grün/senf, 18-36 Monate  NUK",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765797286/assets/pas/images/ed9b81e0-fced-43e9-bc14-49f91d167d76/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (2,92 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (3,48 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 95,
+        "ratingValue": 4.8947
+      },
+      "self": "/p/d/3110267/nuk-schnuller-perfect-match-air-silikon-gruen-senf-18-36-monate",
+      "title": {
+        "tileHeadline": "Schnuller Perfect Match Air Silikon, grün/senf,..., 2 St",
+        "tileHeadlineLong": "Schnuller Perfect Match Air Silikon, grün/senf,..., 2 St"
+      },
+      "trackingData": {
+        "brand": "NUK",
+        "categories": [
+          "Schnuller"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8947,
+        "ratingCount": 95
+      }
+    }
+  },
+  {
+    "gtin": 4070765022186,
+    "dan": 1328345,
+    "brandName": "dmBio",
+    "title": "Brotaufstrich, Senf-Dill, 135 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Brotaufstrich, Senf-Dill, 135 g; Preis: 1,35 €; Grundpreis: 0,135 kg (10,00 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1328345,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765022186,
+      "images": [
+        {
+          "alt": "Brotaufstrich, Senf-Dill  dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778279209/assets/pas/images/e2850b4a-a0e5-4782-bff3-8a03bc468e65/dmbio-brotaufstrich-senf-dill"
+        },
+        {
+          "alt": "Brotaufstrich, Senf-Dill  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778279197/assets/pas/images/a173704d-849f-463d-9850-f4626b64d5d3/dmbio-brotaufstrich-senf-dill"
+        },
+        {
+          "alt": "Brotaufstrich, Senf-Dill  dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780440549/assets/pas/images/e29ad6f6-ebd8-42db-9d73-ab18a899d761/dmbio-brotaufstrich-senf-dill"
+        },
+        {
+          "alt": "Brotaufstrich, Senf-Dill  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778279190/assets/pas/images/aad4a8ed-02f9-45b1-9fc0-0d4feba91824/dmbio-brotaufstrich-senf-dill"
+        },
+        {
+          "alt": "Brotaufstrich, Senf-Dill  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778279202/assets/pas/images/160ffe6f-25ac-47e1-a8f7-2a4184663ac3/dmbio-brotaufstrich-senf-dill"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (9,35 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,135 kg (10,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.7705
+      },
+      "self": "/p/d/1328345/dmbio-brotaufstrich-senf-dill",
+      "title": {
+        "tileHeadline": "Brotaufstrich, Senf-Dill, 135 g",
+        "tileHeadlineLong": "Brotaufstrich, Senf-Dill, 135 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Herzhafte Brotaufstriche"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7705,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4067796254532,
+    "dan": 3061604,
+    "brandName": "ALANA",
+    "title": "Kissenbezüge aus Musselin, senfgelb, 40 x 80 cm, 2 St",
+    "tileData": {
+      "a11yLabel": "Marke: ALANA; Produktname: Kissenbezüge aus Musselin, senfgelb, 40 x 80 cm, 2 St; Preis: 19,90 €; Grundpreis: 2 St (9,95 € je 1 St); Nur Online Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "ALANA"
+      },
+      "dan": 3061604,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796254532,
+      "images": [
+        {
+          "alt": "Kissenbezüge aus Musselin, senfgelb, 40 x 80 cm ALANA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758578726/assets/pas/images/b5229284-8734-411a-a398-21352a717bd4/alana-kissenbezuege-aus-musselin-senfgelb-40-x-80-cm"
+        },
+        {
+          "alt": "Kissenbezüge aus Musselin, senfgelb, 40 x 80 cm ALANA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758578711/assets/pas/images/9927669f-79b2-4373-b075-68ae5fa8c1ca/alana-kissenbezuege-aus-musselin-senfgelb-40-x-80-cm"
+        },
+        {
+          "alt": "Kissenbezüge aus Musselin, senfgelb, 40 x 80 cm ALANA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758578719/assets/pas/images/981f1e1a-1c3a-4211-813d-4f26dc6b43d1/alana-kissenbezuege-aus-musselin-senfgelb-40-x-80-cm"
+        },
+        {
+          "alt": "Kissenbezüge aus Musselin, senfgelb, 40 x 80 cm ALANA",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758578724/assets/pas/images/e3063630-be7f-4359-9459-cc1a871fb099/alana-kissenbezuege-aus-musselin-senfgelb-40-x-80-cm"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "16,72 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (8,36 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "19,90 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (9,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 5,
+        "ratingValue": 2.6
+      },
+      "self": "/p/d/3061604/alana-kissenbezuege-aus-musselin-senfgelb-40-x-80-cm",
+      "title": {
+        "tileHeadline": "Kissenbezüge aus Musselin, senfgelb, 40 x 80 cm, 2 St",
+        "tileHeadlineLong": "Kissenbezüge aus Musselin, senfgelb, 40 x 80 cm, 2 St"
+      },
+      "trackingData": {
+        "brand": "ALANA",
+        "categories": [
+          "Textilien"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 19.9
+      },
+      "variants": {
+        "showMore": {
+          "text": "+8 weitere Varianten",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 3061604,
+            "gtin": 4067796254532,
+            "hex": "#aa8902",
+            "href": "/p/d/3061604/alana-kissenbezuege-aus-musselin-senfgelb-40-x-80-cm",
+            "isSelected": true,
+            "tooltip": "Kissenbezüge aus Musselin, senfgelb, 40 x 80 cm"
+          },
+          {
+            "dan": 3061614,
+            "gtin": 4067796254488,
+            "hex": "#94b79f",
+            "href": "/p/d/3061614/alana-kopfkissenbezuege-aus-musselin-gruen-40-x-80-cm",
+            "isSelected": false,
+            "tooltip": "Kopfkissenbezüge aus Musselin, grün, 40 x 80 cm"
+          },
+          {
+            "dan": 3061606,
+            "gtin": 4067796254525,
+            "hex": "#005447",
+            "href": "/p/d/3061606/alana-kissenbezuege-aus-musselin-gruen-40-x-80-cm",
+            "isSelected": false,
+            "tooltip": "Kissenbezüge aus Musselin, grün, 40 x 80 cm"
+          },
+          {
+            "dan": 3061612,
+            "gtin": 4067796254495,
+            "hex": "#6495ed",
+            "href": "/p/d/3061612/alana-kopfkissenbezuege-aus-musselin-blau-40-x-80-cm",
+            "isSelected": false,
+            "tooltip": "Kopfkissenbezüge aus Musselin, blau, 40 x 80 cm"
+          },
+          {
+            "dan": 3061610,
+            "gtin": 4067796254501,
+            "hex": "#543146",
+            "href": "/p/d/3061610/alana-kissenbezuege-aus-musselin-lila-40-x-80-cm",
+            "isSelected": false,
+            "tooltip": "Kissenbezüge aus Musselin, lila, 40 x 80 cm"
+          },
+          {
+            "dan": 3061608,
+            "gtin": 4067796254518,
+            "hex": "#787276",
+            "href": "/p/d/3061608/alana-kissenbezuege-aus-musselin-grau-40-x-80-cm",
+            "isSelected": false,
+            "tooltip": "Kissenbezüge aus Musselin, grau, 40 x 80 cm"
+          },
+          {
+            "dan": 3061660,
+            "gtin": 4067796254464,
+            "hex": "#cd8c95",
+            "href": "/p/d/3061660/alana-kopfkissenbezuege-aus-musselin-mauve-40-x-80-cm",
+            "isSelected": false,
+            "tooltip": "Kopfkissenbezüge aus Musselin, mauve, 40 x 80 cm"
+          },
+          {
+            "dan": 3061616,
+            "gtin": 4067796254471,
+            "hex": "#deb887",
+            "href": "/p/d/3061616/alana-kopfkissenbezuege-aus-musselin-beige-40-x-80-cm",
+            "isSelected": false,
+            "tooltip": "Kopfkissenbezüge aus Musselin, beige, 40 x 80 cm"
+          },
+          {
+            "dan": 3061602,
+            "gtin": 4067796254549,
+            "hex": "#f3ebe0",
+            "href": "/p/d/3061602/alana-kissenbezuege-aus-musselin-ecru-40-x-80-cm",
+            "isSelected": false,
+            "tooltip": "Kissenbezüge aus Musselin, ecru, 40 x 80 cm"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.6,
+        "ratingCount": 5
+      }
+    }
+  },
+  {
+    "gtin": 4066447750591,
+    "dan": 2969327,
+    "brandName": "babylove",
+    "title": "Breischale senfgelb, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: babylove; Produktname: Breischale senfgelb, 1 St; Preis: 2,65 €; Grundpreis: 1 St (2,65 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "babylove"
+      },
+      "dan": 2969327,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447750591,
+      "images": [
+        {
+          "alt": "Breischale senfgelb babylove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755017696/assets/pas/images/b4f75e35-20e4-4fe3-a5c8-e66e9baec6af/babylove-breischale-senfgelb"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,23 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (2,23 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (2,65 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 11,
+        "ratingValue": 4.9091
+      },
+      "self": "/p/d/2969327/babylove-breischale-senfgelb",
+      "title": {
+        "tileHeadline": "Breischale senfgelb, 1 St",
+        "tileHeadlineLong": "Breischale senfgelb, 1 St"
+      },
+      "trackingData": {
+        "brand": "babylove",
+        "categories": [
+          "Kinderbesteck & -geschirr"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Variante",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 2969327,
+            "gtin": 4066447750591,
+            "hex": "#D7A048",
+            "href": "/p/d/2969327/babylove-breischale-senfgelb",
+            "isSelected": true,
+            "tooltip": "Breischale senfgelb"
+          },
+          {
+            "dan": 2969336,
+            "gtin": 4066447750614,
+            "hex": "#C4CEC2",
+            "href": "/p/d/2969336/babylove-breischale-mint",
+            "isSelected": false,
+            "tooltip": "Breischale mint"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9091,
+        "ratingCount": 11
+      }
+    }
+  },
+  {
+    "gtin": 8008698003213,
+    "dan": 1316782,
+    "brandName": "Schär",
+    "title": "Brötchen, Mini Baguette (2 Stück), glutenfrei, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brötchen, Mini Baguette (2 Stück), glutenfrei, 150 g; Preis: 2,25 €; Grundpreis: 0,15 kg (15,00 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1316782,
+      "gtin": 8008698003213,
+      "images": [
+        {
+          "alt": "Brötchen, Mini Baguette (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762210909/assets/pas/images/1e99d554-080d-4e9e-95da-c7f429b97d2c/schaer-broetchen-mini-baguette-2-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brötchen, Mini Baguette (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517722/assets/pas/images/e7018c8d-47f0-4d70-b0b3-3a350a02d679/schaer-broetchen-mini-baguette-2-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brötchen, Mini Baguette (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748903393/assets/pas/images/e2e6375c-b343-405e-b8ad-272e3fa919bf/schaer-broetchen-mini-baguette-2-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (14,02 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (15,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.6515
+      },
+      "self": "/p/d/1316782/schaer-broetchen-mini-baguette-2-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brötchen, Mini Baguette (2 Stück), glutenfrei, 150 g",
+        "tileHeadlineLong": "Brötchen, Mini Baguette (2 Stück), glutenfrei, 150 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6515,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4067796250077,
+    "dan": 3061628,
+    "brandName": "ALANA",
+    "title": "Bettwäsche-Set aus Musselin, senfgelb, 135 x 200 + 80 x 80 cm, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: ALANA; Produktname: Bettwäsche-Set aus Musselin, senfgelb, 135 x 200 + 80 x 80 cm, 1 St; Preis: 36,90 €; Nur Online Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "ALANA"
+      },
+      "dan": 3061628,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796250077,
+      "images": [
+        {
+          "alt": "Bettwäsche-Set aus Musselin, senfgelb, 135 x 200 + 80 x 80 cm ALANA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758578660/assets/pas/images/a6ff9d44-5425-49dd-97da-13b3fb4b52da/alana-bettwaesche-set-aus-musselin-senfgelb-135-x-200-80-x-80-cm"
+        },
+        {
+          "alt": "Bettwäsche-Set aus Musselin, senfgelb, 135 x 200 + 80 x 80 cm ALANA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758578645/assets/pas/images/c9c8d728-046a-4c75-ba0e-15858000e05b/alana-bettwaesche-set-aus-musselin-senfgelb-135-x-200-80-x-80-cm"
+        },
+        {
+          "alt": "Bettwäsche-Set aus Musselin, senfgelb, 135 x 200 + 80 x 80 cm ALANA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758578652/assets/pas/images/b0de4175-9041-4fc4-9db8-a2e271d35f2f/alana-bettwaesche-set-aus-musselin-senfgelb-135-x-200-80-x-80-cm"
+        },
+        {
+          "alt": "Bettwäsche-Set aus Musselin, senfgelb, 135 x 200 + 80 x 80 cm ALANA",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758578658/assets/pas/images/4c7e5750-d433-49be-a865-44f36cb0cf3d/alana-bettwaesche-set-aus-musselin-senfgelb-135-x-200-80-x-80-cm"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "31,01 €"
+          }
+        }
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "36,90 €"
+          }
+        }
+      },
+      "rating": {
+        "ratingCount": 3,
+        "ratingValue": 3.0
+      },
+      "self": "/p/d/3061628/alana-bettwaesche-set-aus-musselin-senfgelb-135-x-200-80-x-80-cm",
+      "title": {
+        "tileHeadline": "Bettwäsche-Set aus Musselin, senfgelb, 135 x 200..., 1 St",
+        "tileHeadlineLong": "Bettwäsche-Set aus Musselin, senfgelb, 135 x 200..., 1 St"
+      },
+      "trackingData": {
+        "brand": "ALANA",
+        "categories": [
+          "Textilien"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 36.9
+      },
+      "variants": {
+        "showMore": {
+          "text": "+11 weitere Varianten",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0,
+        "ratingCount": 3
+      }
+    }
+  },
+  {
+    "gtin": 4067796245349,
+    "dan": 3061640,
+    "brandName": "ALANA",
+    "title": "Spannbettlaken Doppelgröße, senfgelb, 180 x 200 cm, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: ALANA; Produktname: Spannbettlaken Doppelgröße, senfgelb, 180 x 200 cm, 1 St; Preis: 26,90 €; Nur Online Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "ALANA"
+      },
+      "dan": 3061640,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796245349,
+      "images": [
+        {
+          "alt": "Spannbettlaken Doppelgröße, senfgelb, 180 x 200 cm ALANA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758664844/assets/pas/images/d5d61bda-35fb-4892-b97a-0e9d2adb32ea/alana-spannbettlaken-doppelgroesse-senfgelb-180-x-200-cm"
+        },
+        {
+          "alt": "Spannbettlaken Doppelgröße, senfgelb, 180 x 200 cm ALANA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758664835/assets/pas/images/222df6b2-30a7-466b-a683-c5061faf0775/alana-spannbettlaken-doppelgroesse-senfgelb-180-x-200-cm"
+        },
+        {
+          "alt": "Spannbettlaken Doppelgröße, senfgelb, 180 x 200 cm ALANA",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758664842/assets/pas/images/e1cfde38-9fcf-4aea-bdbc-ec79150a30fe/alana-spannbettlaken-doppelgroesse-senfgelb-180-x-200-cm"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "22,61 €"
+          }
+        }
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "26,90 €"
+          }
+        }
+      },
+      "rating": {
+        "ratingCount": 1,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3061640/alana-spannbettlaken-doppelgroesse-senfgelb-180-x-200-cm",
+      "title": {
+        "tileHeadline": "Spannbettlaken Doppelgröße, senfgelb, 180 x 200 cm, 1 St",
+        "tileHeadlineLong": "Spannbettlaken Doppelgröße, senfgelb, 180 x 200 cm, 1 St"
+      },
+      "trackingData": {
+        "brand": "ALANA",
+        "categories": [
+          "Textilien"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 26.9
+      },
+      "variants": {
+        "showMore": {
+          "text": "+11 weitere Varianten",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 1
+      }
+    }
+  }
+]

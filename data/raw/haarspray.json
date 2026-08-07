@@ -1,0 +1,3187 @@
+[
+  {
+    "gtin": 4015100817867,
+    "dan": 3046958,
+    "brandName": "syoss",
+    "title": "Haarspray Max Hold, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: syoss; Produktname: Haarspray Max Hold, 400 ml; Preis: 4,95 €; Grundpreis: 0,4 l (12,38 € je 1 l)",
+      "brand": {
+        "name": "syoss"
+      },
+      "dan": 3046958,
+      "gtin": 4015100817867,
+      "images": [
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441262/assets/pas/images/03bc8f67-e374-4542-a26d-8c1dcde5c5df/syoss-haarspray-max-hold"
+        },
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759095998/assets/pas/images/6fbc8690-d95f-4357-8baf-b4fe7af3c655/syoss-haarspray-max-hold"
+        },
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759095993/assets/pas/images/7798107d-ec4b-4da3-8168-74ca9a565b0d/syoss-haarspray-max-hold"
+        },
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441258/assets/pas/images/f04a85ba-3e3b-4c8a-8fee-53b40dd732c5/syoss-haarspray-max-hold"
+        },
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441546/assets/pas/images/878a1956-19d0-4aec-bcdd-c0aec405b475/syoss-haarspray-max-hold"
+        },
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441428/assets/pas/images/532e7fb0-50cd-4eab-ad3e-8db3c739d856/syoss-haarspray-max-hold"
+        },
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932334/assets/pas/images/6005f7d2-e6d1-4be3-a631-171e6b34abd4/syoss-haarspray-max-hold"
+        },
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441260/assets/pas/images/ea1b8faa-0b65-4593-92fb-3d92e5059fcf/syoss-haarspray-max-hold"
+        },
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441330/assets/pas/images/1d41f5a6-a6b5-4d60-b1a8-65bb7dd397a4/syoss-haarspray-max-hold"
+        },
+        {
+          "alt": "Haarspray Max Hold syoss",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441258/assets/pas/images/12043019-6453-48b9-8453-506e076aba15/syoss-haarspray-max-hold"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (10,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (12,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 453,
+        "ratingValue": 4.426
+      },
+      "self": "/p/d/3046958/syoss-haarspray-max-hold",
+      "title": {
+        "tileHeadline": "Haarspray Max Hold, 400 ml",
+        "tileHeadlineLong": "Haarspray Max Hold, 400 ml"
+      },
+      "trackingData": {
+        "brand": "syoss",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.426,
+        "ratingCount": 453
+      }
+    }
+  },
+  {
+    "gtin": 4015100810066,
+    "dan": 1580758,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarspray POWER Halt 5, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarspray POWER Halt 5, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1580758,
+      "gtin": 4015100810066,
+      "images": [
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441450/assets/pas/images/5951e381-bbaa-498c-b874-e4cf72f5b37e/schwarzkopf-taft-haarspray-power-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603436/assets/pas/images/051ab68a-cdfa-4368-9528-aeef2e08db32/schwarzkopf-taft-haarspray-power-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441450/assets/pas/images/7c963727-6b12-4925-96e4-dd9080dc81fa/schwarzkopf-taft-haarspray-power-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603440/assets/pas/images/8d3e6ce7-2d1b-4d4e-a7a4-58e30c56f1d9/schwarzkopf-taft-haarspray-power-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441552/assets/pas/images/763ad874-dba1-466d-94ce-80dd755aa77f/schwarzkopf-taft-haarspray-power-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441666/assets/pas/images/a9cca735-e19e-4c55-9aec-606369d9f6cf/schwarzkopf-taft-haarspray-power-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441451/assets/pas/images/763729d6-7d2f-4bc0-8ce7-920ea0413ad5/schwarzkopf-taft-haarspray-power-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441408/assets/pas/images/6e907d10-fc80-4d4e-9d62-6645fa53b9f4/schwarzkopf-taft-haarspray-power-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441409/assets/pas/images/f08e5a86-712d-4e87-a1b8-c46639e2581c/schwarzkopf-taft-haarspray-power-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441673/assets/pas/images/f1dcabc0-e311-47eb-9e2d-2f5f7c9b39c3/schwarzkopf-taft-haarspray-power-halt-5"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 938,
+        "ratingValue": 4.7878
+      },
+      "self": "/p/d/1580758/schwarzkopf-taft-haarspray-power-halt-5",
+      "title": {
+        "tileHeadline": "Haarspray POWER Halt 5, 250 ml",
+        "tileHeadlineLong": "Haarspray POWER Halt 5, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7878,
+        "ratingCount": 938
+      }
+    }
+  },
+  {
+    "gtin": 4015100817843,
+    "dan": 3046959,
+    "brandName": "syoss",
+    "title": "Haarspray Volume, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: syoss; Produktname: Haarspray Volume, 400 ml; Preis: 4,95 €; Grundpreis: 0,4 l (12,38 € je 1 l)",
+      "brand": {
+        "name": "syoss"
+      },
+      "dan": 3046959,
+      "gtin": 4015100817843,
+      "images": [
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441260/assets/pas/images/a85758e1-bd16-4036-92e4-f8192b9634b9/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759096357/assets/pas/images/fc81d433-1c90-41a7-acc6-fef47dbf879c/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441546/assets/pas/images/b21df214-98da-4326-afa1-32dc5a26cc52/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759096362/assets/pas/images/5cb95ed2-953e-4404-addb-2607464ea641/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441254/assets/pas/images/6e86441a-57d7-4141-bc6e-234c51bce444/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441547/assets/pas/images/e58d45e9-098d-46e3-82c9-1128c6de39fa/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441326/assets/pas/images/9783dfde-88db-4b01-8610-db1fe8e455a3/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751933857/assets/pas/images/794e99d4-1b92-4a3b-8907-0c366aa0ba9a/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441541/assets/pas/images/73116d93-cf34-4ca3-8166-ab92ce04b2ae/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441254/assets/pas/images/d7286666-74f3-410c-a591-0a068bd90ea9/syoss-haarspray-volume"
+        },
+        {
+          "alt": "Haarspray Volume syoss",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441254/assets/pas/images/97eb2b8f-11a6-4785-bab7-7d63f8acb89b/syoss-haarspray-volume"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (10,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (12,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 237,
+        "ratingValue": 3.6118
+      },
+      "self": "/p/d/3046959/syoss-haarspray-volume",
+      "title": {
+        "tileHeadline": "Haarspray Volume, 400 ml",
+        "tileHeadlineLong": "Haarspray Volume, 400 ml"
+      },
+      "trackingData": {
+        "brand": "syoss",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6118,
+        "ratingCount": 237
+      }
+    }
+  },
+  {
+    "gtin": 4015100810240,
+    "dan": 1580761,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarlack POWER Halt 5, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarlack POWER Halt 5, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1580761,
+      "gtin": 4015100810240,
+      "images": [
+        {
+          "alt": "Haarlack POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441416/assets/pas/images/8333e193-8d6d-4841-b887-599761123256/schwarzkopf-taft-haarlack-power-halt-5"
+        },
+        {
+          "alt": "Haarlack POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603429/assets/pas/images/9fa92845-a1cb-468d-807b-d3adf5a722cb/schwarzkopf-taft-haarlack-power-halt-5"
+        },
+        {
+          "alt": "Haarlack POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441675/assets/pas/images/2d3b6f3c-e509-49f1-832c-8460e35293d8/schwarzkopf-taft-haarlack-power-halt-5"
+        },
+        {
+          "alt": "Haarlack POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603423/assets/pas/images/632f9a00-629b-43aa-a757-fe9dd5ad1f3b/schwarzkopf-taft-haarlack-power-halt-5"
+        },
+        {
+          "alt": "Haarlack POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441674/assets/pas/images/f2a78b25-9156-410c-bc79-d760a79d8499/schwarzkopf-taft-haarlack-power-halt-5"
+        },
+        {
+          "alt": "Haarlack POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441556/assets/pas/images/8075e9a9-96ba-497b-930f-362df724e1c2/schwarzkopf-taft-haarlack-power-halt-5"
+        },
+        {
+          "alt": "Haarlack POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441456/assets/pas/images/6a6e4a51-dc50-4b3d-9b99-078ab6bfa508/schwarzkopf-taft-haarlack-power-halt-5"
+        },
+        {
+          "alt": "Haarlack POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441556/assets/pas/images/beb88f3c-bc1c-4fcd-9ef5-4746b33b1935/schwarzkopf-taft-haarlack-power-halt-5"
+        },
+        {
+          "alt": "Haarlack POWER Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441556/assets/pas/images/72b82914-d064-453c-a3aa-ecc7a071cbf8/schwarzkopf-taft-haarlack-power-halt-5"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 809,
+        "ratingValue": 4.8059
+      },
+      "self": "/p/d/1580761/schwarzkopf-taft-haarlack-power-halt-5",
+      "title": {
+        "tileHeadline": "Haarlack POWER Halt 5, 250 ml",
+        "tileHeadlineLong": "Haarlack POWER Halt 5, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8059,
+        "ratingCount": 809
+      }
+    }
+  },
+  {
+    "gtin": 4015100810561,
+    "dan": 1580768,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarspray VOLUMEN Halt 4, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarspray VOLUMEN Halt 4, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1580768,
+      "gtin": 4015100810561,
+      "images": [
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441419/assets/pas/images/8a42602b-8cb4-4ce6-9d58-bb669ac07cea/schwarzkopf-taft-haarspray-volumen-halt-4"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603462/assets/pas/images/b29da41c-fd3e-4645-ad02-6588d2375e5e/schwarzkopf-taft-haarspray-volumen-halt-4"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441681/assets/pas/images/1f162949-dc22-4496-990d-480bc45cca78/schwarzkopf-taft-haarspray-volumen-halt-4"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603458/assets/pas/images/d090aba8-94d4-4b81-9564-66209ca9afa5/schwarzkopf-taft-haarspray-volumen-halt-4"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441462/assets/pas/images/52b24709-35f8-42bc-8df8-4761a1fe61a7/schwarzkopf-taft-haarspray-volumen-halt-4"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441463/assets/pas/images/9e5b4f9a-320c-429a-baf7-deb8ebcb76c6/schwarzkopf-taft-haarspray-volumen-halt-4"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441565/assets/pas/images/31180e06-82f0-4791-bbfb-a77944b607c1/schwarzkopf-taft-haarspray-volumen-halt-4"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441564/assets/pas/images/95c62ed3-57fe-44f5-b2c4-45e7f37a3a2d/schwarzkopf-taft-haarspray-volumen-halt-4"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441463/assets/pas/images/4f6c13f7-f074-4bdb-854c-dbb69acc2402/schwarzkopf-taft-haarspray-volumen-halt-4"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441686/assets/pas/images/604a0063-ced6-4c5b-bb2f-bea3edbbc9fa/schwarzkopf-taft-haarspray-volumen-halt-4"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 494,
+        "ratingValue": 4.7551
+      },
+      "self": "/p/d/1580768/schwarzkopf-taft-haarspray-volumen-halt-4",
+      "title": {
+        "tileHeadline": "Haarspray VOLUMEN Halt 4, 250 ml",
+        "tileHeadlineLong": "Haarspray VOLUMEN Halt 4, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7551,
+        "ratingCount": 494
+      }
+    }
+  },
+  {
+    "gtin": 4015100800524,
+    "dan": 1136451,
+    "brandName": "got2b",
+    "title": "Haarlack Sprühkleber, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: got2b; Produktname: Haarlack Sprühkleber, 300 ml; Preis: 4,95 €; Grundpreis: 0,3 l (16,50 € je 1 l)",
+      "brand": {
+        "name": "got2b"
+      },
+      "dan": 1136451,
+      "gtin": 4015100800524,
+      "images": [
+        {
+          "alt": "Haarlack Sprühkleber got2b",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008206/assets/pas/images/0cec9afe-ff4d-4863-adc1-88ceadde8a5d/got2b-haarlack-spruehkleber"
+        },
+        {
+          "alt": "Haarlack Sprühkleber got2b",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008212/assets/pas/images/689ef45d-0eae-436a-bfe0-9b4a3eb4abbe/got2b-haarlack-spruehkleber"
+        },
+        {
+          "alt": "Haarlack Sprühkleber got2b",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008242/assets/pas/images/fd385ca0-c7b9-432c-8058-02581356649b/got2b-haarlack-spruehkleber"
+        },
+        {
+          "alt": "Haarlack Sprühkleber got2b",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008249/assets/pas/images/a671f3e4-b14d-4824-81c3-e853c1cdc4d8/got2b-haarlack-spruehkleber"
+        },
+        {
+          "alt": "Haarlack Sprühkleber got2b",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008217/assets/pas/images/d003e411-4750-4dfe-9515-47ee6ac7f3a1/got2b-haarlack-spruehkleber"
+        },
+        {
+          "alt": "Haarlack Sprühkleber got2b",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008233/assets/pas/images/d19f748f-ee3c-4f9e-afe4-6815b387c548/got2b-haarlack-spruehkleber"
+        },
+        {
+          "alt": "Haarlack Sprühkleber got2b",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008225/assets/pas/images/07aa5deb-212d-4d3a-8fcb-28effe537b71/got2b-haarlack-spruehkleber"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,87 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (16,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 270,
+        "ratingValue": 4.7333
+      },
+      "self": "/p/d/1136451/got2b-haarlack-spruehkleber",
+      "title": {
+        "tileHeadline": "Haarlack Sprühkleber, 300 ml",
+        "tileHeadlineLong": "Haarlack Sprühkleber, 300 ml"
+      },
+      "trackingData": {
+        "brand": "got2b",
+        "categories": [
+          "Haarstyling",
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7333,
+        "ratingCount": 270
+      }
+    }
+  },
+  {
+    "gtin": 4015100810547,
+    "dan": 1580769,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarspray VOLUMEN Halt 3, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarspray VOLUMEN Halt 3, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1580769,
+      "gtin": 4015100810547,
+      "images": [
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441460/assets/pas/images/22c728fe-2c01-4f26-aad9-73bfb8dd9371/schwarzkopf-taft-haarspray-volumen-halt-3"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603436/assets/pas/images/0cae7e4f-dd92-4fb2-9103-4a5400477a41/schwarzkopf-taft-haarspray-volumen-halt-3"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441560/assets/pas/images/8de64822-153c-4c0c-ab78-1f9045b941d1/schwarzkopf-taft-haarspray-volumen-halt-3"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603446/assets/pas/images/f1738059-b527-46b6-9387-e98543785196/schwarzkopf-taft-haarspray-volumen-halt-3"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441417/assets/pas/images/7af6a5cc-594f-41cf-af0e-178899e492ac/schwarzkopf-taft-haarspray-volumen-halt-3"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441418/assets/pas/images/6a48d16d-d7aa-456d-9f51-0f200bdb9b6f/schwarzkopf-taft-haarspray-volumen-halt-3"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441466/assets/pas/images/e729812c-8fa6-4605-8dfc-286351543d47/schwarzkopf-taft-haarspray-volumen-halt-3"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441678/assets/pas/images/018fdd7b-7e7e-4f9c-b15f-1a8b8292618d/schwarzkopf-taft-haarspray-volumen-halt-3"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441418/assets/pas/images/bac8b673-f5e3-46d9-8661-c54584d85ec7/schwarzkopf-taft-haarspray-volumen-halt-3"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441466/assets/pas/images/61ad61b1-f2fb-475d-843f-0a944c9a56f4/schwarzkopf-taft-haarspray-volumen-halt-3"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 446,
+        "ratingValue": 4.8386
+      },
+      "self": "/p/d/1580769/schwarzkopf-taft-haarspray-volumen-halt-3",
+      "title": {
+        "tileHeadline": "Haarspray VOLUMEN Halt 3, 250 ml",
+        "tileHeadlineLong": "Haarspray VOLUMEN Halt 3, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8386,
+        "ratingCount": 446
+      }
+    }
+  },
+  {
+    "gtin": 4015100817881,
+    "dan": 3046960,
+    "brandName": "syoss",
+    "title": "Haarspray Keratin 3in1, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: syoss; Produktname: Haarspray Keratin 3in1, 400 ml; Preis: 4,95 €; Grundpreis: 0,4 l (12,38 € je 1 l)",
+      "brand": {
+        "name": "syoss"
+      },
+      "dan": 3046960,
+      "gtin": 4015100817881,
+      "images": [
+        {
+          "alt": "Haarspray Keratin 3in1 syoss",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008238/assets/pas/images/28140f38-72df-4070-8cd6-037a93f97a63/syoss-haarspray-keratin-3in1"
+        },
+        {
+          "alt": "Haarspray Keratin 3in1 syoss",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008233/assets/pas/images/598d0df0-6192-4819-b01c-497899e2c722/syoss-haarspray-keratin-3in1"
+        },
+        {
+          "alt": "Haarspray Keratin 3in1 syoss",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008250/assets/pas/images/b266740f-1106-4ee6-bc89-e62828951443/syoss-haarspray-keratin-3in1"
+        },
+        {
+          "alt": "Haarspray Keratin 3in1 syoss",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008276/assets/pas/images/8901735e-0baa-4ead-8398-30bb73918646/syoss-haarspray-keratin-3in1"
+        },
+        {
+          "alt": "Haarspray Keratin 3in1 syoss",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008268/assets/pas/images/3c2c6420-eafa-4872-ade6-6d3ab577110b/syoss-haarspray-keratin-3in1"
+        },
+        {
+          "alt": "Haarspray Keratin 3in1 syoss",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008259/assets/pas/images/36f96255-875c-4b1c-b37e-8abe38756f23/syoss-haarspray-keratin-3in1"
+        },
+        {
+          "alt": "Haarspray Keratin 3in1 syoss",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008243/assets/pas/images/9c972c91-7729-43a8-b73a-674c3f75a392/syoss-haarspray-keratin-3in1"
+        },
+        {
+          "alt": "Haarspray Keratin 3in1 syoss",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008284/assets/pas/images/3af0428c-27d5-468f-8616-dbf5dbb4f184/syoss-haarspray-keratin-3in1"
+        },
+        {
+          "alt": "Haarspray Keratin 3in1 syoss",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008290/assets/pas/images/a83556c2-1d96-440a-9437-1b11636336ff/syoss-haarspray-keratin-3in1"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (10,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (12,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 446,
+        "ratingValue": 4.6906
+      },
+      "self": "/p/d/3046960/syoss-haarspray-keratin-3in1",
+      "title": {
+        "tileHeadline": "Haarspray Keratin 3in1, 400 ml",
+        "tileHeadlineLong": "Haarspray Keratin 3in1, 400 ml"
+      },
+      "trackingData": {
+        "brand": "syoss",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6906,
+        "ratingCount": 446
+      }
+    }
+  },
+  {
+    "gtin": 8006540650318,
+    "dan": 1673778,
+    "brandName": "PANTENE PRO-V",
+    "title": "Haarspray Perfect Volume, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PANTENE PRO-V; Produktname: Haarspray Perfect Volume, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l)",
+      "brand": {
+        "name": "PANTENE PRO-V"
+      },
+      "dan": 1673778,
+      "gtin": 8006540650318,
+      "images": [
+        {
+          "alt": "Haarspray Perfect Volume  PANTENE PRO-V",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773443469/assets/pas/images/a5c03c84-212f-4807-96ba-abf3a561aca4/pantene-pro-v-haarspray-perfect-volume"
+        },
+        {
+          "alt": "Haarspray Perfect Volume  PANTENE PRO-V",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773443477/assets/pas/images/8fbb86d7-05ce-4463-82e5-2c2812ca87be/pantene-pro-v-haarspray-perfect-volume"
+        },
+        {
+          "alt": "Haarspray Perfect Volume  PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747516193/assets/pas/images/07f21d6c-d419-4884-8fdd-853fd578ac43/pantene-pro-v-haarspray-perfect-volume"
+        },
+        {
+          "alt": "Haarspray Perfect Volume  PANTENE PRO-V",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773964549/assets/pas/images/807594ac-03bf-451d-af0d-a0769ac76ecc/pantene-pro-v-haarspray-perfect-volume"
+        },
+        {
+          "alt": "Haarspray Perfect Volume  PANTENE PRO-V",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773964560/assets/pas/images/850a1795-73d5-49bb-b8c5-5a95d9c1e324/pantene-pro-v-haarspray-perfect-volume"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 105,
+        "ratingValue": 4.181
+      },
+      "self": "/p/d/1673778/pantene-pro-v-haarspray-perfect-volume",
+      "title": {
+        "tileHeadline": "Haarspray Perfect Volume, 250 ml",
+        "tileHeadlineLong": "Haarspray Perfect Volume, 250 ml"
+      },
+      "trackingData": {
+        "brand": "PANTENE PRO-V",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.181,
+        "ratingCount": 105
+      }
+    }
+  },
+  {
+    "gtin": 4066447973570,
+    "dan": 1539975,
+    "brandName": "LANGHAARMÄDCHEN",
+    "title": "Haarspray, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LANGHAARMÄDCHEN; Produktname: Haarspray, 300 ml; Preis: 2,95 €; Grundpreis: 0,3 l (9,83 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "LANGHAARMÄDCHEN"
+      },
+      "dan": 1539975,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447973570,
+      "images": [
+        {
+          "alt": "Haarspray LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775167568/assets/pas/images/478067c5-f655-4215-aff6-11b90643ee5f/langhaarmaedchen-haarspray"
+        },
+        {
+          "alt": "Haarspray LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775167573/assets/pas/images/0ed455fd-88ba-4ae6-bf13-2c5daa7b8c07/langhaarmaedchen-haarspray"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (8,26 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (9,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 210,
+        "ratingValue": 3.8619
+      },
+      "self": "/p/d/1539975/langhaarmaedchen-haarspray",
+      "title": {
+        "tileHeadline": "Haarspray, 300 ml",
+        "tileHeadlineLong": "Haarspray, 300 ml"
+      },
+      "trackingData": {
+        "brand": "LANGHAARMÄDCHEN",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8619,
+        "ratingCount": 210
+      }
+    }
+  },
+  {
+    "gtin": 4015100800562,
+    "dan": 1128685,
+    "brandName": "got2b",
+    "title": "Haarspray Happy Hour, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: got2b; Produktname: Haarspray Happy Hour, 300 ml; Preis: 4,95 €; Grundpreis: 0,3 l (16,50 € je 1 l)",
+      "brand": {
+        "name": "got2b"
+      },
+      "dan": 1128685,
+      "gtin": 4015100800562,
+      "images": [
+        {
+          "alt": "Haarspray Happy Hour got2b",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007202/assets/pas/images/6cc2833b-614e-47b4-92f0-8885bd719908/got2b-haarspray-happy-hour"
+        },
+        {
+          "alt": "Haarspray Happy Hour got2b",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007207/assets/pas/images/b81a45f1-f5ac-46c3-a429-15b5a77746cd/got2b-haarspray-happy-hour"
+        },
+        {
+          "alt": "Haarspray Happy Hour got2b",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007231/assets/pas/images/6dc74eba-2fe7-4156-acfd-8b9c570bf205/got2b-haarspray-happy-hour"
+        },
+        {
+          "alt": "Haarspray Happy Hour got2b",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007222/assets/pas/images/1d260bfa-c138-4775-8a14-b78a7dc6ddf2/got2b-haarspray-happy-hour"
+        },
+        {
+          "alt": "Haarspray Happy Hour got2b",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007212/assets/pas/images/67f5f1fa-ce92-4a3a-9ac8-2be468f95e26/got2b-haarspray-happy-hour"
+        },
+        {
+          "alt": "Haarspray Happy Hour got2b",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007240/assets/pas/images/9bbf296c-4ac9-45bf-869b-4df7d8a6e72c/got2b-haarspray-happy-hour"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,87 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (16,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 226,
+        "ratingValue": 4.7478
+      },
+      "self": "/p/d/1128685/got2b-haarspray-happy-hour",
+      "title": {
+        "tileHeadline": "Haarspray Happy Hour, 300 ml",
+        "tileHeadlineLong": "Haarspray Happy Hour, 300 ml"
+      },
+      "trackingData": {
+        "brand": "got2b",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7478,
+        "ratingCount": 226
+      }
+    }
+  },
+  {
+    "gtin": 4005900749529,
+    "dan": 1434220,
+    "brandName": "NIVEA",
+    "title": "Haarspray Volumen Pflege, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Haarspray Volumen Pflege, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1434220,
+      "gtin": 4005900749529,
+      "images": [
+        {
+          "alt": "Haarspray Volumen Pflege NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952908/assets/pas/images/e86e8037-022b-43ca-a715-1ca457b2b3d4/nivea-haarspray-volumen-pflege"
+        },
+        {
+          "alt": "Haarspray Volumen Pflege NIVEA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952907/assets/pas/images/21a99db2-2ff6-4808-81a4-786caebe31dc/nivea-haarspray-volumen-pflege"
+        },
+        {
+          "alt": "Haarspray Volumen Pflege NIVEA",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747554715/assets/pas/images/56974cb4-3f34-4004-9dc1-f8875c107191/nivea-haarspray-volumen-pflege"
+        },
+        {
+          "alt": "Haarspray Volumen Pflege NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952913/assets/pas/images/c2a3b5cd-c0e1-4dd4-b100-06ef0a64d89d/nivea-haarspray-volumen-pflege"
+        },
+        {
+          "alt": "Haarspray Volumen Pflege NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952903/assets/pas/images/30d35825-f5c6-45de-9700-749f212ec280/nivea-haarspray-volumen-pflege"
+        },
+        {
+          "alt": "Haarspray Volumen Pflege NIVEA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759441756/assets/pas/images/8abeb433-dbcb-477d-ae1e-f881eae11bc8/nivea-haarspray-volumen-pflege"
+        },
+        {
+          "alt": "Haarspray Volumen Pflege NIVEA",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747554721/assets/pas/images/db6ab7c9-16b1-4656-bc67-7684259d0a0f/nivea-haarspray-volumen-pflege"
+        },
+        {
+          "alt": "Haarspray Volumen Pflege NIVEA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747554709/assets/pas/images/d69d7da4-2c76-4adc-b47a-72f5159a810f/nivea-haarspray-volumen-pflege"
+        },
+        {
+          "alt": "Haarspray Volumen Pflege NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747554705/assets/pas/images/5dd0348e-de28-4445-99d4-7a8ebace4052/nivea-haarspray-volumen-pflege"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 460,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/1434220/nivea-haarspray-volumen-pflege",
+      "title": {
+        "tileHeadline": "Haarspray Volumen Pflege, 250 ml",
+        "tileHeadlineLong": "Haarspray Volumen Pflege, 250 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 460
+      }
+    }
+  },
+  {
+    "gtin": 4068359279290,
+    "dan": 1604243,
+    "brandName": "wellaflex",
+    "title": "Haarspray Sensitive, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: wellaflex; Produktname: Haarspray Sensitive, 250 ml; Preis: 2,95 €; Grundpreis: 0,25 l (11,80 € je 1 l)",
+      "brand": {
+        "name": "wellaflex"
+      },
+      "dan": 1604243,
+      "gtin": 4068359279290,
+      "images": [
+        {
+          "alt": "Haarspray Sensitive wellaflex",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779833098/assets/pas/images/d70d1082-3732-420a-839c-a676ca14ec42/wellaflex-haarspray-sensitive"
+        },
+        {
+          "alt": "Haarspray Sensitive wellaflex",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779833105/assets/pas/images/3710c583-db08-414c-9526-e0def788f007/wellaflex-haarspray-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.5476
+      },
+      "self": "/p/d/1604243/wellaflex-haarspray-sensitive",
+      "title": {
+        "tileHeadline": "Haarspray Sensitive, 250 ml",
+        "tileHeadlineLong": "Haarspray Sensitive, 250 ml"
+      },
+      "trackingData": {
+        "brand": "wellaflex",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5476,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4005900749840,
+    "dan": 1489410,
+    "brandName": "NIVEA",
+    "title": "Haarspray Pflege & Halt, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Haarspray Pflege & Halt, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1489410,
+      "gtin": 4005900749840,
+      "images": [
+        {
+          "alt": "Haarspray Pflege & Halt NIVEA",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432365/assets/pas/images/125b0ff6-d5c7-4d18-a441-1ac5a8f32126/nivea-haarspray-pflege-und-halt"
+        },
+        {
+          "alt": "Haarspray Pflege & Halt NIVEA",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432182/assets/pas/images/187eb19a-2202-4212-a8c1-27a01c10e537/nivea-haarspray-pflege-und-halt"
+        },
+        {
+          "alt": "Haarspray Pflege & Halt NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432030/assets/pas/images/9dbe946b-c188-4db7-9ad9-1e1d6001ee26/nivea-haarspray-pflege-und-halt"
+        },
+        {
+          "alt": "Haarspray Pflege & Halt NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432035/assets/pas/images/7a8026b5-f263-4e43-9132-fe95db0cb168/nivea-haarspray-pflege-und-halt"
+        },
+        {
+          "alt": "Haarspray Pflege & Halt NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432366/assets/pas/images/bf1eaf3b-d697-49d5-a447-a85392b23819/nivea-haarspray-pflege-und-halt"
+        },
+        {
+          "alt": "Haarspray Pflege & Halt NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759441812/assets/pas/images/a1b5bf5a-cd25-428d-bcc8-b99fb2a8b183/nivea-haarspray-pflege-und-halt"
+        },
+        {
+          "alt": "Haarspray Pflege & Halt NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759441802/assets/pas/images/b422f780-8bde-4e8d-aa8e-8227e90058e6/nivea-haarspray-pflege-und-halt"
+        },
+        {
+          "alt": "Haarspray Pflege & Halt NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432190/assets/pas/images/2457363d-fa04-4beb-8a6f-36608cba1719/nivea-haarspray-pflege-und-halt"
+        },
+        {
+          "alt": "Haarspray Pflege & Halt NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432190/assets/pas/images/d5c79331-584c-4524-8715-fad07be8fc02/nivea-haarspray-pflege-und-halt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 224,
+        "ratingValue": 4.7277
+      },
+      "self": "/p/d/1489410/nivea-haarspray-pflege-und-halt",
+      "title": {
+        "tileHeadline": "Haarspray Pflege & Halt, 250 ml",
+        "tileHeadlineLong": "Haarspray Pflege & Halt, 250 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7277,
+        "ratingCount": 224
+      }
+    }
+  },
+  {
+    "gtin": 5037156298314,
+    "dan": 3123433,
+    "brandName": "John Frieda",
+    "title": "Haarspray Frizz Ease Regenschirm, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: John Frieda; Produktname: Haarspray Frizz Ease Regenschirm, 250 ml; Preis: 9,95 €; Grundpreis: 0,25 l (39,80 € je 1 l)",
+      "brand": {
+        "name": "John Frieda"
+      },
+      "dan": 3123433,
+      "gtin": 5037156298314,
+      "images": [
+        {
+          "alt": "Haarspray Frizz Ease Regenschirm John Frieda",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249884/assets/pas/images/da5ccef9-cea4-4a67-9b90-d3ac15420ce1/john-frieda-haarspray-frizz-ease-regenschirm"
+        },
+        {
+          "alt": "Haarspray Frizz Ease Regenschirm John Frieda",
+          "backgroundColor": "#F6F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249892/assets/pas/images/7ab1d4d4-14f0-4fda-8333-69e22256a595/john-frieda-haarspray-frizz-ease-regenschirm"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (33,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (39,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 114,
+        "ratingValue": 3.6842
+      },
+      "self": "/p/d/3123433/john-frieda-haarspray-frizz-ease-regenschirm",
+      "title": {
+        "tileHeadline": "Haarspray Frizz Ease Regenschirm, 250 ml",
+        "tileHeadlineLong": "Haarspray Frizz Ease Regenschirm, 250 ml"
+      },
+      "trackingData": {
+        "brand": "John Frieda",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6842,
+        "ratingCount": 114
+      }
+    }
+  },
+  {
+    "gtin": 3614229728620,
+    "dan": 1539615,
+    "brandName": "WELLA Deluxe",
+    "title": "Haarspray Sensitiv, Starker Halt, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELLA Deluxe; Produktname: Haarspray Sensitiv, Starker Halt, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "WELLA Deluxe"
+      },
+      "dan": 1539615,
+      "gtin": 3614229728620,
+      "images": [
+        {
+          "alt": "Haarspray Sensitiv, Starker Halt WELLA Deluxe",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422365/assets/pas/images/00a283f1-4da8-4cfa-a786-986e6b734b1e/wella-deluxe-haarspray-sensitiv-starker-halt"
+        },
+        {
+          "alt": "Haarspray Sensitiv, Starker Halt WELLA Deluxe",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422365/assets/pas/images/dd4190c2-b121-4d61-9118-c70879322bc0/wella-deluxe-haarspray-sensitiv-starker-halt"
+        },
+        {
+          "alt": "Haarspray Sensitiv, Starker Halt WELLA Deluxe",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422467/assets/pas/images/feeec5f7-db4f-4bf0-9724-e501b22943e0/wella-deluxe-haarspray-sensitiv-starker-halt"
+        },
+        {
+          "alt": "Haarspray Sensitiv, Starker Halt WELLA Deluxe",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422364/assets/pas/images/1e41f627-5098-4c4e-a461-c3603172952a/wella-deluxe-haarspray-sensitiv-starker-halt"
+        },
+        {
+          "alt": "Haarspray Sensitiv, Starker Halt WELLA Deluxe",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422361/assets/pas/images/fe129a4c-4e9d-4fd7-98f7-09a074756b81/wella-deluxe-haarspray-sensitiv-starker-halt"
+        },
+        {
+          "alt": "Haarspray Sensitiv, Starker Halt WELLA Deluxe",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422364/assets/pas/images/063a9ec0-4978-4c8d-ac4d-7e30e5f7bc3e/wella-deluxe-haarspray-sensitiv-starker-halt"
+        },
+        {
+          "alt": "Haarspray Sensitiv, Starker Halt WELLA Deluxe",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422361/assets/pas/images/18a4bc97-a722-4dbf-916e-886262d7459d/wella-deluxe-haarspray-sensitiv-starker-halt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/1539615/wella-deluxe-haarspray-sensitiv-starker-halt",
+      "title": {
+        "tileHeadline": "Haarspray Sensitiv, Starker Halt, 250 ml",
+        "tileHeadlineLong": "Haarspray Sensitiv, Starker Halt, 250 ml"
+      },
+      "trackingData": {
+        "brand": "WELLA Deluxe",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4015100810165,
+    "dan": 1581175,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarspray POWER INVISIBLE Halt 5, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarspray POWER INVISIBLE Halt 5, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1581175,
+      "gtin": 4015100810165,
+      "images": [
+        {
+          "alt": "Haarspray POWER INVISIBLE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008050/assets/pas/images/e0b39af4-52ef-41d4-811d-b4268ad1c073/schwarzkopf-taft-haarspray-power-invisible-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER INVISIBLE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008054/assets/pas/images/f749800c-9db5-4854-82bd-6adcfce312eb/schwarzkopf-taft-haarspray-power-invisible-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER INVISIBLE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008066/assets/pas/images/5404787f-b334-46bc-96bf-53627393fb06/schwarzkopf-taft-haarspray-power-invisible-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER INVISIBLE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008086/assets/pas/images/35c92c5a-5229-4892-b213-dcce78bbc329/schwarzkopf-taft-haarspray-power-invisible-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER INVISIBLE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008059/assets/pas/images/ed586b8e-abdf-4991-b7ea-31a057e7d17e/schwarzkopf-taft-haarspray-power-invisible-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER INVISIBLE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008079/assets/pas/images/ad11726e-fe3e-4a88-a2f1-eb380a47c70c/schwarzkopf-taft-haarspray-power-invisible-halt-5"
+        },
+        {
+          "alt": "Haarspray POWER INVISIBLE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008073/assets/pas/images/80844d3b-f5c5-4c54-99e9-5bf007489194/schwarzkopf-taft-haarspray-power-invisible-halt-5"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 143,
+        "ratingValue": 4.6923
+      },
+      "self": "/p/d/1581175/schwarzkopf-taft-haarspray-power-invisible-halt-5",
+      "title": {
+        "tileHeadline": "Haarspray POWER INVISIBLE Halt 5, 250 ml",
+        "tileHeadlineLong": "Haarspray POWER INVISIBLE Halt 5, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6923,
+        "ratingCount": 143
+      }
+    }
+  },
+  {
+    "gtin": 4015100815641,
+    "dan": 2477002,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarspray taft x Gliss Holding me Strongly, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarspray taft x Gliss Holding me Strongly, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 2477002,
+      "gtin": 4015100815641,
+      "images": [
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008218/assets/pas/images/cf948432-b931-4578-8324-d3d10e07a68f/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        },
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008222/assets/pas/images/88a0ff56-74d9-4a5e-b4fe-133d6fa89580/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        },
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008228/assets/pas/images/3f4edf28-90f7-469f-9b75-26534060d804/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        },
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008322/assets/pas/images/924d7f4c-a658-4641-95a1-b6d7e7d0f304/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        },
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008280/assets/pas/images/e3c93889-a6f0-491b-82e5-c626d1bde09d/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        },
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008272/assets/pas/images/7c576995-133c-4b13-84d6-0bcae13c0100/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        },
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008252/assets/pas/images/70ffbd3a-7827-4fc0-8c1a-e5e3f2e40776/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        },
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008238/assets/pas/images/1e970ea0-66be-44e8-b377-72d3da5b8692/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        },
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008244/assets/pas/images/f2bd3f4b-97e9-42ea-9689-93b87d83a805/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        },
+        {
+          "alt": "Haarspray taft x Gliss Holding me Strongly Schwarzkopf taft",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008260/assets/pas/images/a773e81d-544a-4333-aab8-9a91637f8c54/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 769,
+        "ratingValue": 4.8687
+      },
+      "self": "/p/d/2477002/schwarzkopf-taft-haarspray-taft-x-gliss-holding-me-strongly",
+      "title": {
+        "tileHeadline": "Haarspray taft x Gliss Holding me Strongly, 250 ml",
+        "tileHeadlineLong": "Haarspray taft x Gliss Holding me Strongly, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8687,
+        "ratingCount": 769
+      }
+    }
+  },
+  {
+    "gtin": 4015100894042,
+    "dan": 3121123,
+    "brandName": "got2b",
+    "title": "Haarlack Sprühkleber, Reisegröße, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: got2b; Produktname: Haarlack Sprühkleber, Reisegröße, 100 ml; Preis: 2,45 €; Grundpreis: 0,1 l (24,50 € je 1 l)",
+      "brand": {
+        "name": "got2b"
+      },
+      "dan": 3121123,
+      "gtin": 4015100894042,
+      "images": [
+        {
+          "alt": "Haarlack Sprühkleber, Reisegröße got2b",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008042/assets/pas/images/d6f32a10-b474-4768-82a6-eff5ec3f3fcd/got2b-haarlack-spruehkleber-reisegroesse"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (20,59 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (24,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 379,
+        "ratingValue": 4.8681
+      },
+      "self": "/p/d/3121123/got2b-haarlack-spruehkleber-reisegroesse",
+      "title": {
+        "tileHeadline": "Haarlack Sprühkleber, Reisegröße, 100 ml",
+        "tileHeadlineLong": "Haarlack Sprühkleber, Reisegröße, 100 ml"
+      },
+      "trackingData": {
+        "brand": "got2b",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8681,
+        "ratingCount": 379
+      }
+    }
+  },
+  {
+    "gtin": 3614229728637,
+    "dan": 1539425,
+    "brandName": "WELLA Deluxe",
+    "title": "Haarspray Wunder Volumen & Schutz, Ultra starker Halt, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELLA Deluxe; Produktname: Haarspray Wunder Volumen & Schutz, Ultra starker Halt, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "WELLA Deluxe"
+      },
+      "dan": 1539425,
+      "gtin": 3614229728637,
+      "images": [
+        {
+          "alt": "Haarspray Wunder Volumen & Schutz, Ultra starker Halt WELLA Deluxe",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422358/assets/pas/images/2ae59d46-5c40-4b9f-b619-66a55e32df92/wella-deluxe-haarspray-wunder-volumen-und-schutz-ultra-starker-halt"
+        },
+        {
+          "alt": "Haarspray Wunder Volumen & Schutz, Ultra starker Halt WELLA Deluxe",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422358/assets/pas/images/46a0eb41-57ec-48dc-b9de-1681f36c55fb/wella-deluxe-haarspray-wunder-volumen-und-schutz-ultra-starker-halt"
+        },
+        {
+          "alt": "Haarspray Wunder Volumen & Schutz, Ultra starker Halt WELLA Deluxe",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422367/assets/pas/images/86acf8d2-2e64-44af-8747-9756d2d988c2/wella-deluxe-haarspray-wunder-volumen-und-schutz-ultra-starker-halt"
+        },
+        {
+          "alt": "Haarspray Wunder Volumen & Schutz, Ultra starker Halt WELLA Deluxe",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422464/assets/pas/images/9ce15c9e-8a04-4535-9dd6-3205fd04197f/wella-deluxe-haarspray-wunder-volumen-und-schutz-ultra-starker-halt"
+        },
+        {
+          "alt": "Haarspray Wunder Volumen & Schutz, Ultra starker Halt WELLA Deluxe",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422361/assets/pas/images/6cfc0a43-7cc1-4393-bf03-e4c489ba61d9/wella-deluxe-haarspray-wunder-volumen-und-schutz-ultra-starker-halt"
+        },
+        {
+          "alt": "Haarspray Wunder Volumen & Schutz, Ultra starker Halt WELLA Deluxe",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422361/assets/pas/images/99c1f58a-6eef-4421-a561-9c8d620d949b/wella-deluxe-haarspray-wunder-volumen-und-schutz-ultra-starker-halt"
+        },
+        {
+          "alt": "Haarspray Wunder Volumen & Schutz, Ultra starker Halt WELLA Deluxe",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422366/assets/pas/images/0edfb1bc-65c5-4a59-b301-cff18e6a7743/wella-deluxe-haarspray-wunder-volumen-und-schutz-ultra-starker-halt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 77,
+        "ratingValue": 4.1429
+      },
+      "self": "/p/d/1539425/wella-deluxe-haarspray-wunder-volumen-und-schutz-ultra-starker-halt",
+      "title": {
+        "tileHeadline": "Haarspray Wunder Volumen & Schutz, Ultra starker..., 250 ml",
+        "tileHeadlineLong": "Haarspray Wunder Volumen & Schutz, Ultra starker..., 250 ml"
+      },
+      "trackingData": {
+        "brand": "WELLA Deluxe",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1429,
+        "ratingCount": 77
+      }
+    }
+  },
+  {
+    "gtin": 4015100817904,
+    "dan": 3047022,
+    "brandName": "syoss",
+    "title": "Haarspray Ceramide, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: syoss; Produktname: Haarspray Ceramide, 400 ml; Preis: 4,95 €; Grundpreis: 0,4 l (12,38 € je 1 l)",
+      "brand": {
+        "name": "syoss"
+      },
+      "dan": 3047022,
+      "gtin": 4015100817904,
+      "images": [
+        {
+          "alt": "Haarspray Ceramide syoss",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008373/assets/pas/images/b5b49f32-ed37-41f5-9dac-0a29332b15e5/syoss-haarspray-ceramide"
+        },
+        {
+          "alt": "Haarspray Ceramide syoss",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008377/assets/pas/images/b2c68187-2fe0-4998-94b0-dffde5514935/syoss-haarspray-ceramide"
+        },
+        {
+          "alt": "Haarspray Ceramide syoss",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008389/assets/pas/images/a465dc5a-be63-4106-8d15-203b93f5b25a/syoss-haarspray-ceramide"
+        },
+        {
+          "alt": "Haarspray Ceramide syoss",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008406/assets/pas/images/f02f9511-8f43-45ea-b022-6945aa2f9862/syoss-haarspray-ceramide"
+        },
+        {
+          "alt": "Haarspray Ceramide syoss",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008397/assets/pas/images/3a578f90-e6d8-44b0-826c-8bea888d6dc4/syoss-haarspray-ceramide"
+        },
+        {
+          "alt": "Haarspray Ceramide syoss",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008382/assets/pas/images/5b3d15f9-b734-4d10-a5b8-95e285e0e059/syoss-haarspray-ceramide"
+        },
+        {
+          "alt": "Haarspray Ceramide syoss",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008413/assets/pas/images/e1c7947f-7955-4364-a27a-76ebbf1b4128/syoss-haarspray-ceramide"
+        },
+        {
+          "alt": "Haarspray Ceramide syoss",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008419/assets/pas/images/a69544a7-2743-4e0e-a780-5b73610314e9/syoss-haarspray-ceramide"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (10,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (12,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 162,
+        "ratingValue": 4.642
+      },
+      "self": "/p/d/3047022/syoss-haarspray-ceramide",
+      "title": {
+        "tileHeadline": "Haarspray Ceramide, 400 ml",
+        "tileHeadlineLong": "Haarspray Ceramide, 400 ml"
+      },
+      "trackingData": {
+        "brand": "syoss",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.642,
+        "ratingCount": 162
+      }
+    }
+  },
+  {
+    "gtin": 4005900749406,
+    "dan": 1434233,
+    "brandName": "NIVEA",
+    "title": "Haarspray Diamant Volumen, 250 ml",
+    "tileData": {
+      "dan": 1434233,
+      "gtin": 4005900749406,
+      "self": "/p/d/1434233/nivea-haarspray-diamant-volumen",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Haarspray Diamant Volumen, 250 ml",
+        "tileHeadlineLong": "Haarspray Diamant Volumen, 250 ml"
+      },
+      "images": [
+        {
+          "alt": "Haarspray Diamant Volumen NIVEA",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754958844/assets/pas/images/5dd7b71d-9d82-4678-95f7-c7ad92a4c0ca/nivea-haarspray-diamant-volumen",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F7"
+        },
+        {
+          "alt": "Haarspray Diamant Volumen NIVEA",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754958858/assets/pas/images/eeacd1f8-b510-41af-84da-c66b62bccfa0/nivea-haarspray-diamant-volumen",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F2F9"
+        },
+        {
+          "alt": "Haarspray Diamant Volumen NIVEA",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754958856/assets/pas/images/ffd664d8-0472-497a-b7ea-7fb5f6405686/nivea-haarspray-diamant-volumen",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F5F9"
+        },
+        {
+          "alt": "Haarspray Diamant Volumen NIVEA",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754958864/assets/pas/images/aae5042f-22b2-4e31-9035-e0ab2e18032e/nivea-haarspray-diamant-volumen",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F3F9"
+        },
+        {
+          "alt": "Haarspray Diamant Volumen NIVEA",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759441628/assets/pas/images/79aff693-be4d-4e0c-a1a3-8c6007338b8f/nivea-haarspray-diamant-volumen",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F5F9"
+        },
+        {
+          "alt": "Haarspray Diamant Volumen NIVEA",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754958849/assets/pas/images/288e0b6f-7fe7-4f2c-a8f9-26a4e40ca81b/nivea-haarspray-diamant-volumen",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F6F9"
+        },
+        {
+          "alt": "Haarspray Diamant Volumen NIVEA",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754958862/assets/pas/images/c86be3f2-5b61-477d-883d-ea1b29f1c26d/nivea-haarspray-diamant-volumen",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F7F9"
+        },
+        {
+          "alt": "Haarspray Diamant Volumen NIVEA",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754958860/assets/pas/images/f975eda5-5124-45fa-94d7-b080d2f49fec/nivea-haarspray-diamant-volumen",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F4F9"
+        }
+      ],
+      "rating": {
+        "ratingCount": 281,
+        "ratingValue": 4.7794
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "a11yLabel": "Marke: NIVEA; Produktname: Haarspray Diamant Volumen, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "isPharmacy": false,
+      "trackingData": {
+        "brand": "NIVEA",
+        "price": 3.45,
+        "currency": "EUR",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7794,
+        "ratingCount": 281
+      }
+    }
+  },
+  {
+    "gtin": 4015100810141,
+    "dan": 1581195,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarspray POWERFUL AGE Halt 5, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarspray POWERFUL AGE Halt 5, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1581195,
+      "gtin": 4015100810141,
+      "images": [
+        {
+          "alt": "Haarspray POWERFUL AGE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007202/assets/pas/images/0d8f32f0-f9b7-4111-8cf9-4a2db20de829/schwarzkopf-taft-haarspray-powerful-age-halt-5"
+        },
+        {
+          "alt": "Haarspray POWERFUL AGE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007207/assets/pas/images/255f7892-817f-4d75-a842-136b20562acd/schwarzkopf-taft-haarspray-powerful-age-halt-5"
+        },
+        {
+          "alt": "Haarspray POWERFUL AGE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007213/assets/pas/images/c18df061-6d54-4e6c-b9c0-8942c9ac3ba5/schwarzkopf-taft-haarspray-powerful-age-halt-5"
+        },
+        {
+          "alt": "Haarspray POWERFUL AGE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007240/assets/pas/images/3fbcd92d-430a-4c95-9972-5aac496cf6c5/schwarzkopf-taft-haarspray-powerful-age-halt-5"
+        },
+        {
+          "alt": "Haarspray POWERFUL AGE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007227/assets/pas/images/0299480b-370b-459b-ac75-be48f69e69ed/schwarzkopf-taft-haarspray-powerful-age-halt-5"
+        },
+        {
+          "alt": "Haarspray POWERFUL AGE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007234/assets/pas/images/46dbcf10-7cce-4a16-a430-7d70e937152d/schwarzkopf-taft-haarspray-powerful-age-halt-5"
+        },
+        {
+          "alt": "Haarspray POWERFUL AGE Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007220/assets/pas/images/83cb1f2a-b1a0-410e-a13f-5af3a2818f39/schwarzkopf-taft-haarspray-powerful-age-halt-5"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.8115
+      },
+      "self": "/p/d/1581195/schwarzkopf-taft-haarspray-powerful-age-halt-5",
+      "title": {
+        "tileHeadline": "Haarspray POWERFUL AGE Halt 5, 250 ml",
+        "tileHeadlineLong": "Haarspray POWERFUL AGE Halt 5, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8115,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 3600522471684,
+    "dan": 1395315,
+    "brandName": "L'ORÉAL PARiS STUDIO LINE",
+    "title": "Haarspray Spurenlos FX, ultra starker Halt, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: L'ORÉAL PARiS STUDIO LINE; Produktname: Haarspray Spurenlos FX, ultra starker Halt, 250 ml; Preis: 2,95 €; Grundpreis: 0,25 l (11,80 € je 1 l)",
+      "brand": {
+        "name": "L'ORÉAL PARiS STUDIO LINE"
+      },
+      "dan": 1395315,
+      "gtin": 3600522471684,
+      "images": [
+        {
+          "alt": "Haarspray Spurenlos FX, ultra starker Halt L'ORÉAL PARiS STUDIO LINE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752284651/assets/pas/images/54916f07-7c30-4663-b065-b877f2bf2046/l-oreal-paris-studio-line-haarspray-spurenlos-fx-ultra-starker-halt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 265,
+        "ratingValue": 4.4943
+      },
+      "self": "/p/d/1395315/l-oreal-paris-studio-line-haarspray-spurenlos-fx-ultra-starker-halt",
+      "title": {
+        "tileHeadline": "Haarspray Spurenlos FX, ultra starker Halt, 250 ml",
+        "tileHeadlineLong": "Haarspray Spurenlos FX, ultra starker Halt, 250 ml"
+      },
+      "trackingData": {
+        "brand": "L'ORÉAL PARiS STUDIO LINE",
+        "categories": [
+          "Haarstyling",
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4943,
+        "ratingCount": 265
+      }
+    }
+  },
+  {
+    "gtin": 4005900749444,
+    "dan": 1434242,
+    "brandName": "NIVEA",
+    "title": "Haarspray Extra Stark, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Haarspray Extra Stark, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1434242,
+      "gtin": 4005900749444,
+      "images": [
+        {
+          "alt": "Haarspray Extra Stark NIVEA",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760478415/assets/pas/images/b216acc7-ba3e-40a9-8a94-276d6ab3577a/nivea-haarspray-extra-stark"
+        },
+        {
+          "alt": "Haarspray Extra Stark NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432034/assets/pas/images/94fca4e3-06f2-4cd9-b3a7-1504e33c4d69/nivea-haarspray-extra-stark"
+        },
+        {
+          "alt": "Haarspray Extra Stark NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432355/assets/pas/images/cdb0212a-89b3-4f07-91bb-53db930ecee5/nivea-haarspray-extra-stark"
+        },
+        {
+          "alt": "Haarspray Extra Stark NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432180/assets/pas/images/1ec3f7dd-109e-488c-9ef9-8cb794e9edc2/nivea-haarspray-extra-stark"
+        },
+        {
+          "alt": "Haarspray Extra Stark NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759441723/assets/pas/images/f7b0f0ab-3015-4497-b0d8-0524e2f936ee/nivea-haarspray-extra-stark"
+        },
+        {
+          "alt": "Haarspray Extra Stark NIVEA",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759441712/assets/pas/images/47804d6d-64aa-4281-805b-4078de5da273/nivea-haarspray-extra-stark"
+        },
+        {
+          "alt": "Haarspray Extra Stark NIVEA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432180/assets/pas/images/708b6858-9837-4007-9c5a-38c42b7bb240/nivea-haarspray-extra-stark"
+        },
+        {
+          "alt": "Haarspray Extra Stark NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432366/assets/pas/images/feb90c03-c58f-4dae-9f1b-de5b745ee290/nivea-haarspray-extra-stark"
+        },
+        {
+          "alt": "Haarspray Extra Stark NIVEA",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432188/assets/pas/images/f124a609-c000-4b87-b113-bfe79d21a697/nivea-haarspray-extra-stark"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 274,
+        "ratingValue": 4.8321
+      },
+      "self": "/p/d/1434242/nivea-haarspray-extra-stark",
+      "title": {
+        "tileHeadline": "Haarspray Extra Stark, 250 ml",
+        "tileHeadlineLong": "Haarspray Extra Stark, 250 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8321,
+        "ratingCount": 274
+      }
+    }
+  },
+  {
+    "gtin": 4015100810189,
+    "dan": 1581176,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarlack ULTIMATE Halt 5+, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarlack ULTIMATE Halt 5+, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1581176,
+      "gtin": 4015100810189,
+      "images": [
+        {
+          "alt": "Haarlack ULTIMATE Halt 5+ Schwarzkopf taft",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008170/assets/pas/images/0f0ff0e6-9c85-48e8-8422-5c87bb63a1b9/schwarzkopf-taft-haarlack-ultimate-halt-5"
+        },
+        {
+          "alt": "Haarlack ULTIMATE Halt 5+ Schwarzkopf taft",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008174/assets/pas/images/270afacd-a754-45d2-8456-bac6d8fd56ab/schwarzkopf-taft-haarlack-ultimate-halt-5"
+        },
+        {
+          "alt": "Haarlack ULTIMATE Halt 5+ Schwarzkopf taft",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008193/assets/pas/images/4fabf84e-e111-4e1c-9549-c0f1f1feea44/schwarzkopf-taft-haarlack-ultimate-halt-5"
+        },
+        {
+          "alt": "Haarlack ULTIMATE Halt 5+ Schwarzkopf taft",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008207/assets/pas/images/420c034a-9c34-45d2-830a-4182de3e296a/schwarzkopf-taft-haarlack-ultimate-halt-5"
+        },
+        {
+          "alt": "Haarlack ULTIMATE Halt 5+ Schwarzkopf taft",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008186/assets/pas/images/82dd8583-cf0f-4bc4-bd90-0d8c29c20c1a/schwarzkopf-taft-haarlack-ultimate-halt-5"
+        },
+        {
+          "alt": "Haarlack ULTIMATE Halt 5+ Schwarzkopf taft",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008180/assets/pas/images/42c6b228-126d-4374-929f-1394e3811aeb/schwarzkopf-taft-haarlack-ultimate-halt-5"
+        },
+        {
+          "alt": "Haarlack ULTIMATE Halt 5+ Schwarzkopf taft",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008200/assets/pas/images/a29b285c-958f-4072-8ff1-8d15a2f889f0/schwarzkopf-taft-haarlack-ultimate-halt-5"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 176,
+        "ratingValue": 4.875
+      },
+      "self": "/p/d/1581176/schwarzkopf-taft-haarlack-ultimate-halt-5",
+      "title": {
+        "tileHeadline": "Haarlack ULTIMATE Halt 5+, 250 ml",
+        "tileHeadlineLong": "Haarlack ULTIMATE Halt 5+, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.875,
+        "ratingCount": 176
+      }
+    }
+  },
+  {
+    "gtin": 4015100860788,
+    "dan": 3047462,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarspray Aloe Boost, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarspray Aloe Boost, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 3047462,
+      "gtin": 4015100860788,
+      "images": [
+        {
+          "alt": "Haarspray Aloe Boost Schwarzkopf taft",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603740/assets/pas/images/138c6f77-bc61-4ff0-bd7e-1c860094a940/schwarzkopf-taft-haarspray-aloe-boost"
+        },
+        {
+          "alt": "Haarspray Aloe Boost Schwarzkopf taft",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441649/assets/pas/images/625168dc-2db8-417d-b30f-b922bbc82062/schwarzkopf-taft-haarspray-aloe-boost"
+        },
+        {
+          "alt": "Haarspray Aloe Boost Schwarzkopf taft",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603734/assets/pas/images/337f86aa-cd88-4904-b30d-37359a9692bf/schwarzkopf-taft-haarspray-aloe-boost"
+        },
+        {
+          "alt": "Haarspray Aloe Boost Schwarzkopf taft",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441743/assets/pas/images/567157ce-64f1-454d-9ddc-5c124a099483/schwarzkopf-taft-haarspray-aloe-boost"
+        },
+        {
+          "alt": "Haarspray Aloe Boost Schwarzkopf taft",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441744/assets/pas/images/2e1359b2-cc9c-46cf-8e07-ec9a9b891b6b/schwarzkopf-taft-haarspray-aloe-boost"
+        },
+        {
+          "alt": "Haarspray Aloe Boost Schwarzkopf taft",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441644/assets/pas/images/860169c9-cbbe-4f55-b70f-41654494fe17/schwarzkopf-taft-haarspray-aloe-boost"
+        },
+        {
+          "alt": "Haarspray Aloe Boost Schwarzkopf taft",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441852/assets/pas/images/69d74021-5fe8-4592-b27f-8bbd667bc66f/schwarzkopf-taft-haarspray-aloe-boost"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1137,
+        "ratingValue": 4.8074
+      },
+      "self": "/p/d/3047462/schwarzkopf-taft-haarspray-aloe-boost",
+      "title": {
+        "tileHeadline": "Haarspray Aloe Boost, 250 ml",
+        "tileHeadlineLong": "Haarspray Aloe Boost, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8074,
+        "ratingCount": 1137
+      }
+    }
+  },
+  {
+    "gtin": 4015100810523,
+    "dan": 1580759,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarspray CLASSIC Halt 3, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarspray CLASSIC Halt 3, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1580759,
+      "gtin": 4015100810523,
+      "images": [
+        {
+          "alt": "Haarspray CLASSIC Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008150/assets/pas/images/955be1a3-6178-4abd-857f-b07095947aa8/schwarzkopf-taft-haarspray-classic-halt-3"
+        },
+        {
+          "alt": "Haarspray CLASSIC Halt 3 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008154/assets/pas/images/7c0cc816-5c04-44f9-958b-cea58397bca4/schwarzkopf-taft-haarspray-classic-halt-3"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 269,
+        "ratingValue": 4.4461
+      },
+      "self": "/p/d/1580759/schwarzkopf-taft-haarspray-classic-halt-3",
+      "title": {
+        "tileHeadline": "Haarspray CLASSIC Halt 3, 250 ml",
+        "tileHeadlineLong": "Haarspray CLASSIC Halt 3, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4461,
+        "ratingCount": 269
+      }
+    }
+  },
+  {
+    "gtin": 4015100810769,
+    "dan": 1032851,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarlack ULTRA Halt 4, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarlack ULTRA Halt 4, 200 ml; Preis: 3,45 €; Grundpreis: 0,2 l (17,25 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1032851,
+      "gtin": 4015100810769,
+      "images": [
+        {
+          "alt": "Haarlack ULTRA Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188072/assets/pas/images/11a23021-b5a8-4154-9691-95737459ed0d/schwarzkopf-taft-haarlack-ultra-halt-4"
+        },
+        {
+          "alt": "Haarlack ULTRA Halt 4 Schwarzkopf taft",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188081/assets/pas/images/2e56b21d-dc14-474e-a743-d29b0befd951/schwarzkopf-taft-haarlack-ultra-halt-4"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (14,50 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (17,25 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 120,
+        "ratingValue": 4.7583
+      },
+      "self": "/p/d/1032851/schwarzkopf-taft-haarlack-ultra-halt-4",
+      "title": {
+        "tileHeadline": "Haarlack ULTRA Halt 4, 200 ml",
+        "tileHeadlineLong": "Haarlack ULTRA Halt 4, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7583,
+        "ratingCount": 120
+      }
+    }
+  },
+  {
+    "gtin": 4015100810585,
+    "dan": 1581180,
+    "brandName": "Schwarzkopf taft",
+    "title": "Haarspray VOLUMEN Halt 5, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf taft; Produktname: Haarspray VOLUMEN Halt 5, 250 ml; Preis: 3,45 €; Grundpreis: 0,25 l (13,80 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf taft"
+      },
+      "dan": 1581180,
+      "gtin": 4015100810585,
+      "images": [
+        {
+          "alt": "Haarspray VOLUMEN Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007989/assets/pas/images/19ca7bea-6be3-4132-bad9-0e2c930c36d7/schwarzkopf-taft-haarspray-volumen-halt-5"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781007999/assets/pas/images/2a1bd808-c2d2-4d21-9426-0ef74832415b/schwarzkopf-taft-haarspray-volumen-halt-5"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008031/assets/pas/images/d4ecb49b-02db-4ed9-b568-ef4ac2e6ad23/schwarzkopf-taft-haarspray-volumen-halt-5"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008024/assets/pas/images/726029d7-13ed-41ae-884c-da5aa7a427ab/schwarzkopf-taft-haarspray-volumen-halt-5"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008011/assets/pas/images/41ac9d5f-e495-409d-aa4b-b8957966553d/schwarzkopf-taft-haarspray-volumen-halt-5"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008018/assets/pas/images/cd810a8c-cd63-4f3d-a54e-91944d073826/schwarzkopf-taft-haarspray-volumen-halt-5"
+        },
+        {
+          "alt": "Haarspray VOLUMEN Halt 5 Schwarzkopf taft",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781008005/assets/pas/images/cf9450f2-2f5f-4818-b433-5272058b94f3/schwarzkopf-taft-haarspray-volumen-halt-5"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 198,
+        "ratingValue": 4.7121
+      },
+      "self": "/p/d/1581180/schwarzkopf-taft-haarspray-volumen-halt-5",
+      "title": {
+        "tileHeadline": "Haarspray VOLUMEN Halt 5, 250 ml",
+        "tileHeadlineLong": "Haarspray VOLUMEN Halt 5, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf taft",
+        "categories": [
+          "Haarspray & Haarlack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7121,
+        "ratingCount": 198
+      }
+    }
+  }
+]

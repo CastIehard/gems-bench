@@ -1,0 +1,2831 @@
+[
+  {
+    "gtin": 4260208910976,
+    "dan": 1605169,
+    "brandName": "Billy Tiger",
+    "title": "Kindersnack Mini Maisstangen mit Hirse Erdbeere ab 3 Jahren, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: Billy Tiger; Produktname: Kindersnack Mini Maisstangen mit Hirse Erdbeere ab 3 Jahren, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "Billy Tiger"
+      },
+      "dan": 1605169,
+      "gtin": 4260208910976,
+      "images": [
+        {
+          "alt": "Kindersnack Mini Maisstangen mit Hirse Erdbeere ab 3 Jahren Billy Tiger",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772579919/assets/pas/images/5fd27b82-5d53-46c7-b034-9c1b35965645/billy-tiger-kindersnack-mini-maisstangen-mit-hirse-erdbeere-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Mini Maisstangen mit Hirse Erdbeere ab 3 Jahren Billy Tiger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762209492/assets/pas/images/abfc9610-9e70-499d-a665-96c582affae0/billy-tiger-kindersnack-mini-maisstangen-mit-hirse-erdbeere-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 161,
+        "ratingValue": 4.472
+      },
+      "self": "/p/d/1605169/billy-tiger-kindersnack-mini-maisstangen-mit-hirse-erdbeere-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Mini Maisstangen mit Hirse Erdbeere..., 30 g",
+        "tileHeadlineLong": "Kindersnack Mini Maisstangen mit Hirse Erdbeere..., 30 g"
+      },
+      "trackingData": {
+        "brand": "Billy Tiger",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.472,
+        "ratingCount": 161
+      }
+    }
+  },
+  {
+    "gtin": 4058172893094,
+    "dan": 1601903,
+    "brandName": "dmBio",
+    "title": "Speisestärke, reine Maisstärke, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Speisestärke, reine Maisstärke, 250 g; Preis: 1,75 €; Grundpreis: 0,25 kg (7,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1601903,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172893094,
+      "images": [
+        {
+          "alt": "Speisestärke, reine Maisstärke dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325122/assets/pas/images/ae40e82e-ca11-4fe6-b193-d49e2c52ce98/dmbio-speisestaerke-reine-maisstaerke"
+        },
+        {
+          "alt": "Speisestärke, reine Maisstärke dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325115/assets/pas/images/9b93f817-47d2-49a7-9f06-bf24cf25fc22/dmbio-speisestaerke-reine-maisstaerke"
+        },
+        {
+          "alt": "Speisestärke, reine Maisstärke dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455823/assets/pas/images/11652ae1-7f61-4861-b160-5443c056878d/dmbio-speisestaerke-reine-maisstaerke"
+        },
+        {
+          "alt": "Speisestärke, reine Maisstärke dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761822019/assets/pas/images/05e302bd-fb92-4b73-9539-85b1cef84f61/dmbio-speisestaerke-reine-maisstaerke"
+        },
+        {
+          "alt": "Speisestärke, reine Maisstärke dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325106/assets/pas/images/bcdd3fda-5a21-4808-aee9-4f15b0e9a118/dmbio-speisestaerke-reine-maisstaerke"
+        },
+        {
+          "alt": "Speisestärke, reine Maisstärke dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779325110/assets/pas/images/d6880ce0-61ab-4fe5-8177-78e9cd7b2791/dmbio-speisestaerke-reine-maisstaerke"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (6,54 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (7,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.3553
+      },
+      "self": "/p/d/1601903/dmbio-speisestaerke-reine-maisstaerke",
+      "title": {
+        "tileHeadline": "Speisestärke, reine Maisstärke, 250 g",
+        "tileHeadlineLong": "Speisestärke, reine Maisstärke, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Backzutaten"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3553,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4260133232259,
+    "dan": 1577643,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12 Monaten, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Knusper-Stäbchen Mais & Käse, ab 12 Monaten, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1577643,
+      "gtin": 4260133232259,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952999/assets/pas/images/1e8d9be9-5e4c-4fcf-b60f-f345c6f19497/fruchtbar-kindersnack-knusper-staebchen-mais-und-kaese-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952998/assets/pas/images/528987a8-2d7e-46bc-9f37-f66ce116c494/fruchtbar-kindersnack-knusper-staebchen-mais-und-kaese-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 118,
+        "ratingValue": 4.8729
+      },
+      "self": "/p/d/1577643/fruchtbar-kindersnack-knusper-staebchen-mais-und-kaese-ab-12-monaten",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12..., 30 g",
+        "tileHeadlineLong": "Kindersnack Knusper-Stäbchen Mais & Käse, ab 12..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8729,
+        "ratingCount": 118
+      }
+    }
+  },
+  {
+    "gtin": 4260133232341,
+    "dan": 1647538,
+    "brandName": "FruchtBar",
+    "title": "Babysnack Knusper-Brezeln Mais & Karotte, ab 6 Monaten, 25 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Babysnack Knusper-Brezeln Mais & Karotte, ab 6 Monaten, 25 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,025 kg (46,00 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1647538,
+      "gtin": 4260133232341,
+      "images": [
+        {
+          "alt": "Babysnack Knusper-Brezeln Mais & Karotte, ab 6 Monaten  FruchtBar",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754926437/assets/pas/images/ee69016a-b038-4531-973a-e7d7fb229178/fruchtbar-babysnack-knusper-brezeln-mais-und-karotte-ab-6-monaten"
+        },
+        {
+          "alt": "Babysnack Knusper-Brezeln Mais & Karotte, ab 6 Monaten  FruchtBar",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754926437/assets/pas/images/e1f071b4-0696-4036-a347-4c471d3eebb5/fruchtbar-babysnack-knusper-brezeln-mais-und-karotte-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (42,99 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (46,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 162,
+        "ratingValue": 4.5988
+      },
+      "self": "/p/d/1647538/fruchtbar-babysnack-knusper-brezeln-mais-und-karotte-ab-6-monaten",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Babysnack Knusper-Brezeln Mais & Karotte, ab 6..., 25 g",
+        "tileHeadlineLong": "Babysnack Knusper-Brezeln Mais & Karotte, ab 6..., 25 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5988,
+        "ratingCount": 162
+      }
+    }
+  },
+  {
+    "gtin": 4260208910891,
+    "dan": 1612071,
+    "brandName": "Billy Tiger",
+    "title": "Kindersnack Maisstangen ab 1 Jahr, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Billy Tiger; Produktname: Kindersnack Maisstangen ab 1 Jahr, 50 g; Preis: 1,15 €; Grundpreis: 0,05 kg (23,00 € je 1 kg)",
+      "brand": {
+        "name": "Billy Tiger"
+      },
+      "dan": 1612071,
+      "gtin": 4260208910891,
+      "images": [
+        {
+          "alt": "Kindersnack Maisstangen ab 1 Jahr Billy Tiger",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761730155/assets/pas/images/901e73aa-4a81-45f1-be75-b67fcab1b82f/billy-tiger-kindersnack-maisstangen-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Maisstangen ab 1 Jahr Billy Tiger",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761730192/assets/pas/images/5bea9191-21ed-4221-96f6-ed226263bf68/billy-tiger-kindersnack-maisstangen-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Maisstangen ab 1 Jahr Billy Tiger",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1749593036/assets/pas/images/9e5c005d-f86c-46b7-a741-db2f16b1d713/billy-tiger-kindersnack-maisstangen-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (21,50 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (23,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 141,
+        "ratingValue": 4.7163
+      },
+      "self": "/p/d/1612071/billy-tiger-kindersnack-maisstangen-ab-1-jahr",
+      "title": {
+        "tileHeadline": "Kindersnack Maisstangen ab 1 Jahr, 50 g",
+        "tileHeadlineLong": "Kindersnack Maisstangen ab 1 Jahr, 50 g"
+      },
+      "trackingData": {
+        "brand": "Billy Tiger",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7163,
+        "ratingCount": 141
+      }
+    }
+  },
+  {
+    "gtin": 4260133236387,
+    "dan": 1534152,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Knusper-Schildkröten Mango Banane Mais, ab 12 Monaten, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Knusper-Schildkröten Mango Banane Mais,  ab 12 Monaten, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1534152,
+      "gtin": 4260133236387,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper-Schildkröten Mango Banane Mais,  ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754925567/assets/pas/images/8f203b77-4a90-4912-922d-6349aa5d7f70/fruchtbar-kindersnack-knusper-schildkroeten-mango-banane-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Knusper-Schildkröten Mango Banane Mais,  ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754925567/assets/pas/images/2edef95e-8278-4fe1-a952-897066280ffc/fruchtbar-kindersnack-knusper-schildkroeten-mango-banane-mais-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.7609
+      },
+      "self": "/p/d/1534152/fruchtbar-kindersnack-knusper-schildkroeten-mango-banane-mais-ab-12-monaten",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper-Schildkröten Mango Banane..., 30 g",
+        "tileHeadlineLong": "Kindersnack Knusper-Schildkröten Mango Banane..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7609,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4260133234550,
+    "dan": 1709778,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Knusper-Einhörner, Mais, Himbeere, Banane, Rote Bete, ab 12 Monaten, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Knusper-Einhörner, Mais, Himbeere, Banane, Rote Bete, ab 12 Monaten, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1709778,
+      "gtin": 4260133234550,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper-Einhörner, Mais, Himbeere, Banane, Rote Bete, ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754925188/assets/pas/images/282e317a-4d60-4f68-9830-9763153e1dd5/fruchtbar-kindersnack-knusper-einhoerner-mais-himbeere-banane-rote-bete-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Knusper-Einhörner, Mais, Himbeere, Banane, Rote Bete, ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754925192/assets/pas/images/8ee128a7-dffc-45ca-a59a-affa44f270f8/fruchtbar-kindersnack-knusper-einhoerner-mais-himbeere-banane-rote-bete-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.7667
+      },
+      "self": "/p/d/1709778/fruchtbar-kindersnack-knusper-einhoerner-mais-himbeere-banane-rote-bete-ab-12-monaten",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper-Einhörner, Mais, Himbeere,..., 30 g",
+        "tileHeadlineLong": "Kindersnack Knusper-Einhörner, Mais, Himbeere,..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7667,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4260133237360,
+    "dan": 3090324,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab 12 Monaten, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Pizza-Flieger Tomate, Käse & Mais ab 12 Monaten, 30 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 3090324,
+      "gtin": 4260133237360,
+      "images": [
+        {
+          "alt": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771309956/assets/pas/images/9810c3f3-14b3-44ac-9af3-48f40fed5542/fruchtbar-kindersnack-pizza-flieger-tomate-kaese-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771309935/assets/pas/images/d2bc42f7-ca04-4f06-865d-01a1effdc3bb/fruchtbar-kindersnack-pizza-flieger-tomate-kaese-und-mais-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.6111
+      },
+      "self": "/p/d/3090324/fruchtbar-kindersnack-pizza-flieger-tomate-kaese-und-mais-ab-12-monaten",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab..., 30 g",
+        "tileHeadlineLong": "Kindersnack Pizza-Flieger Tomate, Käse & Mais ab..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6111,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 4260133231351,
+    "dan": 1646162,
+    "brandName": "FruchtBar",
+    "title": "Babysnack Mehrkorn-Stangen mit Mais, Dinkel, Banane & Erdbeere ab 8 Monaten, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Babysnack Mehrkorn-Stangen mit Mais, Dinkel, Banane & Erdbeere ab 8 Monaten, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1646162,
+      "gtin": 4260133231351,
+      "images": [
+        {
+          "alt": "Babysnack Mehrkorn-Stangen mit Mais, Dinkel, Banane & Erdbeere ab 8 Monaten FruchtBar",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754929573/assets/pas/images/10f9590e-e259-4583-8367-d1d7f550437e/fruchtbar-babysnack-mehrkorn-stangen-mit-mais-dinkel-banane-und-erdbeere-ab-8-monaten"
+        },
+        {
+          "alt": "Babysnack Mehrkorn-Stangen mit Mais, Dinkel, Banane & Erdbeere ab 8 Monaten FruchtBar",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754929583/assets/pas/images/74648d54-724f-4480-9ede-9b45d5373fe8/fruchtbar-babysnack-mehrkorn-stangen-mit-mais-dinkel-banane-und-erdbeere-ab-8-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 105,
+        "ratingValue": 4.4762
+      },
+      "self": "/p/d/1646162/fruchtbar-babysnack-mehrkorn-stangen-mit-mais-dinkel-banane-und-erdbeere-ab-8-monaten",
+      "title": {
+        "tileHeadline": "Babysnack Mehrkorn-Stangen mit Mais, Dinkel,..., 30 g",
+        "tileHeadlineLong": "Babysnack Mehrkorn-Stangen mit Mais, Dinkel,..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4762,
+        "ratingCount": 105
+      }
+    }
+  },
+  {
+    "gtin": 4260133236127,
+    "dan": 1437185,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Knusper-Stangen Hirse, Erdbeere, Mais ab 1 Jahr, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Knusper-Stangen Hirse, Erdbeere, Mais ab 1 Jahr, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1437185,
+      "gtin": 4260133236127,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper-Stangen Hirse, Erdbeere, Mais ab 1 Jahr FruchtBar",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754953336/assets/pas/images/b1a869ee-0a61-44d9-a43c-488353e67fae/fruchtbar-kindersnack-knusper-stangen-hirse-erdbeere-mais-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Knusper-Stangen Hirse, Erdbeere, Mais ab 1 Jahr FruchtBar",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754953334/assets/pas/images/8d26d2de-359f-406e-b3c1-3decfd3acf00/fruchtbar-kindersnack-knusper-stangen-hirse-erdbeere-mais-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 91,
+        "ratingValue": 4.7033
+      },
+      "self": "/p/d/1437185/fruchtbar-kindersnack-knusper-stangen-hirse-erdbeere-mais-ab-1-jahr",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper-Stangen Hirse, Erdbeere, Mais..., 30 g",
+        "tileHeadlineLong": "Kindersnack Knusper-Stangen Hirse, Erdbeere, Mais..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7033,
+        "ratingCount": 91
+      }
+    }
+  },
+  {
+    "gtin": 8588004638327,
+    "dan": 1631562,
+    "brandName": "BioSaurus",
+    "title": "Kindersnack, gebackener Mais Ketchup, ab 3 Jahren, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: BioSaurus; Produktname: Kindersnack, gebackener Mais Ketchup, ab 3 Jahren, 50 g; Preis: 1,75 €; Grundpreis: 0,05 kg (35,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "BioSaurus"
+      },
+      "dan": 1631562,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8588004638327,
+      "images": [
+        {
+          "alt": "Kindersnack, gebackener Mais Ketchup, ab 3 Jahren  BioSaurus",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525615/assets/pas/images/8523981a-6f3a-41e3-b446-7f5116526039/biosaurus-kindersnack-gebackener-mais-ketchup-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 55,
+        "ratingValue": 4.7818
+      },
+      "self": "/p/d/1631562/biosaurus-kindersnack-gebackener-mais-ketchup-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack, gebackener Mais Ketchup, ab 3 Jahren, 50 g",
+        "tileHeadlineLong": "Kindersnack, gebackener Mais Ketchup, ab 3 Jahren, 50 g"
+      },
+      "trackingData": {
+        "brand": "BioSaurus",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7818,
+        "ratingCount": 55
+      }
+    }
+  },
+  {
+    "gtin": 4260133236325,
+    "dan": 1454079,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais & Reis ab 12 Monaten, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Knusper-Enten Karotte, Kürbis, Mais & Reis ab 12 Monaten, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1454079,
+      "gtin": 4260133236325,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais & Reis ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754926927/assets/pas/images/4be4db0e-96af-4909-914e-6f418c9d639f/fruchtbar-kindersnack-knusper-enten-karotte-kuerbis-mais-und-reis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais & Reis ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754926926/assets/pas/images/4fc820fa-5ab2-45b9-98b2-beb7b43039dc/fruchtbar-kindersnack-knusper-enten-karotte-kuerbis-mais-und-reis-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 91,
+        "ratingValue": 4.9121
+      },
+      "self": "/p/d/1454079/fruchtbar-kindersnack-knusper-enten-karotte-kuerbis-mais-und-reis-ab-12-monaten",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais &..., 30 g",
+        "tileHeadlineLong": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais &..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9121,
+        "ratingCount": 91
+      }
+    }
+  },
+  {
+    "gtin": 4260526595480,
+    "dan": 3133392,
+    "brandName": "pumpkin organics",
+    "title": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten, 100 g; Preis: 1,25 €; Grundpreis: 0,1 kg (12,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 3133392,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260526595480,
+      "images": [
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775089005/assets/pas/images/9adf1d35-a196-441c-8d37-6c776f1eb629/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775088987/assets/pas/images/3ee601e5-6ce0-452b-b1f4-9ccdc4ab43da/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324800/assets/pas/images/a4667b22-d209-406b-8cf8-8d7d7751f01a/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324784/assets/pas/images/5bcc2305-c973-4a56-8219-17709d4607c6/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324792/assets/pas/images/3816b1d3-2e41-4515-934b-e72180d690b3/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324821/assets/pas/images/36a4fc7a-e2fd-4216-8065-e17cb35af903/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324842/assets/pas/images/4e34a79e-740a-4928-a9b0-31c7e6a586d4/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324813/assets/pas/images/92a62f04-59b0-4f84-acba-7190332f49c8/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324828/assets/pas/images/ad66580a-567d-4e1c-a62a-33655b6c1edb/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324807/assets/pas/images/c1e7e556-46ef-475b-b753-69b506839f9a/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab 6 Monaten pumpkin organics",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773324835/assets/pas/images/2f724472-4f3a-48e9-8629-54cb678fb8fd/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (11,68 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (12,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 11,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3133392/pumpkin-organics-quetschie-karotte-kuerbis-suesskartoffel-und-mais-ab-6-monaten",
+      "title": {
+        "tileHeadline": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab..., 100 g",
+        "tileHeadlineLong": "Quetschie Karotte, Kürbis, Süßkartoffel & Mais ab..., 100 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 11
+      }
+    }
+  },
+  {
+    "gtin": 4260208910983,
+    "dan": 1605182,
+    "brandName": "Billy Tiger",
+    "title": "Kindersnack Mini Maisstangen mit Hirse Banane ab 3 Jahren, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: Billy Tiger; Produktname: Kindersnack Mini Maisstangen mit Hirse Banane ab 3 Jahren, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "Billy Tiger"
+      },
+      "dan": 1605182,
+      "gtin": 4260208910983,
+      "images": [
+        {
+          "alt": "Kindersnack Mini Maisstangen mit Hirse Banane ab 3 Jahren Billy Tiger",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764378210/assets/pas/images/d3bacf0a-dec9-42d8-a95e-76a4b51db9e3/billy-tiger-kindersnack-mini-maisstangen-mit-hirse-banane-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Mini Maisstangen mit Hirse Banane ab 3 Jahren Billy Tiger",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772580470/assets/pas/images/a962921e-46bf-455f-b5e9-437965b1ab3c/billy-tiger-kindersnack-mini-maisstangen-mit-hirse-banane-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Mini Maisstangen mit Hirse Banane ab 3 Jahren Billy Tiger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762905530/assets/pas/images/7a106954-da61-4a02-8ada-f802b0d38bce/billy-tiger-kindersnack-mini-maisstangen-mit-hirse-banane-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 117,
+        "ratingValue": 4.359
+      },
+      "self": "/p/d/1605182/billy-tiger-kindersnack-mini-maisstangen-mit-hirse-banane-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Mini Maisstangen mit Hirse Banane ab..., 30 g",
+        "tileHeadlineLong": "Kindersnack Mini Maisstangen mit Hirse Banane ab..., 30 g"
+      },
+      "trackingData": {
+        "brand": "Billy Tiger",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.359,
+        "ratingCount": 117
+      }
+    }
+  },
+  {
+    "gtin": 4260526594605,
+    "dan": 1711654,
+    "brandName": "pumpkin organics",
+    "title": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten, 20 g; Preis: 0,85 €; Grundpreis: 0,02 kg (42,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 1711654,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260526594605,
+      "images": [
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493459/assets/pas/images/3bdf858c-eceb-4b1a-b532-14ac9178b5aa/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493461/assets/pas/images/5d39e1f0-17da-4528-97d7-6f6a56fac455/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493518/assets/pas/images/98d5c972-8d8f-47c5-8b4f-a37291d09b91/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493521/assets/pas/images/bda86f43-5b95-4870-8e17-1f0b1dc95c03/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493108/assets/pas/images/c40f8f05-c5f6-4202-816d-dc214ad53648/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493441/assets/pas/images/1116b7b3-449d-467a-a19b-5cb625ea4b96/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493441/assets/pas/images/dbfde7c6-b4af-4da5-ae3c-9e46d6180484/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493459/assets/pas/images/7033dcd1-59cb-48a9-b363-ada4c43e00a8/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493112/assets/pas/images/9276b4fa-926a-4d90-a53c-b84f7e7b4358/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab 12. Monaten pumpkin organics",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493524/assets/pas/images/e87186cc-2e24-46a1-b036-778a4d27335a/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (39,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (42,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 36,
+        "ratingValue": 4.6944
+      },
+      "self": "/p/d/1711654/pumpkin-organics-kindersnack-gemuese-traktorraeder-erbsen-und-mais-ab-12-monaten",
+      "title": {
+        "tileHeadline": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab..., 20 g",
+        "tileHeadlineLong": "Kindersnack Gemüse Traktorräder Erbsen & Mais, ab..., 20 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6944,
+        "ratingCount": 36
+      }
+    }
+  },
+  {
+    "gtin": 8588004638334,
+    "dan": 1631528,
+    "brandName": "BioSaurus",
+    "title": "Kindersnack, gebackener Mais Sea Salt, ab 3 Jahren, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: BioSaurus; Produktname: Kindersnack, gebackener Mais Sea Salt, ab 3 Jahren, 50 g; Preis: 1,75 €; Grundpreis: 0,05 kg (35,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "BioSaurus"
+      },
+      "dan": 1631528,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8588004638334,
+      "images": [
+        {
+          "alt": "Kindersnack, gebackener Mais Sea Salt, ab 3 Jahren  BioSaurus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747526230/assets/pas/images/804f914a-ce0d-4a6c-8eab-02a21c7d5134/biosaurus-kindersnack-gebackener-mais-sea-salt-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.8382
+      },
+      "self": "/p/d/1631528/biosaurus-kindersnack-gebackener-mais-sea-salt-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack, gebackener Mais Sea Salt, ab 3 Jahren, 50 g",
+        "tileHeadlineLong": "Kindersnack, gebackener Mais Sea Salt, ab 3 Jahren, 50 g"
+      },
+      "trackingData": {
+        "brand": "BioSaurus",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8382,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4260526594667,
+    "dan": 1711855,
+    "brandName": "pumpkin organics",
+    "title": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten, 20 g; Preis: 0,85 €; Grundpreis: 0,02 kg (42,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 1711855,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260526594667,
+      "images": [
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493510/assets/pas/images/901ab0af-dfcf-4077-a28b-81dfd08797ba/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493464/assets/pas/images/f76ffcac-1762-4a83-ab59-188f625caa3e/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493439/assets/pas/images/62e2cdd1-4592-4bc5-b87d-fd492f390016/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493510/assets/pas/images/35815eb3-7ea4-4c1a-b213-26afecb202d9/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493447/assets/pas/images/90ed7dad-c499-427f-b1fb-38cc31b85861/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493124/assets/pas/images/7a8869f8-cb98-4734-9fe0-a0b5647c6189/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493525/assets/pas/images/05fe5f3b-daf5-46fd-abad-8c7c7961ca19/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493463/assets/pas/images/d059738a-8037-416a-bca5-9293d143cf48/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493465/assets/pas/images/ae393442-b06f-4ff1-a4fd-34a2cc033de6/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Kichererbsen Sterne mit Mais & Kürbis, ab 12 Monaten pumpkin organics",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493529/assets/pas/images/bbc74b34-2b9e-4ee4-ad28-930332b25de7/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (39,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (42,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 40,
+        "ratingValue": 4.825
+      },
+      "self": "/p/d/1711855/pumpkin-organics-kindersnack-kichererbsen-sterne-mit-mais-und-kuerbis-ab-12-monaten",
+      "title": {
+        "tileHeadline": "Kindersnack Kichererbsen Sterne mit Mais &..., 20 g",
+        "tileHeadlineLong": "Kindersnack Kichererbsen Sterne mit Mais &..., 20 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.825,
+        "ratingCount": 40
+      }
+    }
+  },
+  {
+    "gtin": 4062300266230,
+    "dan": 1005936,
+    "brandName": "HiPP",
+    "title": "Menü Mais mit Kartoffelpüree & Pute ab dem 5.Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Menü Mais mit Kartoffelpüree & Pute ab dem 5.Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,75 €; Grundpreis: 0,19 kg (9,21 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1005936,
+      "gtin": 4062300266230,
+      "images": [
+        {
+          "alt": "Menü Mais mit Kartoffelpüree & Pute ab dem 5.Monat HiPP",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473736/assets/pas/images/1205e1a2-581b-41d8-b9c0-8935109dc409/hipp-menue-mais-mit-kartoffelpueree-und-pute-ab-dem-5-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (8,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (9,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 115,
+        "ratingValue": 4.7391
+      },
+      "self": "/p/d/1005936/hipp-menue-mais-mit-kartoffelpueree-und-pute-ab-dem-5-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Mais mit Kartoffelpüree & Pute ab dem 5.Monat, 190 g",
+        "tileHeadlineLong": "Menü Mais mit Kartoffelpüree & Pute ab dem 5.Monat, 190 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7391,
+        "ratingCount": 115
+      }
+    }
+  },
+  {
+    "gtin": 4260208910815,
+    "dan": 1493356,
+    "brandName": "Billy Tiger",
+    "title": "Kindersnack Maisringe mit Hirse, Banane und Himbeere, ab 8 Monaten, 25 g",
+    "tileData": {
+      "a11yLabel": "Marke: Billy Tiger; Produktname: Kindersnack Maisringe mit Hirse, Banane und Himbeere, ab 8 Monaten, 25 g; Preis: 0,95 €; Grundpreis: 0,025 kg (38,00 € je 1 kg)",
+      "brand": {
+        "name": "Billy Tiger"
+      },
+      "dan": 1493356,
+      "gtin": 4260208910815,
+      "images": [
+        {
+          "alt": "Kindersnack Maisringe mit Hirse, Banane und Himbeere, ab 8 Monaten  Billy Tiger",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762469425/assets/pas/images/49410991-0c9e-4722-a104-006e3999929b/billy-tiger-kindersnack-maisringe-mit-hirse-banane-und-himbeere-ab-8-monaten"
+        },
+        {
+          "alt": "Kindersnack Maisringe mit Hirse, Banane und Himbeere, ab 8 Monaten  Billy Tiger",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762469416/assets/pas/images/8219fa52-d5bd-4ecd-8636-d575ea2121c4/billy-tiger-kindersnack-maisringe-mit-hirse-banane-und-himbeere-ab-8-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (35,51 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (38,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.9467
+      },
+      "self": "/p/d/1493356/billy-tiger-kindersnack-maisringe-mit-hirse-banane-und-himbeere-ab-8-monaten",
+      "title": {
+        "tileHeadline": "Kindersnack Maisringe mit Hirse, Banane und..., 25 g",
+        "tileHeadlineLong": "Kindersnack Maisringe mit Hirse, Banane und..., 25 g"
+      },
+      "trackingData": {
+        "brand": "Billy Tiger",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9467,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 8588004638310,
+    "dan": 1631527,
+    "brandName": "BioSaurus",
+    "title": "Kindersnack, gebackener Mais Cheese, ab 3 Jahren, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: BioSaurus; Produktname: Kindersnack, gebackener Mais Cheese, ab 3 Jahren, 50 g; Preis: 1,75 €; Grundpreis: 0,05 kg (35,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "BioSaurus"
+      },
+      "dan": 1631527,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8588004638310,
+      "images": [
+        {
+          "alt": "Kindersnack, gebackener Mais Cheese, ab 3 Jahren  BioSaurus",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747526176/assets/pas/images/ba9ac71b-4f0c-459d-92be-663582be0dfe/biosaurus-kindersnack-gebackener-mais-cheese-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.8103
+      },
+      "self": "/p/d/1631527/biosaurus-kindersnack-gebackener-mais-cheese-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack, gebackener Mais Cheese, ab 3 Jahren, 50 g",
+        "tileHeadlineLong": "Kindersnack, gebackener Mais Cheese, ab 3 Jahren, 50 g"
+      },
+      "trackingData": {
+        "brand": "BioSaurus",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8103,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4062300260795,
+    "dan": 1147298,
+    "brandName": "HiPP",
+    "title": "Menü Karotten mit Mais & Kalb ab dem 6. Monat, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Menü Karotten mit Mais & Kalb ab dem 6. Monat, 190 g; Rechtliche Kategorie: Beikost; Preis: 1,75 €; Grundpreis: 0,19 kg (9,21 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1147298,
+      "gtin": 4062300260795,
+      "images": [
+        {
+          "alt": "Menü Karotten mit Mais & Kalb ab dem 6. Monat HiPP",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473545/assets/pas/images/0f39017e-9fb8-4046-9633-030dddfe9291/hipp-menue-karotten-mit-mais-und-kalb-ab-dem-6-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (8,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (9,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 4.7938
+      },
+      "self": "/p/d/1147298/hipp-menue-karotten-mit-mais-und-kalb-ab-dem-6-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Karotten mit Mais & Kalb ab dem 6. Monat, 190 g",
+        "tileHeadlineLong": "Menü Karotten mit Mais & Kalb ab dem 6. Monat, 190 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7938,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 4066447767377,
+    "dan": 1693404,
+    "brandName": "dmBio",
+    "title": "Getreide, Popcornmais, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Getreide, Popcornmais, 500 g; Preis: 1,85 €; Grundpreis: 0,5 kg (3,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1693404,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447767377,
+      "images": [
+        {
+          "alt": "Getreide, Popcornmais dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768442313/assets/pas/images/498d146c-ab7e-470e-9028-d7206fcc467f/dmbio-getreide-popcornmais"
+        },
+        {
+          "alt": "Getreide, Popcornmais dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768442305/assets/pas/images/3876c180-7761-4741-9926-d7681230b9f9/dmbio-getreide-popcornmais"
+        },
+        {
+          "alt": "Getreide, Popcornmais dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768442302/assets/pas/images/fb3a5789-9d39-4d05-a601-113b0a676cb6/dmbio-getreide-popcornmais"
+        },
+        {
+          "alt": "Getreide, Popcornmais dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768442309/assets/pas/images/a0ea95ac-26ce-4535-92f2-3418a5b78b2c/dmbio-getreide-popcornmais"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,46 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 121,
+        "ratingValue": 3.8512
+      },
+      "self": "/p/d/1693404/dmbio-getreide-popcornmais",
+      "title": {
+        "tileHeadline": "Getreide, Popcornmais, 500 g",
+        "tileHeadlineLong": "Getreide, Popcornmais, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Getreide"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8512,
+        "ratingCount": 121
+      }
+    }
+  },
+  {
+    "gtin": 4066447562682,
+    "dan": 1454045,
+    "brandName": "dmBio",
+    "title": "Maiswaffeln, gesalzen, 110 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Maiswaffeln, gesalzen, 110 g; Preis: 0,65 €; Grundpreis: 0,11 kg (5,91 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454045,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447562682,
+      "images": [
+        {
+          "alt": "Maiswaffeln, gesalzen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483067/assets/pas/images/6dbce9f3-dab2-4b36-9d47-aa545391f800/dmbio-maiswaffeln-gesalzen"
+        },
+        {
+          "alt": "Maiswaffeln, gesalzen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483196/assets/pas/images/70a25c71-6a8d-46b1-b281-9cd79a56a711/dmbio-maiswaffeln-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,61 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (5,52 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (5,91 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 128,
+        "ratingValue": 4.5859
+      },
+      "self": "/p/d/1454045/dmbio-maiswaffeln-gesalzen",
+      "title": {
+        "tileHeadline": "Maiswaffeln, gesalzen, 110 g",
+        "tileHeadlineLong": "Maiswaffeln, gesalzen, 110 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5859,
+        "ratingCount": 128
+      }
+    }
+  },
+  {
+    "gtin": 4052400017016,
+    "dan": 1540408,
+    "brandName": "Simplicol",
+    "title": "Textilfarbe expert Mais-Gelb, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Simplicol; Produktname: Textilfarbe expert Mais-Gelb, 150 g; Preis: 4,45 €; Grundpreis: 0,15 kg (29,67 € je 1 kg); Nur Online Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Simplicol"
+      },
+      "dan": 1540408,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4052400017016,
+      "images": [
+        {
+          "alt": "Textilfarbe expert Mais-Gelb Simplicol",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447644/assets/pas/images/df5d1f5e-d52f-408a-9f67-389ada3e65b2/simplicol-textilfarbe-expert-mais-gelb"
+        },
+        {
+          "alt": "Textilfarbe expert Mais-Gelb Simplicol",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447856/assets/pas/images/b978c4d9-6b4e-4ff5-adaa-1596c7d5f6db/simplicol-textilfarbe-expert-mais-gelb"
+        },
+        {
+          "alt": "Textilfarbe expert Mais-Gelb Simplicol",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747447656/assets/pas/images/eeb9fbb6-8008-48ef-b3dd-475484de4ea7/simplicol-textilfarbe-expert-mais-gelb"
+        },
+        {
+          "alt": "Textilfarbe expert Mais-Gelb Simplicol",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769555362/assets/pas/images/158e72ff-f5d4-4b55-ae27-57a3ecdec0f0/simplicol-textilfarbe-expert-mais-gelb"
+        },
+        {
+          "alt": "Textilfarbe expert Mais-Gelb Simplicol",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782165993/assets/pas/images/b3c8c5ca-5c26-4597-89b5-f364370a8e24/simplicol-textilfarbe-expert-mais-gelb"
+        },
+        {
+          "alt": "Textilfarbe expert Mais-Gelb Simplicol",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782166004/assets/pas/images/6bdf097f-8c51-4259-a466-7170242fe291/simplicol-textilfarbe-expert-mais-gelb"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,74 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (24,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (29,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 42,
+        "ratingValue": 4.6429
+      },
+      "self": "/p/d/1540408/simplicol-textilfarbe-expert-mais-gelb",
+      "title": {
+        "tileHeadline": "Textilfarbe expert Mais-Gelb, 150 g",
+        "tileHeadlineLong": "Textilfarbe expert Mais-Gelb, 150 g"
+      },
+      "trackingData": {
+        "brand": "Simplicol",
+        "categories": [
+          "Textilfarbe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+6 weitere Varianten",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 1540408,
+            "gtin": 4052400017016,
+            "hex": "#f68c12",
+            "href": "/p/d/1540408/simplicol-textilfarbe-expert-mais-gelb",
+            "isSelected": true,
+            "tooltip": "Textilfarbe expert Mais-Gelb"
+          },
+          {
+            "dan": 1540416,
+            "gtin": 4052400017115,
+            "hex": "#00a1c3",
+            "href": "/p/d/1540416/simplicol-textilfarbe-expert-suedsee-tuerkis",
+            "isSelected": false,
+            "tooltip": "Textilfarbe expert Südsee- Türkis"
+          },
+          {
+            "dan": 1908724,
+            "gtin": 4052400017139,
+            "hex": "#2f4740",
+            "href": "/p/d/1908724/simplicol-expert-efeu-gruen",
+            "isSelected": false,
+            "tooltip": "expert Efeu-Grün"
+          },
+          {
+            "dan": 1488066,
+            "gtin": 4052400017085,
+            "hex": "#30374d",
+            "href": "/p/d/1488066/simplicol-textilfarbe-expert-marine-blau",
+            "isSelected": false,
+            "tooltip": "Textilfarbe expert Marine Blau"
+          },
+          {
+            "dan": 1488072,
+            "gtin": 4052400017184,
+            "hex": "#44474e",
+            "href": "/p/d/1488072/simplicol-textilfarbe-expert-mitternacht-schwarz",
+            "isSelected": false,
+            "tooltip": "Textilfarbe expert Mitternacht- Schwarz"
+          },
+          {
+            "dan": 1557251,
+            "gtin": 4052400017061,
+            "hex": "#873556",
+            "href": "/p/d/1557251/simplicol-textilfarbe-expert-brombeer-rot",
+            "isSelected": false,
+            "tooltip": "Textilfarbe expert Brombeer-Rot"
+          },
+          {
+            "dan": 1610262,
+            "gtin": 4052400017030,
+            "hex": "#c13a45",
+            "href": "/p/d/1610262/simplicol-textilfarbe-mohn-rot",
+            "isSelected": false,
+            "tooltip": "Textilfarbe Mohn-Rot"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6429,
+        "ratingCount": 42
+      }
+    }
+  },
+  {
+    "gtin": 4260133236400,
+    "dan": 1461447,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Knusper-Löwen Süßkartoffel Apfel Kokos Mais ab 1 Jahr, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Knusper-Löwen Süßkartoffel Apfel Kokos Mais ab 1 Jahr, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1461447,
+      "gtin": 4260133236400,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper-Löwen Süßkartoffel Apfel Kokos Mais ab 1 Jahr FruchtBar",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754925710/assets/pas/images/7d03fc95-0c48-45cd-8ce4-173efdb31d85/fruchtbar-kindersnack-knusper-loewen-suesskartoffel-apfel-kokos-mais-ab-1-jahr"
+        },
+        {
+          "alt": "Kindersnack Knusper-Löwen Süßkartoffel Apfel Kokos Mais ab 1 Jahr FruchtBar",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754925710/assets/pas/images/219c29ad-3c56-42fe-870e-1bdf563c0af5/fruchtbar-kindersnack-knusper-loewen-suesskartoffel-apfel-kokos-mais-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.8795
+      },
+      "self": "/p/d/1461447/fruchtbar-kindersnack-knusper-loewen-suesskartoffel-apfel-kokos-mais-ab-1-jahr",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper-Löwen Süßkartoffel Apfel..., 30 g",
+        "tileHeadlineLong": "Kindersnack Knusper-Löwen Süßkartoffel Apfel..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8795,
+        "ratingCount": 83
+      }
+    }
+  },
+  {
+    "gtin": 4070765042917,
+    "dan": 1588131,
+    "brandName": "dmBio",
+    "title": "Sonnenmais, 230 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Sonnenmais, 230 g; Preis: 0,95 €; Grundpreis: 0,23 kg (4,13 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1588131,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765042917,
+      "images": [
+        {
+          "alt": "Sonnenmais dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781997339/assets/pas/images/7f8322e2-f6e0-41e6-a4ca-4bc52d608c0b/dmbio-sonnenmais"
+        },
+        {
+          "alt": "Sonnenmais dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781997345/assets/pas/images/7c9729fa-ba28-48f1-9731-455968c65cdd/dmbio-sonnenmais"
+        },
+        {
+          "alt": "Sonnenmais dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781997352/assets/pas/images/8f7d43b7-f408-4e40-9cf4-506efaf6c955/dmbio-sonnenmais"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,23 kg (3,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,23 kg (4,13 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 140,
+        "ratingValue": 4.6
+      },
+      "self": "/p/d/1588131/dmbio-sonnenmais",
+      "title": {
+        "tileHeadline": "Sonnenmais, 230 g",
+        "tileHeadlineLong": "Sonnenmais, 230 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Konserven"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6028,
+        "ratingCount": 141
+      }
+    }
+  },
+  {
+    "gtin": 4062300463516,
+    "dan": 3064225,
+    "brandName": "HiPP",
+    "title": "Babysnack Maiswaffeln Mango ab dem 8. Monat, 23 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Babysnack Maiswaffeln Mango ab dem 8. Monat, 23 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,023 kg (50,00 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 3064225,
+      "gtin": 4062300463516,
+      "images": [
+        {
+          "alt": "Babysnack Maiswaffeln Mango ab dem 8. Monat HiPP",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773181887/assets/pas/images/961d1141-7f59-4647-ac25-bc4ea6cd4eb5/hipp-babysnack-maiswaffeln-mango-ab-dem-8-monat"
+        },
+        {
+          "alt": "Babysnack Maiswaffeln Mango ab dem 8. Monat HiPP",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763247603/assets/pas/images/c81c1d93-ca16-48f8-b6db-6624c06ccaa1/hipp-babysnack-maiswaffeln-mango-ab-dem-8-monat"
+        },
+        {
+          "alt": "Babysnack Maiswaffeln Mango ab dem 8. Monat HiPP",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762123289/assets/pas/images/263df9cc-dd5f-4b57-a425-960736c0752e/hipp-babysnack-maiswaffeln-mango-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,023 kg (46,73 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,023 kg (50,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.7368
+      },
+      "self": "/p/d/3064225/hipp-babysnack-maiswaffeln-mango-ab-dem-8-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Babysnack Maiswaffeln Mango ab dem 8. Monat, 23 g",
+        "tileHeadlineLong": "Babysnack Maiswaffeln Mango ab dem 8. Monat, 23 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7368,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4016249177720,
+    "dan": 2974354,
+    "brandName": "ALLOS",
+    "title": "Amaranth Maiswaffeln Rosmarin & Meersalz, 115 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Amaranth Maiswaffeln Rosmarin & Meersalz, 115 g; Preis: 1,85 €; Grundpreis: 0,115 kg (16,09 € je 1 kg)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 2974354,
+      "gtin": 4016249177720,
+      "images": [
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751693025/assets/pas/images/00ce7d28-2caa-4968-b3da-528a27cf1e3f/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959467/assets/pas/images/84879c7f-acf6-4734-9947-3e9bf135d4e3/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764113882/assets/pas/images/e8846a75-f1a2-4ceb-a956-b20b1c801319/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959495/assets/pas/images/db43c794-3c39-43c9-a971-060c6ca129c8/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751693090/assets/pas/images/bed044ac-ee38-4d59-8f70-1d7f6019d0ea/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768437479/assets/pas/images/dd5e0c62-24af-406a-a8e5-12a5b0967573/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751693075/assets/pas/images/2da38ace-7e83-406e-ab62-fa1014f60bd4/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959482/assets/pas/images/39125d71-f6c3-4571-9cee-5e94e9d3bdb1/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959452/assets/pas/images/fdb515b9-4a3d-4949-9641-ad9b7e2e596c/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        },
+        {
+          "alt": "Amaranth Maiswaffeln Rosmarin & Meersalz ALLOS",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768959437/assets/pas/images/9b089911-80dc-4d3a-a216-e263b2044efd/allos-amaranth-maiswaffeln-rosmarin-und-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 kg (15,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,115 kg (16,09 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.2586
+      },
+      "self": "/p/d/2974354/allos-amaranth-maiswaffeln-rosmarin-und-meersalz",
+      "title": {
+        "tileHeadline": "Amaranth Maiswaffeln Rosmarin & Meersalz, 115 g",
+        "tileHeadlineLong": "Amaranth Maiswaffeln Rosmarin & Meersalz, 115 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2586,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 3444570201134,
+    "dan": 1308021,
+    "brandName": "LoveMade Organics",
+    "title": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: LoveMade Organics; Produktname: Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten, 100 g; Preis: 1,10 €; Grundpreis: 0,1 kg (11,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "LoveMade Organics"
+      },
+      "dan": 1308021,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 3444570201134,
+      "images": [
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411451/assets/pas/images/da2e0dfe-47b6-43dd-a4f7-2fbb3db42ec1/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411442/assets/pas/images/94d704c3-a62f-4155-a866-cdb1ef0f1758/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001927/assets/pas/images/82b735d0-ebff-452c-86d1-4d493c1691b2/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001942/assets/pas/images/c48bccdb-b444-4ae5-a82c-21c600cdc2fd/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001973/assets/pas/images/3edc3cde-e8fe-4acb-9691-da94cdf221c6/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001867/assets/pas/images/57bd9086-c117-470c-b8c9-07c0781a383f/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001895/assets/pas/images/abbb376c-5bfa-47a3-8736-3520faffae6e/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001913/assets/pas/images/d3d2a872-4717-4f87-a1aa-f0c1c93a0938/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001956/assets/pas/images/f62e010d-105c-49b9-b3e0-c65f65526331/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754001995/assets/pas/images/7cda81a0-fe50-479d-a2bc-7ce47be1780f/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        },
+        {
+          "alt": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6 Monaten LoveMade Organics",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754002015/assets/pas/images/2e11bbef-c101-4124-af25-bee1b2329b37/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,03 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (10,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (11,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 37,
+        "ratingValue": 4.0541
+      },
+      "self": "/p/d/1308021/lovemade-organics-quetschie-karotte-mais-mango-und-quinoa-ab-6-monaten",
+      "title": {
+        "tileHeadline": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6..., 100 g",
+        "tileHeadlineLong": "Quetschie Karotte, Mais, Mango und Quinoa, ab 6..., 100 g"
+      },
+      "trackingData": {
+        "brand": "LoveMade Organics",
+        "categories": [
+          "Quetschies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.1
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0541,
+        "ratingCount": 37
+      }
+    }
+  },
+  {
+    "gtin": 4056631004272,
+    "dan": 3118220,
+    "brandName": "Milupa",
+    "title": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten, 20 g",
+    "tileData": {
+      "dan": 3118220,
+      "gtin": 4056631004272,
+      "self": "/p/d/3118220/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+      "brand": {
+        "name": "Milupa"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,02 kg (57,50 € je 1 kg)"
+        ]
+      },
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten, 20 g",
+        "tileHeadlineLong": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten, 20 g"
+      },
+      "images": [
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765526004/assets/pas/images/82dfa776-26b7-4af1-8ec9-ec17ecf8b623/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F8F9"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765525991/assets/pas/images/1bc385c3-ac0b-407a-8c06-b36ff34b8161/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F6F1"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770763757/assets/pas/images/a228e5c6-d988-428d-b288-4e4f7ce2c96b/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F7F9"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770763737/assets/pas/images/be37b55e-3ea1-42f9-a2f6-4cebf1705f6b/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770763743/assets/pas/images/3bc6b16b-8613-48e8-a416-7f66df2a0dce/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F6F1"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771283797/assets/pas/images/ee53b6fc-8569-44b5-9023-470dd11e3e4b/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F5F1"
+        },
+        {
+          "alt": "Babysnack Knusperräder Linse-Mais ab 10+ Monaten Milupa",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770763750/assets/pas/images/7fea0475-0d88-49c0-af53-a44de77c3fcc/milupa-babysnack-knusperraeder-linse-mais-ab-10-monaten",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F9F9"
+        }
+      ],
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 5.0
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,02 kg (53,74 € je 1 kg)"
+        ]
+      },
+      "a11yLabel": "Marke: Milupa; Produktname: Babysnack Knusperräder Linse-Mais ab 10+ Monaten, 20 g; Rechtliche Kategorie: Beikost; Preis: 1,15 €; Grundpreis: 0,02 kg (57,50 € je 1 kg); Nur Online Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "Milupa",
+        "price": 1.15,
+        "currency": "EUR",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,2375 @@
+[
+  {
+    "gtin": 4260137743836,
+    "dan": 1446851,
+    "brandName": "Frusano",
+    "title": "Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Frusano; Produktname: Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack, 50 g; Preis: 1,55 €; Grundpreis: 0,05 kg (31,00 € je 1 kg)",
+      "brand": {
+        "name": "Frusano"
+      },
+      "dan": 1446851,
+      "gtin": 4260137743836,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack Frusano",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491710/assets/pas/images/344697f5-c019-4469-b4a5-1bb21e9d8578/frusano-fruchtgummi-janosch-baerenfreunde-mit-fruchtgeschmack"
+        },
+        {
+          "alt": "Fruchtgummi, Janosch Bärenfreunde mit Fruchtgeschmack Frusano",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491700/assets/pas/images/e87fab53-9b74-43d7-a373-1b08a4dbe255/frusano-fruchtgummi-janosch-baerenfreunde-mit-fruchtgeschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (28,97 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (31,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.3067
+      },
+      "self": "/p/d/1446851/frusano-fruchtgummi-janosch-baerenfreunde-mit-fruchtgeschmack",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Janosch Bärenfreunde mit..., 50 g",
+        "tileHeadlineLong": "Fruchtgummi, Janosch Bärenfreunde mit..., 50 g"
+      },
+      "trackingData": {
+        "brand": "Frusano",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3067,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 4009077081208,
+    "dan": 1321273,
+    "brandName": "Bärengarten",
+    "title": "Fruchtgummi, Joghurt-Bären, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bärengarten; Produktname: Fruchtgummi, Joghurt-Bären, 125 g; Preis: 1,95 €; Grundpreis: 0,125 kg (15,60 € je 1 kg)",
+      "brand": {
+        "name": "Bärengarten"
+      },
+      "dan": 1321273,
+      "gtin": 4009077081208,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Joghurt-Bären Bärengarten",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435929/assets/pas/images/723a2156-dfa3-433a-886b-7972fe21a8e4/baerengarten-fruchtgummi-joghurt-baeren"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (14,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (15,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 99,
+        "ratingValue": 4.4848
+      },
+      "self": "/p/d/1321273/baerengarten-fruchtgummi-joghurt-baeren",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Joghurt-Bären, 125 g",
+        "tileHeadlineLong": "Fruchtgummi, Joghurt-Bären, 125 g"
+      },
+      "trackingData": {
+        "brand": "Bärengarten",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4848,
+        "ratingCount": 99
+      }
+    }
+  },
+  {
+    "gtin": 4260278363108,
+    "dan": 1450763,
+    "brandName": "Beauty Sweeties",
+    "title": "Fruchtgummi, saure Katzen, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Beauty Sweeties; Produktname: Fruchtgummi, saure Katzen, 125 g; Preis: 1,95 €; Grundpreis: 0,125 kg (15,60 € je 1 kg)",
+      "brand": {
+        "name": "Beauty Sweeties"
+      },
+      "dan": 1450763,
+      "gtin": 4260278363108,
+      "images": [
+        {
+          "alt": "Fruchtgummi, saure Katzen Beauty Sweeties",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492057/assets/pas/images/46dd4ca6-8b63-47e1-ac6c-6dc8d11c4315/beauty-sweeties-fruchtgummi-saure-katzen"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (14,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (15,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 120,
+        "ratingValue": 4.8083
+      },
+      "self": "/p/d/1450763/beauty-sweeties-fruchtgummi-saure-katzen",
+      "title": {
+        "tileHeadline": "Fruchtgummi, saure Katzen, 125 g",
+        "tileHeadlineLong": "Fruchtgummi, saure Katzen, 125 g"
+      },
+      "trackingData": {
+        "brand": "Beauty Sweeties",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8083,
+        "ratingCount": 120
+      }
+    }
+  },
+  {
+    "gtin": 4260278368110,
+    "dan": 2621064,
+    "brandName": "Beauty Sweeties",
+    "title": "Fruchtgummi, Matcha-Sonnen, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Beauty Sweeties; Produktname: Fruchtgummi, Matcha-Sonnen, 125 g; Preis: 1,95 €; Grundpreis: 0,125 kg (15,60 € je 1 kg)",
+      "brand": {
+        "name": "Beauty Sweeties"
+      },
+      "dan": 2621064,
+      "gtin": 4260278368110,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Matcha-Sonnen Beauty Sweeties",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765541482/assets/pas/images/0195a4e1-2f1b-4356-9e2f-5173962df5d7/beauty-sweeties-fruchtgummi-matcha-sonnen"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (14,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (15,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 50,
+        "ratingValue": 4.4
+      },
+      "self": "/p/d/2621064/beauty-sweeties-fruchtgummi-matcha-sonnen",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Matcha-Sonnen, 125 g",
+        "tileHeadlineLong": "Fruchtgummi, Matcha-Sonnen, 125 g"
+      },
+      "trackingData": {
+        "brand": "Beauty Sweeties",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4,
+        "ratingCount": 50
+      }
+    }
+  },
+  {
+    "gtin": 4262456580352,
+    "dan": 3113043,
+    "brandName": "nutriluv",
+    "title": "Fruchtgummi Crazy Kitties, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: nutriluv; Produktname: Fruchtgummi Crazy Kitties, 50 g; Preis: 1,75 €; Grundpreis: 0,05 kg (35,00 € je 1 kg)",
+      "brand": {
+        "name": "nutriluv"
+      },
+      "dan": 3113043,
+      "gtin": 4262456580352,
+      "images": [
+        {
+          "alt": "Fruchtgummi Crazy Kitties nutriluv",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772240799/assets/pas/images/ef753488-d763-44e8-b755-dfdb3b66ea57/nutriluv-fruchtgummi-crazy-kitties"
+        },
+        {
+          "alt": "Fruchtgummi Crazy Kitties nutriluv",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772240810/assets/pas/images/80715433-ba09-49df-9a88-034cfe36a2ca/nutriluv-fruchtgummi-crazy-kitties"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 34,
+        "ratingValue": 4.4118
+      },
+      "self": "/p/d/3113043/nutriluv-fruchtgummi-crazy-kitties",
+      "title": {
+        "tileHeadline": "Fruchtgummi Crazy Kitties, 50 g",
+        "tileHeadlineLong": "Fruchtgummi Crazy Kitties, 50 g"
+      },
+      "trackingData": {
+        "brand": "nutriluv",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4118,
+        "ratingCount": 34
+      }
+    }
+  },
+  {
+    "gtin": 4260278366116,
+    "dan": 1705167,
+    "brandName": "Beauty Sweeties",
+    "title": "Fruchtgummi, Schmetterlinge, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Beauty Sweeties; Produktname: Fruchtgummi, Schmetterlinge, 125 g; Preis: 1,95 €; Grundpreis: 0,125 kg (15,60 € je 1 kg)",
+      "brand": {
+        "name": "Beauty Sweeties"
+      },
+      "dan": 1705167,
+      "gtin": 4260278366116,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Schmetterlinge Beauty Sweeties",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760047380/assets/pas/images/3f2c5800-8da0-4d69-93bb-ef380f45af51/beauty-sweeties-fruchtgummi-schmetterlinge"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (14,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (15,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.6296
+      },
+      "self": "/p/d/1705167/beauty-sweeties-fruchtgummi-schmetterlinge",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Schmetterlinge, 125 g",
+        "tileHeadlineLong": "Fruchtgummi, Schmetterlinge, 125 g"
+      },
+      "trackingData": {
+        "brand": "Beauty Sweeties",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6296,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 4262456580345,
+    "dan": 3112851,
+    "brandName": "nutriluv",
+    "title": "Fruchtgummi Foam Outta Space, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: nutriluv; Produktname: Fruchtgummi Foam Outta Space, 50 g; Preis: 1,75 €; Grundpreis: 0,05 kg (35,00 € je 1 kg)",
+      "brand": {
+        "name": "nutriluv"
+      },
+      "dan": 3112851,
+      "gtin": 4262456580345,
+      "images": [
+        {
+          "alt": "Fruchtgummi Foam Outta Space  nutriluv",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238833/assets/pas/images/af93ef1a-c48a-40ae-a4c8-c74e04b6abac/nutriluv-fruchtgummi-foam-outta-space"
+        },
+        {
+          "alt": "Fruchtgummi Foam Outta Space  nutriluv",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238842/assets/pas/images/86f2a5e8-9d1b-4fc6-93df-436ffed956a5/nutriluv-fruchtgummi-foam-outta-space"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 28,
+        "ratingValue": 4.5357
+      },
+      "self": "/p/d/3112851/nutriluv-fruchtgummi-foam-outta-space",
+      "title": {
+        "tileHeadline": "Fruchtgummi Foam Outta Space, 50 g",
+        "tileHeadlineLong": "Fruchtgummi Foam Outta Space, 50 g"
+      },
+      "trackingData": {
+        "brand": "nutriluv",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5357,
+        "ratingCount": 28
+      }
+    }
+  },
+  {
+    "gtin": 4262456580338,
+    "dan": 3112983,
+    "brandName": "nutriluv",
+    "title": "Fruchtgummi Dreamland, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: nutriluv; Produktname: Fruchtgummi Dreamland, 50 g; Preis: 1,75 €; Grundpreis: 0,05 kg (35,00 € je 1 kg)",
+      "brand": {
+        "name": "nutriluv"
+      },
+      "dan": 3112983,
+      "gtin": 4262456580338,
+      "images": [
+        {
+          "alt": "Fruchtgummi Dreamland nutriluv",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772439999/assets/pas/images/bc873269-7851-4045-b1a7-1b5f068ef8f5/nutriluv-fruchtgummi-dreamland"
+        },
+        {
+          "alt": "Fruchtgummi Dreamland nutriluv",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772440009/assets/pas/images/d69a1d71-9ec7-419c-990e-8a635c52ab1f/nutriluv-fruchtgummi-dreamland"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 31,
+        "ratingValue": 3.9032
+      },
+      "self": "/p/d/3112983/nutriluv-fruchtgummi-dreamland",
+      "title": {
+        "tileHeadline": "Fruchtgummi Dreamland, 50 g",
+        "tileHeadlineLong": "Fruchtgummi Dreamland, 50 g"
+      },
+      "trackingData": {
+        "brand": "nutriluv",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9032,
+        "ratingCount": 31
+      }
+    }
+  },
+  {
+    "gtin": 4270004224108,
+    "dan": 3114592,
+    "brandName": "NALU",
+    "title": "Fruchtgummi, Rote Beeren, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: NALU; Produktname: Fruchtgummi, Rote Beeren, 50 g; Preis: 1,95 €; Grundpreis: 0,05 kg (39,00 € je 1 kg)",
+      "brand": {
+        "name": "NALU"
+      },
+      "dan": 3114592,
+      "gtin": 4270004224108,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Rote Beeren NALU",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764899418/assets/pas/images/eda0abe8-e00a-4b67-990b-bac46f0fa1fd/nalu-fruchtgummi-rote-beeren"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (36,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (39,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.0
+      },
+      "self": "/p/d/3114592/nalu-fruchtgummi-rote-beeren",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Rote Beeren, 50 g",
+        "tileHeadlineLong": "Fruchtgummi, Rote Beeren, 50 g"
+      },
+      "trackingData": {
+        "brand": "NALU",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4262546320004,
+    "dan": 3114593,
+    "brandName": "NALU",
+    "title": "Fruchtgummi, Sauer Apfel und Grapefruit, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: NALU; Produktname: Fruchtgummi, Sauer Apfel und Grapefruit, 50 g; Preis: 1,95 €; Grundpreis: 0,05 kg (39,00 € je 1 kg)",
+      "brand": {
+        "name": "NALU"
+      },
+      "dan": 3114593,
+      "gtin": 4262546320004,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Sauer Apfel und Grapefruit NALU",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764981062/assets/pas/images/8d2e68a6-eda1-4982-b915-13b18030fbe3/nalu-fruchtgummi-sauer-apfel-und-grapefruit"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (36,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (39,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.4231
+      },
+      "self": "/p/d/3114593/nalu-fruchtgummi-sauer-apfel-und-grapefruit",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Sauer Apfel und Grapefruit, 50 g",
+        "tileHeadlineLong": "Fruchtgummi, Sauer Apfel und Grapefruit, 50 g"
+      },
+      "trackingData": {
+        "brand": "NALU",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4231,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 4270004224139,
+    "dan": 3114547,
+    "brandName": "NALU",
+    "title": "Fruchtgummi, Pfirsich, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: NALU; Produktname: Fruchtgummi, Pfirsich, 50 g; Preis: 1,95 €; Grundpreis: 0,05 kg (39,00 € je 1 kg)",
+      "brand": {
+        "name": "NALU"
+      },
+      "dan": 3114547,
+      "gtin": 4270004224139,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Pfirsich NALU",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764980660/assets/pas/images/29b2de9c-e162-4551-b914-71426640eaf5/nalu-fruchtgummi-pfirsich"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (36,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (39,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.1373
+      },
+      "self": "/p/d/3114547/nalu-fruchtgummi-pfirsich",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Pfirsich, 50 g",
+        "tileHeadlineLong": "Fruchtgummi, Pfirsich, 50 g"
+      },
+      "trackingData": {
+        "brand": "NALU",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1373,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 4262456580246,
+    "dan": 3113034,
+    "brandName": "nutriluv",
+    "title": "Fruchtgummi, Bett’r Snacks Protein, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: nutriluv; Produktname: Fruchtgummi, Bett’r Snacks Protein, 75 g; Preis: 1,75 €; Grundpreis: 0,075 kg (23,33 € je 1 kg)",
+      "brand": {
+        "name": "nutriluv"
+      },
+      "dan": 3113034,
+      "gtin": 4262456580246,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Bett’r Snacks Protein nutriluv",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772239658/assets/pas/images/edf538b3-2d5a-423c-a8d6-bb9a12bb4acb/nutriluv-fruchtgummi-bett-r-snacks-protein"
+        },
+        {
+          "alt": "Fruchtgummi, Bett’r Snacks Protein nutriluv",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772239668/assets/pas/images/03c25d12-cd70-4e68-9cc0-b876300ac675/nutriluv-fruchtgummi-bett-r-snacks-protein"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (21,80 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (23,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 38,
+        "ratingValue": 4.3684
+      },
+      "self": "/p/d/3113034/nutriluv-fruchtgummi-bett-r-snacks-protein",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Bett’r Snacks Protein, 75 g",
+        "tileHeadlineLong": "Fruchtgummi, Bett’r Snacks Protein, 75 g"
+      },
+      "trackingData": {
+        "brand": "nutriluv",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3846,
+        "ratingCount": 39
+      }
+    }
+  },
+  {
+    "gtin": 4260562940909,
+    "dan": 3118109,
+    "brandName": "ahead",
+    "title": "Fruchtgummi, Cola Bottles Gummies, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: ahead; Produktname: Fruchtgummi, Cola Bottles Gummies, 50 g; Preis: 1,75 €; Grundpreis: 0,05 kg (35,00 € je 1 kg)",
+      "brand": {
+        "name": "ahead"
+      },
+      "dan": 3118109,
+      "gtin": 4260562940909,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Cola Bottles Gummies ahead",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765800779/assets/pas/images/7848625d-ee05-4ae8-a69f-6f0bf270ff8c/ahead-fruchtgummi-cola-bottles-gummies"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.7021
+      },
+      "self": "/p/d/3118109/ahead-fruchtgummi-cola-bottles-gummies",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Cola Bottles Gummies, 50 g",
+        "tileHeadlineLong": "Fruchtgummi, Cola Bottles Gummies, 50 g"
+      },
+      "trackingData": {
+        "brand": "ahead",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7021,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 4009077031388,
+    "dan": 1517330,
+    "brandName": "Em-eukal",
+    "title": "Gummidrops, Hustenmischung, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Gummidrops, Hustenmischung, 90 g; Preis: 1,95 €; Grundpreis: 0,09 kg (21,67 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1517330,
+      "gtin": 4009077031388,
+      "images": [
+        {
+          "alt": "Gummidrops, Hustenmischung Em-eukal",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436162/assets/pas/images/5bb3974e-0f53-44d7-919b-c4218947733e/em-eukal-gummidrops-hustenmischung"
+        },
+        {
+          "alt": "Gummidrops, Hustenmischung Em-eukal",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436140/assets/pas/images/644d0eee-ebb7-478a-b381-46393180bef7/em-eukal-gummidrops-hustenmischung"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 77,
+        "ratingValue": 4.5455
+      },
+      "self": "/p/d/1517330/em-eukal-gummidrops-hustenmischung",
+      "title": {
+        "tileHeadline": "Gummidrops, Hustenmischung, 90 g",
+        "tileHeadlineLong": "Gummidrops, Hustenmischung, 90 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5455,
+        "ratingCount": 77
+      }
+    }
+  },
+  {
+    "gtin": 4030300022125,
+    "dan": 1510584,
+    "brandName": "WICK",
+    "title": "Gummidrops, Rachen Drachen Kirsche, gelatinefrei, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: WICK; Produktname: Gummidrops, Rachen Drachen Kirsche, gelatinefrei, 75 g; Preis: 1,35 €; Grundpreis: 0,075 kg (18,00 € je 1 kg)",
+      "brand": {
+        "name": "WICK"
+      },
+      "dan": 1510584,
+      "gtin": 4030300022125,
+      "images": [
+        {
+          "alt": "Gummidrops, Rachen Drachen Kirsche, gelatinefrei WICK",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444261/assets/pas/images/f6e1769f-c896-402e-90ec-bb92eec8ea1c/wick-gummidrops-rachen-drachen-kirsche-gelatinefrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (16,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (18,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 91,
+        "ratingValue": 4.5714
+      },
+      "self": "/p/d/1510584/wick-gummidrops-rachen-drachen-kirsche-gelatinefrei",
+      "title": {
+        "tileHeadline": "Gummidrops, Rachen Drachen Kirsche, gelatinefrei, 75 g",
+        "tileHeadlineLong": "Gummidrops, Rachen Drachen Kirsche, gelatinefrei, 75 g"
+      },
+      "trackingData": {
+        "brand": "WICK",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5714,
+        "ratingCount": 91
+      }
+    }
+  },
+  {
+    "gtin": 4009077031333,
+    "dan": 1425067,
+    "brandName": "Em-eukal",
+    "title": "Gummidrops, Eukalyptus-Menthol, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Gummidrops, Eukalyptus-Menthol, 90 g; Preis: 1,95 €; Grundpreis: 0,09 kg (21,67 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1425067,
+      "gtin": 4009077031333,
+      "images": [
+        {
+          "alt": "Gummidrops, Eukalyptus-Menthol Em-eukal",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436141/assets/pas/images/ff65341d-46ef-4410-85b9-f1c10736b6ad/em-eukal-gummidrops-eukalyptus-menthol"
+        },
+        {
+          "alt": "Gummidrops, Eukalyptus-Menthol Em-eukal",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436142/assets/pas/images/bfc8b68f-f056-4f3a-ae63-abddda2785bf/em-eukal-gummidrops-eukalyptus-menthol"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.8529
+      },
+      "self": "/p/d/1425067/em-eukal-gummidrops-eukalyptus-menthol",
+      "title": {
+        "tileHeadline": "Gummidrops, Eukalyptus-Menthol, 90 g",
+        "tileHeadlineLong": "Gummidrops, Eukalyptus-Menthol, 90 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8529,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4260311982228,
+    "dan": 1574117,
+    "brandName": "MOGLi",
+    "title": "Fruchtgummi Streifen Erdbeere & Apfel, ab 3 Jahren, 25 g",
+    "tileData": {
+      "a11yLabel": "Marke: MOGLi; Produktname: Fruchtgummi Streifen Erdbeere & Apfel, ab 3 Jahren, 25 g; Preis: 2,15 €; Grundpreis: 0,025 kg (86,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "MOGLi"
+      },
+      "dan": 1574117,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260311982228,
+      "images": [
+        {
+          "alt": "Fruchtgummi Streifen Erdbeere & Apfel, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492291/assets/pas/images/e18a3c08-5756-46d7-b8e8-a7b286583efc/mogli-fruchtgummi-streifen-erdbeere-und-apfel-ab-3-jahren"
+        },
+        {
+          "alt": "Fruchtgummi Streifen Erdbeere & Apfel, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491886/assets/pas/images/452e3690-550b-495e-8890-827c7ed125ea/mogli-fruchtgummi-streifen-erdbeere-und-apfel-ab-3-jahren"
+        },
+        {
+          "alt": "Fruchtgummi Streifen Erdbeere & Apfel, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492166/assets/pas/images/8e45ed5b-cd58-4d92-8cc2-0bb3029bbadd/mogli-fruchtgummi-streifen-erdbeere-und-apfel-ab-3-jahren"
+        },
+        {
+          "alt": "Fruchtgummi Streifen Erdbeere & Apfel, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492308/assets/pas/images/936c7bd6-a098-4d0a-9e99-20e888a7b4e1/mogli-fruchtgummi-streifen-erdbeere-und-apfel-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,01 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (80,37 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (86,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 32,
+        "ratingValue": 4.625
+      },
+      "self": "/p/d/1574117/mogli-fruchtgummi-streifen-erdbeere-und-apfel-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Fruchtgummi Streifen Erdbeere & Apfel, ab 3 Jahren, 25 g",
+        "tileHeadlineLong": "Fruchtgummi Streifen Erdbeere & Apfel, ab 3 Jahren, 25 g"
+      },
+      "trackingData": {
+        "brand": "MOGLi",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.625,
+        "ratingCount": 32
+      }
+    }
+  },
+  {
+    "gtin": 4009077031562,
+    "dan": 2974296,
+    "brandName": "Em-eukal",
+    "title": "Gummidrops, Vitamin Shot Sauer, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Gummidrops, Vitamin Shot Sauer, 90 g; Preis: 1,95 €; Grundpreis: 0,09 kg (21,67 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 2974296,
+      "gtin": 4009077031562,
+      "images": [
+        {
+          "alt": "Gummidrops, Vitamin Shot Sauer Em-eukal",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435928/assets/pas/images/9446a1d8-d589-4c0b-8b76-38157c08e91d/em-eukal-gummidrops-vitamin-shot-sauer"
+        },
+        {
+          "alt": "Gummidrops, Vitamin Shot Sauer Em-eukal",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436143/assets/pas/images/99a88e84-d7e8-4da3-964e-375cb5c27f88/em-eukal-gummidrops-vitamin-shot-sauer"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 136,
+        "ratingValue": 4.4412
+      },
+      "self": "/p/d/2974296/em-eukal-gummidrops-vitamin-shot-sauer",
+      "title": {
+        "tileHeadline": "Gummidrops, Vitamin Shot Sauer, 90 g",
+        "tileHeadlineLong": "Gummidrops, Vitamin Shot Sauer, 90 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4412,
+        "ratingCount": 136
+      }
+    }
+  },
+  {
+    "gtin": 4260311982242,
+    "dan": 1574125,
+    "brandName": "MOGLi",
+    "title": "Kindersnack Fruchtgummi Streifen Mango & Apfel, ab 3 Jahren, 25 g",
+    "tileData": {
+      "a11yLabel": "Marke: MOGLi; Produktname: Kindersnack Fruchtgummi Streifen Mango & Apfel, ab 3 Jahren, 25 g; Preis: 2,15 €; Grundpreis: 0,025 kg (86,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "MOGLi"
+      },
+      "dan": 1574125,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260311982242,
+      "images": [
+        {
+          "alt": "Kindersnack Fruchtgummi Streifen Mango & Apfel, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492165/assets/pas/images/dad86e62-6f77-40fd-8f74-a0a313e7f60e/mogli-kindersnack-fruchtgummi-streifen-mango-und-apfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Fruchtgummi Streifen Mango & Apfel, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492293/assets/pas/images/f4400abf-74d2-463e-a3ad-c77859df506a/mogli-kindersnack-fruchtgummi-streifen-mango-und-apfel-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Fruchtgummi Streifen Mango & Apfel, ab 3 Jahren  MOGLi",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491890/assets/pas/images/ca143c5e-70d4-48b2-aa5b-ee99129d6fa5/mogli-kindersnack-fruchtgummi-streifen-mango-und-apfel-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,01 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (80,37 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (86,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 23,
+        "ratingValue": 4.1739
+      },
+      "self": "/p/d/1574125/mogli-kindersnack-fruchtgummi-streifen-mango-und-apfel-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Fruchtgummi Streifen Mango & Apfel,..., 25 g",
+        "tileHeadlineLong": "Kindersnack Fruchtgummi Streifen Mango & Apfel,..., 25 g"
+      },
+      "trackingData": {
+        "brand": "MOGLi",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1739,
+        "ratingCount": 23
+      }
+    }
+  },
+  {
+    "gtin": 4009077020856,
+    "dan": 1477003,
+    "brandName": "Kinder Em-eukal",
+    "title": "Gummidrops, Wildkirsche, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Kinder Em-eukal; Produktname: Gummidrops, Wildkirsche, 75 g; Preis: 1,45 €; Grundpreis: 0,075 kg (19,33 € je 1 kg)",
+      "brand": {
+        "name": "Kinder Em-eukal"
+      },
+      "dan": 1477003,
+      "gtin": 4009077020856,
+      "images": [
+        {
+          "alt": "Gummidrops, Wildkirsche Kinder Em-eukal",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436134/assets/pas/images/1f05b94e-55f3-4469-8566-c170f36b5577/kinder-em-eukal-gummidrops-wildkirsche"
+        },
+        {
+          "alt": "Gummidrops, Wildkirsche Kinder Em-eukal",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436176/assets/pas/images/6f4e9685-7dae-43a6-9269-a1fc71741839/kinder-em-eukal-gummidrops-wildkirsche"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (18,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (19,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.7576
+      },
+      "self": "/p/d/1477003/kinder-em-eukal-gummidrops-wildkirsche",
+      "title": {
+        "tileHeadline": "Gummidrops, Wildkirsche, 75 g",
+        "tileHeadlineLong": "Gummidrops, Wildkirsche, 75 g"
+      },
+      "trackingData": {
+        "brand": "Kinder Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7576,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 3663458001585,
+    "dan": 3114436,
+    "brandName": "NOT GUILTY",
+    "title": "Fruchtgummi, Marilyn Mallow Vanille, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: NOT GUILTY; Produktname: Fruchtgummi, Marilyn Mallow Vanille, 80 g; Preis: 1,95 €; Grundpreis: 0,08 kg (24,38 € je 1 kg)",
+      "brand": {
+        "name": "NOT GUILTY"
+      },
+      "dan": 3114436,
+      "gtin": 3663458001585,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Marilyn Mallow Vanille NOT GUILTY",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770942195/assets/pas/images/d7f2e688-f0ed-48f0-9cb3-177b6f9a4131/not-guilty-fruchtgummi-marilyn-mallow-vanille"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (22,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (24,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 22,
+        "ratingValue": 4.1364
+      },
+      "self": "/p/d/3114436/not-guilty-fruchtgummi-marilyn-mallow-vanille",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Marilyn Mallow Vanille, 80 g",
+        "tileHeadlineLong": "Fruchtgummi, Marilyn Mallow Vanille, 80 g"
+      },
+      "trackingData": {
+        "brand": "NOT GUILTY",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1364,
+        "ratingCount": 22
+      }
+    }
+  },
+  {
+    "gtin": 4260680634896,
+    "dan": 1397217,
+    "brandName": "Forest GUM",
+    "title": "Fruchtgummi, Mushroom Magic, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Forest GUM; Produktname: Fruchtgummi, Mushroom Magic, 100 g; Preis: 1,75 €; Grundpreis: 0,1 kg (17,50 € je 1 kg)",
+      "brand": {
+        "name": "Forest GUM"
+      },
+      "dan": 1397217,
+      "gtin": 4260680634896,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Mushroom Magic Forest GUM",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770770965/assets/pas/images/fa03f527-0971-42a4-aeab-24f9b18f6f06/forest-gum-fruchtgummi-mushroom-magic"
+        },
+        {
+          "alt": "Fruchtgummi, Mushroom Magic Forest GUM",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769639241/assets/pas/images/4f9f9e4c-da15-4809-9edb-3307014dd5ea/forest-gum-fruchtgummi-mushroom-magic"
+        },
+        {
+          "alt": "Fruchtgummi, Mushroom Magic Forest GUM",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772149618/assets/pas/images/ddf8b470-5ff6-457d-bef5-6f6194c04aab/forest-gum-fruchtgummi-mushroom-magic"
+        },
+        {
+          "alt": "Fruchtgummi, Mushroom Magic Forest GUM",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765837725/assets/pas/images/0e70472f-2ed8-4886-99e1-7fbcbb3cfeb8/forest-gum-fruchtgummi-mushroom-magic"
+        },
+        {
+          "alt": "Fruchtgummi, Mushroom Magic Forest GUM",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770246605/assets/pas/images/7fd9a47a-0972-4718-be02-791c9c39d057/forest-gum-fruchtgummi-mushroom-magic"
+        },
+        {
+          "alt": "Fruchtgummi, Mushroom Magic Forest GUM",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770246597/assets/pas/images/3cbc40b1-37a0-4eb6-8943-8b530df680ad/forest-gum-fruchtgummi-mushroom-magic"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (16,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (17,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 110,
+        "ratingValue": 3.4909
+      },
+      "self": "/p/d/1397217/forest-gum-fruchtgummi-mushroom-magic",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Mushroom Magic, 100 g",
+        "tileHeadlineLong": "Fruchtgummi, Mushroom Magic, 100 g"
+      },
+      "trackingData": {
+        "brand": "Forest GUM",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.4909,
+        "ratingCount": 110
+      }
+    }
+  },
+  {
+    "gtin": 4009077031371,
+    "dan": 1503177,
+    "brandName": "Em-eukal",
+    "title": "Gummidrops, Wildkirsche-Salbei, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: Em-eukal; Produktname: Gummidrops, Wildkirsche-Salbei, 90 g; Preis: 1,95 €; Grundpreis: 0,09 kg (21,67 € je 1 kg)",
+      "brand": {
+        "name": "Em-eukal"
+      },
+      "dan": 1503177,
+      "gtin": 4009077031371,
+      "images": [
+        {
+          "alt": "Gummidrops, Wildkirsche-Salbei Em-eukal",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435925/assets/pas/images/34d59207-bfae-4f16-9f1c-fc9ad5e0522e/em-eukal-gummidrops-wildkirsche-salbei"
+        },
+        {
+          "alt": "Gummidrops, Wildkirsche-Salbei Em-eukal",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436159/assets/pas/images/7c452bd1-e16c-42d9-86d2-e58bba10f8de/em-eukal-gummidrops-wildkirsche-salbei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.8525
+      },
+      "self": "/p/d/1503177/em-eukal-gummidrops-wildkirsche-salbei",
+      "title": {
+        "tileHeadline": "Gummidrops, Wildkirsche-Salbei, 90 g",
+        "tileHeadlineLong": "Gummidrops, Wildkirsche-Salbei, 90 g"
+      },
+      "trackingData": {
+        "brand": "Em-eukal",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8525,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4262456580277,
+    "dan": 3112991,
+    "brandName": "nutriluv",
+    "title": "Fruchtgummi, Bett’r Snacks Energy, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: nutriluv; Produktname: Fruchtgummi, Bett’r Snacks Energy, 75 g; Preis: 1,75 €; Grundpreis: 0,075 kg (23,33 € je 1 kg)",
+      "brand": {
+        "name": "nutriluv"
+      },
+      "dan": 3112991,
+      "gtin": 4262456580277,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Bett’r Snacks Energy nutriluv",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772439874/assets/pas/images/f5aef3f4-10a9-4b6b-bb06-e13b8d859f36/nutriluv-fruchtgummi-bett-r-snacks-energy"
+        },
+        {
+          "alt": "Fruchtgummi, Bett’r Snacks Energy nutriluv",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772439880/assets/pas/images/e7ded296-9a7c-4081-81ee-664eac0fec25/nutriluv-fruchtgummi-bett-r-snacks-energy"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (21,80 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (23,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 3.8333
+      },
+      "self": "/p/d/3112991/nutriluv-fruchtgummi-bett-r-snacks-energy",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Bett’r Snacks Energy, 75 g",
+        "tileHeadlineLong": "Fruchtgummi, Bett’r Snacks Energy, 75 g"
+      },
+      "trackingData": {
+        "brand": "nutriluv",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8333,
+        "ratingCount": 6
+      }
+    }
+  },
+  {
+    "gtin": 4260680635237,
+    "dan": 3102216,
+    "brandName": "Forest GUM",
+    "title": "Fruchtgummi, Fruity Bears, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Forest GUM; Produktname: Fruchtgummi, Fruity Bears, 100 g; Preis: 1,75 €; Grundpreis: 0,1 kg (17,50 € je 1 kg)",
+      "brand": {
+        "name": "Forest GUM"
+      },
+      "dan": 3102216,
+      "gtin": 4260680635237,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Fruity Bears Forest GUM",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763250886/assets/pas/images/1929b0a6-6bb7-49b0-bc2f-1b7bc21cfed9/forest-gum-fruchtgummi-fruity-bears"
+        },
+        {
+          "alt": "Fruchtgummi, Fruity Bears Forest GUM",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769644745/assets/pas/images/fbf5c603-84e3-4a2b-95c7-f7d0df1e8130/forest-gum-fruchtgummi-fruity-bears"
+        },
+        {
+          "alt": "Fruchtgummi, Fruity Bears Forest GUM",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772150494/assets/pas/images/a6b5fbed-29dc-4526-bb42-de46f885429e/forest-gum-fruchtgummi-fruity-bears"
+        },
+        {
+          "alt": "Fruchtgummi, Fruity Bears Forest GUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249466/assets/pas/images/eca3ed7a-e12f-4e76-95b6-5ea74c000bd9/forest-gum-fruchtgummi-fruity-bears"
+        },
+        {
+          "alt": "Fruchtgummi, Fruity Bears Forest GUM",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770249459/assets/pas/images/db1a4855-2600-4b43-b1e1-845a303e2670/forest-gum-fruchtgummi-fruity-bears"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (16,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (17,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 40,
+        "ratingValue": 4.675
+      },
+      "self": "/p/d/3102216/forest-gum-fruchtgummi-fruity-bears",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Fruity Bears, 100 g",
+        "tileHeadlineLong": "Fruchtgummi, Fruity Bears, 100 g"
+      },
+      "trackingData": {
+        "brand": "Forest GUM",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6829,
+        "ratingCount": 41
+      }
+    }
+  },
+  {
+    "gtin": 3663458006559,
+    "dan": 3069583,
+    "brandName": "NOT GUILTY",
+    "title": "Fruchtgummi, Club Tropical, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: NOT GUILTY; Produktname: Fruchtgummi, Club Tropical, 100 g; Preis: 1,95 €; Grundpreis: 0,1 kg (19,50 € je 1 kg)",
+      "brand": {
+        "name": "NOT GUILTY"
+      },
+      "dan": 3069583,
+      "gtin": 3663458006559,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Club Tropical NOT GUILTY",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760218924/assets/pas/images/e6d12bab-11ec-4ec5-bb9f-8b0c51977d0c/not-guilty-fruchtgummi-club-tropical"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (18,22 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (19,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 33,
+        "ratingValue": 3.9091
+      },
+      "self": "/p/d/3069583/not-guilty-fruchtgummi-club-tropical",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Club Tropical, 100 g",
+        "tileHeadlineLong": "Fruchtgummi, Club Tropical, 100 g"
+      },
+      "trackingData": {
+        "brand": "NOT GUILTY",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9091,
+        "ratingCount": 33
+      }
+    }
+  },
+  {
+    "gtin": 4260618525807,
+    "dan": 1573299,
+    "brandName": "Freche Freunde",
+    "title": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren, 30 g",
+    "tileData": {
+      "dan": 1573299,
+      "gtin": 4260618525807,
+      "self": "/p/d/1573299/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,03 kg (41,67 € je 1 kg)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4..., 30 g",
+        "tileHeadlineLong": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4..., 30 g"
+      },
+      "images": [
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494063/assets/pas/images/cfdd8759-346c-4b3e-a8fd-0eef6e7216cc/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494492/assets/pas/images/efd78144-8966-4608-9e03-fa4556c9fb8e/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F2"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494062/assets/pas/images/02a29ed7-d300-426a-89be-f14c02223b50/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494424/assets/pas/images/fd85b53d-66a8-4b00-b750-09b0f09d4974/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F4F1"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494499/assets/pas/images/d71f18c5-5fc2-4dd4-8fb7-683ec7a62250/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755901083/assets/pas/images/2f193872-f5fb-4075-a64c-850a2ded4733/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F6F9F1"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494498/assets/pas/images/52c38aeb-c838-43a9-8189-e8b053e2eeed/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494427/assets/pas/images/4ea39f36-1574-4d7d-9985-9c4e1085401c/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494427/assets/pas/images/dfff3827-81c0-4ca0-a46a-d043ef5d3ca6/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F5F1"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494413/assets/pas/images/539351c9-374b-4095-8f0e-cb71cbdacc85/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren  Freche Freunde",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494413/assets/pas/images/d01a58c4-efc2-482d-9d9e-cfa2fe91d0ed/freche-freunde-fruchtgummi-apfel-himbeere-mit-reispops-ab-4-jahren",
+          "isAiGenerated": false,
+          "backgroundColor": "#F5F9F1"
+        }
+      ],
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.6308
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,03 kg (38,94 € je 1 kg)"
+        ]
+      },
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Fruchtgummi Apfel-Himbeere mit Reispops, ab 4 Jahren, 30 g; Preis: 1,25 €; Grundpreis: 0,03 kg (41,67 € je 1 kg); Nur Online Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "price": 1.25,
+        "currency": "EUR",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {}
+    }
+  },
+  {
+    "gtin": 3609200003087,
+    "dan": 1380070,
+    "brandName": "N.A!",
+    "title": "Trockenfrüchte, Fruchtsnack Erdbeere, Softe Stückchen auf Apfelbasis, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: N.A!; Produktname: Trockenfrüchte, Fruchtsnack Erdbeere, Softe Stückchen auf Apfelbasis, 35 g; Preis: 1,15 €; Grundpreis: 0,035 kg (32,86 € je 1 kg)",
+      "brand": {
+        "name": "N.A!"
+      },
+      "dan": 1380070,
+      "gtin": 3609200003087,
+      "images": [
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Erdbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083175/assets/pas/images/f3c0f248-c562-40fb-b4f1-854668b4b3d6/n-a-trockenfruechte-fruchtsnack-erdbeere-softe-stueckchen-auf-apfelbasis"
+        },
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Erdbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083182/assets/pas/images/93263485-d815-445d-99fb-d1247b42298d/n-a-trockenfruechte-fruchtsnack-erdbeere-softe-stueckchen-auf-apfelbasis"
+        },
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Erdbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083190/assets/pas/images/1a69368d-578e-4ec3-9ca7-8217013f5f01/n-a-trockenfruechte-fruchtsnack-erdbeere-softe-stueckchen-auf-apfelbasis"
+        },
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Erdbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083195/assets/pas/images/1ff42869-10c0-4130-a599-110abf1a4b6e/n-a-trockenfruechte-fruchtsnack-erdbeere-softe-stueckchen-auf-apfelbasis"
+        },
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Erdbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784083199/assets/pas/images/b68a7024-c4ad-4572-ac9b-2d6feb435482/n-a-trockenfruechte-fruchtsnack-erdbeere-softe-stueckchen-auf-apfelbasis"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (30,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (32,86 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/1380070/n-a-trockenfruechte-fruchtsnack-erdbeere-softe-stueckchen-auf-apfelbasis",
+      "title": {
+        "tileHeadline": "Trockenfrüchte, Fruchtsnack Erdbeere, Softe..., 35 g",
+        "tileHeadlineLong": "Trockenfrüchte, Fruchtsnack Erdbeere, Softe..., 35 g"
+      },
+      "trackingData": {
+        "brand": "N.A!",
+        "categories": [
+          "Trockenfrüchte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 3609200003070,
+    "dan": 1380099,
+    "brandName": "N.A!",
+    "title": "Trockenfrüchte, Fruchtsnack Himbeere, Softe Stückchen auf Apfelbasis, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: N.A!; Produktname: Trockenfrüchte, Fruchtsnack Himbeere, Softe Stückchen auf Apfelbasis, 35 g; Preis: 1,15 €; Grundpreis: 0,035 kg (32,86 € je 1 kg)",
+      "brand": {
+        "name": "N.A!"
+      },
+      "dan": 1380099,
+      "gtin": 3609200003070,
+      "images": [
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Himbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784086935/assets/pas/images/e65b223e-beee-4497-84e7-bd511400799a/n-a-trockenfruechte-fruchtsnack-himbeere-softe-stueckchen-auf-apfelbasis"
+        },
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Himbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784086944/assets/pas/images/c3f42602-315d-4341-a23c-12130d99b2ad/n-a-trockenfruechte-fruchtsnack-himbeere-softe-stueckchen-auf-apfelbasis"
+        },
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Himbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784086921/assets/pas/images/882f213d-f067-4c33-8cb0-85c98d0ac63f/n-a-trockenfruechte-fruchtsnack-himbeere-softe-stueckchen-auf-apfelbasis"
+        },
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Himbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784086925/assets/pas/images/2672a1d1-b204-4909-a7ac-9bf507674c0c/n-a-trockenfruechte-fruchtsnack-himbeere-softe-stueckchen-auf-apfelbasis"
+        },
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Himbeere, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784086930/assets/pas/images/999fb0bf-3edf-42db-91d0-eb8960c28286/n-a-trockenfruechte-fruchtsnack-himbeere-softe-stueckchen-auf-apfelbasis"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (30,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (32,86 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 100,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/1380099/n-a-trockenfruechte-fruchtsnack-himbeere-softe-stueckchen-auf-apfelbasis",
+      "title": {
+        "tileHeadline": "Trockenfrüchte, Fruchtsnack Himbeere, Softe..., 35 g",
+        "tileHeadlineLong": "Trockenfrüchte, Fruchtsnack Himbeere, Softe..., 35 g"
+      },
+      "trackingData": {
+        "brand": "N.A!",
+        "categories": [
+          "Trockenfrüchte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 100
+      }
+    }
+  },
+  {
+    "gtin": 3609200008495,
+    "dan": 1493764,
+    "brandName": "N.A!",
+    "title": "Trockenfrüchte, Fruchtsnack Mango Passionsfrucht, Softe Stückchen auf Apfelbasis, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: N.A!; Produktname: Trockenfrüchte, Fruchtsnack Mango Passionsfrucht, Softe Stückchen auf Apfelbasis, 35 g; Preis: 1,15 €; Grundpreis: 0,035 kg (32,86 € je 1 kg)",
+      "brand": {
+        "name": "N.A!"
+      },
+      "dan": 1493764,
+      "gtin": 3609200008495,
+      "images": [
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Mango Passionsfrucht, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747421367/assets/pas/images/c6d1bc71-62b2-4228-b2e6-37280e08c781/n-a-trockenfruechte-fruchtsnack-mango-passionsfrucht-softe-stueckchen-auf-apfelbasis"
+        },
+        {
+          "alt": "Trockenfrüchte, Fruchtsnack Mango Passionsfrucht, Softe Stückchen auf Apfelbasis N.A!",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747421401/assets/pas/images/11f4bc23-3f60-4c32-a75f-65cd5bfe49c0/n-a-trockenfruechte-fruchtsnack-mango-passionsfrucht-softe-stueckchen-auf-apfelbasis"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (30,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (32,86 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 89,
+        "ratingValue": 4.6742
+      },
+      "self": "/p/d/1493764/n-a-trockenfruechte-fruchtsnack-mango-passionsfrucht-softe-stueckchen-auf-apfelbasis",
+      "title": {
+        "tileHeadline": "Trockenfrüchte, Fruchtsnack Mango Passionsfrucht,..., 35 g",
+        "tileHeadlineLong": "Trockenfrüchte, Fruchtsnack Mango Passionsfrucht,..., 35 g"
+      },
+      "trackingData": {
+        "brand": "N.A!",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6742,
+        "ratingCount": 89
+      }
+    }
+  }
+]

@@ -1,0 +1,2890 @@
+[
+  {
+    "gtin": 4066447814491,
+    "dan": 1693644,
+    "brandName": "Ivorell",
+    "title": "Erfrischungsgetränk, Wasser + Koffein Zitrone-Limette, 500 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Ivorell; Produktname: Erfrischungsgetränk, Wasser + Koffein Zitrone-Limette, 500 ml EINWEG; Preis: 0,95 €; Grundpreis: 0,5 l (1,90 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Ivorell"
+      },
+      "dan": 1693644,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447814491,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Wasser + Koffein Zitrone-Limette Ivorell",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778625558/assets/pas/images/1f940279-281d-425f-bad2-d8e593fce0fc/ivorell-erfrischungsgetraenk-wasser-koffein-zitrone-limette"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Wasser + Koffein Zitrone-Limette Ivorell",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778625554/assets/pas/images/90ce8aec-8855-4ec3-a143-058451ba8617/ivorell-erfrischungsgetraenk-wasser-koffein-zitrone-limette"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 72,
+        "ratingValue": 4.6111
+      },
+      "self": "/p/d/1693644/ivorell-erfrischungsgetraenk-wasser-koffein-zitrone-limette",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Wasser + Koffein..., 500 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Wasser + Koffein..., 500 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "Ivorell",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.589,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 4066447814293,
+    "dan": 1611420,
+    "brandName": "Ivorell",
+    "title": "Natürliches Mineralwasser, Still, 0,5 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Ivorell; Produktname: Natürliches Mineralwasser, Still, 0,5 l EINWEG; Preis: 0,55 €; Grundpreis: 0,5 l (1,10 € je 1 l); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Ivorell"
+      },
+      "dan": 1611420,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4066447814293,
+      "images": [
+        {
+          "alt": "Natürliches Mineralwasser, Still  Ivorell",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769127761/assets/pas/images/8e852074-c36f-4f79-879e-e719818e9de3/ivorell-natuerliches-mineralwasser-still"
+        },
+        {
+          "alt": "Natürliches Mineralwasser, Still  Ivorell",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769127769/assets/pas/images/62697bff-7c3e-4c74-8727-0192c291b095/ivorell-natuerliches-mineralwasser-still"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,46 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (0,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,55 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,10 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.4493
+      },
+      "self": "/p/d/1611420/ivorell-natuerliches-mineralwasser-still",
+      "title": {
+        "tileHeadline": "Natürliches Mineralwasser, Still, 0,5 l EINWEG",
+        "tileHeadlineLong": "Natürliches Mineralwasser, Still, 0,5 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "Ivorell",
+        "categories": [
+          "Getränke"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4493,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4066447814316,
+    "dan": 1611424,
+    "brandName": "Ivorell",
+    "title": "Natürliches Mineralwasser, Medium, 0,5 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Ivorell; Produktname: Natürliches Mineralwasser, Medium, 0,5 l EINWEG; Preis: 0,55 €; Grundpreis: 0,5 l (1,10 € je 1 l); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Ivorell"
+      },
+      "dan": 1611424,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4066447814316,
+      "images": [
+        {
+          "alt": "Natürliches Mineralwasser, Medium Ivorell",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774601694/assets/pas/images/274c79ba-2b4a-41b0-af15-f1d4dad31fb2/ivorell-natuerliches-mineralwasser-medium"
+        },
+        {
+          "alt": "Natürliches Mineralwasser, Medium Ivorell",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755014297/assets/pas/images/2496eeca-ff61-40a0-b90f-a889f9191e95/ivorell-natuerliches-mineralwasser-medium"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,46 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (0,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,55 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,10 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 63,
+        "ratingValue": 4.8889
+      },
+      "self": "/p/d/1611424/ivorell-natuerliches-mineralwasser-medium",
+      "title": {
+        "tileHeadline": "Natürliches Mineralwasser, Medium, 0,5 l EINWEG",
+        "tileHeadlineLong": "Natürliches Mineralwasser, Medium, 0,5 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "Ivorell",
+        "categories": [
+          "Getränke"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8889,
+        "ratingCount": 63
+      }
+    }
+  },
+  {
+    "gtin": 4070765070019,
+    "dan": 3133992,
+    "brandName": "Ivorell",
+    "title": "Erfrischungsgetränk, Wasser+ Protein, Mango-Maracuja, 330 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Ivorell; Produktname: Erfrischungsgetränk, Wasser+ Protein, Mango-Maracuja, 330 ml EINWEG; Preis: 1,45 €; Grundpreis: 0,33 l (4,39 € je 1 l); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Ivorell"
+      },
+      "dan": 3133992,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765070019,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Wasser+ Protein, Mango-Maracuja Ivorell",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782859237/assets/pas/images/4ff692b5-66b7-4988-bffe-0eac45e2dcdf/ivorell-erfrischungsgetraenk-wasser-protein-mango-maracuja"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Wasser+ Protein, Mango-Maracuja Ivorell",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782859242/assets/pas/images/48072f00-262d-4b97-8dd1-40e32c5c02ae/ivorell-erfrischungsgetraenk-wasser-protein-mango-maracuja"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (3,69 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (4,39 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 14,
+        "ratingValue": 3.2857
+      },
+      "self": "/p/d/3133992/ivorell-erfrischungsgetraenk-wasser-protein-mango-maracuja",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Wasser+ Protein,..., 330 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Wasser+ Protein,..., 330 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "Ivorell",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.2857,
+        "ratingCount": 14
+      }
+    }
+  },
+  {
+    "gtin": 4066447814415,
+    "dan": 1699664,
+    "brandName": "Ivorell",
+    "title": "Erfrischungsgetränk, Fruity Water Zitrone, 0,5 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Ivorell; Produktname: Erfrischungsgetränk, Fruity Water Zitrone, 0,5 l EINWEG; Preis: 0,60 €; Grundpreis: 0,5 l (1,20 € je 1 l); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Ivorell"
+      },
+      "dan": 1699664,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4066447814415,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Fruity Water Zitrone Ivorell",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966614/assets/pas/images/90b10d27-0c84-4598-b437-8bd1da4e461e/ivorell-erfrischungsgetraenk-fruity-water-zitrone"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Fruity Water Zitrone Ivorell",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966621/assets/pas/images/5910072b-394b-4128-b470-e8d90b37525f/ivorell-erfrischungsgetraenk-fruity-water-zitrone"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,50 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,01 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,60 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,20 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.6222
+      },
+      "self": "/p/d/1699664/ivorell-erfrischungsgetraenk-fruity-water-zitrone",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Fruity Water Zitrone, 0,5 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Fruity Water Zitrone, 0,5 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "Ivorell",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.6
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6222,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4066447814453,
+    "dan": 1698833,
+    "brandName": "Ivorell",
+    "title": "Erfrischungsgetränk, Fruity Water Kirsch, 0,5 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Ivorell; Produktname: Erfrischungsgetränk, Fruity Water Kirsch, 0,5 l EINWEG; Preis: 0,60 €; Grundpreis: 0,5 l (1,20 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Ivorell"
+      },
+      "dan": 1698833,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447814453,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Fruity Water Kirsch Ivorell",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966639/assets/pas/images/57a011f8-39ca-43db-a0d7-3881bd84637d/ivorell-erfrischungsgetraenk-fruity-water-kirsch"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Fruity Water Kirsch Ivorell",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966646/assets/pas/images/9e75479c-af06-48a9-9288-0731174af6a4/ivorell-erfrischungsgetraenk-fruity-water-kirsch"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,50 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,01 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,60 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,20 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 3.7308
+      },
+      "self": "/p/d/1698833/ivorell-erfrischungsgetraenk-fruity-water-kirsch",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Fruity Water Kirsch, 0,5 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Fruity Water Kirsch, 0,5 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "Ivorell",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.6
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7308,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4066447889598,
+    "dan": 3094884,
+    "brandName": "Ivorell",
+    "title": "Erfrischungsgetränk, Fruity Water Beeren, 500 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Ivorell; Produktname: Erfrischungsgetränk, Fruity Water Beeren, 500 ml EINWEG; Preis: 0,60 €; Grundpreis: 0,5 l (1,20 € je 1 l); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Ivorell"
+      },
+      "dan": 3094884,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4066447889598,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Fruity Water Beeren Ivorell",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773963634/assets/pas/images/81ae9d67-95c8-4f6e-a4b2-a984d0cf7751/ivorell-erfrischungsgetraenk-fruity-water-beeren"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Fruity Water Beeren Ivorell",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773963640/assets/pas/images/b9a4e02d-e93d-4f2b-98e1-4dc1da1d0c13/ivorell-erfrischungsgetraenk-fruity-water-beeren"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,50 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,01 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,60 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,20 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 63,
+        "ratingValue": 4.1587
+      },
+      "self": "/p/d/3094884/ivorell-erfrischungsgetraenk-fruity-water-beeren",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Fruity Water Beeren, 500 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Fruity Water Beeren, 500 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "Ivorell",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.6
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1587,
+        "ratingCount": 63
+      }
+    }
+  },
+  {
+    "gtin": 4066447814439,
+    "dan": 1699055,
+    "brandName": "Ivorell",
+    "title": "Erfrischungsgetränk, Fruity Water Pfirsich, 0,5 l EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Ivorell; Produktname: Erfrischungsgetränk, Fruity Water Pfirsich, 0,5 l EINWEG; Preis: 0,60 €; Grundpreis: 0,5 l (1,20 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Ivorell"
+      },
+      "dan": 1699055,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447814439,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Fruity Water Pfirsich Ivorell",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769127194/assets/pas/images/244024ba-31ae-463a-a5e2-eeeea0db20ca/ivorell-erfrischungsgetraenk-fruity-water-pfirsich"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Fruity Water Pfirsich Ivorell",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769127190/assets/pas/images/e67e2145-199e-42f0-a9db-702e58154a02/ivorell-erfrischungsgetraenk-fruity-water-pfirsich"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,50 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,01 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,60 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (1,20 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 3.8046
+      },
+      "self": "/p/d/1699055/ivorell-erfrischungsgetraenk-fruity-water-pfirsich",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Fruity Water Pfirsich, 0,5 l EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Fruity Water Pfirsich, 0,5 l EINWEG"
+      },
+      "trackingData": {
+        "brand": "Ivorell",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.6
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8046,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4009932133417,
+    "dan": 2973903,
+    "brandName": "Doppelherz",
+    "title": "Grünes Superfood Pulver, 600 g",
+    "tileData": {
+      "a11yLabel": "Marke: Doppelherz; Produktname: Grünes Superfood Pulver, 600 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 34,95 €; Grundpreis: 0,6 kg (58,25 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Doppelherz"
+      },
+      "dan": 2973903,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4009932133417,
+      "images": [
+        {
+          "alt": "Grünes Superfood Pulver Doppelherz",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781053609/assets/pas/images/f87f0c1a-298b-4513-9e31-a908a675e671/doppelherz-gruenes-superfood-pulver"
+        },
+        {
+          "alt": "Grünes Superfood Pulver Doppelherz",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781053617/assets/pas/images/c5dddb37-2fe6-4d05-989b-3cf5e6c71940/doppelherz-gruenes-superfood-pulver"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "32,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (54,44 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "34,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (58,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 18,
+        "ratingValue": 4.2222
+      },
+      "self": "/p/d/2973903/doppelherz-gruenes-superfood-pulver",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Grünes Superfood Pulver, 600 g",
+        "tileHeadlineLong": "Grünes Superfood Pulver, 600 g"
+      },
+      "trackingData": {
+        "brand": "Doppelherz",
+        "categories": [
+          "Smoothies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 34.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2222,
+        "ratingCount": 18
+      }
+    }
+  },
+  {
+    "gtin": 4002221052482,
+    "dan": 3114873,
+    "brandName": "Meßmer",
+    "title": "Cold Tea Sport Kirsche-Limette (14 Beutel), 38,5 g",
+    "tileData": {
+      "a11yLabel": "Marke: Meßmer; Produktname: Cold Tea Sport Kirsche-Limette (14 Beutel), 38,5 g; Preis: 2,95 €; Grundpreis: 0,0385 kg (76,62 € je 1 kg)",
+      "brand": {
+        "name": "Meßmer"
+      },
+      "dan": 3114873,
+      "gtin": 4002221052482,
+      "images": [
+        {
+          "alt": "Cold Tea Sport Kirsche-Limette (14 Beutel) Meßmer",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773443579/assets/pas/images/b290f19e-5a3c-41cd-8f84-b81023122f8e/messmer-cold-tea-sport-kirsche-limette-14-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,0385 kg (71,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,0385 kg (76,62 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 31,
+        "ratingValue": 4.2581
+      },
+      "self": "/p/d/3114873/messmer-cold-tea-sport-kirsche-limette-14-beutel",
+      "title": {
+        "tileHeadline": "Cold Tea Sport Kirsche-Limette (14 Beutel), 38,5 g",
+        "tileHeadlineLong": "Cold Tea Sport Kirsche-Limette (14 Beutel), 38,5 g"
+      },
+      "trackingData": {
+        "brand": "Meßmer",
+        "categories": [
+          "Tee",
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2581,
+        "ratingCount": 31
+      }
+    }
+  },
+  {
+    "gtin": 9120138985244,
+    "dan": 3102071,
+    "brandName": "waterdrop",
+    "title": "Getränkewürfel Microdrink Apfel (12 Stück), 25,2 g",
+    "tileData": {
+      "a11yLabel": "Marke: waterdrop; Produktname: Getränkewürfel Microdrink Apfel (12 Stück), 25,2 g; Preis: 6,25 €; Grundpreis: 0,025 kg (250,00 € je 1 kg)",
+      "brand": {
+        "name": "waterdrop"
+      },
+      "dan": 3102071,
+      "gtin": 9120138985244,
+      "images": [
+        {
+          "alt": "Getränkewürfel Microdrink Apfel (12 Stück) waterdrop",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773446888/assets/pas/images/e881b29a-41d3-4ce1-89d5-858b53f2d9f2/waterdrop-getraenkewuerfel-microdrink-apfel-12-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (233,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (250,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 21,
+        "ratingValue": 4.4762
+      },
+      "self": "/p/d/3102071/waterdrop-getraenkewuerfel-microdrink-apfel-12-stueck",
+      "title": {
+        "tileHeadline": "Getränkewürfel Microdrink Apfel (12 Stück), 25,2 g",
+        "tileHeadlineLong": "Getränkewürfel Microdrink Apfel (12 Stück), 25,2 g"
+      },
+      "trackingData": {
+        "brand": "waterdrop",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4762,
+        "ratingCount": 21
+      }
+    }
+  },
+  {
+    "gtin": 9120132063986,
+    "dan": 1417540,
+    "brandName": "waterdrop",
+    "title": "Getränkewürfel Microdrink Brombeere (12 Stück), 25,2 g",
+    "tileData": {
+      "a11yLabel": "Marke: waterdrop; Produktname: Getränkewürfel Microdrink Brombeere (12 Stück), 25,2 g; Preis: 6,25 €; Grundpreis: 0,025 kg (250,00 € je 1 kg)",
+      "brand": {
+        "name": "waterdrop"
+      },
+      "dan": 1417540,
+      "gtin": 9120132063986,
+      "images": [
+        {
+          "alt": "Getränkewürfel Microdrink Brombeere (12 Stück) waterdrop",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540428/assets/pas/images/0ba9a6df-b6f5-40d9-a325-ab0c200aabf0/waterdrop-getraenkewuerfel-microdrink-brombeere-12-stueck"
+        },
+        {
+          "alt": "Getränkewürfel Microdrink Brombeere (12 Stück) waterdrop",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540960/assets/pas/images/3a7aea69-2c59-4b41-a85e-b2569718c3b3/waterdrop-getraenkewuerfel-microdrink-brombeere-12-stueck"
+        },
+        {
+          "alt": "Getränkewürfel Microdrink Brombeere (12 Stück) waterdrop",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540256/assets/pas/images/a0471ca0-693f-4106-be10-bd48a8f1b142/waterdrop-getraenkewuerfel-microdrink-brombeere-12-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (233,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (250,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.2593
+      },
+      "self": "/p/d/1417540/waterdrop-getraenkewuerfel-microdrink-brombeere-12-stueck",
+      "title": {
+        "tileHeadline": "Getränkewürfel Microdrink Brombeere (12 Stück), 25,2 g",
+        "tileHeadlineLong": "Getränkewürfel Microdrink Brombeere (12 Stück), 25,2 g"
+      },
+      "trackingData": {
+        "brand": "waterdrop",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2593,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 9120128134904,
+    "dan": 1435926,
+    "brandName": "waterdrop",
+    "title": "Getränkewürfel Microdrink Eistee Pfirsich (12 Stück), 25,2 g",
+    "tileData": {
+      "a11yLabel": "Marke: waterdrop; Produktname: Getränkewürfel Microdrink Eistee Pfirsich (12 Stück), 25,2 g; Preis: 6,25 €; Grundpreis: 0,025 kg (250,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "waterdrop"
+      },
+      "dan": 1435926,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9120128134904,
+      "images": [
+        {
+          "alt": "Getränkewürfel Microdrink Eistee Pfirsich (12 Stück) waterdrop",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774860812/assets/pas/images/6f1efadf-6b07-412e-b3ed-41243b820bce/waterdrop-getraenkewuerfel-microdrink-eistee-pfirsich-12-stueck"
+        },
+        {
+          "alt": "Getränkewürfel Microdrink Eistee Pfirsich (12 Stück) waterdrop",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540377/assets/pas/images/4a03ad9c-a7a4-4e73-a4d0-6f3be0038bf0/waterdrop-getraenkewuerfel-microdrink-eistee-pfirsich-12-stueck"
+        },
+        {
+          "alt": "Getränkewürfel Microdrink Eistee Pfirsich (12 Stück) waterdrop",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540315/assets/pas/images/22d9f647-b31e-4bf5-bb88-9462e8272c63/waterdrop-getraenkewuerfel-microdrink-eistee-pfirsich-12-stueck"
+        },
+        {
+          "alt": "Getränkewürfel Microdrink Eistee Pfirsich (12 Stück) waterdrop",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540316/assets/pas/images/0c3fc43d-a09c-4c86-9059-4a410e4ef311/waterdrop-getraenkewuerfel-microdrink-eistee-pfirsich-12-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (233,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (250,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 46,
+        "ratingValue": 4.2174
+      },
+      "self": "/p/d/1435926/waterdrop-getraenkewuerfel-microdrink-eistee-pfirsich-12-stueck",
+      "title": {
+        "tileHeadline": "Getränkewürfel Microdrink Eistee Pfirsich (12..., 25,2 g",
+        "tileHeadlineLong": "Getränkewürfel Microdrink Eistee Pfirsich (12..., 25,2 g"
+      },
+      "trackingData": {
+        "brand": "waterdrop",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2174,
+        "ratingCount": 46
+      }
+    }
+  },
+  {
+    "gtin": 4260159457438,
+    "dan": 3085654,
+    "brandName": "Lebepur",
+    "title": "Pflanzenpulver, Morning Boost, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Lebepur; Produktname: Pflanzenpulver, Morning Boost, 100 g; Preis: 7,95 €; Grundpreis: 0,1 kg (79,50 € je 1 kg)",
+      "brand": {
+        "name": "Lebepur"
+      },
+      "dan": 3085654,
+      "gtin": 4260159457438,
+      "images": [
+        {
+          "alt": "Pflanzenpulver, Morning Boost Lebepur",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769050942/assets/pas/images/fd26e15e-ff08-42a3-950e-1084d512afa7/lebepur-pflanzenpulver-morning-boost"
+        },
+        {
+          "alt": "Pflanzenpulver, Morning Boost Lebepur",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769050950/assets/pas/images/1a5e3255-d871-446c-ae7c-76e42c02bffc/lebepur-pflanzenpulver-morning-boost"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,43 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (74,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (79,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 25,
+        "ratingValue": 4.28
+      },
+      "self": "/p/d/3085654/lebepur-pflanzenpulver-morning-boost",
+      "title": {
+        "tileHeadline": "Pflanzenpulver, Morning Boost, 100 g",
+        "tileHeadlineLong": "Pflanzenpulver, Morning Boost, 100 g"
+      },
+      "trackingData": {
+        "brand": "Lebepur",
+        "categories": [
+          "Smoothies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.28,
+        "ratingCount": 25
+      }
+    }
+  },
+  {
+    "gtin": 4070765031119,
+    "dan": 1446524,
+    "brandName": "dmBio",
+    "title": "Pflanzensaft, Aloe Vera naturtrüb, 330 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pflanzensaft, Aloe Vera naturtrüb, 330 ml; Preis: 5,95 €; Grundpreis: 0,33 l (18,03 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1446524,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765031119,
+      "images": [
+        {
+          "alt": "Pflanzensaft, Aloe Vera naturtrüb dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777589366/assets/pas/images/37037d08-542c-41f2-b86b-f747166f4ed0/dmbio-pflanzensaft-aloe-vera-naturtrueb"
+        },
+        {
+          "alt": "Pflanzensaft, Aloe Vera naturtrüb dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777589363/assets/pas/images/5ff1f2a7-ca81-499c-8813-404648b714cb/dmbio-pflanzensaft-aloe-vera-naturtrueb"
+        },
+        {
+          "alt": "Pflanzensaft, Aloe Vera naturtrüb dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777589361/assets/pas/images/daca7e0e-d3dd-4ac5-ba0d-47cd1493f332/dmbio-pflanzensaft-aloe-vera-naturtrueb"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (15,15 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (18,03 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 3.8714
+      },
+      "self": "/p/d/1446524/dmbio-pflanzensaft-aloe-vera-naturtrueb",
+      "title": {
+        "tileHeadline": "Pflanzensaft, Aloe Vera naturtrüb, 330 ml",
+        "tileHeadlineLong": "Pflanzensaft, Aloe Vera naturtrüb, 330 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Fruchtsäfte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8714,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4066447855777,
+    "dan": 1446530,
+    "brandName": "dmBio",
+    "title": "Muttersaft, Holunderbeere naturtrüb, 330 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Muttersaft, Holunderbeere naturtrüb, 330 ml; Preis: 2,45 €; Grundpreis: 0,33 l (7,42 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1446530,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447855777,
+      "images": [
+        {
+          "alt": "Muttersaft, Holunderbeere naturtrüb dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761603216/assets/pas/images/6e093155-e321-44af-b8cd-29ae816a72f0/dmbio-muttersaft-holunderbeere-naturtrueb"
+        },
+        {
+          "alt": "Muttersaft, Holunderbeere naturtrüb dmBio",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761603210/assets/pas/images/97e30d2b-e3ec-44e6-9cb7-177b35abed25/dmbio-muttersaft-holunderbeere-naturtrueb"
+        },
+        {
+          "alt": "Muttersaft, Holunderbeere naturtrüb dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761603213/assets/pas/images/4e33e44a-c632-4b4d-a61e-1271219db8f4/dmbio-muttersaft-holunderbeere-naturtrueb"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (6,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (7,42 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.625
+      },
+      "self": "/p/d/1446530/dmbio-muttersaft-holunderbeere-naturtrueb",
+      "title": {
+        "tileHeadline": "Muttersaft, Holunderbeere naturtrüb, 330 ml",
+        "tileHeadlineLong": "Muttersaft, Holunderbeere naturtrüb, 330 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Fruchtsäfte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.625,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 4066447855654,
+    "dan": 1446494,
+    "brandName": "dmBio",
+    "title": "Direktsaft, Karotte feldfrisch verarbeitet, 330 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Direktsaft, Karotte feldfrisch verarbeitet, 330 ml; Preis: 0,85 €; Grundpreis: 0,33 l (2,58 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1446494,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447855654,
+      "images": [
+        {
+          "alt": "Direktsaft, Karotte feldfrisch verarbeitet dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760218077/assets/pas/images/7ba4d33d-91b6-4b39-adaf-086fe30b85cd/dmbio-direktsaft-karotte-feldfrisch-verarbeitet"
+        },
+        {
+          "alt": "Direktsaft, Karotte feldfrisch verarbeitet dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760218081/assets/pas/images/a97e96ed-1b47-41ab-adc8-9386e177f287/dmbio-direktsaft-karotte-feldfrisch-verarbeitet"
+        },
+        {
+          "alt": "Direktsaft, Karotte feldfrisch verarbeitet dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760218085/assets/pas/images/b45e1e60-893f-4b85-ac58-20017b5e9b63/dmbio-direktsaft-karotte-feldfrisch-verarbeitet"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,71 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (2,17 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (2,58 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 127,
+        "ratingValue": 4.8504
+      },
+      "self": "/p/d/1446494/dmbio-direktsaft-karotte-feldfrisch-verarbeitet",
+      "title": {
+        "tileHeadline": "Direktsaft, Karotte feldfrisch verarbeitet, 330 ml",
+        "tileHeadlineLong": "Direktsaft, Karotte feldfrisch verarbeitet, 330 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gemüsesäfte & Ingwershots"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8504,
+        "ratingCount": 127
+      }
+    }
+  },
+  {
+    "gtin": 8006530116374,
+    "dan": 3117626,
+    "brandName": "Pampers",
+    "title": "Feuchttücher 99 % water (18x60 St), 1.080 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher 99 % water (18x60 St), 1.080 St; Preis: 29,95 €; Grundpreis: 1.080 St (0,03 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 3117626,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8006530116374,
+      "images": [
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603492/assets/pas/images/32899d84-24b1-4fd4-be8f-f8b3d2c9ced9/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603482/assets/pas/images/4552d9dc-8707-44e9-865b-c09dc14d7901/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895395/assets/pas/images/26014548-5630-4078-8066-09d65956e76f/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895379/assets/pas/images/bc6f7d1c-9792-4310-a578-2079c91ae278/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895412/assets/pas/images/1e54110e-41fd-4dc7-baf8-9626667fe203/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781923406/assets/pas/images/8ae6e895-8fdb-4eaf-98cc-60bce9d4a333/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783173/assets/pas/images/a02c8a94-24d7-49d9-b1b7-4fed36073e5f/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783186/assets/pas/images/5f27101f-824f-4362-a79e-77cd0b51469f/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783207/assets/pas/images/b3fee0d9-f4fb-4aaf-a116-57ef3bdd1892/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783217/assets/pas/images/f14aaef9-6ad4-4cb2-9604-de6fde32d5a7/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783197/assets/pas/images/3259cbdc-8b24-4bf3-9381-ef50e70379d8/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778367697/assets/pas/images/c20f45d4-52bd-4a7c-bd49-fa0fc3e5a1dd/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895422/assets/pas/images/98c3df6a-08e3-497e-a7d8-05c6359abdf6/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895404/assets/pas/images/9b623bc1-c56b-42dc-b6e6-a0ea3019bf11/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603539/assets/pas/images/f49f0ca0-dac6-4995-bf4b-252d243452ce/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603503/assets/pas/images/9110ad22-8e67-48a6-a547-03ca8853f8b2/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895387/assets/pas/images/74b155e8-0269-44db-98d2-ef526feda920/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895429/assets/pas/images/bc90979d-d176-4ac1-b185-9bee8288fde1/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "25,17 €"
+          }
+        },
+        "tileInfos": [
+          "1.080 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "1.080 St (0,03 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 560,
+        "ratingValue": 4.8161
+      },
+      "self": "/p/d/3117626/pampers-feuchttuecher-99-prozent-water-18x60-st",
+      "title": {
+        "tileHeadline": "Feuchttücher 99 % water (18x60 St), 1.080 St",
+        "tileHeadlineLong": "Feuchttücher 99 % water (18x60 St), 1.080 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8161,
+        "ratingCount": 560
+      }
+    }
+  },
+  {
+    "gtin": 8006530116305,
+    "dan": 3117627,
+    "brandName": "Pampers",
+    "title": "Feuchttücher 99 % water (4x60 St), 240 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher 99 % water (4x60 St), 240 St; Preis: 7,95 €; Grundpreis: 240 St (0,03 € je 1 St)",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 3117627,
+      "gtin": 8006530116305,
+      "images": [
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892768/assets/pas/images/dee4eafe-e72e-4a19-b1e1-1bd152901556/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026838/assets/pas/images/39b23a16-f76a-4f3f-a98a-fa3bbf78e29a/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026870/assets/pas/images/8ed5e515-132d-41dd-9d9e-797c08d64ea2/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026882/assets/pas/images/c3470236-78f3-4a47-bbba-4ed897ad290e/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781919397/assets/pas/images/f7ba950c-3fc5-4e10-b437-51402090dda0/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892693/assets/pas/images/522bdd9f-90c7-4e1e-9c2b-e99c76a76046/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892719/assets/pas/images/bfcf60aa-4dff-423d-97a6-da80eadcaf8e/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892707/assets/pas/images/e2a40d83-2ada-46e4-a4f3-234516c1797e/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892730/assets/pas/images/5d585681-b02e-46d4-9729-a1464c9f228f/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892740/assets/pas/images/86358048-4fde-47bd-9faf-6135e6b07433/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778198165/assets/pas/images/24694ab4-20fe-4fdc-9bff-7bdf24631f9a/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026861/assets/pas/images/b91ad57c-5f23-4bd4-8bdd-7d363d5668f6/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026851/assets/pas/images/3777906e-e0fe-4b54-8388-b816b9c5f686/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772936047/assets/pas/images/d6f6e956-0361-4eeb-801a-5ba413b6e347/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "240 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "240 St (0,03 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 559,
+        "ratingValue": 4.7907
+      },
+      "self": "/p/d/3117627/pampers-feuchttuecher-99-prozent-water-4x60-st",
+      "title": {
+        "tileHeadline": "Feuchttücher 99 % water (4x60 St), 240 St",
+        "tileHeadlineLong": "Feuchttücher 99 % water (4x60 St), 240 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7907,
+        "ratingCount": 559
+      }
+    }
+  },
+  {
+    "gtin": 4066447521856,
+    "dan": 1598900,
+    "brandName": "Balea",
+    "title": "Augenpads Hydrogel Kaktuswasser (1 Paar), 2 St",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Augenpads Hydrogel Kaktuswasser (1 Paar), 2 St; Preis: 0,75 €; Grundpreis: 2 St (0,38 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1598900,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447521856,
+      "images": [
+        {
+          "alt": "Augenpads Hydrogel Kaktuswasser (1 Paar) Balea",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774593648/assets/pas/images/47ebef9a-7158-47bc-b1e7-03c307e6d138/balea-augenpads-hydrogel-kaktuswasser-1-paar"
+        },
+        {
+          "alt": "Augenpads Hydrogel Kaktuswasser (1 Paar) Balea",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774593641/assets/pas/images/722d82c2-9076-429c-9f4e-3a33b53710f7/balea-augenpads-hydrogel-kaktuswasser-1-paar"
+        },
+        {
+          "alt": "Augenpads Hydrogel Kaktuswasser (1 Paar) Balea",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483040/assets/pas/images/82d22380-5f1a-4695-91d9-022789b9050c/balea-augenpads-hydrogel-kaktuswasser-1-paar"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,63 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (0,32 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (0,38 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 188,
+        "ratingValue": 4.0904
+      },
+      "self": "/p/d/1598900/balea-augenpads-hydrogel-kaktuswasser-1-paar",
+      "title": {
+        "tileHeadline": "Augenpads Hydrogel Kaktuswasser (1 Paar), 2 St",
+        "tileHeadlineLong": "Augenpads Hydrogel Kaktuswasser (1 Paar), 2 St"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Gesichtsmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0904,
+        "ratingCount": 188
+      }
+    }
+  },
+  {
+    "gtin": 4066447919738,
+    "dan": 1623936,
+    "brandName": "Balea med",
+    "title": "Gesichtswasser Ultra Sensitive, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea med; Produktname: Gesichtswasser Ultra Sensitive, 200 ml; Preis: 2,95 €; Grundpreis: 0,2 l (14,75 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea med"
+      },
+      "dan": 1623936,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447919738,
+      "images": [
+        {
+          "alt": "Gesichtswasser Ultra Sensitive Balea med",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777413064/assets/pas/images/a32295ff-a82a-4640-91e3-150882419d1d/balea-med-gesichtswasser-ultra-sensitive"
+        },
+        {
+          "alt": "Gesichtswasser Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777413067/assets/pas/images/d7f86dd1-2976-4804-9ca7-a0ec3ac5a984/balea-med-gesichtswasser-ultra-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (12,39 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (14,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 215,
+        "ratingValue": 3.4465
+      },
+      "self": "/p/d/1623936/balea-med-gesichtswasser-ultra-sensitive",
+      "title": {
+        "tileHeadline": "Gesichtswasser Ultra Sensitive, 200 ml",
+        "tileHeadlineLong": "Gesichtswasser Ultra Sensitive, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Balea med",
+        "categories": [
+          "Gesichtswasser"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.4465,
+        "ratingCount": 215
+      }
+    }
+  },
+  {
+    "gtin": 4260524941159,
+    "dan": 1610227,
+    "brandName": "NØ cosmetics",
+    "title": "Gesichtswasser 120h Liquid Hydrator, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NØ cosmetics; Produktname: Gesichtswasser 120h Liquid Hydrator, 100 ml; Preis: 9,95 €; Grundpreis: 0,1 l (99,50 € je 1 l)",
+      "brand": {
+        "name": "NØ cosmetics"
+      },
+      "dan": 1610227,
+      "gtin": 4260524941159,
+      "images": [
+        {
+          "alt": "Gesichtswasser 120h Liquid Hydrator NØ cosmetics",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493388/assets/pas/images/cd49b7b4-b10f-423e-ba44-3de19282095d/no-cosmetics-gesichtswasser-120h-liquid-hydrator"
+        },
+        {
+          "alt": "Gesichtswasser 120h Liquid Hydrator NØ cosmetics",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493035/assets/pas/images/3afeacda-a6de-4c80-9230-2b01dc62ce5d/no-cosmetics-gesichtswasser-120h-liquid-hydrator"
+        },
+        {
+          "alt": "Gesichtswasser 120h Liquid Hydrator NØ cosmetics",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493404/assets/pas/images/2ad6fed0-8784-4743-96eb-5f5d1f9cbae1/no-cosmetics-gesichtswasser-120h-liquid-hydrator"
+        },
+        {
+          "alt": "Gesichtswasser 120h Liquid Hydrator NØ cosmetics",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493025/assets/pas/images/63593072-9253-4dde-bce9-0026465a194b/no-cosmetics-gesichtswasser-120h-liquid-hydrator"
+        },
+        {
+          "alt": "Gesichtswasser 120h Liquid Hydrator NØ cosmetics",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747493391/assets/pas/images/e1a62156-5dc3-41ca-8402-c199e24cb743/no-cosmetics-gesichtswasser-120h-liquid-hydrator"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (83,61 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (99,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 985,
+        "ratingValue": 4.2081
+      },
+      "self": "/p/d/1610227/no-cosmetics-gesichtswasser-120h-liquid-hydrator",
+      "title": {
+        "tileHeadline": "Gesichtswasser 120h Liquid Hydrator, 100 ml",
+        "tileHeadlineLong": "Gesichtswasser 120h Liquid Hydrator, 100 ml"
+      },
+      "trackingData": {
+        "brand": "NØ cosmetics",
+        "categories": [
+          "Gesichtsreinigung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2081,
+        "ratingCount": 985
+      }
+    }
+  },
+  {
+    "gtin": 4262459491242,
+    "dan": 1541521,
+    "brandName": "LILLYDOO",
+    "title": "Feuchttücher mit 99 % Wasser, 60 St",
+    "tileData": {
+      "a11yLabel": "Marke: LILLYDOO; Produktname: Feuchttücher mit 99 % Wasser, 60 St; Preis: 3,25 €; Grundpreis: 60 St (0,05 € je 1 St)",
+      "brand": {
+        "name": "LILLYDOO"
+      },
+      "dan": 1541521,
+      "gtin": 4262459491242,
+      "images": [
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759962175/assets/pas/images/365379f6-cc21-4add-bea3-a5b41562c7c7/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495896/assets/pas/images/c6f1a1f3-368b-4126-90cb-556809d43370/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082090/assets/pas/images/6f22964c-b0a4-43c5-ba70-50eef8959b8e/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082057/assets/pas/images/95bd95ad-5459-4bfd-bb30-350524110207/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082107/assets/pas/images/c6501465-381f-4826-adcd-1669d639b243/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082075/assets/pas/images/34c9a2ef-7da4-4520-abbe-61c49bea973c/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082143/assets/pas/images/979e8462-f0a6-41a4-9e20-afa54fb6957f/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082126/assets/pas/images/2fdc2a0f-2eb2-4fbe-aa24-cc3de3a9a2e4/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,73 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (0,04 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (0,05 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 330,
+        "ratingValue": 4.5576
+      },
+      "self": "/p/d/1541521/lillydoo-feuchttuecher-mit-99-prozent-wasser",
+      "title": {
+        "tileHeadline": "Feuchttücher mit 99 % Wasser, 60 St",
+        "tileHeadlineLong": "Feuchttücher mit 99 % Wasser, 60 St"
+      },
+      "trackingData": {
+        "brand": "LILLYDOO",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5576,
+        "ratingCount": 330
+      }
+    }
+  },
+  {
+    "gtin": 5099514002735,
+    "dan": 1689622,
+    "brandName": "WaterWipes",
+    "title": "Feuchttücher (3x48 St), 144 St",
+    "tileData": {
+      "a11yLabel": "Marke: WaterWipes; Produktname: Feuchttücher (3x48 St), 144 St; Preis: 7,45 €; Grundpreis: 144 St (0,05 € je 1 St); Grafik: Hebammen-testen.de 98% Empfehlung für WaterWipes Baby-Feuchttücher - biologisch abbaubar von 100 Hebammen 10/2021 Lz.Nr. 1001682",
+      "brand": {
+        "name": "WaterWipes"
+      },
+      "dan": 1689622,
+      "eyecatchers": [
+        {
+          "alt": "Grafik: Hebammen-testen.de 98% Empfehlung für WaterWipes Baby-Feuchttücher - biologisch abbaubar von 100 Hebammen 10/2021 Lz.Nr. 1001682",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768819730/assets/pas/seals/a5ef9be9-8941-442e-a947-96b4788d74ff/a5ef9be9-8941-442e-a947-96b4788d74ff.png",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768819730/assets/pas/seals/a5ef9be9-8941-442e-a947-96b4788d74ff/a5ef9be9-8941-442e-a947-96b4788d74ff.png"
+        }
+      ],
+      "gtin": 5099514002735,
+      "images": [
+        {
+          "alt": "Feuchttücher (3x48 St) WaterWipes",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772928639/assets/pas/images/f104cf8c-ac5d-4ada-a05b-28a0c7e0c767/waterwipes-feuchttuecher-3x48-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,26 €"
+          }
+        },
+        "tileInfos": [
+          "144 St (0,04 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,45 €"
+          }
+        },
+        "tileInfos": [
+          "144 St (0,05 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 191,
+        "ratingValue": 4.6545
+      },
+      "self": "/p/d/1689622/waterwipes-feuchttuecher-3x48-st",
+      "title": {
+        "tileHeadline": "Feuchttücher (3x48 St), 144 St",
+        "tileHeadlineLong": "Feuchttücher (3x48 St), 144 St"
+      },
+      "trackingData": {
+        "brand": "WaterWipes",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6545,
+        "ratingCount": 191
+      }
+    }
+  },
+  {
+    "gtin": 4270001309549,
+    "dan": 3092371,
+    "brandName": "nevernot",
+    "title": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: nevernot; Produktname: Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert, 100 ml; Preis: 9,95 €; Grundpreis: 0,1 l (99,50 € je 1 l)",
+      "brand": {
+        "name": "nevernot"
+      },
+      "dan": 3092371,
+      "gtin": 4270001309549,
+      "images": [
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782257200/assets/pas/images/dfd0d94e-6026-4173-9332-f1cbc8e33153/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764376271/assets/pas/images/5ca1b92a-ded3-4a4c-a73b-1939c1ca82c2/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764111498/assets/pas/images/5fb0d297-8183-4497-b642-f2cd9268455f/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761907456/assets/pas/images/734c1836-b79a-48ee-acf3-06a2f5dca4c2/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761907396/assets/pas/images/3ebd2199-a689-4225-9d47-0c4e2e3685da/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761907528/assets/pas/images/490fc5db-4ada-499e-9556-4025a9010396/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761907584/assets/pas/images/87cddd7b-1dad-4547-b072-d0149b87ee47/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761907639/assets/pas/images/4e621882-2cd0-407d-a0c0-278932536ee7/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762816713/assets/pas/images/6b71a0c9-db23-4118-8558-8936deaf6109/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774484528/assets/pas/images/714e6f29-6e4b-45e9-9c3c-059d2e124144/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761907752/assets/pas/images/a2db65f6-2edc-4e07-8c8c-d495d0d49bb2/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        },
+        {
+          "alt": "Gleitgel soo good mit Milchsäure & Allantoin, wasserbasiert nevernot",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761907803/assets/pas/images/7c1c7ed2-c3f2-41dd-a27c-f44da2561717/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (83,61 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (99,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 62,
+        "ratingValue": 4.3548
+      },
+      "self": "/p/d/3092371/nevernot-gleitgel-soo-good-mit-milchsaeure-und-allantoin-wasserbasiert",
+      "title": {
+        "tileHeadline": "Gleitgel soo good mit Milchsäure & Allantoin,..., 100 ml",
+        "tileHeadlineLong": "Gleitgel soo good mit Milchsäure & Allantoin,..., 100 ml"
+      },
+      "trackingData": {
+        "brand": "nevernot",
+        "categories": [
+          "Gleitgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3548,
+        "ratingCount": 62
+      }
+    }
+  },
+  {
+    "gtin": 5412533420128,
+    "dan": 1631241,
+    "brandName": "ECOVER",
+    "title": "Woll & Feinwaschmittel flüssig Wasserlilie & Honigmelone, 22 Wl",
+    "tileData": {
+      "a11yLabel": "Marke: ECOVER; Produktname: Woll & Feinwaschmittel flüssig Wasserlilie & Honigmelone, 22 Wl; Preis: 5,25 €; Grundpreis: 22 Wl (0,24 € je 1 Wl); Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "ECOVER"
+      },
+      "dan": 1631241,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 5412533420128,
+      "images": [
+        {
+          "alt": "Woll & Feinwaschmittel flüssig Wasserlilie & Honigmelone ECOVER",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748475211/assets/pas/images/69fcfbe5-9a66-4962-aeea-3562ac16f93a/ecover-woll-und-feinwaschmittel-fluessig-wasserlilie-und-honigmelone"
+        },
+        {
+          "alt": "Woll & Feinwaschmittel flüssig Wasserlilie & Honigmelone ECOVER",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501701/assets/pas/images/bc60a53f-d603-4cfe-bdfb-1d0f56360690/ecover-woll-und-feinwaschmittel-fluessig-wasserlilie-und-honigmelone"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,41 €"
+          }
+        },
+        "tileInfos": [
+          "22 Wl (0,20 € je 1 Wl)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,25 €"
+          }
+        },
+        "tileInfos": [
+          "22 Wl (0,24 € je 1 Wl)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 242,
+        "ratingValue": 4.5868
+      },
+      "self": "/p/d/1631241/ecover-woll-und-feinwaschmittel-fluessig-wasserlilie-und-honigmelone",
+      "title": {
+        "tileHeadline": "Woll & Feinwaschmittel flüssig Wasserlilie &..., 22 Wl",
+        "tileHeadlineLong": "Woll & Feinwaschmittel flüssig Wasserlilie &..., 22 Wl"
+      },
+      "trackingData": {
+        "brand": "ECOVER",
+        "categories": [
+          "Waschmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5885,
+        "ratingCount": 243
+      }
+    }
+  },
+  {
+    "gtin": 3600542656757,
+    "dan": 3120266,
+    "brandName": "Garnier Ambre Solaire",
+    "title": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Garnier Ambre Solaire; Produktname: Sonnenspray sensitiv expert+ hydrating sun water, LFS 50, 150 ml; Preis: 12,95 €; Grundpreis: 0,15 l (86,33 € je 1 l)",
+      "brand": {
+        "name": "Garnier Ambre Solaire"
+      },
+      "dan": 3120266,
+      "gtin": 3600542656757,
+      "images": [
+        {
+          "alt": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50 Garnier Ambre Solaire",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767776802/assets/pas/images/9a233b76-fa27-48cc-b3c8-ffe9b1a5efb8/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50"
+        },
+        {
+          "alt": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50 Garnier Ambre Solaire",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767776726/assets/pas/images/5fcd2110-2e2d-4230-853f-3ea3467a7467/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50"
+        },
+        {
+          "alt": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50 Garnier Ambre Solaire",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767776838/assets/pas/images/44de4451-23af-4ae7-b940-b2bc7bcd0341/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50"
+        },
+        {
+          "alt": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50 Garnier Ambre Solaire",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767776900/assets/pas/images/21b70905-863a-4372-b152-d786591b5f78/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50"
+        },
+        {
+          "alt": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50 Garnier Ambre Solaire",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767776939/assets/pas/images/a65da500-00e7-48b6-b425-96359ba0c9bd/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50"
+        },
+        {
+          "alt": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50 Garnier Ambre Solaire",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767776930/assets/pas/images/768682a5-612a-4081-8fec-553fc06523a8/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50"
+        },
+        {
+          "alt": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50 Garnier Ambre Solaire",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767776919/assets/pas/images/863becc8-b2da-43a0-9304-5efc9c6d436f/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50"
+        },
+        {
+          "alt": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50 Garnier Ambre Solaire",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767776847/assets/pas/images/f04e7afb-2134-4f68-9af7-5ad12f18569f/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50"
+        },
+        {
+          "alt": "Sonnenspray sensitiv expert+ hydrating sun water, LFS 50 Garnier Ambre Solaire",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767776866/assets/pas/images/2149b955-1aee-47bd-a21d-7849f9a1e9b3/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,88 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (72,55 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (86,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 523,
+        "ratingValue": 4.7954
+      },
+      "self": "/p/d/3120266/garnier-ambre-solaire-sonnenspray-sensitiv-expert-hydrating-sun-water-lfs-50",
+      "title": {
+        "tileHeadline": "Sonnenspray sensitiv expert+ hydrating sun water,..., 150 ml",
+        "tileHeadlineLong": "Sonnenspray sensitiv expert+ hydrating sun water,..., 150 ml"
+      },
+      "trackingData": {
+        "brand": "Garnier Ambre Solaire",
+        "categories": [
+          "Sonnenspray"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 12.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7954,
+        "ratingCount": 523
+      }
+    }
+  },
+  {
+    "gtin": 8693347001681,
+    "dan": 1530750,
+    "brandName": "Rosense",
+    "title": "Gesichtswasser Rosenwasser, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Rosense; Produktname: Gesichtswasser Rosenwasser, 300 ml; Preis: 13,95 €; Grundpreis: 0,3 l (46,50 € je 1 l)",
+      "brand": {
+        "name": "Rosense"
+      },
+      "dan": 1530750,
+      "gtin": 8693347001681,
+      "images": [
+        {
+          "alt": "Gesichtswasser Rosenwasser  Rosense",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747528518/assets/pas/images/b5102b84-10fe-4752-b400-e3f516350f74/rosense-gesichtswasser-rosenwasser"
+        },
+        {
+          "alt": "Gesichtswasser Rosenwasser  Rosense",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747528230/assets/pas/images/8af82027-16fb-4784-a483-b2ae716a54c0/rosense-gesichtswasser-rosenwasser"
+        },
+        {
+          "alt": "Gesichtswasser Rosenwasser  Rosense",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747528230/assets/pas/images/4f594fad-56df-40b5-b43e-17ef26f5e8f9/rosense-gesichtswasser-rosenwasser"
+        },
+        {
+          "alt": "Gesichtswasser Rosenwasser  Rosense",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747528231/assets/pas/images/ef0a7f64-8252-4215-b904-afb8906be4a2/rosense-gesichtswasser-rosenwasser"
+        },
+        {
+          "alt": "Gesichtswasser Rosenwasser  Rosense",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747528230/assets/pas/images/ed19ae12-1174-4d6d-ade6-d20b1ae4117b/rosense-gesichtswasser-rosenwasser"
+        },
+        {
+          "alt": "Gesichtswasser Rosenwasser  Rosense",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747528519/assets/pas/images/a25599d9-2c1e-4124-ab35-00477afb1ba5/rosense-gesichtswasser-rosenwasser"
+        },
+        {
+          "alt": "Gesichtswasser Rosenwasser  Rosense",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747528036/assets/pas/images/cf3535d1-079d-46ca-b70c-9a9b45667f00/rosense-gesichtswasser-rosenwasser"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,72 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (39,08 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (46,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 421,
+        "ratingValue": 4.7292
+      },
+      "self": "/p/d/1530750/rosense-gesichtswasser-rosenwasser",
+      "title": {
+        "tileHeadline": "Gesichtswasser Rosenwasser, 300 ml",
+        "tileHeadlineLong": "Gesichtswasser Rosenwasser, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Rosense",
+        "categories": [
+          "Gesichtsreinigung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7292,
+        "ratingCount": 421
+      }
+    }
+  },
+  {
+    "gtin": 4003573023144,
+    "dan": 3069473,
+    "brandName": "Schaebens",
+    "title": "Tuchmaske Reiswasser, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: Schaebens; Produktname: Tuchmaske Reiswasser, 1 St; Preis: 1,45 €; Grundpreis: 1 St (1,45 € je 1 St)",
+      "brand": {
+        "name": "Schaebens"
+      },
+      "dan": 3069473,
+      "gtin": 4003573023144,
+      "images": [
+        {
+          "alt": "Tuchmaske Reiswasser Schaebens",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758315614/assets/pas/images/d07e772e-a54e-4f35-85dc-7ce62b7f3682/schaebens-tuchmaske-reiswasser"
+        },
+        {
+          "alt": "Tuchmaske Reiswasser Schaebens",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758315625/assets/pas/images/38de0dca-d820-41ec-9216-e00362c6bc51/schaebens-tuchmaske-reiswasser"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (1,22 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (1,45 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 112,
+        "ratingValue": 4.8304
+      },
+      "self": "/p/d/3069473/schaebens-tuchmaske-reiswasser",
+      "title": {
+        "tileHeadline": "Tuchmaske Reiswasser, 1 St",
+        "tileHeadlineLong": "Tuchmaske Reiswasser, 1 St"
+      },
+      "trackingData": {
+        "brand": "Schaebens",
+        "categories": [
+          "Gesichtsmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8304,
+        "ratingCount": 112
+      }
+    }
+  },
+  {
+    "gtin": 8720181819711,
+    "dan": 3124395,
+    "brandName": "Rexona",
+    "title": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Rexona; Produktname: Antitranspirant Deospray Cooling Eucalyptus & Coconut Water, 150 ml; Preis: 3,25 €; Grundpreis: 0,15 l (21,67 € je 1 l)",
+      "brand": {
+        "name": "Rexona"
+      },
+      "dan": 3124395,
+      "gtin": 8720181819711,
+      "images": [
+        {
+          "alt": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water Rexona",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686936/assets/pas/images/1d8ce598-7966-44a4-b9bc-71086a41ebb3/rexona-antitranspirant-deospray-cooling-eucalyptus-und-coconut-water"
+        },
+        {
+          "alt": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water Rexona",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769690711/assets/pas/images/3d8c67c7-afef-4a01-88ce-484ad3544ab6/rexona-antitranspirant-deospray-cooling-eucalyptus-und-coconut-water"
+        },
+        {
+          "alt": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water Rexona",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770244153/assets/pas/images/35a84f0e-0285-4bee-8338-5c6a649f1add/rexona-antitranspirant-deospray-cooling-eucalyptus-und-coconut-water"
+        },
+        {
+          "alt": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water Rexona",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770244164/assets/pas/images/83a3c7bb-51fc-458e-8a37-14da5d22236d/rexona-antitranspirant-deospray-cooling-eucalyptus-und-coconut-water"
+        },
+        {
+          "alt": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water Rexona",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770244141/assets/pas/images/c1b13bc2-070e-46ba-b025-7bf7ddff4735/rexona-antitranspirant-deospray-cooling-eucalyptus-und-coconut-water"
+        },
+        {
+          "alt": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water Rexona",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770244177/assets/pas/images/9dd57dd8-d105-48ba-99fc-0d0c5a664353/rexona-antitranspirant-deospray-cooling-eucalyptus-und-coconut-water"
+        },
+        {
+          "alt": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water Rexona",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686942/assets/pas/images/573230dd-5e63-4e13-b1ad-459ca957cad4/rexona-antitranspirant-deospray-cooling-eucalyptus-und-coconut-water"
+        },
+        {
+          "alt": "Antitranspirant Deospray Cooling Eucalyptus & Coconut Water Rexona",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769690718/assets/pas/images/6ceedcb3-fd73-4b21-abfc-ecc1cb2a2d73/rexona-antitranspirant-deospray-cooling-eucalyptus-und-coconut-water"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (18,21 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (21,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 41,
+        "ratingValue": 4.6098
+      },
+      "self": "/p/d/3124395/rexona-antitranspirant-deospray-cooling-eucalyptus-und-coconut-water",
+      "title": {
+        "tileHeadline": "Antitranspirant Deospray Cooling Eucalyptus &..., 150 ml",
+        "tileHeadlineLong": "Antitranspirant Deospray Cooling Eucalyptus &..., 150 ml"
+      },
+      "trackingData": {
+        "brand": "Rexona",
+        "categories": [
+          "Deo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5952,
+        "ratingCount": 42
+      }
+    }
+  }
+]

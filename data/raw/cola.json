@@ -1,0 +1,1295 @@
+[
+  {
+    "gtin": 5745000657223,
+    "dan": 2170891,
+    "brandName": "True Dates",
+    "title": "Trockenfrüchte, Datteln mit Geschmack, Sour Cola, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: True Dates; Produktname: Trockenfrüchte, Datteln mit Geschmack, Sour Cola, 100 g; Preis: 1,75 €; Grundpreis: 0,1 kg (17,50 € je 1 kg); Limitierte Editition Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "True Dates"
+      },
+      "dan": 2170891,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 5745000657223,
+      "images": [
+        {
+          "alt": "Trockenfrüchte, Datteln mit Geschmack, Sour Cola True Dates",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762816375/assets/pas/images/21684c70-6bde-45c9-9651-464f4a0d1224/true-dates-trockenfruechte-datteln-mit-geschmack-sour-cola"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (16,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (17,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.8824
+      },
+      "self": "/p/d/2170891/true-dates-trockenfruechte-datteln-mit-geschmack-sour-cola",
+      "title": {
+        "tileHeadline": "Trockenfrüchte, Datteln mit Geschmack, Sour Cola, 100 g",
+        "tileHeadlineLong": "Trockenfrüchte, Datteln mit Geschmack, Sour Cola, 100 g"
+      },
+      "trackingData": {
+        "brand": "True Dates",
+        "categories": [
+          "Trockenfrüchte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8824,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4260562940909,
+    "dan": 3118109,
+    "brandName": "ahead",
+    "title": "Fruchtgummi, Cola Bottles Gummies, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: ahead; Produktname: Fruchtgummi, Cola Bottles Gummies, 50 g; Preis: 1,75 €; Grundpreis: 0,05 kg (35,00 € je 1 kg)",
+      "brand": {
+        "name": "ahead"
+      },
+      "dan": 3118109,
+      "gtin": 4260562940909,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Cola Bottles Gummies ahead",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765800779/assets/pas/images/7848625d-ee05-4ae8-a69f-6f0bf270ff8c/ahead-fruchtgummi-cola-bottles-gummies"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.7021
+      },
+      "self": "/p/d/3118109/ahead-fruchtgummi-cola-bottles-gummies",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Cola Bottles Gummies, 50 g",
+        "tileHeadlineLong": "Fruchtgummi, Cola Bottles Gummies, 50 g"
+      },
+      "trackingData": {
+        "brand": "ahead",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7021,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 4066447855708,
+    "dan": 1621779,
+    "brandName": "dmBio",
+    "title": "Erfrischungsgetränk, Guarana-Cola, 430 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erfrischungsgetränk, Guarana-Cola, 430 ml EINWEG; Preis: 1,25 €; Grundpreis: 0,43 l (2,91 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1621779,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447855708,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Guarana-Cola dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757023776/assets/pas/images/27e8d93d-483a-4743-b5df-b1127f702782/dmbio-erfrischungsgetraenk-guarana-cola"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Guarana-Cola dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757023765/assets/pas/images/6ee58f4b-5a31-4a65-ab9c-fd1cd1cf19da/dmbio-erfrischungsgetraenk-guarana-cola"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Guarana-Cola dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757023773/assets/pas/images/e67717ed-bf1f-448c-a450-c62c7f0788ad/dmbio-erfrischungsgetraenk-guarana-cola"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 135,
+        "ratingValue": 3.6148
+      },
+      "self": "/p/d/1621779/dmbio-erfrischungsgetraenk-guarana-cola",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Guarana-Cola, 430 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Guarana-Cola, 430 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6148,
+        "ratingCount": 135
+      }
+    }
+  },
+  {
+    "gtin": 4015100893182,
+    "dan": 3122419,
+    "brandName": "Schwarzkopf LIVE",
+    "title": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Schwarzkopf LIVE; Produktname: Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red, 150 ml; Preis: 8,95 €; Grundpreis: 0,15 l (59,67 € je 1 l)",
+      "brand": {
+        "name": "Schwarzkopf LIVE"
+      },
+      "dan": 3122419,
+      "gtin": 4015100893182,
+      "images": [
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188120/assets/pas/images/84908509-8f91-4189-af06-401a8ef3fda4/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188127/assets/pas/images/06cf93cc-2c18-481b-ab4a-db3509f817a2/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188204/assets/pas/images/b89897a2-fd88-4d0e-96ab-65b29812c8a9/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188241/assets/pas/images/841e0b72-58cd-4e60-8b85-a66f9be32e91/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188231/assets/pas/images/d6b194ca-9427-428c-82f2-1babdf402498/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188222/assets/pas/images/fb7d1e2c-46b3-4720-b76a-e05749b6f08a/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188212/assets/pas/images/e95ecc3c-18e3-41e2-8d6a-a2483ff64b22/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188282/assets/pas/images/51e4c2e7-9c18-434f-8929-9cc279e72b85/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188290/assets/pas/images/b26978e9-0bfb-4672-b2d0-2f4a17105f6f/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188287/assets/pas/images/261f5b31-b17a-4f35-9783-9d958b67b041/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188285/assets/pas/images/b53947e1-11a5-431c-8dbd-f5cbbdd7dcea/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188276/assets/pas/images/7e3a6db1-1ad8-4c1f-8ab5-53b64c06dc0b/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188268/assets/pas/images/a135a0e8-1dc4-44cf-a51f-31814d7b4b45/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188258/assets/pas/images/2d295934-e6b7-4d87-8030-5b1fad52b902/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        },
+        {
+          "alt": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry Cola Red Schwarzkopf LIVE",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781188250/assets/pas/images/69615548-6dd3-4f6c-9630-697b7066479a/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (50,14 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (59,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 132,
+        "ratingValue": 3.8788
+      },
+      "self": "/p/d/3122419/schwarzkopf-live-farb-glanzbehandlung-glossing-go-gloss-cherry-cola-red",
+      "title": {
+        "tileHeadline": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry..., 150 ml",
+        "tileHeadlineLong": "Farb-Glanzbehandlung Glossing Go Gloss, Cherry..., 150 ml"
+      },
+      "trackingData": {
+        "brand": "Schwarzkopf LIVE",
+        "categories": [
+          "Glossing"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8788,
+        "ratingCount": 132
+      }
+    }
+  },
+  {
+    "gtin": 609332823242,
+    "dan": 3137457,
+    "brandName": "e.l.f. Cosmetics",
+    "title": "Blush Tint Sheer For It Cherry Cola, 6,8 ml",
+    "tileData": {
+      "a11yLabel": "Marke: e.l.f. Cosmetics; Produktname: Blush Tint Sheer For It Cherry Cola, 6,8 ml; Preis: 6,95 €; Neues Produkt Grafik",
+      "brand": {
+        "name": "e.l.f. Cosmetics"
+      },
+      "dan": 3137457,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 609332823242,
+      "images": [
+        {
+          "alt": "Blush Tint Sheer For It Cherry Cola e.l.f. Cosmetics",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775720724/assets/pas/images/fb96a0ce-3156-4f61-83ad-bb9af9d59804/e-l-f-cosmetics-blush-tint-sheer-for-it-cherry-cola"
+        },
+        {
+          "alt": "Blush Tint Sheer For It Cherry Cola e.l.f. Cosmetics",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781048628/assets/pas/images/7d0d131b-1977-4538-978b-e35e92e92c37/e-l-f-cosmetics-blush-tint-sheer-for-it-cherry-cola"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        }
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        }
+      },
+      "rating": {
+        "ratingCount": 2,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/3137457/e-l-f-cosmetics-blush-tint-sheer-for-it-cherry-cola",
+      "title": {
+        "tileHeadline": "Blush Tint Sheer For It Cherry Cola, 6,8 ml",
+        "tileHeadlineLong": "Blush Tint Sheer For It Cherry Cola, 6,8 ml"
+      },
+      "trackingData": {
+        "brand": "e.l.f. Cosmetics",
+        "categories": [
+          "Blush"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 2
+      }
+    }
+  },
+  {
+    "gtin": 5000357111249,
+    "dan": 3136000,
+    "brandName": "Fisherman's Friend",
+    "title": "Pastillen, Cola, zuckerfrei, 25 g",
+    "tileData": {
+      "a11yLabel": "Marke: Fisherman's Friend; Produktname: Pastillen, Cola, zuckerfrei, 25 g; Preis: 0,95 €; Grundpreis: 0,025 kg (38,00 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "Fisherman's Friend"
+      },
+      "dan": 3136000,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 5000357111249,
+      "images": [
+        {
+          "alt": "Pastillen, Cola, zuckerfrei Fisherman's Friend",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774861506/assets/pas/images/aeec908f-4a14-488d-bf6e-b2373ef3abe7/fishermans-friend-pastillen-cola-zuckerfrei"
+        },
+        {
+          "alt": "Pastillen, Cola, zuckerfrei Fisherman's Friend",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774861500/assets/pas/images/1fd4f4c5-c2bc-4a6f-96fe-4402e42f5734/fishermans-friend-pastillen-cola-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (35,51 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (38,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 13,
+        "ratingValue": 4.7692
+      },
+      "self": "/p/d/3136000/fishermans-friend-pastillen-cola-zuckerfrei",
+      "title": {
+        "tileHeadline": "Pastillen, Cola, zuckerfrei, 25 g",
+        "tileHeadlineLong": "Pastillen, Cola, zuckerfrei, 25 g"
+      },
+      "trackingData": {
+        "brand": "Fisherman's Friend",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7692,
+        "ratingCount": 13
+      }
+    }
+  },
+  {
+    "gtin": 4070765042702,
+    "dan": 3070623,
+    "brandName": "dmBio",
+    "title": "Erfrischungsgetränk, Cola-Mix mit Guarana, 430 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Erfrischungsgetränk, Cola-Mix mit Guarana, 430 ml EINWEG; Preis: 1,25 €; Grundpreis: 0,43 l (2,91 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3070623,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765042702,
+      "images": [
+        {
+          "alt": "Erfrischungsgetränk, Cola-Mix mit Guarana dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781407678/assets/pas/images/93795b62-1486-496b-8e2f-4a9743d490e6/dmbio-erfrischungsgetraenk-cola-mix-mit-guarana"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Cola-Mix mit Guarana dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781407675/assets/pas/images/9760e00e-d60e-4107-85ec-baa1bd890a58/dmbio-erfrischungsgetraenk-cola-mix-mit-guarana"
+        },
+        {
+          "alt": "Erfrischungsgetränk, Cola-Mix mit Guarana dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781407681/assets/pas/images/a3a8a35f-5755-479e-8fc3-a11e5537d55e/dmbio-erfrischungsgetraenk-cola-mix-mit-guarana"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,43 l (2,91 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 2.8866
+      },
+      "self": "/p/d/3070623/dmbio-erfrischungsgetraenk-cola-mix-mit-guarana",
+      "title": {
+        "tileHeadline": "Erfrischungsgetränk, Cola-Mix mit Guarana, 430 ml EINWEG",
+        "tileHeadlineLong": "Erfrischungsgetränk, Cola-Mix mit Guarana, 430 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Erfrischung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.8866,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 4059779068311,
+    "dan": 3044240,
+    "brandName": "CRAZE",
+    "title": "Schaumbad Paw Patrol, 40 ml",
+    "tileData": {
+      "a11yLabel": "Marke: CRAZE; Produktname: Schaumbad Paw Patrol, 40 ml; Preis: 0,95 €; Grundpreis: 0,04 l (23,75 € je 1 l)",
+      "brand": {
+        "name": "CRAZE"
+      },
+      "dan": 3044240,
+      "gtin": 4059779068311,
+      "images": [
+        {
+          "alt": "Schaumbad Paw Patrol CRAZE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472864/assets/pas/images/0f86d575-2812-45fa-8ea1-11288e10f1b4/craze-schaumbad-paw-patrol"
+        },
+        {
+          "alt": "Schaumbad Paw Patrol CRAZE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472914/assets/pas/images/0d001132-bf93-4446-94f7-c24baf00eaa1/craze-schaumbad-paw-patrol"
+        },
+        {
+          "alt": "Schaumbad Paw Patrol CRAZE",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752878350/assets/pas/images/5317525c-adf0-4ebc-aeb7-38f319f1c0eb/craze-schaumbad-paw-patrol"
+        },
+        {
+          "alt": "Schaumbad Paw Patrol CRAZE",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472865/assets/pas/images/e61cb80e-fbc4-41c7-9ab8-3af26b69a886/craze-schaumbad-paw-patrol"
+        },
+        {
+          "alt": "Schaumbad Paw Patrol CRAZE",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473084/assets/pas/images/7aad4b03-1c9c-4af9-97ae-5fab3a184f09/craze-schaumbad-paw-patrol"
+        },
+        {
+          "alt": "Schaumbad Paw Patrol CRAZE",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472929/assets/pas/images/7fca0e26-a02d-45d2-a07a-f3b48c29d5e1/craze-schaumbad-paw-patrol"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 l (19,96 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 l (23,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 42,
+        "ratingValue": 4.4524
+      },
+      "self": "/p/d/3044240/craze-schaumbad-paw-patrol",
+      "title": {
+        "tileHeadline": "Schaumbad Paw Patrol, 40 ml",
+        "tileHeadlineLong": "Schaumbad Paw Patrol, 40 ml"
+      },
+      "trackingData": {
+        "brand": "CRAZE",
+        "categories": [
+          "Kinderbadezusätze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4524,
+        "ratingCount": 42
+      }
+    }
+  },
+  {
+    "gtin": 4059779049686,
+    "dan": 1714479,
+    "brandName": "CRAZE",
+    "title": "Kinder Badezusatz Badeschleim Dinorex, 110 g",
+    "tileData": {
+      "a11yLabel": "Marke: CRAZE; Produktname: Kinder Badezusatz Badeschleim Dinorex, 110 g; Preis: 3,95 €; Grundpreis: 0,11 kg (35,91 € je 1 kg); Limitierte Editition Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "CRAZE"
+      },
+      "dan": 1714479,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4059779049686,
+      "images": [
+        {
+          "alt": "Kinder Badezusatz Badeschleim Dinorex CRAZE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473170/assets/pas/images/3a47fdfe-3f50-4031-ab0e-207dd9cc4705/craze-kinder-badezusatz-badeschleim-dinorex"
+        },
+        {
+          "alt": "Kinder Badezusatz Badeschleim Dinorex CRAZE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472859/assets/pas/images/e9280888-ec97-4412-a7c7-a7d1e0dd418e/craze-kinder-badezusatz-badeschleim-dinorex"
+        },
+        {
+          "alt": "Kinder Badezusatz Badeschleim Dinorex CRAZE",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472910/assets/pas/images/ac660b0e-7172-4d3a-b215-20ee98e241c3/craze-kinder-badezusatz-badeschleim-dinorex"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (30,18 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (35,91 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 13,
+        "ratingValue": 3.3077
+      },
+      "self": "/p/d/1714479/craze-kinder-badezusatz-badeschleim-dinorex",
+      "title": {
+        "tileHeadline": "Kinder Badezusatz Badeschleim Dinorex, 110 g",
+        "tileHeadlineLong": "Kinder Badezusatz Badeschleim Dinorex, 110 g"
+      },
+      "trackingData": {
+        "brand": "CRAZE",
+        "categories": [
+          "Kinderbadezusätze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.3077,
+        "ratingCount": 13
+      }
+    }
+  },
+  {
+    "gtin": 4059779068281,
+    "dan": 3041653,
+    "brandName": "CRAZE",
+    "title": "Schaumbad Dinorex, 40 ml",
+    "tileData": {
+      "a11yLabel": "Marke: CRAZE; Produktname: Schaumbad Dinorex, 40 ml; Preis: 0,95 €; Grundpreis: 0,04 l (23,75 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "CRAZE"
+      },
+      "dan": 3041653,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4059779068281,
+      "images": [
+        {
+          "alt": "Schaumbad Dinorex CRAZE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473177/assets/pas/images/afa25e13-87f9-4c90-a7ae-c097e0b2a9de/craze-schaumbad-dinorex"
+        },
+        {
+          "alt": "Schaumbad Dinorex CRAZE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473076/assets/pas/images/e4b529f4-52ef-4110-bc22-68a902feedd1/craze-schaumbad-dinorex"
+        },
+        {
+          "alt": "Schaumbad Dinorex CRAZE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473179/assets/pas/images/2551efa9-34ed-4921-93f7-e9d2ff7f8c71/craze-schaumbad-dinorex"
+        },
+        {
+          "alt": "Schaumbad Dinorex CRAZE",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472919/assets/pas/images/1064a6cc-d2ae-4311-a8fa-7340926ffa59/craze-schaumbad-dinorex"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 l (19,96 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 l (23,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 16,
+        "ratingValue": 4.5625
+      },
+      "self": "/p/d/3041653/craze-schaumbad-dinorex",
+      "title": {
+        "tileHeadline": "Schaumbad Dinorex, 40 ml",
+        "tileHeadlineLong": "Schaumbad Dinorex, 40 ml"
+      },
+      "trackingData": {
+        "brand": "CRAZE",
+        "categories": [
+          "Kinderbadezusätze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5625,
+        "ratingCount": 16
+      }
+    }
+  },
+  {
+    "gtin": 4059779050873,
+    "dan": 3078750,
+    "brandName": "CRAZE",
+    "title": "Kinder Badezusatz Badebombe Dragons, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: CRAZE; Produktname: Kinder Badezusatz Badebombe Dragons, 1 St; Preis: 3,95 €; Grundpreis: 1 St (3,95 € je 1 St)",
+      "brand": {
+        "name": "CRAZE"
+      },
+      "dan": 3078750,
+      "gtin": 4059779050873,
+      "images": [
+        {
+          "alt": "Kinder Badezusatz Badebombe Dragons CRAZE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754003194/assets/pas/images/e85167c8-f579-4378-84b0-455c616ca093/craze-kinder-badezusatz-badebombe-dragons"
+        },
+        {
+          "alt": "Kinder Badezusatz Badebombe Dragons CRAZE",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754003222/assets/pas/images/696be09d-36c5-4851-b2d0-91df5d727629/craze-kinder-badezusatz-badebombe-dragons"
+        },
+        {
+          "alt": "Kinder Badezusatz Badebombe Dragons CRAZE",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754003208/assets/pas/images/949caa2b-7867-4e0a-a2ed-e79ab388cd72/craze-kinder-badezusatz-badebombe-dragons"
+        },
+        {
+          "alt": "Kinder Badezusatz Badebombe Dragons CRAZE",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754003235/assets/pas/images/13491b84-4300-43ea-9d59-720c1efd4a38/craze-kinder-badezusatz-badebombe-dragons"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (3,32 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (3,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 25,
+        "ratingValue": 4.76
+      },
+      "self": "/p/d/3078750/craze-kinder-badezusatz-badebombe-dragons",
+      "title": {
+        "tileHeadline": "Kinder Badezusatz Badebombe Dragons, 1 St",
+        "tileHeadlineLong": "Kinder Badezusatz Badebombe Dragons, 1 St"
+      },
+      "trackingData": {
+        "brand": "CRAZE",
+        "categories": [
+          "Kinderbadezusätze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.76,
+        "ratingCount": 25
+      }
+    }
+  },
+  {
+    "gtin": 4059779052327,
+    "dan": 2978161,
+    "brandName": "CRAZE",
+    "title": "Kinder Badezusatz Badebombe Paw Patrol, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: CRAZE; Produktname: Kinder Badezusatz Badebombe Paw Patrol, 1 St; Preis: 3,95 €; Grundpreis: 1 St (3,95 € je 1 St)",
+      "brand": {
+        "name": "CRAZE"
+      },
+      "dan": 2978161,
+      "gtin": 4059779052327,
+      "images": [
+        {
+          "alt": "Kinder Badezusatz Badebombe Paw Patrol CRAZE",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473072/assets/pas/images/0d596abd-e959-4f6a-89ed-e446d6a0d010/craze-kinder-badezusatz-badebombe-paw-patrol"
+        },
+        {
+          "alt": "Kinder Badezusatz Badebombe Paw Patrol CRAZE",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472911/assets/pas/images/6625160e-6675-4c8f-b74f-a29a576b58d0/craze-kinder-badezusatz-badebombe-paw-patrol"
+        },
+        {
+          "alt": "Kinder Badezusatz Badebombe Paw Patrol CRAZE",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473071/assets/pas/images/1296e218-731b-42d4-844c-614ef4578239/craze-kinder-badezusatz-badebombe-paw-patrol"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (3,32 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (3,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.3043
+      },
+      "self": "/p/d/2978161/craze-kinder-badezusatz-badebombe-paw-patrol",
+      "title": {
+        "tileHeadline": "Kinder Badezusatz Badebombe Paw Patrol, 1 St",
+        "tileHeadlineLong": "Kinder Badezusatz Badebombe Paw Patrol, 1 St"
+      },
+      "trackingData": {
+        "brand": "CRAZE",
+        "categories": [
+          "Kinderbadezusätze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3043,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4059779050934,
+    "dan": 1459239,
+    "brandName": "CRAZE",
+    "title": "Kinder Badezusatz Badefizzer, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: CRAZE; Produktname: Kinder Badezusatz Badefizzer, 20 g; Preis: 0,75 €; Grundpreis: 1 St (0,75 € je 1 St)",
+      "brand": {
+        "name": "CRAZE"
+      },
+      "dan": 1459239,
+      "gtin": 4059779050934,
+      "images": [
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472904/assets/pas/images/93f9d206-b209-4c67-8346-d86f2e0c881c/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472859/assets/pas/images/99f114af-39b4-4b1a-8664-9f3824087c07/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472919/assets/pas/images/112466d6-bf51-400a-861f-c448de45d25c/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747473170/assets/pas/images/30a06614-f2ba-403f-93d1-4b5b314113b7/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472907/assets/pas/images/50154c8d-fb6b-4b2f-bbb5-4415113c52b1/craze-kinder-badezusatz-badefizzer"
+        },
+        {
+          "alt": "Kinder Badezusatz Badefizzer CRAZE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747472906/assets/pas/images/745764fb-9233-4d47-bff3-3757366dc949/craze-kinder-badezusatz-badefizzer"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,63 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (0,63 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (0,75 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.3088
+      },
+      "self": "/p/d/1459239/craze-kinder-badezusatz-badefizzer",
+      "title": {
+        "tileHeadline": "Kinder Badezusatz Badefizzer, 20 g",
+        "tileHeadlineLong": "Kinder Badezusatz Badefizzer, 20 g"
+      },
+      "trackingData": {
+        "brand": "CRAZE",
+        "categories": [
+          "Kinderbadezusätze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3088,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4260680635213,
+    "dan": 3102237,
+    "brandName": "Forest GUM",
+    "title": "Fruchtgummi, Cola Crush, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Forest GUM; Produktname: Fruchtgummi, Cola Crush, 100 g; Preis: 1,75 €; Grundpreis: 0,1 kg (17,50 € je 1 kg)",
+      "brand": {
+        "name": "Forest GUM"
+      },
+      "dan": 3102237,
+      "gtin": 4260680635213,
+      "images": [
+        {
+          "alt": "Fruchtgummi, Cola Crush Forest GUM",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763252546/assets/pas/images/6a245f9f-77da-446a-8fa0-52a44bbf0272/forest-gum-fruchtgummi-cola-crush"
+        },
+        {
+          "alt": "Fruchtgummi, Cola Crush Forest GUM",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769639192/assets/pas/images/31cdd1f7-59ac-42c4-bb58-75c806cb5512/forest-gum-fruchtgummi-cola-crush"
+        },
+        {
+          "alt": "Fruchtgummi, Cola Crush Forest GUM",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772151453/assets/pas/images/a31b5e33-9d1b-41e4-bcf7-35f1ff960337/forest-gum-fruchtgummi-cola-crush"
+        },
+        {
+          "alt": "Fruchtgummi, Cola Crush Forest GUM",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770250046/assets/pas/images/df83e69b-2a3f-450d-9d7d-0f6d9266fe4d/forest-gum-fruchtgummi-cola-crush"
+        },
+        {
+          "alt": "Fruchtgummi, Cola Crush Forest GUM",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770250038/assets/pas/images/b86733c5-870f-4a90-86c9-f02b636ae3ed/forest-gum-fruchtgummi-cola-crush"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (16,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (17,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 44,
+        "ratingValue": 4.5227
+      },
+      "self": "/p/d/3102237/forest-gum-fruchtgummi-cola-crush",
+      "title": {
+        "tileHeadline": "Fruchtgummi, Cola Crush, 100 g",
+        "tileHeadlineLong": "Fruchtgummi, Cola Crush, 100 g"
+      },
+      "trackingData": {
+        "brand": "Forest GUM",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5227,
+        "ratingCount": 44
+      }
+    }
+  }
+]

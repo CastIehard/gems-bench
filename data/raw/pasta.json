@@ -1,0 +1,2661 @@
+[
+  {
+    "gtin": 4066447889949,
+    "dan": 1515565,
+    "brandName": "dmBio",
+    "title": "Nudeln, Ravioli, 270 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Ravioli, 270 g; Preis: 2,35 €; Grundpreis: 0,27 kg (8,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1515565,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447889949,
+      "images": [
+        {
+          "alt": "Nudeln, Ravioli dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763254698/assets/pas/images/e4e83efc-2d5a-46af-ac0c-65b57f02e118/dmbio-nudeln-ravioli"
+        },
+        {
+          "alt": "Nudeln, Ravioli dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763254705/assets/pas/images/b8d35f60-f07c-4cd9-8a5d-beb9c0447407/dmbio-nudeln-ravioli"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,27 kg (8,13 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,27 kg (8,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 437,
+        "ratingValue": 3.595
+      },
+      "self": "/p/d/1515565/dmbio-nudeln-ravioli",
+      "title": {
+        "tileHeadline": "Nudeln, Ravioli, 270 g",
+        "tileHeadlineLong": "Nudeln, Ravioli, 270 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.595,
+        "ratingCount": 437
+      }
+    }
+  },
+  {
+    "gtin": 7640143670345,
+    "dan": 1599348,
+    "brandName": "PPURA",
+    "title": "Nudeln, Fusilli aus Emmer, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Nudeln, Fusilli aus Emmer, 500 g; Preis: 2,95 €; Grundpreis: 0,5 kg (5,90 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1599348,
+      "gtin": 7640143670345,
+      "images": [
+        {
+          "alt": "Nudeln, Fusilli aus Emmer PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511758/assets/pas/images/4ba6ac2b-4e18-4914-a2c0-32d61f2c8491/ppura-nudeln-fusilli-aus-emmer"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Emmer PPURA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511803/assets/pas/images/7c4153b4-265a-4369-a5a0-405f07e7a8d5/ppura-nudeln-fusilli-aus-emmer"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Emmer PPURA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511757/assets/pas/images/754a7aca-35a8-4ce3-b186-0ee5120261f8/ppura-nudeln-fusilli-aus-emmer"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Emmer PPURA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511803/assets/pas/images/90fe8849-aa8c-4fce-9a7d-462fe5cc1d54/ppura-nudeln-fusilli-aus-emmer"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Emmer PPURA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511801/assets/pas/images/dda8327d-9e39-4a06-b4d5-3cc6eeed2c41/ppura-nudeln-fusilli-aus-emmer"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,51 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 103,
+        "ratingValue": 4.9029
+      },
+      "self": "/p/d/1599348/ppura-nudeln-fusilli-aus-emmer",
+      "title": {
+        "tileHeadline": "Nudeln, Fusilli aus Emmer, 500 g",
+        "tileHeadlineLong": "Nudeln, Fusilli aus Emmer, 500 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9029,
+        "ratingCount": 103
+      }
+    }
+  },
+  {
+    "gtin": 8008343700511,
+    "dan": 1571473,
+    "brandName": "Rummo",
+    "title": "Nudeln, Rigatoni aus Weizen, Vollkorn, No.51, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Rummo; Produktname: Nudeln, Rigatoni aus Weizen, Vollkorn, No.51, 500 g; Preis: 1,95 €; Grundpreis: 0,5 kg (3,90 € je 1 kg)",
+      "brand": {
+        "name": "Rummo"
+      },
+      "dan": 1571473,
+      "gtin": 8008343700511,
+      "images": [
+        {
+          "alt": "Nudeln, Rigatoni aus Weizen, Vollkorn, No.51 Rummo",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518252/assets/pas/images/77b3fbdc-c212-4855-81d0-b659172fceec/rummo-nudeln-rigatoni-aus-weizen-vollkorn-no-51"
+        },
+        {
+          "alt": "Nudeln, Rigatoni aus Weizen, Vollkorn, No.51 Rummo",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518251/assets/pas/images/8801637e-9329-4463-bd61-23f0c0c1877e/rummo-nudeln-rigatoni-aus-weizen-vollkorn-no-51"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 116,
+        "ratingValue": 4.8621
+      },
+      "self": "/p/d/1571473/rummo-nudeln-rigatoni-aus-weizen-vollkorn-no-51",
+      "title": {
+        "tileHeadline": "Nudeln, Rigatoni aus Weizen, Vollkorn, No.51, 500 g",
+        "tileHeadlineLong": "Nudeln, Rigatoni aus Weizen, Vollkorn, No.51, 500 g"
+      },
+      "trackingData": {
+        "brand": "Rummo",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8621,
+        "ratingCount": 116
+      }
+    }
+  },
+  {
+    "gtin": 8008343300483,
+    "dan": 1492712,
+    "brandName": "Rummo",
+    "title": "Nudeln, Fusilli aus Weizen, No.48, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Rummo; Produktname: Nudeln, Fusilli aus Weizen, No.48, 500 g; Preis: 1,95 €; Grundpreis: 0,5 kg (3,90 € je 1 kg)",
+      "brand": {
+        "name": "Rummo"
+      },
+      "dan": 1492712,
+      "gtin": 8008343300483,
+      "images": [
+        {
+          "alt": "Nudeln, Fusilli aus Weizen, No.48 Rummo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517633/assets/pas/images/363d9d73-5fa1-4f73-b014-7736318ffb64/rummo-nudeln-fusilli-aus-weizen-no-48"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Weizen, No.48 Rummo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518281/assets/pas/images/b076b62e-0601-4d28-ab55-552a720c556e/rummo-nudeln-fusilli-aus-weizen-no-48"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Weizen, No.48 Rummo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518280/assets/pas/images/fbf2b1ba-98a7-4893-ab98-5b6d91661e97/rummo-nudeln-fusilli-aus-weizen-no-48"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Weizen, No.48 Rummo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518255/assets/pas/images/c770e075-fbe0-4bbb-aad3-893e8273480c/rummo-nudeln-fusilli-aus-weizen-no-48"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 77,
+        "ratingValue": 4.8312
+      },
+      "self": "/p/d/1492712/rummo-nudeln-fusilli-aus-weizen-no-48",
+      "title": {
+        "tileHeadline": "Nudeln, Fusilli aus Weizen, No.48, 500 g",
+        "tileHeadlineLong": "Nudeln, Fusilli aus Weizen, No.48, 500 g"
+      },
+      "trackingData": {
+        "brand": "Rummo",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8312,
+        "ratingCount": 77
+      }
+    }
+  },
+  {
+    "gtin": 7640143673438,
+    "dan": 3129359,
+    "brandName": "PPURA",
+    "title": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei, 400 g; Preis: 2,95 €; Grundpreis: 0,4 kg (7,38 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 3129359,
+      "gtin": 7640143673438,
+      "images": [
+        {
+          "alt": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei PPURA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776120259/assets/pas/images/5f64420c-8b12-467c-88fd-dad100a2d672/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei PPURA",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776120272/assets/pas/images/3e5aa2f6-0e32-43cf-81b1-9768e0127294/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776469275/assets/pas/images/792de751-05c0-4cc4-8613-10b1a0de9d9f/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei PPURA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776120293/assets/pas/images/1510bf7f-579e-47f5-878c-8eca79cf4f2f/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (7,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 49,
+        "ratingValue": 4.9184
+      },
+      "self": "/p/d/3129359/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Rigatoni Vollkornreis für Kinder,..., 400 g",
+        "tileHeadlineLong": "Nudeln, Rigatoni Vollkornreis für Kinder,..., 400 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9184,
+        "ratingCount": 49
+      }
+    }
+  },
+  {
+    "gtin": 8008343700139,
+    "dan": 1587665,
+    "brandName": "Rummo",
+    "title": "Nudeln, Linguine aus Vollkorn, Hartweizengrieß, No.13, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Rummo; Produktname: Nudeln, Linguine aus Vollkorn, Hartweizengrieß, No.13, 500 g; Preis: 1,95 €; Grundpreis: 0,5 kg (3,90 € je 1 kg)",
+      "brand": {
+        "name": "Rummo"
+      },
+      "dan": 1587665,
+      "gtin": 8008343700139,
+      "images": [
+        {
+          "alt": "Nudeln, Linguine aus Vollkorn, Hartweizengrieß, No.13 Rummo",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518253/assets/pas/images/1058ec64-712f-4f39-8bfe-166612351d76/rummo-nudeln-linguine-aus-vollkorn-hartweizengriess-no-13"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.8137
+      },
+      "self": "/p/d/1587665/rummo-nudeln-linguine-aus-vollkorn-hartweizengriess-no-13",
+      "title": {
+        "tileHeadline": "Nudeln, Linguine aus Vollkorn, Hartweizengrieß,..., 500 g",
+        "tileHeadlineLong": "Nudeln, Linguine aus Vollkorn, Hartweizengrieß,..., 500 g"
+      },
+      "trackingData": {
+        "brand": "Rummo",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8137,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 8008343300032,
+    "dan": 1495048,
+    "brandName": "Rummo",
+    "title": "Nudeln, Spaghetti aus Weizen, No.3, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Rummo; Produktname: Nudeln, Spaghetti aus Weizen, No.3, 500 g; Preis: 1,95 €; Grundpreis: 0,5 kg (3,90 € je 1 kg)",
+      "brand": {
+        "name": "Rummo"
+      },
+      "dan": 1495048,
+      "gtin": 8008343300032,
+      "images": [
+        {
+          "alt": "Nudeln, Spaghetti aus Weizen, No.3 Rummo",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517790/assets/pas/images/d891e6b4-7c65-4ca5-bb43-b05c1da08c9c/rummo-nudeln-spaghetti-aus-weizen-no-3"
+        },
+        {
+          "alt": "Nudeln, Spaghetti aus Weizen, No.3 Rummo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518197/assets/pas/images/5e00cc20-73e6-4646-977e-a2ec45fbd57a/rummo-nudeln-spaghetti-aus-weizen-no-3"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.8375
+      },
+      "self": "/p/d/1495048/rummo-nudeln-spaghetti-aus-weizen-no-3",
+      "title": {
+        "tileHeadline": "Nudeln, Spaghetti aus Weizen, No.3, 500 g",
+        "tileHeadlineLong": "Nudeln, Spaghetti aus Weizen, No.3, 500 g"
+      },
+      "trackingData": {
+        "brand": "Rummo",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8375,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 4067796236170,
+    "dan": 1459857,
+    "brandName": "dmBio",
+    "title": "Nudeln, Tortellini mit Käse gefüllt, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Tortellini mit Käse gefüllt, 250 g; Preis: 1,95 €; Grundpreis: 0,25 kg (7,80 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1459857,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796236170,
+      "images": [
+        {
+          "alt": "Nudeln, Tortellini mit Käse gefüllt dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762989201/assets/pas/images/b8f68e74-6bdd-468f-9e22-72b37c8144ab/dmbio-nudeln-tortellini-mit-kaese-gefuellt"
+        },
+        {
+          "alt": "Nudeln, Tortellini mit Käse gefüllt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762989207/assets/pas/images/2b4d8e07-7839-4219-b155-0ce9cbdb1270/dmbio-nudeln-tortellini-mit-kaese-gefuellt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (7,29 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (7,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 115,
+        "ratingValue": 3.8609
+      },
+      "self": "/p/d/1459857/dmbio-nudeln-tortellini-mit-kaese-gefuellt",
+      "title": {
+        "tileHeadline": "Nudeln, Tortellini mit Käse gefüllt, 250 g",
+        "tileHeadlineLong": "Nudeln, Tortellini mit Käse gefüllt, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8609,
+        "ratingCount": 115
+      }
+    }
+  },
+  {
+    "gtin": 7640143673391,
+    "dan": 2969700,
+    "brandName": "PPURA",
+    "title": "Nudeln, Lasagne aus Vollkornreis, glutenfrei, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Nudeln, Lasagne aus Vollkornreis, glutenfrei, 250 g; Preis: 3,45 €; Grundpreis: 0,25 kg (13,80 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 2969700,
+      "gtin": 7640143673391,
+      "images": [
+        {
+          "alt": "Nudeln, Lasagne aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511869/assets/pas/images/5b503193-c439-450a-8de0-27505584eb0d/ppura-nudeln-lasagne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Lasagne aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511210/assets/pas/images/c089ca1b-15db-4abc-9043-834d3e97f317/ppura-nudeln-lasagne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Lasagne aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511771/assets/pas/images/90b9b540-142e-471c-a9f3-74cda11fb2ad/ppura-nudeln-lasagne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Lasagne aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511209/assets/pas/images/6fb01b46-5838-4a4b-976e-97332541394d/ppura-nudeln-lasagne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Lasagne aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511591/assets/pas/images/74731cd1-2873-4c6c-8df7-6bb8a8aaa70a/ppura-nudeln-lasagne-aus-vollkornreis-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (12,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (13,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.7692
+      },
+      "self": "/p/d/2969700/ppura-nudeln-lasagne-aus-vollkornreis-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Lasagne aus Vollkornreis, glutenfrei, 250 g",
+        "tileHeadlineLong": "Nudeln, Lasagne aus Vollkornreis, glutenfrei, 250 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7692,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 4070765028836,
+    "dan": 3093718,
+    "brandName": "dmBio",
+    "title": "Nudeln, Tagliatelle, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Tagliatelle, 500 g; Preis: 1,45 €; Grundpreis: 0,5 kg (2,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3093718,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765028836,
+      "images": [
+        {
+          "alt": "Nudeln, Tagliatelle dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774744412/assets/pas/images/7ae155d6-9cc9-4c92-856a-df08d327ac1a/dmbio-nudeln-tagliatelle"
+        },
+        {
+          "alt": "Nudeln, Tagliatelle dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774744426/assets/pas/images/17a44b14-f8d0-44df-90da-1f88f9db110b/dmbio-nudeln-tagliatelle"
+        },
+        {
+          "alt": "Nudeln, Tagliatelle dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774744420/assets/pas/images/e0344234-a3d0-4711-bb62-4c49438126a9/dmbio-nudeln-tagliatelle"
+        },
+        {
+          "alt": "Nudeln, Tagliatelle dmBio",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774744417/assets/pas/images/53e00507-a79d-46de-bf47-59fb39cf4c52/dmbio-nudeln-tagliatelle"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.9231
+      },
+      "self": "/p/d/3093718/dmbio-nudeln-tagliatelle",
+      "title": {
+        "tileHeadline": "Nudeln, Tagliatelle, 500 g",
+        "tileHeadlineLong": "Nudeln, Tagliatelle, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9231,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 9180007870187,
+    "dan": 1457600,
+    "brandName": "Steiner‘s",
+    "title": "Nudeln, LOWer Carb High Protein Fusilli, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Steiner‘s; Produktname: Nudeln, LOWer Carb High Protein Fusilli, 250 g; Preis: 2,95 €; Grundpreis: 0,25 kg (11,80 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Steiner‘s"
+      },
+      "dan": 1457600,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9180007870187,
+      "images": [
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540542/assets/pas/images/e5fa126d-79ae-4466-b5e3-b80f071cc20a/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747551931/assets/pas/images/343e53c6-83ae-4660-b33c-036836c97ea9/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747551936/assets/pas/images/b1cedf15-9b0a-40d7-ad8f-532733e11847/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747551926/assets/pas/images/8054feb3-184b-4cb9-84eb-fa6ccb443c29/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747551941/assets/pas/images/e3c2a177-4dc5-4669-85eb-4963698e7d3b/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 115,
+        "ratingValue": 4.2087
+      },
+      "self": "/p/d/1457600/steiner-s-nudeln-lower-carb-high-protein-fusilli",
+      "title": {
+        "tileHeadline": "Nudeln, LOWer Carb High Protein Fusilli, 250 g",
+        "tileHeadlineLong": "Nudeln, LOWer Carb High Protein Fusilli, 250 g"
+      },
+      "trackingData": {
+        "brand": "Steiner‘s",
+        "categories": [
+          "Sportnahrung",
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2087,
+        "ratingCount": 115
+      }
+    }
+  },
+  {
+    "gtin": 4066447951677,
+    "dan": 3116807,
+    "brandName": "dmBio",
+    "title": "Nudeln, Orecchiette, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Orecchiette, 500 g; Preis: 1,65 €; Grundpreis: 0,5 kg (3,30 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3116807,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447951677,
+      "images": [
+        {
+          "alt": "Nudeln, Orecchiette  dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551056/assets/pas/images/f6119e98-b91b-498c-9e1a-c59253505c95/dmbio-nudeln-orecchiette"
+        },
+        {
+          "alt": "Nudeln, Orecchiette  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551063/assets/pas/images/857d9cc4-9960-4a0e-8348-6d29857dffa8/dmbio-nudeln-orecchiette"
+        },
+        {
+          "alt": "Nudeln, Orecchiette  dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551052/assets/pas/images/1a9f8123-801d-4764-9513-a00ec51675bd/dmbio-nudeln-orecchiette"
+        },
+        {
+          "alt": "Nudeln, Orecchiette  dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551048/assets/pas/images/87599447-df1a-4f9a-ad0b-e3cc39323371/dmbio-nudeln-orecchiette"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,08 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,30 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 35,
+        "ratingValue": 4.8857
+      },
+      "self": "/p/d/3116807/dmbio-nudeln-orecchiette",
+      "title": {
+        "tileHeadline": "Nudeln, Orecchiette, 500 g",
+        "tileHeadlineLong": "Nudeln, Orecchiette, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8857,
+        "ratingCount": 35
+      }
+    }
+  },
+  {
+    "gtin": 4015537003161,
+    "dan": 3037756,
+    "brandName": "Hammermühle",
+    "title": "Nudeln, Tortelloni Tomate & Mozzarella, glutenfrei, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Nudeln, Tortelloni Tomate & Mozzarella, glutenfrei, 250 g; Preis: 4,75 €; Grundpreis: 0,25 kg (19,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 3037756,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4015537003161,
+      "images": [
+        {
+          "alt": "Nudeln, Tortelloni Tomate & Mozzarella, glutenfrei Hammermühle",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442125/assets/pas/images/dfe4c770-cd1f-4add-a728-7f8e4f3b1951/hammermuehle-nudeln-tortelloni-tomate-und-mozzarella-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,44 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (17,76 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (19,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 15,
+        "ratingValue": 4.2667
+      },
+      "self": "/p/d/3037756/hammermuehle-nudeln-tortelloni-tomate-und-mozzarella-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Tortelloni Tomate & Mozzarella, glutenfrei, 250 g",
+        "tileHeadlineLong": "Nudeln, Tortelloni Tomate & Mozzarella, glutenfrei, 250 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2667,
+        "ratingCount": 15
+      }
+    }
+  },
+  {
+    "gtin": 7640143670253,
+    "dan": 3137196,
+    "brandName": "PPURA",
+    "title": "Nudeln, Fusilli tricolore für Kinder, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Nudeln, Fusilli tricolore für Kinder, 500 g; Preis: 1,95 €; Grundpreis: 0,5 kg (3,90 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 3137196,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 7640143670253,
+      "images": [
+        {
+          "alt": "Nudeln, Fusilli tricolore für Kinder  PPURA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776470629/assets/pas/images/72dfade2-6f89-4ee6-8f38-f95316189408/ppura-nudeln-fusilli-tricolore-fuer-kinder"
+        },
+        {
+          "alt": "Nudeln, Fusilli tricolore für Kinder  PPURA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776470643/assets/pas/images/938c268f-824d-429d-b990-9be9da30783b/ppura-nudeln-fusilli-tricolore-fuer-kinder"
+        },
+        {
+          "alt": "Nudeln, Fusilli tricolore für Kinder  PPURA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776470655/assets/pas/images/004991f2-a6f7-4b5a-a151-201784ca9c42/ppura-nudeln-fusilli-tricolore-fuer-kinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 12,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/3137196/ppura-nudeln-fusilli-tricolore-fuer-kinder",
+      "title": {
+        "tileHeadline": "Nudeln, Fusilli tricolore für Kinder, 500 g",
+        "tileHeadlineLong": "Nudeln, Fusilli tricolore für Kinder, 500 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 12
+      }
+    }
+  },
+  {
+    "gtin": 4032844051098,
+    "dan": 1571173,
+    "brandName": "Dinkel Max",
+    "title": "Nudeln, Tagliatelle aus Dinkel, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dinkel Max; Produktname: Nudeln, Tagliatelle aus Dinkel, 500 g; Preis: 2,85 €; Grundpreis: 0,5 kg (5,70 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Dinkel Max"
+      },
+      "dan": 1571173,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4032844051098,
+      "images": [
+        {
+          "alt": "Nudeln, Tagliatelle aus Dinkel Dinkel Max",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778139186/assets/pas/images/72220af1-0754-4319-81c7-32bff046b57f/dinkel-max-nudeln-tagliatelle-aus-dinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,33 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 34,
+        "ratingValue": 4.6765
+      },
+      "self": "/p/d/1571173/dinkel-max-nudeln-tagliatelle-aus-dinkel",
+      "title": {
+        "tileHeadline": "Nudeln, Tagliatelle aus Dinkel, 500 g",
+        "tileHeadlineLong": "Nudeln, Tagliatelle aus Dinkel, 500 g"
+      },
+      "trackingData": {
+        "brand": "Dinkel Max",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6765,
+        "ratingCount": 34
+      }
+    }
+  },
+  {
+    "gtin": 4015537002768,
+    "dan": 1713904,
+    "brandName": "Hammermühle",
+    "title": "Nudeln, Tortelloni Ricotta & Spinat, glutenfrei, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Nudeln, Tortelloni Ricotta & Spinat, glutenfrei, 250 g; Preis: 4,75 €; Grundpreis: 0,25 kg (19,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1713904,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4015537002768,
+      "images": [
+        {
+          "alt": "Nudeln, Tortelloni Ricotta & Spinat, glutenfrei Hammermühle",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441985/assets/pas/images/8cc8a2fd-fef9-4c08-96ee-7d13c909b16e/hammermuehle-nudeln-tortelloni-ricotta-und-spinat-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,44 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (17,76 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (19,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 11,
+        "ratingValue": 4.3636
+      },
+      "self": "/p/d/1713904/hammermuehle-nudeln-tortelloni-ricotta-und-spinat-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Tortelloni Ricotta & Spinat, glutenfrei, 250 g",
+        "tileHeadlineLong": "Nudeln, Tortelloni Ricotta & Spinat, glutenfrei, 250 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3636,
+        "ratingCount": 11
+      }
+    }
+  },
+  {
+    "gtin": 9180007870163,
+    "dan": 1457595,
+    "brandName": "Steiner‘s",
+    "title": "Nudeln, LOWer Carb High Protein Tagliatelle, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Steiner‘s; Produktname: Nudeln, LOWer Carb High Protein Tagliatelle, 250 g; Preis: 2,95 €; Grundpreis: 0,25 kg (11,80 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Steiner‘s"
+      },
+      "dan": 1457595,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9180007870163,
+      "images": [
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Tagliatelle Steiner‘s",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540412/assets/pas/images/1d405840-d59b-4830-9cd1-abbacdbe76ab/steiner-s-nudeln-lower-carb-high-protein-tagliatelle"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Tagliatelle Steiner‘s",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747553254/assets/pas/images/028a5aeb-3e67-450b-9e4e-3c699052b32a/steiner-s-nudeln-lower-carb-high-protein-tagliatelle"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Tagliatelle Steiner‘s",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747553244/assets/pas/images/3e8b3022-1d65-4a99-9547-b597f6fcdf50/steiner-s-nudeln-lower-carb-high-protein-tagliatelle"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Tagliatelle Steiner‘s",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747553249/assets/pas/images/268ecf73-9ae3-4d0a-8cf1-3702708effc6/steiner-s-nudeln-lower-carb-high-protein-tagliatelle"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Tagliatelle Steiner‘s",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747553259/assets/pas/images/d3163f92-45e2-43fd-9640-c8893b979435/steiner-s-nudeln-lower-carb-high-protein-tagliatelle"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Tagliatelle Steiner‘s",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540594/assets/pas/images/9a20ddb6-fb9d-4bd4-b34f-b9136da06761/steiner-s-nudeln-lower-carb-high-protein-tagliatelle"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 3.7105
+      },
+      "self": "/p/d/1457595/steiner-s-nudeln-lower-carb-high-protein-tagliatelle",
+      "title": {
+        "tileHeadline": "Nudeln, LOWer Carb High Protein Tagliatelle, 250 g",
+        "tileHeadlineLong": "Nudeln, LOWer Carb High Protein Tagliatelle, 250 g"
+      },
+      "trackingData": {
+        "brand": "Steiner‘s",
+        "categories": [
+          "Sportnahrung",
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7105,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4070765018509,
+    "dan": 1445890,
+    "brandName": "dmBio",
+    "title": "Nudeln, Dinkel Spaghetti, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Dinkel Spaghetti, 500 g; Preis: 1,45 €; Grundpreis: 0,5 kg (2,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1445890,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765018509,
+      "images": [
+        {
+          "alt": "Nudeln, Dinkel Spaghetti dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777072746/assets/pas/images/173447ee-39b3-42a5-8fd1-2b16732e14f2/dmbio-nudeln-dinkel-spaghetti"
+        },
+        {
+          "alt": "Nudeln, Dinkel Spaghetti dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777072750/assets/pas/images/cccaa073-558e-406f-a4b7-75b4216fc88e/dmbio-nudeln-dinkel-spaghetti"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 135,
+        "ratingValue": 4.6296
+      },
+      "self": "/p/d/1445890/dmbio-nudeln-dinkel-spaghetti",
+      "title": {
+        "tileHeadline": "Nudeln, Dinkel Spaghetti, 500 g",
+        "tileHeadlineLong": "Nudeln, Dinkel Spaghetti, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6296,
+        "ratingCount": 135
+      }
+    }
+  },
+  {
+    "gtin": 4032844584107,
+    "dan": 1543742,
+    "brandName": "Seitz glutenfrei",
+    "title": "Nudeln, Dinosaurier, glutenfrei, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seitz glutenfrei; Produktname: Nudeln, Dinosaurier, glutenfrei, 250 g; Preis: 2,45 €; Grundpreis: 0,25 kg (9,80 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Seitz glutenfrei"
+      },
+      "dan": 1543742,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4032844584107,
+      "images": [
+        {
+          "alt": "Nudeln, Dinosaurier, glutenfrei Seitz glutenfrei",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444190/assets/pas/images/b9aef537-609a-4777-96d4-9ce4146148c4/seitz-glutenfrei-nudeln-dinosaurier-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,16 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.3617
+      },
+      "self": "/p/d/1543742/seitz-glutenfrei-nudeln-dinosaurier-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Dinosaurier, glutenfrei, 250 g",
+        "tileHeadlineLong": "Nudeln, Dinosaurier, glutenfrei, 250 g"
+      },
+      "trackingData": {
+        "brand": "Seitz glutenfrei",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3617,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 4067796096323,
+    "dan": 1439640,
+    "brandName": "dmBio",
+    "title": "Nudeln, Spaghetti aus Vollkorn, No.3, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Spaghetti aus Vollkorn, No.3, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1439640,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796096323,
+      "images": [
+        {
+          "alt": "Nudeln, Spaghetti aus Vollkorn, No.3 dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487665/assets/pas/images/fa0dce0c-6f27-4162-ad4c-e7211890a332/dmbio-nudeln-spaghetti-aus-vollkorn-no-3"
+        },
+        {
+          "alt": "Nudeln, Spaghetti aus Vollkorn, No.3 dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487627/assets/pas/images/39b8a682-883e-4ccf-9521-c52dbe40a317/dmbio-nudeln-spaghetti-aus-vollkorn-no-3"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 123,
+        "ratingValue": 4.8537
+      },
+      "self": "/p/d/1439640/dmbio-nudeln-spaghetti-aus-vollkorn-no-3",
+      "title": {
+        "tileHeadline": "Nudeln, Spaghetti aus Vollkorn, No.3, 500 g",
+        "tileHeadlineLong": "Nudeln, Spaghetti aus Vollkorn, No.3, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8537,
+        "ratingCount": 123
+      }
+    }
+  },
+  {
+    "gtin": 4067796167498,
+    "dan": 1439731,
+    "brandName": "dmBio",
+    "title": "Nudeln, Farfalle aus Vollkorn No.85, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Farfalle aus Vollkorn No.85, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1439731,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796167498,
+      "images": [
+        {
+          "alt": "Nudeln, Farfalle aus Vollkorn No.85 dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748559779/assets/pas/images/6297f501-382a-4db4-a774-88dd9f246c72/dmbio-nudeln-farfalle-aus-vollkorn-no-85"
+        },
+        {
+          "alt": "Nudeln, Farfalle aus Vollkorn No.85 dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748559792/assets/pas/images/fe570be8-f87e-4749-acc0-854673f370d5/dmbio-nudeln-farfalle-aus-vollkorn-no-85"
+        },
+        {
+          "alt": "Nudeln, Farfalle aus Vollkorn No.85 dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748559798/assets/pas/images/b90a6c5c-acb8-4747-8ac2-2592cccb2f22/dmbio-nudeln-farfalle-aus-vollkorn-no-85"
+        },
+        {
+          "alt": "Nudeln, Farfalle aus Vollkorn No.85 dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748559785/assets/pas/images/27b235e5-15ad-44ca-bb01-28ba17020692/dmbio-nudeln-farfalle-aus-vollkorn-no-85"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.8542
+      },
+      "self": "/p/d/1439731/dmbio-nudeln-farfalle-aus-vollkorn-no-85",
+      "title": {
+        "tileHeadline": "Nudeln, Farfalle aus Vollkorn No.85, 500 g",
+        "tileHeadlineLong": "Nudeln, Farfalle aus Vollkorn No.85, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8542,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4067796096347,
+    "dan": 1517830,
+    "brandName": "dmBio",
+    "title": "Nudeln, Fusilli aus roten Linsen, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Fusilli aus roten Linsen, 300 g; Preis: 1,85 €; Grundpreis: 0,3 kg (6,17 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1517830,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796096347,
+      "images": [
+        {
+          "alt": "Nudeln, Fusilli aus roten Linsen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021116/assets/pas/images/5bc10708-3bc3-4fd6-a672-6ac187cf6aa9/dmbio-nudeln-fusilli-aus-roten-linsen"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus roten Linsen dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021121/assets/pas/images/6dc14c2d-d1aa-4e6c-ab77-3b5b659bd47b/dmbio-nudeln-fusilli-aus-roten-linsen"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus roten Linsen dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761744700/assets/pas/images/6423adc4-9081-4b24-a933-6fc91aa6c659/dmbio-nudeln-fusilli-aus-roten-linsen"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus roten Linsen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021118/assets/pas/images/42f49f52-0b5f-40cc-ac93-66076011c533/dmbio-nudeln-fusilli-aus-roten-linsen"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus roten Linsen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021116/assets/pas/images/30256778-f9f8-4fc0-80b9-fbc81260a389/dmbio-nudeln-fusilli-aus-roten-linsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (5,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (6,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 176,
+        "ratingValue": 4.1534
+      },
+      "self": "/p/d/1517830/dmbio-nudeln-fusilli-aus-roten-linsen",
+      "title": {
+        "tileHeadline": "Nudeln, Fusilli aus roten Linsen, 300 g",
+        "tileHeadlineLong": "Nudeln, Fusilli aus roten Linsen, 300 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1534,
+        "ratingCount": 176
+      }
+    }
+  },
+  {
+    "gtin": 4067796097337,
+    "dan": 1517827,
+    "brandName": "dmBio",
+    "title": "Nudeln, Fusilli aus Kichererbsen, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Fusilli aus Kichererbsen, 300 g; Preis: 1,85 €; Grundpreis: 0,3 kg (6,17 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1517827,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796097337,
+      "images": [
+        {
+          "alt": "Nudeln, Fusilli aus Kichererbsen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019788/assets/pas/images/0b4507dc-5e3e-49b7-b94f-8c162700c6f6/dmbio-nudeln-fusilli-aus-kichererbsen"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Kichererbsen dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019787/assets/pas/images/a92a22aa-f75c-4462-a2a5-213362af34a9/dmbio-nudeln-fusilli-aus-kichererbsen"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Kichererbsen dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761744595/assets/pas/images/8b02e142-50eb-4fbc-94e9-983e1c8bcb64/dmbio-nudeln-fusilli-aus-kichererbsen"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Kichererbsen dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019784/assets/pas/images/93fc3c7f-1ca6-4214-a856-b57feb786120/dmbio-nudeln-fusilli-aus-kichererbsen"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Kichererbsen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755019787/assets/pas/images/172a1fa0-857b-4162-b63f-9fdda6422499/dmbio-nudeln-fusilli-aus-kichererbsen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (5,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (6,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 119,
+        "ratingValue": 4.0924
+      },
+      "self": "/p/d/1517827/dmbio-nudeln-fusilli-aus-kichererbsen",
+      "title": {
+        "tileHeadline": "Nudeln, Fusilli aus Kichererbsen, 300 g",
+        "tileHeadlineLong": "Nudeln, Fusilli aus Kichererbsen, 300 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0924,
+        "ratingCount": 119
+      }
+    }
+  },
+  {
+    "gtin": 4067796064834,
+    "dan": 1507276,
+    "brandName": "dmBio",
+    "title": "Nudeln, Spaghetti aus Hartweizen, No.3, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Spaghetti aus Hartweizen, No.3, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik, Grafik: Öko Test dmBio Spaghetti No3 sehr gut Öko-TEST Magazin Ausgabe 03/2024 37 Produkte im Test, davon 25x sehr gut",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1507276,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Grafik: Öko Test dmBio Spaghetti No3 sehr gut Öko-TEST Magazin Ausgabe 03/2024 37 Produkte im Test, davon 25x sehr gut",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768551182/assets/pas/seals/6cbb3299-bf61-4e2a-aa61-4113e0f7dca7/6cbb3299-bf61-4e2a-aa61-4113e0f7dca7.png",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768551182/assets/pas/seals/6cbb3299-bf61-4e2a-aa61-4113e0f7dca7/6cbb3299-bf61-4e2a-aa61-4113e0f7dca7.png"
+        }
+      ],
+      "gtin": 4067796064834,
+      "images": [
+        {
+          "alt": "Nudeln, Spaghetti aus Hartweizen, No.3 dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486953/assets/pas/images/45f48223-9b32-40d8-9b4a-d317320faa8b/dmbio-nudeln-spaghetti-aus-hartweizen-no-3"
+        },
+        {
+          "alt": "Nudeln, Spaghetti aus Hartweizen, No.3 dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486953/assets/pas/images/14925497-38c0-4a1b-8b0f-660630b1a9dc/dmbio-nudeln-spaghetti-aus-hartweizen-no-3"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 135,
+        "ratingValue": 4.6963
+      },
+      "self": "/p/d/1507276/dmbio-nudeln-spaghetti-aus-hartweizen-no-3",
+      "title": {
+        "tileHeadline": "Nudeln, Spaghetti aus Hartweizen, No.3, 500 g",
+        "tileHeadlineLong": "Nudeln, Spaghetti aus Hartweizen, No.3, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6963,
+        "ratingCount": 135
+      }
+    }
+  },
+  {
+    "gtin": 4067796167511,
+    "dan": 1439546,
+    "brandName": "dmBio",
+    "title": "Nudeln, Penne aus Hartweizen, No.66, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Penne aus Hartweizen, No.66, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1439546,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796167511,
+      "images": [
+        {
+          "alt": "Nudeln, Penne aus Hartweizen, No.66 dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488541/assets/pas/images/e9e8b439-b8d5-4f41-adc5-c3733beec764/dmbio-nudeln-penne-aus-hartweizen-no-66"
+        },
+        {
+          "alt": "Nudeln, Penne aus Hartweizen, No.66 dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488542/assets/pas/images/ce807738-12c6-459d-8b4a-fbed59f27f62/dmbio-nudeln-penne-aus-hartweizen-no-66"
+        },
+        {
+          "alt": "Nudeln, Penne aus Hartweizen, No.66 dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488593/assets/pas/images/2fda0c32-5806-445f-bc70-bece2a42eab5/dmbio-nudeln-penne-aus-hartweizen-no-66"
+        },
+        {
+          "alt": "Nudeln, Penne aus Hartweizen, No.66 dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488265/assets/pas/images/f9e360a8-39b3-4cb0-ad1d-8a97cfca4095/dmbio-nudeln-penne-aus-hartweizen-no-66"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 110,
+        "ratingValue": 4.8273
+      },
+      "self": "/p/d/1439546/dmbio-nudeln-penne-aus-hartweizen-no-66",
+      "title": {
+        "tileHeadline": "Nudeln, Penne aus Hartweizen, No.66, 500 g",
+        "tileHeadlineLong": "Nudeln, Penne aus Hartweizen, No.66, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8273,
+        "ratingCount": 110
+      }
+    }
+  },
+  {
+    "gtin": 4067796167399,
+    "dan": 1439717,
+    "brandName": "dmBio",
+    "title": "Nudeln, Spirelli aus Hartweizen, No.48, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Spirelli aus Hartweizen, No.48, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1439717,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796167399,
+      "images": [
+        {
+          "alt": "Nudeln, Spirelli aus Hartweizen, No.48 dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488263/assets/pas/images/2fee6e95-6844-436a-bee8-b2699137bcfb/dmbio-nudeln-spirelli-aus-hartweizen-no-48"
+        },
+        {
+          "alt": "Nudeln, Spirelli aus Hartweizen, No.48 dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488263/assets/pas/images/2b8e58d5-5638-4437-9e88-0133e0fe9a1d/dmbio-nudeln-spirelli-aus-hartweizen-no-48"
+        },
+        {
+          "alt": "Nudeln, Spirelli aus Hartweizen, No.48 dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488262/assets/pas/images/be860bca-415d-4046-b321-834a32e3043c/dmbio-nudeln-spirelli-aus-hartweizen-no-48"
+        },
+        {
+          "alt": "Nudeln, Spirelli aus Hartweizen, No.48 dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488364/assets/pas/images/b6f09488-744d-4b43-b916-d7ce98aa67bf/dmbio-nudeln-spirelli-aus-hartweizen-no-48"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 174,
+        "ratingValue": 4.9023
+      },
+      "self": "/p/d/1439717/dmbio-nudeln-spirelli-aus-hartweizen-no-48",
+      "title": {
+        "tileHeadline": "Nudeln, Spirelli aus Hartweizen, No.48, 500 g",
+        "tileHeadlineLong": "Nudeln, Spirelli aus Hartweizen, No.48, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9023,
+        "ratingCount": 174
+      }
+    }
+  },
+  {
+    "gtin": 4066447862577,
+    "dan": 3065602,
+    "brandName": "dmBio",
+    "title": "Udon Nudeln, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Udon Nudeln, 200 g; Preis: 1,35 €; Grundpreis: 0,2 kg (6,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3065602,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447862577,
+      "images": [
+        {
+          "alt": "Udon Nudeln dmBio",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772583533/assets/pas/images/b073fca8-79c7-4520-a322-cbf4d8cfbe8f/dmbio-udon-nudeln"
+        },
+        {
+          "alt": "Udon Nudeln dmBio",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772583541/assets/pas/images/8f487732-dfa1-4945-8fef-a43d6a30c0ca/dmbio-udon-nudeln"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (6,31 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (6,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 72,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3065602/dmbio-udon-nudeln",
+      "title": {
+        "tileHeadline": "Udon Nudeln, 200 g",
+        "tileHeadlineLong": "Udon Nudeln, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 72
+      }
+    }
+  },
+  {
+    "gtin": 4067796139266,
+    "dan": 1639884,
+    "brandName": "dmBio",
+    "title": "Reisnudeln Pad Thai, 225 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reisnudeln Pad Thai, 225 g; Preis: 2,75 €; Grundpreis: 0,225 kg (12,22 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1639884,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796139266,
+      "images": [
+        {
+          "alt": "Reisnudeln Pad Thai dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752066227/assets/pas/images/4ce789e4-a231-43e0-9ff2-00a6211fc238/dmbio-reisnudeln-pad-thai"
+        },
+        {
+          "alt": "Reisnudeln Pad Thai dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752066222/assets/pas/images/6dfd9635-dfc5-44b1-8a60-cc2017fa0572/dmbio-reisnudeln-pad-thai"
+        },
+        {
+          "alt": "Reisnudeln Pad Thai dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761829455/assets/pas/images/327b6951-ead3-43b7-9ec0-c35f8646402f/dmbio-reisnudeln-pad-thai"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 kg (11,42 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 kg (12,22 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 118,
+        "ratingValue": 4.7458
+      },
+      "self": "/p/d/1639884/dmbio-reisnudeln-pad-thai",
+      "title": {
+        "tileHeadline": "Reisnudeln Pad Thai, 225 g",
+        "tileHeadlineLong": "Reisnudeln Pad Thai, 225 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7458,
+        "ratingCount": 118
+      }
+    }
+  },
+  {
+    "gtin": 4058172388651,
+    "dan": 1445885,
+    "brandName": "dmBio",
+    "title": "Nudeln, Locken aus Dinkel Vollkorn, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Locken aus Dinkel Vollkorn, 500 g; Preis: 1,95 €; Grundpreis: 0,5 kg (3,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1445885,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172388651,
+      "images": [
+        {
+          "alt": "Nudeln, Locken aus Dinkel Vollkorn dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747451164/assets/pas/images/528d13bb-88b4-4e51-99b8-cf700e852169/dmbio-nudeln-locken-aus-dinkel-vollkorn"
+        },
+        {
+          "alt": "Nudeln, Locken aus Dinkel Vollkorn dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747451183/assets/pas/images/d01dd73e-792c-4384-a2b3-40aef378f638/dmbio-nudeln-locken-aus-dinkel-vollkorn"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.7778
+      },
+      "self": "/p/d/1445885/dmbio-nudeln-locken-aus-dinkel-vollkorn",
+      "title": {
+        "tileHeadline": "Nudeln, Locken aus Dinkel Vollkorn, 500 g",
+        "tileHeadlineLong": "Nudeln, Locken aus Dinkel Vollkorn, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7778,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4058172848742,
+    "dan": 1586139,
+    "brandName": "dmBio",
+    "title": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g; Preis: 2,65 €; Grundpreis: 0,4 kg (6,63 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1586139,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172848742,
+      "images": [
+        {
+          "alt": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774602787/assets/pas/images/da9d21db-dee2-463d-9a67-062c6e43d0dd/dmbio-nudeln-gnocchi-aus-kartoffeln-und-sommerdinkel"
+        },
+        {
+          "alt": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761819811/assets/pas/images/aaf668ab-fc5b-43a4-87fb-72f8551cfa3f/dmbio-nudeln-gnocchi-aus-kartoffeln-und-sommerdinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,20 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 388,
+        "ratingValue": 3.0876
+      },
+      "self": "/p/d/1586139/dmbio-nudeln-gnocchi-aus-kartoffeln-und-sommerdinkel",
+      "title": {
+        "tileHeadline": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g",
+        "tileHeadlineLong": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0876,
+        "ratingCount": 388
+      }
+    }
+  }
+]

@@ -1,0 +1,3440 @@
+[
+  {
+    "gtin": 4027800175307,
+    "dan": 3117013,
+    "brandName": "WILKINSON SWORD",
+    "title": "Rasierklingen, Hydro 5, 12 St",
+    "tileData": {
+      "a11yLabel": "Marke: WILKINSON SWORD; Produktname: Rasierklingen, Hydro 5, 12 St; Preis: 27,95 €; Grundpreis: 12 St (2,33 € je 1 St)",
+      "brand": {
+        "name": "WILKINSON SWORD"
+      },
+      "dan": 3117013,
+      "gtin": 4027800175307,
+      "images": [
+        {
+          "alt": "Rasierklingen, Hydro 5 WILKINSON SWORD",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766017271/assets/pas/images/f46316ea-192c-48b4-9034-eaeeb87d66ac/wilkinson-sword-rasierklingen-hydro-5"
+        },
+        {
+          "alt": "Rasierklingen, Hydro 5 WILKINSON SWORD",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766017262/assets/pas/images/101c9b04-3b0e-4f47-8b46-c3b5a1a2ce87/wilkinson-sword-rasierklingen-hydro-5"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "23,49 €"
+          }
+        },
+        "tileInfos": [
+          "12 St (1,96 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "27,95 €"
+          }
+        },
+        "tileInfos": [
+          "12 St (2,33 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 13,
+        "ratingValue": 4.6154
+      },
+      "self": "/p/d/3117013/wilkinson-sword-rasierklingen-hydro-5",
+      "title": {
+        "tileHeadline": "Rasierklingen, Hydro 5, 12 St",
+        "tileHeadlineLong": "Rasierklingen, Hydro 5, 12 St"
+      },
+      "trackingData": {
+        "brand": "WILKINSON SWORD",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 27.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6154,
+        "ratingCount": 13
+      }
+    }
+  },
+  {
+    "gtin": 4027800176700,
+    "dan": 3119460,
+    "brandName": "WILKINSON SWORD",
+    "title": "Rasierklingen, Intuition Complete Care, 6 St",
+    "tileData": {
+      "a11yLabel": "Marke: WILKINSON SWORD; Produktname: Rasierklingen, Intuition Complete Care, 6 St; Preis: 20,45 €; Grundpreis: 6 St (3,41 € je 1 St)",
+      "brand": {
+        "name": "WILKINSON SWORD"
+      },
+      "dan": 3119460,
+      "gtin": 4027800176700,
+      "images": [
+        {
+          "alt": "Rasierklingen, Intuition Complete Care WILKINSON SWORD",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768694748/assets/pas/images/c677a7ae-0475-4d6b-9242-fe536f4d5714/wilkinson-sword-rasierklingen-intuition-complete-care"
+        },
+        {
+          "alt": "Rasierklingen, Intuition Complete Care WILKINSON SWORD",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768694755/assets/pas/images/29aa83e7-4ee5-42f8-8a87-b79c60500b2d/wilkinson-sword-rasierklingen-intuition-complete-care"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "17,18 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (2,87 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "20,45 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (3,41 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 105,
+        "ratingValue": 4.9048
+      },
+      "self": "/p/d/3119460/wilkinson-sword-rasierklingen-intuition-complete-care",
+      "title": {
+        "tileHeadline": "Rasierklingen, Intuition Complete Care, 6 St",
+        "tileHeadlineLong": "Rasierklingen, Intuition Complete Care, 6 St"
+      },
+      "trackingData": {
+        "brand": "WILKINSON SWORD",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 20.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9048,
+        "ratingCount": 105
+      }
+    }
+  },
+  {
+    "gtin": 8700216498579,
+    "dan": 1585994,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Comfortglide Spa Breeze, 4 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Comfortglide Spa Breeze, 4 St; Preis: 14,95 €; Grundpreis: 4 St (3,74 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 1585994,
+      "gtin": 8700216498579,
+      "images": [
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754996787/assets/pas/images/34eed4e5-e0df-42f5-aff9-2f4e058a64ff/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780004908/assets/pas/images/66c1d65b-cf87-444f-a36a-027d25afa3d6/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754996795/assets/pas/images/cb9769e6-76e3-4ae3-b9f7-491bba213ccf/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529758/assets/pas/images/17805f82-34bb-4e33-a014-5a4d73980e05/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529763/assets/pas/images/19e2ffa7-ac71-4f3f-8d80-07432586875f/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529948/assets/pas/images/a2f52ada-8b72-4fe0-9fc7-bfaf62935a5f/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530099/assets/pas/images/e91657e4-2ac1-4d05-8ab2-91384b92ebb5/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530405/assets/pas/images/71504db6-121e-47ef-bebd-11eb69461dba/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530406/assets/pas/images/e3c78e7c-8773-45c8-a9f9-d3fcda88ecc5/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754996797/assets/pas/images/baa7ba96-9155-4159-97c4-0e941ae79909/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,56 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (3,14 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,95 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (3,74 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 147,
+        "ratingValue": 4.6735
+      },
+      "self": "/p/d/1585994/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+      "title": {
+        "tileHeadline": "Rasierklingen, Comfortglide Spa Breeze, 4 St",
+        "tileHeadlineLong": "Rasierklingen, Comfortglide Spa Breeze, 4 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 14.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6735,
+        "ratingCount": 147
+      }
+    }
+  },
+  {
+    "gtin": 8700216495424,
+    "dan": 3047918,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Pro Smooth Sensitive, 4 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Pro Smooth Sensitive, 4 St; Preis: 19,95 €; Grundpreis: 4 St (4,99 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 3047918,
+      "gtin": 8700216495424,
+      "images": [
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008222/assets/pas/images/f4700c8d-d824-400c-8c5f-d174c55a7056/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008223/assets/pas/images/ec6ea513-a0a2-4c5a-b4a6-f1bf65a551fc/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780004934/assets/pas/images/c71d3da6-5a06-4ab6-a5e7-b1c91885e087/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755008226/assets/pas/images/620c7f1f-6a69-4252-a261-75e64085c852/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529934/assets/pas/images/95ba344f-883a-4c6b-b97e-55b18433bd39/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529943/assets/pas/images/85f3bb75-d4de-4cea-9736-846607abc0d0/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530061/assets/pas/images/86e40856-e065-4363-9bbf-86935dccdd8d/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529939/assets/pas/images/6c79bb0b-39b9-4272-9e5f-fdfe993ff8a4/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529754/assets/pas/images/483ed958-62c9-4ffc-8746-9e911c38f767/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751626773/assets/pas/images/78a196e0-8d9e-4ba8-84ad-229592504164/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Pro Smooth Sensitive Gillette Venus",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773443691/assets/pas/images/4d1a1b69-53ec-42a3-8bcd-160c2ecec63b/gillette-venus-rasierklingen-pro-smooth-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "16,76 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (4,19 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "19,95 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (4,99 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 48,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3047918/gillette-venus-rasierklingen-pro-smooth-sensitive",
+      "title": {
+        "tileHeadline": "Rasierklingen, Pro Smooth Sensitive, 4 St",
+        "tileHeadlineLong": "Rasierklingen, Pro Smooth Sensitive, 4 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 19.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 48
+      }
+    }
+  },
+  {
+    "gtin": 8700216478397,
+    "dan": 1690026,
+    "brandName": "Gillette",
+    "title": "Rasierklingen, Fusion5, 4 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette; Produktname: Rasierklingen, Fusion5, 4 St; Preis: 17,95 €; Grundpreis: 4 St (4,49 € je 1 St)",
+      "brand": {
+        "name": "Gillette"
+      },
+      "dan": 1690026,
+      "gtin": 8700216478397,
+      "images": [
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755007299/assets/pas/images/a982d6c1-4645-44b8-b4c9-3d047138b696/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780004863/assets/pas/images/6d975319-a28b-411c-bcc0-53e70be4a1ec/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755007290/assets/pas/images/f8d1296f-b622-47ea-b0a7-683602e99916/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530031/assets/pas/images/05413b78-abbf-4a29-ba6b-9d1d8abf293a/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529712/assets/pas/images/e42d70d0-c240-40d1-9e15-76f03b1b9691/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530369/assets/pas/images/9978905f-12f9-43b8-9f21-28dcfee24c13/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530370/assets/pas/images/bbecd97d-c965-4db5-9eb1-2c0430877eb4/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530374/assets/pas/images/45487da2-115c-467e-a92c-dd2c35d460a5/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530042/assets/pas/images/c98e2bb6-bbf4-4fe5-b140-e52d0b7d6210/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755007283/assets/pas/images/f4f6a6c3-7cc9-40d5-bef8-cf7ddb9a8106/gillette-rasierklingen-fusion5"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,08 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (3,77 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "17,95 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (4,49 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 140,
+        "ratingValue": 4.8643
+      },
+      "self": "/p/d/1690026/gillette-rasierklingen-fusion5",
+      "title": {
+        "tileHeadline": "Rasierklingen, Fusion5, 4 St",
+        "tileHeadlineLong": "Rasierklingen, Fusion5, 4 St"
+      },
+      "trackingData": {
+        "brand": "Gillette",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 17.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8643,
+        "ratingCount": 140
+      }
+    }
+  },
+  {
+    "gtin": 8700216494137,
+    "dan": 1282554,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Comfortglide Spa Breeze, 8 St",
+    "tileData": {
+      "dan": 1282554,
+      "gtin": 8700216494137,
+      "self": "/p/d/1282554/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "24,95 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "8 St (3,12 € je 1 St)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Rasierklingen, Comfortglide Spa Breeze, 8 St",
+        "tileHeadlineLong": "Rasierklingen, Comfortglide Spa Breeze, 8 St"
+      },
+      "images": [
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755003518/assets/pas/images/ed19efd0-d2b3-4a97-99e6-ecdd7c687c5c/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F2"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758577442/assets/pas/images/e7ed174f-4e50-4c2a-93ba-bfb6af28b864/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780004626/assets/pas/images/f2696552-e422-425b-a30b-9b6c03102b6e/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530387/assets/pas/images/8e1cf2bc-a7cf-4326-b7f9-b9c8f7ea4634/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529935/assets/pas/images/f02fc344-92b8-4124-93c4-bcdb17e14387/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758665173/assets/pas/images/3943d610-9fb5-474e-8f61-ab0ff60ece81/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758665136/assets/pas/images/5c837f85-dcb6-46e0-bb0d-6b429e0cb38f/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530387/assets/pas/images/82c34032-0438-4f2b-a700-d31ddcbc72e2/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530389/assets/pas/images/be608013-19cd-4218-b675-3ece69fd5949/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F2"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529744/assets/pas/images/a067ea29-eb7c-4b04-b561-eff53a53df93/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F2"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530389/assets/pas/images/24ab0276-76ea-407a-afd5-074ca9346dc1/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F8F9"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758665149/assets/pas/images/73b3c638-8f0d-49d6-9621-2a83b6e19045/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758665165/assets/pas/images/d4950e03-f60d-4ab0-ac4a-56306900c58e/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758665157/assets/pas/images/ed2ed53a-b2b0-4f5e-836a-e07bd7f50d01/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758665187/assets/pas/images/4c5053a2-4f0e-40d3-b447-a31c4a0a4b58/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F8F9"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755003516/assets/pas/images/59b8084b-955e-416c-895a-ea53f068e297/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F1"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758577429/assets/pas/images/99df4ede-879a-4224-bdb2-455e6224856a/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F1F2"
+        }
+      ],
+      "rating": {
+        "ratingCount": 126,
+        "ratingValue": 4.7063
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "20,97 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "8 St (2,62 € je 1 St)"
+        ]
+      },
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Comfortglide Spa Breeze, 8 St; Preis: 24,95 €; Grundpreis: 8 St (3,12 € je 1 St)",
+      "isPharmacy": false,
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "price": 24.95,
+        "currency": "EUR",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7063,
+        "ratingCount": 126
+      }
+    }
+  },
+  {
+    "gtin": 8700216499941,
+    "dan": 3047971,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Comfortglide Spa Breeze, 12 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Comfortglide Spa Breeze, 12 St; Preis: 35,95 €; Grundpreis: 12 St (3,00 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 3047971,
+      "gtin": 8700216499941,
+      "images": [
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754976597/assets/pas/images/c8cebca5-ecfa-4789-bdf1-f79f00428ef8/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780004504/assets/pas/images/98097016-8a36-49d9-b8af-581c787ea157/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754976594/assets/pas/images/772b69c8-5444-4638-87af-f9b7989f59af/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530401/assets/pas/images/e1beac63-0c71-4337-94fa-4df28dba03b3/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530401/assets/pas/images/4e6d289d-ad71-4a41-adfd-972d2bc7306a/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530403/assets/pas/images/f4567603-6d1d-4ffd-8332-07b126934c58/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529761/assets/pas/images/91b2312f-c926-4537-bc69-311a10b8d6cf/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529762/assets/pas/images/95a0730e-e97a-41db-9ed9-bc7381781e36/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529956/assets/pas/images/4308e0cd-8a88-45f1-b5f1-42a481a90973/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        },
+        {
+          "alt": "Rasierklingen, Comfortglide Spa Breeze Gillette Venus",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754976584/assets/pas/images/e4624bb0-9bbb-4ef8-94b9-af1878fd68db/gillette-venus-rasierklingen-comfortglide-spa-breeze"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "30,21 €"
+          }
+        },
+        "tileInfos": [
+          "12 St (2,52 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "35,95 €"
+          }
+        },
+        "tileInfos": [
+          "12 St (3,00 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 35,
+        "ratingValue": 4.7143
+      },
+      "self": "/p/d/3047971/gillette-venus-rasierklingen-comfortglide-spa-breeze",
+      "title": {
+        "tileHeadline": "Rasierklingen, Comfortglide Spa Breeze, 12 St",
+        "tileHeadlineLong": "Rasierklingen, Comfortglide Spa Breeze, 12 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 35.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7143,
+        "ratingCount": 35
+      }
+    }
+  },
+  {
+    "gtin": 8720689038942,
+    "dan": 3062464,
+    "brandName": "PHILIPS OneBlade",
+    "title": "Rasierklinge, OneBlade Intimate Women QP219/52, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: PHILIPS OneBlade; Produktname: Rasierklinge, OneBlade Intimate Women QP219/52, 1 St; Preis: 17,95 €; Grundpreis: 1 St (17,95 € je 1 St)",
+      "brand": {
+        "name": "PHILIPS OneBlade"
+      },
+      "dan": 3062464,
+      "gtin": 8720689038942,
+      "images": [
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Women QP219/52 PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534758/assets/pas/images/11ba053d-adf2-4a15-89dc-4b49cd20405f/philips-oneblade-rasierklinge-oneblade-intimate-women-qp219-52"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Women QP219/52 PHILIPS OneBlade",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759875507/assets/pas/images/5a58ca19-4055-43eb-9a2e-bef90337a6a8/philips-oneblade-rasierklinge-oneblade-intimate-women-qp219-52"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Women QP219/52 PHILIPS OneBlade",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755126904/assets/pas/images/76385ba2-0200-4f3a-a9ee-e0f2361f9a3c/philips-oneblade-rasierklinge-oneblade-intimate-women-qp219-52"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Women QP219/52 PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755126906/assets/pas/images/3fe938cf-ac1a-4c67-b0dd-0a7c18b79719/philips-oneblade-rasierklinge-oneblade-intimate-women-qp219-52"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Women QP219/52 PHILIPS OneBlade",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747535292/assets/pas/images/d2da0a68-1129-41cb-83e1-c5652cd9b6bc/philips-oneblade-rasierklinge-oneblade-intimate-women-qp219-52"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Women QP219/52 PHILIPS OneBlade",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755126907/assets/pas/images/0c037c9c-58a1-4646-b75c-fcf5bbad6f0f/philips-oneblade-rasierklinge-oneblade-intimate-women-qp219-52"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Women QP219/52 PHILIPS OneBlade",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755126910/assets/pas/images/6cd4da9c-dd99-42a2-b90d-8e2d38e00cb9/philips-oneblade-rasierklinge-oneblade-intimate-women-qp219-52"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,08 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (15,08 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "17,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (17,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 4.3636
+      },
+      "self": "/p/d/3062464/philips-oneblade-rasierklinge-oneblade-intimate-women-qp219-52",
+      "title": {
+        "tileHeadline": "Rasierklinge, OneBlade Intimate Women QP219/52, 1 St",
+        "tileHeadlineLong": "Rasierklinge, OneBlade Intimate Women QP219/52, 1 St"
+      },
+      "trackingData": {
+        "brand": "PHILIPS OneBlade",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 17.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3636,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 8700216498814,
+    "dan": 3048121,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Extra Smooth Swirl, 8 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Extra Smooth Swirl, 8 St; Preis: 29,95 €; Grundpreis: 8 St (3,74 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 3048121,
+      "gtin": 8700216498814,
+      "images": [
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F2F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530100/assets/pas/images/31dc0826-f142-451b-b703-317d91330d9b/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780008011/assets/pas/images/89cf47f1-83b2-4ba1-8b78-7349995ee455/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F2F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530100/assets/pas/images/8a3a6052-0c8b-4045-be44-b2596f0a0ffc/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530396/assets/pas/images/437ea33a-d296-4e73-90ca-83e48e86fa07/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529758/assets/pas/images/9c886d80-eb61-463f-9ebc-d1039fa97299/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530102/assets/pas/images/d04621f2-40b9-4c0e-82c4-0c8f4272381f/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529765/assets/pas/images/c2160408-6e43-4324-a94c-54264a0715dd/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529766/assets/pas/images/3ce14bf1-aff7-412d-9b88-fd07939f054b/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529949/assets/pas/images/5e4cbaa0-b59e-41c5-9c7d-160fa091d52b/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530397/assets/pas/images/7254440f-18a5-4441-b3fd-508c5e6021cc/gillette-venus-rasierklingen-extra-smooth-swirl"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "25,17 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (3,14 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (3,74 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 32,
+        "ratingValue": 4.9688
+      },
+      "self": "/p/d/3048121/gillette-venus-rasierklingen-extra-smooth-swirl",
+      "title": {
+        "tileHeadline": "Rasierklingen, Extra Smooth Swirl, 8 St",
+        "tileHeadlineLong": "Rasierklingen, Extra Smooth Swirl, 8 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9688,
+        "ratingCount": 32
+      }
+    }
+  },
+  {
+    "gtin": 8006530176460,
+    "dan": 3119415,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Intimate, 8 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Intimate, 8 St; Preis: 29,95 €; Grundpreis: 8 St (3,74 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 3119415,
+      "gtin": 8006530176460,
+      "images": [
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767484870/assets/pas/images/9cb32b31-3180-4a26-a19c-fa515a675039/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767484856/assets/pas/images/584495ee-e21c-4d8b-8dab-b785d3f9d9bb/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334686/assets/pas/images/0e13c095-fe87-4e3b-b138-0a845a79907b/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334709/assets/pas/images/cf3b4034-0d87-4b56-8f85-a762d468b516/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334733/assets/pas/images/bee0c716-a5b1-46c8-a667-46889973ea09/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334744/assets/pas/images/d7365fa2-5ea6-4694-b8f8-9a2adb2786a8/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334722/assets/pas/images/cdbf53c3-6af5-427b-9fac-66bd3a7592bb/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334756/assets/pas/images/13f946b7-2cb2-4c80-892c-c722aeeac0cc/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334767/assets/pas/images/8a562d84-403e-487c-90d7-7b6e1ab69bd8/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334780/assets/pas/images/c03bc748-2730-4716-b829-3fb67b3993be/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate  Gillette Venus",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770334699/assets/pas/images/77a87782-b162-4d7f-976d-00845e4ce70c/gillette-venus-rasierklingen-intimate"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "25,17 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (3,14 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (3,74 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 4.3333
+      },
+      "self": "/p/d/3119415/gillette-venus-rasierklingen-intimate",
+      "title": {
+        "tileHeadline": "Rasierklingen, Intimate, 8 St",
+        "tileHeadlineLong": "Rasierklingen, Intimate, 8 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3333,
+        "ratingCount": 6
+      }
+    }
+  },
+  {
+    "gtin": 8006530274425,
+    "dan": 3095040,
+    "brandName": "Gillette",
+    "title": "Rasierklingen, Fusion5, 16 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette; Produktname: Rasierklingen, Fusion5, 16 St; Preis: 52,95 €; Grundpreis: 16 St (3,31 € je 1 St)",
+      "brand": {
+        "name": "Gillette"
+      },
+      "dan": 3095040,
+      "gtin": 8006530274425,
+      "images": [
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766097828/assets/pas/images/8cc600bb-cadf-42ee-b547-a2f273c2fe57/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766270009/assets/pas/images/fd241047-d9f8-44ec-9800-4956451d76d7/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766270027/assets/pas/images/498f5710-700d-4cc4-ab1d-4f55bb272c51/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766097892/assets/pas/images/0ca12056-cda8-4d62-abb4-5277224cfec3/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766097859/assets/pas/images/18c81846-e324-4d15-9d27-98de7419b6b7/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766097837/assets/pas/images/787bb218-ac22-4182-ba58-4c48a8941e8c/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766097881/assets/pas/images/f622d3bd-1daa-44be-8c37-2f8ead061122/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766097848/assets/pas/images/24859170-233a-4140-8c61-ef9fc17af300/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766097871/assets/pas/images/fbe776a2-f60d-4589-a057-0e8a661c8b8a/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766270020/assets/pas/images/877a9682-7f95-4894-9b9c-f1ac82cb4930/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766270035/assets/pas/images/caef633a-6e66-4841-9e5c-30d014fc396b/gillette-rasierklingen-fusion5"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "44,50 €"
+          }
+        },
+        "tileInfos": [
+          "16 St (2,78 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "52,95 €"
+          }
+        },
+        "tileInfos": [
+          "16 St (3,31 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/3095040/gillette-rasierklingen-fusion5",
+      "title": {
+        "tileHeadline": "Rasierklingen, Fusion5, 16 St",
+        "tileHeadlineLong": "Rasierklingen, Fusion5, 16 St"
+      },
+      "trackingData": {
+        "brand": "Gillette",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 52.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 10
+      }
+    }
+  },
+  {
+    "gtin": 8700216478908,
+    "dan": 1690039,
+    "brandName": "Gillette",
+    "title": "Rasierklingen, Fusion5, 12 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette; Produktname: Rasierklingen, Fusion5, 12 St; Preis: 41,95 €; Grundpreis: 12 St (3,50 € je 1 St)",
+      "brand": {
+        "name": "Gillette"
+      },
+      "dan": 1690039,
+      "gtin": 8700216478908,
+      "images": [
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551936/assets/pas/images/abb454d2-a914-4b68-8b0b-7a2376af97b0/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776811876/assets/pas/images/2ae61f15-225c-48dd-9b8c-c2fa20a562c1/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779326920/assets/pas/images/64c81dbc-f1d9-4c0b-8d15-4267fcdc2d7d/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551949/assets/pas/images/fba6b0ed-6b72-4cee-a0b8-eba4e5eb9ba9/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779326910/assets/pas/images/bba1fcdb-188f-4629-b487-4c68a35dd474/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529923/assets/pas/images/c4c35d51-da78-4b40-8e54-f11637c8470e/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530044/assets/pas/images/861ab613-f1d8-4d7a-bab2-6fe61beb6c0f/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530034/assets/pas/images/a85b9cfb-e3eb-4c8e-ae0a-800d33642819/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530035/assets/pas/images/661beaef-83ab-4f29-939b-ef638941d5b0/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529716/assets/pas/images/15435646-d8b6-481b-a9ab-0953a18de3ac/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529925/assets/pas/images/6c4e207f-20d9-49f5-8436-b52cfd93c14b/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772931928/assets/pas/images/1404675b-1184-4286-b9ae-982d757ac8e9/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529718/assets/pas/images/b407fb21-1718-4fd9-a22c-57a729828e75/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773869987/assets/pas/images/6827c9a8-2113-4f90-9a81-49a5ca346ad2/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779326902/assets/pas/images/50024468-49d7-4792-8e64-0cb09be7dce1/gillette-rasierklingen-fusion5"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "35,25 €"
+          }
+        },
+        "tileInfos": [
+          "12 St (2,94 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "41,95 €"
+          }
+        },
+        "tileInfos": [
+          "12 St (3,50 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 148,
+        "ratingValue": 4.7905
+      },
+      "self": "/p/d/1690039/gillette-rasierklingen-fusion5",
+      "title": {
+        "tileHeadline": "Rasierklingen, Fusion5, 12 St",
+        "tileHeadlineLong": "Rasierklingen, Fusion5, 12 St"
+      },
+      "trackingData": {
+        "brand": "Gillette",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 41.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7905,
+        "ratingCount": 148
+      }
+    }
+  },
+  {
+    "gtin": 8700216495639,
+    "dan": 1585929,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Smooth, 4 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Smooth, 4 St; Preis: 9,95 €; Grundpreis: 4 St (2,49 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 1585929,
+      "gtin": 8700216495639,
+      "images": [
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755094470/assets/pas/images/d4e339d8-c949-43d9-84c4-fb5a0e1c96ed/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755094456/assets/pas/images/7f7b350c-efdb-428f-bc61-457b5350532f/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530068/assets/pas/images/0a4ae88c-c841-41b2-a149-8fc01254b895/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529754/assets/pas/images/663541ca-8e3d-4a70-a7d0-7713b169efee/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530067/assets/pas/images/7bfe3a89-0107-45e6-b76f-070f794776e0/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530068/assets/pas/images/304a1456-b179-409f-bf9c-8bae58f44113/gillette-venus-rasierklingen-smooth"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (2,09 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (2,49 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 120,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/1585929/gillette-venus-rasierklingen-smooth",
+      "title": {
+        "tileHeadline": "Rasierklingen, Smooth, 4 St",
+        "tileHeadlineLong": "Rasierklingen, Smooth, 4 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 120
+      }
+    }
+  },
+  {
+    "gtin": 8700216495561,
+    "dan": 1299675,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Smooth, 8 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Smooth, 8 St; Preis: 16,95 €; Grundpreis: 8 St (2,12 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 1299675,
+      "gtin": 8700216495561,
+      "images": [
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759100320/assets/pas/images/acf32269-82ba-457d-9ece-75e4932966a9/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780010674/assets/pas/images/5b1b0508-7201-425d-8c23-a98d52c7286d/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764198620/assets/pas/images/7e4301dc-e4c8-4b7b-b5b5-51148427d13b/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529943/assets/pas/images/04d8bf04-0719-41ba-813a-0a2c3a3b58cf/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530391/assets/pas/images/fe79b74e-779a-4ceb-836a-a63a762d540e/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530061/assets/pas/images/f8ba910b-3faa-4d42-8fb5-b51f670eb7ce/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530393/assets/pas/images/de186d43-7659-4902-a95a-5155cad5f246/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754974818/assets/pas/images/a679ebe4-66cc-47a5-85c1-97d480ab6d5f/gillette-venus-rasierklingen-smooth"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,24 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (1,78 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "16,95 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (2,12 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 123,
+        "ratingValue": 4.7805
+      },
+      "self": "/p/d/1299675/gillette-venus-rasierklingen-smooth",
+      "title": {
+        "tileHeadline": "Rasierklingen, Smooth, 8 St",
+        "tileHeadlineLong": "Rasierklingen, Smooth, 8 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 16.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7805,
+        "ratingCount": 123
+      }
+    }
+  },
+  {
+    "gtin": 8006530176576,
+    "dan": 3119425,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Intimate, 4 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Intimate, 4 St; Preis: 18,95 €; Grundpreis: 4 St (4,74 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 3119425,
+      "gtin": 8006530176576,
+      "images": [
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767484473/assets/pas/images/69742a4a-611d-4815-85a3-ba9239484ef7/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767484485/assets/pas/images/411045fc-df07-4202-bb60-c38efc97eca3/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770333529/assets/pas/images/45250127-3d57-4217-83da-1447a352bb13/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770333601/assets/pas/images/4cd0e5f2-2f41-43da-998e-7801afe5e0d6/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770333589/assets/pas/images/f139db68-d9d8-4485-9cc4-f4d447822d44/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770333571/assets/pas/images/1c97d51f-d456-4646-99ae-a94e7734b2e7/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770333545/assets/pas/images/907f60c9-5cc5-4641-b10e-2659654e9db9/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770333558/assets/pas/images/47902fc5-994f-4706-947f-897e86113ea6/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770333615/assets/pas/images/928863d5-f5c1-4f3e-ae3a-337b0d758198/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770333628/assets/pas/images/8fa960b8-d039-47d2-ace8-9ed6655d7a57/gillette-venus-rasierklingen-intimate"
+        },
+        {
+          "alt": "Rasierklingen, Intimate Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767484462/assets/pas/images/e91a4844-e3d9-4e3c-9bc5-f7acc1e645f5/gillette-venus-rasierklingen-intimate"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,92 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (3,98 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "18,95 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (4,74 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 15,
+        "ratingValue": 4.4667
+      },
+      "self": "/p/d/3119425/gillette-venus-rasierklingen-intimate",
+      "title": {
+        "tileHeadline": "Rasierklingen, Intimate, 4 St",
+        "tileHeadlineLong": "Rasierklingen, Intimate, 4 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 18.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5294,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 8700216478700,
+    "dan": 1690111,
+    "brandName": "Gillette",
+    "title": "Rasierklingen, Fusion5 Power, 8 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette; Produktname: Rasierklingen, Fusion5 Power, 8 St; Preis: 34,95 €; Grundpreis: 8 St (4,37 € je 1 St)",
+      "brand": {
+        "name": "Gillette"
+      },
+      "dan": 1690111,
+      "gtin": 8700216478700,
+      "images": [
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780009910/assets/pas/images/8600d008-d8d4-4aad-aa58-57a03524e3bf/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780009877/assets/pas/images/b97d5787-ae88-4c79-b416-5a33e5cb15dd/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780009897/assets/pas/images/3cc43fe9-f89b-40ab-84e0-d86c7481d4ae/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529920/assets/pas/images/be2ac295-33e0-4be5-86ba-597fb58bd348/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530377/assets/pas/images/f3ff2c76-e974-43ee-9fd5-17c305e90def/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529712/assets/pas/images/ca51d362-4787-4ca6-9d90-8c2c0dcdcb66/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530375/assets/pas/images/af57a54c-b0be-478f-a36a-3e98546c2cb7/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530042/assets/pas/images/8d40d4dc-b4ee-49ce-9961-e822e83781c8/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529919/assets/pas/images/c62090c3-bd0f-4218-abef-143288d77424/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529713/assets/pas/images/dff55b38-7ca6-44c4-8fef-8ab83754e68a/gillette-rasierklingen-fusion5-power"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Power Gillette",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780009890/assets/pas/images/97ac78ba-22a5-4941-9c67-8d570de808f2/gillette-rasierklingen-fusion5-power"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,37 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (3,67 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "34,95 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (4,37 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.8723
+      },
+      "self": "/p/d/1690111/gillette-rasierklingen-fusion5-power",
+      "title": {
+        "tileHeadline": "Rasierklingen, Fusion5 Power, 8 St",
+        "tileHeadlineLong": "Rasierklingen, Fusion5 Power, 8 St"
+      },
+      "trackingData": {
+        "brand": "Gillette",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 34.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8723,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 7702018401208,
+    "dan": 2089472,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Extra Smooth Swirl, 4 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Extra Smooth Swirl, 4 St; Preis: 18,95 €; Grundpreis: 4 St (4,74 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 2089472,
+      "gtin": 7702018401208,
+      "images": [
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754979894/assets/pas/images/a6b67a73-08e7-4c35-a1b9-5458508535fc/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F2F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780007679/assets/pas/images/e1affd60-4981-436f-ad15-e42c8d1d132f/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754979907/assets/pas/images/52700032-2279-4da6-b6c8-bf75156b27e2/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511999/assets/pas/images/ce1e1401-7779-4a7c-b082-6602ef7374b2/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747512204/assets/pas/images/bee68b96-f06a-451d-b97e-2f06b2877aef/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511781/assets/pas/images/0c0f657e-92b3-41f8-a1e4-34b37849e051/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511778/assets/pas/images/e8c5e17c-0bdc-4449-9173-1ef5a7d1bdb4/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747512000/assets/pas/images/f26c6960-8e10-40a6-ab6e-c54b20681e7b/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747512006/assets/pas/images/4f6e3127-b0d9-4275-a9ee-48ca8ac5c904/gillette-venus-rasierklingen-extra-smooth-swirl"
+        },
+        {
+          "alt": "Rasierklingen, Extra Smooth Swirl Gillette Venus",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754979895/assets/pas/images/8c06d227-9141-4df0-a58f-bd54a93e774e/gillette-venus-rasierklingen-extra-smooth-swirl"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,92 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (3,98 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "18,95 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (4,74 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 48,
+        "ratingValue": 4.8125
+      },
+      "self": "/p/d/2089472/gillette-venus-rasierklingen-extra-smooth-swirl",
+      "title": {
+        "tileHeadline": "Rasierklingen, Extra Smooth Swirl, 4 St",
+        "tileHeadlineLong": "Rasierklingen, Extra Smooth Swirl, 4 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 18.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8125,
+        "ratingCount": 48
+      }
+    }
+  },
+  {
+    "gtin": 8710103997122,
+    "dan": 1675015,
+    "brandName": "PHILIPS OneBlade",
+    "title": "Rasierklinge, OneBlade 360 QP410/50, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: PHILIPS OneBlade; Produktname: Rasierklinge, OneBlade 360 QP410/50, 1 St; Preis: 14,95 €; Grundpreis: 1 St (14,95 € je 1 St)",
+      "brand": {
+        "name": "PHILIPS OneBlade"
+      },
+      "dan": 1675015,
+      "gtin": 8710103997122,
+      "images": [
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747531797/assets/pas/images/c9925894-1d01-46a7-9b94-7d5bf867a5cc/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754003490/assets/pas/images/7b6178c8-8442-4aa6-a41a-95cbb47969a2/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754003502/assets/pas/images/06b37dac-5817-4158-8f22-c7f21427114b/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747531797/assets/pas/images/f6f001a4-9a65-47e7-96e9-cea13ff560e8/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747531797/assets/pas/images/37472778-90f8-4b77-b64b-4e74a86e8bba/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747531568/assets/pas/images/ce43e302-e88e-4042-86fb-98488cd15eb6/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532092/assets/pas/images/2d1f5d1e-9011-4aa2-8cb4-94e733ef11ae/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747531799/assets/pas/images/a1f20786-a798-4797-9b5d-85127882b4cd/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747531800/assets/pas/images/5064b917-eaa1-45d7-adbd-324f59ef280e/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade 360 QP410/50 PHILIPS OneBlade",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747531436/assets/pas/images/ca28e2bc-7e3f-4ea8-8100-8d24bd31b65e/philips-oneblade-rasierklinge-oneblade-360-qp410-50"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,56 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (12,56 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (14,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 634,
+        "ratingValue": 4.3644
+      },
+      "self": "/p/d/1675015/philips-oneblade-rasierklinge-oneblade-360-qp410-50",
+      "title": {
+        "tileHeadline": "Rasierklinge, OneBlade 360 QP410/50, 1 St",
+        "tileHeadlineLong": "Rasierklinge, OneBlade 360 QP410/50, 1 St"
+      },
+      "trackingData": {
+        "brand": "PHILIPS OneBlade",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 14.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3644,
+        "ratingCount": 634
+      }
+    }
+  },
+  {
+    "gtin": 8720689048927,
+    "dan": 3123899,
+    "brandName": "PHILIPS OneBlade",
+    "title": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade, 4 St",
+    "tileData": {
+      "a11yLabel": "Marke: PHILIPS OneBlade; Produktname: Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade, 4 St; Preis: 28,95 €; Grundpreis: 4 St (7,24 € je 1 St)",
+      "brand": {
+        "name": "PHILIPS OneBlade"
+      },
+      "dan": 3123899,
+      "gtin": 8720689048927,
+      "images": [
+        {
+          "alt": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade  PHILIPS OneBlade",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774594276/assets/pas/images/2fcf4890-a9ad-487e-91fe-cf87c75e318b/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade"
+        },
+        {
+          "alt": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade  PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773060298/assets/pas/images/716a91a9-e76c-4537-a450-960fae4e257d/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade"
+        },
+        {
+          "alt": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade  PHILIPS OneBlade",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773060303/assets/pas/images/a82b71c1-85da-4342-9f30-53b5398a5dca/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade"
+        },
+        {
+          "alt": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade  PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773060311/assets/pas/images/14cf6ef6-0a88-4720-aee0-68625731e107/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade"
+        },
+        {
+          "alt": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade  PHILIPS OneBlade",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773060317/assets/pas/images/7af1ad65-921d-431e-97c6-7f1a82720a7e/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade"
+        },
+        {
+          "alt": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade  PHILIPS OneBlade",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773060323/assets/pas/images/959dc97b-78da-4163-a50d-f6d579813cf3/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade"
+        },
+        {
+          "alt": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade  PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773060330/assets/pas/images/a6144d1e-7a03-4f74-bc6a-f5935178fe24/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade"
+        },
+        {
+          "alt": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade  PHILIPS OneBlade",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773060337/assets/pas/images/c247ea2b-f98f-437e-90df-964a19981785/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade"
+        },
+        {
+          "alt": "Rasierklingen, OneBlade 360 QP949/50 & Intimate Blade  PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773060343/assets/pas/images/e14a4994-5152-4071-a037-80e17f05e84d/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "24,33 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (6,08 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "28,95 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (7,24 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 618,
+        "ratingValue": 4.3528
+      },
+      "self": "/p/d/3123899/philips-oneblade-rasierklingen-oneblade-360-qp949-50-und-intimate-blade",
+      "title": {
+        "tileHeadline": "Rasierklingen, OneBlade 360 QP949/50 & Intimate..., 4 St",
+        "tileHeadlineLong": "Rasierklingen, OneBlade 360 QP949/50 & Intimate..., 4 St"
+      },
+      "trackingData": {
+        "brand": "PHILIPS OneBlade",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 28.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3528,
+        "ratingCount": 618
+      }
+    }
+  },
+  {
+    "gtin": 8700216507752,
+    "dan": 1731520,
+    "brandName": "Gillette Venus",
+    "title": "Rasierklingen, Smooth, 12 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette Venus; Produktname: Rasierklingen, Smooth, 12 St; Preis: 23,95 €; Grundpreis: 12 St (2,00 € je 1 St)",
+      "brand": {
+        "name": "Gillette Venus"
+      },
+      "dan": 1731520,
+      "gtin": 8700216507752,
+      "images": [
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754975869/assets/pas/images/16a22263-218a-4d23-83b3-9215d39d70d6/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770770574/assets/pas/images/9659184d-4bb5-491d-8e58-3751f8a8ef4e/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754975864/assets/pas/images/16de89bf-3674-49c8-a84b-7c1135844b79/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770770594/assets/pas/images/baf6c44f-a215-4df1-97de-887a97cac2fe/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753189383/assets/pas/images/be911ef6-ef89-44db-83cf-5eacf6f4444c/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770770551/assets/pas/images/30a603c2-f545-4b09-8621-62da76a98b2d/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753189407/assets/pas/images/19cc57aa-4a0b-41c8-b1d5-c2e90c224cb5/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753189416/assets/pas/images/a9386b4f-7855-4345-ac98-283928afcc20/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753189396/assets/pas/images/e332a16a-a4d7-488f-a92b-566caa1346bd/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770770532/assets/pas/images/e70cd406-0749-486e-b92c-af8de8d79fcc/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770770540/assets/pas/images/01da918d-5f59-46ec-9922-5a95ce2654dd/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770770565/assets/pas/images/17771a3d-3647-4775-abfd-fb0531e70f07/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754975863/assets/pas/images/9163dcda-a2c4-4119-9f0d-17784911baa2/gillette-venus-rasierklingen-smooth"
+        },
+        {
+          "alt": "Rasierklingen, Smooth Gillette Venus",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770770584/assets/pas/images/93b395bc-fc05-4092-8317-d4adfecf0132/gillette-venus-rasierklingen-smooth"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "20,13 €"
+          }
+        },
+        "tileInfos": [
+          "12 St (1,68 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "23,95 €"
+          }
+        },
+        "tileInfos": [
+          "12 St (2,00 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 12,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/1731520/gillette-venus-rasierklingen-smooth",
+      "title": {
+        "tileHeadline": "Rasierklingen, Smooth, 12 St",
+        "tileHeadlineLong": "Rasierklingen, Smooth, 12 St"
+      },
+      "trackingData": {
+        "brand": "Gillette Venus",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 23.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 12
+      }
+    }
+  },
+  {
+    "gtin": 4027800097227,
+    "dan": 3119456,
+    "brandName": "WILKINSON SWORD",
+    "title": "Rasierklingen, Intuition Quattro, 6 St",
+    "tileData": {
+      "a11yLabel": "Marke: WILKINSON SWORD; Produktname: Rasierklingen, Intuition Quattro, 6 St; Preis: 14,45 €; Grundpreis: 6 St (2,41 € je 1 St)",
+      "brand": {
+        "name": "WILKINSON SWORD"
+      },
+      "dan": 3119456,
+      "gtin": 4027800097227,
+      "images": [
+        {
+          "alt": "Rasierklingen, Intuition Quattro WILKINSON SWORD",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768694793/assets/pas/images/6e768a71-69c9-4c4e-aa50-5f98fa8568fa/wilkinson-sword-rasierklingen-intuition-quattro"
+        },
+        {
+          "alt": "Rasierklingen, Intuition Quattro WILKINSON SWORD",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768694801/assets/pas/images/c541c79d-bc42-4072-8d7f-4022b32389ce/wilkinson-sword-rasierklingen-intuition-quattro"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,14 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (2,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,45 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (2,41 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.6333
+      },
+      "self": "/p/d/3119456/wilkinson-sword-rasierklingen-intuition-quattro",
+      "title": {
+        "tileHeadline": "Rasierklingen, Intuition Quattro, 6 St",
+        "tileHeadlineLong": "Rasierklingen, Intuition Quattro, 6 St"
+      },
+      "trackingData": {
+        "brand": "WILKINSON SWORD",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 14.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6333,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 8700216503457,
+    "dan": 1690032,
+    "brandName": "Gillette",
+    "title": "Rasierklingen, Mach3, 6 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette; Produktname: Rasierklingen, Mach3, 6 St; Preis: 15,95 €; Grundpreis: 6 St (2,66 € je 1 St)",
+      "brand": {
+        "name": "Gillette"
+      },
+      "dan": 1690032,
+      "gtin": 8700216503457,
+      "images": [
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762466668/assets/pas/images/61ef74f8-c603-4b2f-bb1f-ada8d5e4b416/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780005053/assets/pas/images/a6209473-bf66-4b97-8e5c-1ce5572afc67/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762466683/assets/pas/images/ffc5d9f2-5df8-4f27-84a9-d87c6c715556/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529786/assets/pas/images/4e7ea39b-be5d-4776-b878-ff123bd8427a/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530105/assets/pas/images/98b8513f-fbae-4646-96ba-4101e3a4a5d7/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529785/assets/pas/images/b1185a72-0ce4-4742-ad79-608808a55ee3/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529956/assets/pas/images/eeb4db26-9ed2-4381-a9fb-5b8f8cbcb7ef/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529956/assets/pas/images/865a1c28-01a9-41b1-af12-841fc05f2934/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529957/assets/pas/images/8a3024b1-dbbf-43d7-8662-1750930cdad5/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529787/assets/pas/images/716dce2c-b76c-4fde-aad8-7b964bfb4712/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747529957/assets/pas/images/1adbcad7-c82a-480d-b05d-2c0caa74b0f1/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530425/assets/pas/images/8fe6d470-e8d3-4e64-aab7-e58f35e705e4/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530426/assets/pas/images/d5cec78a-957c-4dcb-b0df-94744f189cca/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747530427/assets/pas/images/e04b6025-350b-441a-864d-19ee566a3da5/gillette-rasierklingen-mach3"
+        },
+        {
+          "alt": "Rasierklingen, Mach3 Gillette",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755013470/assets/pas/images/29b4d68f-37d3-453e-b891-a8106f4e14db/gillette-rasierklingen-mach3"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,40 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (2,24 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,95 €"
+          }
+        },
+        "tileInfos": [
+          "6 St (2,66 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.7797
+      },
+      "self": "/p/d/1690032/gillette-rasierklingen-mach3",
+      "title": {
+        "tileHeadline": "Rasierklingen, Mach3, 6 St",
+        "tileHeadlineLong": "Rasierklingen, Mach3, 6 St"
+      },
+      "trackingData": {
+        "brand": "Gillette",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 15.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7797,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4027800143801,
+    "dan": 2486280,
+    "brandName": "WILKINSON SWORD",
+    "title": "Rasierklingen, Wilkinson 6, 4 St",
+    "tileData": {
+      "a11yLabel": "Marke: WILKINSON SWORD; Produktname: Rasierklingen, Wilkinson 6, 4 St; Preis: 12,95 €; Grundpreis: 4 St (3,24 € je 1 St)",
+      "brand": {
+        "name": "WILKINSON SWORD"
+      },
+      "dan": 2486280,
+      "gtin": 4027800143801,
+      "images": [
+        {
+          "alt": "Rasierklingen, Wilkinson 6 WILKINSON SWORD",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443955/assets/pas/images/be3d0ad7-e35e-4f03-9402-c609d5973cd5/wilkinson-sword-rasierklingen-wilkinson-6"
+        },
+        {
+          "alt": "Rasierklingen, Wilkinson 6 WILKINSON SWORD",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443960/assets/pas/images/6d55a856-1c8c-4ef9-962d-3d378a9d0378/wilkinson-sword-rasierklingen-wilkinson-6"
+        },
+        {
+          "alt": "Rasierklingen, Wilkinson 6 WILKINSON SWORD",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443802/assets/pas/images/0e1483a7-366c-4165-93db-9a796edd81bc/wilkinson-sword-rasierklingen-wilkinson-6"
+        },
+        {
+          "alt": "Rasierklingen, Wilkinson 6 WILKINSON SWORD",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443961/assets/pas/images/90f8df64-1a51-444f-b6ff-28827ec1a0a3/wilkinson-sword-rasierklingen-wilkinson-6"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,88 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (2,72 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,95 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (3,24 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 245,
+        "ratingValue": 4.7633
+      },
+      "self": "/p/d/2486280/wilkinson-sword-rasierklingen-wilkinson-6",
+      "title": {
+        "tileHeadline": "Rasierklingen, Wilkinson 6, 4 St",
+        "tileHeadlineLong": "Rasierklingen, Wilkinson 6, 4 St"
+      },
+      "trackingData": {
+        "brand": "WILKINSON SWORD",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 12.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7633,
+        "ratingCount": 245
+      }
+    }
+  },
+  {
+    "gtin": 4027800181308,
+    "dan": 3132169,
+    "brandName": "WILKINSON SWORD",
+    "title": "Rasierklingen, Intuition 2in1 Soap & Shave Sensitive, 4 St",
+    "tileData": {
+      "a11yLabel": "Marke: WILKINSON SWORD; Produktname: Rasierklingen, Intuition 2in1 Soap & Shave Sensitive, 4 St; Preis: 11,95 €; Grundpreis: 4 St (2,99 € je 1 St); Neues Produkt Grafik",
+      "brand": {
+        "name": "WILKINSON SWORD"
+      },
+      "dan": 3132169,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4027800181308,
+      "images": [
+        {
+          "alt": "Rasierklingen, Intuition 2in1 Soap & Shave Sensitive WILKINSON SWORD",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773133502/assets/pas/images/71581213-d369-49c6-bd85-a176184d0e60/wilkinson-sword-rasierklingen-intuition-2in1-soap-und-shave-sensitive"
+        },
+        {
+          "alt": "Rasierklingen, Intuition 2in1 Soap & Shave Sensitive WILKINSON SWORD",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773133509/assets/pas/images/49d30a1a-7485-431e-8e94-3ce15e329f26/wilkinson-sword-rasierklingen-intuition-2in1-soap-und-shave-sensitive"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,04 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (2,51 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,95 €"
+          }
+        },
+        "tileInfos": [
+          "4 St (2,99 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.6852
+      },
+      "self": "/p/d/3132169/wilkinson-sword-rasierklingen-intuition-2in1-soap-und-shave-sensitive",
+      "title": {
+        "tileHeadline": "Rasierklingen, Intuition 2in1 Soap & Shave..., 4 St",
+        "tileHeadlineLong": "Rasierklingen, Intuition 2in1 Soap & Shave..., 4 St"
+      },
+      "trackingData": {
+        "brand": "WILKINSON SWORD",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 11.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6852,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 4027800180134,
+    "dan": 3116022,
+    "brandName": "WILKINSON SWORD",
+    "title": "Rasierklingen, Hydro 3, 8 St",
+    "tileData": {
+      "a11yLabel": "Marke: WILKINSON SWORD; Produktname: Rasierklingen, Hydro 3, 8 St; Preis: 15,45 €; Grundpreis: 8 St (1,93 € je 1 St)",
+      "brand": {
+        "name": "WILKINSON SWORD"
+      },
+      "dan": 3116022,
+      "gtin": 4027800180134,
+      "images": [
+        {
+          "alt": "Rasierklingen, Hydro 3 WILKINSON SWORD",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766017237/assets/pas/images/1c06f006-f4f6-4f68-83d5-3c6de9ef6387/wilkinson-sword-rasierklingen-hydro-3"
+        },
+        {
+          "alt": "Rasierklingen, Hydro 3 WILKINSON SWORD",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766017245/assets/pas/images/196c044b-d0fc-4a41-ba4d-d702a7cb8328/wilkinson-sword-rasierklingen-hydro-3"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,98 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (1,62 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,45 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (1,93 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.7234
+      },
+      "self": "/p/d/3116022/wilkinson-sword-rasierklingen-hydro-3",
+      "title": {
+        "tileHeadline": "Rasierklingen, Hydro 3, 8 St",
+        "tileHeadlineLong": "Rasierklingen, Hydro 3, 8 St"
+      },
+      "trackingData": {
+        "brand": "WILKINSON SWORD",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 15.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7234,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 8700216585941,
+    "dan": 1917556,
+    "brandName": "Gillette",
+    "title": "Rasierklingen, Fusion5, 18 St",
+    "tileData": {
+      "a11yLabel": "Marke: Gillette; Produktname: Rasierklingen, Fusion5, 18 St; Preis: 57,95 €; Grundpreis: 18 St (3,22 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "Gillette"
+      },
+      "dan": 1917556,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8700216585941,
+      "images": [
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775167191/assets/pas/images/57b82adc-095e-41c0-b24d-77ca22933a23/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779490535/assets/pas/images/6c49f13a-bdf1-4a8e-b329-fffc10fca717/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775167177/assets/pas/images/6d04e1c0-bfc6-4fa7-acbd-c7eafa50c670/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764052740/assets/pas/images/d6f88bd6-4159-476e-b4a9-f425fa80dc35/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764052752/assets/pas/images/542543f8-b2a7-4437-8925-62b74c5b365b/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764052766/assets/pas/images/1f151223-b13a-47ce-be0d-c8fe251d4b60/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764052778/assets/pas/images/cf3dcca1-ce97-4f91-bdda-3c006d5b1e9d/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764052719/assets/pas/images/c73c627c-dccc-4075-b04a-d5329d78f869/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764052730/assets/pas/images/c514a262-bb13-4952-89e3-dcceb3a0f814/gillette-rasierklingen-fusion5"
+        },
+        {
+          "alt": "Rasierklingen, Fusion5 Gillette",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764052816/assets/pas/images/db0915b6-4e40-45cf-bacc-fa546228a498/gillette-rasierklingen-fusion5"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "48,70 €"
+          }
+        },
+        "tileInfos": [
+          "18 St (2,71 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "57,95 €"
+          }
+        },
+        "tileInfos": [
+          "18 St (3,22 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 3,
+        "ratingValue": 4.3333
+      },
+      "self": "/p/d/1917556/gillette-rasierklingen-fusion5",
+      "title": {
+        "tileHeadline": "Rasierklingen, Fusion5, 18 St",
+        "tileHeadlineLong": "Rasierklingen, Fusion5, 18 St"
+      },
+      "trackingData": {
+        "brand": "Gillette",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 57.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3333,
+        "ratingCount": 3
+      }
+    }
+  },
+  {
+    "gtin": 4027800513604,
+    "dan": 1516727,
+    "brandName": "WILKINSON SWORD",
+    "title": "Rasierklingen, Protector 3, 8 St",
+    "tileData": {
+      "a11yLabel": "Marke: WILKINSON SWORD; Produktname: Rasierklingen, Protector 3, 8 St; Preis: 8,95 €; Grundpreis: 8 St (1,12 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "WILKINSON SWORD"
+      },
+      "dan": 1516727,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4027800513604,
+      "images": [
+        {
+          "alt": "Rasierklingen, Protector 3 WILKINSON SWORD",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443802/assets/pas/images/2e0d3349-91cf-4624-9a80-e1a0b23a3e8b/wilkinson-sword-rasierklingen-protector-3"
+        },
+        {
+          "alt": "Rasierklingen, Protector 3 WILKINSON SWORD",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777332191/assets/pas/images/4cd43f1d-403c-4d0f-9162-323dc2d2bd03/wilkinson-sword-rasierklingen-protector-3"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (0,94 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (1,12 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 159,
+        "ratingValue": 4.3585
+      },
+      "self": "/p/d/1516727/wilkinson-sword-rasierklingen-protector-3",
+      "title": {
+        "tileHeadline": "Rasierklingen, Protector 3, 8 St",
+        "tileHeadlineLong": "Rasierklingen, Protector 3, 8 St"
+      },
+      "trackingData": {
+        "brand": "WILKINSON SWORD",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3585,
+        "ratingCount": 159
+      }
+    }
+  },
+  {
+    "gtin": 8720689003377,
+    "dan": 3062457,
+    "brandName": "PHILIPS OneBlade",
+    "title": "Rasierklinge, OneBlade Intimate Men QP219/50, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: PHILIPS OneBlade; Produktname: Rasierklinge, OneBlade Intimate Men QP219/50, 1 St; Preis: 17,95 €; Grundpreis: 1 St (17,95 € je 1 St)",
+      "brand": {
+        "name": "PHILIPS OneBlade"
+      },
+      "dan": 3062457,
+      "gtin": 8720689003377,
+      "images": [
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752890939/assets/pas/images/9c6a67cb-cb9e-478a-95bf-7e2fbdb11191/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534457/assets/pas/images/33736846-af8c-4756-b1ae-f9c70e0aa5d2/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786105/assets/pas/images/4d07e720-cb84-419f-8ec7-b41680b9c00f/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534457/assets/pas/images/150c29ac-219f-458d-927f-505006e7ebda/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534497/assets/pas/images/718b90af-1508-4c72-a98c-3a831d6d9280/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747535072/assets/pas/images/1c550ecc-876b-43b1-ab13-7416cc4af4ce/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        },
+        {
+          "alt": "Rasierklinge, OneBlade Intimate Men QP219/50  PHILIPS OneBlade",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534497/assets/pas/images/00724c55-84b0-4eb2-916f-9dbaf1873532/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,08 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (15,08 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "17,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (17,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 89,
+        "ratingValue": 4.3596
+      },
+      "self": "/p/d/3062457/philips-oneblade-rasierklinge-oneblade-intimate-men-qp219-50",
+      "title": {
+        "tileHeadline": "Rasierklinge, OneBlade Intimate Men QP219/50, 1 St",
+        "tileHeadlineLong": "Rasierklinge, OneBlade Intimate Men QP219/50, 1 St"
+      },
+      "trackingData": {
+        "brand": "PHILIPS OneBlade",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 17.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3596,
+        "ratingCount": 89
+      }
+    }
+  },
+  {
+    "gtin": 5060896573946,
+    "dan": 1689872,
+    "brandName": "BULLDOG",
+    "title": "Rasierklingen, Original, 8 St",
+    "tileData": {
+      "a11yLabel": "Marke: BULLDOG; Produktname: Rasierklingen, Original, 8 St; Preis: 14,95 €; Grundpreis: 8 St (1,87 € je 1 St)",
+      "brand": {
+        "name": "BULLDOG"
+      },
+      "dan": 1689872,
+      "gtin": 5060896573946,
+      "images": [
+        {
+          "alt": "Rasierklingen, Original BULLDOG",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500810/assets/pas/images/f459bec8-772e-45c4-96f1-45c7ed73d60a/bulldog-rasierklingen-original"
+        },
+        {
+          "alt": "Rasierklingen, Original BULLDOG",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500485/assets/pas/images/60626b7e-1f5e-40e2-9610-be2082fa08ce/bulldog-rasierklingen-original"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,56 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (1,57 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,95 €"
+          }
+        },
+        "tileInfos": [
+          "8 St (1,87 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.2128
+      },
+      "self": "/p/d/1689872/bulldog-rasierklingen-original",
+      "title": {
+        "tileHeadline": "Rasierklingen, Original, 8 St",
+        "tileHeadlineLong": "Rasierklingen, Original, 8 St"
+      },
+      "trackingData": {
+        "brand": "BULLDOG",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 14.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2128,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 4067796149777,
+    "dan": 1268752,
+    "brandName": "Balea MEN",
+    "title": "Rasierklingen, 3-Klingen Rasierer, 10 St",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: Rasierklingen, 3-Klingen Rasierer, 10 St; Preis: 4,95 €; Grundpreis: 10 St (0,50 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 1268752,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796149777,
+      "images": [
+        {
+          "alt": "Rasierklingen, 3-Klingen Rasierer Balea MEN",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092232/assets/pas/images/8b2fa5e7-1fb7-4840-a054-cacf8ff7d9ae/balea-men-rasierklingen-3-klingen-rasierer"
+        },
+        {
+          "alt": "Rasierklingen, 3-Klingen Rasierer Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781053625/assets/pas/images/6595d24b-3163-4b13-8749-7556d3d4c76f/balea-men-rasierklingen-3-klingen-rasierer"
+        },
+        {
+          "alt": "Rasierklingen, 3-Klingen Rasierer Balea MEN",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092232/assets/pas/images/85541fa4-35b9-42fe-8baa-0dd517a1187a/balea-men-rasierklingen-3-klingen-rasierer"
+        },
+        {
+          "alt": "Rasierklingen, 3-Klingen Rasierer Balea MEN",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781053615/assets/pas/images/6ebd33a0-999b-4a1e-88d9-08693f0374d0/balea-men-rasierklingen-3-klingen-rasierer"
+        },
+        {
+          "alt": "Rasierklingen, 3-Klingen Rasierer Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092233/assets/pas/images/fb0f2197-d5e8-49ee-852e-8c9c68b55e7f/balea-men-rasierklingen-3-klingen-rasierer"
+        },
+        {
+          "alt": "Rasierklingen, 3-Klingen Rasierer Balea MEN",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781053634/assets/pas/images/a3314d6e-5ac6-4ed7-9a20-1fea86657e7a/balea-men-rasierklingen-3-klingen-rasierer"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (0,42 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (0,50 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 112,
+        "ratingValue": 4.2857
+      },
+      "self": "/p/d/1268752/balea-men-rasierklingen-3-klingen-rasierer",
+      "title": {
+        "tileHeadline": "Rasierklingen, 3-Klingen Rasierer, 10 St",
+        "tileHeadlineLong": "Rasierklingen, 3-Klingen Rasierer, 10 St"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "Rasierklingen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2857,
+        "ratingCount": 112
+      }
+    }
+  }
+]

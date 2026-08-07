@@ -1,0 +1,2749 @@
+[
+  {
+    "gtin": 4066447893441,
+    "dan": 3087862,
+    "brandName": "Sportness",
+    "title": "Zero Sirup Pfirsich Eistee Geschmack, 65 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Zero Sirup Pfirsich Eistee Geschmack, 65 ml; Preis: 3,45 €; Grundpreis: 0,065 l (53,08 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3087862,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447893441,
+      "images": [
+        {
+          "alt": "Zero Sirup Pfirsich Eistee Geschmack Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767916753/assets/pas/images/a63d473b-4e84-45ed-9ac2-a9759abe720a/sportness-zero-sirup-pfirsich-eistee-geschmack"
+        },
+        {
+          "alt": "Zero Sirup Pfirsich Eistee Geschmack Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767916758/assets/pas/images/f4554723-b2ef-421f-8590-8aab97409871/sportness-zero-sirup-pfirsich-eistee-geschmack"
+        },
+        {
+          "alt": "Zero Sirup Pfirsich Eistee Geschmack Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767916762/assets/pas/images/2731ff6d-2092-4694-87d7-a02cdbc891fe/sportness-zero-sirup-pfirsich-eistee-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (44,61 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (53,08 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 133,
+        "ratingValue": 4.3985
+      },
+      "self": "/p/d/3087862/sportness-zero-sirup-pfirsich-eistee-geschmack",
+      "title": {
+        "tileHeadline": "Zero Sirup Pfirsich Eistee Geschmack, 65 ml",
+        "tileHeadlineLong": "Zero Sirup Pfirsich Eistee Geschmack, 65 ml"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Getränke"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3985,
+        "ratingCount": 133
+      }
+    }
+  },
+  {
+    "gtin": 4255719310230,
+    "dan": 3117932,
+    "brandName": "More Nutrition",
+    "title": "Sirup Lemon Lime Soda Geschmack, vegan, 65 ml",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Sirup Lemon Lime Soda Geschmack, vegan, 65 ml; Preis: 5,65 €; Grundpreis: 0,065 l (86,92 € je 1 l)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 3117932,
+      "gtin": 4255719310230,
+      "images": [
+        {
+          "alt": "Sirup Lemon Lime Soda Geschmack, vegan More Nutrition",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778021352/assets/pas/images/5039dba6-caaa-4116-a32f-23c4533d3cbe/more-nutrition-sirup-lemon-lime-soda-geschmack-vegan"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,28 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (81,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (86,92 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 28,
+        "ratingValue": 4.25
+      },
+      "self": "/p/d/3117932/more-nutrition-sirup-lemon-lime-soda-geschmack-vegan",
+      "title": {
+        "tileHeadline": "Sirup Lemon Lime Soda Geschmack, vegan, 65 ml",
+        "tileHeadlineLong": "Sirup Lemon Lime Soda Geschmack, vegan, 65 ml"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.25,
+        "ratingCount": 28
+      }
+    }
+  },
+  {
+    "gtin": 4260644047724,
+    "dan": 2971791,
+    "brandName": "More Nutrition",
+    "title": "Sirup Capri Orange Geschmack, vegan, 65 ml",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Sirup Capri Orange Geschmack, vegan, 65 ml; Preis: 5,65 €; Grundpreis: 0,065 l (86,92 € je 1 l)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 2971791,
+      "gtin": 4260644047724,
+      "images": [
+        {
+          "alt": "Sirup Capri Orange Geschmack, vegan More Nutrition",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755007283/assets/pas/images/fc4e1458-9ce0-497f-a845-c46506f3f467/more-nutrition-sirup-capri-orange-geschmack-vegan"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,28 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (81,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (86,92 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 41,
+        "ratingValue": 4.4878
+      },
+      "self": "/p/d/2971791/more-nutrition-sirup-capri-orange-geschmack-vegan",
+      "title": {
+        "tileHeadline": "Sirup Capri Orange Geschmack, vegan, 65 ml",
+        "tileHeadlineLong": "Sirup Capri Orange Geschmack, vegan, 65 ml"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4878,
+        "ratingCount": 41
+      }
+    }
+  },
+  {
+    "gtin": 4043027010207,
+    "dan": 1182228,
+    "brandName": "sanostol",
+    "title": "Multi-Sanostol Sirup, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: sanostol; Produktname: Multi-Sanostol Sirup, 300 g; Rechtliche Kategorie: Arzneimittel; Preis: 9,95 €; Grundpreis: 0,3 kg (33,17 € je 1 kg)",
+      "brand": {
+        "name": "sanostol"
+      },
+      "dan": 1182228,
+      "gtin": 4043027010207,
+      "images": [
+        {
+          "alt": "Multi-Sanostol Sirup sanostol",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752276463/assets/pas/images/ee76ff81-0897-425b-8a4e-ebbb12b1bd7b/sanostol-multi-sanostol-sirup"
+        },
+        {
+          "alt": "Multi-Sanostol Sirup sanostol",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445182/assets/pas/images/1c3184dd-5004-4626-84ca-57068597b34d/sanostol-multi-sanostol-sirup"
+        },
+        {
+          "alt": "Multi-Sanostol Sirup sanostol",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445181/assets/pas/images/5c607790-95dd-4c07-95df-cc0f7f2fd16f/sanostol-multi-sanostol-sirup"
+        },
+        {
+          "alt": "Multi-Sanostol Sirup sanostol",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762385189/assets/pas/images/894d2ea5-9cd4-44c1-aa2a-9b380eb9539b/sanostol-multi-sanostol-sirup"
+        },
+        {
+          "alt": "Multi-Sanostol Sirup sanostol",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762385197/assets/pas/images/552180f2-8c3f-4bd1-af23-aefd7ec6c8cf/sanostol-multi-sanostol-sirup"
+        },
+        {
+          "alt": "Multi-Sanostol Sirup sanostol",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762385204/assets/pas/images/869be94f-f951-4e26-a973-83454c2caa91/sanostol-multi-sanostol-sirup"
+        },
+        {
+          "alt": "Multi-Sanostol Sirup sanostol",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444834/assets/pas/images/ec3ae0b9-f653-4556-aad2-79fdf4d8a577/sanostol-multi-sanostol-sirup"
+        },
+        {
+          "alt": "Multi-Sanostol Sirup sanostol",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747601028/assets/pas/images/36aa6c88-43bc-4a36-a566-74f0538b50d4/sanostol-multi-sanostol-sirup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (27,87 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (33,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 148,
+        "ratingValue": 4.7095
+      },
+      "self": "/p/d/1182228/sanostol-multi-sanostol-sirup",
+      "title": {
+        "subheadline": "Arzneimittel",
+        "tileHeadline": "Multi-Sanostol Sirup, 300 g",
+        "tileHeadlineLong": "Multi-Sanostol Sirup, 300 g"
+      },
+      "trackingData": {
+        "brand": "sanostol",
+        "categories": [
+          "Vitamine"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7095,
+        "ratingCount": 148
+      }
+    }
+  },
+  {
+    "gtin": 4067796084849,
+    "dan": 1445499,
+    "brandName": "dmBio",
+    "title": "Ahornsirup Grad A, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Ahornsirup Grad A, 250 ml; Preis: 3,75 €; Grundpreis: 0,25 l (15,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1445499,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796084849,
+      "images": [
+        {
+          "alt": "Ahornsirup Grad A dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487480/assets/pas/images/0fbfbadb-fedb-4658-a7b0-6c364a8db9a3/dmbio-ahornsirup-grad-a"
+        },
+        {
+          "alt": "Ahornsirup Grad A dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487481/assets/pas/images/bc0235c9-8f83-49aa-add6-8dce419fe359/dmbio-ahornsirup-grad-a"
+        },
+        {
+          "alt": "Ahornsirup Grad A dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763033108/assets/pas/images/dffba95b-f9d9-42c3-b2f5-cd95c6972a70/dmbio-ahornsirup-grad-a"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (14,02 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 206,
+        "ratingValue": 4.8835
+      },
+      "self": "/p/d/1445499/dmbio-ahornsirup-grad-a",
+      "title": {
+        "tileHeadline": "Ahornsirup Grad A, 250 ml",
+        "tileHeadlineLong": "Ahornsirup Grad A, 250 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8835,
+        "ratingCount": 206
+      }
+    }
+  },
+  {
+    "gtin": 4008617131113,
+    "dan": 1318519,
+    "brandName": "KLOSTERFRAU",
+    "title": "Bronchial-Husten-Sirup, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: KLOSTERFRAU; Produktname: Bronchial-Husten-Sirup, 100 ml; Rechtliche Kategorie: Medizinprodukt; Preis: 4,95 €; Grundpreis: 0,1 l (49,50 € je 1 l)",
+      "brand": {
+        "name": "KLOSTERFRAU"
+      },
+      "dan": 1318519,
+      "gtin": 4008617131113,
+      "images": [
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247157/assets/pas/images/13f7798d-8b6a-4ffe-a1f5-146802c2f585/klosterfrau-bronchial-husten-sirup"
+        },
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247182/assets/pas/images/6bb01197-a581-4c09-ad59-d936a0ddd519/klosterfrau-bronchial-husten-sirup"
+        },
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247168/assets/pas/images/aa198e64-6ffd-4439-b6ad-080c198ff156/klosterfrau-bronchial-husten-sirup"
+        },
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755644105/assets/pas/images/09688322-7512-46e1-aed6-1dc29d3e0936/klosterfrau-bronchial-husten-sirup"
+        },
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755644112/assets/pas/images/c165413b-f45d-424f-8671-684bc02e93e5/klosterfrau-bronchial-husten-sirup"
+        },
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755644123/assets/pas/images/bc6ca635-ed04-4541-8a98-87445ee9be18/klosterfrau-bronchial-husten-sirup"
+        },
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755644130/assets/pas/images/870bf7f4-c8e3-45b0-9ade-529ba69b149e/klosterfrau-bronchial-husten-sirup"
+        },
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755644138/assets/pas/images/99d04ddc-eb7a-48d4-b344-36f26c12f053/klosterfrau-bronchial-husten-sirup"
+        },
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247175/assets/pas/images/dd390952-1ac8-4acf-bf0e-761dda2bd266/klosterfrau-bronchial-husten-sirup"
+        },
+        {
+          "alt": "Bronchial-Husten-Sirup KLOSTERFRAU",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755901222/assets/pas/images/86a68f8c-483e-4141-84f4-4d5bf474a1f3/klosterfrau-bronchial-husten-sirup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (41,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (49,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 120,
+        "ratingValue": 4.6083
+      },
+      "self": "/p/d/1318519/klosterfrau-bronchial-husten-sirup",
+      "title": {
+        "subheadline": "Medizinprodukt",
+        "tileHeadline": "Bronchial-Husten-Sirup, 100 ml",
+        "tileHeadlineLong": "Bronchial-Husten-Sirup, 100 ml"
+      },
+      "trackingData": {
+        "brand": "KLOSTERFRAU",
+        "categories": [
+          "Husten"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6083,
+        "ratingCount": 120
+      }
+    }
+  },
+  {
+    "gtin": 4008617405214,
+    "dan": 3088856,
+    "brandName": "anginetten",
+    "title": "Hals + Husten Sirup, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: anginetten; Produktname: Hals + Husten Sirup, 100 ml; Rechtliche Kategorie: Medizinprodukt; Preis: 4,95 €; Grundpreis: 0,1 l (49,50 € je 1 l)",
+      "brand": {
+        "name": "anginetten"
+      },
+      "dan": 3088856,
+      "gtin": 4008617405214,
+      "images": [
+        {
+          "alt": "Hals + Husten Sirup anginetten",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755094149/assets/pas/images/ee89c36c-934e-40c7-90b6-ca59d3caa33c/anginetten-hals-husten-sirup"
+        },
+        {
+          "alt": "Hals + Husten Sirup anginetten",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759962229/assets/pas/images/1a84714a-63a8-4323-9e9d-7f03faf385ea/anginetten-hals-husten-sirup"
+        },
+        {
+          "alt": "Hals + Husten Sirup anginetten",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759914388/assets/pas/images/cd56689b-d7c4-4415-ae9c-76951220836e/anginetten-hals-husten-sirup"
+        },
+        {
+          "alt": "Hals + Husten Sirup anginetten",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759914394/assets/pas/images/bcf0b498-9aad-4b85-ab3a-613bdb938f16/anginetten-hals-husten-sirup"
+        },
+        {
+          "alt": "Hals + Husten Sirup anginetten",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759914401/assets/pas/images/e6efbfba-5120-4d5c-b80c-c7ed41d03c15/anginetten-hals-husten-sirup"
+        },
+        {
+          "alt": "Hals + Husten Sirup anginetten",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759914408/assets/pas/images/dd22e8b9-480a-4a25-838e-5ca6fb5deaa0/anginetten-hals-husten-sirup"
+        },
+        {
+          "alt": "Hals + Husten Sirup anginetten",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759914415/assets/pas/images/8b893c17-835c-42d3-adaf-efa68720768a/anginetten-hals-husten-sirup"
+        },
+        {
+          "alt": "Hals + Husten Sirup anginetten",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759962236/assets/pas/images/59a88986-db0e-4c37-9e3a-1fda416297f2/anginetten-hals-husten-sirup"
+        },
+        {
+          "alt": "Hals + Husten Sirup anginetten",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759914382/assets/pas/images/c38e16cd-1b75-428f-ba1e-73f2f5b72cbc/anginetten-hals-husten-sirup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (41,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (49,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 19,
+        "ratingValue": 4.3684
+      },
+      "self": "/p/d/3088856/anginetten-hals-husten-sirup",
+      "title": {
+        "subheadline": "Medizinprodukt",
+        "tileHeadline": "Hals + Husten Sirup, 100 ml",
+        "tileHeadlineLong": "Hals + Husten Sirup, 100 ml"
+      },
+      "trackingData": {
+        "brand": "anginetten",
+        "categories": [
+          "Halsschmerzen & Schluckbeschwerden"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3684,
+        "ratingCount": 19
+      }
+    }
+  },
+  {
+    "gtin": 4070765022612,
+    "dan": 1674094,
+    "brandName": "dmBio",
+    "title": "Dattelsirup, 180 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Dattelsirup, 180 ml; Preis: 1,35 €; Grundpreis: 0,18 l (7,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1674094,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765022612,
+      "images": [
+        {
+          "alt": "Dattelsirup dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773449720/assets/pas/images/aa70fdcf-6247-40e6-a3ba-fba5459d1b5e/dmbio-dattelsirup"
+        },
+        {
+          "alt": "Dattelsirup dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773449715/assets/pas/images/9aec4075-c09e-49d0-bde4-ae960e080ae4/dmbio-dattelsirup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 l (7,01 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 l (7,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 109,
+        "ratingValue": 4.6697
+      },
+      "self": "/p/d/1674094/dmbio-dattelsirup",
+      "title": {
+        "tileHeadline": "Dattelsirup, 180 ml",
+        "tileHeadlineLong": "Dattelsirup, 180 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6697,
+        "ratingCount": 109
+      }
+    }
+  },
+  {
+    "gtin": 4066447398663,
+    "dan": 1515731,
+    "brandName": "dmBio",
+    "title": "Reissirup, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reissirup, 250 ml; Preis: 1,85 €; Grundpreis: 0,25 l (7,40 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1515731,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447398663,
+      "images": [
+        {
+          "alt": "Reissirup dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480972/assets/pas/images/12dd1cf8-488b-482d-858d-74e083abac1f/dmbio-reissirup"
+        },
+        {
+          "alt": "Reissirup dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481236/assets/pas/images/050da8ab-019b-431b-8e52-e758406a6d47/dmbio-reissirup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (6,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,40 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 79,
+        "ratingValue": 4.8481
+      },
+      "self": "/p/d/1515731/dmbio-reissirup",
+      "title": {
+        "tileHeadline": "Reissirup, 250 ml",
+        "tileHeadlineLong": "Reissirup, 250 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8481,
+        "ratingCount": 79
+      }
+    }
+  },
+  {
+    "gtin": 4066447834079,
+    "dan": 3115311,
+    "brandName": "Mivolis",
+    "title": "Kräuter Hustensirup mit Manuka Honig, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Mivolis; Produktname: Kräuter Hustensirup mit Manuka Honig, 150 ml; Rechtliche Kategorie: Medizinprodukt; Preis: 1,95 €; Grundpreis: 0,15 l (13,00 € je 1 l); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Mivolis"
+      },
+      "dan": 3115311,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447834079,
+      "images": [
+        {
+          "alt": "Kräuter Hustensirup mit Manuka Honig Mivolis",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897212/assets/pas/images/0e13577a-a105-489f-893e-0ba0387f7db4/mivolis-kraeuter-hustensirup-mit-manuka-honig"
+        },
+        {
+          "alt": "Kräuter Hustensirup mit Manuka Honig Mivolis",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897205/assets/pas/images/bcfd90b9-b3b1-4657-8f64-5c88a84d0a87/mivolis-kraeuter-hustensirup-mit-manuka-honig"
+        },
+        {
+          "alt": "Kräuter Hustensirup mit Manuka Honig Mivolis",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897209/assets/pas/images/756ef95b-9042-4578-913d-d813051be872/mivolis-kraeuter-hustensirup-mit-manuka-honig"
+        },
+        {
+          "alt": "Kräuter Hustensirup mit Manuka Honig Mivolis",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897202/assets/pas/images/c1f48cd4-8344-41ae-89b0-b1a84a8bb7c6/mivolis-kraeuter-hustensirup-mit-manuka-honig"
+        },
+        {
+          "alt": "Kräuter Hustensirup mit Manuka Honig Mivolis",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897217/assets/pas/images/80786549-6118-4421-8777-434ae342224c/mivolis-kraeuter-hustensirup-mit-manuka-honig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (10,92 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (13,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/3115311/mivolis-kraeuter-hustensirup-mit-manuka-honig",
+      "title": {
+        "subheadline": "Medizinprodukt",
+        "tileHeadline": "Kräuter Hustensirup mit Manuka Honig, 150 ml",
+        "tileHeadlineLong": "Kräuter Hustensirup mit Manuka Honig, 150 ml"
+      },
+      "trackingData": {
+        "brand": "Mivolis",
+        "categories": [
+          "Husten"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 2
+      }
+    }
+  },
+  {
+    "gtin": 4067796196597,
+    "dan": 1683668,
+    "brandName": "dmBio",
+    "title": "Dattelsüße, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Dattelsüße, 200 g; Preis: 2,75 €; Grundpreis: 0,2 kg (13,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1683668,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796196597,
+      "images": [
+        {
+          "alt": "Dattelsüße  dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771552126/assets/pas/images/24a079b7-be8a-4560-a4ab-650e137408e6/dmbio-dattelsuesse"
+        },
+        {
+          "alt": "Dattelsüße  dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771552132/assets/pas/images/109e7d6f-3364-41c6-ac4d-65ad541788b5/dmbio-dattelsuesse"
+        },
+        {
+          "alt": "Dattelsüße  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771552141/assets/pas/images/18aaf486-845e-435b-b7e5-bfbb817274c2/dmbio-dattelsuesse"
+        },
+        {
+          "alt": "Dattelsüße  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771552137/assets/pas/images/9bcaf720-4922-46d5-a94b-f7e82ca441d4/dmbio-dattelsuesse"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (12,85 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (13,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 134,
+        "ratingValue": 4.8731
+      },
+      "self": "/p/d/1683668/dmbio-dattelsuesse",
+      "title": {
+        "tileHeadline": "Dattelsüße, 200 g",
+        "tileHeadlineLong": "Dattelsüße, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8731,
+        "ratingCount": 134
+      }
+    }
+  },
+  {
+    "gtin": 4260644048165,
+    "dan": 2971957,
+    "brandName": "More Nutrition",
+    "title": "Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g; Preis: 9,95 €; Grundpreis: 0,09 kg (110,56 € je 1 kg)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 2971957,
+      "gtin": 4260644048165,
+      "images": [
+        {
+          "alt": "Süßungsmittel, Chunky Flavour Vanilla Perfection More Nutrition",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755004078/assets/pas/images/607bbab9-7eea-40cd-a135-171c28a45e5d/more-nutrition-suessungsmittel-chunky-flavour-vanilla-perfection"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,30 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (103,33 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (110,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 37,
+        "ratingValue": 4.4595
+      },
+      "self": "/p/d/2971957/more-nutrition-suessungsmittel-chunky-flavour-vanilla-perfection",
+      "title": {
+        "tileHeadline": "Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g",
+        "tileHeadlineLong": "Süßungsmittel, Chunky Flavour Vanilla Perfection, 90 g"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4737,
+        "ratingCount": 38
+      }
+    }
+  },
+  {
+    "gtin": 4066447248692,
+    "dan": 1449336,
+    "brandName": "dmBio",
+    "title": "Kokosblütenzucker, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kokosblütenzucker, 250 g; Preis: 2,85 €; Grundpreis: 0,25 kg (11,40 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1449336,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447248692,
+      "images": [
+        {
+          "alt": "Kokosblütenzucker dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478936/assets/pas/images/be17a6c6-5f58-4587-a5d6-4007abbec04b/dmbio-kokosbluetenzucker"
+        },
+        {
+          "alt": "Kokosblütenzucker dmBio",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747479224/assets/pas/images/0bc95046-f2ef-4a5e-b510-5ac4f2eeb503/dmbio-kokosbluetenzucker"
+        },
+        {
+          "alt": "Kokosblütenzucker dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761059161/assets/pas/images/d09af87c-4288-4ecd-a6d2-7f787bc3b04b/dmbio-kokosbluetenzucker"
+        },
+        {
+          "alt": "Kokosblütenzucker dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478940/assets/pas/images/cf0e6e26-7e87-4837-8340-2bf6a741a49a/dmbio-kokosbluetenzucker"
+        },
+        {
+          "alt": "Kokosblütenzucker dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747479059/assets/pas/images/50e873c8-35d8-4d92-80bd-5317631cb7c7/dmbio-kokosbluetenzucker"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (10,65 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,40 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 129,
+        "ratingValue": 4.7364
+      },
+      "self": "/p/d/1449336/dmbio-kokosbluetenzucker",
+      "title": {
+        "tileHeadline": "Kokosblütenzucker, 250 g",
+        "tileHeadlineLong": "Kokosblütenzucker, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Zuckeralternativen & Sirup",
+          "Zucker",
+          "Backzutaten"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7364,
+        "ratingCount": 129
+      }
+    }
+  },
+  {
+    "gtin": 4066447375848,
+    "dan": 1690643,
+    "brandName": "Mivolis",
+    "title": "Erythrit, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Mivolis; Produktname: Erythrit, 500 g; Preis: 3,65 €; Grundpreis: 0,5 kg (7,30 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Mivolis"
+      },
+      "dan": 1690643,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447375848,
+      "images": [
+        {
+          "alt": "Erythrit Mivolis",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480744/assets/pas/images/daf439a9-23b0-44e2-82e4-fd773c20d2db/mivolis-erythrit"
+        },
+        {
+          "alt": "Erythrit Mivolis",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480879/assets/pas/images/39da0db8-d615-4cdd-b2de-3b498f4a5f03/mivolis-erythrit"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,13 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,30 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 149,
+        "ratingValue": 4.6779
+      },
+      "self": "/p/d/1690643/mivolis-erythrit",
+      "title": {
+        "tileHeadline": "Erythrit, 500 g",
+        "tileHeadlineLong": "Erythrit, 500 g"
+      },
+      "trackingData": {
+        "brand": "Mivolis",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6779,
+        "ratingCount": 149
+      }
+    }
+  },
+  {
+    "gtin": 4260137741719,
+    "dan": 1446527,
+    "brandName": "Frusano",
+    "title": "Getreidezucker aus Mais, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Frusano; Produktname: Getreidezucker aus Mais, 250 g; Preis: 3,35 €; Grundpreis: 0,25 kg (13,40 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Frusano"
+      },
+      "dan": 1446527,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260137741719,
+      "images": [
+        {
+          "alt": "Getreidezucker aus Mais Frusano",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491499/assets/pas/images/d0e8ce9c-6c74-4444-a5b1-c414b3ea8a31/frusano-getreidezucker-aus-mais"
+        },
+        {
+          "alt": "Getreidezucker aus Mais Frusano",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491693/assets/pas/images/73ddf4e9-ff05-402d-ab3c-e527366637ca/frusano-getreidezucker-aus-mais"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,13 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (12,52 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (13,40 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 42,
+        "ratingValue": 4.8095
+      },
+      "self": "/p/d/1446527/frusano-getreidezucker-aus-mais",
+      "title": {
+        "tileHeadline": "Getreidezucker aus Mais, 250 g",
+        "tileHeadlineLong": "Getreidezucker aus Mais, 250 g"
+      },
+      "trackingData": {
+        "brand": "Frusano",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8095,
+        "ratingCount": 42
+      }
+    }
+  },
+  {
+    "gtin": 4066447375800,
+    "dan": 1690642,
+    "brandName": "Mivolis",
+    "title": "Birkenzucker, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Mivolis; Produktname: Birkenzucker, 500 g; Preis: 3,65 €; Grundpreis: 0,5 kg (7,30 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Mivolis"
+      },
+      "dan": 1690642,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447375800,
+      "images": [
+        {
+          "alt": "Birkenzucker Mivolis",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480835/assets/pas/images/2ae11ec2-0c58-44db-9cae-f975a416a22a/mivolis-birkenzucker"
+        },
+        {
+          "alt": "Birkenzucker Mivolis",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747591150/assets/pas/images/6bfb8f80-c58f-48fe-856a-4125141f81c2/mivolis-birkenzucker"
+        },
+        {
+          "alt": "Birkenzucker Mivolis",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779239426/assets/pas/images/8bc3d1c9-933d-4561-8546-e08f11840b80/mivolis-birkenzucker"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,13 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,30 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 98,
+        "ratingValue": 4.7143
+      },
+      "self": "/p/d/1690642/mivolis-birkenzucker",
+      "title": {
+        "tileHeadline": "Birkenzucker, 500 g",
+        "tileHeadlineLong": "Birkenzucker, 500 g"
+      },
+      "trackingData": {
+        "brand": "Mivolis",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7143,
+        "ratingCount": 98
+      }
+    }
+  },
+  {
+    "gtin": 4066447983999,
+    "dan": 3106583,
+    "brandName": "dmBio",
+    "title": "Agavendicksaft, 360 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Agavendicksaft, 360 ml; Preis: 2,35 €; Grundpreis: 0,36 l (6,53 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3106583,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447983999,
+      "images": [
+        {
+          "alt": "Agavendicksaft  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766529004/assets/pas/images/17891a30-8f3f-443c-99a0-3ae44bb1f1fe/dmbio-agavendicksaft"
+        },
+        {
+          "alt": "Agavendicksaft  dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766529000/assets/pas/images/98fcc2fb-526f-45c6-a9ee-b5533c92906e/dmbio-agavendicksaft"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,36 l (6,10 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,36 l (6,53 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.7895
+      },
+      "self": "/p/d/3106583/dmbio-agavendicksaft",
+      "title": {
+        "tileHeadline": "Agavendicksaft, 360 ml",
+        "tileHeadlineLong": "Agavendicksaft, 360 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7895,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4083700305510,
+    "dan": 3090421,
+    "brandName": "PEDIAKID",
+    "title": "Vitaminbuddy 17 Vitamine & Spurenelemente, 125 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PEDIAKID; Produktname: Vitaminbuddy 17 Vitamine & Spurenelemente, 125 ml; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 9,95 €; Grundpreis: 0,125 l (79,60 € je 1 l)",
+      "brand": {
+        "name": "PEDIAKID"
+      },
+      "dan": 3090421,
+      "gtin": 4083700305510,
+      "images": [
+        {
+          "alt": "Vitaminbuddy 17 Vitamine & Spurenelemente PEDIAKID",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336705/assets/pas/images/d47cf261-23f0-4590-b8b2-370ccc21ff3d/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente"
+        },
+        {
+          "alt": "Vitaminbuddy 17 Vitamine & Spurenelemente PEDIAKID",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336730/assets/pas/images/3b8c4209-21cf-45e8-a77a-dd536a87fa1d/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente"
+        },
+        {
+          "alt": "Vitaminbuddy 17 Vitamine & Spurenelemente PEDIAKID",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756426436/assets/pas/images/a35d50a7-c370-4557-a42a-614ccb72b96b/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente"
+        },
+        {
+          "alt": "Vitaminbuddy 17 Vitamine & Spurenelemente PEDIAKID",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336735/assets/pas/images/35aad4d6-cff1-4663-9e4b-f0110086b63b/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente"
+        },
+        {
+          "alt": "Vitaminbuddy 17 Vitamine & Spurenelemente PEDIAKID",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757974853/assets/pas/images/63d42a0a-8a65-4b29-a732-2ae23e080f49/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente"
+        },
+        {
+          "alt": "Vitaminbuddy 17 Vitamine & Spurenelemente PEDIAKID",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757974867/assets/pas/images/4eeebd9a-1254-4ccc-8ad5-c9a348456140/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente"
+        },
+        {
+          "alt": "Vitaminbuddy 17 Vitamine & Spurenelemente PEDIAKID",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336717/assets/pas/images/71e79d1c-5a4a-4736-9440-246c6da7abf5/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente"
+        },
+        {
+          "alt": "Vitaminbuddy 17 Vitamine & Spurenelemente PEDIAKID",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336724/assets/pas/images/526a31df-0267-4ac1-bf3b-07787fc03f1b/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente"
+        },
+        {
+          "alt": "Vitaminbuddy 17 Vitamine & Spurenelemente PEDIAKID",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757974861/assets/pas/images/b04be31a-5677-428f-8e9c-b192779d3820/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 l (66,89 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 l (79,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 18,
+        "ratingValue": 4.3333
+      },
+      "self": "/p/d/3090421/pediakid-vitaminbuddy-17-vitamine-und-spurenelemente",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Vitaminbuddy 17 Vitamine & Spurenelemente, 125 ml",
+        "tileHeadlineLong": "Vitaminbuddy 17 Vitamine & Spurenelemente, 125 ml"
+      },
+      "trackingData": {
+        "brand": "PEDIAKID",
+        "categories": [
+          "Baby- & Kindergesundheit",
+          "Multivitamine"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3333,
+        "ratingCount": 18
+      }
+    }
+  },
+  {
+    "gtin": 4083700305527,
+    "dan": 3090436,
+    "brandName": "PEDIAKID",
+    "title": "Nervenheld Vitamin B6, 125 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PEDIAKID; Produktname: Nervenheld Vitamin B6, 125 ml; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 9,95 €; Grundpreis: 0,125 l (79,60 € je 1 l)",
+      "brand": {
+        "name": "PEDIAKID"
+      },
+      "dan": 3090436,
+      "gtin": 4083700305527,
+      "images": [
+        {
+          "alt": "Nervenheld Vitamin B6 PEDIAKID",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336783/assets/pas/images/150888dd-5956-410a-8986-12b7a926098f/pediakid-nervenheld-vitamin-b6"
+        },
+        {
+          "alt": "Nervenheld Vitamin B6 PEDIAKID",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756426450/assets/pas/images/723c22e3-385a-4eb3-8840-b2a6fe346057/pediakid-nervenheld-vitamin-b6"
+        },
+        {
+          "alt": "Nervenheld Vitamin B6 PEDIAKID",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336795/assets/pas/images/a34d7f8c-51d5-44d3-8401-d1e0ed96f404/pediakid-nervenheld-vitamin-b6"
+        },
+        {
+          "alt": "Nervenheld Vitamin B6 PEDIAKID",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336805/assets/pas/images/b6f6eee0-c269-4469-9155-69144e9ec108/pediakid-nervenheld-vitamin-b6"
+        },
+        {
+          "alt": "Nervenheld Vitamin B6 PEDIAKID",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757974588/assets/pas/images/34985754-110a-49eb-95b4-bf85721df70c/pediakid-nervenheld-vitamin-b6"
+        },
+        {
+          "alt": "Nervenheld Vitamin B6 PEDIAKID",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757974601/assets/pas/images/bc2af709-d083-4d6a-a6f7-3b24276b2c32/pediakid-nervenheld-vitamin-b6"
+        },
+        {
+          "alt": "Nervenheld Vitamin B6 PEDIAKID",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757974595/assets/pas/images/9500c599-5066-42d8-9b38-d81d0d6180c0/pediakid-nervenheld-vitamin-b6"
+        },
+        {
+          "alt": "Nervenheld Vitamin B6 PEDIAKID",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336800/assets/pas/images/8ed5cf0b-6da1-4d06-8080-c00f58c93ab8/pediakid-nervenheld-vitamin-b6"
+        },
+        {
+          "alt": "Nervenheld Vitamin B6 PEDIAKID",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336810/assets/pas/images/a3dca7cf-82e1-4fa6-ab89-33fb4039c66a/pediakid-nervenheld-vitamin-b6"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 l (66,89 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 l (79,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.3529
+      },
+      "self": "/p/d/3090436/pediakid-nervenheld-vitamin-b6",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Nervenheld Vitamin B6, 125 ml",
+        "tileHeadlineLong": "Nervenheld Vitamin B6, 125 ml"
+      },
+      "trackingData": {
+        "brand": "PEDIAKID",
+        "categories": [
+          "Baby- & Kindergesundheit",
+          "Vitamin B"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3529,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4005394288061,
+    "dan": 3096430,
+    "brandName": "BIOVEGAN",
+    "title": "Backmischung, Meine Pancakes, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: BIOVEGAN; Produktname: Backmischung, Meine Pancakes, 200 g; Preis: 2,95 €; Grundpreis: 0,2 kg (14,75 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "BIOVEGAN"
+      },
+      "dan": 3096430,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4005394288061,
+      "images": [
+        {
+          "alt": "Backmischung, Meine Pancakes BIOVEGAN",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098488/assets/pas/images/b19ca620-3af3-4e3b-8ba3-f1f113269ec4/biovegan-backmischung-meine-pancakes"
+        },
+        {
+          "alt": "Backmischung, Meine Pancakes BIOVEGAN",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766528614/assets/pas/images/1f29776b-1e7d-42fe-a902-355866d5522b/biovegan-backmischung-meine-pancakes"
+        },
+        {
+          "alt": "Backmischung, Meine Pancakes BIOVEGAN",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768341527/assets/pas/images/34dbf505-34e5-4837-b08a-707e67bdb5a5/biovegan-backmischung-meine-pancakes"
+        },
+        {
+          "alt": "Backmischung, Meine Pancakes BIOVEGAN",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768341519/assets/pas/images/dbd28ccc-102c-4c9b-a584-3737641b69cc/biovegan-backmischung-meine-pancakes"
+        },
+        {
+          "alt": "Backmischung, Meine Pancakes BIOVEGAN",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753743056/assets/pas/images/fb7e778a-3214-4906-9c1b-f9d87d313b0d/biovegan-backmischung-meine-pancakes"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (13,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (14,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/3096430/biovegan-backmischung-meine-pancakes",
+      "title": {
+        "tileHeadline": "Backmischung, Meine Pancakes, 200 g",
+        "tileHeadlineLong": "Backmischung, Meine Pancakes, 200 g"
+      },
+      "trackingData": {
+        "brand": "BIOVEGAN",
+        "categories": [
+          "Backmischungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 2
+      }
+    }
+  },
+  {
+    "gtin": 4066447671803,
+    "dan": 1454983,
+    "brandName": "dmBio",
+    "title": "Rohrohrzucker, 1 kg",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Rohrohrzucker, 1 kg; Preis: 1,95 €; Grundpreis: 1 kg (1,95 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454983,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447671803,
+      "images": [
+        {
+          "alt": "Rohrohrzucker dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999448/assets/pas/images/807943c2-6e12-4f38-89f2-53fbcd56f2e1/dmbio-rohrohrzucker"
+        },
+        {
+          "alt": "Rohrohrzucker dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999447/assets/pas/images/0b8c67b3-e8ea-455f-82ea-70c3b37f556a/dmbio-rohrohrzucker"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (1,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (1,95 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 152,
+        "ratingValue": 4.875
+      },
+      "self": "/p/d/1454983/dmbio-rohrohrzucker",
+      "title": {
+        "tileHeadline": "Rohrohrzucker, 1 kg",
+        "tileHeadlineLong": "Rohrohrzucker, 1 kg"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Zucker"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.875,
+        "ratingCount": 152
+      }
+    }
+  },
+  {
+    "gtin": 4030300022880,
+    "dan": 1535242,
+    "brandName": "WICK",
+    "title": "Bonbon, Triple Action mit Menthol, gefüllt, zuckerfrei, 72 g",
+    "tileData": {
+      "a11yLabel": "Marke: WICK; Produktname: Bonbon, Triple Action mit Menthol, gefüllt, zuckerfrei, 72 g; Preis: 1,55 €; Grundpreis: 0,072 kg (21,53 € je 1 kg)",
+      "brand": {
+        "name": "WICK"
+      },
+      "dan": 1535242,
+      "gtin": 4030300022880,
+      "images": [
+        {
+          "alt": "Bonbon, Triple Action mit Menthol, gefüllt, zuckerfrei WICK",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443911/assets/pas/images/be78c43f-ea2b-4bdc-b2ea-c58d4ed06468/wick-bonbon-triple-action-mit-menthol-gefuellt-zuckerfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,072 kg (20,12 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,072 kg (21,53 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.6441
+      },
+      "self": "/p/d/1535242/wick-bonbon-triple-action-mit-menthol-gefuellt-zuckerfrei",
+      "title": {
+        "tileHeadline": "Bonbon, Triple Action mit Menthol, gefüllt,..., 72 g",
+        "tileHeadlineLong": "Bonbon, Triple Action mit Menthol, gefüllt,..., 72 g"
+      },
+      "trackingData": {
+        "brand": "WICK",
+        "categories": [
+          "Bonbons & Fruchtgummi"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6441,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4066447893427,
+    "dan": 3087701,
+    "brandName": "Sportness",
+    "title": "Zero Sirup Roter Apfel Geschmack, 69 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Zero Sirup Roter Apfel Geschmack, 69 g; Preis: 3,45 €; Grundpreis: 0,065 l (53,08 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3087701,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447893427,
+      "images": [
+        {
+          "alt": "Zero Sirup Roter Apfel Geschmack  Sportness",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767915198/assets/pas/images/735f8c65-ccaa-4879-84c2-dd18550dc906/sportness-zero-sirup-roter-apfel-geschmack"
+        },
+        {
+          "alt": "Zero Sirup Roter Apfel Geschmack  Sportness",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767915202/assets/pas/images/9a1d7962-6eef-48d3-8cbb-5e89cf4d6a73/sportness-zero-sirup-roter-apfel-geschmack"
+        },
+        {
+          "alt": "Zero Sirup Roter Apfel Geschmack  Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767915194/assets/pas/images/52736e30-88f4-4543-94fd-528e191c2fa7/sportness-zero-sirup-roter-apfel-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (44,61 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (53,08 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.3431
+      },
+      "self": "/p/d/3087701/sportness-zero-sirup-roter-apfel-geschmack",
+      "title": {
+        "tileHeadline": "Zero Sirup Roter Apfel Geschmack, 69 g",
+        "tileHeadlineLong": "Zero Sirup Roter Apfel Geschmack, 69 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Getränke"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3431,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4066447994810,
+    "dan": 3113294,
+    "brandName": "Sportness",
+    "title": "Zero Sirup,Tropical-Geschmack, 65 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Zero Sirup,Tropical-Geschmack, 65 ml; Preis: 3,45 €; Grundpreis: 0,065 l (53,08 € je 1 l); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3113294,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447994810,
+      "images": [
+        {
+          "alt": "Zero Sirup,Tropical-Geschmack Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777074336/assets/pas/images/2a6c4468-1c34-4c65-8f1b-abd50a4173a9/sportness-zero-sirup-tropical-geschmack"
+        },
+        {
+          "alt": "Zero Sirup,Tropical-Geschmack Sportness",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777074341/assets/pas/images/5c16b992-313a-4d18-a41f-ba489688d490/sportness-zero-sirup-tropical-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (49,61 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (53,08 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.6747
+      },
+      "self": "/p/d/3113294/sportness-zero-sirup-tropical-geschmack",
+      "title": {
+        "tileHeadline": "Zero Sirup,Tropical-Geschmack, 65 ml",
+        "tileHeadlineLong": "Zero Sirup,Tropical-Geschmack, 65 ml"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Getränke"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6747,
+        "ratingCount": 83
+      }
+    }
+  },
+  {
+    "gtin": 4066447994834,
+    "dan": 3113237,
+    "brandName": "Sportness",
+    "title": "Zero Sirup, Rhabarber-Geschmack, 65 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Zero Sirup, Rhabarber-Geschmack, 65 ml; Preis: 3,45 €; Grundpreis: 0,065 l (53,08 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3113237,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447994834,
+      "images": [
+        {
+          "alt": "Zero Sirup, Rhabarber-Geschmack Sportness",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777069035/assets/pas/images/1980b228-57b3-4dc0-a186-39e35c985b2d/sportness-zero-sirup-rhabarber-geschmack"
+        },
+        {
+          "alt": "Zero Sirup, Rhabarber-Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777069030/assets/pas/images/0f70d5df-f6ab-4584-95a0-4ff1cb57a706/sportness-zero-sirup-rhabarber-geschmack"
+        },
+        {
+          "alt": "Zero Sirup, Rhabarber-Geschmack Sportness",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777069025/assets/pas/images/4627b210-191b-48d8-b745-b6d2bb8f07a9/sportness-zero-sirup-rhabarber-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (49,61 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (53,08 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.4933
+      },
+      "self": "/p/d/3113237/sportness-zero-sirup-rhabarber-geschmack",
+      "title": {
+        "tileHeadline": "Zero Sirup, Rhabarber-Geschmack, 65 ml",
+        "tileHeadlineLong": "Zero Sirup, Rhabarber-Geschmack, 65 ml"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Getränke"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4933,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 4260644046130,
+    "dan": 1426142,
+    "brandName": "More Nutrition",
+    "title": "Sirup Peach Iced Tea Geschmack, vegan, 65 ml",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Sirup Peach Iced Tea Geschmack, vegan, 65 ml; Preis: 5,65 €; Grundpreis: 0,065 l (86,92 € je 1 l)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 1426142,
+      "gtin": 4260644046130,
+      "images": [
+        {
+          "alt": "Sirup Peach Iced Tea Geschmack, vegan More Nutrition",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754995598/assets/pas/images/62fc702b-85a7-42b0-a472-e71ff87fae16/more-nutrition-sirup-peach-iced-tea-geschmack-vegan"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,28 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (81,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (86,92 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.3372
+      },
+      "self": "/p/d/1426142/more-nutrition-sirup-peach-iced-tea-geschmack-vegan",
+      "title": {
+        "tileHeadline": "Sirup Peach Iced Tea Geschmack, vegan, 65 ml",
+        "tileHeadlineLong": "Sirup Peach Iced Tea Geschmack, vegan, 65 ml"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3372,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4255719306134,
+    "dan": 3111420,
+    "brandName": "More Nutrition",
+    "title": "Sirup Wildberry Geschmack, vegan, 65 ml",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Sirup Wildberry Geschmack, vegan, 65 ml; Preis: 5,65 €; Grundpreis: 0,065 l (86,92 € je 1 l)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 3111420,
+      "gtin": 4255719306134,
+      "images": [
+        {
+          "alt": "Sirup Wildberry Geschmack, vegan More Nutrition",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769043605/assets/pas/images/33f5bc78-bdd2-4ccc-a317-949fb2f6a370/more-nutrition-sirup-wildberry-geschmack-vegan"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,28 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (81,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,065 l (86,92 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.7164
+      },
+      "self": "/p/d/3111420/more-nutrition-sirup-wildberry-geschmack-vegan",
+      "title": {
+        "tileHeadline": "Sirup Wildberry Geschmack, vegan, 65 ml",
+        "tileHeadlineLong": "Sirup Wildberry Geschmack, vegan, 65 ml"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7164,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4067796084863,
+    "dan": 1453804,
+    "brandName": "dmBio",
+    "title": "Ahornsirup Grad C, 375 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Ahornsirup Grad C, 375 ml; Preis: 5,35 €; Grundpreis: 0,375 l (14,27 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1453804,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796084863,
+      "images": [
+        {
+          "alt": "Ahornsirup Grad C dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755090213/assets/pas/images/c0f07696-e45b-4fa6-8302-289214e3ba88/dmbio-ahornsirup-grad-c"
+        },
+        {
+          "alt": "Ahornsirup Grad C dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755090218/assets/pas/images/1d57eaf5-4b5e-4859-ac2b-2710b2c937bb/dmbio-ahornsirup-grad-c"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 l (13,34 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 l (14,27 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 257,
+        "ratingValue": 4.7821
+      },
+      "self": "/p/d/1453804/dmbio-ahornsirup-grad-c",
+      "title": {
+        "tileHeadline": "Ahornsirup Grad C, 375 ml",
+        "tileHeadlineLong": "Ahornsirup Grad C, 375 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Zuckeralternativen & Sirup"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7821,
+        "ratingCount": 257
+      }
+    }
+  },
+  {
+    "gtin": 4262394850012,
+    "dan": 1711423,
+    "brandName": "BlumenBerg",
+    "title": "Spitzwegerich Hustensirup, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: BlumenBerg; Produktname: Spitzwegerich Hustensirup, 250 ml; Rechtliche Kategorie: Arzneimittel; Preis: 3,15 €; Grundpreis: 0,25 l (12,60 € je 1 l)",
+      "brand": {
+        "name": "BlumenBerg"
+      },
+      "dan": 1711423,
+      "gtin": 4262394850012,
+      "images": [
+        {
+          "alt": "Spitzwegerich Hustensirup  BlumenBerg",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495508/assets/pas/images/9dfa46f9-9e13-462d-8306-2b3fb98021b8/blumenberg-spitzwegerich-hustensirup"
+        },
+        {
+          "alt": "Spitzwegerich Hustensirup  BlumenBerg",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495373/assets/pas/images/1ccf9750-4175-46e7-bcc0-c8e5b12aa27d/blumenberg-spitzwegerich-hustensirup"
+        },
+        {
+          "alt": "Spitzwegerich Hustensirup  BlumenBerg",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495120/assets/pas/images/fc65fdd2-7d7a-4a74-93d6-cba9148fedf6/blumenberg-spitzwegerich-hustensirup"
+        },
+        {
+          "alt": "Spitzwegerich Hustensirup  BlumenBerg",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495509/assets/pas/images/d0b23cd3-61d6-4017-82af-ad319ac1b102/blumenberg-spitzwegerich-hustensirup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (10,59 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (12,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.5692
+      },
+      "self": "/p/d/1711423/blumenberg-spitzwegerich-hustensirup",
+      "title": {
+        "subheadline": "Arzneimittel",
+        "tileHeadline": "Spitzwegerich Hustensirup, 250 ml",
+        "tileHeadlineLong": "Spitzwegerich Hustensirup, 250 ml"
+      },
+      "trackingData": {
+        "brand": "BlumenBerg",
+        "categories": [
+          "Husten"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5692,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 4066447249279,
+    "dan": 1557178,
+    "brandName": "Mivolis",
+    "title": "Spitzwegerich Hustensirup, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Mivolis; Produktname: Spitzwegerich Hustensirup, 200 ml; Rechtliche Kategorie: Arzneimittel; Preis: 2,05 €; Grundpreis: 0,2 l (10,25 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Mivolis"
+      },
+      "dan": 1557178,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447249279,
+      "images": [
+        {
+          "alt": "Spitzwegerich Hustensirup  Mivolis",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478925/assets/pas/images/8a8e0e41-0d9c-46f2-ac21-891fa139eebf/mivolis-spitzwegerich-hustensirup"
+        },
+        {
+          "alt": "Spitzwegerich Hustensirup  Mivolis",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478788/assets/pas/images/4b5506cd-36d2-4075-a2cc-1ffa549192f3/mivolis-spitzwegerich-hustensirup"
+        },
+        {
+          "alt": "Spitzwegerich Hustensirup  Mivolis",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779328585/assets/pas/images/b9141c73-7f57-4be9-af7d-7036479ab3d0/mivolis-spitzwegerich-hustensirup"
+        },
+        {
+          "alt": "Spitzwegerich Hustensirup  Mivolis",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478924/assets/pas/images/4e8a8196-9ec2-4404-9171-0484f27c1a1a/mivolis-spitzwegerich-hustensirup"
+        },
+        {
+          "alt": "Spitzwegerich Hustensirup  Mivolis",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478925/assets/pas/images/2ec2979d-3960-44ff-b4fb-953472ea23db/mivolis-spitzwegerich-hustensirup"
+        },
+        {
+          "alt": "Spitzwegerich Hustensirup  Mivolis",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478980/assets/pas/images/cd5c7434-6d10-4e38-846e-c905f6e05626/mivolis-spitzwegerich-hustensirup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,72 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (8,61 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (10,25 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 208,
+        "ratingValue": 4.4856
+      },
+      "self": "/p/d/1557178/mivolis-spitzwegerich-hustensirup",
+      "title": {
+        "subheadline": "Arzneimittel",
+        "tileHeadline": "Spitzwegerich Hustensirup, 200 ml",
+        "tileHeadlineLong": "Spitzwegerich Hustensirup, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Mivolis",
+        "categories": [
+          "Husten"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.05
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4856,
+        "ratingCount": 208
+      }
+    }
+  }
+]

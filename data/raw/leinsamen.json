@@ -1,0 +1,2663 @@
+[
+  {
+    "gtin": 4067796193893,
+    "dan": 3081974,
+    "brandName": "dmBio",
+    "title": "Leinsamen Mix, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Leinsamen Mix, 200 g; Preis: 1,95 €; Grundpreis: 0,2 kg (9,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3081974,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796193893,
+      "images": [
+        {
+          "alt": "Leinsamen Mix dmBio",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751763728/assets/pas/images/3ca6a4af-ec39-4e45-815e-412768fe50bd/dmbio-leinsamen-mix"
+        },
+        {
+          "alt": "Leinsamen Mix dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751763717/assets/pas/images/72a16bdc-2982-43e1-aefa-51b17606b56e/dmbio-leinsamen-mix"
+        },
+        {
+          "alt": "Leinsamen Mix dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751763714/assets/pas/images/8505e097-6e1e-4c41-b27f-c10e6ab8d2be/dmbio-leinsamen-mix"
+        },
+        {
+          "alt": "Leinsamen Mix dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751763723/assets/pas/images/394fbca8-50c2-44ed-b938-7074b1452fed/dmbio-leinsamen-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (9,11 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (9,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 62,
+        "ratingValue": 4.2258
+      },
+      "self": "/p/d/3081974/dmbio-leinsamen-mix",
+      "title": {
+        "tileHeadline": "Leinsamen Mix, 200 g",
+        "tileHeadlineLong": "Leinsamen Mix, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Saaten & Körner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2258,
+        "ratingCount": 62
+      }
+    }
+  },
+  {
+    "gtin": 4067796063318,
+    "dan": 1447530,
+    "brandName": "dmBio",
+    "title": "Leinsamen, ganz, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Leinsamen, ganz, 500 g; Preis: 1,55 €; Grundpreis: 0,5 kg (3,10 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1447530,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796063318,
+      "images": [
+        {
+          "alt": "Leinsamen, ganz dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487241/assets/pas/images/cbbe6aa3-ee7d-45d6-96f1-57af0a4aec93/dmbio-leinsamen-ganz"
+        },
+        {
+          "alt": "Leinsamen, ganz dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486974/assets/pas/images/9972f419-4d6c-4bc8-9da3-6b1f17ec77bb/dmbio-leinsamen-ganz"
+        },
+        {
+          "alt": "Leinsamen, ganz dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487241/assets/pas/images/79eda8a7-1050-460d-9809-5da1acc149c9/dmbio-leinsamen-ganz"
+        },
+        {
+          "alt": "Leinsamen, ganz dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486881/assets/pas/images/0e556e88-8ccb-4542-bfa7-26449ce3db51/dmbio-leinsamen-ganz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,10 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 127,
+        "ratingValue": 4.7008
+      },
+      "self": "/p/d/1447530/dmbio-leinsamen-ganz",
+      "title": {
+        "tileHeadline": "Leinsamen, ganz, 500 g",
+        "tileHeadlineLong": "Leinsamen, ganz, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Saaten & Körner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7008,
+        "ratingCount": 127
+      }
+    }
+  },
+  {
+    "gtin": 4067796063332,
+    "dan": 1447534,
+    "brandName": "dmBio",
+    "title": "Leinsamen, geschrotet, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Leinsamen, geschrotet, 400 g; Preis: 1,25 €; Grundpreis: 0,4 kg (3,13 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1447534,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796063332,
+      "images": [
+        {
+          "alt": "Leinsamen, geschrotet dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487287/assets/pas/images/987f34fd-0607-4909-a5f9-ef0e2ceeacc6/dmbio-leinsamen-geschrotet"
+        },
+        {
+          "alt": "Leinsamen, geschrotet dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487203/assets/pas/images/9c23cb4e-8aa2-4487-b68a-24dac8574138/dmbio-leinsamen-geschrotet"
+        },
+        {
+          "alt": "Leinsamen, geschrotet dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486941/assets/pas/images/ac502f79-e7bf-45b9-b003-b1c756fd6eec/dmbio-leinsamen-geschrotet"
+        },
+        {
+          "alt": "Leinsamen, geschrotet dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487020/assets/pas/images/4839dd41-bd6b-4a7d-98eb-da2bd5c1bf49/dmbio-leinsamen-geschrotet"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (2,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (3,13 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 197,
+        "ratingValue": 4.5279
+      },
+      "self": "/p/d/1447534/dmbio-leinsamen-geschrotet",
+      "title": {
+        "tileHeadline": "Leinsamen, geschrotet, 400 g",
+        "tileHeadlineLong": "Leinsamen, geschrotet, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Saaten & Körner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5279,
+        "ratingCount": 197
+      }
+    }
+  },
+  {
+    "gtin": 4070765004663,
+    "dan": 1678991,
+    "brandName": "LANGHAARMÄDCHEN",
+    "title": "Conditioner Beautiful Curls, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LANGHAARMÄDCHEN; Produktname: Conditioner Beautiful Curls, 250 ml; Preis: 4,95 €; Grundpreis: 0,25 l (19,80 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "LANGHAARMÄDCHEN"
+      },
+      "dan": 1678991,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765004663,
+      "images": [
+        {
+          "alt": "Conditioner Beautiful Curls LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778102233/assets/pas/images/fb904fa5-af70-422e-ba4d-2c651ad87e00/langhaarmaedchen-conditioner-beautiful-curls"
+        },
+        {
+          "alt": "Conditioner Beautiful Curls LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778102237/assets/pas/images/a705bd75-2524-4ad0-8761-c3fe03d7e2d1/langhaarmaedchen-conditioner-beautiful-curls"
+        },
+        {
+          "alt": "Conditioner Beautiful Curls LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778102227/assets/pas/images/182cdf76-9819-4d92-b5fb-48b2496b199a/langhaarmaedchen-conditioner-beautiful-curls"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (16,64 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (19,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 117,
+        "ratingValue": 4.4017
+      },
+      "self": "/p/d/1678991/langhaarmaedchen-conditioner-beautiful-curls",
+      "title": {
+        "tileHeadline": "Conditioner Beautiful Curls, 250 ml",
+        "tileHeadlineLong": "Conditioner Beautiful Curls, 250 ml"
+      },
+      "trackingData": {
+        "brand": "LANGHAARMÄDCHEN",
+        "categories": [
+          "Locken Produkte",
+          "Conditioner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4017,
+        "ratingCount": 117
+      }
+    }
+  },
+  {
+    "gtin": 4036581252589,
+    "dan": 1703913,
+    "brandName": "Zirkulin",
+    "title": "Flohsamenschalen gemahlen Plus, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: Zirkulin; Produktname: Flohsamenschalen gemahlen Plus, 200 g; Preis: 6,95 €; Grundpreis: 0,2 kg (34,75 € je 1 kg)",
+      "brand": {
+        "name": "Zirkulin"
+      },
+      "dan": 1703913,
+      "gtin": 4036581252589,
+      "images": [
+        {
+          "alt": "Flohsamenschalen gemahlen Plus  Zirkulin",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768345625/assets/pas/images/c59b3e71-fcbe-4f7d-9f70-cfecbbfd6e08/zirkulin-flohsamenschalen-gemahlen-plus"
+        },
+        {
+          "alt": "Flohsamenschalen gemahlen Plus  Zirkulin",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444150/assets/pas/images/618bdec7-ed91-4906-85ad-1a5ab3d22feb/zirkulin-flohsamenschalen-gemahlen-plus"
+        },
+        {
+          "alt": "Flohsamenschalen gemahlen Plus  Zirkulin",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444150/assets/pas/images/8905e320-e2f3-45dd-b460-767744b58a18/zirkulin-flohsamenschalen-gemahlen-plus"
+        },
+        {
+          "alt": "Flohsamenschalen gemahlen Plus  Zirkulin",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768345614/assets/pas/images/9a66476f-7664-49f2-ace8-1aaafe9b2f24/zirkulin-flohsamenschalen-gemahlen-plus"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (32,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (34,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 133,
+        "ratingValue": 4.0526
+      },
+      "self": "/p/d/1703913/zirkulin-flohsamenschalen-gemahlen-plus",
+      "title": {
+        "tileHeadline": "Flohsamenschalen gemahlen Plus, 200 g",
+        "tileHeadlineLong": "Flohsamenschalen gemahlen Plus, 200 g"
+      },
+      "trackingData": {
+        "brand": "Zirkulin",
+        "categories": [
+          "Magen & Verdauung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0526,
+        "ratingCount": 133
+      }
+    }
+  },
+  {
+    "gtin": 4067796150735,
+    "dan": 1678985,
+    "brandName": "LANGHAARMÄDCHEN",
+    "title": "Shampoo Beautiful Curls, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LANGHAARMÄDCHEN; Produktname: Shampoo Beautiful Curls, 300 ml; Preis: 4,95 €; Grundpreis: 0,3 l (16,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "LANGHAARMÄDCHEN"
+      },
+      "dan": 1678985,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796150735,
+      "images": [
+        {
+          "alt": "Shampoo Beautiful Curls LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487830/assets/pas/images/57e6b17a-41e0-4954-a367-2a45724f7776/langhaarmaedchen-shampoo-beautiful-curls"
+        },
+        {
+          "alt": "Shampoo Beautiful Curls LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488062/assets/pas/images/4bbbc913-6135-4108-b99e-1b57ec3ec7ff/langhaarmaedchen-shampoo-beautiful-curls"
+        },
+        {
+          "alt": "Shampoo Beautiful Curls LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487781/assets/pas/images/71453ff6-3b05-4bc2-a67d-03a6b236d10a/langhaarmaedchen-shampoo-beautiful-curls"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,87 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (16,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 195,
+        "ratingValue": 3.5077
+      },
+      "self": "/p/d/1678985/langhaarmaedchen-shampoo-beautiful-curls",
+      "title": {
+        "tileHeadline": "Shampoo Beautiful Curls, 300 ml",
+        "tileHeadlineLong": "Shampoo Beautiful Curls, 300 ml"
+      },
+      "trackingData": {
+        "brand": "LANGHAARMÄDCHEN",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5077,
+        "ratingCount": 195
+      }
+    }
+  },
+  {
+    "gtin": 4066447265255,
+    "dan": 1374089,
+    "brandName": "Dein Bestes",
+    "title": "Katzenleckerli gefüllte Knabberkissen, Haut & Fell, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dein Bestes; Produktname: Katzenleckerli gefüllte Knabberkissen, Haut & Fell, 50 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 0,55 €; Grundpreis: 0,05 kg (11,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Dein Bestes"
+      },
+      "dan": 1374089,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447265255,
+      "images": [
+        {
+          "alt": "Katzenleckerli gefüllte Knabberkissen, Haut & Fell Dein Bestes",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595721/assets/pas/images/2095055d-e061-41ba-8220-2fe766a2219d/dein-bestes-katzenleckerli-gefuellte-knabberkissen-haut-und-fell"
+        },
+        {
+          "alt": "Katzenleckerli gefüllte Knabberkissen, Haut & Fell Dein Bestes",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747479133/assets/pas/images/74bcc7e5-fb4c-4428-9234-84f8d96c5a1e/dein-bestes-katzenleckerli-gefuellte-knabberkissen-haut-und-fell"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,51 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (10,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (11,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 112,
+        "ratingValue": 4.8393
+      },
+      "self": "/p/d/1374089/dein-bestes-katzenleckerli-gefuellte-knabberkissen-haut-und-fell",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Katzenleckerli gefüllte Knabberkissen, Haut & Fell, 50 g",
+        "tileHeadlineLong": "Katzenleckerli gefüllte Knabberkissen, Haut & Fell, 50 g"
+      },
+      "trackingData": {
+        "brand": "Dein Bestes",
+        "categories": [
+          "Snacks für Katzen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8393,
+        "ratingCount": 112
+      }
+    }
+  },
+  {
+    "gtin": 4067796150766,
+    "dan": 1904393,
+    "brandName": "LANGHAARMÄDCHEN",
+    "title": "Haargel Beautiful Curls, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: LANGHAARMÄDCHEN; Produktname: Haargel Beautiful Curls, 150 ml; Preis: 4,95 €; Grundpreis: 0,15 l (33,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "LANGHAARMÄDCHEN"
+      },
+      "dan": 1904393,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796150766,
+      "images": [
+        {
+          "alt": "Haargel Beautiful Curls LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755014298/assets/pas/images/3ef9b25a-f61d-4d42-9007-6e0f9a30d541/langhaarmaedchen-haargel-beautiful-curls"
+        },
+        {
+          "alt": "Haargel Beautiful Curls LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755014302/assets/pas/images/6f2ed51d-9f2a-45f6-b70e-b782235b8a4a/langhaarmaedchen-haargel-beautiful-curls"
+        },
+        {
+          "alt": "Haargel Beautiful Curls LANGHAARMÄDCHEN",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487944/assets/pas/images/b4fab812-f8fa-4eff-881f-e0e1eb6e22e9/langhaarmaedchen-haargel-beautiful-curls"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (27,73 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (33,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 96,
+        "ratingValue": 3.6771
+      },
+      "self": "/p/d/1904393/langhaarmaedchen-haargel-beautiful-curls",
+      "title": {
+        "tileHeadline": "Haargel Beautiful Curls, 150 ml",
+        "tileHeadlineLong": "Haargel Beautiful Curls, 150 ml"
+      },
+      "trackingData": {
+        "brand": "LANGHAARMÄDCHEN",
+        "categories": [
+          "Locken Produkte",
+          "Haargel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6771,
+        "ratingCount": 96
+      }
+    }
+  },
+  {
+    "gtin": 4066447899146,
+    "dan": 3100916,
+    "brandName": "alverde NATURKOSMETIK",
+    "title": "Locken Refresh-Spray, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: alverde NATURKOSMETIK; Produktname: Locken Refresh-Spray, 150 ml; Preis: 3,75 €; Grundpreis: 0,15 l (25,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "alverde NATURKOSMETIK"
+      },
+      "dan": 3100916,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447899146,
+      "images": [
+        {
+          "alt": "Locken Refresh-Spray alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904632/assets/pas/images/634a8088-c6d9-4b39-9cfc-99b786e40d1e/alverde-naturkosmetik-locken-refresh-spray"
+        },
+        {
+          "alt": "Locken Refresh-Spray alverde NATURKOSMETIK",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904628/assets/pas/images/abe589d5-379e-4dc8-b8ea-2aef1817cede/alverde-naturkosmetik-locken-refresh-spray"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (21,01 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (25,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 3.9038
+      },
+      "self": "/p/d/3100916/alverde-naturkosmetik-locken-refresh-spray",
+      "title": {
+        "tileHeadline": "Locken Refresh-Spray, 150 ml",
+        "tileHeadlineLong": "Locken Refresh-Spray, 150 ml"
+      },
+      "trackingData": {
+        "brand": "alverde NATURKOSMETIK",
+        "categories": [
+          "Locken Produkte",
+          "Haarstyling"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9038,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 4015537002744,
+    "dan": 1417293,
+    "brandName": "Hammermühle",
+    "title": "Kokos-Mandel Kekse, Simply Seeds, glutenfrei, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Kokos-Mandel Kekse, Simply Seeds, glutenfrei, 150 g; Preis: 2,95 €; Grundpreis: 0,15 kg (19,67 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1417293,
+      "gtin": 4015537002744,
+      "images": [
+        {
+          "alt": "Kokos-Mandel Kekse, Simply Seeds, glutenfrei Hammermühle",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747441987/assets/pas/images/1613f721-3c57-49c3-8f13-d6b701b381bc/hammermuehle-kokos-mandel-kekse-simply-seeds-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (18,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (19,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 107,
+        "ratingValue": 4.8131
+      },
+      "self": "/p/d/1417293/hammermuehle-kokos-mandel-kekse-simply-seeds-glutenfrei",
+      "title": {
+        "tileHeadline": "Kokos-Mandel Kekse, Simply Seeds, glutenfrei, 150 g",
+        "tileHeadlineLong": "Kokos-Mandel Kekse, Simply Seeds, glutenfrei, 150 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8131,
+        "ratingCount": 107
+      }
+    }
+  },
+  {
+    "gtin": 4260488135649,
+    "dan": 3109075,
+    "brandName": "Nature Love",
+    "title": "Oh Meno Kapseln, 60 St",
+    "tileData": {
+      "a11yLabel": "Marke: Nature Love; Produktname: Oh Meno Kapseln, 60 St; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 13,95 €; Grundpreis: 0,01 kg (1.395,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Nature Love"
+      },
+      "dan": 3109075,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260488135649,
+      "images": [
+        {
+          "alt": "Oh Meno Kapseln  Nature Love",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763643700/assets/pas/images/f69d9f6b-f4fe-492d-90d3-b4fec11a7d4e/nature-love-oh-meno-kapseln"
+        },
+        {
+          "alt": "Oh Meno Kapseln  Nature Love",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776292124/assets/pas/images/2a755724-a07c-42c2-86f3-78e63b60ccc9/nature-love-oh-meno-kapseln"
+        },
+        {
+          "alt": "Oh Meno Kapseln  Nature Love",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763643658/assets/pas/images/6c5168f4-0401-40c1-a0a0-c6932709def5/nature-love-oh-meno-kapseln"
+        },
+        {
+          "alt": "Oh Meno Kapseln  Nature Love",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763643670/assets/pas/images/9698082d-ad71-442c-aacf-ff72b96a1c92/nature-love-oh-meno-kapseln"
+        },
+        {
+          "alt": "Oh Meno Kapseln  Nature Love",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763643682/assets/pas/images/948aa9cb-2669-4fb7-ba0f-54ead4448dc6/nature-love-oh-meno-kapseln"
+        },
+        {
+          "alt": "Oh Meno Kapseln  Nature Love",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763643691/assets/pas/images/4e379b64-449f-4f0a-9feb-6e8f66645fb3/nature-love-oh-meno-kapseln"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,01 kg (1.303,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,01 kg (1.395,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 0,
+        "ratingValue": 0.0
+      },
+      "self": "/p/d/3109075/nature-love-oh-meno-kapseln",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Oh Meno Kapseln, 60 St",
+        "tileHeadlineLong": "Oh Meno Kapseln, 60 St"
+      },
+      "trackingData": {
+        "brand": "Nature Love",
+        "categories": [
+          "Sonstige Mineralstoffe"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 0.0,
+        "ratingCount": 0
+      }
+    }
+  },
+  {
+    "gtin": 4015537003284,
+    "dan": 3094895,
+    "brandName": "Hammermühle",
+    "title": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g; Preis: 2,75 €; Grundpreis: 0,1 kg (27,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 3094895,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4015537003284,
+      "images": [
+        {
+          "alt": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei Hammermühle",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756163569/assets/pas/images/369408bc-40dd-4b4a-bb61-4b3ca5387c23/hammermuehle-simply-seeds-cracker-kaese-zwiebel-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (25,70 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (27,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 3.875
+      },
+      "self": "/p/d/3094895/hammermuehle-simply-seeds-cracker-kaese-zwiebel-glutenfrei",
+      "title": {
+        "tileHeadline": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g",
+        "tileHeadlineLong": "Simply Seeds Cracker, Käse-Zwiebel, glutenfrei, 100 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.875,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 4066447919042,
+    "dan": 3136010,
+    "brandName": "alverde NATURKOSMETIK",
+    "title": "Conditioner Locken, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: alverde NATURKOSMETIK; Produktname: Conditioner Locken, 200 ml; Preis: 1,25 €; Grundpreis: 0,2 l (6,25 € je 1 l); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "alverde NATURKOSMETIK"
+      },
+      "dan": 3136010,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447919042,
+      "images": [
+        {
+          "alt": "Conditioner Locken alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776766403/assets/pas/images/ccdf4552-1ac8-4a87-9c61-33e1bc552453/alverde-naturkosmetik-conditioner-locken"
+        },
+        {
+          "alt": "Conditioner Locken alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776766393/assets/pas/images/30273ce3-ad14-44da-8d57-7dcd6a0e4c21/alverde-naturkosmetik-conditioner-locken"
+        },
+        {
+          "alt": "Conditioner Locken alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776766398/assets/pas/images/dd1fa3cc-3a1e-45c3-9130-558731854379/alverde-naturkosmetik-conditioner-locken"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (5,25 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (6,25 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 5,
+        "ratingValue": 3.2
+      },
+      "self": "/p/d/3136010/alverde-naturkosmetik-conditioner-locken",
+      "title": {
+        "tileHeadline": "Conditioner Locken, 200 ml",
+        "tileHeadlineLong": "Conditioner Locken, 200 ml"
+      },
+      "trackingData": {
+        "brand": "alverde NATURKOSMETIK",
+        "categories": [
+          "Locken Produkte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.2,
+        "ratingCount": 5
+      }
+    }
+  },
+  {
+    "gtin": 4066447918861,
+    "dan": 1343487,
+    "brandName": "dmBio",
+    "title": "Leinöl, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Leinöl, 250 ml; Preis: 1,35 €; Grundpreis: 0,25 l (5,40 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1343487,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447918861,
+      "images": [
+        {
+          "alt": "Leinöl dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764980936/assets/pas/images/b2558ab1-a41c-4db1-ae91-72ec16f98e85/dmbio-leinoel"
+        },
+        {
+          "alt": "Leinöl dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764980942/assets/pas/images/4cb82909-78f0-47ab-aafa-942e2632be8e/dmbio-leinoel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (5,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (5,40 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 108,
+        "ratingValue": 4.3056
+      },
+      "self": "/p/d/1343487/dmbio-leinoel",
+      "title": {
+        "tileHeadline": "Leinöl, 250 ml",
+        "tileHeadlineLong": "Leinöl, 250 ml"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Essig & Öl"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3056,
+        "ratingCount": 108
+      }
+    }
+  },
+  {
+    "gtin": 4067796194685,
+    "dan": 1494147,
+    "brandName": "dmBio",
+    "title": "Knuspermüsli, Kerne & Saaten Granola, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Knuspermüsli, Kerne & Saaten Granola, 500 g; Preis: 3,45 €; Grundpreis: 0,5 kg (6,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1494147,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796194685,
+      "images": [
+        {
+          "alt": "Knuspermüsli, Kerne & Saaten Granola dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169279/assets/pas/images/03d0f4e5-574b-40a9-9ab3-8753f42b5df8/dmbio-knuspermuesli-kerne-und-saaten-granola"
+        },
+        {
+          "alt": "Knuspermüsli, Kerne & Saaten Granola dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169265/assets/pas/images/ab9ce2ce-71ac-4cee-bae1-8b476f82c39c/dmbio-knuspermuesli-kerne-und-saaten-granola"
+        },
+        {
+          "alt": "Knuspermüsli, Kerne & Saaten Granola dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169271/assets/pas/images/87d24a27-4f72-4538-a74d-a247c5b19329/dmbio-knuspermuesli-kerne-und-saaten-granola"
+        },
+        {
+          "alt": "Knuspermüsli, Kerne & Saaten Granola dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169275/assets/pas/images/d2c3c2ba-4ba7-4a00-bd50-6b7fc2ec97c0/dmbio-knuspermuesli-kerne-und-saaten-granola"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 685,
+        "ratingValue": 4.6803
+      },
+      "self": "/p/d/1494147/dmbio-knuspermuesli-kerne-und-saaten-granola",
+      "title": {
+        "tileHeadline": "Knuspermüsli, Kerne & Saaten Granola, 500 g",
+        "tileHeadlineLong": "Knuspermüsli, Kerne & Saaten Granola, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6803,
+        "ratingCount": 685
+      }
+    }
+  },
+  {
+    "gtin": 4062300446663,
+    "dan": 1701105,
+    "brandName": "HiPP Babysanft",
+    "title": "Feuchttücher Soft & Pur 18x48 St., 864 St",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP Babysanft; Produktname: Feuchttücher Soft & Pur 18x48 St., 864 St; Preis: 24,15 €; Grundpreis: 864 St (0,03 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "HiPP Babysanft"
+      },
+      "dan": 1701105,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4062300446663,
+      "images": [
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778373228/assets/pas/images/c33918f5-74e7-438d-a3ff-3b8a4bfc20ed/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782008982/assets/pas/images/3c202964-43e5-497e-be84-131ac298994a/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777598490/assets/pas/images/ad084a8d-3d35-4e97-9bb7-8d872cc3d030/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418717/assets/pas/images/d6f57f20-5611-4237-9e2b-3c00e8f19ec1/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418710/assets/pas/images/d15464fd-754b-40b2-bd7c-7994ec23c54d/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418704/assets/pas/images/66a73a9a-4dec-4602-a9cd-95117742fc50/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418696/assets/pas/images/0e5c5ec0-018b-493c-a2b3-4962a3b95368/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418683/assets/pas/images/6cc37065-36bb-4a82-a1f7-043c2f444299/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418676/assets/pas/images/c90cc8e5-1e4d-49bf-b69e-96a03bbdfe87/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418668/assets/pas/images/92be64ba-ab37-4ea8-9a21-76d51902da64/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418661/assets/pas/images/ca23e0b8-1f4d-4c05-a56a-6231959f37fe/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778373220/assets/pas/images/47d71982-79d4-45a3-83b0-f8b236ffc57c/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "20,29 €"
+          }
+        },
+        "tileInfos": [
+          "864 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "24,15 €"
+          }
+        },
+        "tileInfos": [
+          "864 St (0,03 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 358,
+        "ratingValue": 4.5447
+      },
+      "self": "/p/d/1701105/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st",
+      "title": {
+        "tileHeadline": "Feuchttücher Soft & Pur 18x48 St., 864 St",
+        "tileHeadlineLong": "Feuchttücher Soft & Pur 18x48 St., 864 St"
+      },
+      "trackingData": {
+        "brand": "HiPP Babysanft",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 24.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5447,
+        "ratingCount": 358
+      }
+    }
+  },
+  {
+    "gtin": 4070765029222,
+    "dan": 1493761,
+    "brandName": "dmBio",
+    "title": "Porridge Basen in Balance, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Porridge Basen in Balance, 500 g; Preis: 3,75 €; Grundpreis: 0,5 kg (7,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1493761,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765029222,
+      "images": [
+        {
+          "alt": "Porridge Basen in Balance dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773188712/assets/pas/images/32f1d23a-7a5e-4ef8-b239-d5a87b8f06ce/dmbio-porridge-basen-in-balance"
+        },
+        {
+          "alt": "Porridge Basen in Balance dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773188723/assets/pas/images/fa295915-de88-471c-8c0d-9c5835e0a779/dmbio-porridge-basen-in-balance"
+        },
+        {
+          "alt": "Porridge Basen in Balance dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773188720/assets/pas/images/5da07710-4a6e-4a59-acc3-d82ec5aab9e7/dmbio-porridge-basen-in-balance"
+        },
+        {
+          "alt": "Porridge Basen in Balance dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773188707/assets/pas/images/d95b6841-6e03-4c8c-aa0a-0e50bc92daa8/dmbio-porridge-basen-in-balance"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,01 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 297,
+        "ratingValue": 4.1616
+      },
+      "self": "/p/d/1493761/dmbio-porridge-basen-in-balance",
+      "title": {
+        "tileHeadline": "Porridge Basen in Balance, 500 g",
+        "tileHeadlineLong": "Porridge Basen in Balance, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Porridge & Frühstücksbrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1616,
+        "ratingCount": 297
+      }
+    }
+  },
+  {
+    "gtin": 4067796217407,
+    "dan": 3081920,
+    "brandName": "dmBio",
+    "title": "Omega-3 Mix, 250 g",
+    "tileData": {
+      "dan": 3081920,
+      "gtin": 4067796217407,
+      "self": "/p/d/3081920/dmbio-omega-3-mix",
+      "brand": {
+        "name": "dmBio"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,25 kg (7,80 € je 1 kg)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Omega-3 Mix, 250 g",
+        "tileHeadlineLong": "Omega-3 Mix, 250 g"
+      },
+      "images": [
+        {
+          "alt": "Omega-3 Mix dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751760867/assets/pas/images/c20c17e1-67e6-4791-9829-bab28b40ec7a/dmbio-omega-3-mix",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F5F9"
+        },
+        {
+          "alt": "Omega-3 Mix dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779326636/assets/pas/images/aa85114d-c806-4209-b063-a9cf75e23843/dmbio-omega-3-mix",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F4F1"
+        },
+        {
+          "alt": "Omega-3 Mix dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751760851/assets/pas/images/1520073b-28e1-4f35-83ba-1c41c28df413/dmbio-omega-3-mix",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F4F1"
+        },
+        {
+          "alt": "Omega-3 Mix dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751760863/assets/pas/images/773dd1f7-7b64-4f49-8680-589079d80b02/dmbio-omega-3-mix",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F9F8"
+        },
+        {
+          "alt": "Omega-3 Mix dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775858407/assets/pas/images/19c12956-e8ad-44ba-853b-d8b2986c5ccc/dmbio-omega-3-mix",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F8F1"
+        },
+        {
+          "alt": "Omega-3 Mix dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751760857/assets/pas/images/5aae5128-f057-44c7-9e61-9f70467907cf/dmbio-omega-3-mix",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F4F1"
+        }
+      ],
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.5
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,25 kg (7,29 € je 1 kg)"
+        ]
+      },
+      "a11yLabel": "Marke: dmBio; Produktname: Omega-3 Mix, 250 g; Preis: 1,95 €; Grundpreis: 0,25 kg (7,80 € je 1 kg); Marke von dm Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "dmBio",
+        "price": 1.95,
+        "currency": "EUR",
+        "categories": [
+          "Saaten & Körner"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4262391991138,
+    "dan": 3106307,
+    "brandName": "BALI CURLS",
+    "title": "Haargel Strong Hold Flaxseed, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: BALI CURLS; Produktname: Haargel Strong Hold Flaxseed, 150 ml; Preis: 8,95 €; Grundpreis: 0,15 l (59,67 € je 1 l)",
+      "brand": {
+        "name": "BALI CURLS"
+      },
+      "dan": 3106307,
+      "gtin": 4262391991138,
+      "images": [
+        {
+          "alt": "Haargel Strong Hold Flaxseed BALI CURLS",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974965/assets/pas/images/f66512dd-f080-4d7b-997d-07359f593897/bali-curls-haargel-strong-hold-flaxseed"
+        },
+        {
+          "alt": "Haargel Strong Hold Flaxseed BALI CURLS",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771974977/assets/pas/images/cef4062a-d7cd-4c99-bfb5-93776072690d/bali-curls-haargel-strong-hold-flaxseed"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (50,14 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (59,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.2759
+      },
+      "self": "/p/d/3106307/bali-curls-haargel-strong-hold-flaxseed",
+      "title": {
+        "tileHeadline": "Haargel Strong Hold Flaxseed, 150 ml",
+        "tileHeadlineLong": "Haargel Strong Hold Flaxseed, 150 ml"
+      },
+      "trackingData": {
+        "brand": "BALI CURLS",
+        "categories": [
+          "Locken Produkte",
+          "Haargel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2759,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 8008698013175,
+    "dan": 1425092,
+    "brandName": "Schär",
+    "title": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g; Preis: 2,85 €; Grundpreis: 0,21 kg (13,57 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1425092,
+      "gtin": 8008698013175,
+      "images": [
+        {
+          "alt": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750890699/assets/pas/images/f4bc0b2e-e9ed-46eb-886c-d193a8408948/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517774/assets/pas/images/58c9fc41-df09-4eb8-b61e-1f1b1ecf49d8/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747570357/assets/pas/images/eccf256b-cafb-4fa8-b1c0-fa34aa07e8e5/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,21 kg (12,68 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,21 kg (13,57 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.7424
+      },
+      "self": "/p/d/1425092/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g",
+        "tileHeadlineLong": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7424,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4270000814433,
+    "dan": 1573037,
+    "brandName": "Afrolocke",
+    "title": "Leave-In Haarkur, für lockiges Haar, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Afrolocke; Produktname: Leave-In Haarkur, für lockiges Haar, 250 ml; Preis: 16,95 €; Grundpreis: 0,25 l (67,80 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "Afrolocke"
+      },
+      "dan": 1573037,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4270000814433,
+      "images": [
+        {
+          "alt": "Leave-In Haarkur, für lockiges Haar Afrolocke",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495959/assets/pas/images/a97516e5-71a1-4e79-a6c4-b69142889456/afrolocke-leave-in-haarkur-fuer-lockiges-haar"
+        },
+        {
+          "alt": "Leave-In Haarkur, für lockiges Haar Afrolocke",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495604/assets/pas/images/f4e63542-6ea1-4365-8ffd-b7c59794cb6d/afrolocke-leave-in-haarkur-fuer-lockiges-haar"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "14,24 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (56,97 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "16,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (67,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 139,
+        "ratingValue": 4.5396
+      },
+      "self": "/p/d/1573037/afrolocke-leave-in-haarkur-fuer-lockiges-haar",
+      "title": {
+        "tileHeadline": "Leave-In Haarkur, für lockiges Haar, 250 ml",
+        "tileHeadlineLong": "Leave-In Haarkur, für lockiges Haar, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Afrolocke",
+        "categories": [
+          "Leave-In"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 16.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5396,
+        "ratingCount": 139
+      }
+    }
+  },
+  {
+    "gtin": 4015537002478,
+    "dan": 1713906,
+    "brandName": "Hammermühle",
+    "title": "Körnerstangen, glutenfrei (2 Stück), 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Körnerstangen, glutenfrei (2 Stück), 220 g; Preis: 3,45 €; Grundpreis: 0,22 kg (15,68 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1713906,
+      "gtin": 4015537002478,
+      "images": [
+        {
+          "alt": "Körnerstangen, glutenfrei (2 Stück) Hammermühle",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099293/assets/pas/images/e686b01b-9ba2-4484-aa38-a13d1328aefa/hammermuehle-koernerstangen-glutenfrei-2-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (14,65 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (15,68 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.7059
+      },
+      "self": "/p/d/1713906/hammermuehle-koernerstangen-glutenfrei-2-stueck",
+      "title": {
+        "tileHeadline": "Körnerstangen, glutenfrei (2 Stück), 220 g",
+        "tileHeadlineLong": "Körnerstangen, glutenfrei (2 Stück), 220 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7059,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 9180007870187,
+    "dan": 1457600,
+    "brandName": "Steiner‘s",
+    "title": "Nudeln, LOWer Carb High Protein Fusilli, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Steiner‘s; Produktname: Nudeln, LOWer Carb High Protein Fusilli, 250 g; Preis: 2,95 €; Grundpreis: 0,25 kg (11,80 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Steiner‘s"
+      },
+      "dan": 1457600,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9180007870187,
+      "images": [
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747540542/assets/pas/images/e5fa126d-79ae-4466-b5e3-b80f071cc20a/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747551931/assets/pas/images/343e53c6-83ae-4660-b33c-036836c97ea9/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747551936/assets/pas/images/b1cedf15-9b0a-40d7-ad8f-532733e11847/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747551926/assets/pas/images/8054feb3-184b-4cb9-84eb-fa6ccb443c29/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        },
+        {
+          "alt": "Nudeln, LOWer Carb High Protein Fusilli Steiner‘s",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747551941/assets/pas/images/e3c2a177-4dc5-4669-85eb-4963698e7d3b/steiner-s-nudeln-lower-carb-high-protein-fusilli"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 115,
+        "ratingValue": 4.2087
+      },
+      "self": "/p/d/1457600/steiner-s-nudeln-lower-carb-high-protein-fusilli",
+      "title": {
+        "tileHeadline": "Nudeln, LOWer Carb High Protein Fusilli, 250 g",
+        "tileHeadlineLong": "Nudeln, LOWer Carb High Protein Fusilli, 250 g"
+      },
+      "trackingData": {
+        "brand": "Steiner‘s",
+        "categories": [
+          "Sportnahrung",
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2087,
+        "ratingCount": 115
+      }
+    }
+  },
+  {
+    "gtin": 4066447980868,
+    "dan": 3108089,
+    "brandName": "dmBio",
+    "title": "Backmischung Saatenbrot, 475 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Backmischung Saatenbrot, 475 g; Preis: 2,75 €; Grundpreis: 0,475 kg (5,79 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3108089,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447980868,
+      "images": [
+        {
+          "alt": "Backmischung Saatenbrot dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764973503/assets/pas/images/4ce5c2a3-76fa-44d1-83ed-69fe16b5823e/dmbio-backmischung-saatenbrot"
+        },
+        {
+          "alt": "Backmischung Saatenbrot dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764973508/assets/pas/images/fd6f8dfd-7859-45a9-b344-c5272d9ce66e/dmbio-backmischung-saatenbrot"
+        },
+        {
+          "alt": "Backmischung Saatenbrot dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764973494/assets/pas/images/afb7ab35-5e3f-4521-ad90-35f45d90f88e/dmbio-backmischung-saatenbrot"
+        },
+        {
+          "alt": "Backmischung Saatenbrot dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764973499/assets/pas/images/2724acfe-ba9f-4aba-b079-c14f06624d8f/dmbio-backmischung-saatenbrot"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,475 kg (5,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,475 kg (5,79 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.6029
+      },
+      "self": "/p/d/3108089/dmbio-backmischung-saatenbrot",
+      "title": {
+        "tileHeadline": "Backmischung Saatenbrot, 475 g",
+        "tileHeadlineLong": "Backmischung Saatenbrot, 475 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Backmischungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6029,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 9004617065651,
+    "dan": 3070190,
+    "brandName": "VERIVAL",
+    "title": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: VERIVAL; Produktname: Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g; Preis: 4,95 €; Grundpreis: 0,3 kg (16,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "VERIVAL"
+      },
+      "dan": 3070190,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9004617065651,
+      "images": [
+        {
+          "alt": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei VERIVAL",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748338551/assets/pas/images/46135ecf-b64e-4d28-b7f6-044df85a9693/verival-protein-muesli-erdbeere-sauerkirsche-glutenfrei"
+        },
+        {
+          "alt": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei VERIVAL",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747538208/assets/pas/images/b7264d9e-0396-41bc-82c2-7ff1d1f360b6/verival-protein-muesli-erdbeere-sauerkirsche-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (15,42 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (16,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3070190/verival-protein-muesli-erdbeere-sauerkirsche-glutenfrei",
+      "title": {
+        "tileHeadline": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g",
+        "tileHeadlineLong": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g"
+      },
+      "trackingData": {
+        "brand": "VERIVAL",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4015637826417,
+    "dan": 1618158,
+    "brandName": "Bauck Mühle",
+    "title": "Backmischung Wunderbrot, glutenfrei, 600 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bauck Mühle; Produktname: Backmischung Wunderbrot, glutenfrei, 600 g; Preis: 4,45 €; Grundpreis: 0,6 kg (7,42 € je 1 kg)",
+      "brand": {
+        "name": "Bauck Mühle"
+      },
+      "dan": 1618158,
+      "gtin": 4015637826417,
+      "images": [
+        {
+          "alt": "Backmischung Wunderbrot, glutenfrei Bauck Mühle",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904349/assets/pas/images/67926038-8655-4ea2-b066-1b1292208b02/bauck-muehle-backmischung-wunderbrot-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (6,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (7,42 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 189,
+        "ratingValue": 4.7989
+      },
+      "self": "/p/d/1618158/bauck-muehle-backmischung-wunderbrot-glutenfrei",
+      "title": {
+        "tileHeadline": "Backmischung Wunderbrot, glutenfrei, 600 g",
+        "tileHeadlineLong": "Backmischung Wunderbrot, glutenfrei, 600 g"
+      },
+      "trackingData": {
+        "brand": "Bauck Mühle",
+        "categories": [
+          "Backmischungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7989,
+        "ratingCount": 189
+      }
+    }
+  },
+  {
+    "gtin": 4015637827438,
+    "dan": 1617217,
+    "brandName": "Bauck Mühle",
+    "title": "Backmischung Mühlenbrot 7-Saaten, glutenfrei, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bauck Mühle; Produktname: Backmischung Mühlenbrot 7-Saaten, glutenfrei, 500 g; Preis: 3,95 €; Grundpreis: 0,5 kg (7,90 € je 1 kg)",
+      "brand": {
+        "name": "Bauck Mühle"
+      },
+      "dan": 1617217,
+      "gtin": 4015637827438,
+      "images": [
+        {
+          "alt": "Backmischung Mühlenbrot 7-Saaten, glutenfrei Bauck Mühle",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777070982/assets/pas/images/aa849ace-61e1-4225-a588-d2e16f504b83/bauck-muehle-backmischung-muehlenbrot-7-saaten-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.7576
+      },
+      "self": "/p/d/1617217/bauck-muehle-backmischung-muehlenbrot-7-saaten-glutenfrei",
+      "title": {
+        "tileHeadline": "Backmischung Mühlenbrot 7-Saaten, glutenfrei, 500 g",
+        "tileHeadlineLong": "Backmischung Mühlenbrot 7-Saaten, glutenfrei, 500 g"
+      },
+      "trackingData": {
+        "brand": "Bauck Mühle",
+        "categories": [
+          "Backmischungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7576,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4015637024943,
+    "dan": 1706918,
+    "brandName": "Bauck Mühle",
+    "title": "Backmischung 8 Wunderbrötchen, Protein, glutenfrei, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: Bauck Mühle; Produktname: Backmischung 8 Wunderbrötchen, Protein, glutenfrei, 350 g; Preis: 3,95 €; Grundpreis: 0,35 kg (11,29 € je 1 kg)",
+      "brand": {
+        "name": "Bauck Mühle"
+      },
+      "dan": 1706918,
+      "gtin": 4015637024943,
+      "images": [
+        {
+          "alt": "Backmischung 8 Wunderbrötchen, Protein, glutenfrei Bauck Mühle",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763076058/assets/pas/images/e4958df3-f2d9-4573-a7f8-b6e8c04fa4dc/bauck-muehle-backmischung-8-wunderbroetchen-protein-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (10,55 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (11,29 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.5303
+      },
+      "self": "/p/d/1706918/bauck-muehle-backmischung-8-wunderbroetchen-protein-glutenfrei",
+      "title": {
+        "tileHeadline": "Backmischung 8 Wunderbrötchen, Protein, glutenfrei, 350 g",
+        "tileHeadlineLong": "Backmischung 8 Wunderbrötchen, Protein, glutenfrei, 350 g"
+      },
+      "trackingData": {
+        "brand": "Bauck Mühle",
+        "categories": [
+          "Backmischungen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5303,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 8008698010778,
+    "dan": 1623172,
+    "brandName": "Schär",
+    "title": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei, 240 g; Preis: 3,45 €; Grundpreis: 0,24 kg (14,38 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1623172,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8008698010778,
+      "images": [
+        {
+          "alt": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517780/assets/pas/images/d7b1e898-33ad-4bf8-8821-7b154f4539e2/schaer-brot-sauerteig-surdegsbroed-mit-preiselbeeren-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517420/assets/pas/images/eeca5546-a36b-48e9-9117-d42e9c1c56a9/schaer-brot-sauerteig-surdegsbroed-mit-preiselbeeren-5-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (13,44 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (14,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/1623172/schaer-brot-sauerteig-surdegsbroed-mit-preiselbeeren-5-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren..., 240 g",
+        "tileHeadlineLong": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren..., 240 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 30
+      }
+    }
+  },
+  {
+    "gtin": 4260609512496,
+    "dan": 3111865,
+    "brandName": "BitterLiebe",
+    "title": "Ballaststoff Komplex Pulver, Zitrone-Limette Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: BitterLiebe; Produktname: Ballaststoff Komplex Pulver, Zitrone-Limette Geschmack, 300 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 29,95 €; Grundpreis: 0,3 kg (99,83 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "BitterLiebe"
+      },
+      "dan": 3111865,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260609512496,
+      "images": [
+        {
+          "alt": "Ballaststoff Komplex Pulver, Zitrone-Limette Geschmack BitterLiebe",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763646109/assets/pas/images/eb006a6b-817b-4bb3-bc10-551a50c98cad/bitterliebe-ballaststoff-komplex-pulver-zitrone-limette-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "27,99 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (93,30 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (99,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1,
+        "ratingValue": 3.0
+      },
+      "self": "/p/d/3111865/bitterliebe-ballaststoff-komplex-pulver-zitrone-limette-geschmack",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Ballaststoff Komplex Pulver, Zitrone-Limette..., 300 g",
+        "tileHeadlineLong": "Ballaststoff Komplex Pulver, Zitrone-Limette..., 300 g"
+      },
+      "trackingData": {
+        "brand": "BitterLiebe",
+        "categories": [
+          "Magen & Verdauung"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0,
+        "ratingCount": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,2504 @@
+[
+  {
+    "gtin": 7640143671212,
+    "dan": 3062931,
+    "brandName": "PPURA",
+    "title": "Pesto, Rosso mild für Kinder, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Pesto, Rosso mild für Kinder, 120 g; Preis: 2,95 €; Grundpreis: 0,12 kg (24,58 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 3062931,
+      "gtin": 7640143671212,
+      "images": [
+        {
+          "alt": "Pesto, Rosso mild für Kinder PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511806/assets/pas/images/9abe8dee-1d8d-451a-b6c0-d2a800c688a0/ppura-pesto-rosso-mild-fuer-kinder"
+        },
+        {
+          "alt": "Pesto, Rosso mild für Kinder PPURA",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993144/assets/pas/images/0574de9a-400f-45cc-b21d-e85e28668adf/ppura-pesto-rosso-mild-fuer-kinder"
+        },
+        {
+          "alt": "Pesto, Rosso mild für Kinder PPURA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511584/assets/pas/images/db6385b9-3d1b-42ec-9bea-a3cfa3599f63/ppura-pesto-rosso-mild-fuer-kinder"
+        },
+        {
+          "alt": "Pesto, Rosso mild für Kinder PPURA",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511174/assets/pas/images/ac899ad0-62bf-4dc1-b825-e3568188450f/ppura-pesto-rosso-mild-fuer-kinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (22,97 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,58 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.8077
+      },
+      "self": "/p/d/3062931/ppura-pesto-rosso-mild-fuer-kinder",
+      "title": {
+        "tileHeadline": "Pesto, Rosso mild für Kinder, 120 g",
+        "tileHeadlineLong": "Pesto, Rosso mild für Kinder, 120 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8077,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 8018759001836,
+    "dan": 1711475,
+    "brandName": "LaSelva",
+    "title": "Pesto, Rosso mit Tomaten, 130 g",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Pesto, Rosso mit Tomaten, 130 g; Preis: 2,75 €; Grundpreis: 0,13 kg (21,15 € je 1 kg)",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 1711475,
+      "gtin": 8018759001836,
+      "images": [
+        {
+          "alt": "Pesto, Rosso mit Tomaten LaSelva",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747523421/assets/pas/images/bb40adec-4413-46d1-a289-2821df70e3d0/laselva-pesto-rosso-mit-tomaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (19,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (21,15 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 27,
+        "ratingValue": 4.9259
+      },
+      "self": "/p/d/1711475/laselva-pesto-rosso-mit-tomaten",
+      "title": {
+        "tileHeadline": "Pesto, Rosso mit Tomaten, 130 g",
+        "tileHeadlineLong": "Pesto, Rosso mit Tomaten, 130 g"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9259,
+        "ratingCount": 27
+      }
+    }
+  },
+  {
+    "gtin": 7640143671113,
+    "dan": 1570515,
+    "brandName": "PPURA",
+    "title": "Pesto, Rosso mit 35 % getrocknete Tomaten, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Pesto, Rosso mit 35 % getrocknete Tomaten, 120 g; Preis: 2,95 €; Grundpreis: 0,12 kg (24,58 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1570515,
+      "gtin": 7640143671113,
+      "images": [
+        {
+          "alt": "Pesto, Rosso mit 35 % getrocknete Tomaten PPURA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756127209/assets/pas/images/26213dc0-47c5-48ce-9165-fa3f2643a663/ppura-pesto-rosso-mit-35-prozent-getrocknete-tomaten"
+        },
+        {
+          "alt": "Pesto, Rosso mit 35 % getrocknete Tomaten PPURA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756127223/assets/pas/images/194aaac4-0681-4b21-bd6d-4534419074b2/ppura-pesto-rosso-mit-35-prozent-getrocknete-tomaten"
+        },
+        {
+          "alt": "Pesto, Rosso mit 35 % getrocknete Tomaten PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756127194/assets/pas/images/cb801764-7b3c-414b-95ee-04c57e4bf98b/ppura-pesto-rosso-mit-35-prozent-getrocknete-tomaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (22,97 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,58 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.631
+      },
+      "self": "/p/d/1570515/ppura-pesto-rosso-mit-35-prozent-getrocknete-tomaten",
+      "title": {
+        "tileHeadline": "Pesto, Rosso mit 35 % getrocknete Tomaten, 120 g",
+        "tileHeadlineLong": "Pesto, Rosso mit 35 % getrocknete Tomaten, 120 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.631,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 8053323641179,
+    "dan": 3140140,
+    "brandName": "LaSelva",
+    "title": "Pesto, Zitrone, 130 g",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Pesto, Zitrone, 130 g; Preis: 3,45 €; Grundpreis: 0,13 kg (26,54 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 3140140,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 8053323641179,
+      "images": [
+        {
+          "alt": "Pesto, Zitrone LaSelva",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779409831/assets/pas/images/9cd6f07f-7c22-49f1-92dd-ac7a46114e88/laselva-pesto-zitrone"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (24,80 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (26,54 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 18,
+        "ratingValue": 2.6111
+      },
+      "self": "/p/d/3140140/laselva-pesto-zitrone",
+      "title": {
+        "tileHeadline": "Pesto, Zitrone, 130 g",
+        "tileHeadlineLong": "Pesto, Zitrone, 130 g"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.6111,
+        "ratingCount": 18
+      }
+    }
+  },
+  {
+    "gtin": 7640143671120,
+    "dan": 1578710,
+    "brandName": "PPURA",
+    "title": "Pesto, alla Genovese mit Pinienkernen, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Pesto, alla Genovese mit Pinienkernen, 120 g; Preis: 2,95 €; Grundpreis: 0,12 kg (24,58 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1578710,
+      "gtin": 7640143671120,
+      "images": [
+        {
+          "alt": "Pesto, alla Genovese mit Pinienkernen PPURA",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756129598/assets/pas/images/cfe6da01-cd11-4074-ae43-a0f8c963502e/ppura-pesto-alla-genovese-mit-pinienkernen"
+        },
+        {
+          "alt": "Pesto, alla Genovese mit Pinienkernen PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756129585/assets/pas/images/b25d4ad5-f6b4-4eb7-88d9-01051f113177/ppura-pesto-alla-genovese-mit-pinienkernen"
+        },
+        {
+          "alt": "Pesto, alla Genovese mit Pinienkernen PPURA",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756129571/assets/pas/images/60741308-b7f2-4406-b21e-077591442128/ppura-pesto-alla-genovese-mit-pinienkernen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (22,97 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,58 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.4286
+      },
+      "self": "/p/d/1578710/ppura-pesto-alla-genovese-mit-pinienkernen",
+      "title": {
+        "tileHeadline": "Pesto, alla Genovese mit Pinienkernen, 120 g",
+        "tileHeadlineLong": "Pesto, alla Genovese mit Pinienkernen, 120 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4286,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 8053323641155,
+    "dan": 1711525,
+    "brandName": "LaSelva",
+    "title": "Pesto mit Trüffel, 130 g",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Pesto mit Trüffel, 130 g; Preis: 3,25 €; Grundpreis: 0,13 kg (25,00 € je 1 kg)",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 1711525,
+      "gtin": 8053323641155,
+      "images": [
+        {
+          "alt": "Pesto mit Trüffel LaSelva",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747523960/assets/pas/images/426abc2d-a6c8-4e27-b547-06ef0f2a48f8/laselva-pesto-mit-trueffel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (23,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (25,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.5319
+      },
+      "self": "/p/d/1711525/laselva-pesto-mit-trueffel",
+      "title": {
+        "tileHeadline": "Pesto mit Trüffel, 130 g",
+        "tileHeadlineLong": "Pesto mit Trüffel, 130 g"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5319,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 7640143671168,
+    "dan": 1570517,
+    "brandName": "PPURA",
+    "title": "Pesto, ital. Basilikum & Limette, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Pesto, ital. Basilikum & Limette, 120 g; Preis: 2,95 €; Grundpreis: 0,12 kg (24,58 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1570517,
+      "gtin": 7640143671168,
+      "images": [
+        {
+          "alt": "Pesto, ital. Basilikum & Limette PPURA",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756129732/assets/pas/images/49533cfa-1056-4350-8704-35ba53661e3f/ppura-pesto-ital-basilikum-und-limette"
+        },
+        {
+          "alt": "Pesto, ital. Basilikum & Limette PPURA",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756129713/assets/pas/images/6e08826f-55e0-4287-9603-d3205ea100e1/ppura-pesto-ital-basilikum-und-limette"
+        },
+        {
+          "alt": "Pesto, ital. Basilikum & Limette PPURA",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756129747/assets/pas/images/08bb2568-dd9a-43b7-bbcd-ec5ae16f7328/ppura-pesto-ital-basilikum-und-limette"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (22,97 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,58 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.5556
+      },
+      "self": "/p/d/1570517/ppura-pesto-ital-basilikum-und-limette",
+      "title": {
+        "tileHeadline": "Pesto, ital. Basilikum & Limette, 120 g",
+        "tileHeadlineLong": "Pesto, ital. Basilikum & Limette, 120 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5556,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 8018759000341,
+    "dan": 1711522,
+    "brandName": "LaSelva",
+    "title": "Pesto, Verde mit Basilikum, 130 g",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Pesto, Verde mit Basilikum, 130 g; Preis: 2,75 €; Grundpreis: 0,13 kg (21,15 € je 1 kg)",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 1711522,
+      "gtin": 8018759000341,
+      "images": [
+        {
+          "alt": "Pesto, Verde mit Basilikum LaSelva",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747523419/assets/pas/images/d3d2a2e0-7288-4b84-9012-41727fa3190f/laselva-pesto-verde-mit-basilikum"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (19,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (21,15 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 24,
+        "ratingValue": 4.7917
+      },
+      "self": "/p/d/1711522/laselva-pesto-verde-mit-basilikum",
+      "title": {
+        "tileHeadline": "Pesto, Verde mit Basilikum, 130 g",
+        "tileHeadlineLong": "Pesto, Verde mit Basilikum, 130 g"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7917,
+        "ratingCount": 24
+      }
+    }
+  },
+  {
+    "gtin": 4066447887822,
+    "dan": 1711140,
+    "brandName": "dmBio",
+    "title": "Pesto, Verde mit Basilikum & Cashews, vegan, 190 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pesto, Verde mit Basilikum & Cashews, vegan, 190 g; Preis: 2,85 €; Grundpreis: 0,19 kg (15,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1711140,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447887822,
+      "images": [
+        {
+          "alt": "Pesto, Verde mit Basilikum & Cashews, vegan dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763769591/assets/pas/images/7c561844-265e-4945-8839-b16a53523e81/dmbio-pesto-verde-mit-basilikum-und-cashews-vegan"
+        },
+        {
+          "alt": "Pesto, Verde mit Basilikum & Cashews, vegan dmBio",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763769598/assets/pas/images/8a5c6af6-af34-4bf3-a482-80b3369fc08f/dmbio-pesto-verde-mit-basilikum-und-cashews-vegan"
+        },
+        {
+          "alt": "Pesto, Verde mit Basilikum & Cashews, vegan dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763769604/assets/pas/images/0f7435bb-2c02-4026-87b4-4b64f0e42af2/dmbio-pesto-verde-mit-basilikum-und-cashews-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (14,02 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,19 kg (15,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.4179
+      },
+      "self": "/p/d/1711140/dmbio-pesto-verde-mit-basilikum-und-cashews-vegan",
+      "title": {
+        "tileHeadline": "Pesto, Verde mit Basilikum & Cashews, vegan, 190 g",
+        "tileHeadlineLong": "Pesto, Verde mit Basilikum & Cashews, vegan, 190 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4179,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 7640143671144,
+    "dan": 1570516,
+    "brandName": "PPURA",
+    "title": "Pesto, Artischocken & Zitrone, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Pesto, Artischocken & Zitrone, 120 g; Preis: 2,95 €; Grundpreis: 0,12 kg (24,58 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1570516,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7640143671144,
+      "images": [
+        {
+          "alt": "Pesto, Artischocken & Zitrone PPURA",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757933013/assets/pas/images/299b68a0-dcec-4be4-8dac-5bcb4889cba6/ppura-pesto-artischocken-und-zitrone"
+        },
+        {
+          "alt": "Pesto, Artischocken & Zitrone PPURA",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757933002/assets/pas/images/138b9c36-fbaa-4757-926a-10b74f4b0562/ppura-pesto-artischocken-und-zitrone"
+        },
+        {
+          "alt": "Pesto, Artischocken & Zitrone PPURA",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757933023/assets/pas/images/4a1abbae-56e8-4ac0-939a-676f2bbd3419/ppura-pesto-artischocken-und-zitrone"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (22,97 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,58 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 3.9467
+      },
+      "self": "/p/d/1570516/ppura-pesto-artischocken-und-zitrone",
+      "title": {
+        "tileHeadline": "Pesto, Artischocken & Zitrone, 120 g",
+        "tileHeadlineLong": "Pesto, Artischocken & Zitrone, 120 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9467,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 4260526887073,
+    "dan": 3106119,
+    "brandName": "pumpkin organics",
+    "title": "Tomatenpesto Bluey Pesto Rosso ab 3 Jahren, 130 g",
+    "tileData": {
+      "a11yLabel": "Marke: pumpkin organics; Produktname: Tomatenpesto Bluey Pesto Rosso ab 3 Jahren, 130 g; Preis: 3,25 €; Grundpreis: 0,13 kg (25,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "pumpkin organics"
+      },
+      "dan": 3106119,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260526887073,
+      "images": [
+        {
+          "alt": "Tomatenpesto Bluey Pesto Rosso ab 3 Jahren pumpkin organics",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762469194/assets/pas/images/ce337187-c5dc-4878-bdbd-c4899d2b6b96/pumpkin-organics-tomatenpesto-bluey-pesto-rosso-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (23,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,13 kg (25,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 14,
+        "ratingValue": 3.7857
+      },
+      "self": "/p/d/3106119/pumpkin-organics-tomatenpesto-bluey-pesto-rosso-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Tomatenpesto Bluey Pesto Rosso ab 3 Jahren, 130 g",
+        "tileHeadlineLong": "Tomatenpesto Bluey Pesto Rosso ab 3 Jahren, 130 g"
+      },
+      "trackingData": {
+        "brand": "pumpkin organics",
+        "categories": [
+          "Babygläschen & Co.",
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7857,
+        "ratingCount": 14
+      }
+    }
+  },
+  {
+    "gtin": 4066447887815,
+    "dan": 1486713,
+    "brandName": "dmBio",
+    "title": "Pesto, Basilico mit Olivenöl & Pinienkernen, vegan, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pesto, Basilico mit Olivenöl & Pinienkernen, vegan, 120 g; Preis: 1,95 €; Grundpreis: 0,12 kg (16,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1486713,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447887815,
+      "images": [
+        {
+          "alt": "Pesto, Basilico mit Olivenöl & Pinienkernen, vegan dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761167121/assets/pas/images/8c8842b4-9aba-471d-a38d-dca9117f9a74/dmbio-pesto-basilico-mit-olivenoel-und-pinienkernen-vegan"
+        },
+        {
+          "alt": "Pesto, Basilico mit Olivenöl & Pinienkernen, vegan dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761167108/assets/pas/images/b5a14755-9731-4dc8-b670-7a80d1f2f38c/dmbio-pesto-basilico-mit-olivenoel-und-pinienkernen-vegan"
+        },
+        {
+          "alt": "Pesto, Basilico mit Olivenöl & Pinienkernen, vegan dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761167115/assets/pas/images/26b73966-8317-4378-bf8f-b994000775f5/dmbio-pesto-basilico-mit-olivenoel-und-pinienkernen-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (15,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (16,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 183,
+        "ratingValue": 3.5574
+      },
+      "self": "/p/d/1486713/dmbio-pesto-basilico-mit-olivenoel-und-pinienkernen-vegan",
+      "title": {
+        "tileHeadline": "Pesto, Basilico mit Olivenöl & Pinienkernen, vegan, 120 g",
+        "tileHeadlineLong": "Pesto, Basilico mit Olivenöl & Pinienkernen, vegan, 120 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5574,
+        "ratingCount": 183
+      }
+    }
+  },
+  {
+    "gtin": 4070765053852,
+    "dan": 3048719,
+    "brandName": "dmBio",
+    "title": "Pesto alla Genovese, 140 g",
+    "tileData": {
+      "dan": 3048719,
+      "gtin": 4070765053852,
+      "self": "/p/d/3048719/dmbio-pesto-alla-genovese",
+      "brand": {
+        "name": "dmBio"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,14 kg (12,50 € je 1 kg)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Pesto alla Genovese, 140 g",
+        "tileHeadlineLong": "Pesto alla Genovese, 140 g"
+      },
+      "images": [
+        {
+          "alt": "Pesto alla Genovese dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784090658/assets/pas/images/3c2911c6-2cc7-427f-994e-b9d1beed36d3/dmbio-pesto-alla-genovese",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F6F9"
+        },
+        {
+          "alt": "Pesto alla Genovese dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784090670/assets/pas/images/6ef36063-c9f5-4c42-a81e-0a0729dd7f3e/dmbio-pesto-alla-genovese",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F5F9"
+        },
+        {
+          "alt": "Pesto alla Genovese dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784090652/assets/pas/images/fe49db8b-192f-492b-88f5-55e246227708/dmbio-pesto-alla-genovese",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F6F9"
+        },
+        {
+          "alt": "Pesto alla Genovese dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784090664/assets/pas/images/2d78dc3a-e292-4356-b481-21b3e386617b/dmbio-pesto-alla-genovese",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F5F9"
+        }
+      ],
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 4.1
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,14 kg (11,68 € je 1 kg)"
+        ]
+      },
+      "a11yLabel": "Marke: dmBio; Produktname: Pesto alla Genovese, 140 g; Preis: 1,75 €; Grundpreis: 0,14 kg (12,50 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "dmBio",
+        "price": 1.75,
+        "currency": "EUR",
+        "categories": [
+          "Pesto"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {}
+    }
+  },
+  {
+    "gtin": 7640143671182,
+    "dan": 1672306,
+    "brandName": "PPURA",
+    "title": "Pesto, Calabrese mit Paprika, vegan, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Pesto, Calabrese mit Paprika, vegan, 120 g; Preis: 2,95 €; Grundpreis: 0,12 kg (24,58 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1672306,
+      "gtin": 7640143671182,
+      "images": [
+        {
+          "alt": "Pesto, Calabrese mit Paprika, vegan PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756129766/assets/pas/images/f2a1bab7-eb95-4ab1-b6b2-f83530c0e1ea/ppura-pesto-calabrese-mit-paprika-vegan"
+        },
+        {
+          "alt": "Pesto, Calabrese mit Paprika, vegan PPURA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756129797/assets/pas/images/7fd040c0-4839-4faa-ac7f-0a7599c0b269/ppura-pesto-calabrese-mit-paprika-vegan"
+        },
+        {
+          "alt": "Pesto, Calabrese mit Paprika, vegan PPURA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756129781/assets/pas/images/3317e723-cbfd-4a53-bb80-1bd6b1fa1dd6/ppura-pesto-calabrese-mit-paprika-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (22,97 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,58 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 71,
+        "ratingValue": 4.6197
+      },
+      "self": "/p/d/1672306/ppura-pesto-calabrese-mit-paprika-vegan",
+      "title": {
+        "tileHeadline": "Pesto, Calabrese mit Paprika, vegan, 120 g",
+        "tileHeadlineLong": "Pesto, Calabrese mit Paprika, vegan, 120 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Soße & Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6197,
+        "ratingCount": 71
+      }
+    }
+  },
+  {
+    "gtin": 4066447887808,
+    "dan": 1486710,
+    "brandName": "dmBio",
+    "title": "Pesto Rosso mit sonnengetrockneten Tomaten, vegan, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pesto Rosso mit sonnengetrockneten Tomaten, vegan, 120 g; Preis: 1,95 €; Grundpreis: 0,12 kg (16,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1486710,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447887808,
+      "images": [
+        {
+          "alt": "Pesto Rosso mit sonnengetrockneten Tomaten, vegan dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550491/assets/pas/images/1b4aa7ea-6826-470c-aef3-4012c630709b/dmbio-pesto-rosso-mit-sonnengetrockneten-tomaten-vegan"
+        },
+        {
+          "alt": "Pesto Rosso mit sonnengetrockneten Tomaten, vegan dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550480/assets/pas/images/f5bc5f31-c2a4-4b67-89c1-b4f2f57e17e3/dmbio-pesto-rosso-mit-sonnengetrockneten-tomaten-vegan"
+        },
+        {
+          "alt": "Pesto Rosso mit sonnengetrockneten Tomaten, vegan dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550486/assets/pas/images/f82769d6-f1ad-478f-a2e7-cab6aa1e1117/dmbio-pesto-rosso-mit-sonnengetrockneten-tomaten-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (15,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (16,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 145,
+        "ratingValue": 4.6414
+      },
+      "self": "/p/d/1486710/dmbio-pesto-rosso-mit-sonnengetrockneten-tomaten-vegan",
+      "title": {
+        "tileHeadline": "Pesto Rosso mit sonnengetrockneten Tomaten, vegan, 120 g",
+        "tileHeadlineLong": "Pesto Rosso mit sonnengetrockneten Tomaten, vegan, 120 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Soßen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6414,
+        "ratingCount": 145
+      }
+    }
+  },
+  {
+    "gtin": 4066447874228,
+    "dan": 1634194,
+    "brandName": "dmBio",
+    "title": "Pistazien, geröstet & gesalzen, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pistazien, geröstet & gesalzen, 200 g; Preis: 4,45 €; Grundpreis: 0,2 kg (22,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1634194,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447874228,
+      "images": [
+        {
+          "alt": "Pistazien, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768348741/assets/pas/images/30306eed-ddd8-4939-84d1-240816a98ac4/dmbio-pistazien-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Pistazien, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768348750/assets/pas/images/f5adf716-28e1-49f0-84fe-c67705c69e89/dmbio-pistazien-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Pistazien, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768348754/assets/pas/images/799c924d-e104-44e3-acc3-7e2636bb5139/dmbio-pistazien-geroestet-und-gesalzen"
+        },
+        {
+          "alt": "Pistazien, geröstet & gesalzen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768348746/assets/pas/images/ed9f2076-fcb1-4024-9612-24aeea7d9412/dmbio-pistazien-geroestet-und-gesalzen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (20,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (22,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 139,
+        "ratingValue": 4.2518
+      },
+      "self": "/p/d/1634194/dmbio-pistazien-geroestet-und-gesalzen",
+      "title": {
+        "tileHeadline": "Pistazien, geröstet & gesalzen, 200 g",
+        "tileHeadlineLong": "Pistazien, geröstet & gesalzen, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse",
+          "Studentenfutter"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2518,
+        "ratingCount": 139
+      }
+    }
+  },
+  {
+    "gtin": 4032844584107,
+    "dan": 1543742,
+    "brandName": "Seitz glutenfrei",
+    "title": "Nudeln, Dinosaurier, glutenfrei, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seitz glutenfrei; Produktname: Nudeln, Dinosaurier, glutenfrei, 250 g; Preis: 2,45 €; Grundpreis: 0,25 kg (9,80 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Seitz glutenfrei"
+      },
+      "dan": 1543742,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4032844584107,
+      "images": [
+        {
+          "alt": "Nudeln, Dinosaurier, glutenfrei Seitz glutenfrei",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747444190/assets/pas/images/b9aef537-609a-4777-96d4-9ce4146148c4/seitz-glutenfrei-nudeln-dinosaurier-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,16 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 47,
+        "ratingValue": 4.3617
+      },
+      "self": "/p/d/1543742/seitz-glutenfrei-nudeln-dinosaurier-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Dinosaurier, glutenfrei, 250 g",
+        "tileHeadlineLong": "Nudeln, Dinosaurier, glutenfrei, 250 g"
+      },
+      "trackingData": {
+        "brand": "Seitz glutenfrei",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3617,
+        "ratingCount": 47
+      }
+    }
+  },
+  {
+    "gtin": 4066447723045,
+    "dan": 1709965,
+    "brandName": "dmBio",
+    "title": "Pinienkerne, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pinienkerne, 60 g; Preis: 4,95 €; Grundpreis: 0,06 kg (82,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1709965,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447723045,
+      "images": [
+        {
+          "alt": "Pinienkerne  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485282/assets/pas/images/ebe06ff8-6c90-4228-af93-2fe82e6ab4c7/dmbio-pinienkerne"
+        },
+        {
+          "alt": "Pinienkerne  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485283/assets/pas/images/c73fe057-da12-4727-b465-d13155d3f3ab/dmbio-pinienkerne"
+        },
+        {
+          "alt": "Pinienkerne  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485389/assets/pas/images/91b49440-8800-42e3-85ae-0c4e61544f09/dmbio-pinienkerne"
+        },
+        {
+          "alt": "Pinienkerne  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485283/assets/pas/images/d2c7958e-13e6-4bec-8b65-fc9fe52b1ad3/dmbio-pinienkerne"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (77,10 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (82,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.6092
+      },
+      "self": "/p/d/1709965/dmbio-pinienkerne",
+      "title": {
+        "tileHeadline": "Pinienkerne, 60 g",
+        "tileHeadlineLong": "Pinienkerne, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Saaten & Körner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6092,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4066447111392,
+    "dan": 1443369,
+    "brandName": "dmBio",
+    "title": "Nudeln, Spirelli aus Dinkel, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Spirelli aus Dinkel, 500 g; Preis: 1,45 €; Grundpreis: 0,5 kg (2,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1443369,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447111392,
+      "images": [
+        {
+          "alt": "Nudeln, Spirelli aus Dinkel  dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476771/assets/pas/images/9ac1b695-ed5a-4023-8379-24657e91b757/dmbio-nudeln-spirelli-aus-dinkel"
+        },
+        {
+          "alt": "Nudeln, Spirelli aus Dinkel  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476637/assets/pas/images/63dc1116-e57a-4805-a8f1-2684a56b172b/dmbio-nudeln-spirelli-aus-dinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 161,
+        "ratingValue": 4.8075
+      },
+      "self": "/p/d/1443369/dmbio-nudeln-spirelli-aus-dinkel",
+      "title": {
+        "tileHeadline": "Nudeln, Spirelli aus Dinkel, 500 g",
+        "tileHeadlineLong": "Nudeln, Spirelli aus Dinkel, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8075,
+        "ratingCount": 161
+      }
+    }
+  },
+  {
+    "gtin": 4058172388651,
+    "dan": 1445885,
+    "brandName": "dmBio",
+    "title": "Nudeln, Locken aus Dinkel Vollkorn, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Locken aus Dinkel Vollkorn, 500 g; Preis: 1,95 €; Grundpreis: 0,5 kg (3,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1445885,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172388651,
+      "images": [
+        {
+          "alt": "Nudeln, Locken aus Dinkel Vollkorn dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747451164/assets/pas/images/528d13bb-88b4-4e51-99b8-cf700e852169/dmbio-nudeln-locken-aus-dinkel-vollkorn"
+        },
+        {
+          "alt": "Nudeln, Locken aus Dinkel Vollkorn dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747451183/assets/pas/images/d01dd73e-792c-4384-a2b3-40aef378f638/dmbio-nudeln-locken-aus-dinkel-vollkorn"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.7778
+      },
+      "self": "/p/d/1445885/dmbio-nudeln-locken-aus-dinkel-vollkorn",
+      "title": {
+        "tileHeadline": "Nudeln, Locken aus Dinkel Vollkorn, 500 g",
+        "tileHeadlineLong": "Nudeln, Locken aus Dinkel Vollkorn, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7778,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4058172848742,
+    "dan": 1586139,
+    "brandName": "dmBio",
+    "title": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g; Preis: 2,65 €; Grundpreis: 0,4 kg (6,63 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1586139,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172848742,
+      "images": [
+        {
+          "alt": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774602787/assets/pas/images/da9d21db-dee2-463d-9a67-062c6e43d0dd/dmbio-nudeln-gnocchi-aus-kartoffeln-und-sommerdinkel"
+        },
+        {
+          "alt": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761819811/assets/pas/images/aaf668ab-fc5b-43a4-87fb-72f8551cfa3f/dmbio-nudeln-gnocchi-aus-kartoffeln-und-sommerdinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,20 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 388,
+        "ratingValue": 3.0876
+      },
+      "self": "/p/d/1586139/dmbio-nudeln-gnocchi-aus-kartoffeln-und-sommerdinkel",
+      "title": {
+        "tileHeadline": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g",
+        "tileHeadlineLong": "Nudeln, Gnocchi aus Kartoffeln & Sommerdinkel, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0876,
+        "ratingCount": 388
+      }
+    }
+  },
+  {
+    "gtin": 4066447422986,
+    "dan": 1690673,
+    "brandName": "dmBio",
+    "title": "Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g; Preis: 2,45 €; Grundpreis: 0,4 kg (6,13 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1690673,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447422986,
+      "images": [
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595805/assets/pas/images/7ccbd753-dadf-4425-8288-e481519456c9/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481642/assets/pas/images/fd5be9a7-327f-47d4-af2f-36625802938e/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761834734/assets/pas/images/8c5b80bc-8d74-4677-b41c-922ca6946b8d/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481739/assets/pas/images/2d52c4d3-5ed6-4739-8b72-84a46b627f7f/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595801/assets/pas/images/70df1444-a023-493e-ab63-4cfc46b3404d/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (5,73 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,13 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.1042
+      },
+      "self": "/p/d/1690673/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g",
+        "tileHeadlineLong": "Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1042,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 7640143670253,
+    "dan": 3137196,
+    "brandName": "PPURA",
+    "title": "Nudeln, Fusilli tricolore für Kinder, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Nudeln, Fusilli tricolore für Kinder, 500 g; Preis: 1,95 €; Grundpreis: 0,5 kg (3,90 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 3137196,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 7640143670253,
+      "images": [
+        {
+          "alt": "Nudeln, Fusilli tricolore für Kinder  PPURA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776470629/assets/pas/images/72dfade2-6f89-4ee6-8f38-f95316189408/ppura-nudeln-fusilli-tricolore-fuer-kinder"
+        },
+        {
+          "alt": "Nudeln, Fusilli tricolore für Kinder  PPURA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776470643/assets/pas/images/938c268f-824d-429d-b990-9be9da30783b/ppura-nudeln-fusilli-tricolore-fuer-kinder"
+        },
+        {
+          "alt": "Nudeln, Fusilli tricolore für Kinder  PPURA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776470655/assets/pas/images/004991f2-a6f7-4b5a-a151-201784ca9c42/ppura-nudeln-fusilli-tricolore-fuer-kinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 12,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/3137196/ppura-nudeln-fusilli-tricolore-fuer-kinder",
+      "title": {
+        "tileHeadline": "Nudeln, Fusilli tricolore für Kinder, 500 g",
+        "tileHeadlineLong": "Nudeln, Fusilli tricolore für Kinder, 500 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 12
+      }
+    }
+  },
+  {
+    "gtin": 4032844051098,
+    "dan": 1571173,
+    "brandName": "Dinkel Max",
+    "title": "Nudeln, Tagliatelle aus Dinkel, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dinkel Max; Produktname: Nudeln, Tagliatelle aus Dinkel, 500 g; Preis: 2,85 €; Grundpreis: 0,5 kg (5,70 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Dinkel Max"
+      },
+      "dan": 1571173,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4032844051098,
+      "images": [
+        {
+          "alt": "Nudeln, Tagliatelle aus Dinkel Dinkel Max",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778139186/assets/pas/images/72220af1-0754-4319-81c7-32bff046b57f/dinkel-max-nudeln-tagliatelle-aus-dinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,33 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 34,
+        "ratingValue": 4.6765
+      },
+      "self": "/p/d/1571173/dinkel-max-nudeln-tagliatelle-aus-dinkel",
+      "title": {
+        "tileHeadline": "Nudeln, Tagliatelle aus Dinkel, 500 g",
+        "tileHeadlineLong": "Nudeln, Tagliatelle aus Dinkel, 500 g"
+      },
+      "trackingData": {
+        "brand": "Dinkel Max",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6765,
+        "ratingCount": 34
+      }
+    }
+  },
+  {
+    "gtin": 4066447111378,
+    "dan": 1435261,
+    "brandName": "dmBio",
+    "title": "Nudeln, Penne aus Dinkel, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Penne aus Dinkel, 500 g; Preis: 1,45 €; Grundpreis: 0,5 kg (2,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1435261,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447111378,
+      "images": [
+        {
+          "alt": "Nudeln, Penne aus Dinkel dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476824/assets/pas/images/2113b642-8bf6-481c-965e-00ba1f7288d7/dmbio-nudeln-penne-aus-dinkel"
+        },
+        {
+          "alt": "Nudeln, Penne aus Dinkel dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747476824/assets/pas/images/8613663c-cdc9-4e03-b8cb-b84c7accb229/dmbio-nudeln-penne-aus-dinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.4754
+      },
+      "self": "/p/d/1435261/dmbio-nudeln-penne-aus-dinkel",
+      "title": {
+        "tileHeadline": "Nudeln, Penne aus Dinkel, 500 g",
+        "tileHeadlineLong": "Nudeln, Penne aus Dinkel, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4754,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 4067796096323,
+    "dan": 1439640,
+    "brandName": "dmBio",
+    "title": "Nudeln, Spaghetti aus Vollkorn, No.3, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Spaghetti aus Vollkorn, No.3, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1439640,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796096323,
+      "images": [
+        {
+          "alt": "Nudeln, Spaghetti aus Vollkorn, No.3 dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487665/assets/pas/images/fa0dce0c-6f27-4162-ad4c-e7211890a332/dmbio-nudeln-spaghetti-aus-vollkorn-no-3"
+        },
+        {
+          "alt": "Nudeln, Spaghetti aus Vollkorn, No.3 dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487627/assets/pas/images/39b8a682-883e-4ccf-9521-c52dbe40a317/dmbio-nudeln-spaghetti-aus-vollkorn-no-3"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 123,
+        "ratingValue": 4.8537
+      },
+      "self": "/p/d/1439640/dmbio-nudeln-spaghetti-aus-vollkorn-no-3",
+      "title": {
+        "tileHeadline": "Nudeln, Spaghetti aus Vollkorn, No.3, 500 g",
+        "tileHeadlineLong": "Nudeln, Spaghetti aus Vollkorn, No.3, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8537,
+        "ratingCount": 123
+      }
+    }
+  },
+  {
+    "gtin": 4067796064834,
+    "dan": 1507276,
+    "brandName": "dmBio",
+    "title": "Nudeln, Spaghetti aus Hartweizen, No.3, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Spaghetti aus Hartweizen, No.3, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik, Grafik: Öko Test dmBio Spaghetti No3 sehr gut Öko-TEST Magazin Ausgabe 03/2024 37 Produkte im Test, davon 25x sehr gut",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1507276,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Grafik: Öko Test dmBio Spaghetti No3 sehr gut Öko-TEST Magazin Ausgabe 03/2024 37 Produkte im Test, davon 25x sehr gut",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768551182/assets/pas/seals/6cbb3299-bf61-4e2a-aa61-4113e0f7dca7/6cbb3299-bf61-4e2a-aa61-4113e0f7dca7.png",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768551182/assets/pas/seals/6cbb3299-bf61-4e2a-aa61-4113e0f7dca7/6cbb3299-bf61-4e2a-aa61-4113e0f7dca7.png"
+        }
+      ],
+      "gtin": 4067796064834,
+      "images": [
+        {
+          "alt": "Nudeln, Spaghetti aus Hartweizen, No.3 dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486953/assets/pas/images/45f48223-9b32-40d8-9b4a-d317320faa8b/dmbio-nudeln-spaghetti-aus-hartweizen-no-3"
+        },
+        {
+          "alt": "Nudeln, Spaghetti aus Hartweizen, No.3 dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486953/assets/pas/images/14925497-38c0-4a1b-8b0f-660630b1a9dc/dmbio-nudeln-spaghetti-aus-hartweizen-no-3"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 135,
+        "ratingValue": 4.6963
+      },
+      "self": "/p/d/1507276/dmbio-nudeln-spaghetti-aus-hartweizen-no-3",
+      "title": {
+        "tileHeadline": "Nudeln, Spaghetti aus Hartweizen, No.3, 500 g",
+        "tileHeadlineLong": "Nudeln, Spaghetti aus Hartweizen, No.3, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6963,
+        "ratingCount": 135
+      }
+    }
+  },
+  {
+    "gtin": 7640143671205,
+    "dan": 3062956,
+    "brandName": "PPURA",
+    "title": "Pesto, Verde mild für Kinder, 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Pesto, Verde mild für Kinder, 120 g; Preis: 2,95 €; Grundpreis: 0,12 kg (24,58 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 3062956,
+      "gtin": 7640143671205,
+      "images": [
+        {
+          "alt": "Pesto, Verde mild für Kinder PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511765/assets/pas/images/b9753b2c-d11d-4abd-abfe-208aa8bf50e5/ppura-pesto-verde-mild-fuer-kinder"
+        },
+        {
+          "alt": "Pesto, Verde mild für Kinder PPURA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748994185/assets/pas/images/e56563de-6a92-48ef-b4af-44dd634e9b61/ppura-pesto-verde-mild-fuer-kinder"
+        },
+        {
+          "alt": "Pesto, Verde mild für Kinder PPURA",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511167/assets/pas/images/0b3cde91-2de9-4771-aad5-9770efb985ba/ppura-pesto-verde-mild-fuer-kinder"
+        },
+        {
+          "alt": "Pesto, Verde mild für Kinder PPURA",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511168/assets/pas/images/fa81dbbd-7e7e-4d17-9504-48526df190ea/ppura-pesto-verde-mild-fuer-kinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (22,97 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,58 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 20,
+        "ratingValue": 4.2
+      },
+      "self": "/p/d/3062956/ppura-pesto-verde-mild-fuer-kinder",
+      "title": {
+        "tileHeadline": "Pesto, Verde mild für Kinder, 120 g",
+        "tileHeadlineLong": "Pesto, Verde mild für Kinder, 120 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Pesto"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2,
+        "ratingCount": 20
+      }
+    }
+  },
+  {
+    "gtin": 4066447972962,
+    "dan": 1625064,
+    "brandName": "dmBio",
+    "title": "Cashewbruch, 600 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Cashewbruch, 600 g; Preis: 5,45 €; Grundpreis: 0,6 kg (9,08 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1625064,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447972962,
+      "images": [
+        {
+          "alt": "Cashewbruch dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774584620/assets/pas/images/ec613caf-108c-43af-a5b9-7567aead3541/dmbio-cashewbruch"
+        },
+        {
+          "alt": "Cashewbruch dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774584624/assets/pas/images/9bbf56b5-f29c-4d16-a292-329bc2277c64/dmbio-cashewbruch"
+        },
+        {
+          "alt": "Cashewbruch dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169283/assets/pas/images/17a17f0c-568c-40ee-8ab7-22ff2d3ba7d1/dmbio-cashewbruch"
+        },
+        {
+          "alt": "Cashewbruch dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774584628/assets/pas/images/0fea592d-6eb9-4b17-bc2c-dd4da40a56d9/dmbio-cashewbruch"
+        },
+        {
+          "alt": "Cashewbruch dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774584631/assets/pas/images/e32e5e95-5772-443a-9d48-df1059766059/dmbio-cashewbruch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,09 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (8,49 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (9,08 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.6747
+      },
+      "self": "/p/d/1625064/dmbio-cashewbruch",
+      "title": {
+        "tileHeadline": "Cashewbruch, 600 g",
+        "tileHeadlineLong": "Cashewbruch, 600 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6747,
+        "ratingCount": 83
+      }
+    }
+  }
+]

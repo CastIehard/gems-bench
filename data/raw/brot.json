@@ -1,0 +1,2546 @@
+[
+  {
+    "gtin": 8008698027400,
+    "dan": 1641098,
+    "brandName": "Schär",
+    "title": "Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei, 330 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei, 330 g; Preis: 3,15 €; Grundpreis: 0,33 kg (9,55 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1641098,
+      "gtin": 8008698027400,
+      "images": [
+        {
+          "alt": "Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751493284/assets/pas/images/151aee40-ae9c-42b1-b16c-61e20cc080c7/schaer-brot-meisterbaeckers-classic-mit-hirse-und-quinoa-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751493259/assets/pas/images/33e6bc27-d9af-4e3b-96d7-0d10db25413c/schaer-brot-meisterbaeckers-classic-mit-hirse-und-quinoa-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Classic mit Hirse & Quinoa (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748039153/assets/pas/images/e4472ea9-57e1-4314-bc24-8cbc70ca9960/schaer-brot-meisterbaeckers-classic-mit-hirse-und-quinoa-12-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 kg (8,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 kg (9,55 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.598
+      },
+      "self": "/p/d/1641098/schaer-brot-meisterbaeckers-classic-mit-hirse-und-quinoa-12-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Meisterbäckers Classic mit Hirse & Quinoa..., 330 g",
+        "tileHeadlineLong": "Brot, Meisterbäckers Classic mit Hirse & Quinoa..., 330 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.598,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 8008698027424,
+    "dan": 1641099,
+    "brandName": "Schär",
+    "title": "Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei, 330 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei, 330 g; Preis: 3,15 €; Grundpreis: 0,33 kg (9,55 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1641099,
+      "gtin": 8008698027424,
+      "images": [
+        {
+          "alt": "Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752878717/assets/pas/images/367b867f-4e6e-4223-8395-330bccdedbe0/schaer-brot-meisterbaeckers-mehrkorn-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752878693/assets/pas/images/6e68c866-2e5b-48a5-b9c1-18463c1dc7ba/schaer-brot-meisterbaeckers-mehrkorn-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Mehrkorn (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518549/assets/pas/images/6f3a5736-4f2d-4ef6-8b4e-2feeefc5cc10/schaer-brot-meisterbaeckers-mehrkorn-12-stueck-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 kg (8,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 kg (9,55 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 4.6364
+      },
+      "self": "/p/d/1641099/schaer-brot-meisterbaeckers-mehrkorn-12-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Meisterbäckers Mehrkorn (12 Stück),..., 330 g",
+        "tileHeadlineLong": "Brot, Meisterbäckers Mehrkorn (12 Stück),..., 330 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6364,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 8008698038734,
+    "dan": 1641100,
+    "brandName": "Schär",
+    "title": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei, 350 g; Preis: 2,95 €; Grundpreis: 0,35 kg (8,43 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1641100,
+      "gtin": 8008698038734,
+      "images": [
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780955986/assets/pas/images/2833eb73-477c-407c-adb7-900aedb35ca8/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780956013/assets/pas/images/91eda419-deda-4fe6-a05e-e575d5341dbe/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518210/assets/pas/images/21986eaa-6913-470b-b0dc-88cb0cf91a9f/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780956036/assets/pas/images/797c1b7c-ee78-468b-abe1-bc91c267b0e3/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Meisterbäckers Vital mit Sauerteig (12 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780955967/assets/pas/images/330df4fc-5acb-4451-bb89-ad0a75cf525a/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (7,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (8,43 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 108,
+        "ratingValue": 4.6204
+      },
+      "self": "/p/d/1641100/schaer-brot-meisterbaeckers-vital-mit-sauerteig-12-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Meisterbäckers Vital mit Sauerteig (12..., 350 g",
+        "tileHeadlineLong": "Brot, Meisterbäckers Vital mit Sauerteig (12..., 350 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6204,
+        "ratingCount": 108
+      }
+    }
+  },
+  {
+    "gtin": 8008698028315,
+    "dan": 1556325,
+    "brandName": "Schär",
+    "title": "Brot, Buchweizen (5 Stück), glutenfrei, 275 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Buchweizen (5 Stück), glutenfrei, 275 g; Preis: 2,95 €; Grundpreis: 0,275 kg (10,73 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1556325,
+      "gtin": 8008698028315,
+      "images": [
+        {
+          "alt": "Brot, Buchweizen (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518024/assets/pas/images/2a3d0c73-0c54-4f7a-adfd-a28f1d8ad733/schaer-brot-buchweizen-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Buchweizen (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518552/assets/pas/images/310589de-14f9-43a0-9707-e5e35d515f9a/schaer-brot-buchweizen-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Buchweizen (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748038919/assets/pas/images/d61bef6d-d7b0-4a41-b720-edd12bbfddd3/schaer-brot-buchweizen-5-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,275 kg (10,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,275 kg (10,73 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.4314
+      },
+      "self": "/p/d/1556325/schaer-brot-buchweizen-5-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Buchweizen (5 Stück), glutenfrei, 275 g",
+        "tileHeadlineLong": "Brot, Buchweizen (5 Stück), glutenfrei, 275 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4314,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 8008698011294,
+    "dan": 1397036,
+    "brandName": "Schär",
+    "title": "Brot, Knusper dunkel (21 Stück), glutenfrei, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Knusper dunkel (21 Stück), glutenfrei, 125 g; Preis: 2,15 €; Grundpreis: 0,125 kg (17,20 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1397036,
+      "gtin": 8008698011294,
+      "images": [
+        {
+          "alt": "Brot, Knusper dunkel (21 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518444/assets/pas/images/34c1aa10-ef81-4373-80ec-4a3baf53bce4/schaer-brot-knusper-dunkel-21-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Knusper dunkel (21 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517785/assets/pas/images/7f8c972c-9e6f-44b7-b790-cb75ea59c8d0/schaer-brot-knusper-dunkel-21-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Knusper dunkel (21 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747571958/assets/pas/images/f499a473-cd0c-4552-8576-80252b45efb1/schaer-brot-knusper-dunkel-21-stueck-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,01 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (16,07 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (17,20 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.6375
+      },
+      "self": "/p/d/1397036/schaer-brot-knusper-dunkel-21-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Knusper dunkel (21 Stück), glutenfrei, 125 g",
+        "tileHeadlineLong": "Brot, Knusper dunkel (21 Stück), glutenfrei, 125 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6375,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 8008698010259,
+    "dan": 1196038,
+    "brandName": "Schär",
+    "title": "Aufbackbrötchen, Ciabatta (4 Stück), glutenfrei, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Aufbackbrötchen, Ciabatta (4 Stück), glutenfrei, 200 g; Preis: 2,75 €; Grundpreis: 0,2 kg (13,75 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1196038,
+      "gtin": 8008698010259,
+      "images": [
+        {
+          "alt": "Aufbackbrötchen, Ciabatta (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775857246/assets/pas/images/1c79ac2c-3072-4b79-abf4-601af1827eb4/schaer-aufbackbroetchen-ciabatta-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Aufbackbrötchen, Ciabatta (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776808019/assets/pas/images/36ba3e69-b74e-4505-b4a5-1268b6da6d1c/schaer-aufbackbroetchen-ciabatta-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Aufbackbrötchen, Ciabatta (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747569965/assets/pas/images/77b060ee-77c2-4c65-b6d8-609e284a4237/schaer-aufbackbroetchen-ciabatta-4-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (12,85 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (13,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 4.5405
+      },
+      "self": "/p/d/1196038/schaer-aufbackbroetchen-ciabatta-4-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Aufbackbrötchen, Ciabatta (4 Stück), glutenfrei, 200 g",
+        "tileHeadlineLong": "Aufbackbrötchen, Ciabatta (4 Stück), glutenfrei, 200 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5405,
+        "ratingCount": 74
+      }
+    }
+  },
+  {
+    "gtin": 4022993300208,
+    "dan": 1456807,
+    "brandName": "Schnitzer",
+    "title": "Aufbackbrötchen, Super Panini Rustic (2 Stück), 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schnitzer; Produktname: Aufbackbrötchen, Super Panini Rustic (2 Stück), 180 g; Preis: 2,65 €; Grundpreis: 0,18 kg (14,72 € je 1 kg)",
+      "brand": {
+        "name": "Schnitzer"
+      },
+      "dan": 1456807,
+      "gtin": 4022993300208,
+      "images": [
+        {
+          "alt": "Aufbackbrötchen, Super Panini Rustic (2 Stück) Schnitzer",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761664164/assets/pas/images/7279401f-a4e3-4e33-84b7-c3614d6f5b63/schnitzer-aufbackbroetchen-super-panini-rustic-2-stueck"
+        },
+        {
+          "alt": "Aufbackbrötchen, Super Panini Rustic (2 Stück) Schnitzer",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777511181/assets/pas/images/4e1706d6-ef7e-4046-b643-32cb07990eca/schnitzer-aufbackbroetchen-super-panini-rustic-2-stueck"
+        },
+        {
+          "alt": "Aufbackbrötchen, Super Panini Rustic (2 Stück) Schnitzer",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754973807/assets/pas/images/88ac50e2-6ec7-45af-8d97-fba4d8f566cc/schnitzer-aufbackbroetchen-super-panini-rustic-2-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (13,76 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (14,72 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.4828
+      },
+      "self": "/p/d/1456807/schnitzer-aufbackbroetchen-super-panini-rustic-2-stueck",
+      "title": {
+        "tileHeadline": "Aufbackbrötchen, Super Panini Rustic (2 Stück), 180 g",
+        "tileHeadlineLong": "Aufbackbrötchen, Super Panini Rustic (2 Stück), 180 g"
+      },
+      "trackingData": {
+        "brand": "Schnitzer",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4828,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4070765015652,
+    "dan": 3120738,
+    "brandName": "dmBio",
+    "title": "Toastbrötchen, Die Puren Hafer- & Saaten, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Toastbrötchen, Die Puren Hafer- & Saaten, 350 g; Preis: 2,25 €; Grundpreis: 0,35 kg (6,43 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3120738,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765015652,
+      "images": [
+        {
+          "alt": "Toastbrötchen, Die Puren Hafer- & Saaten dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778026879/assets/pas/images/652f5f2a-81a7-464f-9723-8b898bbdafa9/dmbio-toastbroetchen-die-puren-hafer-und-saaten"
+        },
+        {
+          "alt": "Toastbrötchen, Die Puren Hafer- & Saaten dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778026887/assets/pas/images/440633bc-9f8f-4c66-83b7-af96b06512ae/dmbio-toastbroetchen-die-puren-hafer-und-saaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (6,01 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (6,43 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.9412
+      },
+      "self": "/p/d/3120738/dmbio-toastbroetchen-die-puren-hafer-und-saaten",
+      "title": {
+        "tileHeadline": "Toastbrötchen, Die Puren Hafer- & Saaten, 350 g",
+        "tileHeadlineLong": "Toastbrötchen, Die Puren Hafer- & Saaten, 350 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9412,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 8008698029060,
+    "dan": 1622366,
+    "brandName": "Schär",
+    "title": "Brot \"Super Sandwich\"' (6 Stück), glutenfrei, 280 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot \"Super Sandwich\"' (6 Stück), glutenfrei, 280 g; Preis: 3,45 €; Grundpreis: 0,28 kg (12,32 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1622366,
+      "gtin": 8008698029060,
+      "images": [
+        {
+          "alt": "Brot \"Super Sandwich\"' (6 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517829/assets/pas/images/e65d47e4-c151-4a21-81f2-8776d1cbe58f/schaer-brot-super-sandwich-6-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot \"Super Sandwich\"' (6 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518190/assets/pas/images/22eac8f1-9588-4408-b591-ff85191c691f/schaer-brot-super-sandwich-6-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot \"Super Sandwich\"' (6 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748902867/assets/pas/images/eecc8b8f-5ef4-4821-b3f0-3381a04ec850/schaer-brot-super-sandwich-6-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,28 kg (11,51 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,28 kg (12,32 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.6711
+      },
+      "self": "/p/d/1622366/schaer-brot-super-sandwich-6-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot \"Super Sandwich\"' (6 Stück), glutenfrei, 280 g",
+        "tileHeadlineLong": "Brot \"Super Sandwich\"' (6 Stück), glutenfrei, 280 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6711,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4015537002348,
+    "dan": 1633052,
+    "brandName": "Hammermühle",
+    "title": "Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4 Stück), 275 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4 Stück), 275 g; Preis: 3,15 €; Grundpreis: 0,275 kg (11,45 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1633052,
+      "gtin": 4015537002348,
+      "images": [
+        {
+          "alt": "Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4 Stück) Hammermühle",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757975043/assets/pas/images/e68ba97a-351e-4c19-a3ab-7d1017bc54e4/hammermuehle-brot-5-saatenbrot-simply-seeds-glutenfrei-4-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,275 kg (10,70 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,275 kg (11,45 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 79,
+        "ratingValue": 4.6709
+      },
+      "self": "/p/d/1633052/hammermuehle-brot-5-saatenbrot-simply-seeds-glutenfrei-4-stueck",
+      "title": {
+        "tileHeadline": "Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4..., 275 g",
+        "tileHeadlineLong": "Brot, 5-Saatenbrot Simply Seeds, glutenfrei (4..., 275 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6709,
+        "ratingCount": 79
+      }
+    }
+  },
+  {
+    "gtin": 4022993045406,
+    "dan": 1626069,
+    "brandName": "Schnitzer",
+    "title": "Brötchen, Panini Hafer (3 Stück), 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schnitzer; Produktname: Brötchen, Panini Hafer (3 Stück), 180 g; Preis: 2,55 €; Grundpreis: 0,18 kg (14,17 € je 1 kg)",
+      "brand": {
+        "name": "Schnitzer"
+      },
+      "dan": 1626069,
+      "gtin": 4022993045406,
+      "images": [
+        {
+          "alt": "Brötchen, Panini Hafer (3 Stück) Schnitzer",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777500589/assets/pas/images/fdd42280-fb37-4172-940c-3d18078039fb/schnitzer-broetchen-panini-hafer-3-stueck"
+        },
+        {
+          "alt": "Brötchen, Panini Hafer (3 Stück) Schnitzer",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755076537/assets/pas/images/082ac3e7-6d2b-40d0-8a17-3feb0c0f34b3/schnitzer-broetchen-panini-hafer-3-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (13,24 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (14,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.614
+      },
+      "self": "/p/d/1626069/schnitzer-broetchen-panini-hafer-3-stueck",
+      "title": {
+        "tileHeadline": "Brötchen, Panini Hafer (3 Stück), 180 g",
+        "tileHeadlineLong": "Brötchen, Panini Hafer (3 Stück), 180 g"
+      },
+      "trackingData": {
+        "brand": "Schnitzer",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.614,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4022993047066,
+    "dan": 1577934,
+    "brandName": "Schnitzer",
+    "title": "Aufbackbrötchen, Panini Grainy mit Ölsamen (3 Stück), 188 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schnitzer; Produktname: Aufbackbrötchen, Panini Grainy mit Ölsamen (3 Stück), 188 g; Preis: 2,55 €; Grundpreis: 0,188 kg (13,56 € je 1 kg)",
+      "brand": {
+        "name": "Schnitzer"
+      },
+      "dan": 1577934,
+      "gtin": 4022993047066,
+      "images": [
+        {
+          "alt": "Aufbackbrötchen, Panini Grainy mit Ölsamen (3 Stück) Schnitzer",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774393887/assets/pas/images/912069e5-70f0-4cf2-9d5e-72128f8cb0d6/schnitzer-aufbackbroetchen-panini-grainy-mit-oelsamen-3-stueck"
+        },
+        {
+          "alt": "Aufbackbrötchen, Panini Grainy mit Ölsamen (3 Stück) Schnitzer",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755087206/assets/pas/images/3a868055-a13c-4676-a0a4-b43807fa8f40/schnitzer-aufbackbroetchen-panini-grainy-mit-oelsamen-3-stueck"
+        },
+        {
+          "alt": "Aufbackbrötchen, Panini Grainy mit Ölsamen (3 Stück) Schnitzer",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755087204/assets/pas/images/464be259-377b-4769-bbc7-b5dd42529c54/schnitzer-aufbackbroetchen-panini-grainy-mit-oelsamen-3-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,188 kg (12,67 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,188 kg (13,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 95,
+        "ratingValue": 4.4316
+      },
+      "self": "/p/d/1577934/schnitzer-aufbackbroetchen-panini-grainy-mit-oelsamen-3-stueck",
+      "title": {
+        "tileHeadline": "Aufbackbrötchen, Panini Grainy mit Ölsamen (3..., 188 g",
+        "tileHeadlineLong": "Aufbackbrötchen, Panini Grainy mit Ölsamen (3..., 188 g"
+      },
+      "trackingData": {
+        "brand": "Schnitzer",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4316,
+        "ratingCount": 95
+      }
+    }
+  },
+  {
+    "gtin": 4015537003147,
+    "dan": 2976879,
+    "brandName": "Hammermühle",
+    "title": "Brot, Rustikales Bauernbrot, 230 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Brot, Rustikales Bauernbrot, 230 g; Preis: 3,45 €; Grundpreis: 0,23 kg (15,00 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 2976879,
+      "gtin": 4015537003147,
+      "images": [
+        {
+          "alt": "Brot, Rustikales Bauernbrot Hammermühle",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442222/assets/pas/images/83210246-762f-4579-83f3-b92371b9e80e/hammermuehle-brot-rustikales-bauernbrot"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,23 kg (14,02 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,23 kg (15,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.0
+      },
+      "self": "/p/d/2976879/hammermuehle-brot-rustikales-bauernbrot",
+      "title": {
+        "tileHeadline": "Brot, Rustikales Bauernbrot, 230 g",
+        "tileHeadlineLong": "Brot, Rustikales Bauernbrot, 230 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 8008698022214,
+    "dan": 1521335,
+    "brandName": "Schär",
+    "title": "Brot, Mehrkorn (5 Stück), glutenfrei, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Mehrkorn (5 Stück), glutenfrei, 250 g; Preis: 2,95 €; Grundpreis: 0,25 kg (11,80 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1521335,
+      "gtin": 8008698022214,
+      "images": [
+        {
+          "alt": "Brot, Mehrkorn (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748642342/assets/pas/images/088690f9-faa0-41c3-a7c3-02a4d4e2921d/schaer-brot-mehrkorn-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Mehrkorn (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748642388/assets/pas/images/86a888b1-bcae-4c9f-9c76-b12f70d76d84/schaer-brot-mehrkorn-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Mehrkorn (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518445/assets/pas/images/8e5804fe-78de-4f76-9f00-2b738a8439b7/schaer-brot-mehrkorn-5-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (11,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.5802
+      },
+      "self": "/p/d/1521335/schaer-brot-mehrkorn-5-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Mehrkorn (5 Stück), glutenfrei, 250 g",
+        "tileHeadlineLong": "Brot, Mehrkorn (5 Stück), glutenfrei, 250 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5802,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 8008698013175,
+    "dan": 1425092,
+    "brandName": "Schär",
+    "title": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g; Preis: 2,85 €; Grundpreis: 0,21 kg (13,57 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1425092,
+      "gtin": 8008698013175,
+      "images": [
+        {
+          "alt": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750890699/assets/pas/images/f4bc0b2e-e9ed-46eb-886c-d193a8408948/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517774/assets/pas/images/58c9fc41-df09-4eb8-b61e-1f1b1ecf49d8/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747570357/assets/pas/images/eccf256b-cafb-4fa8-b1c0-fa34aa07e8e5/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,21 kg (12,68 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,21 kg (13,57 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.7424
+      },
+      "self": "/p/d/1425092/schaer-aufbackbroetchen-mehrkorn-4-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g",
+        "tileHeadlineLong": "Aufbackbrötchen, Mehrkorn (4 Stück), glutenfrei, 210 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7424,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4070765021363,
+    "dan": 1678895,
+    "brandName": "dmBio",
+    "title": "Brot, Das Pure Hafer & Saaten, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Brot, Das Pure Hafer & Saaten, 300 g; Preis: 1,75 €; Grundpreis: 0,3 kg (5,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1678895,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765021363,
+      "images": [
+        {
+          "alt": "Brot, Das Pure Hafer & Saaten dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408021/assets/pas/images/34e68cb4-73d5-4c01-8a59-8e71ee2480bd/dmbio-brot-das-pure-hafer-und-saaten"
+        },
+        {
+          "alt": "Brot, Das Pure Hafer & Saaten dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408030/assets/pas/images/a54d8386-cf50-4c5f-8568-d90496ef950c/dmbio-brot-das-pure-hafer-und-saaten"
+        },
+        {
+          "alt": "Brot, Das Pure Hafer & Saaten dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408036/assets/pas/images/651f52d7-bb7a-429e-bcd1-9c9e1d70bd5b/dmbio-brot-das-pure-hafer-und-saaten"
+        },
+        {
+          "alt": "Brot, Das Pure Hafer & Saaten dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408026/assets/pas/images/1379a52b-0e61-4695-8a12-b1173f397b10/dmbio-brot-das-pure-hafer-und-saaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (5,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (5,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 284,
+        "ratingValue": 4.7746
+      },
+      "self": "/p/d/1678895/dmbio-brot-das-pure-hafer-und-saaten",
+      "title": {
+        "tileHeadline": "Brot, Das Pure Hafer & Saaten, 300 g",
+        "tileHeadlineLong": "Brot, Das Pure Hafer & Saaten, 300 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7746,
+        "ratingCount": 284
+      }
+    }
+  },
+  {
+    "gtin": 4022993047059,
+    "dan": 1577929,
+    "brandName": "Schnitzer",
+    "title": "Aufbackbrötchen, Panini Classic (3 Stück), 188 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schnitzer; Produktname: Aufbackbrötchen, Panini Classic (3 Stück), 188 g; Preis: 2,55 €; Grundpreis: 0,188 kg (13,56 € je 1 kg)",
+      "brand": {
+        "name": "Schnitzer"
+      },
+      "dan": 1577929,
+      "gtin": 4022993047059,
+      "images": [
+        {
+          "alt": "Aufbackbrötchen, Panini Classic (3 Stück) Schnitzer",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755087788/assets/pas/images/be48315a-981f-480a-aaee-d464bd842348/schnitzer-aufbackbroetchen-panini-classic-3-stueck"
+        },
+        {
+          "alt": "Aufbackbrötchen, Panini Classic (3 Stück) Schnitzer",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755087789/assets/pas/images/73769a68-2ef6-4cfe-812c-63df57c8ea55/schnitzer-aufbackbroetchen-panini-classic-3-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,188 kg (12,67 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,188 kg (13,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.4615
+      },
+      "self": "/p/d/1577929/schnitzer-aufbackbroetchen-panini-classic-3-stueck",
+      "title": {
+        "tileHeadline": "Aufbackbrötchen, Panini Classic (3 Stück), 188 g",
+        "tileHeadlineLong": "Aufbackbrötchen, Panini Classic (3 Stück), 188 g"
+      },
+      "trackingData": {
+        "brand": "Schnitzer",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4615,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 8008698001059,
+    "dan": 1175798,
+    "brandName": "Schär",
+    "title": "Brötchen, Hefe \"Bon Matin\" (4 Stück), glutenfrei, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brötchen, Hefe \"Bon Matin\" (4 Stück), glutenfrei, 200 g; Preis: 2,55 €; Grundpreis: 0,2 kg (12,75 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1175798,
+      "gtin": 8008698001059,
+      "images": [
+        {
+          "alt": "Brötchen, Hefe \"Bon Matin\" (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518321/assets/pas/images/37f6d0a0-8e25-4da5-a375-1e56d9fe51e1/schaer-broetchen-hefe-bon-matin-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brötchen, Hefe \"Bon Matin\" (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517743/assets/pas/images/dd66ba03-8759-43dd-8370-5211bba8d7ae/schaer-broetchen-hefe-bon-matin-4-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brötchen, Hefe \"Bon Matin\" (4 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747569964/assets/pas/images/917e0ae5-f641-4733-af9a-8b601e5865d1/schaer-broetchen-hefe-bon-matin-4-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (11,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (12,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.5068
+      },
+      "self": "/p/d/1175798/schaer-broetchen-hefe-bon-matin-4-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brötchen, Hefe \"Bon Matin\" (4 Stück), glutenfrei, 200 g",
+        "tileHeadlineLong": "Brötchen, Hefe \"Bon Matin\" (4 Stück), glutenfrei, 200 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5068,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 8008698003213,
+    "dan": 1316782,
+    "brandName": "Schär",
+    "title": "Brötchen, Mini Baguette (2 Stück), glutenfrei, 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brötchen, Mini Baguette (2 Stück), glutenfrei, 150 g; Preis: 2,25 €; Grundpreis: 0,15 kg (15,00 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1316782,
+      "gtin": 8008698003213,
+      "images": [
+        {
+          "alt": "Brötchen, Mini Baguette (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762210909/assets/pas/images/1e99d554-080d-4e9e-95da-c7f429b97d2c/schaer-broetchen-mini-baguette-2-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brötchen, Mini Baguette (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517722/assets/pas/images/e7018c8d-47f0-4d70-b0b3-3a350a02d679/schaer-broetchen-mini-baguette-2-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brötchen, Mini Baguette (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748903393/assets/pas/images/e2e6375c-b343-405e-b8ad-272e3fa919bf/schaer-broetchen-mini-baguette-2-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (14,02 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (15,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.6515
+      },
+      "self": "/p/d/1316782/schaer-broetchen-mini-baguette-2-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brötchen, Mini Baguette (2 Stück), glutenfrei, 150 g",
+        "tileHeadlineLong": "Brötchen, Mini Baguette (2 Stück), glutenfrei, 150 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6515,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 8008698043479,
+    "dan": 3058309,
+    "brandName": "Schär",
+    "title": "Brot, Vitaminbrot (5 Stück), glutenfrei, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Vitaminbrot (5 Stück), glutenfrei, 250 g; Preis: 3,45 €; Grundpreis: 0,25 kg (13,80 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 3058309,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8008698043479,
+      "images": [
+        {
+          "alt": "Brot, Vitaminbrot (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776288382/assets/pas/images/779f272e-63f8-426f-835f-626b6a624a3b/schaer-brot-vitaminbrot-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Vitaminbrot (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775600856/assets/pas/images/f0642b6f-7ca1-4bb8-b3cb-b804021a2774/schaer-brot-vitaminbrot-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Vitaminbrot (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775600945/assets/pas/images/2f001d77-f70f-4064-9939-5ebf42ae8720/schaer-brot-vitaminbrot-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Vitaminbrot (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775600923/assets/pas/images/3f54bb41-1855-41e5-ab91-563bd4367cf4/schaer-brot-vitaminbrot-5-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (12,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (13,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 4.7778
+      },
+      "self": "/p/d/3058309/schaer-brot-vitaminbrot-5-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Vitaminbrot (5 Stück), glutenfrei, 250 g",
+        "tileHeadlineLong": "Brot, Vitaminbrot (5 Stück), glutenfrei, 250 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7778,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 8008698039397,
+    "dan": 1676415,
+    "brandName": "Schär",
+    "title": "Brot, Pure & Active (6 Stück), glutenfrei, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Pure & Active (6 Stück), glutenfrei, 250 g; Preis: 3,95 €; Grundpreis: 0,25 kg (15,80 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1676415,
+      "gtin": 8008698039397,
+      "images": [
+        {
+          "alt": "Brot, Pure & Active (6 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518276/assets/pas/images/2f1d5878-1c8b-4967-9339-8053930d3b3a/schaer-brot-pure-und-active-6-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Pure & Active (6 Stück), glutenfrei Schär",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518276/assets/pas/images/d76928a8-02c0-4288-b127-d3862273ac8d/schaer-brot-pure-und-active-6-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Pure & Active (6 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748902388/assets/pas/images/5e3f4dcf-4104-42bc-943e-1f46024ef0f5/schaer-brot-pure-und-active-6-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (14,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (15,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.6
+      },
+      "self": "/p/d/1676415/schaer-brot-pure-und-active-6-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Pure & Active (6 Stück), glutenfrei, 250 g",
+        "tileHeadlineLong": "Brot, Pure & Active (6 Stück), glutenfrei, 250 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 8008698010778,
+    "dan": 1623172,
+    "brandName": "Schär",
+    "title": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei, 240 g; Preis: 3,45 €; Grundpreis: 0,24 kg (14,38 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1623172,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8008698010778,
+      "images": [
+        {
+          "alt": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517780/assets/pas/images/d7b1e898-33ad-4bf8-8821-7b154f4539e2/schaer-brot-sauerteig-surdegsbroed-mit-preiselbeeren-5-stueck-glutenfrei"
+        },
+        {
+          "alt": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren (5 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517420/assets/pas/images/eeca5546-a36b-48e9-9117-d42e9c1c56a9/schaer-brot-sauerteig-surdegsbroed-mit-preiselbeeren-5-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (13,44 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (14,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 4.8
+      },
+      "self": "/p/d/1623172/schaer-brot-sauerteig-surdegsbroed-mit-preiselbeeren-5-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren..., 240 g",
+        "tileHeadlineLong": "Brot, Sauerteig \"Surdegsbröd\" mit Preiselbeeren..., 240 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8,
+        "ratingCount": 30
+      }
+    }
+  },
+  {
+    "gtin": 4066447370072,
+    "dan": 1472837,
+    "brandName": "dmBio",
+    "title": "Eiweißbrot, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Eiweißbrot, 250 g; Preis: 1,65 €; Grundpreis: 0,25 kg (6,60 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1472837,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447370072,
+      "images": [
+        {
+          "alt": "Eiweißbrot  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480772/assets/pas/images/dc110abf-94c3-4781-a251-30d8e206fd90/dmbio-eiweissbrot"
+        },
+        {
+          "alt": "Eiweißbrot  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480665/assets/pas/images/71f667bc-96a5-488e-8bd8-6fa42b57edd6/dmbio-eiweissbrot"
+        },
+        {
+          "alt": "Eiweißbrot  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480664/assets/pas/images/8ab93967-c657-415e-a3da-b7863b29c737/dmbio-eiweissbrot"
+        },
+        {
+          "alt": "Eiweißbrot  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747480790/assets/pas/images/b2f242d3-4fb4-4a34-88fd-16fde640d41d/dmbio-eiweissbrot"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (6,17 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (6,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 118,
+        "ratingValue": 4.4831
+      },
+      "self": "/p/d/1472837/dmbio-eiweissbrot",
+      "title": {
+        "tileHeadline": "Eiweißbrot, 250 g",
+        "tileHeadlineLong": "Eiweißbrot, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4831,
+        "ratingCount": 118
+      }
+    }
+  },
+  {
+    "gtin": 4066447954951,
+    "dan": 3065327,
+    "brandName": "dmBio",
+    "title": "Dinkel Wraps, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Dinkel Wraps, 240 g; Preis: 2,45 €; Grundpreis: 0,24 kg (10,21 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3065327,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447954951,
+      "images": [
+        {
+          "alt": "Dinkel Wraps dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768430269/assets/pas/images/29bfe41b-1e5a-4cbd-9f42-26e83d8417f8/dmbio-dinkel-wraps"
+        },
+        {
+          "alt": "Dinkel Wraps dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768430276/assets/pas/images/bb032156-00d4-456b-9e00-af14c22cd0bc/dmbio-dinkel-wraps"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (9,54 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,24 kg (10,21 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 126,
+        "ratingValue": 3.7381
+      },
+      "self": "/p/d/3065327/dmbio-dinkel-wraps",
+      "title": {
+        "tileHeadline": "Dinkel Wraps, 240 g",
+        "tileHeadlineLong": "Dinkel Wraps, 240 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7381,
+        "ratingCount": 126
+      }
+    }
+  },
+  {
+    "gtin": 4066447677003,
+    "dan": 1526195,
+    "brandName": "dmBio",
+    "title": "Knäckebrot, Roggen & Dinkel, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Knäckebrot, Roggen & Dinkel, 250 g; Preis: 1,55 €; Grundpreis: 0,25 kg (6,20 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1526195,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447677003,
+      "images": [
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484609/assets/pas/images/c60365d9-ee2c-4ce6-a13a-311c777b665c/dmbio-knaeckebrot-roggen-und-dinkel"
+        },
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595711/assets/pas/images/7c484f85-fd9b-417c-9ff0-cfcbe693ef89/dmbio-knaeckebrot-roggen-und-dinkel"
+        },
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484868/assets/pas/images/d6eec3ca-4ec9-4dbf-9eef-c2e84cec892e/dmbio-knaeckebrot-roggen-und-dinkel"
+        },
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595730/assets/pas/images/a39a7abb-8043-4836-9c5e-c04c943507bb/dmbio-knaeckebrot-roggen-und-dinkel"
+        },
+        {
+          "alt": "Knäckebrot, Roggen & Dinkel dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595719/assets/pas/images/395b32a1-e5cb-4431-b63e-6957fcf3a649/dmbio-knaeckebrot-roggen-und-dinkel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (5,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (6,20 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 110,
+        "ratingValue": 4.6636
+      },
+      "self": "/p/d/1526195/dmbio-knaeckebrot-roggen-und-dinkel",
+      "title": {
+        "tileHeadline": "Knäckebrot, Roggen & Dinkel, 250 g",
+        "tileHeadlineLong": "Knäckebrot, Roggen & Dinkel, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6636,
+        "ratingCount": 110
+      }
+    }
+  },
+  {
+    "gtin": 8008698047552,
+    "dan": 3051289,
+    "brandName": "Schär",
+    "title": "Knäckebrot, Hafer, glutenfrei, 215 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Knäckebrot, Hafer, glutenfrei, 215 g; Preis: 3,95 €; Grundpreis: 0,215 kg (18,37 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 3051289,
+      "gtin": 8008698047552,
+      "images": [
+        {
+          "alt": "Knäckebrot, Hafer, glutenfrei Schär",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754981396/assets/pas/images/76273579-962a-40ab-82cb-f36610926db2/schaer-knaeckebrot-hafer-glutenfrei"
+        },
+        {
+          "alt": "Knäckebrot, Hafer, glutenfrei Schär",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754981389/assets/pas/images/d46090cc-5e13-430e-8026-f3afd115edbf/schaer-knaeckebrot-hafer-glutenfrei"
+        },
+        {
+          "alt": "Knäckebrot, Hafer, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517862/assets/pas/images/64d6afa0-9181-436d-b57d-f8582ab64470/schaer-knaeckebrot-hafer-glutenfrei"
+        },
+        {
+          "alt": "Knäckebrot, Hafer, glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775774781/assets/pas/images/aec5f939-f5b4-4de2-ab69-0c4e892d9f18/schaer-knaeckebrot-hafer-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,215 kg (17,17 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,215 kg (18,37 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.5472
+      },
+      "self": "/p/d/3051289/schaer-knaeckebrot-hafer-glutenfrei",
+      "title": {
+        "tileHeadline": "Knäckebrot, Hafer, glutenfrei, 215 g",
+        "tileHeadlineLong": "Knäckebrot, Hafer, glutenfrei, 215 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5472,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 8008698044506,
+    "dan": 3104960,
+    "brandName": "Schär",
+    "title": "Flatbreads, glutenfrei, 180 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Flatbreads, glutenfrei, 180 g; Preis: 3,45 €; Grundpreis: 0,18 kg (19,17 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 3104960,
+      "gtin": 8008698044506,
+      "images": [
+        {
+          "alt": "Flatbreads, glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762554274/assets/pas/images/684b3ce0-56dc-450a-8c58-7a198d887aa5/schaer-flatbreads-glutenfrei"
+        },
+        {
+          "alt": "Flatbreads, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762554245/assets/pas/images/d020169a-2aa0-4890-a267-7f3835e89257/schaer-flatbreads-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (17,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,18 kg (19,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 40,
+        "ratingValue": 4.35
+      },
+      "self": "/p/d/3104960/schaer-flatbreads-glutenfrei",
+      "title": {
+        "tileHeadline": "Flatbreads, glutenfrei, 180 g",
+        "tileHeadlineLong": "Flatbreads, glutenfrei, 180 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.35,
+        "ratingCount": 40
+      }
+    }
+  },
+  {
+    "gtin": 4015537002478,
+    "dan": 1713906,
+    "brandName": "Hammermühle",
+    "title": "Körnerstangen, glutenfrei (2 Stück), 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: Hammermühle; Produktname: Körnerstangen, glutenfrei (2 Stück), 220 g; Preis: 3,45 €; Grundpreis: 0,22 kg (15,68 € je 1 kg)",
+      "brand": {
+        "name": "Hammermühle"
+      },
+      "dan": 1713906,
+      "gtin": 4015537002478,
+      "images": [
+        {
+          "alt": "Körnerstangen, glutenfrei (2 Stück) Hammermühle",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099293/assets/pas/images/e686b01b-9ba2-4484-aa38-a13d1328aefa/hammermuehle-koernerstangen-glutenfrei-2-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (14,65 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (15,68 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 51,
+        "ratingValue": 4.7059
+      },
+      "self": "/p/d/1713906/hammermuehle-koernerstangen-glutenfrei-2-stueck",
+      "title": {
+        "tileHeadline": "Körnerstangen, glutenfrei (2 Stück), 220 g",
+        "tileHeadlineLong": "Körnerstangen, glutenfrei (2 Stück), 220 g"
+      },
+      "trackingData": {
+        "brand": "Hammermühle",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7059,
+        "ratingCount": 51
+      }
+    }
+  },
+  {
+    "gtin": 8008698011683,
+    "dan": 1541668,
+    "brandName": "Schär",
+    "title": "Wraps (2 Stück), glutenfrei, 160 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Wraps (2 Stück), glutenfrei, 160 g; Preis: 2,85 €; Grundpreis: 0,16 kg (17,81 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1541668,
+      "gtin": 8008698011683,
+      "images": [
+        {
+          "alt": "Wraps (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748643834/assets/pas/images/adb660d0-c245-4ef9-ac1e-a13f2fa14178/schaer-wraps-2-stueck-glutenfrei"
+        },
+        {
+          "alt": "Wraps (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518526/assets/pas/images/ec581c7a-bd0f-45d8-a8a6-95ef5d5291ba/schaer-wraps-2-stueck-glutenfrei"
+        },
+        {
+          "alt": "Wraps (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518121/assets/pas/images/95ade1b3-7685-49c8-a729-caa908e483ca/schaer-wraps-2-stueck-glutenfrei"
+        },
+        {
+          "alt": "Wraps (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518742/assets/pas/images/ad68d487-7f0b-484f-a77e-456a678866c6/schaer-wraps-2-stueck-glutenfrei"
+        },
+        {
+          "alt": "Wraps (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518123/assets/pas/images/3c1c43b3-0a6f-4273-ac84-59bb09a002fa/schaer-wraps-2-stueck-glutenfrei"
+        },
+        {
+          "alt": "Wraps (2 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518713/assets/pas/images/6ba900a2-387d-43b9-9603-aafa783b03cd/schaer-wraps-2-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (16,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,16 kg (17,81 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 134,
+        "ratingValue": 3.194
+      },
+      "self": "/p/d/1541668/schaer-wraps-2-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Wraps (2 Stück), glutenfrei, 160 g",
+        "tileHeadlineLong": "Wraps (2 Stück), glutenfrei, 160 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Schnelle Gerichte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.194,
+        "ratingCount": 134
+      }
+    }
+  },
+  {
+    "gtin": 8008698004678,
+    "dan": 1303780,
+    "brandName": "Schär",
+    "title": "Foccaccia mit nativem Olivenöl extra (3 Stück), glutenfrei, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Foccaccia mit nativem Olivenöl extra (3 Stück), glutenfrei, 200 g; Preis: 3,25 €; Grundpreis: 0,2 kg (16,25 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1303780,
+      "gtin": 8008698004678,
+      "images": [
+        {
+          "alt": "Foccaccia mit nativem Olivenöl extra (3 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762209846/assets/pas/images/81d002b9-19c6-4dcb-9498-967071f6c765/schaer-foccaccia-mit-nativem-olivenoel-extra-3-stueck-glutenfrei"
+        },
+        {
+          "alt": "Foccaccia mit nativem Olivenöl extra (3 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762209819/assets/pas/images/7300fd9f-642d-41b0-856d-059d35f0b995/schaer-foccaccia-mit-nativem-olivenoel-extra-3-stueck-glutenfrei"
+        },
+        {
+          "alt": "Foccaccia mit nativem Olivenöl extra (3 Stück), glutenfrei Schär",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517723/assets/pas/images/8ee693af-7ba3-4693-bdb8-4b173d1d944f/schaer-foccaccia-mit-nativem-olivenoel-extra-3-stueck-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (15,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (16,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/1303780/schaer-foccaccia-mit-nativem-olivenoel-extra-3-stueck-glutenfrei",
+      "title": {
+        "tileHeadline": "Foccaccia mit nativem Olivenöl extra (3 Stück),..., 200 g",
+        "tileHeadlineLong": "Foccaccia mit nativem Olivenöl extra (3 Stück),..., 200 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Brot & Brötchen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 60
+      }
+    }
+  }
+]

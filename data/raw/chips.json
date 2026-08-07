@@ -1,0 +1,2825 @@
+[
+  {
+    "gtin": 4260350927136,
+    "dan": 1587647,
+    "brandName": "HEIMATGUT",
+    "title": "Linsenchips mit Meersalz, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: HEIMATGUT; Produktname: Linsenchips mit Meersalz, 75 g; Preis: 2,45 €; Grundpreis: 0,075 kg (32,67 € je 1 kg)",
+      "brand": {
+        "name": "HEIMATGUT"
+      },
+      "dan": 1587647,
+      "gtin": 4260350927136,
+      "images": [
+        {
+          "alt": "Linsenchips mit Meersalz HEIMATGUT",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754979851/assets/pas/images/1673df62-8675-44c0-a6aa-ab98da2d20bb/heimatgut-linsenchips-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (30,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (32,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 124,
+        "ratingValue": 4.7581
+      },
+      "self": "/p/d/1587647/heimatgut-linsenchips-mit-meersalz",
+      "title": {
+        "tileHeadline": "Linsenchips mit Meersalz, 75 g",
+        "tileHeadlineLong": "Linsenchips mit Meersalz, 75 g"
+      },
+      "trackingData": {
+        "brand": "HEIMATGUT",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7581,
+        "ratingCount": 124
+      }
+    }
+  },
+  {
+    "gtin": 4066447884906,
+    "dan": 3076851,
+    "brandName": "dmBio",
+    "title": "Gemüsechips, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gemüsechips, 90 g; Preis: 1,85 €; Grundpreis: 0,09 kg (20,56 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3076851,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447884906,
+      "images": [
+        {
+          "alt": "Gemüsechips dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425142/assets/pas/images/f896b37d-4905-4c51-9790-e986bf076876/dmbio-gemuesechips"
+        },
+        {
+          "alt": "Gemüsechips dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425148/assets/pas/images/6a4b3586-621a-4a7e-ad31-813e505cefcb/dmbio-gemuesechips"
+        },
+        {
+          "alt": "Gemüsechips dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425135/assets/pas/images/7005507d-dc1c-4819-be94-7f398e19e801/dmbio-gemuesechips"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (19,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (20,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.1803
+      },
+      "self": "/p/d/3076851/dmbio-gemuesechips",
+      "title": {
+        "tileHeadline": "Gemüsechips, 90 g",
+        "tileHeadlineLong": "Gemüsechips, 90 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1803,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 7340001806649,
+    "dan": 3037597,
+    "brandName": "Barebells",
+    "title": "Proteinriegel Caramel Choco Chip, 55 g",
+    "tileData": {
+      "a11yLabel": "Marke: Barebells; Produktname: Proteinriegel Caramel Choco Chip, 55 g; Preis: 2,65 €; Grundpreis: 0,055 kg (48,18 € je 1 kg)",
+      "brand": {
+        "name": "Barebells"
+      },
+      "dan": 3037597,
+      "gtin": 7340001806649,
+      "images": [
+        {
+          "alt": "Proteinriegel Caramel Choco Chip Barebells",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755094501/assets/pas/images/f9ec3207-b2e8-4666-812c-4f438bc5efe4/barebells-proteinriegel-caramel-choco-chip"
+        },
+        {
+          "alt": "Proteinriegel Caramel Choco Chip Barebells",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755038181/assets/pas/images/83d3c70f-73e0-4fbe-8f86-fda271f9c32b/barebells-proteinriegel-caramel-choco-chip"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,055 kg (45,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,055 kg (48,18 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.2105
+      },
+      "self": "/p/d/3037597/barebells-proteinriegel-caramel-choco-chip",
+      "title": {
+        "tileHeadline": "Proteinriegel Caramel Choco Chip, 55 g",
+        "tileHeadlineLong": "Proteinriegel Caramel Choco Chip, 55 g"
+      },
+      "trackingData": {
+        "brand": "Barebells",
+        "categories": [
+          "Protein Riegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2105,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4260618526033,
+    "dan": 1582632,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren, 16 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren, 16 g; Preis: 1,95 €; Grundpreis: 0,016 kg (121,88 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 1582632,
+      "gtin": 4260618526033,
+      "images": [
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934605/assets/pas/images/61cfac5e-9bbb-41f6-b8f8-a9ecdc1b8649/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934587/assets/pas/images/edae5b57-8227-4cb1-a156-106f5d325ced/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778281360/assets/pas/images/5ea96e63-aa73-4957-98c4-50f899cc41b2/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934573/assets/pas/images/fe154661-692f-42e8-8e8a-d2f5f0c51091/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934544/assets/pas/images/b811fdc5-afb8-44eb-b0ba-569bad7dafa5/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763075239/assets/pas/images/8d3ea122-b142-47ed-8b9e-5bb8ec4d17a3/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934564/assets/pas/images/8b9a8513-7f92-4bc9-85fb-220da0473143/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere mit Joghurt, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777934554/assets/pas/images/dbc202ab-75a3-45ea-81c7-c3d4e947e1d2/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,016 kg (113,91 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,016 kg (121,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 132,
+        "ratingValue": 4.4924
+      },
+      "self": "/p/d/1582632/freche-freunde-kindersnack-smoothie-chips-banane-apfel-erdbeere-mit-joghurt-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere..., 16 g",
+        "tileHeadlineLong": "Kindersnack Smoothie-Chips Banane Apfel Erdbeere..., 16 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4924,
+        "ratingCount": 132
+      }
+    }
+  },
+  {
+    "gtin": 4262367685177,
+    "dan": 3080146,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Bunte Chips Ketchup Style, für Schulkinder, 50 g; Preis: 1,65 €; Grundpreis: 0,05 kg (33,00 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 3080146,
+      "gtin": 4262367685177,
+      "images": [
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783652919/assets/pas/images/92f11e53-84c4-484f-8b95-b79cc66dc3c4/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783652931/assets/pas/images/1b0c1d26-a72a-4e5c-9ddf-af2a33aea8d4/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783652909/assets/pas/images/8876a9d8-4995-4f2c-8f10-fcb0e3327013/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993760/assets/pas/images/a9e1b1c7-5715-40bc-9ef8-7da2d8ce553d/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993713/assets/pas/images/a6d58d81-a149-48f2-bb31-271d31e19ed0/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993786/assets/pas/images/5054bdd4-1f90-4796-95ac-b75563ee0faf/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993724/assets/pas/images/da76e319-cc59-4bca-b62c-141d55ea2e88/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993776/assets/pas/images/bae19f00-6773-4e73-b486-2e3466a45f2a/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993767/assets/pas/images/e61f8859-129c-4bde-9c89-10c80d68180b/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993740/assets/pas/images/f2b68073-7add-4f61-b151-2e3cae4db850/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993751/assets/pas/images/d604eef5-f043-438b-a87a-012f3a297c5b/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        },
+        {
+          "alt": "Kindersnack Bunte Chips Ketchup Style, für Schulkinder  Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748993734/assets/pas/images/09fc8255-51d8-4580-8544-43ce9003df09/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (30,84 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (33,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.661
+      },
+      "self": "/p/d/3080146/freche-freunde-kindersnack-bunte-chips-ketchup-style-fuer-schulkinder",
+      "title": {
+        "tileHeadline": "Kindersnack Bunte Chips Ketchup Style, für..., 50 g",
+        "tileHeadlineLong": "Kindersnack Bunte Chips Ketchup Style, für..., 50 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.661,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4008258147009,
+    "dan": 1662085,
+    "brandName": "Seeberger",
+    "title": "Kokoschips, 110 g",
+    "tileData": {
+      "a11yLabel": "Marke: Seeberger; Produktname: Kokoschips, 110 g; Preis: 2,55 €; Grundpreis: 0,11 kg (23,18 € je 1 kg)",
+      "brand": {
+        "name": "Seeberger"
+      },
+      "dan": 1662085,
+      "gtin": 4008258147009,
+      "images": [
+        {
+          "alt": "Kokoschips Seeberger",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775774801/assets/pas/images/8d7ac9d0-7f24-4261-817d-9a926253a451/seeberger-kokoschips"
+        },
+        {
+          "alt": "Kokoschips Seeberger",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775774813/assets/pas/images/f7dff905-3214-4d8f-b782-d8957606d3ad/seeberger-kokoschips"
+        },
+        {
+          "alt": "Kokoschips Seeberger",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747434105/assets/pas/images/d1ca9a15-3992-4eb2-827d-e3853a75789a/seeberger-kokoschips"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (21,66 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,11 kg (23,18 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.8276
+      },
+      "self": "/p/d/1662085/seeberger-kokoschips",
+      "title": {
+        "tileHeadline": "Kokoschips, 110 g",
+        "tileHeadlineLong": "Kokoschips, 110 g"
+      },
+      "trackingData": {
+        "brand": "Seeberger",
+        "categories": [
+          "Nüsse"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8276,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4067796149036,
+    "dan": 1625174,
+    "brandName": "Sportness",
+    "title": "Protein Linsen Chips, Paprika Geschmack, vegan, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Linsen Chips, Paprika Geschmack, vegan, 40 g; Preis: 0,95 €; Grundpreis: 0,04 kg (23,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1625174,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796149036,
+      "images": [
+        {
+          "alt": "Protein Linsen Chips, Paprika Geschmack, vegan Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769817367/assets/pas/images/1433038e-1c68-41f1-a227-3f2157f55990/sportness-protein-linsen-chips-paprika-geschmack-vegan"
+        },
+        {
+          "alt": "Protein Linsen Chips, Paprika Geschmack, vegan Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487990/assets/pas/images/ef794a6e-5d3f-4296-8384-f51350d96d05/sportness-protein-linsen-chips-paprika-geschmack-vegan"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (22,20 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (23,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 245,
+        "ratingValue": 4.3306
+      },
+      "self": "/p/d/1625174/sportness-protein-linsen-chips-paprika-geschmack-vegan",
+      "title": {
+        "tileHeadline": "Protein Linsen Chips, Paprika Geschmack, vegan, 40 g",
+        "tileHeadlineLong": "Protein Linsen Chips, Paprika Geschmack, vegan, 40 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3306,
+        "ratingCount": 245
+      }
+    }
+  },
+  {
+    "gtin": 4260739998252,
+    "dan": 1664999,
+    "brandName": "share",
+    "title": "Linsenchips, gesalzen mit schwarzem Reis, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: share; Produktname: Linsenchips, gesalzen mit schwarzem Reis, 80 g; Preis: 1,95 €; Grundpreis: 0,08 kg (24,38 € je 1 kg)",
+      "brand": {
+        "name": "share"
+      },
+      "dan": 1664999,
+      "gtin": 4260739998252,
+      "images": [
+        {
+          "alt": "Linsenchips, gesalzen mit schwarzem Reis share",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303018/assets/pas/images/45b3ce6f-2a23-4295-8138-1d4b8224b066/share-linsenchips-gesalzen-mit-schwarzem-reis"
+        },
+        {
+          "alt": "Linsenchips, gesalzen mit schwarzem Reis share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303032/assets/pas/images/cba111b1-0bb1-4a17-a6a3-72852b6b9c0d/share-linsenchips-gesalzen-mit-schwarzem-reis"
+        },
+        {
+          "alt": "Linsenchips, gesalzen mit schwarzem Reis share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303023/assets/pas/images/f01c49e8-2ced-441e-b30e-4e3700ffe499/share-linsenchips-gesalzen-mit-schwarzem-reis"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (22,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (24,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 146,
+        "ratingValue": 4.1986
+      },
+      "self": "/p/d/1664999/share-linsenchips-gesalzen-mit-schwarzem-reis",
+      "title": {
+        "tileHeadline": "Linsenchips, gesalzen mit schwarzem Reis, 80 g",
+        "tileHeadlineLong": "Linsenchips, gesalzen mit schwarzem Reis, 80 g"
+      },
+      "trackingData": {
+        "brand": "share",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1986,
+        "ratingCount": 146
+      }
+    }
+  },
+  {
+    "gtin": 4260249140530,
+    "dan": 1394588,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre, 12 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Fruchtchips Erdbeere, ab 3 Jahre, 12 g; Preis: 1,95 €; Grundpreis: 0,012 kg (162,50 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 1394588,
+      "gtin": 4260249140530,
+      "images": [
+        {
+          "alt": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776466660/assets/pas/images/e569701b-20de-42ba-9ffe-16572f735ef3/freche-freunde-kindersnack-fruchtchips-erdbeere-ab-3-jahre"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776466677/assets/pas/images/47a58fba-0609-472e-bdcb-5f2fa59554d8/freche-freunde-kindersnack-fruchtchips-erdbeere-ab-3-jahre"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776466652/assets/pas/images/be335d1b-a60f-47e5-81ef-26c1e02811a0/freche-freunde-kindersnack-fruchtchips-erdbeere-ab-3-jahre"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776725874/assets/pas/images/4f70bbdc-12c0-49c1-bb75-2f70c4c5de6b/freche-freunde-kindersnack-fruchtchips-erdbeere-ab-3-jahre"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776466670/assets/pas/images/5c105770-1f19-43c1-b38b-16adcb0ec19a/freche-freunde-kindersnack-fruchtchips-erdbeere-ab-3-jahre"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre Freche Freunde",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776725884/assets/pas/images/0d8881e8-8f69-49e1-b35b-64c1cf8a46dc/freche-freunde-kindersnack-fruchtchips-erdbeere-ab-3-jahre"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre Freche Freunde",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776725869/assets/pas/images/3b71fba5-2423-45d2-a894-41641e01f684/freche-freunde-kindersnack-fruchtchips-erdbeere-ab-3-jahre"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,012 kg (151,87 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,012 kg (162,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 157,
+        "ratingValue": 4.7516
+      },
+      "self": "/p/d/1394588/freche-freunde-kindersnack-fruchtchips-erdbeere-ab-3-jahre",
+      "title": {
+        "tileHeadline": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre, 12 g",
+        "tileHeadlineLong": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahre, 12 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7516,
+        "ratingCount": 157
+      }
+    }
+  },
+  {
+    "gtin": 4067796172942,
+    "dan": 3080272,
+    "brandName": "babylove",
+    "title": "Kindersnack Erdbeer-Fruchtchips ab 3 Jahren, 12 g",
+    "tileData": {
+      "a11yLabel": "Marke: babylove; Produktname: Kindersnack Erdbeer-Fruchtchips ab 3 Jahren, 12 g; Preis: 1,65 €; Grundpreis: 0,012 kg (137,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "babylove"
+      },
+      "dan": 3080272,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796172942,
+      "images": [
+        {
+          "alt": "Kindersnack Erdbeer-Fruchtchips ab 3 Jahren babylove",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752022137/assets/pas/images/aeb54f02-83bc-4d62-90cc-1a1010ebeafe/babylove-kindersnack-erdbeer-fruchtchips-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,012 kg (128,50 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,012 kg (137,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.825
+      },
+      "self": "/p/d/3080272/babylove-kindersnack-erdbeer-fruchtchips-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Erdbeer-Fruchtchips ab 3 Jahren, 12 g",
+        "tileHeadlineLong": "Kindersnack Erdbeer-Fruchtchips ab 3 Jahren, 12 g"
+      },
+      "trackingData": {
+        "brand": "babylove",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.825,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 4260350928492,
+    "dan": 3129658,
+    "brandName": "HEIMATGUT",
+    "title": "Protein Chips Paprika, 63 g",
+    "tileData": {
+      "a11yLabel": "Marke: HEIMATGUT; Produktname: Protein Chips Paprika, 63 g; Preis: 2,45 €; Grundpreis: 0,063 kg (38,89 € je 1 kg)",
+      "brand": {
+        "name": "HEIMATGUT"
+      },
+      "dan": 3129658,
+      "gtin": 4260350928492,
+      "images": [
+        {
+          "alt": "Protein Chips Paprika HEIMATGUT",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779272287/assets/pas/images/9b93dd88-5e84-4091-885c-aa66a8e5200e/heimatgut-protein-chips-paprika"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,063 kg (36,35 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,063 kg (38,89 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 36,
+        "ratingValue": 4.4167
+      },
+      "self": "/p/d/3129658/heimatgut-protein-chips-paprika",
+      "title": {
+        "tileHeadline": "Protein Chips Paprika, 63 g",
+        "tileHeadlineLong": "Protein Chips Paprika, 63 g"
+      },
+      "trackingData": {
+        "brand": "HEIMATGUT",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4167,
+        "ratingCount": 36
+      }
+    }
+  },
+  {
+    "gtin": 687456214962,
+    "dan": 1679945,
+    "brandName": "Made Good",
+    "title": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück), 150 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück), 150 g; Preis: 3,25 €; Grundpreis: 0,15 kg (21,67 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 1679945,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456214962,
+      "images": [
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757551058/assets/pas/images/d5faa390-95bb-4a7a-ab43-8ab7c005ed03/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758488020/assets/pas/images/b79d126a-e5f8-4272-b261-193ae7c13814/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686874/assets/pas/images/2ceb0cd0-1bcf-4baa-8a01-2f27eb17446a/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686883/assets/pas/images/43405dc7-a59b-4513-9035-e4e07adfaa72/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686898/assets/pas/images/4f925768-5806-45e5-9d2d-f662d15215d2/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686916/assets/pas/images/34f115f0-4426-42dc-ab89-b1afee257f51/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686933/assets/pas/images/71516596-6dc1-46cb-8b87-905a8af43d9b/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775686925/assets/pas/images/cc411b90-33be-4e4c-a2fb-a3f764433955/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487929/assets/pas/images/0ea041aa-51eb-4f7d-8f2b-5bd6dfd43bc6/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758487943/assets/pas/images/f97d1d7a-5dfe-4581-ab1c-3d34f38ecdac/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776730434/assets/pas/images/011fcbee-f765-444f-808c-50ae03eb19fc/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        },
+        {
+          "alt": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758488006/assets/pas/images/9f5c5d9d-76e7-425e-afa9-b9dc0bcec1c2/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 44,
+        "ratingValue": 4.3864
+      },
+      "self": "/p/d/1679945/made-good-muesliriegel-chocolate-chip-soft-baked-oat-bars-5-stueck",
+      "title": {
+        "tileHeadline": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars..., 150 g",
+        "tileHeadlineLong": "Müsliriegel, Chocolate Chip, Soft Baked Oat Bars..., 150 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3864,
+        "ratingCount": 44
+      }
+    }
+  },
+  {
+    "gtin": 8008698031018,
+    "dan": 1460149,
+    "brandName": "Schär",
+    "title": "Kartoffelchips, Paprika \"Curvies\", glutenfrei, 170 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Kartoffelchips, Paprika \"Curvies\", glutenfrei, 170 g; Preis: 2,75 €; Grundpreis: 0,17 kg (16,18 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1460149,
+      "gtin": 8008698031018,
+      "images": [
+        {
+          "alt": "Kartoffelchips, Paprika \"Curvies\", glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517969/assets/pas/images/9505d47e-9a6b-4cd4-9822-7ce65cea5a10/schaer-kartoffelchips-paprika-curvies-glutenfrei"
+        },
+        {
+          "alt": "Kartoffelchips, Paprika \"Curvies\", glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518336/assets/pas/images/5b589cfe-f5b8-43bf-af7e-db2a380dd82b/schaer-kartoffelchips-paprika-curvies-glutenfrei"
+        },
+        {
+          "alt": "Kartoffelchips, Paprika \"Curvies\", glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747578394/assets/pas/images/7fac2a8b-0804-4486-8894-5f4e34dfea05/schaer-kartoffelchips-paprika-curvies-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,17 kg (15,12 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,17 kg (16,18 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.5517
+      },
+      "self": "/p/d/1460149/schaer-kartoffelchips-paprika-curvies-glutenfrei",
+      "title": {
+        "tileHeadline": "Kartoffelchips, Paprika \"Curvies\", glutenfrei, 170 g",
+        "tileHeadlineLong": "Kartoffelchips, Paprika \"Curvies\", glutenfrei, 170 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5517,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4067796069167,
+    "dan": 2973328,
+    "brandName": "dmBio",
+    "title": "Kindersnack Brezeln & Fruchtchips, ab 3 Jahren, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kindersnack Brezeln & Fruchtchips, ab 3 Jahren, 40 g; Preis: 1,45 €; Grundpreis: 0,04 kg (36,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 2973328,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796069167,
+      "images": [
+        {
+          "alt": "Kindersnack Brezeln & Fruchtchips, ab 3 Jahren  dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487409/assets/pas/images/68fdbeff-5bf3-4094-a963-46c664cf2040/dmbio-kindersnack-brezeln-und-fruchtchips-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brezeln & Fruchtchips, ab 3 Jahren  dmBio",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487491/assets/pas/images/32f6d9f4-4918-401b-817a-6890249b4b8c/dmbio-kindersnack-brezeln-und-fruchtchips-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Brezeln & Fruchtchips, ab 3 Jahren  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487171/assets/pas/images/1c827350-8439-4c1c-8396-ed6a6263f9d1/dmbio-kindersnack-brezeln-und-fruchtchips-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (33,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (36,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.7436
+      },
+      "self": "/p/d/2973328/dmbio-kindersnack-brezeln-und-fruchtchips-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Brezeln & Fruchtchips, ab 3 Jahren, 40 g",
+        "tileHeadlineLong": "Kindersnack Brezeln & Fruchtchips, ab 3 Jahren, 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7436,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4066447051933,
+    "dan": 1624685,
+    "brandName": "Sportness",
+    "title": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan, 75 g; Preis: 1,25 €; Grundpreis: 0,075 kg (16,67 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1624685,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447051933,
+      "images": [
+        {
+          "alt": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774587412/assets/pas/images/f8589f65-904c-4d2b-ba5b-6499d270e28e/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan"
+        },
+        {
+          "alt": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774587394/assets/pas/images/017bd696-27a0-4f5e-983f-1ef0c7506789/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan"
+        },
+        {
+          "alt": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475497/assets/pas/images/b256c8c7-c4af-4e52-988f-652b64f70318/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan"
+        },
+        {
+          "alt": "Protein Cookie, Half Baked, Chocolate Chip Geschmack, vegan Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774587406/assets/pas/images/fe9fa3fa-c13f-46ae-b003-95fe578a2401/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (15,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (16,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 423,
+        "ratingValue": 3.0875
+      },
+      "self": "/p/d/1624685/sportness-protein-cookie-half-baked-chocolate-chip-geschmack-vegan",
+      "title": {
+        "tileHeadline": "Protein Cookie, Half Baked, Chocolate Chip..., 75 g",
+        "tileHeadlineLong": "Protein Cookie, Half Baked, Chocolate Chip..., 75 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Kekse, Waffeln & Cookies",
+          "Protein Riegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0875,
+        "ratingCount": 423
+      }
+    }
+  },
+  {
+    "gtin": 4067796274103,
+    "dan": 3100951,
+    "brandName": "Dein Bestes",
+    "title": "Hundeleckerli Chips, reich an Huhn, Exquisit, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: Dein Bestes; Produktname: Hundeleckerli Chips, reich an Huhn, Exquisit, 80 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 1,65 €; Grundpreis: 0,08 kg (20,63 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Dein Bestes"
+      },
+      "dan": 3100951,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796274103,
+      "images": [
+        {
+          "alt": "Hundeleckerli Chips, reich an Huhn, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248955/assets/pas/images/bc940db4-3935-47b2-bda7-8a219fd61eed/dein-bestes-hundeleckerli-chips-reich-an-huhn-exquisit"
+        },
+        {
+          "alt": "Hundeleckerli Chips, reich an Huhn, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248949/assets/pas/images/015bbf04-3b5a-408c-b15e-a9cea169d65a/dein-bestes-hundeleckerli-chips-reich-an-huhn-exquisit"
+        },
+        {
+          "alt": "Hundeleckerli Chips, reich an Huhn, Exquisit Dein Bestes",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780448999/assets/pas/images/50bfe284-9124-4405-abcc-002216de2ce4/dein-bestes-hundeleckerli-chips-reich-an-huhn-exquisit"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (19,28 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (20,63 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.7547
+      },
+      "self": "/p/d/3100951/dein-bestes-hundeleckerli-chips-reich-an-huhn-exquisit",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Hundeleckerli Chips, reich an Huhn, Exquisit, 80 g",
+        "tileHeadlineLong": "Hundeleckerli Chips, reich an Huhn, Exquisit, 80 g"
+      },
+      "trackingData": {
+        "brand": "Dein Bestes",
+        "categories": [
+          "Leckerlis für Hunde"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7547,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4067796125450,
+    "dan": 1494252,
+    "brandName": "dmBio",
+    "title": "Kichererbsen Chips mit Meersalz, 75 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kichererbsen Chips mit Meersalz, 75 g; Preis: 1,75 €; Grundpreis: 0,075 kg (23,33 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1494252,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796125450,
+      "images": [
+        {
+          "alt": "Kichererbsen Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755018586/assets/pas/images/a497f589-9a03-497c-8aff-6827e4108411/dmbio-kichererbsen-chips-mit-meersalz"
+        },
+        {
+          "alt": "Kichererbsen Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755018588/assets/pas/images/222ac077-36e3-4464-9129-96085f8eb92e/dmbio-kichererbsen-chips-mit-meersalz"
+        },
+        {
+          "alt": "Kichererbsen Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487580/assets/pas/images/258ffe03-1874-4ebc-8f39-10f13c6abeb6/dmbio-kichererbsen-chips-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (21,80 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 kg (23,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 310,
+        "ratingValue": 4.4548
+      },
+      "self": "/p/d/1494252/dmbio-kichererbsen-chips-mit-meersalz",
+      "title": {
+        "tileHeadline": "Kichererbsen Chips mit Meersalz, 75 g",
+        "tileHeadlineLong": "Kichererbsen Chips mit Meersalz, 75 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4566,
+        "ratingCount": 311
+      }
+    }
+  },
+  {
+    "gtin": 4260654785746,
+    "dan": 1598917,
+    "brandName": "KoRo",
+    "title": "Linsenchips mit Meersalz, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: KoRo; Produktname: Linsenchips mit Meersalz, 100 g; Preis: 2,45 €; Grundpreis: 0,1 kg (24,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "KoRo"
+      },
+      "dan": 1598917,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260654785746,
+      "images": [
+        {
+          "alt": "Linsenchips mit Meersalz KoRo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759266923/assets/pas/images/73c0d529-7801-4a5c-baed-cde3252ec9f8/koro-linsenchips-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (22,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (24,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 39,
+        "ratingValue": 4.359
+      },
+      "self": "/p/d/1598917/koro-linsenchips-mit-meersalz",
+      "title": {
+        "tileHeadline": "Linsenchips mit Meersalz, 100 g",
+        "tileHeadlineLong": "Linsenchips mit Meersalz, 100 g"
+      },
+      "trackingData": {
+        "brand": "KoRo",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.359,
+        "ratingCount": 39
+      }
+    }
+  },
+  {
+    "gtin": 8008698005491,
+    "dan": 1175800,
+    "brandName": "Schär",
+    "title": "Cookies, Choco Chip, glutenfrei, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Cookies, Choco Chip, glutenfrei, 200 g; Preis: 2,45 €; Grundpreis: 0,2 kg (12,25 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1175800,
+      "gtin": 8008698005491,
+      "images": [
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517726/assets/pas/images/88c6885f-b506-4208-ac24-6a8376ce3a9d/schaer-cookies-choco-chip-glutenfrei"
+        },
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759785379/assets/pas/images/e1142d47-bf88-437f-aac7-b55613752046/schaer-cookies-choco-chip-glutenfrei"
+        },
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759785359/assets/pas/images/9fdf8820-edeb-48e4-985e-549f0df984cd/schaer-cookies-choco-chip-glutenfrei"
+        },
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747518395/assets/pas/images/8447b7dd-a3ec-4b38-a63c-6215231cada0/schaer-cookies-choco-chip-glutenfrei"
+        },
+        {
+          "alt": "Cookies, Choco Chip, glutenfrei Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748038937/assets/pas/images/d1db4865-be90-4b68-b86f-bb65514a03d2/schaer-cookies-choco-chip-glutenfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (11,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (12,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.5222
+      },
+      "self": "/p/d/1175800/schaer-cookies-choco-chip-glutenfrei",
+      "title": {
+        "tileHeadline": "Cookies, Choco Chip, glutenfrei, 200 g",
+        "tileHeadlineLong": "Cookies, Choco Chip, glutenfrei, 200 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5222,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 687456295459,
+    "dan": 3120714,
+    "brandName": "Made Good",
+    "title": "Organic Granola Bites, Chocolate Chip (5 Stück), 120 g",
+    "tileData": {
+      "a11yLabel": "Marke: Made Good; Produktname: Organic Granola Bites, Chocolate Chip (5 Stück), 120 g; Preis: 3,15 €; Grundpreis: 0,12 kg (26,25 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "Made Good"
+      },
+      "dan": 3120714,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 687456295459,
+      "images": [
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775604541/assets/pas/images/1f0ed263-8d6e-4add-b4a1-6fe236a57652/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774524383/assets/pas/images/fe5b6364-bedb-41f3-b0e7-19f7a62d1e9d/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688969/assets/pas/images/099cd35f-47fa-4b17-9f0a-73a1d00a5223/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688996/assets/pas/images/33ef34a8-99f1-4466-8c46-6aefaea9be75/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689015/assets/pas/images/87098912-fd71-447d-b17a-1860505345f8/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689054/assets/pas/images/c8aecf75-59f8-4b8e-a0a5-f161008aef6e/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775689087/assets/pas/images/ca56b126-4f3c-448d-b9f0-885dda7ae3f4/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774524338/assets/pas/images/d16036a2-08c5-4f81-89c1-4c8c538f2612/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774524371/assets/pas/images/16675ed3-3f64-4828-bcc8-9cc172e93a9e/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776729753/assets/pas/images/509abf5b-71e7-48d4-a793-2c53fc722cbc/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        },
+        {
+          "alt": "Organic Granola Bites, Chocolate Chip (5 Stück) Made Good",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774524404/assets/pas/images/5d6481c9-0108-4aa2-88d8-f5d46c41ae07/made-good-organic-granola-bites-chocolate-chip-5-stueck"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (24,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 kg (26,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/3120714/made-good-organic-granola-bites-chocolate-chip-5-stueck",
+      "title": {
+        "tileHeadline": "Organic Granola Bites, Chocolate Chip (5 Stück), 120 g",
+        "tileHeadlineLong": "Organic Granola Bites, Chocolate Chip (5 Stück), 120 g"
+      },
+      "trackingData": {
+        "brand": "Made Good",
+        "categories": [
+          "Müsliriegel & Fruchtriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 6
+      }
+    }
+  },
+  {
+    "gtin": 4262367680325,
+    "dan": 2481840,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren, 16 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren, 16 g; Preis: 1,95 €; Grundpreis: 0,016 kg (121,88 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 2481840,
+      "gtin": 4262367680325,
+      "images": [
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495218/assets/pas/images/305adb18-398a-442e-b436-fb0436f9096b/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495156/assets/pas/images/57ffd0ba-2741-48d9-bf21-e960b373ce6b/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495104/assets/pas/images/ff0879d5-2bf3-4544-b66f-5c986dcd0700/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495219/assets/pas/images/c4fdaf2b-c07b-4312-9cdf-fdda6f94d65a/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495226/assets/pas/images/8dbbc3f6-23ce-4a9d-a924-f55605cf4437/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755899427/assets/pas/images/8b2cfa1c-b8b3-4312-9143-f2aaca2f50ec/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495104/assets/pas/images/4a08cef2-0e20-4069-b497-1759f1ee1689/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495159/assets/pas/images/0051a223-a4cf-46f3-9fb5-bd7c2e32e56f/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494847/assets/pas/images/12eadfe4-1340-475c-b32f-d5e2eff18285/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495103/assets/pas/images/d4a7706a-52b3-4115-ad88-369a3e7879fc/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Smoothie Chips Exotik mit Joghurt ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495155/assets/pas/images/3f9ebd08-0dba-409f-852f-2886c9160963/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,016 kg (113,91 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,016 kg (121,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.8551
+      },
+      "self": "/p/d/2481840/freche-freunde-kindersnack-smoothie-chips-exotik-mit-joghurt-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Smoothie Chips Exotik mit Joghurt ab..., 16 g",
+        "tileHeadlineLong": "Kindersnack Smoothie Chips Exotik mit Joghurt ab..., 16 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8551,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4260618523186,
+    "dan": 1497406,
+    "brandName": "Freche Freunde",
+    "title": "Kindersnack Fruchtchips Roter Beerenmix, ab 3 Jahren, 10 g",
+    "tileData": {
+      "a11yLabel": "Marke: Freche Freunde; Produktname: Kindersnack Fruchtchips Roter Beerenmix, ab 3 Jahren, 10 g; Preis: 1,95 €; Grundpreis: 0,01 kg (195,00 € je 1 kg)",
+      "brand": {
+        "name": "Freche Freunde"
+      },
+      "dan": 1497406,
+      "gtin": 4260618523186,
+      "images": [
+        {
+          "alt": "Kindersnack Fruchtchips Roter Beerenmix, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782252726/assets/pas/images/1c73eb85-0af4-4ec4-92da-4c3621abc853/freche-freunde-kindersnack-fruchtchips-roter-beerenmix-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Roter Beerenmix, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782252713/assets/pas/images/1cac40d2-920c-4566-9b08-446e0f4593f2/freche-freunde-kindersnack-fruchtchips-roter-beerenmix-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Roter Beerenmix, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755118093/assets/pas/images/e47e667a-5270-4788-8184-373dd2ada470/freche-freunde-kindersnack-fruchtchips-roter-beerenmix-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Roter Beerenmix, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755118084/assets/pas/images/6c23a55d-5274-469d-8bc5-7fb7a1a06782/freche-freunde-kindersnack-fruchtchips-roter-beerenmix-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack Fruchtchips Roter Beerenmix, ab 3 Jahren Freche Freunde",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755118078/assets/pas/images/bb3ae50c-b775-45bb-b7ab-e101fb85a530/freche-freunde-kindersnack-fruchtchips-roter-beerenmix-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,01 kg (182,24 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,01 kg (195,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.6543
+      },
+      "self": "/p/d/1497406/freche-freunde-kindersnack-fruchtchips-roter-beerenmix-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Fruchtchips Roter Beerenmix, ab 3..., 10 g",
+        "tileHeadlineLong": "Kindersnack Fruchtchips Roter Beerenmix, ab 3..., 10 g"
+      },
+      "trackingData": {
+        "brand": "Freche Freunde",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6543,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 722252387479,
+    "dan": 1539180,
+    "brandName": "Clif Bar",
+    "title": "Energieriegel, Chocolate Chip, 68 g",
+    "tileData": {
+      "a11yLabel": "Marke: Clif Bar; Produktname: Energieriegel, Chocolate Chip, 68 g; Preis: 2,15 €; Grundpreis: 0,068 kg (31,62 € je 1 kg)",
+      "brand": {
+        "name": "Clif Bar"
+      },
+      "dan": 1539180,
+      "gtin": 722252387479,
+      "images": [
+        {
+          "alt": "Energieriegel, Chocolate Chip Clif Bar",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747508876/assets/pas/images/41c1ccff-047c-4eeb-9718-a5ace7aaa1f0/clif-bar-energieriegel-chocolate-chip"
+        },
+        {
+          "alt": "Energieriegel, Chocolate Chip Clif Bar",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747509101/assets/pas/images/5a16458f-cfdc-4529-aa32-e8950cf8d4a0/clif-bar-energieriegel-chocolate-chip"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,01 €"
+          }
+        },
+        "tileInfos": [
+          "0,068 kg (29,55 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,068 kg (31,62 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.5625
+      },
+      "self": "/p/d/1539180/clif-bar-energieriegel-chocolate-chip",
+      "title": {
+        "tileHeadline": "Energieriegel, Chocolate Chip, 68 g",
+        "tileHeadlineLong": "Energieriegel, Chocolate Chip, 68 g"
+      },
+      "trackingData": {
+        "brand": "Clif Bar",
+        "categories": [
+          "Energie-Produkte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5625,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 4260133237261,
+    "dan": 3063580,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Hokuspokus-Mix mit Smoothie Chips & Erdbeeren, ab 3 Jahren, 12 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Hokuspokus-Mix mit Smoothie Chips & Erdbeeren, ab 3 Jahren, 12 g; Preis: 1,95 €; Grundpreis: 0,012 kg (162,50 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 3063580,
+      "gtin": 4260133237261,
+      "images": [
+        {
+          "alt": "Kindersnack Hokuspokus-Mix mit Smoothie Chips & Erdbeeren, ab 3 Jahren  FruchtBar",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760737618/assets/pas/images/b6d7383e-d54c-40fe-9256-0412f59be125/fruchtbar-kindersnack-hokuspokus-mix-mit-smoothie-chips-und-erdbeeren-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,012 kg (151,87 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,012 kg (162,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 27,
+        "ratingValue": 4.3333
+      },
+      "self": "/p/d/3063580/fruchtbar-kindersnack-hokuspokus-mix-mit-smoothie-chips-und-erdbeeren-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Hokuspokus-Mix mit Smoothie Chips &..., 12 g",
+        "tileHeadlineLong": "Kindersnack Hokuspokus-Mix mit Smoothie Chips &..., 12 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3333,
+        "ratingCount": 27
+      }
+    }
+  },
+  {
+    "gtin": 4260229234587,
+    "dan": 3109135,
+    "brandName": "foodloose",
+    "title": "Kindersnack SpongeBob Fruchtchips Ananas ab 3 Jahren, 12 g",
+    "tileData": {
+      "a11yLabel": "Marke: foodloose; Produktname: Kindersnack SpongeBob Fruchtchips Ananas ab 3 Jahren, 12 g; Preis: 1,95 €; Grundpreis: 0,012 kg (162,50 € je 1 kg)",
+      "brand": {
+        "name": "foodloose"
+      },
+      "dan": 3109135,
+      "gtin": 4260229234587,
+      "images": [
+        {
+          "alt": "Kindersnack SpongeBob Fruchtchips Ananas ab 3 Jahren foodloose",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762251223/assets/pas/images/6cc652be-b3fb-4057-b004-24b5a0aae6e9/foodloose-kindersnack-spongebob-fruchtchips-ananas-ab-3-jahren"
+        },
+        {
+          "alt": "Kindersnack SpongeBob Fruchtchips Ananas ab 3 Jahren foodloose",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762251208/assets/pas/images/4ed8aad1-2f94-4e58-a5f4-365c85237abb/foodloose-kindersnack-spongebob-fruchtchips-ananas-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,012 kg (151,87 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,012 kg (162,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 34,
+        "ratingValue": 2.7647
+      },
+      "self": "/p/d/3109135/foodloose-kindersnack-spongebob-fruchtchips-ananas-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack SpongeBob Fruchtchips Ananas ab 3..., 12 g",
+        "tileHeadlineLong": "Kindersnack SpongeBob Fruchtchips Ananas ab 3..., 12 g"
+      },
+      "trackingData": {
+        "brand": "foodloose",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.7647,
+        "ratingCount": 34
+      }
+    }
+  },
+  {
+    "gtin": 4070765016277,
+    "dan": 3115610,
+    "brandName": "dmBio",
+    "title": "Kokoschips geröstet, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kokoschips geröstet, 100 g; Preis: 1,25 €; Grundpreis: 0,1 kg (12,50 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115610,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016277,
+      "images": [
+        {
+          "alt": "Kokoschips geröstet dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781223538/assets/pas/images/f0050e5a-2c87-4d45-a722-8b2f25c6244e/dmbio-kokoschips-geroestet"
+        },
+        {
+          "alt": "Kokoschips geröstet dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781223533/assets/pas/images/b91f8052-fbc5-4b66-9ee2-317da426924e/dmbio-kokoschips-geroestet"
+        },
+        {
+          "alt": "Kokoschips geröstet dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781302263/assets/pas/images/5365489b-770c-40a9-906e-381540730574/dmbio-kokoschips-geroestet"
+        },
+        {
+          "alt": "Kokoschips geröstet dmBio",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781223542/assets/pas/images/6d2e14b8-135e-4ef9-a577-3a302971a82a/dmbio-kokoschips-geroestet"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (11,68 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (12,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 16,
+        "ratingValue": 4.875
+      },
+      "self": "/p/d/3115610/dmbio-kokoschips-geroestet",
+      "title": {
+        "tileHeadline": "Kokoschips geröstet, 100 g",
+        "tileHeadlineLong": "Kokoschips geröstet, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Trockenfrüchte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.875,
+        "ratingCount": 16
+      }
+    }
+  },
+  {
+    "gtin": 4066447225662,
+    "dan": 1675055,
+    "brandName": "dmBio",
+    "title": "Tortilla Chips mit Meersalz, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Tortilla Chips mit Meersalz, 125 g; Preis: 1,25 €; Grundpreis: 0,125 kg (10,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1675055,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447225662,
+      "images": [
+        {
+          "alt": "Tortilla Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478285/assets/pas/images/f9521326-9357-415c-85ea-85f001130e8f/dmbio-tortilla-chips-mit-meersalz"
+        },
+        {
+          "alt": "Tortilla Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478503/assets/pas/images/f2f9f1cf-b62e-4ff3-b930-69a483c95472/dmbio-tortilla-chips-mit-meersalz"
+        },
+        {
+          "alt": "Tortilla Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782256168/assets/pas/images/fd65e8a4-479c-4d90-9ffe-f1c979730118/dmbio-tortilla-chips-mit-meersalz"
+        },
+        {
+          "alt": "Tortilla Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478503/assets/pas/images/e345bff3-7c0b-4b43-92c5-608db3025fd1/dmbio-tortilla-chips-mit-meersalz"
+        },
+        {
+          "alt": "Tortilla Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478286/assets/pas/images/95f954f5-d518-4a13-8e05-f4cee03cbdf7/dmbio-tortilla-chips-mit-meersalz"
+        },
+        {
+          "alt": "Tortilla Chips mit Meersalz dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478443/assets/pas/images/301fa664-2cfa-44a0-882d-2a39c203cf43/dmbio-tortilla-chips-mit-meersalz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (9,35 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (10,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 161,
+        "ratingValue": 4.4907
+      },
+      "self": "/p/d/1675055/dmbio-tortilla-chips-mit-meersalz",
+      "title": {
+        "tileHeadline": "Tortilla Chips mit Meersalz, 125 g",
+        "tileHeadlineLong": "Tortilla Chips mit Meersalz, 125 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4907,
+        "ratingCount": 161
+      }
+    }
+  },
+  {
+    "gtin": 4260350925651,
+    "dan": 1690128,
+    "brandName": "KRÜMEL",
+    "title": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahren, 10 g",
+    "tileData": {
+      "a11yLabel": "Marke: KRÜMEL; Produktname: Kindersnack Fruchtchips Erdbeere, ab 3 Jahren, 10 g; Preis: 1,85 €; Grundpreis: 0,01 kg (185,00 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "KRÜMEL"
+      },
+      "dan": 1690128,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4260350925651,
+      "images": [
+        {
+          "alt": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahren KRÜMEL",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755079069/assets/pas/images/051b3959-193d-4dea-9190-49dcbb34dd9c/kruemel-kindersnack-fruchtchips-erdbeere-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,01 kg (172,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,01 kg (185,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.6471
+      },
+      "self": "/p/d/1690128/kruemel-kindersnack-fruchtchips-erdbeere-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahren, 10 g",
+        "tileHeadlineLong": "Kindersnack Fruchtchips Erdbeere, ab 3 Jahren, 10 g"
+      },
+      "trackingData": {
+        "brand": "KRÜMEL",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6471,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4066447615869,
+    "dan": 1468992,
+    "brandName": "dmBio",
+    "title": "Kokoschips, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kokoschips, 100 g; Preis: 1,05 €; Grundpreis: 0,1 kg (10,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1468992,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447615869,
+      "images": [
+        {
+          "alt": "Kokoschips dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483937/assets/pas/images/24e02e2c-c2d4-413d-93ad-e187c7d46cc3/dmbio-kokoschips"
+        },
+        {
+          "alt": "Kokoschips dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484205/assets/pas/images/594c8844-c493-409d-94ef-694fc53f4c15/dmbio-kokoschips"
+        },
+        {
+          "alt": "Kokoschips dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484205/assets/pas/images/19c722da-89d7-4bed-9d84-ac61e27181da/dmbio-kokoschips"
+        },
+        {
+          "alt": "Kokoschips dmBio",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484205/assets/pas/images/2ddc771a-4550-4cc6-aab7-8cf7d7934a6b/dmbio-kokoschips"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,98 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (9,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (10,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 110,
+        "ratingValue": 4.6727
+      },
+      "self": "/p/d/1468992/dmbio-kokoschips",
+      "title": {
+        "tileHeadline": "Kokoschips, 100 g",
+        "tileHeadlineLong": "Kokoschips, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Trockenfrüchte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.05
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6727,
+        "ratingCount": 110
+      }
+    }
+  },
+  {
+    "gtin": 4067796195408,
+    "dan": 1672774,
+    "brandName": "dmBio",
+    "title": "Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips, 80 g; Preis: 1,75 €; Grundpreis: 0,08 kg (21,88 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1672774,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796195408,
+      "images": [
+        {
+          "alt": "Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips dmBio",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751269299/assets/pas/images/08717a26-591d-4e9f-9fe9-330313f2801e/dmbio-schokolade-sierra-leone-feine-bitter-mit-kokoschips"
+        },
+        {
+          "alt": "Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751269292/assets/pas/images/628ef0e5-5917-4d4e-a3dc-16a07cda693d/dmbio-schokolade-sierra-leone-feine-bitter-mit-kokoschips"
+        },
+        {
+          "alt": "Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751269287/assets/pas/images/d7d180b9-5acf-40c8-a4d0-818188241921/dmbio-schokolade-sierra-leone-feine-bitter-mit-kokoschips"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (20,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (21,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.5309
+      },
+      "self": "/p/d/1672774/dmbio-schokolade-sierra-leone-feine-bitter-mit-kokoschips",
+      "title": {
+        "tileHeadline": "Schokolade, \"Sierra Leone\" Feine Bitter mit..., 80 g",
+        "tileHeadlineLong": "Schokolade, \"Sierra Leone\" Feine Bitter mit..., 80 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5309,
+        "ratingCount": 81
+      }
+    }
+  }
+]

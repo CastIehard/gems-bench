@@ -1,0 +1,2815 @@
+[
+  {
+    "gtin": 4066447240320,
+    "dan": 1639872,
+    "brandName": "Balea med",
+    "title": "Duschgel Ultra Sensitive, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea med; Produktname: Duschgel Ultra Sensitive, 250 ml; Preis: 1,95 €; Grundpreis: 0,25 l (7,80 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea med"
+      },
+      "dan": 1639872,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447240320,
+      "images": [
+        {
+          "alt": "Duschgel Ultra Sensitive Balea med",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478808/assets/pas/images/175d8007-6a2e-4f68-bdbf-6e0a9e136a44/balea-med-duschgel-ultra-sensitive"
+        },
+        {
+          "alt": "Duschgel Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478809/assets/pas/images/ad4e5e66-662a-489f-af60-c0696f086a86/balea-med-duschgel-ultra-sensitive"
+        },
+        {
+          "alt": "Duschgel Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478484/assets/pas/images/d4ec3677-2f47-4361-be9b-301635fdf5a5/balea-med-duschgel-ultra-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (6,55 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 160,
+        "ratingValue": 4.1563
+      },
+      "self": "/p/d/1639872/balea-med-duschgel-ultra-sensitive",
+      "title": {
+        "tileHeadline": "Duschgel Ultra Sensitive, 250 ml",
+        "tileHeadlineLong": "Duschgel Ultra Sensitive, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Balea med",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1563,
+        "ratingCount": 160
+      }
+    }
+  },
+  {
+    "gtin": 4008890006436,
+    "dan": 1477500,
+    "brandName": "Salthouse",
+    "title": "Duschgel Totes Meer Therapie, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Salthouse; Produktname: Duschgel Totes Meer Therapie, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Salthouse"
+      },
+      "dan": 1477500,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4008890006436,
+      "images": [
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765836438/assets/pas/images/415695d0-c625-45ec-be0c-8c79ae37d1cc/salthouse-duschgel-totes-meer-therapie"
+        },
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765836443/assets/pas/images/f64a905b-9030-4bac-ac6a-ee068b029282/salthouse-duschgel-totes-meer-therapie"
+        },
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766095519/assets/pas/images/24a5cb08-c4f5-4d59-adba-698593c0943f/salthouse-duschgel-totes-meer-therapie"
+        },
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766095530/assets/pas/images/7f977acb-c7bd-47ac-97ea-91f41d24dde7/salthouse-duschgel-totes-meer-therapie"
+        },
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766095511/assets/pas/images/ec4458f8-5adc-43a9-82b3-7932e1d53d0d/salthouse-duschgel-totes-meer-therapie"
+        },
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766095499/assets/pas/images/a8b33819-f851-4a40-b081-7d6837230db0/salthouse-duschgel-totes-meer-therapie"
+        },
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436214/assets/pas/images/71cb63d0-fadd-4c62-a9d9-ea47b4d901a6/salthouse-duschgel-totes-meer-therapie"
+        },
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436198/assets/pas/images/45066219-677c-4179-83de-42f0765edd58/salthouse-duschgel-totes-meer-therapie"
+        },
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766095491/assets/pas/images/a7c66c09-44d7-4158-b3c3-dc893a856be0/salthouse-duschgel-totes-meer-therapie"
+        },
+        {
+          "alt": "Duschgel Totes Meer Therapie Salthouse",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436184/assets/pas/images/c2bc749e-a00d-4d10-8213-655e0262816e/salthouse-duschgel-totes-meer-therapie"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 118,
+        "ratingValue": 4.7458
+      },
+      "self": "/p/d/1477500/salthouse-duschgel-totes-meer-therapie",
+      "title": {
+        "tileHeadline": "Duschgel Totes Meer Therapie, 250 ml",
+        "tileHeadlineLong": "Duschgel Totes Meer Therapie, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Salthouse",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7458,
+        "ratingCount": 118
+      }
+    }
+  },
+  {
+    "gtin": 4103040047977,
+    "dan": 1647764,
+    "brandName": "sebamed",
+    "title": "Duschgel Meersalz, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: Duschgel Meersalz, 400 ml; Preis: 4,95 €; Grundpreis: 0,4 l (12,38 € je 1 l)",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1647764,
+      "gtin": 4103040047977,
+      "images": [
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294935/assets/pas/images/aec8fd22-7f18-4985-9526-2c7e8ac07c08/sebamed-duschgel-meersalz"
+        },
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294962/assets/pas/images/8d5e411d-ec8b-4b0c-bda0-dcde330e9d66/sebamed-duschgel-meersalz"
+        },
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294949/assets/pas/images/73b1dd1c-2b1a-4b9d-a7ff-996e91bd9ce7/sebamed-duschgel-meersalz"
+        },
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294922/assets/pas/images/fa9c9b92-cc8c-4123-a2e9-9ff21aa6ec41/sebamed-duschgel-meersalz"
+        },
+        {
+          "alt": "Duschgel Meersalz sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294977/assets/pas/images/bea68462-4773-4f70-91e2-846ffdc3f5f8/sebamed-duschgel-meersalz"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (10,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (12,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.7246
+      },
+      "self": "/p/d/1647764/sebamed-duschgel-meersalz",
+      "title": {
+        "tileHeadline": "Duschgel Meersalz, 400 ml",
+        "tileHeadlineLong": "Duschgel Meersalz, 400 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7246,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 8006540838945,
+    "dan": 1688630,
+    "brandName": "Old Spice",
+    "title": "Duschgel Captain 3in1, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Old Spice; Produktname: Duschgel Captain 3in1, 250 ml; Preis: 2,35 €; Grundpreis: 0,25 l (9,40 € je 1 l)",
+      "brand": {
+        "name": "Old Spice"
+      },
+      "dan": 1688630,
+      "gtin": 8006540838945,
+      "images": [
+        {
+          "alt": "Duschgel Captain 3in1 Old Spice",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547793/assets/pas/images/89e97bb9-e64f-468f-bda6-f7b5a202eb0f/old-spice-duschgel-captain-3in1"
+        },
+        {
+          "alt": "Duschgel Captain 3in1 Old Spice",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747574673/assets/pas/images/5776efb2-2aa7-4b64-9f5d-060f576cc338/old-spice-duschgel-captain-3in1"
+        },
+        {
+          "alt": "Duschgel Captain 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517394/assets/pas/images/295ea8ed-8c70-4c8e-a6b5-75ca5ace23ed/old-spice-duschgel-captain-3in1"
+        },
+        {
+          "alt": "Duschgel Captain 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747516895/assets/pas/images/963e2e8d-5da1-4c7a-935a-0488c0daa2d1/old-spice-duschgel-captain-3in1"
+        },
+        {
+          "alt": "Duschgel Captain 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747516895/assets/pas/images/d4c90c21-7d6d-46b8-9676-34c58c50544d/old-spice-duschgel-captain-3in1"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,90 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,40 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 203,
+        "ratingValue": 4.7389
+      },
+      "self": "/p/d/1688630/old-spice-duschgel-captain-3in1",
+      "title": {
+        "tileHeadline": "Duschgel Captain 3in1, 250 ml",
+        "tileHeadlineLong": "Duschgel Captain 3in1, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Old Spice",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7389,
+        "ratingCount": 203
+      }
+    }
+  },
+  {
+    "gtin": 4066447591644,
+    "dan": 1376376,
+    "brandName": "Balea med",
+    "title": "Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea med; Produktname: Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml; Preis: 1,75 €; Grundpreis: 0,3 l (5,83 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea med"
+      },
+      "dan": 1376376,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447591644,
+      "images": [
+        {
+          "alt": "Duschgel 2in1 Dusche + Shampoo 5 % Urea  Balea med",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483894/assets/pas/images/93b97ebf-256f-4dee-a777-7bcb8599d104/balea-med-duschgel-2in1-dusche-shampoo-5-prozent-urea"
+        },
+        {
+          "alt": "Duschgel 2in1 Dusche + Shampoo 5 % Urea  Balea med",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483893/assets/pas/images/d930c476-c24e-467e-b7e1-6b044015c2c1/balea-med-duschgel-2in1-dusche-shampoo-5-prozent-urea"
+        },
+        {
+          "alt": "Duschgel 2in1 Dusche + Shampoo 5 % Urea  Balea med",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483643/assets/pas/images/8949b2a0-ff3c-49d8-b780-a01af2734c0b/balea-med-duschgel-2in1-dusche-shampoo-5-prozent-urea"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,90 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (5,83 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 209,
+        "ratingValue": 4.5981
+      },
+      "self": "/p/d/1376376/balea-med-duschgel-2in1-dusche-shampoo-5-prozent-urea",
+      "title": {
+        "tileHeadline": "Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml",
+        "tileHeadlineLong": "Duschgel 2in1 Dusche + Shampoo 5 % Urea, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Balea med",
+        "categories": [
+          "Medizinische Pflege",
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5981,
+        "ratingCount": 209
+      }
+    }
+  },
+  {
+    "gtin": 4067796069402,
+    "dan": 1674836,
+    "brandName": "SEINZ.",
+    "title": "Duschgel erfrischend, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SEINZ.; Produktname: Duschgel erfrischend, 300 ml; Preis: 2,55 €; Grundpreis: 0,3 l (8,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "SEINZ."
+      },
+      "dan": 1674836,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796069402,
+      "images": [
+        {
+          "alt": "Duschgel erfrischend SEINZ.",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755015871/assets/pas/images/d4bfba7c-a89e-4742-a077-b4f0ae796e93/seinz-duschgel-erfrischend"
+        },
+        {
+          "alt": "Duschgel erfrischend SEINZ.",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755015870/assets/pas/images/60d097db-442b-415d-b475-41e2ce0b29ed/seinz-duschgel-erfrischend"
+        },
+        {
+          "alt": "Duschgel erfrischend SEINZ.",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487474/assets/pas/images/34502d4d-6035-44d6-a7c8-d9555ed7d3ad/seinz-duschgel-erfrischend"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,14 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (7,14 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (8,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 221,
+        "ratingValue": 4.5113
+      },
+      "self": "/p/d/1674836/seinz-duschgel-erfrischend",
+      "title": {
+        "tileHeadline": "Duschgel erfrischend, 300 ml",
+        "tileHeadlineLong": "Duschgel erfrischend, 300 ml"
+      },
+      "trackingData": {
+        "brand": "SEINZ.",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5113,
+        "ratingCount": 221
+      }
+    }
+  },
+  {
+    "gtin": 4066447725254,
+    "dan": 1713330,
+    "brandName": "Balea med",
+    "title": "Duschgel Totes Meer Ultra Sensitive, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea med; Produktname: Duschgel Totes Meer Ultra Sensitive, 250 ml; Preis: 1,75 €; Grundpreis: 0,25 l (7,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea med"
+      },
+      "dan": 1713330,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447725254,
+      "images": [
+        {
+          "alt": "Duschgel Totes Meer Ultra Sensitive Balea med",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774593183/assets/pas/images/ccf0a703-cbf4-40be-b2ad-a613f2fc1378/balea-med-duschgel-totes-meer-ultra-sensitive"
+        },
+        {
+          "alt": "Duschgel Totes Meer Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774593178/assets/pas/images/af7623ad-c839-4a35-aa5e-942b2490af31/balea-med-duschgel-totes-meer-ultra-sensitive"
+        },
+        {
+          "alt": "Duschgel Totes Meer Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485544/assets/pas/images/8bf2bc45-2faf-4f1b-ba69-76a4282e6779/balea-med-duschgel-totes-meer-ultra-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (5,88 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 129,
+        "ratingValue": 4.6279
+      },
+      "self": "/p/d/1713330/balea-med-duschgel-totes-meer-ultra-sensitive",
+      "title": {
+        "tileHeadline": "Duschgel Totes Meer Ultra Sensitive, 250 ml",
+        "tileHeadlineLong": "Duschgel Totes Meer Ultra Sensitive, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Balea med",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6279,
+        "ratingCount": 129
+      }
+    }
+  },
+  {
+    "gtin": 4006000143996,
+    "dan": 1576687,
+    "brandName": "NIVEA",
+    "title": "Duschgel summer happiness, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Duschgel summer happiness, 250 ml; Preis: 2,15 €; Grundpreis: 0,25 l (8,60 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1576687,
+      "gtin": 4006000143996,
+      "images": [
+        {
+          "alt": "Duschgel summer happiness NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952443/assets/pas/images/cd121ec6-27c6-410b-b269-198426bb14db/nivea-duschgel-summer-happiness"
+        },
+        {
+          "alt": "Duschgel summer happiness NIVEA",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754952451/assets/pas/images/f84d624d-cef6-4b8b-a0ce-cdc86f85dedc/nivea-duschgel-summer-happiness"
+        },
+        {
+          "alt": "Duschgel summer happiness NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747554526/assets/pas/images/8223d21d-6169-421c-9476-bff2c65f99a6/nivea-duschgel-summer-happiness"
+        },
+        {
+          "alt": "Duschgel summer happiness NIVEA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747554516/assets/pas/images/9629a3fa-496e-42c3-8352-26f10274bfb8/nivea-duschgel-summer-happiness"
+        },
+        {
+          "alt": "Duschgel summer happiness NIVEA",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747554510/assets/pas/images/909d843d-271a-4f11-b7ba-fb3d55e3b654/nivea-duschgel-summer-happiness"
+        },
+        {
+          "alt": "Duschgel summer happiness NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747554521/assets/pas/images/93c9a615-a5ae-494d-9491-37aaed87c96c/nivea-duschgel-summer-happiness"
+        },
+        {
+          "alt": "Duschgel summer happiness NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759442059/assets/pas/images/bf3d5714-4d6b-445e-b188-658e752934f7/nivea-duschgel-summer-happiness"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,81 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (8,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 593,
+        "ratingValue": 4.796
+      },
+      "self": "/p/d/1576687/nivea-duschgel-summer-happiness",
+      "title": {
+        "tileHeadline": "Duschgel summer happiness, 250 ml",
+        "tileHeadlineLong": "Duschgel summer happiness, 250 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.796,
+        "ratingCount": 593
+      }
+    }
+  },
+  {
+    "gtin": 8720181871375,
+    "dan": 3117446,
+    "brandName": "Dove",
+    "title": "Duschgel Bridgerton Raspberry Rendezvous, 225 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Dove; Produktname: Duschgel Bridgerton Raspberry Rendezvous, 225 ml; Preis: 2,95 €; Grundpreis: 0,225 l (13,11 € je 1 l)",
+      "brand": {
+        "name": "Dove"
+      },
+      "dan": 3117446,
+      "gtin": 8720181871375,
+      "images": [
+        {
+          "alt": "Duschgel Bridgerton Raspberry Rendezvous Dove",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765882039/assets/pas/images/9b29f7c1-d3a8-4adf-91c7-2c960b319aa5/dove-duschgel-bridgerton-raspberry-rendezvous"
+        },
+        {
+          "alt": "Duschgel Bridgerton Raspberry Rendezvous Dove",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765882046/assets/pas/images/274bfffb-3801-4f7e-abc5-88cc8c604dfa/dove-duschgel-bridgerton-raspberry-rendezvous"
+        },
+        {
+          "alt": "Duschgel Bridgerton Raspberry Rendezvous Dove",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765882052/assets/pas/images/8339ee8c-e3a5-47d8-9edc-18342ff60f29/dove-duschgel-bridgerton-raspberry-rendezvous"
+        },
+        {
+          "alt": "Duschgel Bridgerton Raspberry Rendezvous Dove",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769465216/assets/pas/images/3ae941c9-4853-4707-b6f0-7d00e0dbc2ce/dove-duschgel-bridgerton-raspberry-rendezvous"
+        },
+        {
+          "alt": "Duschgel Bridgerton Raspberry Rendezvous Dove",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769465236/assets/pas/images/a2437019-f2ca-4054-a0ef-bd98c558cb92/dove-duschgel-bridgerton-raspberry-rendezvous"
+        },
+        {
+          "alt": "Duschgel Bridgerton Raspberry Rendezvous Dove",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769465263/assets/pas/images/2c01f576-db21-4dc2-843d-71546a70df55/dove-duschgel-bridgerton-raspberry-rendezvous"
+        },
+        {
+          "alt": "Duschgel Bridgerton Raspberry Rendezvous Dove",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769302411/assets/pas/images/2e54df96-7cd0-4db3-b6b3-1bc1d3c4d306/dove-duschgel-bridgerton-raspberry-rendezvous"
+        },
+        {
+          "alt": "Duschgel Bridgerton Raspberry Rendezvous Dove",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765881960/assets/pas/images/c59fcbe2-0960-4172-8d34-d56850412c96/dove-duschgel-bridgerton-raspberry-rendezvous"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 l (11,02 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 l (13,11 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.8493
+      },
+      "self": "/p/d/3117446/dove-duschgel-bridgerton-raspberry-rendezvous",
+      "title": {
+        "tileHeadline": "Duschgel Bridgerton Raspberry Rendezvous, 225 ml",
+        "tileHeadlineLong": "Duschgel Bridgerton Raspberry Rendezvous, 225 ml"
+      },
+      "trackingData": {
+        "brand": "Dove",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8493,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 4067796069426,
+    "dan": 1675007,
+    "brandName": "SEINZ.",
+    "title": "Duschgel tiefenreinigend, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SEINZ.; Produktname: Duschgel tiefenreinigend, 300 ml; Preis: 2,55 €; Grundpreis: 0,3 l (8,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "SEINZ."
+      },
+      "dan": 1675007,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796069426,
+      "images": [
+        {
+          "alt": "Duschgel tiefenreinigend SEINZ.",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487069/assets/pas/images/2e1b6efe-434b-4393-854a-596849b1c107/seinz-duschgel-tiefenreinigend"
+        },
+        {
+          "alt": "Duschgel tiefenreinigend SEINZ.",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486990/assets/pas/images/0a8b02d7-5117-40ae-bf25-d76caf951d54/seinz-duschgel-tiefenreinigend"
+        },
+        {
+          "alt": "Duschgel tiefenreinigend SEINZ.",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487245/assets/pas/images/f1ff47bd-4995-4062-8f09-b5b70d948070/seinz-duschgel-tiefenreinigend"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,14 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (7,14 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (8,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 217,
+        "ratingValue": 4.6083
+      },
+      "self": "/p/d/1675007/seinz-duschgel-tiefenreinigend",
+      "title": {
+        "tileHeadline": "Duschgel tiefenreinigend, 300 ml",
+        "tileHeadlineLong": "Duschgel tiefenreinigend, 300 ml"
+      },
+      "trackingData": {
+        "brand": "SEINZ.",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6083,
+        "ratingCount": 217
+      }
+    }
+  },
+  {
+    "gtin": 4045612010685,
+    "dan": 3050470,
+    "brandName": "CD",
+    "title": "Duschgel Wasserlilie, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: CD; Produktname: Duschgel Wasserlilie, 300 ml; Preis: 1,95 €; Grundpreis: 0,3 l (6,50 € je 1 l)",
+      "brand": {
+        "name": "CD"
+      },
+      "dan": 3050470,
+      "gtin": 4045612010685,
+      "images": [
+        {
+          "alt": "Duschgel Wasserlilie CD",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445170/assets/pas/images/c732b8e3-a8cf-4d99-b201-7c8f8cc53183/cd-duschgel-wasserlilie"
+        },
+        {
+          "alt": "Duschgel Wasserlilie CD",
+          "backgroundColor": "#F3F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445170/assets/pas/images/8989faa3-11f6-46cb-81cd-000023da83c2/cd-duschgel-wasserlilie"
+        },
+        {
+          "alt": "Duschgel Wasserlilie CD",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445440/assets/pas/images/f35de487-9c3f-408d-ad1f-5d9439639650/cd-duschgel-wasserlilie"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (5,46 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (6,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.8596
+      },
+      "self": "/p/d/3050470/cd-duschgel-wasserlilie",
+      "title": {
+        "tileHeadline": "Duschgel Wasserlilie, 300 ml",
+        "tileHeadlineLong": "Duschgel Wasserlilie, 300 ml"
+      },
+      "trackingData": {
+        "brand": "CD",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8596,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4006000218854,
+    "dan": 1567201,
+    "brandName": "NIVEA",
+    "title": "Duschgel Waterlily & Oil, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Duschgel Waterlily & Oil, 250 ml; Preis: 2,15 €; Grundpreis: 0,25 l (8,60 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1567201,
+      "gtin": 4006000218854,
+      "images": [
+        {
+          "alt": "Duschgel Waterlily & Oil NIVEA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770040914/assets/pas/images/1fa41478-9a71-4095-a40d-c6ebdc257728/nivea-duschgel-waterlily-und-oil"
+        },
+        {
+          "alt": "Duschgel Waterlily & Oil NIVEA",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770040921/assets/pas/images/3dbc693e-874b-44cb-ae06-5b096f47c81c/nivea-duschgel-waterlily-und-oil"
+        },
+        {
+          "alt": "Duschgel Waterlily & Oil NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922149/assets/pas/images/2a84fa3b-c10e-4a1a-b383-b6ab29f288b2/nivea-duschgel-waterlily-und-oil"
+        },
+        {
+          "alt": "Duschgel Waterlily & Oil NIVEA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922127/assets/pas/images/bcb690cd-a06f-49a4-993a-885f5d119ddc/nivea-duschgel-waterlily-und-oil"
+        },
+        {
+          "alt": "Duschgel Waterlily & Oil NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922117/assets/pas/images/aa76e29e-6a4d-48d9-b62e-47d24f89b2f0/nivea-duschgel-waterlily-und-oil"
+        },
+        {
+          "alt": "Duschgel Waterlily & Oil NIVEA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922106/assets/pas/images/e030988b-6a20-417d-a2c0-e5fe944d3058/nivea-duschgel-waterlily-und-oil"
+        },
+        {
+          "alt": "Duschgel Waterlily & Oil NIVEA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922135/assets/pas/images/e1c5bf16-745f-4ee3-b641-954abf364de9/nivea-duschgel-waterlily-und-oil"
+        },
+        {
+          "alt": "Duschgel Waterlily & Oil NIVEA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781922097/assets/pas/images/6a07d663-3975-428f-b8a1-4a301144158a/nivea-duschgel-waterlily-und-oil"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,81 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (8,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 762,
+        "ratingValue": 4.7178
+      },
+      "self": "/p/d/1567201/nivea-duschgel-waterlily-und-oil",
+      "title": {
+        "tileHeadline": "Duschgel Waterlily & Oil, 250 ml",
+        "tileHeadlineLong": "Duschgel Waterlily & Oil, 250 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7178,
+        "ratingCount": 762
+      }
+    }
+  },
+  {
+    "gtin": 4262500783791,
+    "dan": 3061105,
+    "brandName": "Jean&Len",
+    "title": "Duschgel Zitronengras Minze, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Duschgel Zitronengras Minze, 250 ml; Preis: 2,75 €; Grundpreis: 0,25 l (11,00 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 3061105,
+      "gtin": 4262500783791,
+      "images": [
+        {
+          "alt": "Duschgel Zitronengras Minze Jean&Len",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776170724/assets/pas/images/dcf31f1c-a3e7-485c-a770-78430aaf2496/jean-und-len-duschgel-zitronengras-minze"
+        },
+        {
+          "alt": "Duschgel Zitronengras Minze Jean&Len",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776170736/assets/pas/images/907ce41a-4391-4a58-ab50-b38a80b0d1ff/jean-und-len-duschgel-zitronengras-minze"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.3857
+      },
+      "self": "/p/d/3061105/jean-und-len-duschgel-zitronengras-minze",
+      "title": {
+        "tileHeadline": "Duschgel Zitronengras Minze, 250 ml",
+        "tileHeadlineLong": "Duschgel Zitronengras Minze, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3857,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 4262500783838,
+    "dan": 1409914,
+    "brandName": "Jean&Len",
+    "title": "Duschgel Mango Maracuja, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Duschgel Mango Maracuja, 250 ml; Preis: 2,75 €; Grundpreis: 0,25 l (11,00 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 1409914,
+      "gtin": 4262500783838,
+      "images": [
+        {
+          "alt": "Duschgel Mango Maracuja Jean&Len",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774309880/assets/pas/images/f9f33234-5d01-4d78-9b9c-18f203483546/jean-und-len-duschgel-mango-maracuja"
+        },
+        {
+          "alt": "Duschgel Mango Maracuja Jean&Len",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774309890/assets/pas/images/0e5d4803-b37c-47b7-b66c-f61a89198432/jean-und-len-duschgel-mango-maracuja"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 84,
+        "ratingValue": 4.6905
+      },
+      "self": "/p/d/1409914/jean-und-len-duschgel-mango-maracuja",
+      "title": {
+        "tileHeadline": "Duschgel Mango Maracuja, 250 ml",
+        "tileHeadlineLong": "Duschgel Mango Maracuja, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6905,
+        "ratingCount": 84
+      }
+    }
+  },
+  {
+    "gtin": 4103040048035,
+    "dan": 1250817,
+    "brandName": "sebamed",
+    "title": "Duschgel Sport 3in1, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: Duschgel Sport 3in1, 200 ml; Preis: 2,95 €; Grundpreis: 0,2 l (14,75 € je 1 l)",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1250817,
+      "gtin": 4103040048035,
+      "images": [
+        {
+          "alt": "Duschgel Sport 3in1 sebamed",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294901/assets/pas/images/4a708aab-6945-46c2-aa9c-910755e28384/sebamed-duschgel-sport-3in1"
+        },
+        {
+          "alt": "Duschgel Sport 3in1 sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294888/assets/pas/images/96effcad-d3e9-42ce-8c45-822eaca9a1f0/sebamed-duschgel-sport-3in1"
+        },
+        {
+          "alt": "Duschgel Sport 3in1 sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294914/assets/pas/images/61661413-ab18-4d4c-9633-b61f5dfff8a7/sebamed-duschgel-sport-3in1"
+        },
+        {
+          "alt": "Duschgel Sport 3in1 sebamed",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294873/assets/pas/images/3d3a3c6a-2416-47bb-b45d-e4db7ae1d8a5/sebamed-duschgel-sport-3in1"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (12,39 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (14,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 71,
+        "ratingValue": 4.7324
+      },
+      "self": "/p/d/1250817/sebamed-duschgel-sport-3in1",
+      "title": {
+        "tileHeadline": "Duschgel Sport 3in1, 200 ml",
+        "tileHeadlineLong": "Duschgel Sport 3in1, 200 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7324,
+        "ratingCount": 71
+      }
+    }
+  },
+  {
+    "gtin": 4103040047991,
+    "dan": 1126048,
+    "brandName": "sebamed",
+    "title": "Duschgel Wellness, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: Duschgel Wellness, 200 ml; Preis: 2,95 €; Grundpreis: 0,2 l (14,75 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1126048,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4103040047991,
+      "images": [
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295151/assets/pas/images/a3550660-f12b-41fc-87fa-6eb3e44a93da/sebamed-duschgel-wellness"
+        },
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295137/assets/pas/images/a5f19540-e651-483e-9f3d-a352584f8b30/sebamed-duschgel-wellness"
+        },
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295107/assets/pas/images/d964040f-e9c9-4481-8e64-2e1b38c110d2/sebamed-duschgel-wellness"
+        },
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295121/assets/pas/images/1a89d7b1-e21c-4f0a-a07e-871a027f1794/sebamed-duschgel-wellness"
+        },
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295094/assets/pas/images/d14f10d9-c01a-4ba6-bf7b-4cc2343cfdb6/sebamed-duschgel-wellness"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (12,39 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (14,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 107,
+        "ratingValue": 4.757
+      },
+      "self": "/p/d/1126048/sebamed-duschgel-wellness",
+      "title": {
+        "tileHeadline": "Duschgel Wellness, 200 ml",
+        "tileHeadlineLong": "Duschgel Wellness, 200 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.757,
+        "ratingCount": 107
+      }
+    }
+  },
+  {
+    "gtin": 4260307628048,
+    "dan": 3118697,
+    "brandName": "treaclemoon",
+    "title": "Duschgel taste the beach life, 500 ml",
+    "tileData": {
+      "a11yLabel": "Marke: treaclemoon; Produktname: Duschgel taste the beach life, 500 ml; Preis: 3,95 €; Grundpreis: 0,5 l (7,90 € je 1 l)",
+      "brand": {
+        "name": "treaclemoon"
+      },
+      "dan": 3118697,
+      "gtin": 4260307628048,
+      "images": [
+        {
+          "alt": "Duschgel taste the beach life treaclemoon",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766145917/assets/pas/images/3a0f8e58-1717-4607-b3af-ee39ee516a65/treaclemoon-duschgel-taste-the-beach-life"
+        },
+        {
+          "alt": "Duschgel taste the beach life treaclemoon",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766145928/assets/pas/images/aca19a41-aafd-4413-b3b2-a3ce504ced55/treaclemoon-duschgel-taste-the-beach-life"
+        },
+        {
+          "alt": "Duschgel taste the beach life treaclemoon",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776549712/assets/pas/images/91cb8765-6c34-4eba-9d75-55b00cdd09a5/treaclemoon-duschgel-taste-the-beach-life"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (6,64 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 l (7,90 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 37,
+        "ratingValue": 4.8649
+      },
+      "self": "/p/d/3118697/treaclemoon-duschgel-taste-the-beach-life",
+      "title": {
+        "tileHeadline": "Duschgel taste the beach life, 500 ml",
+        "tileHeadlineLong": "Duschgel taste the beach life, 500 ml"
+      },
+      "trackingData": {
+        "brand": "treaclemoon",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8684,
+        "ratingCount": 38
+      }
+    }
+  },
+  {
+    "gtin": 4003086360002,
+    "dan": 1356183,
+    "brandName": "algemarin",
+    "title": "Duschgel Freshness, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: algemarin; Produktname: Duschgel Freshness, 300 ml; Preis: 2,15 €; Grundpreis: 0,3 l (7,17 € je 1 l)",
+      "brand": {
+        "name": "algemarin"
+      },
+      "dan": 1356183,
+      "gtin": 4003086360002,
+      "images": [
+        {
+          "alt": "Duschgel Freshness algemarin",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747431060/assets/pas/images/0832fedf-0e8b-493d-967a-c5d8b00025ed/algemarin-duschgel-freshness"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,81 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (6,03 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (7,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 128,
+        "ratingValue": 4.7813
+      },
+      "self": "/p/d/1356183/algemarin-duschgel-freshness",
+      "title": {
+        "tileHeadline": "Duschgel Freshness, 300 ml",
+        "tileHeadlineLong": "Duschgel Freshness, 300 ml"
+      },
+      "trackingData": {
+        "brand": "algemarin",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7813,
+        "ratingCount": 128
+      }
+    }
+  },
+  {
+    "gtin": 4103040048011,
+    "dan": 1623525,
+    "brandName": "sebamed",
+    "title": "Duschgel Wellness, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: Duschgel Wellness, 400 ml; Preis: 4,95 €; Grundpreis: 0,4 l (12,38 € je 1 l)",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1623525,
+      "gtin": 4103040048011,
+      "images": [
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295523/assets/pas/images/351c7f3d-fe04-4759-9f2d-fa5d577a6621/sebamed-duschgel-wellness"
+        },
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295509/assets/pas/images/0f8493b5-6666-4105-a802-60db5493f7bf/sebamed-duschgel-wellness"
+        },
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295554/assets/pas/images/c8a464eb-df43-45f4-bf45-361d94dd5a12/sebamed-duschgel-wellness"
+        },
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295495/assets/pas/images/e1d1daf8-b428-4a3c-920b-a7b5ec11afe9/sebamed-duschgel-wellness"
+        },
+        {
+          "alt": "Duschgel Wellness sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762295538/assets/pas/images/ea6ff09e-bec8-495f-8ad3-efde7cd4d51a/sebamed-duschgel-wellness"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (10,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (12,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 44,
+        "ratingValue": 4.9545
+      },
+      "self": "/p/d/1623525/sebamed-duschgel-wellness",
+      "title": {
+        "tileHeadline": "Duschgel Wellness, 400 ml",
+        "tileHeadlineLong": "Duschgel Wellness, 400 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9545,
+        "ratingCount": 44
+      }
+    }
+  },
+  {
+    "gtin": 4045612010692,
+    "dan": 3103242,
+    "brandName": "CD",
+    "title": "Duschgel Ocean Spa, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: CD; Produktname: Duschgel Ocean Spa, 300 ml; Preis: 1,95 €; Grundpreis: 0,3 l (6,50 € je 1 l)",
+      "brand": {
+        "name": "CD"
+      },
+      "dan": 3103242,
+      "gtin": 4045612010692,
+      "images": [
+        {
+          "alt": "Duschgel Ocean Spa CD",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761647635/assets/pas/images/0e87d6da-02e4-4cc4-8cdb-666e205ccd0a/cd-duschgel-ocean-spa"
+        },
+        {
+          "alt": "Duschgel Ocean Spa CD",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761647647/assets/pas/images/c1908339-4fae-433d-9dd7-92c1584fd2f4/cd-duschgel-ocean-spa"
+        },
+        {
+          "alt": "Duschgel Ocean Spa CD",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761647658/assets/pas/images/294274ee-bb49-4d88-8b5b-f7651d74e652/cd-duschgel-ocean-spa"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (5,46 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (6,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3103242/cd-duschgel-ocean-spa",
+      "title": {
+        "tileHeadline": "Duschgel Ocean Spa, 300 ml",
+        "tileHeadlineLong": "Duschgel Ocean Spa, 300 ml"
+      },
+      "trackingData": {
+        "brand": "CD",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7358,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 4260380014592,
+    "dan": 1459542,
+    "brandName": "Brooklyn Soap Company",
+    "title": "Duschgel Oud Wood & Santal, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Brooklyn Soap Company; Produktname: Duschgel Oud Wood & Santal, 300 ml; Preis: 3,95 €; Grundpreis: 0,3 l (13,17 € je 1 l)",
+      "brand": {
+        "name": "Brooklyn Soap Company"
+      },
+      "dan": 1459542,
+      "gtin": 4260380014592,
+      "images": [
+        {
+          "alt": "Duschgel Oud Wood & Santal Brooklyn Soap Company",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492252/assets/pas/images/73e39ad5-0a61-4671-92ff-bc622b2b2cca/brooklyn-soap-company-duschgel-oud-wood-und-santal"
+        },
+        {
+          "alt": "Duschgel Oud Wood & Santal Brooklyn Soap Company",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492674/assets/pas/images/76d552ca-b464-4923-80d6-1e92f5bd140e/brooklyn-soap-company-duschgel-oud-wood-und-santal"
+        },
+        {
+          "alt": "Duschgel Oud Wood & Santal Brooklyn Soap Company",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492244/assets/pas/images/de1a3d2a-86cb-4b5e-b1ee-53645ccd4137/brooklyn-soap-company-duschgel-oud-wood-und-santal"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (11,07 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.6
+      },
+      "self": "/p/d/1459542/brooklyn-soap-company-duschgel-oud-wood-und-santal",
+      "title": {
+        "tileHeadline": "Duschgel Oud Wood & Santal, 300 ml",
+        "tileHeadlineLong": "Duschgel Oud Wood & Santal, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Brooklyn Soap Company",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 4069826000638,
+    "dan": 3139844,
+    "brandName": "SHIRIN BEAUTY",
+    "title": "Duschgel Glazed Strawberry Butter Cream, 250 ml",
+    "tileData": {
+      "dan": 3139844,
+      "gtin": 4069826000638,
+      "self": "/p/d/3139844/shirin-beauty-duschgel-glazed-strawberry-butter-cream",
+      "brand": {
+        "name": "SHIRIN BEAUTY"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Duschgel Glazed Strawberry Butter Cream, 250 ml",
+        "tileHeadlineLong": "Duschgel Glazed Strawberry Butter Cream, 250 ml"
+      },
+      "images": [
+        {
+          "alt": "Duschgel Glazed Strawberry Butter Cream SHIRIN BEAUTY",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779351192/assets/pas/images/b93d9f50-4e3d-49d6-8d79-ca1551ebecb9/shirin-beauty-duschgel-glazed-strawberry-butter-cream",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F2F1"
+        },
+        {
+          "alt": "Duschgel Glazed Strawberry Butter Cream SHIRIN BEAUTY",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779351197/assets/pas/images/6c2583a6-290c-47f4-ac45-390c14c46566/shirin-beauty-duschgel-glazed-strawberry-butter-cream",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F3F1"
+        },
+        {
+          "alt": "Duschgel Glazed Strawberry Butter Cream SHIRIN BEAUTY",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779351203/assets/pas/images/07bd7fb6-d1ac-45aa-94b6-844c730200b9/shirin-beauty-duschgel-glazed-strawberry-butter-cream",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F3F1"
+        }
+      ],
+      "rating": {
+        "ratingCount": 26,
+        "ratingValue": 4.3846
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "a11yLabel": "Marke: SHIRIN BEAUTY; Produktname: Duschgel Glazed Strawberry Butter Cream, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l); Neues Produkt Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "SHIRIN BEAUTY",
+        "price": 3.95,
+        "currency": "EUR",
+        "categories": [
+          "Duschgel"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3846,
+        "ratingCount": 26
+      }
+    }
+  },
+  {
+    "gtin": 4260380014608,
+    "dan": 1459541,
+    "brandName": "Brooklyn Soap Company",
+    "title": "Duschgel Blue Amber & Cedar 2in1, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Brooklyn Soap Company; Produktname: Duschgel Blue Amber & Cedar 2in1, 300 ml; Preis: 3,95 €; Grundpreis: 0,3 l (13,17 € je 1 l)",
+      "brand": {
+        "name": "Brooklyn Soap Company"
+      },
+      "dan": 1459541,
+      "gtin": 4260380014608,
+      "images": [
+        {
+          "alt": "Duschgel Blue Amber & Cedar 2in1 Brooklyn Soap Company",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492693/assets/pas/images/2012b061-41fe-443d-abc6-2390674ad7dc/brooklyn-soap-company-duschgel-blue-amber-und-cedar-2in1"
+        },
+        {
+          "alt": "Duschgel Blue Amber & Cedar 2in1 Brooklyn Soap Company",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492669/assets/pas/images/927cba6c-c9fc-4255-a2c8-e6e7d8334ffb/brooklyn-soap-company-duschgel-blue-amber-und-cedar-2in1"
+        },
+        {
+          "alt": "Duschgel Blue Amber & Cedar 2in1 Brooklyn Soap Company",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492670/assets/pas/images/524c7637-d030-41ce-8d63-04eff8be0af8/brooklyn-soap-company-duschgel-blue-amber-und-cedar-2in1"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (11,07 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (13,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.6379
+      },
+      "self": "/p/d/1459541/brooklyn-soap-company-duschgel-blue-amber-und-cedar-2in1",
+      "title": {
+        "tileHeadline": "Duschgel Blue Amber & Cedar 2in1, 300 ml",
+        "tileHeadlineLong": "Duschgel Blue Amber & Cedar 2in1, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Brooklyn Soap Company",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6379,
+        "ratingCount": 58
+      }
+    }
+  },
+  {
+    "gtin": 4006000219257,
+    "dan": 1567202,
+    "brandName": "NIVEA",
+    "title": "Duschgel Lemongrass & Oil, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Duschgel Lemongrass & Oil, 250 ml; Preis: 2,15 €; Grundpreis: 0,25 l (8,60 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1567202,
+      "gtin": 4006000219257,
+      "images": [
+        {
+          "alt": "Duschgel Lemongrass & Oil NIVEA",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770155895/assets/pas/images/0ade6366-573e-42a3-84c2-937daee120ab/nivea-duschgel-lemongrass-und-oil"
+        },
+        {
+          "alt": "Duschgel Lemongrass & Oil NIVEA",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770155889/assets/pas/images/4c9848cc-9eae-4830-82db-1095fb562e34/nivea-duschgel-lemongrass-und-oil"
+        },
+        {
+          "alt": "Duschgel Lemongrass & Oil NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778622297/assets/pas/images/4a7f3663-86a4-4402-a9c0-fedf3a0733cc/nivea-duschgel-lemongrass-und-oil"
+        },
+        {
+          "alt": "Duschgel Lemongrass & Oil NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778622307/assets/pas/images/244e40f7-9d1e-482d-946a-5b84087c657f/nivea-duschgel-lemongrass-und-oil"
+        },
+        {
+          "alt": "Duschgel Lemongrass & Oil NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778622275/assets/pas/images/f83e0c48-b3ca-41aa-8595-914d0e5a7b4f/nivea-duschgel-lemongrass-und-oil"
+        },
+        {
+          "alt": "Duschgel Lemongrass & Oil NIVEA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778622285/assets/pas/images/ea165e79-d171-4a18-96c8-a63ce424491c/nivea-duschgel-lemongrass-und-oil"
+        },
+        {
+          "alt": "Duschgel Lemongrass & Oil NIVEA",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778622256/assets/pas/images/5cd6d0b0-66ef-41ac-bc0a-701989424f4c/nivea-duschgel-lemongrass-und-oil"
+        },
+        {
+          "alt": "Duschgel Lemongrass & Oil NIVEA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778622266/assets/pas/images/d0a8e3ed-3723-4acd-9c05-fd0991ed33ab/nivea-duschgel-lemongrass-und-oil"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,81 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (8,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 278,
+        "ratingValue": 4.6942
+      },
+      "self": "/p/d/1567202/nivea-duschgel-lemongrass-und-oil",
+      "title": {
+        "tileHeadline": "Duschgel Lemongrass & Oil, 250 ml",
+        "tileHeadlineLong": "Duschgel Lemongrass & Oil, 250 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6942,
+        "ratingCount": 278
+      }
+    }
+  },
+  {
+    "gtin": 4066447965421,
+    "dan": 1276840,
+    "brandName": "Balea med",
+    "title": "Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea med; Produktname: Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml; Preis: 1,25 €; Grundpreis: 0,3 l (4,17 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea med"
+      },
+      "dan": 1276840,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447965421,
+      "images": [
+        {
+          "alt": "Duschgel pH 5,5 Hautneutral Creme-Öl Dusche Balea med",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782014778/assets/pas/images/4fb611da-c6a3-49d3-9be0-8171f08d9e5f/balea-med-duschgel-ph-5-5-hautneutral-creme-oel-dusche"
+        },
+        {
+          "alt": "Duschgel pH 5,5 Hautneutral Creme-Öl Dusche Balea med",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782014786/assets/pas/images/0be54f2e-b9f1-4021-9fe0-02ac7f6d4d32/balea-med-duschgel-ph-5-5-hautneutral-creme-oel-dusche"
+        },
+        {
+          "alt": "Duschgel pH 5,5 Hautneutral Creme-Öl Dusche Balea med",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782014781/assets/pas/images/87d5abca-c04a-4a07-9a8a-b6c3bd7a984b/balea-med-duschgel-ph-5-5-hautneutral-creme-oel-dusche"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (3,50 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (4,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 163,
+        "ratingValue": 4.546
+      },
+      "self": "/p/d/1276840/balea-med-duschgel-ph-5-5-hautneutral-creme-oel-dusche",
+      "title": {
+        "tileHeadline": "Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml",
+        "tileHeadlineLong": "Duschgel pH 5,5 Hautneutral Creme-Öl Dusche, 300 ml"
+      },
+      "trackingData": {
+        "brand": "Balea med",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.546,
+        "ratingCount": 163
+      }
+    }
+  },
+  {
+    "gtin": 8700216752589,
+    "dan": 3084900,
+    "brandName": "Old Spice",
+    "title": "Duschgel Rockstar 3in1, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Old Spice; Produktname: Duschgel Rockstar 3in1, 250 ml; Preis: 2,35 €; Grundpreis: 0,25 l (9,40 € je 1 l)",
+      "brand": {
+        "name": "Old Spice"
+      },
+      "dan": 3084900,
+      "gtin": 8700216752589,
+      "images": [
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764110891/assets/pas/images/687ae905-4ba2-4605-8234-58c0891f3731/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781402703/assets/pas/images/71de3cb4-3ea2-4de0-9338-e896fd595fb2/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784070733/assets/pas/images/31973310-a4d6-4a74-a9a1-375e5e648f23/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784070720/assets/pas/images/32e0d643-f4b4-4a64-acda-2037508c2795/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784070683/assets/pas/images/dc40082a-e7e7-4a21-9c12-6968f5a127d7/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784070697/assets/pas/images/575e80e2-dfd0-4c0f-8b1d-a08043807682/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1749542695/assets/pas/images/0c2919ea-2e6b-4b7b-a6be-49a171776c9b/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781402694/assets/pas/images/4b9d27b4-97b6-4436-8c5a-d73e8164a925/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781402673/assets/pas/images/b29a2143-aff9-4a6e-9eac-2fa5de4bd45c/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781402684/assets/pas/images/577d414f-1b18-4a1f-b197-6d048362d20d/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1749542651/assets/pas/images/03a1094b-68ab-4cf6-ad84-b8520cd8ce7a/old-spice-duschgel-rockstar-3in1"
+        },
+        {
+          "alt": "Duschgel Rockstar 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755011461/assets/pas/images/6810c278-cf72-44f4-9554-12a41c311bab/old-spice-duschgel-rockstar-3in1"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,90 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,40 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.9153
+      },
+      "self": "/p/d/3084900/old-spice-duschgel-rockstar-3in1",
+      "title": {
+        "tileHeadline": "Duschgel Rockstar 3in1, 250 ml",
+        "tileHeadlineLong": "Duschgel Rockstar 3in1, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Old Spice",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.918,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 8006540842409,
+    "dan": 2477621,
+    "brandName": "Old Spice",
+    "title": "Duschgel Wolfthorn 3in1, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Old Spice; Produktname: Duschgel Wolfthorn 3in1, 250 ml; Preis: 2,35 €; Grundpreis: 0,25 l (9,40 € je 1 l)",
+      "brand": {
+        "name": "Old Spice"
+      },
+      "dan": 2477621,
+      "gtin": 8006540842409,
+      "images": [
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966246/assets/pas/images/a20e8fcb-8e21-43d3-8624-8faf625a4e2b/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773966254/assets/pas/images/540ba4a2-2354-4bef-abf3-fbaef9867ec4/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747627256/assets/pas/images/2a9001ea-041a-4ad0-8640-73c89c58ff8e/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517574/assets/pas/images/48c6102b-16a3-46d1-8ace-df20f73b1637/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747627251/assets/pas/images/4c7b9898-2c63-4068-8e10-284f247a786d/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770503663/assets/pas/images/84a93934-572b-480e-86a5-df2451abfa20/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770503678/assets/pas/images/5a3a0b0d-7c74-487c-b9c5-7b7eadb8b872/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517577/assets/pas/images/c901b6d7-cab7-420a-af6b-dee87e26198b/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517576/assets/pas/images/2e7dc5bc-cbb5-4654-b338-772efbd07319/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747627269/assets/pas/images/cbeee62c-b775-4f3d-82cb-08982145b220/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751624511/assets/pas/images/30b197c2-cfcf-43de-88c6-1d73d23f5983/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773532649/assets/pas/images/5db0b1b8-f688-4864-91a4-932838b09e1f/old-spice-duschgel-wolfthorn-3in1"
+        },
+        {
+          "alt": "Duschgel Wolfthorn 3in1 Old Spice",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773532639/assets/pas/images/d14f6fb0-1c51-4bb3-b155-30ce51e06035/old-spice-duschgel-wolfthorn-3in1"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (7,90 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,40 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.5231
+      },
+      "self": "/p/d/2477621/old-spice-duschgel-wolfthorn-3in1",
+      "title": {
+        "tileHeadline": "Duschgel Wolfthorn 3in1, 250 ml",
+        "tileHeadlineLong": "Duschgel Wolfthorn 3in1, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Old Spice",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5231,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 4008233114781,
+    "dan": 1354443,
+    "brandName": "Kneipp",
+    "title": "Duschgel Lebensfreude, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Kneipp; Produktname: Duschgel Lebensfreude, 200 ml; Preis: 2,75 €; Grundpreis: 0,2 l (13,75 € je 1 l)",
+      "brand": {
+        "name": "Kneipp"
+      },
+      "dan": 1354443,
+      "gtin": 4008233114781,
+      "images": [
+        {
+          "alt": "Duschgel Lebensfreude Kneipp",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747433923/assets/pas/images/07cb6658-206a-4bf1-b7d0-60fdb5ffe19d/kneipp-duschgel-lebensfreude"
+        },
+        {
+          "alt": "Duschgel Lebensfreude Kneipp",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781402416/assets/pas/images/bf7477cc-ccdb-4ad2-bf68-b9ed31f79d34/kneipp-duschgel-lebensfreude"
+        },
+        {
+          "alt": "Duschgel Lebensfreude Kneipp",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747433610/assets/pas/images/c0ed0486-a025-4b72-9814-47950eba4f0d/kneipp-duschgel-lebensfreude"
+        },
+        {
+          "alt": "Duschgel Lebensfreude Kneipp",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777067324/assets/pas/images/7bfbf4c8-c984-4a89-bb5d-9e6f4671f98d/kneipp-duschgel-lebensfreude"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (11,55 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (13,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 142,
+        "ratingValue": 4.8873
+      },
+      "self": "/p/d/1354443/kneipp-duschgel-lebensfreude",
+      "title": {
+        "tileHeadline": "Duschgel Lebensfreude, 200 ml",
+        "tileHeadlineLong": "Duschgel Lebensfreude, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Kneipp",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8873,
+        "ratingCount": 142
+      }
+    }
+  },
+  {
+    "gtin": 4001499972867,
+    "dan": 3121060,
+    "brandName": "Frosch Senses",
+    "title": "Duschgel & Shampoo sensitiv Meeresmineralien \"Meer für dich!\", 300 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Frosch Senses; Produktname: Duschgel & Shampoo sensitiv Meeresmineralien \"Meer für dich!\", 300 ml; Preis: 2,15 €; Grundpreis: 0,3 l (7,17 € je 1 l)",
+      "brand": {
+        "name": "Frosch Senses"
+      },
+      "dan": 3121060,
+      "gtin": 4001499972867,
+      "images": [
+        {
+          "alt": "Duschgel & Shampoo sensitiv Meeresmineralien \"Meer für dich!\" Frosch Senses",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768398778/assets/pas/images/800a4586-6434-4733-a6b9-b0942c82a01b/frosch-senses-duschgel-und-shampoo-sensitiv-meeresmineralien-meer-fuer-dich"
+        },
+        {
+          "alt": "Duschgel & Shampoo sensitiv Meeresmineralien \"Meer für dich!\" Frosch Senses",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768398774/assets/pas/images/a4f86ddb-3433-4c2a-a8a7-5f6e51bb3a06/frosch-senses-duschgel-und-shampoo-sensitiv-meeresmineralien-meer-fuer-dich"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,81 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (6,03 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 l (7,17 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 33,
+        "ratingValue": 4.9091
+      },
+      "self": "/p/d/3121060/frosch-senses-duschgel-und-shampoo-sensitiv-meeresmineralien-meer-fuer-dich",
+      "title": {
+        "tileHeadline": "Duschgel & Shampoo sensitiv Meeresmineralien..., 300 ml",
+        "tileHeadlineLong": "Duschgel & Shampoo sensitiv Meeresmineralien..., 300 ml"
+      },
+      "trackingData": {
+        "brand": "Frosch Senses",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9091,
+        "ratingCount": 33
+      }
+    }
+  },
+  {
+    "gtin": 4069826000188,
+    "dan": 3065544,
+    "brandName": "SHIRIN BEAUTY",
+    "title": "Duschgel Creamy Blueberry Caramel Bliss, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SHIRIN BEAUTY; Produktname: Duschgel Creamy Blueberry Caramel Bliss, 250 ml; Preis: 3,95 €; Grundpreis: 0,25 l (15,80 € je 1 l)",
+      "brand": {
+        "name": "SHIRIN BEAUTY"
+      },
+      "dan": 3065544,
+      "gtin": 4069826000188,
+      "images": [
+        {
+          "alt": "Duschgel Creamy Blueberry Caramel Bliss SHIRIN BEAUTY",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747872506/assets/pas/images/2842f2af-7f5f-441e-ab8f-9c2c4b0b398f/shirin-beauty-duschgel-creamy-blueberry-caramel-bliss"
+        },
+        {
+          "alt": "Duschgel Creamy Blueberry Caramel Bliss SHIRIN BEAUTY",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756248149/assets/pas/images/01217db3-bb45-4a6a-83af-1a35f0200e01/shirin-beauty-duschgel-creamy-blueberry-caramel-bliss"
+        },
+        {
+          "alt": "Duschgel Creamy Blueberry Caramel Bliss SHIRIN BEAUTY",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756248157/assets/pas/images/2a5795f0-4db9-412b-8e8c-dae1c059f7e7/shirin-beauty-duschgel-creamy-blueberry-caramel-bliss"
+        },
+        {
+          "alt": "Duschgel Creamy Blueberry Caramel Bliss SHIRIN BEAUTY",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756248161/assets/pas/images/e6e40353-1edb-44e3-be53-1f1b403533f7/shirin-beauty-duschgel-creamy-blueberry-caramel-bliss"
+        },
+        {
+          "alt": "Duschgel Creamy Blueberry Caramel Bliss SHIRIN BEAUTY",
+          "backgroundColor": "#F4F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756248165/assets/pas/images/fa2f351f-1728-478c-8814-3f68ae58d0d9/shirin-beauty-duschgel-creamy-blueberry-caramel-bliss"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (13,28 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (15,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 117,
+        "ratingValue": 4.1026
+      },
+      "self": "/p/d/3065544/shirin-beauty-duschgel-creamy-blueberry-caramel-bliss",
+      "title": {
+        "tileHeadline": "Duschgel Creamy Blueberry Caramel Bliss, 250 ml",
+        "tileHeadlineLong": "Duschgel Creamy Blueberry Caramel Bliss, 250 ml"
+      },
+      "trackingData": {
+        "brand": "SHIRIN BEAUTY",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1026,
+        "ratingCount": 117
+      }
+    }
+  }
+]

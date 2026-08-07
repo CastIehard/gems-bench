@@ -1,0 +1,3037 @@
+[
+  {
+    "gtin": 4066447910186,
+    "dan": 1669459,
+    "brandName": "Balea",
+    "title": "After Shave Balsam intim, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: After Shave Balsam intim, 100 ml; Preis: 1,95 €; Grundpreis: 0,1 l (19,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1669459,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447910186,
+      "images": [
+        {
+          "alt": "After Shave Balsam intim Balea",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773354673/assets/pas/images/c31016b4-8790-4a93-b487-d4a043ae1f01/balea-after-shave-balsam-intim"
+        },
+        {
+          "alt": "After Shave Balsam intim Balea",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773354669/assets/pas/images/cafb4e0d-ea95-4b90-b484-70a19769447d/balea-after-shave-balsam-intim"
+        },
+        {
+          "alt": "After Shave Balsam intim Balea",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773354677/assets/pas/images/c65bf861-9098-4721-a6b7-3861a7fa3df6/balea-after-shave-balsam-intim"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (16,39 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (19,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 111,
+        "ratingValue": 4.4865
+      },
+      "self": "/p/d/1669459/balea-after-shave-balsam-intim",
+      "title": {
+        "tileHeadline": "After Shave Balsam intim, 100 ml",
+        "tileHeadlineLong": "After Shave Balsam intim, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Intimpflege & -gesundheit"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4865,
+        "ratingCount": 111
+      }
+    }
+  },
+  {
+    "gtin": 4067796072402,
+    "dan": 1626208,
+    "brandName": "Balea MEN",
+    "title": "After Shave Balsam Ultra Sensitive, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: After Shave Balsam Ultra Sensitive, 100 ml; Preis: 2,95 €; Grundpreis: 0,1 l (29,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 1626208,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796072402,
+      "images": [
+        {
+          "alt": "After Shave Balsam Ultra Sensitive Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755018666/assets/pas/images/fdcffdfb-e64b-4877-ad4c-bec6b73a951c/balea-men-after-shave-balsam-ultra-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Ultra Sensitive Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755018666/assets/pas/images/cca6a658-63eb-4a39-8d01-c2e9ac03c405/balea-men-after-shave-balsam-ultra-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Ultra Sensitive Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755018668/assets/pas/images/158e9b54-c59b-4fac-ad35-36660d76691d/balea-men-after-shave-balsam-ultra-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (24,79 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (29,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.2899
+      },
+      "self": "/p/d/1626208/balea-men-after-shave-balsam-ultra-sensitive",
+      "title": {
+        "tileHeadline": "After Shave Balsam Ultra Sensitive, 100 ml",
+        "tileHeadlineLong": "After Shave Balsam Ultra Sensitive, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2899,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4067796065862,
+    "dan": 1612694,
+    "brandName": "Balea MEN",
+    "title": "After Shave Balsam Sensitive, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: After Shave Balsam Sensitive, 100 ml; Preis: 2,35 €; Grundpreis: 0,1 l (23,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 1612694,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796065862,
+      "images": [
+        {
+          "alt": "After Shave Balsam Sensitive Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754997689/assets/pas/images/a92583e2-e615-45d0-a9c9-126c14c43c82/balea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive Balea MEN",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754997684/assets/pas/images/31d1a778-d8d1-46c5-97c1-67ed9fb27ac1/balea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754997688/assets/pas/images/1353612a-c4b5-49e5-96f2-4aa3ef4625d3/balea-men-after-shave-balsam-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (19,75 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (23,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 4.6757
+      },
+      "self": "/p/d/1612694/balea-men-after-shave-balsam-sensitive",
+      "title": {
+        "tileHeadline": "After Shave Balsam Sensitive, 100 ml",
+        "tileHeadlineLong": "After Shave Balsam Sensitive, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6757,
+        "ratingCount": 74
+      }
+    }
+  },
+  {
+    "gtin": 4066447911930,
+    "dan": 3109522,
+    "brandName": "Balea",
+    "title": "After Shave Pflege mit Aloe Vera & Magnolien-Extrakt, 125 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: After Shave Pflege mit Aloe Vera & Magnolien-Extrakt, 125 ml; Preis: 1,95 €; Grundpreis: 0,125 l (15,60 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3109522,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447911930,
+      "images": [
+        {
+          "alt": "After Shave Pflege mit Aloe Vera & Magnolien-Extrakt Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771549929/assets/pas/images/5568872f-bdae-4573-b3b3-f1628ef09269/balea-after-shave-pflege-mit-aloe-vera-und-magnolien-extrakt"
+        },
+        {
+          "alt": "After Shave Pflege mit Aloe Vera & Magnolien-Extrakt Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771549941/assets/pas/images/ac8cfde5-0103-4fbf-9d41-40aa5922f14a/balea-after-shave-pflege-mit-aloe-vera-und-magnolien-extrakt"
+        },
+        {
+          "alt": "After Shave Pflege mit Aloe Vera & Magnolien-Extrakt Balea",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771549936/assets/pas/images/d3d73428-fb3b-4f72-9b5f-7859c8a0a883/balea-after-shave-pflege-mit-aloe-vera-und-magnolien-extrakt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 l (13,11 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 l (15,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 31,
+        "ratingValue": 4.6774
+      },
+      "self": "/p/d/3109522/balea-after-shave-pflege-mit-aloe-vera-und-magnolien-extrakt",
+      "title": {
+        "tileHeadline": "After Shave Pflege mit Aloe Vera &..., 125 ml",
+        "tileHeadlineLong": "After Shave Pflege mit Aloe Vera &..., 125 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6774,
+        "ratingCount": 31
+      }
+    }
+  },
+  {
+    "gtin": 4006000195070,
+    "dan": 3092582,
+    "brandName": "NIVEA MEN",
+    "title": "After Shave Balsam Sensitive, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA MEN; Produktname: After Shave Balsam Sensitive, 100 ml; Preis: 6,75 €; Grundpreis: 0,1 l (67,50 € je 1 l)",
+      "brand": {
+        "name": "NIVEA MEN"
+      },
+      "dan": 3092582,
+      "gtin": 4006000195070,
+      "images": [
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757077978/assets/pas/images/bc863ef8-e4d6-4029-9b26-8577c3b71762/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757077996/assets/pas/images/56fadec3-71c1-4c9c-a474-acb22de30950/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757077966/assets/pas/images/7841adf1-6008-47e6-a478-6600e2418869/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757077988/assets/pas/images/3e36a918-872a-402c-9bd9-db503c893d8f/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294276/assets/pas/images/cc6c9136-9e99-4dc7-9c1f-fd10e9ff288f/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294304/assets/pas/images/3bb8a335-2a78-4572-a38e-281f1072c6f7/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294285/assets/pas/images/32fe97d2-d780-481f-a69f-4530bd92b9f1/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294294/assets/pas/images/0f2a2f3f-d12e-4045-953f-a1e79b5ec022/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294326/assets/pas/images/f323e5ee-4ac1-44df-a5af-ca74745e9df3/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294335/assets/pas/images/83489b29-d050-445b-9729-bff8306534c7/nivea-men-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive NIVEA MEN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294315/assets/pas/images/578c6479-a042-4480-87ef-161678f8b031/nivea-men-after-shave-balsam-sensitive"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,67 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (56,72 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (67,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 562,
+        "ratingValue": 4.2989
+      },
+      "self": "/p/d/3092582/nivea-men-after-shave-balsam-sensitive",
+      "title": {
+        "tileHeadline": "After Shave Balsam Sensitive, 100 ml",
+        "tileHeadlineLong": "After Shave Balsam Sensitive, 100 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2989,
+        "ratingCount": 562
+      }
+    }
+  },
+  {
+    "gtin": 4070765012934,
+    "dan": 3143414,
+    "brandName": "Balea",
+    "title": "After Shave Pflege-Gel Sensitive, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: After Shave Pflege-Gel Sensitive, 150 ml; Preis: 2,75 €; Grundpreis: 0,15 l (18,33 € je 1 l); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3143414,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765012934,
+      "images": [
+        {
+          "alt": "After Shave Pflege-Gel Sensitive Balea",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782342099/assets/pas/images/db799f23-31d0-4679-912c-f5b41d38ffeb/balea-after-shave-pflege-gel-sensitive"
+        },
+        {
+          "alt": "After Shave Pflege-Gel Sensitive Balea",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782342094/assets/pas/images/80c55282-6857-415c-83a4-52126e27e46c/balea-after-shave-pflege-gel-sensitive"
+        },
+        {
+          "alt": "After Shave Pflege-Gel Sensitive Balea",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782342090/assets/pas/images/d38ee5c7-e420-4935-b07c-083f9c3cc5fa/balea-after-shave-pflege-gel-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (15,40 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (18,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 7,
+        "ratingValue": 4.2857
+      },
+      "self": "/p/d/3143414/balea-after-shave-pflege-gel-sensitive",
+      "title": {
+        "tileHeadline": "After Shave Pflege-Gel Sensitive, 150 ml",
+        "tileHeadlineLong": "After Shave Pflege-Gel Sensitive, 150 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2857,
+        "ratingCount": 7
+      }
+    }
+  },
+  {
+    "gtin": 4066447897807,
+    "dan": 3088359,
+    "brandName": "alverde NATURKOSMETIK",
+    "title": "After Shave Balsam Ultra Sensitiv, 125 ml",
+    "tileData": {
+      "a11yLabel": "Marke: alverde NATURKOSMETIK; Produktname: After Shave Balsam Ultra Sensitiv, 125 ml; Preis: 2,95 €; Grundpreis: 0,125 l (23,60 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "alverde NATURKOSMETIK"
+      },
+      "dan": 3088359,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447897807,
+      "images": [
+        {
+          "alt": "After Shave Balsam Ultra Sensitiv alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770853233/assets/pas/images/4dbdcd41-5bce-4a32-bb97-f35cd48284dd/alverde-naturkosmetik-after-shave-balsam-ultra-sensitiv"
+        },
+        {
+          "alt": "After Shave Balsam Ultra Sensitiv alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770853237/assets/pas/images/7698ff24-374b-43e3-ac87-204833a0b604/alverde-naturkosmetik-after-shave-balsam-ultra-sensitiv"
+        },
+        {
+          "alt": "After Shave Balsam Ultra Sensitiv alverde NATURKOSMETIK",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770853228/assets/pas/images/a8adc159-b173-4b3f-8c49-48b910f0e059/alverde-naturkosmetik-after-shave-balsam-ultra-sensitiv"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 l (19,83 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 l (23,60 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.2941
+      },
+      "self": "/p/d/3088359/alverde-naturkosmetik-after-shave-balsam-ultra-sensitiv",
+      "title": {
+        "tileHeadline": "After Shave Balsam Ultra Sensitiv, 125 ml",
+        "tileHeadlineLong": "After Shave Balsam Ultra Sensitiv, 125 ml"
+      },
+      "trackingData": {
+        "brand": "alverde NATURKOSMETIK",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2941,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4070765014693,
+    "dan": 3048884,
+    "brandName": "Balea MEN",
+    "title": "After Shave Fresh, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea MEN; Produktname: After Shave Fresh, 100 ml; Preis: 2,35 €; Grundpreis: 0,1 l (23,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea MEN"
+      },
+      "dan": 3048884,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765014693,
+      "images": [
+        {
+          "alt": "After Shave Fresh Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387362/assets/pas/images/0556257e-98f6-40b6-adde-368d07b66b85/balea-men-after-shave-fresh"
+        },
+        {
+          "alt": "After Shave Fresh Balea MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387372/assets/pas/images/d20b2017-469e-40fa-91e5-ff6f73a71665/balea-men-after-shave-fresh"
+        },
+        {
+          "alt": "After Shave Fresh Balea MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387381/assets/pas/images/fcd2941f-d187-4744-af8a-b7481c148c2d/balea-men-after-shave-fresh"
+        },
+        {
+          "alt": "After Shave Fresh Balea MEN",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387387/assets/pas/images/ad5c08ec-a89c-4c67-8591-04a2b837ffc1/balea-men-after-shave-fresh"
+        },
+        {
+          "alt": "After Shave Fresh Balea MEN",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776387377/assets/pas/images/6f00a565-48f5-4e43-ae19-4605fdd72c15/balea-men-after-shave-fresh"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (19,75 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (23,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 57,
+        "ratingValue": 4.7895
+      },
+      "self": "/p/d/3048884/balea-men-after-shave-fresh",
+      "title": {
+        "tileHeadline": "After Shave Fresh, 100 ml",
+        "tileHeadlineLong": "After Shave Fresh, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Balea MEN",
+        "categories": [
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7895,
+        "ratingCount": 57
+      }
+    }
+  },
+  {
+    "gtin": 4066447969733,
+    "dan": 1556360,
+    "brandName": "SEINZ.",
+    "title": "After Shave Balsam Sensitive, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SEINZ.; Produktname: After Shave Balsam Sensitive, 100 ml; Preis: 4,95 €; Grundpreis: 0,1 l (49,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "SEINZ."
+      },
+      "dan": 1556360,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447969733,
+      "images": [
+        {
+          "alt": "After Shave Balsam Sensitive SEINZ.",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779239032/assets/pas/images/1287d7df-fda3-48b7-8f77-39d833ad9526/seinz-after-shave-balsam-sensitive"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive SEINZ.",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779239045/assets/pas/images/69dc8346-3e22-4a12-8620-dd4d04368ac0/seinz-after-shave-balsam-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (41,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (49,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.2131
+      },
+      "self": "/p/d/1556360/seinz-after-shave-balsam-sensitive",
+      "title": {
+        "tileHeadline": "After Shave Balsam Sensitive, 100 ml",
+        "tileHeadlineLong": "After Shave Balsam Sensitive, 100 ml"
+      },
+      "trackingData": {
+        "brand": "SEINZ.",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2131,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4066447909296,
+    "dan": 1365624,
+    "brandName": "alverde MEN",
+    "title": "After Shave Balsam Sensitiv, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: alverde MEN; Produktname: After Shave Balsam Sensitiv, 75 ml; Preis: 2,95 €; Grundpreis: 0,075 l (39,33 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "alverde MEN"
+      },
+      "dan": 1365624,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447909296,
+      "images": [
+        {
+          "alt": "After Shave Balsam Sensitiv alverde MEN",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897974/assets/pas/images/82a208e0-ee0d-4fc0-acdf-1cf8a5cac036/alverde-men-after-shave-balsam-sensitiv"
+        },
+        {
+          "alt": "After Shave Balsam Sensitiv alverde MEN",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897965/assets/pas/images/70e940c0-a591-42bb-9ffa-1118a97dc848/alverde-men-after-shave-balsam-sensitiv"
+        },
+        {
+          "alt": "After Shave Balsam Sensitiv alverde MEN",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897969/assets/pas/images/bbd9adce-baf4-4015-8f7d-fad8d0064f29/alverde-men-after-shave-balsam-sensitiv"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (33,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 72,
+        "ratingValue": 4.3611
+      },
+      "self": "/p/d/1365624/alverde-men-after-shave-balsam-sensitiv",
+      "title": {
+        "tileHeadline": "After Shave Balsam Sensitiv, 75 ml",
+        "tileHeadlineLong": "After Shave Balsam Sensitiv, 75 ml"
+      },
+      "trackingData": {
+        "brand": "alverde MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3611,
+        "ratingCount": 72
+      }
+    }
+  },
+  {
+    "gtin": 4006000195230,
+    "dan": 3092538,
+    "brandName": "NIVEA MEN",
+    "title": "After Shave Balsam Sensitive Cool, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA MEN; Produktname: After Shave Balsam Sensitive Cool, 100 ml; Preis: 6,75 €; Grundpreis: 0,1 l (67,50 € je 1 l)",
+      "brand": {
+        "name": "NIVEA MEN"
+      },
+      "dan": 3092538,
+      "gtin": 4006000195230,
+      "images": [
+        {
+          "alt": "After Shave Balsam Sensitive Cool NIVEA MEN",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757077989/assets/pas/images/069ab5bc-c3b9-4dca-a0fd-ac945728af7a/nivea-men-after-shave-balsam-sensitive-cool"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive Cool NIVEA MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757077981/assets/pas/images/01a57c10-681e-47f0-b2a8-604f74281c10/nivea-men-after-shave-balsam-sensitive-cool"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive Cool NIVEA MEN",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757077973/assets/pas/images/313f489c-2e2a-43af-97db-a16362fdaaba/nivea-men-after-shave-balsam-sensitive-cool"
+        },
+        {
+          "alt": "After Shave Balsam Sensitive Cool NIVEA MEN",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757077965/assets/pas/images/ebafbb31-63e8-47a4-943b-984cf1fc0cdf/nivea-men-after-shave-balsam-sensitive-cool"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,67 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (56,72 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (67,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 174,
+        "ratingValue": 4.7471
+      },
+      "self": "/p/d/3092538/nivea-men-after-shave-balsam-sensitive-cool",
+      "title": {
+        "tileHeadline": "After Shave Balsam Sensitive Cool, 100 ml",
+        "tileHeadlineLong": "After Shave Balsam Sensitive Cool, 100 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7471,
+        "ratingCount": 174
+      }
+    }
+  },
+  {
+    "gtin": 4009800001855,
+    "dan": 1515816,
+    "brandName": "SPEICK",
+    "title": "Men After Shave Lotion, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SPEICK; Produktname: Men After Shave Lotion, 100 ml; Preis: 8,95 €; Grundpreis: 0,1 l (89,50 € je 1 l)",
+      "brand": {
+        "name": "SPEICK"
+      },
+      "dan": 1515816,
+      "gtin": 4009800001855,
+      "images": [
+        {
+          "alt": "Men After Shave Lotion SPEICK",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436295/assets/pas/images/ac0fc656-92a1-40d6-a862-ea2f6c78ed20/speick-men-after-shave-lotion"
+        },
+        {
+          "alt": "Men After Shave Lotion SPEICK",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747436081/assets/pas/images/4781d3a5-53be-4ea4-9f49-7445c0dc0f78/speick-men-after-shave-lotion"
+        },
+        {
+          "alt": "Men After Shave Lotion SPEICK",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760995921/assets/pas/images/200a3beb-16c6-4c0a-a85d-7ae46a3da42e/speick-men-after-shave-lotion"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,52 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (75,21 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (89,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 55,
+        "ratingValue": 4.7636
+      },
+      "self": "/p/d/1515816/speick-men-after-shave-lotion",
+      "title": {
+        "tileHeadline": "Men After Shave Lotion, 100 ml",
+        "tileHeadlineLong": "Men After Shave Lotion, 100 ml"
+      },
+      "trackingData": {
+        "brand": "SPEICK",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7636,
+        "ratingCount": 55
+      }
+    }
+  },
+  {
+    "gtin": 5011321772335,
+    "dan": 1398456,
+    "brandName": "Old Spice",
+    "title": "After Shave Original, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Old Spice; Produktname: After Shave Original, 100 ml; Preis: 4,25 €; Grundpreis: 0,1 l (42,50 € je 1 l)",
+      "brand": {
+        "name": "Old Spice"
+      },
+      "dan": 1398456,
+      "gtin": 5011321772335,
+      "images": [
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776466928/assets/pas/images/469faf33-f50d-4b27-b246-f2c294cbd8d1/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457238/assets/pas/images/795dd841-1a14-435f-b912-9bb3d6c0cd02/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772929962/assets/pas/images/2060f154-9f84-48db-b501-c856f1889938/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457286/assets/pas/images/a7e42158-68fb-461f-a216-70d2537f6415/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772929972/assets/pas/images/80b75a61-e213-4ae8-934d-1a332a755b52/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457226/assets/pas/images/e538fca9-a3a9-43d8-892c-56ece05daa3b/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772929981/assets/pas/images/0e751d6f-8781-4ff7-93aa-265a1537cf0e/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098009/assets/pas/images/3ecc4ca3-5326-45be-8016-d866b8b42acd/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457321/assets/pas/images/62a18543-cb1d-440d-9704-b6e1ec588521/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098007/assets/pas/images/9384720e-35d4-48b9-8301-1ee864f877c2/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098004/assets/pas/images/b8be84dd-28fb-4548-9c4f-ba21fcd4b0e7/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457347/assets/pas/images/4f54a52c-d900-46a4-8bb8-dc1ed4c3999f/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457312/assets/pas/images/33ae5d7f-7dc3-4260-9f21-99b8a1065a9f/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457358/assets/pas/images/091a5a71-01c7-4756-ae57-5c50c98e51c0/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457297/assets/pas/images/974cc232-cd0f-46e2-a971-86c67e9371a3/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098003/assets/pas/images/6af2fec7-19cb-41e6-9c3a-d231d72d7446/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755098020/assets/pas/images/fd2b18dc-394d-4ae8-864e-da64098da08e/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457334/assets/pas/images/26ba99bd-0c08-45a6-84a6-fdadabcc9057/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457264/assets/pas/images/123bc70d-3e0c-4c33-a2c8-7f43c9c7c139/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457251/assets/pas/images/d8a83414-d07a-4f12-b997-d232f3ad7311/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772580218/assets/pas/images/c1a69577-3d76-47fb-8c12-74fdd89fe736/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757457277/assets/pas/images/0578cc89-6e0e-4c1e-9538-34a46b571081/old-spice-after-shave-original"
+        },
+        {
+          "alt": "After Shave Original Old Spice",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772929991/assets/pas/images/04b96705-17ab-4a03-a76b-e2b932cd641b/old-spice-after-shave-original"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (35,71 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (42,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 134,
+        "ratingValue": 4.6343
+      },
+      "self": "/p/d/1398456/old-spice-after-shave-original",
+      "title": {
+        "tileHeadline": "After Shave Original, 100 ml",
+        "tileHeadlineLong": "After Shave Original, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Old Spice",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6343,
+        "ratingCount": 134
+      }
+    }
+  },
+  {
+    "gtin": 3414202000626,
+    "dan": 1692897,
+    "brandName": "Davidoff",
+    "title": "After Shave Cool Water, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Davidoff; Produktname: After Shave Cool Water, 75 ml; Preis: 24,95 €; Grundpreis: 0,075 l (332,67 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "Davidoff"
+      },
+      "dan": 1692897,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 3414202000626,
+      "images": [
+        {
+          "alt": "After Shave Cool Water Davidoff",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411427/assets/pas/images/8d4872f1-8b7e-44a2-add5-e165b13d2cf0/davidoff-after-shave-cool-water"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "20,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (279,55 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "24,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (332,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 26,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/1692897/davidoff-after-shave-cool-water",
+      "title": {
+        "tileHeadline": "After Shave Cool Water, 75 ml",
+        "tileHeadlineLong": "After Shave Cool Water, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Davidoff",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 24.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 26
+      }
+    }
+  },
+  {
+    "gtin": 4103040053404,
+    "dan": 1118857,
+    "brandName": "sebamed",
+    "title": "After Shave Balsam Hydro-Komplex, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: After Shave Balsam Hydro-Komplex, 100 ml; Preis: 5,75 €; Grundpreis: 0,1 l (57,50 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1118857,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4103040053404,
+      "images": [
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770279935/assets/pas/images/b5e2bb6e-3ebe-49d8-8bc5-5d6f038a04dc/sebamed-after-shave-balsam-hydro-komplex"
+        },
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776897310/assets/pas/images/33d6bd33-5f87-45cd-a8c4-4d8b80debe3e/sebamed-after-shave-balsam-hydro-komplex"
+        },
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770279947/assets/pas/images/867cb20f-a704-4412-839b-f9a5e5690994/sebamed-after-shave-balsam-hydro-komplex"
+        },
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770427395/assets/pas/images/1c4b83ad-9922-4d78-bd39-df9a2e243686/sebamed-after-shave-balsam-hydro-komplex"
+        },
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770279987/assets/pas/images/c665356a-4c64-4e42-9cbc-0ea708b8d505/sebamed-after-shave-balsam-hydro-komplex"
+        },
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770279960/assets/pas/images/7129a64a-f7cd-47ba-856b-76c400998bd5/sebamed-after-shave-balsam-hydro-komplex"
+        },
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770279975/assets/pas/images/5181d6ad-1e74-4d50-bc1b-824967c1591d/sebamed-after-shave-balsam-hydro-komplex"
+        },
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770279913/assets/pas/images/6103e703-4e4b-417b-b2ca-f9540d9e0cbc/sebamed-after-shave-balsam-hydro-komplex"
+        },
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770279924/assets/pas/images/498c0baa-7a58-48f6-a755-8fa1c2002b22/sebamed-after-shave-balsam-hydro-komplex"
+        },
+        {
+          "alt": "After Shave Balsam Hydro-Komplex sebamed",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770280000/assets/pas/images/039eb9ab-fffc-45ff-bd7b-7c97d0ac6bf9/sebamed-after-shave-balsam-hydro-komplex"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,83 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (48,32 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (57,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 42,
+        "ratingValue": 4.881
+      },
+      "self": "/p/d/1118857/sebamed-after-shave-balsam-hydro-komplex",
+      "title": {
+        "tileHeadline": "After Shave Balsam Hydro-Komplex, 100 ml",
+        "tileHeadlineLong": "After Shave Balsam Hydro-Komplex, 100 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.881,
+        "ratingCount": 42
+      }
+    }
+  },
+  {
+    "gtin": 3616303424220,
+    "dan": 1674734,
+    "brandName": "adidas",
+    "title": "After Shave Ice Dive, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: adidas; Produktname: After Shave Ice Dive, 100 ml; Preis: 6,25 €; Grundpreis: 0,1 l (62,50 € je 1 l)",
+      "brand": {
+        "name": "adidas"
+      },
+      "dan": 1674734,
+      "gtin": 3616303424220,
+      "images": [
+        {
+          "alt": "After Shave Ice Dive adidas",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747424098/assets/pas/images/b0e2e35f-e2ef-497a-99b4-431ba5bd1137/adidas-after-shave-ice-dive"
+        },
+        {
+          "alt": "After Shave Ice Dive adidas",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747424097/assets/pas/images/af0d8895-3a45-4d77-a6a5-a610c52f769b/adidas-after-shave-ice-dive"
+        },
+        {
+          "alt": "After Shave Ice Dive adidas",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767397286/assets/pas/images/32e9cd8a-bc52-4191-a3d4-f768cf310429/adidas-after-shave-ice-dive"
+        },
+        {
+          "alt": "After Shave Ice Dive adidas",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747423843/assets/pas/images/2ff52d8a-0f3c-4957-801a-0c5450746465/adidas-after-shave-ice-dive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (52,52 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (62,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.5857
+      },
+      "self": "/p/d/1674734/adidas-after-shave-ice-dive",
+      "title": {
+        "tileHeadline": "After Shave Ice Dive, 100 ml",
+        "tileHeadlineLong": "After Shave Ice Dive, 100 ml"
+      },
+      "trackingData": {
+        "brand": "adidas",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5857,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 8720181343452,
+    "dan": 1492240,
+    "brandName": "AXE",
+    "title": "After Shave Alaska, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: AXE; Produktname: After Shave Alaska, 100 ml; Preis: 4,95 €; Grundpreis: 0,1 l (49,50 € je 1 l)",
+      "brand": {
+        "name": "AXE"
+      },
+      "dan": 1492240,
+      "gtin": 8720181343452,
+      "images": [
+        {
+          "alt": "After Shave Alaska AXE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534218/assets/pas/images/16c8137a-e376-44b0-a258-fa6f20b919c1/axe-after-shave-alaska"
+        },
+        {
+          "alt": "After Shave Alaska AXE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777930351/assets/pas/images/4507c685-6de2-476a-9532-5dff855b0cde/axe-after-shave-alaska"
+        },
+        {
+          "alt": "After Shave Alaska AXE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533724/assets/pas/images/e5ea2dc9-878f-4bf7-9cf8-676f83248edb/axe-after-shave-alaska"
+        },
+        {
+          "alt": "After Shave Alaska AXE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534219/assets/pas/images/b5f85c35-94df-49f3-9fc4-b15f3d0b48e2/axe-after-shave-alaska"
+        },
+        {
+          "alt": "After Shave Alaska AXE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533718/assets/pas/images/c88e9f7b-9053-48b2-8222-76aff8c63292/axe-after-shave-alaska"
+        },
+        {
+          "alt": "After Shave Alaska AXE",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747582259/assets/pas/images/afdfd02d-4e21-4a57-ad65-aedc433d9cd9/axe-after-shave-alaska"
+        },
+        {
+          "alt": "After Shave Alaska AXE",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747582272/assets/pas/images/03387eb1-366d-4dbb-af17-f01b6c4215af/axe-after-shave-alaska"
+        },
+        {
+          "alt": "After Shave Alaska AXE",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534337/assets/pas/images/1aacd375-1d0b-488d-bcb9-8552c66f149d/axe-after-shave-alaska"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (41,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (49,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.8305
+      },
+      "self": "/p/d/1492240/axe-after-shave-alaska",
+      "title": {
+        "tileHeadline": "After Shave Alaska, 100 ml",
+        "tileHeadlineLong": "After Shave Alaska, 100 ml"
+      },
+      "trackingData": {
+        "brand": "AXE",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8305,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4001638095747,
+    "dan": 1028852,
+    "brandName": "WELEDA",
+    "title": "After Shave Balsam, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: After Shave Balsam, 100 ml; Preis: 11,95 €; Grundpreis: 0,1 l (119,50 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 1028852,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4001638095747,
+      "images": [
+        {
+          "alt": "After Shave Balsam WELEDA",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759962116/assets/pas/images/ad8629aa-4a77-470e-af3c-18e1363879f2/weleda-after-shave-balsam"
+        },
+        {
+          "alt": "After Shave Balsam WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759962138/assets/pas/images/8cdb559f-836b-44ef-8811-c30de1aae003/weleda-after-shave-balsam"
+        },
+        {
+          "alt": "After Shave Balsam WELEDA",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759962127/assets/pas/images/357a04e1-5cc0-4482-9ff3-9161db659f3d/weleda-after-shave-balsam"
+        },
+        {
+          "alt": "After Shave Balsam WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759962145/assets/pas/images/2120fee7-db18-4c66-ae04-0ab484112ecc/weleda-after-shave-balsam"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (100,42 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (119,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 142,
+        "ratingValue": 4.8451
+      },
+      "self": "/p/d/1028852/weleda-after-shave-balsam",
+      "title": {
+        "tileHeadline": "After Shave Balsam, 100 ml",
+        "tileHeadlineLong": "After Shave Balsam, 100 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 11.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8451,
+        "ratingCount": 142
+      }
+    }
+  },
+  {
+    "gtin": 4006000195032,
+    "dan": 3092589,
+    "brandName": "NIVEA MEN",
+    "title": "After Shave Balsam Hydrocare, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA MEN; Produktname: After Shave Balsam Hydrocare, 100 ml; Preis: 6,75 €; Grundpreis: 0,1 l (67,50 € je 1 l)",
+      "brand": {
+        "name": "NIVEA MEN"
+      },
+      "dan": 3092589,
+      "gtin": 4006000195032,
+      "images": [
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760390326/assets/pas/images/276d86c6-03b1-40bd-bde4-f9e46ba81890/nivea-men-after-shave-balsam-hydrocare"
+        },
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760390339/assets/pas/images/b2649b27-71b8-4b5b-9e8e-7db39e6ccc2c/nivea-men-after-shave-balsam-hydrocare"
+        },
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760390358/assets/pas/images/bfa762bd-fe56-4265-914d-c712adac7776/nivea-men-after-shave-balsam-hydrocare"
+        },
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760390347/assets/pas/images/edaa9bf9-95b1-415b-94b5-f8e867bed843/nivea-men-after-shave-balsam-hydrocare"
+        },
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294783/assets/pas/images/4ce3e73e-005f-42ef-b1f2-22be57d85bd2/nivea-men-after-shave-balsam-hydrocare"
+        },
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294821/assets/pas/images/fbcc34ee-7d7f-47bb-bb86-d25f52d0d489/nivea-men-after-shave-balsam-hydrocare"
+        },
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294809/assets/pas/images/2b818041-00f1-4309-957d-31f641ce14db/nivea-men-after-shave-balsam-hydrocare"
+        },
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294795/assets/pas/images/f5b0f02c-8c3c-4069-a8e9-9d9c1e6a7177/nivea-men-after-shave-balsam-hydrocare"
+        },
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294842/assets/pas/images/7bdda1ee-df6e-4880-bcb8-2216b0e7987b/nivea-men-after-shave-balsam-hydrocare"
+        },
+        {
+          "alt": "After Shave Balsam Hydrocare NIVEA MEN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294830/assets/pas/images/facaefdd-3b57-4c45-bae6-1d4bfd5c3855/nivea-men-after-shave-balsam-hydrocare"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,67 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (56,72 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (67,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 340,
+        "ratingValue": 4.3
+      },
+      "self": "/p/d/3092589/nivea-men-after-shave-balsam-hydrocare",
+      "title": {
+        "tileHeadline": "After Shave Balsam Hydrocare, 100 ml",
+        "tileHeadlineLong": "After Shave Balsam Hydrocare, 100 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA MEN",
+        "categories": [
+          "Haarentfernung & Rasur für Männer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3,
+        "ratingCount": 340
+      }
+    }
+  },
+  {
+    "gtin": 8720181343476,
+    "dan": 1492105,
+    "brandName": "AXE",
+    "title": "After Shave Dark Temptation, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: AXE; Produktname: After Shave Dark Temptation, 100 ml; Preis: 4,95 €; Grundpreis: 0,1 l (49,50 € je 1 l)",
+      "brand": {
+        "name": "AXE"
+      },
+      "dan": 1492105,
+      "gtin": 8720181343476,
+      "images": [
+        {
+          "alt": "After Shave Dark Temptation AXE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754954186/assets/pas/images/384e652a-1c79-4c91-b8c4-c0ebeb6110db/axe-after-shave-dark-temptation"
+        },
+        {
+          "alt": "After Shave Dark Temptation AXE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754954175/assets/pas/images/d89b8e30-49d8-4303-a341-0a41897ba010/axe-after-shave-dark-temptation"
+        },
+        {
+          "alt": "After Shave Dark Temptation AXE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769724614/assets/pas/images/58f0068c-283c-403a-8e64-cd4c8cb3dcc5/axe-after-shave-dark-temptation"
+        },
+        {
+          "alt": "After Shave Dark Temptation AXE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533710/assets/pas/images/8614755a-4eea-4085-9be5-b0c2d4e66c6b/axe-after-shave-dark-temptation"
+        },
+        {
+          "alt": "After Shave Dark Temptation AXE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747534222/assets/pas/images/0305b8f2-ac39-4276-adc7-af8d80e6834f/axe-after-shave-dark-temptation"
+        },
+        {
+          "alt": "After Shave Dark Temptation AXE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747563966/assets/pas/images/a58e2d21-b52b-4b6a-bc32-728a6ef5c53e/axe-after-shave-dark-temptation"
+        },
+        {
+          "alt": "After Shave Dark Temptation AXE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747563970/assets/pas/images/55cd2d93-e3d1-4a68-80df-f5180ef15ef6/axe-after-shave-dark-temptation"
+        },
+        {
+          "alt": "After Shave Dark Temptation AXE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747533724/assets/pas/images/926a49db-7fb6-4737-bb32-6251b9589fc9/axe-after-shave-dark-temptation"
+        },
+        {
+          "alt": "After Shave Dark Temptation AXE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769724632/assets/pas/images/f1d940d4-0326-4d49-a5a0-9efc791b8a55/axe-after-shave-dark-temptation"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (41,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (49,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.791
+      },
+      "self": "/p/d/1492105/axe-after-shave-dark-temptation",
+      "title": {
+        "tileHeadline": "After Shave Dark Temptation, 100 ml",
+        "tileHeadlineLong": "After Shave Dark Temptation, 100 ml"
+      },
+      "trackingData": {
+        "brand": "AXE",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.791,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 3616303424244,
+    "dan": 1674736,
+    "brandName": "adidas",
+    "title": "After Shave Victory League, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: adidas; Produktname: After Shave Victory League, 100 ml; Preis: 6,25 €; Grundpreis: 0,1 l (62,50 € je 1 l)",
+      "brand": {
+        "name": "adidas"
+      },
+      "dan": 1674736,
+      "gtin": 3616303424244,
+      "images": [
+        {
+          "alt": "After Shave Victory League adidas",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747423631/assets/pas/images/28a24d68-49d8-4271-ba62-67d7160846ef/adidas-after-shave-victory-league"
+        },
+        {
+          "alt": "After Shave Victory League adidas",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747423489/assets/pas/images/3e7745a3-5075-4d4f-8033-9ed88e6c1c4d/adidas-after-shave-victory-league"
+        },
+        {
+          "alt": "After Shave Victory League adidas",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767397675/assets/pas/images/e9bb11e7-ee99-4d0d-98d0-ac9dd3aecaa9/adidas-after-shave-victory-league"
+        },
+        {
+          "alt": "After Shave Victory League adidas",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747423630/assets/pas/images/3566b64a-17cb-4981-bbd3-b70265f99d72/adidas-after-shave-victory-league"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (52,52 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (62,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.5085
+      },
+      "self": "/p/d/1674736/adidas-after-shave-victory-league",
+      "title": {
+        "tileHeadline": "After Shave Victory League, 100 ml",
+        "tileHeadlineLong": "After Shave Victory League, 100 ml"
+      },
+      "trackingData": {
+        "brand": "adidas",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5085,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4070765005691,
+    "dan": 3109383,
+    "brandName": "Balea",
+    "title": "After Shave Stick mit Kirschblüten-Extrakt, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: After Shave Stick mit Kirschblüten-Extrakt, 30 g; Preis: 3,45 €; Grundpreis: 0,03 kg (115,00 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3109383,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765005691,
+      "images": [
+        {
+          "alt": "After Shave Stick mit Kirschblüten-Extrakt Balea",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778713805/assets/pas/images/113f5774-6ef3-483e-af1b-e8c5d2bd71ed/balea-after-shave-stick-mit-kirschblueten-extrakt"
+        },
+        {
+          "alt": "After Shave Stick mit Kirschblüten-Extrakt Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778713810/assets/pas/images/9deee6b3-c70d-4f17-a62c-02d3d09f31d7/balea-after-shave-stick-mit-kirschblueten-extrakt"
+        },
+        {
+          "alt": "After Shave Stick mit Kirschblüten-Extrakt Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778713819/assets/pas/images/458fffbf-57e3-4128-be32-ce79ccbe31ee/balea-after-shave-stick-mit-kirschblueten-extrakt"
+        },
+        {
+          "alt": "After Shave Stick mit Kirschblüten-Extrakt Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778713815/assets/pas/images/6dbb2c50-81a9-4114-8f30-a084ad3e4c98/balea-after-shave-stick-mit-kirschblueten-extrakt"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (96,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (115,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 3.75
+      },
+      "self": "/p/d/3109383/balea-after-shave-stick-mit-kirschblueten-extrakt",
+      "title": {
+        "tileHeadline": "After Shave Stick mit Kirschblüten-Extrakt, 30 g",
+        "tileHeadlineLong": "After Shave Stick mit Kirschblüten-Extrakt, 30 g"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.75,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 8717524074760,
+    "dan": 1024133,
+    "brandName": "Hattric",
+    "title": "After Shave Classic, 200 ml",
+    "tileData": {
+      "dan": 1024133,
+      "gtin": 8717524074760,
+      "self": "/p/d/1024133/hattric-after-shave-classic",
+      "brand": {
+        "name": "Hattric"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,2 l (27,25 € je 1 l)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "After Shave Classic, 200 ml",
+        "tileHeadlineLong": "After Shave Classic, 200 ml"
+      },
+      "images": [
+        {
+          "alt": "After Shave Classic Hattric",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532400/assets/pas/images/112eee7f-759f-436b-9664-241a9bcaabd8/hattric-after-shave-classic",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F2F9"
+        },
+        {
+          "alt": "After Shave Classic Hattric",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532871/assets/pas/images/1b365d07-9208-4b17-aa5b-30dfffe8f69d/hattric-after-shave-classic",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F1F9"
+        },
+        {
+          "alt": "After Shave Classic Hattric",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747532398/assets/pas/images/f8a966e1-e162-4a5b-bb19-5aad01101225/hattric-after-shave-classic",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F4F9"
+        }
+      ],
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.8375
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "4,58 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,2 l (22,90 € je 1 l)"
+        ]
+      },
+      "a11yLabel": "Marke: Hattric; Produktname: After Shave Classic, 200 ml; Preis: 5,45 €; Grundpreis: 0,2 l (27,25 € je 1 l)",
+      "isPharmacy": false,
+      "trackingData": {
+        "brand": "Hattric",
+        "price": 5.45,
+        "currency": "EUR",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8375,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 3616301640851,
+    "dan": 1614578,
+    "brandName": "bruno banani",
+    "title": "After Shave Man, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: bruno banani; Produktname: After Shave Man, 50 ml; Preis: 9,95 €; Grundpreis: 0,05 l (199,00 € je 1 l)",
+      "brand": {
+        "name": "bruno banani"
+      },
+      "dan": 1614578,
+      "gtin": 3616301640851,
+      "images": [
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422483/assets/pas/images/d3fc66d8-8d2e-449c-a142-62e4e1262901/bruno-banani-after-shave-man"
+        },
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422704/assets/pas/images/237a6d24-7cd1-4b4f-bec0-4f3a7a8ebb0e/bruno-banani-after-shave-man"
+        },
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422704/assets/pas/images/d49178e0-c2c3-4a1a-ba49-1409855b96ce/bruno-banani-after-shave-man"
+        },
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747613922/assets/pas/images/9ea026b8-def6-4258-a1d0-213d3123cbbe/bruno-banani-after-shave-man"
+        },
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422484/assets/pas/images/2168b57e-183e-41c9-839b-83714ce9f726/bruno-banani-after-shave-man"
+        },
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422610/assets/pas/images/35c55541-d48c-4cd5-a358-5045655e8385/bruno-banani-after-shave-man"
+        },
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422606/assets/pas/images/c4c0ec0b-800e-4099-80b4-8f60dcd01705/bruno-banani-after-shave-man"
+        },
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422608/assets/pas/images/3183c30f-b5aa-4c19-81a7-5b82abb9d8e1/bruno-banani-after-shave-man"
+        },
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422611/assets/pas/images/40224c61-c38b-48eb-bbfb-cce4b5e8a285/bruno-banani-after-shave-man"
+        },
+        {
+          "alt": "After Shave Man   bruno banani",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747422712/assets/pas/images/def39625-3b7e-4738-b327-9b332006b1a4/bruno-banani-after-shave-man"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (167,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (199,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.7377
+      },
+      "self": "/p/d/1614578/bruno-banani-after-shave-man",
+      "title": {
+        "tileHeadline": "After Shave Man, 50 ml",
+        "tileHeadlineLong": "After Shave Man, 50 ml"
+      },
+      "trackingData": {
+        "brand": "bruno banani",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7377,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4011700858415,
+    "dan": 1284468,
+    "brandName": "s.Oliver",
+    "title": "After Shave Superior, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: s.Oliver; Produktname: After Shave Superior, 50 ml; Preis: 9,95 €; Grundpreis: 0,05 l (199,00 € je 1 l)",
+      "brand": {
+        "name": "s.Oliver"
+      },
+      "dan": 1284468,
+      "gtin": 4011700858415,
+      "images": [
+        {
+          "alt": "After Shave Superior s.Oliver",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425792/assets/pas/images/1a725242-dd6c-4608-b786-00ebf8e84e05/s-oliver-after-shave-superior"
+        },
+        {
+          "alt": "After Shave Superior s.Oliver",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425827/assets/pas/images/6544e05d-8d58-42db-9b3e-3c2383b1e8f8/s-oliver-after-shave-superior"
+        },
+        {
+          "alt": "After Shave Superior s.Oliver",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756426310/assets/pas/images/a8899e62-5600-402b-9a6f-3639445bc9c0/s-oliver-after-shave-superior"
+        },
+        {
+          "alt": "After Shave Superior s.Oliver",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756426324/assets/pas/images/a9c67d2f-8461-414a-92cd-36c36c58ad41/s-oliver-after-shave-superior"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (167,23 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (199,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 63,
+        "ratingValue": 4.8413
+      },
+      "self": "/p/d/1284468/s-oliver-after-shave-superior",
+      "title": {
+        "tileHeadline": "After Shave Superior, 50 ml",
+        "tileHeadlineLong": "After Shave Superior, 50 ml"
+      },
+      "trackingData": {
+        "brand": "s.Oliver",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8413,
+        "ratingCount": 63
+      }
+    }
+  },
+  {
+    "gtin": 4011700430086,
+    "dan": 1014256,
+    "brandName": "Tabac Original",
+    "title": "After Shave Lotion, 150 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Tabac Original; Produktname: After Shave Lotion, 150 ml; Preis: 11,95 €; Grundpreis: 0,15 l (79,67 € je 1 l)",
+      "brand": {
+        "name": "Tabac Original"
+      },
+      "dan": 1014256,
+      "gtin": 4011700430086,
+      "images": [
+        {
+          "alt": "After Shave Lotion Tabac Original",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767340454/assets/pas/images/13b7208e-642d-41d6-a352-b04a6f602b9e/tabac-original-after-shave-lotion"
+        },
+        {
+          "alt": "After Shave Lotion Tabac Original",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776463894/assets/pas/images/ce878849-497f-44b4-b2b4-597dfbfc9407/tabac-original-after-shave-lotion"
+        },
+        {
+          "alt": "After Shave Lotion Tabac Original",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767340471/assets/pas/images/a23ed758-a661-4a87-b4c7-6612370312bb/tabac-original-after-shave-lotion"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (66,95 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,15 l (79,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.8778
+      },
+      "self": "/p/d/1014256/tabac-original-after-shave-lotion",
+      "title": {
+        "tileHeadline": "After Shave Lotion, 150 ml",
+        "tileHeadlineLong": "After Shave Lotion, 150 ml"
+      },
+      "trackingData": {
+        "brand": "Tabac Original",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 11.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8778,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4026600141208,
+    "dan": 1021766,
+    "brandName": "Pitralon",
+    "title": "After Shave Classic, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Pitralon; Produktname: After Shave Classic, 100 ml; Preis: 3,95 €; Grundpreis: 0,1 l (39,50 € je 1 l)",
+      "brand": {
+        "name": "Pitralon"
+      },
+      "dan": 1021766,
+      "gtin": 4026600141208,
+      "images": [
+        {
+          "alt": "After Shave Classic Pitralon",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443635/assets/pas/images/c61bdf10-956b-4980-995c-f6c5c90a9596/pitralon-after-shave-classic"
+        },
+        {
+          "alt": "After Shave Classic Pitralon",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763677362/assets/pas/images/8abf318c-592f-4cb4-9587-c1475605af3d/pitralon-after-shave-classic"
+        },
+        {
+          "alt": "After Shave Classic Pitralon",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443512/assets/pas/images/14d5e104-7464-470d-95c7-b7e379494b7f/pitralon-after-shave-classic"
+        },
+        {
+          "alt": "After Shave Classic Pitralon",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763677376/assets/pas/images/28578297-8611-4e35-af21-34476c5abc51/pitralon-after-shave-classic"
+        },
+        {
+          "alt": "After Shave Classic Pitralon",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443513/assets/pas/images/e1df17eb-2bcc-48d2-952c-b276bf53e234/pitralon-after-shave-classic"
+        },
+        {
+          "alt": "After Shave Classic Pitralon",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763677384/assets/pas/images/863e41dc-abb5-412b-bdb8-8d8197901171/pitralon-after-shave-classic"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (33,19 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (39,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.7391
+      },
+      "self": "/p/d/1021766/pitralon-after-shave-classic",
+      "title": {
+        "tileHeadline": "After Shave Classic, 100 ml",
+        "tileHeadlineLong": "After Shave Classic, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Pitralon",
+        "categories": [
+          "Herren Parfum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7391,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4001638098816,
+    "dan": 1013586,
+    "brandName": "WELEDA",
+    "title": "Rasierwasser, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: Rasierwasser, 100 ml; Preis: 11,95 €; Grundpreis: 0,1 l (119,50 € je 1 l)",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 1013586,
+      "gtin": 4001638098816,
+      "images": [
+        {
+          "alt": "Rasierwasser WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773705047/assets/pas/images/225d3d3b-57f5-4e3a-a3c7-e73f4b3c47a0/weleda-rasierwasser"
+        },
+        {
+          "alt": "Rasierwasser WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773705039/assets/pas/images/ab18a333-35cb-4043-ad56-17a4f1c88e4f/weleda-rasierwasser"
+        },
+        {
+          "alt": "Rasierwasser WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773705032/assets/pas/images/d3270276-d144-4219-8bcb-578042174c2e/weleda-rasierwasser"
+        },
+        {
+          "alt": "Rasierwasser WELEDA",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773705025/assets/pas/images/3dc74bb2-a068-4ec4-8891-3388241ae15c/weleda-rasierwasser"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (100,42 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (119,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 121,
+        "ratingValue": 4.7273
+      },
+      "self": "/p/d/1013586/weleda-rasierwasser",
+      "title": {
+        "tileHeadline": "Rasierwasser, 100 ml",
+        "tileHeadlineLong": "Rasierwasser, 100 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Haarentfernung & Rasur für Männer",
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 11.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7273,
+        "ratingCount": 121
+      }
+    }
+  },
+  {
+    "gtin": 4009800001954,
+    "dan": 3146932,
+    "brandName": "SPEICK",
+    "title": "Men Pre Electric Shave Lotion, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: SPEICK; Produktname: Men Pre Electric Shave Lotion, 100 ml; Preis: 10,95 €; Grundpreis: 0,1 l (109,50 € je 1 l); Neues Produkt Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "SPEICK"
+      },
+      "dan": 3146932,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4009800001954,
+      "images": [
+        {
+          "alt": "Men Pre Electric Shave Lotion SPEICK",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779886465/assets/pas/images/fae262fb-8d76-4bbb-abf5-9ee82761554b/speick-men-pre-electric-shave-lotion"
+        },
+        {
+          "alt": "Men Pre Electric Shave Lotion SPEICK",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779886476/assets/pas/images/70868731-8503-438e-9723-b268b71c399f/speick-men-pre-electric-shave-lotion"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (92,02 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (109,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 0,
+        "ratingValue": 0.0
+      },
+      "self": "/p/d/3146932/speick-men-pre-electric-shave-lotion",
+      "title": {
+        "tileHeadline": "Men Pre Electric Shave Lotion, 100 ml",
+        "tileHeadlineLong": "Men Pre Electric Shave Lotion, 100 ml"
+      },
+      "trackingData": {
+        "brand": "SPEICK",
+        "categories": [
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 10.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 0.0,
+        "ratingCount": 0
+      }
+    }
+  },
+  {
+    "gtin": 4262362451647,
+    "dan": 3120215,
+    "brandName": "nevernot",
+    "title": "Peeling Spray, Peel Good Baby, 80 ml",
+    "tileData": {
+      "a11yLabel": "Marke: nevernot; Produktname: Peeling Spray, Peel Good Baby, 80 ml; Preis: 9,95 €; Grundpreis: 0,08 l (124,38 € je 1 l)",
+      "brand": {
+        "name": "nevernot"
+      },
+      "dan": 3120215,
+      "gtin": 4262362451647,
+      "images": [
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166284/assets/pas/images/7015b6cd-04cc-4872-921f-8e4c69cf0b2a/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166290/assets/pas/images/e1d5850b-e016-4c54-9130-ae6a74caacbc/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166302/assets/pas/images/fd3cbfbe-2c77-40f3-9a17-7a9e23c5f149/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166319/assets/pas/images/f1142c04-128f-4e27-9f21-b63a56fb8751/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166348/assets/pas/images/9e200b08-67dc-4f4f-8208-a859058d89c4/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166356/assets/pas/images/6ff342cf-7f99-4768-9eb6-bbfb1e9d039f/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166362/assets/pas/images/72a61be1-6607-4ab1-a1af-2a82adc8f89d/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166314/assets/pas/images/5e0d4639-6edb-4987-9ab6-02a289f4937a/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166325/assets/pas/images/580468e8-6d29-4aa4-9443-63059fc6b3dc/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780102406/assets/pas/images/3f9ea77b-c6ab-4c3e-ada0-928ea3b4f262/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780102399/assets/pas/images/2bd73233-2ba5-459e-be47-6c304b459444/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166336/assets/pas/images/b69b98f0-98e7-48a4-a837-54105b487533/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166343/assets/pas/images/4556a761-7118-41a9-9f75-e74e8672cb90/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166296/assets/pas/images/2e68fd19-105c-454f-bb04-e4a114bacf3d/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166308/assets/pas/images/61cb9de6-e812-424c-aac2-b24d8b744db3/nevernot-peeling-spray-peel-good-baby"
+        },
+        {
+          "alt": "Peeling Spray, Peel Good Baby nevernot",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775166331/assets/pas/images/c445546c-1f17-49da-8365-e2c7475ed18f/nevernot-peeling-spray-peel-good-baby"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 l (104,52 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 l (124,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 4.4
+      },
+      "self": "/p/d/3120215/nevernot-peeling-spray-peel-good-baby",
+      "title": {
+        "tileHeadline": "Peeling Spray, Peel Good Baby, 80 ml",
+        "tileHeadlineLong": "Peeling Spray, Peel Good Baby, 80 ml"
+      },
+      "trackingData": {
+        "brand": "nevernot",
+        "categories": [
+          "After Shave & Rasurpflege"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4,
+        "ratingCount": 30
+      }
+    }
+  }
+]

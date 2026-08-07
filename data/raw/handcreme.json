@@ -1,0 +1,2786 @@
+[
+  {
+    "gtin": 4260401411676,
+    "dan": 1573095,
+    "brandName": "PAEDIPROTECT",
+    "title": "Handcreme trockene & empfindliche Haut, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: PAEDIPROTECT; Produktname: Handcreme trockene & empfindliche Haut, 75 ml; Preis: 3,95 €; Grundpreis: 0,075 l (52,67 € je 1 l)",
+      "brand": {
+        "name": "PAEDIPROTECT"
+      },
+      "dan": 1573095,
+      "gtin": 4260401411676,
+      "images": [
+        {
+          "alt": "Handcreme trockene & empfindliche Haut PAEDIPROTECT",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776983621/assets/pas/images/c917758d-cee8-4759-adeb-5cf19a09cdb0/paediprotect-handcreme-trockene-und-empfindliche-haut"
+        },
+        {
+          "alt": "Handcreme trockene & empfindliche Haut PAEDIPROTECT",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763767941/assets/pas/images/3e7ccd0e-2a28-48a5-aee2-6ff9ab461e52/paediprotect-handcreme-trockene-und-empfindliche-haut"
+        },
+        {
+          "alt": "Handcreme trockene & empfindliche Haut PAEDIPROTECT",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763767953/assets/pas/images/4316c046-63b3-44a9-a4ad-8e0d3d6193a3/paediprotect-handcreme-trockene-und-empfindliche-haut"
+        },
+        {
+          "alt": "Handcreme trockene & empfindliche Haut PAEDIPROTECT",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763642101/assets/pas/images/a8a1db10-99b8-4973-aea2-422c317b80e6/paediprotect-handcreme-trockene-und-empfindliche-haut"
+        },
+        {
+          "alt": "Handcreme trockene & empfindliche Haut PAEDIPROTECT",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763642109/assets/pas/images/315cca35-6ac4-428e-9965-c636011704c7/paediprotect-handcreme-trockene-und-empfindliche-haut"
+        },
+        {
+          "alt": "Handcreme trockene & empfindliche Haut PAEDIPROTECT",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763642118/assets/pas/images/3079cd89-6e9c-4615-93b6-676ad35c8a3a/paediprotect-handcreme-trockene-und-empfindliche-haut"
+        },
+        {
+          "alt": "Handcreme trockene & empfindliche Haut PAEDIPROTECT",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492635/assets/pas/images/b417e4d9-d395-4839-8276-030ae869feaa/paediprotect-handcreme-trockene-und-empfindliche-haut"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (44,26 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (52,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 162,
+        "ratingValue": 4.7222
+      },
+      "self": "/p/d/1573095/paediprotect-handcreme-trockene-und-empfindliche-haut",
+      "title": {
+        "tileHeadline": "Handcreme trockene & empfindliche Haut, 75 ml",
+        "tileHeadlineLong": "Handcreme trockene & empfindliche Haut, 75 ml"
+      },
+      "trackingData": {
+        "brand": "PAEDIPROTECT",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7222,
+        "ratingCount": 162
+      }
+    }
+  },
+  {
+    "gtin": 4013718021898,
+    "dan": 1487527,
+    "brandName": "Herbacin",
+    "title": "Handcreme Kamille, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Herbacin; Produktname: Handcreme Kamille, 75 ml; Preis: 2,15 €; Grundpreis: 0,075 l (28,67 € je 1 l)",
+      "brand": {
+        "name": "Herbacin"
+      },
+      "dan": 1487527,
+      "gtin": 4013718021898,
+      "images": [
+        {
+          "alt": "Handcreme Kamille  Herbacin",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439886/assets/pas/images/59fa90bb-a013-4bc9-a4d7-0aae3c22dac7/herbacin-handcreme-kamille"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,81 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (24,09 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (28,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 98,
+        "ratingValue": 4.7959
+      },
+      "self": "/p/d/1487527/herbacin-handcreme-kamille",
+      "title": {
+        "tileHeadline": "Handcreme Kamille, 75 ml",
+        "tileHeadlineLong": "Handcreme Kamille, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Herbacin",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7959,
+        "ratingCount": 98
+      }
+    }
+  },
+  {
+    "gtin": 4103040048646,
+    "dan": 1253248,
+    "brandName": "sebamed",
+    "title": "Handcreme trockene Haut Urea Akut, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: sebamed; Produktname: Handcreme trockene Haut Urea Akut, 75 ml; Preis: 3,95 €; Grundpreis: 0,075 l (52,67 € je 1 l)",
+      "brand": {
+        "name": "sebamed"
+      },
+      "dan": 1253248,
+      "gtin": 4103040048646,
+      "images": [
+        {
+          "alt": "Handcreme trockene Haut Urea Akut sebamed",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238092/assets/pas/images/0da03ef3-a0f9-4435-a3a3-a65e6f25e319/sebamed-handcreme-trockene-haut-urea-akut"
+        },
+        {
+          "alt": "Handcreme trockene Haut Urea Akut sebamed",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238117/assets/pas/images/5e6ee03e-2be3-45ab-b78d-19fef4f7296b/sebamed-handcreme-trockene-haut-urea-akut"
+        },
+        {
+          "alt": "Handcreme trockene Haut Urea Akut sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238105/assets/pas/images/0ad5e186-8eac-47f5-90c5-4fa34c8649f7/sebamed-handcreme-trockene-haut-urea-akut"
+        },
+        {
+          "alt": "Handcreme trockene Haut Urea Akut sebamed",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238129/assets/pas/images/84384633-0bec-4ef4-91e7-ccdbba609c2f/sebamed-handcreme-trockene-haut-urea-akut"
+        },
+        {
+          "alt": "Handcreme trockene Haut Urea Akut sebamed",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772238080/assets/pas/images/3e4a0282-d0ac-4055-a533-2fc70a890d13/sebamed-handcreme-trockene-haut-urea-akut"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (44,26 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (52,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 142,
+        "ratingValue": 4.7535
+      },
+      "self": "/p/d/1253248/sebamed-handcreme-trockene-haut-urea-akut",
+      "title": {
+        "tileHeadline": "Handcreme trockene Haut Urea Akut, 75 ml",
+        "tileHeadlineLong": "Handcreme trockene Haut Urea Akut, 75 ml"
+      },
+      "trackingData": {
+        "brand": "sebamed",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7535,
+        "ratingCount": 142
+      }
+    }
+  },
+  {
+    "gtin": 4001638591089,
+    "dan": 3117009,
+    "brandName": "WELEDA",
+    "title": "Handcreme Pink Peach, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: Handcreme Pink Peach, 50 ml; Preis: 5,45 €; Grundpreis: 0,05 l (109,00 € je 1 l)",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 3117009,
+      "gtin": 4001638591089,
+      "images": [
+        {
+          "alt": "Handcreme Pink Peach WELEDA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765274845/assets/pas/images/d89793c2-99e4-4f19-887a-22d8b6e65d2e/weleda-handcreme-pink-peach"
+        },
+        {
+          "alt": "Handcreme Pink Peach WELEDA",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765274861/assets/pas/images/7e7e98a5-30fe-4d41-9377-0703c9a4fb87/weleda-handcreme-pink-peach"
+        },
+        {
+          "alt": "Handcreme Pink Peach WELEDA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765274854/assets/pas/images/e4cad1c0-0952-4d48-bff2-79988ed0ac1a/weleda-handcreme-pink-peach"
+        },
+        {
+          "alt": "Handcreme Pink Peach WELEDA",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248005/assets/pas/images/80cdb8b2-787e-47e3-81fd-0c974644cbce/weleda-handcreme-pink-peach"
+        },
+        {
+          "alt": "Handcreme Pink Peach WELEDA",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248026/assets/pas/images/8521439e-ded3-43c6-bc8f-e84478fd0eec/weleda-handcreme-pink-peach"
+        },
+        {
+          "alt": "Handcreme Pink Peach WELEDA",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248018/assets/pas/images/72244b6e-402d-46d2-b332-b5f48e55a07d/weleda-handcreme-pink-peach"
+        },
+        {
+          "alt": "Handcreme Pink Peach WELEDA",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770248037/assets/pas/images/8799f81e-bf58-4112-8909-b589dd383b33/weleda-handcreme-pink-peach"
+        },
+        {
+          "alt": "Handcreme Pink Peach WELEDA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765274874/assets/pas/images/e2946251-b9e9-4787-aeee-a3186ea49e5f/weleda-handcreme-pink-peach"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,58 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (91,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (109,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 18,
+        "ratingValue": 4.0
+      },
+      "self": "/p/d/3117009/weleda-handcreme-pink-peach",
+      "title": {
+        "tileHeadline": "Handcreme Pink Peach, 50 ml",
+        "tileHeadlineLong": "Handcreme Pink Peach, 50 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0,
+        "ratingCount": 18
+      }
+    }
+  },
+  {
+    "gtin": 4067796169003,
+    "dan": 1395569,
+    "brandName": "alverde NATURKOSMETIK",
+    "title": "Handcreme Granatapfel & Karitébutter, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: alverde NATURKOSMETIK; Produktname: Handcreme Granatapfel & Karitébutter, 75 ml; Preis: 1,95 €; Grundpreis: 0,075 l (26,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "alverde NATURKOSMETIK"
+      },
+      "dan": 1395569,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796169003,
+      "images": [
+        {
+          "alt": "Handcreme Granatapfel & Karitébutter alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773105072/assets/pas/images/ef43cca8-f579-4cd4-a78d-c0d9d76065d2/alverde-naturkosmetik-handcreme-granatapfel-und-karitebutter"
+        },
+        {
+          "alt": "Handcreme Granatapfel & Karitébutter alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773105084/assets/pas/images/20d78c4a-cbf3-4aff-80cf-50d954142946/alverde-naturkosmetik-handcreme-granatapfel-und-karitebutter"
+        },
+        {
+          "alt": "Handcreme Granatapfel & Karitébutter alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773105078/assets/pas/images/4d36ff57-388d-442c-9b4e-35db4308ab96/alverde-naturkosmetik-handcreme-granatapfel-und-karitebutter"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (21,85 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (26,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 224,
+        "ratingValue": 4.3795
+      },
+      "self": "/p/d/1395569/alverde-naturkosmetik-handcreme-granatapfel-und-karitebutter",
+      "title": {
+        "tileHeadline": "Handcreme Granatapfel & Karitébutter, 75 ml",
+        "tileHeadlineLong": "Handcreme Granatapfel & Karitébutter, 75 ml"
+      },
+      "trackingData": {
+        "brand": "alverde NATURKOSMETIK",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3795,
+        "ratingCount": 224
+      }
+    }
+  },
+  {
+    "gtin": 4262500783777,
+    "dan": 1631354,
+    "brandName": "Jean&Len",
+    "title": "Handcreme Rosemary & Ginger, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Handcreme Rosemary & Ginger, 75 ml; Preis: 2,95 €; Grundpreis: 0,075 l (39,33 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 1631354,
+      "gtin": 4262500783777,
+      "images": [
+        {
+          "alt": "Handcreme Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774659131/assets/pas/images/a12c2e7a-e367-4c30-acd4-87db095690d4/jean-und-len-handcreme-rosemary-und-ginger"
+        },
+        {
+          "alt": "Handcreme Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774599088/assets/pas/images/32b05cf1-fd82-4a98-8400-c6578a674099/jean-und-len-handcreme-rosemary-und-ginger"
+        },
+        {
+          "alt": "Handcreme Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774521223/assets/pas/images/fbe31681-db02-410f-b781-3b842da1a8c4/jean-und-len-handcreme-rosemary-und-ginger"
+        },
+        {
+          "alt": "Handcreme Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774521204/assets/pas/images/eec447a4-80e6-4ae4-bf7e-44dab2c24fe7/jean-und-len-handcreme-rosemary-und-ginger"
+        },
+        {
+          "alt": "Handcreme Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774521195/assets/pas/images/9624b486-6beb-4294-904a-f5872dcd9421/jean-und-len-handcreme-rosemary-und-ginger"
+        },
+        {
+          "alt": "Handcreme Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774521231/assets/pas/images/85cd1074-50b9-4323-8716-8221022d5843/jean-und-len-handcreme-rosemary-und-ginger"
+        },
+        {
+          "alt": "Handcreme Rosemary & Ginger Jean&Len",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774521210/assets/pas/images/56e5672c-dd62-4760-a5c5-47a95285456c/jean-und-len-handcreme-rosemary-und-ginger"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (33,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 345,
+        "ratingValue": 3.4058
+      },
+      "self": "/p/d/1631354/jean-und-len-handcreme-rosemary-und-ginger",
+      "title": {
+        "tileHeadline": "Handcreme Rosemary & Ginger, 75 ml",
+        "tileHeadlineLong": "Handcreme Rosemary & Ginger, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.4058,
+        "ratingCount": 345
+      }
+    }
+  },
+  {
+    "gtin": 4067796082838,
+    "dan": 3046806,
+    "brandName": "Balea med",
+    "title": "Handcreme Ultra Sensitive, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea med; Produktname: Handcreme Ultra Sensitive, 100 ml; Preis: 1,45 €; Grundpreis: 0,1 l (14,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea med"
+      },
+      "dan": 3046806,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796082838,
+      "images": [
+        {
+          "alt": "Handcreme Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999478/assets/pas/images/ee7d101b-2235-4e0f-922a-92ef59129660/balea-med-handcreme-ultra-sensitive"
+        },
+        {
+          "alt": "Handcreme Ultra Sensitive Balea med",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999480/assets/pas/images/bdfb10b0-bf81-43bf-9c8f-4c7bfd58ff7d/balea-med-handcreme-ultra-sensitive"
+        },
+        {
+          "alt": "Handcreme Ultra Sensitive Balea med",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487773/assets/pas/images/43e8507a-f01e-459c-8f07-0cae14e4b9ca/balea-med-handcreme-ultra-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (12,18 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (14,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 228,
+        "ratingValue": 2.7632
+      },
+      "self": "/p/d/3046806/balea-med-handcreme-ultra-sensitive",
+      "title": {
+        "tileHeadline": "Handcreme Ultra Sensitive, 100 ml",
+        "tileHeadlineLong": "Handcreme Ultra Sensitive, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Balea med",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 2.7632,
+        "ratingCount": 228
+      }
+    }
+  },
+  {
+    "gtin": 4021457645084,
+    "dan": 1617312,
+    "brandName": "lavera NATURKOSMETIK",
+    "title": "Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: lavera NATURKOSMETIK; Produktname: Handcreme Repair SOS Hilfe mit Calendula & Sheabutter, 75 ml; Preis: 3,85 €; Grundpreis: 0,075 l (51,33 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "lavera NATURKOSMETIK"
+      },
+      "dan": 1617312,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4021457645084,
+      "images": [
+        {
+          "alt": "Handcreme Repair SOS Hilfe mit Calendula & Sheabutter lavera NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773706784/assets/pas/images/fbddd7a0-e912-4ac4-90ed-5c3fbd398464/lavera-naturkosmetik-handcreme-repair-sos-hilfe-mit-calendula-und-sheabutter"
+        },
+        {
+          "alt": "Handcreme Repair SOS Hilfe mit Calendula & Sheabutter lavera NATURKOSMETIK",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773706778/assets/pas/images/57494d62-8079-4dbe-b810-f76e13d2c0b4/lavera-naturkosmetik-handcreme-repair-sos-hilfe-mit-calendula-und-sheabutter"
+        },
+        {
+          "alt": "Handcreme Repair SOS Hilfe mit Calendula & Sheabutter lavera NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773448037/assets/pas/images/b91aa70c-d693-46ec-be7b-822c833bccb4/lavera-naturkosmetik-handcreme-repair-sos-hilfe-mit-calendula-und-sheabutter"
+        },
+        {
+          "alt": "Handcreme Repair SOS Hilfe mit Calendula & Sheabutter lavera NATURKOSMETIK",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443271/assets/pas/images/b8e1c647-c317-45d3-876c-d05682ff22b2/lavera-naturkosmetik-handcreme-repair-sos-hilfe-mit-calendula-und-sheabutter"
+        },
+        {
+          "alt": "Handcreme Repair SOS Hilfe mit Calendula & Sheabutter lavera NATURKOSMETIK",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443400/assets/pas/images/eada085f-debf-44c0-b033-7c1d2c337c6a/lavera-naturkosmetik-handcreme-repair-sos-hilfe-mit-calendula-und-sheabutter"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,24 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (43,13 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (51,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 95,
+        "ratingValue": 4.7579
+      },
+      "self": "/p/d/1617312/lavera-naturkosmetik-handcreme-repair-sos-hilfe-mit-calendula-und-sheabutter",
+      "title": {
+        "tileHeadline": "Handcreme Repair SOS Hilfe mit Calendula &..., 75 ml",
+        "tileHeadlineLong": "Handcreme Repair SOS Hilfe mit Calendula &..., 75 ml"
+      },
+      "trackingData": {
+        "brand": "lavera NATURKOSMETIK",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6804,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 5704947015138,
+    "dan": 1710060,
+    "brandName": "O'Keeffe's",
+    "title": "Handcreme Working Hands, sehr trockene Haut, 96 g",
+    "tileData": {
+      "a11yLabel": "Marke: O'Keeffe's; Produktname: Handcreme Working Hands, sehr trockene Haut, 96 g; Preis: 9,95 €; Grundpreis: 0,096 kg (103,65 € je 1 kg)",
+      "brand": {
+        "name": "O'Keeffe's"
+      },
+      "dan": 1710060,
+      "gtin": 5704947015138,
+      "images": [
+        {
+          "alt": "Handcreme Working Hands, sehr trockene Haut O'Keeffe's",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773792270/assets/pas/images/bc48fb8e-f55f-4b58-b313-f874b2bc9028/o-keeffes-handcreme-working-hands-sehr-trockene-haut"
+        },
+        {
+          "alt": "Handcreme Working Hands, sehr trockene Haut O'Keeffe's",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779492500/assets/pas/images/e85c1fa0-dac6-4aa9-96f7-849108d8c48e/o-keeffes-handcreme-working-hands-sehr-trockene-haut"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,096 kg (87,10 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,096 kg (103,65 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 259,
+        "ratingValue": 4.3591
+      },
+      "self": "/p/d/1710060/o-keeffes-handcreme-working-hands-sehr-trockene-haut",
+      "title": {
+        "tileHeadline": "Handcreme Working Hands, sehr trockene Haut, 96 g",
+        "tileHeadlineLong": "Handcreme Working Hands, sehr trockene Haut, 96 g"
+      },
+      "trackingData": {
+        "brand": "O'Keeffe's",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3591,
+        "ratingCount": 259
+      }
+    }
+  },
+  {
+    "gtin": 4021457645022,
+    "dan": 1621745,
+    "brandName": "lavera NATURKOSMETIK",
+    "title": "Handcreme Basis, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: lavera NATURKOSMETIK; Produktname: Handcreme Basis, 75 ml; Preis: 3,55 €; Grundpreis: 0,075 l (47,33 € je 1 l); Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "lavera NATURKOSMETIK"
+      },
+      "dan": 1621745,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4021457645022,
+      "images": [
+        {
+          "alt": "Handcreme Basis lavera NATURKOSMETIK",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773702304/assets/pas/images/9187a58d-d9b3-4a84-a70f-00d929b79c5b/lavera-naturkosmetik-handcreme-basis"
+        },
+        {
+          "alt": "Handcreme Basis lavera NATURKOSMETIK",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773702299/assets/pas/images/53fe9d7e-a8c2-45a2-ac72-c9029e559f18/lavera-naturkosmetik-handcreme-basis"
+        },
+        {
+          "alt": "Handcreme Basis lavera NATURKOSMETIK",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773444771/assets/pas/images/933f59f3-d460-4974-b92c-17322cb0067f/lavera-naturkosmetik-handcreme-basis"
+        },
+        {
+          "alt": "Handcreme Basis lavera NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443262/assets/pas/images/28b9ae5b-6068-4f89-9901-89be9e892dfc/lavera-naturkosmetik-handcreme-basis"
+        },
+        {
+          "alt": "Handcreme Basis lavera NATURKOSMETIK",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747443035/assets/pas/images/a27e1994-16c1-44b5-b2e2-7c86347d4520/lavera-naturkosmetik-handcreme-basis"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,98 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,77 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (47,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 58,
+        "ratingValue": 4.6897
+      },
+      "self": "/p/d/1621745/lavera-naturkosmetik-handcreme-basis",
+      "title": {
+        "tileHeadline": "Handcreme Basis, 75 ml",
+        "tileHeadlineLong": "Handcreme Basis, 75 ml"
+      },
+      "trackingData": {
+        "brand": "lavera NATURKOSMETIK",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6774,
+        "ratingCount": 62
+      }
+    }
+  },
+  {
+    "gtin": 4262500783708,
+    "dan": 1459340,
+    "brandName": "Jean&Len",
+    "title": "Handcreme berry much intensiv mit Vitamin E, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Handcreme berry much intensiv mit Vitamin E, 75 ml; Preis: 2,95 €; Grundpreis: 0,075 l (39,33 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 1459340,
+      "gtin": 4262500783708,
+      "images": [
+        {
+          "alt": "Handcreme berry much intensiv mit Vitamin E Jean&Len",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768517546/assets/pas/images/f71bf88d-d19a-4b0f-bea7-5f748dfd76a7/jean-und-len-handcreme-berry-much-intensiv-mit-vitamin-e"
+        },
+        {
+          "alt": "Handcreme berry much intensiv mit Vitamin E Jean&Len",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768517568/assets/pas/images/a3b4057c-b653-4e6d-b7cb-ec1eb0fd39f2/jean-und-len-handcreme-berry-much-intensiv-mit-vitamin-e"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (33,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 116,
+        "ratingValue": 4.1897
+      },
+      "self": "/p/d/1459340/jean-und-len-handcreme-berry-much-intensiv-mit-vitamin-e",
+      "title": {
+        "tileHeadline": "Handcreme berry much intensiv mit Vitamin E, 75 ml",
+        "tileHeadlineLong": "Handcreme berry much intensiv mit Vitamin E, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1897,
+        "ratingCount": 116
+      }
+    }
+  },
+  {
+    "gtin": 4006000226552,
+    "dan": 1564132,
+    "brandName": "NIVEA",
+    "title": "Handcreme intensive Pflege, trockene Haut, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Handcreme intensive Pflege, trockene Haut, 75 ml; Preis: 2,45 €; Grundpreis: 0,075 l (32,67 € je 1 l)",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1564132,
+      "gtin": 4006000226552,
+      "images": [
+        {
+          "alt": "Handcreme intensive Pflege, trockene Haut NIVEA",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777413711/assets/pas/images/60c99be9-6323-4949-93bb-b4372983417b/nivea-handcreme-intensive-pflege-trockene-haut"
+        },
+        {
+          "alt": "Handcreme intensive Pflege, trockene Haut NIVEA",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777413704/assets/pas/images/706e60c4-f6c6-42c0-b067-43bc3383f8cc/nivea-handcreme-intensive-pflege-trockene-haut"
+        },
+        {
+          "alt": "Handcreme intensive Pflege, trockene Haut NIVEA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776243205/assets/pas/images/a7b9f040-0835-48aa-aa7b-a0921c082d95/nivea-handcreme-intensive-pflege-trockene-haut"
+        },
+        {
+          "alt": "Handcreme intensive Pflege, trockene Haut NIVEA",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776243184/assets/pas/images/2b1a3391-922b-4942-981f-d72bdf0ed0da/nivea-handcreme-intensive-pflege-trockene-haut"
+        },
+        {
+          "alt": "Handcreme intensive Pflege, trockene Haut NIVEA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776243193/assets/pas/images/3b18e98b-c668-40a2-8cd3-3c838f818b72/nivea-handcreme-intensive-pflege-trockene-haut"
+        },
+        {
+          "alt": "Handcreme intensive Pflege, trockene Haut NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776243230/assets/pas/images/415c7c3e-2c41-451a-aa66-c7d814a4df92/nivea-handcreme-intensive-pflege-trockene-haut"
+        },
+        {
+          "alt": "Handcreme intensive Pflege, trockene Haut NIVEA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776243218/assets/pas/images/202a9eb6-105e-417f-9426-4721353f7910/nivea-handcreme-intensive-pflege-trockene-haut"
+        },
+        {
+          "alt": "Handcreme intensive Pflege, trockene Haut NIVEA",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776243241/assets/pas/images/dfbfdeb1-2054-471e-a365-5412a75aaaff/nivea-handcreme-intensive-pflege-trockene-haut"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (27,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (32,67 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 528,
+        "ratingValue": 4.7159
+      },
+      "self": "/p/d/1564132/nivea-handcreme-intensive-pflege-trockene-haut",
+      "title": {
+        "tileHeadline": "Handcreme intensive Pflege, trockene Haut, 75 ml",
+        "tileHeadlineLong": "Handcreme intensive Pflege, trockene Haut, 75 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7089,
+        "ratingCount": 529
+      }
+    }
+  },
+  {
+    "gtin": 4262500783753,
+    "dan": 3068098,
+    "brandName": "Jean&Len",
+    "title": "Handcreme Repair & Protect Magnolia & Peach, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Handcreme Repair & Protect Magnolia & Peach, 75 ml; Preis: 2,95 €; Grundpreis: 0,075 l (39,33 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 3068098,
+      "gtin": 4262500783753,
+      "images": [
+        {
+          "alt": "Handcreme Repair & Protect Magnolia & Peach Jean&Len",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765200768/assets/pas/images/c9407337-3b35-437a-96dd-2e61bdb3ff5b/jean-und-len-handcreme-repair-und-protect-magnolia-und-peach"
+        },
+        {
+          "alt": "Handcreme Repair & Protect Magnolia & Peach Jean&Len",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765200778/assets/pas/images/29ab8b34-09d8-4d34-98cf-145df2f5d69b/jean-und-len-handcreme-repair-und-protect-magnolia-und-peach"
+        },
+        {
+          "alt": "Handcreme Repair & Protect Magnolia & Peach Jean&Len",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765200789/assets/pas/images/6a3f8a9d-fdc7-4e64-a3ce-f967abe36040/jean-und-len-handcreme-repair-und-protect-magnolia-und-peach"
+        },
+        {
+          "alt": "Handcreme Repair & Protect Magnolia & Peach Jean&Len",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765200794/assets/pas/images/cfe75ffd-c5f4-4081-a1a9-08b5fef3d72d/jean-und-len-handcreme-repair-und-protect-magnolia-und-peach"
+        },
+        {
+          "alt": "Handcreme Repair & Protect Magnolia & Peach Jean&Len",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765200800/assets/pas/images/36e4babf-ace0-410e-9ec4-e71412d98809/jean-und-len-handcreme-repair-und-protect-magnolia-und-peach"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (33,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.359
+      },
+      "self": "/p/d/3068098/jean-und-len-handcreme-repair-und-protect-magnolia-und-peach",
+      "title": {
+        "tileHeadline": "Handcreme Repair & Protect Magnolia & Peach, 75 ml",
+        "tileHeadlineLong": "Handcreme Repair & Protect Magnolia & Peach, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.359,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 5704947015862,
+    "dan": 1713499,
+    "brandName": "O'Keeffe's",
+    "title": "Handcreme Working Hands, 80 ml",
+    "tileData": {
+      "a11yLabel": "Marke: O'Keeffe's; Produktname: Handcreme Working Hands, 80 ml; Preis: 7,95 €; Grundpreis: 0,08 l (99,38 € je 1 l)",
+      "brand": {
+        "name": "O'Keeffe's"
+      },
+      "dan": 1713499,
+      "gtin": 5704947015862,
+      "images": [
+        {
+          "alt": "Handcreme Working Hands O'Keeffe's",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773793187/assets/pas/images/812c6acf-f55d-4a99-ad8e-ec7375d42b28/o-keeffes-handcreme-working-hands"
+        },
+        {
+          "alt": "Handcreme Working Hands O'Keeffe's",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773793204/assets/pas/images/abf492a2-6a89-47a3-ae75-59e4d21f5255/o-keeffes-handcreme-working-hands"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 l (83,51 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 l (99,38 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.6098
+      },
+      "self": "/p/d/1713499/o-keeffes-handcreme-working-hands",
+      "title": {
+        "tileHeadline": "Handcreme Working Hands, 80 ml",
+        "tileHeadlineLong": "Handcreme Working Hands, 80 ml"
+      },
+      "trackingData": {
+        "brand": "O'Keeffe's",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6098,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 4070765001709,
+    "dan": 3125094,
+    "brandName": "Balea",
+    "title": "Handcreme Bright & Protect LSF 50, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Handcreme Bright & Protect LSF 50, 75 ml; Preis: 1,95 €; Grundpreis: 0,075 l (26,00 € je 1 l); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 3125094,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765001709,
+      "images": [
+        {
+          "alt": "Handcreme Bright & Protect LSF 50 Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776809188/assets/pas/images/f8540f5c-ccba-4bbc-9dc3-036ed602030d/balea-handcreme-bright-und-protect-lsf-50"
+        },
+        {
+          "alt": "Handcreme Bright & Protect LSF 50 Balea",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776809184/assets/pas/images/e8a9999f-4864-4f6a-829d-a0725ab3c68d/balea-handcreme-bright-und-protect-lsf-50"
+        },
+        {
+          "alt": "Handcreme Bright & Protect LSF 50 Balea",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776809194/assets/pas/images/93b103d6-5f97-473c-8c27-9a886da61d71/balea-handcreme-bright-und-protect-lsf-50"
+        },
+        {
+          "alt": "Handcreme Bright & Protect LSF 50 Balea",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775109702/assets/pas/images/f5089685-4b70-44b2-8ce9-d8f78673902e/balea-handcreme-bright-und-protect-lsf-50"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (21,85 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (26,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.0508
+      },
+      "self": "/p/d/3125094/balea-handcreme-bright-und-protect-lsf-50",
+      "title": {
+        "tileHeadline": "Handcreme Bright & Protect LSF 50, 75 ml",
+        "tileHeadlineLong": "Handcreme Bright & Protect LSF 50, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0508,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 3574661687018,
+    "dan": 1670445,
+    "brandName": "Neutrogena",
+    "title": "Handcreme sofort einziehend, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Neutrogena; Produktname: Handcreme sofort einziehend, 75 ml; Preis: 2,95 €; Grundpreis: 0,075 l (39,33 € je 1 l)",
+      "brand": {
+        "name": "Neutrogena"
+      },
+      "dan": 1670445,
+      "gtin": 3574661687018,
+      "images": [
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412580/assets/pas/images/44363add-d89a-4b58-b8f6-f3708ddeb7f6/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412580/assets/pas/images/438863d3-ed7f-452d-a6da-dbb4449a9aed/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769725137/assets/pas/images/cd628890-deae-4b96-90b9-470918f3475e/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412579/assets/pas/images/bb0a7e37-a543-4b77-814f-468c9c97bd85/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781907147/assets/pas/images/94349eba-656c-4d72-b542-211bb024445c/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781819629/assets/pas/images/7740e4b7-7407-4fba-bdc1-eb53f734b232/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781907130/assets/pas/images/6409a53f-6d53-42e2-a1eb-118adf2816f1/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781907167/assets/pas/images/e80cb66d-5c7b-46a4-9ed8-01dfd5d2815d/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412505/assets/pas/images/011183ab-ba22-48bb-a04e-028d5bf68c17/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781907158/assets/pas/images/37f01b32-2de0-4c24-8d3e-bf5b4fae0adc/neutrogena-handcreme-sofort-einziehend"
+        },
+        {
+          "alt": "Handcreme sofort einziehend Neutrogena",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412653/assets/pas/images/e404ab92-f085-4037-ab9e-879a1f86d8fe/neutrogena-handcreme-sofort-einziehend"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (33,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 702,
+        "ratingValue": 4.4658
+      },
+      "self": "/p/d/1670445/neutrogena-handcreme-sofort-einziehend",
+      "title": {
+        "tileHeadline": "Handcreme sofort einziehend, 75 ml",
+        "tileHeadlineLong": "Handcreme sofort einziehend, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Neutrogena",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4658,
+        "ratingCount": 702
+      }
+    }
+  },
+  {
+    "gtin": 4008233149288,
+    "dan": 1611641,
+    "brandName": "Kneipp",
+    "title": "Handcreme Intensiv, Blütentraum, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Kneipp; Produktname: Handcreme Intensiv, Blütentraum, 75 ml; Preis: 2,95 €; Grundpreis: 0,075 l (39,33 € je 1 l)",
+      "brand": {
+        "name": "Kneipp"
+      },
+      "dan": 1611641,
+      "gtin": 4008233149288,
+      "images": [
+        {
+          "alt": "Handcreme Intensiv, Blütentraum  Kneipp",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769814521/assets/pas/images/495b6cd2-95f0-4f97-b800-80499ba0abe3/kneipp-handcreme-intensiv-bluetentraum"
+        },
+        {
+          "alt": "Handcreme Intensiv, Blütentraum  Kneipp",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769814529/assets/pas/images/779b2491-409e-4128-a96b-8916c471f974/kneipp-handcreme-intensiv-bluetentraum"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (33,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.6875
+      },
+      "self": "/p/d/1611641/kneipp-handcreme-intensiv-bluetentraum",
+      "title": {
+        "tileHeadline": "Handcreme Intensiv, Blütentraum, 75 ml",
+        "tileHeadlineLong": "Handcreme Intensiv, Blütentraum, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Kneipp",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6875,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 8008970064192,
+    "dan": 3131080,
+    "brandName": "Tesori d'Oriente",
+    "title": "Handcreme Ikigai, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Tesori d'Oriente; Produktname: Handcreme Ikigai, 75 ml; Preis: 2,95 €; Grundpreis: 0,075 l (39,33 € je 1 l)",
+      "brand": {
+        "name": "Tesori d'Oriente"
+      },
+      "dan": 3131080,
+      "gtin": 8008970064192,
+      "images": [
+        {
+          "alt": "Handcreme Ikigai  Tesori d'Oriente",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776294033/assets/pas/images/c4ba6cc9-0eac-4b0e-8ee0-f5a7e398f4fc/tesori-d-oriente-handcreme-ikigai"
+        },
+        {
+          "alt": "Handcreme Ikigai  Tesori d'Oriente",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773323129/assets/pas/images/4b0dda49-6ba0-4b5b-914f-51c1caf77774/tesori-d-oriente-handcreme-ikigai"
+        },
+        {
+          "alt": "Handcreme Ikigai  Tesori d'Oriente",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773323104/assets/pas/images/cdbfe820-2048-434b-ba81-bc2db90f7a31/tesori-d-oriente-handcreme-ikigai"
+        },
+        {
+          "alt": "Handcreme Ikigai  Tesori d'Oriente",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773323111/assets/pas/images/a0bbbe9f-ecde-4069-9eda-56b207387793/tesori-d-oriente-handcreme-ikigai"
+        },
+        {
+          "alt": "Handcreme Ikigai  Tesori d'Oriente",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773323120/assets/pas/images/3a15ba68-60da-4a17-94e1-a1d87fdcf904/tesori-d-oriente-handcreme-ikigai"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (33,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 4.4
+      },
+      "self": "/p/d/3131080/tesori-d-oriente-handcreme-ikigai",
+      "title": {
+        "tileHeadline": "Handcreme Ikigai, 75 ml",
+        "tileHeadlineLong": "Handcreme Ikigai, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Tesori d'Oriente",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4,
+        "ratingCount": 10
+      }
+    }
+  },
+  {
+    "gtin": 4001638088459,
+    "dan": 1234830,
+    "brandName": "WELEDA",
+    "title": "Handcreme Granatapfel, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: Handcreme Granatapfel, 50 ml; Preis: 6,95 €; Grundpreis: 0,05 l (139,00 € je 1 l)",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 1234830,
+      "gtin": 4001638088459,
+      "images": [
+        {
+          "alt": "Handcreme Granatapfel WELEDA",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760047413/assets/pas/images/18ce9ba8-5104-4ed9-a5ec-d3d4b8d6084f/weleda-handcreme-granatapfel"
+        },
+        {
+          "alt": "Handcreme Granatapfel WELEDA",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776291430/assets/pas/images/d4e80695-c3ea-4387-8142-23d4b52d9d90/weleda-handcreme-granatapfel"
+        },
+        {
+          "alt": "Handcreme Granatapfel WELEDA",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760047433/assets/pas/images/37d9f035-d09e-49be-b767-a26bf70d500d/weleda-handcreme-granatapfel"
+        },
+        {
+          "alt": "Handcreme Granatapfel WELEDA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760047440/assets/pas/images/395c9f3a-60bf-4501-a3b1-b67233615f13/weleda-handcreme-granatapfel"
+        },
+        {
+          "alt": "Handcreme Granatapfel WELEDA",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430057/assets/pas/images/bec1d282-c24d-4bd5-a544-07aba1fb9a4c/weleda-handcreme-granatapfel"
+        },
+        {
+          "alt": "Handcreme Granatapfel WELEDA",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747430068/assets/pas/images/d61ad07c-f040-47ed-8537-da656f4f89ba/weleda-handcreme-granatapfel"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (116,81 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (139,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 101,
+        "ratingValue": 4.7129
+      },
+      "self": "/p/d/1234830/weleda-handcreme-granatapfel",
+      "title": {
+        "tileHeadline": "Handcreme Granatapfel, 50 ml",
+        "tileHeadlineLong": "Handcreme Granatapfel, 50 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7129,
+        "ratingCount": 101
+      }
+    }
+  },
+  {
+    "gtin": 4262500783685,
+    "dan": 3132083,
+    "brandName": "Jean&Len",
+    "title": "Handcreme I love you so matcha, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Handcreme I love you so matcha, 75 ml; Preis: 2,95 €; Grundpreis: 0,075 l (39,33 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 3132083,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4262500783685,
+      "images": [
+        {
+          "alt": "Handcreme I love you so matcha Jean&Len",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773243903/assets/pas/images/18bd8eef-3499-480f-846f-7dface175a0e/jean-und-len-handcreme-i-love-you-so-matcha"
+        },
+        {
+          "alt": "Handcreme I love you so matcha Jean&Len",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773243913/assets/pas/images/91ba6502-c8b9-4c54-b97e-c5e1a4b2dc69/jean-und-len-handcreme-i-love-you-so-matcha"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (33,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.8824
+      },
+      "self": "/p/d/3132083/jean-und-len-handcreme-i-love-you-so-matcha",
+      "title": {
+        "tileHeadline": "Handcreme I love you so matcha, 75 ml",
+        "tileHeadlineLong": "Handcreme I love you so matcha, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8824,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4008233133614,
+    "dan": 1547295,
+    "brandName": "Kneipp",
+    "title": "Handcreme Sekunden Zitronenverbene & Avocadobutter, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Kneipp; Produktname: Handcreme Sekunden Zitronenverbene & Avocadobutter, 75 ml; Preis: 2,95 €; Grundpreis: 0,075 l (39,33 € je 1 l)",
+      "brand": {
+        "name": "Kneipp"
+      },
+      "dan": 1547295,
+      "gtin": 4008233133614,
+      "images": [
+        {
+          "alt": "Handcreme Sekunden Zitronenverbene & Avocadobutter  Kneipp",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767912547/assets/pas/images/aa90d473-1dfc-4458-9ec8-d8221f6e3ac2/kneipp-handcreme-sekunden-zitronenverbene-und-avocadobutter"
+        },
+        {
+          "alt": "Handcreme Sekunden Zitronenverbene & Avocadobutter  Kneipp",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767912540/assets/pas/images/98a9dfd7-fec6-4220-8f7f-0f80e76d98fb/kneipp-handcreme-sekunden-zitronenverbene-und-avocadobutter"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (33,05 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (39,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.5263
+      },
+      "self": "/p/d/1547295/kneipp-handcreme-sekunden-zitronenverbene-und-avocadobutter",
+      "title": {
+        "tileHeadline": "Handcreme Sekunden Zitronenverbene & Avocadobutter, 75 ml",
+        "tileHeadlineLong": "Handcreme Sekunden Zitronenverbene & Avocadobutter, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Kneipp",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5263,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4001638523028,
+    "dan": 1093043,
+    "brandName": "WELEDA",
+    "title": "Handcreme Express Sanddorn, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: WELEDA; Produktname: Handcreme Express Sanddorn, 50 ml; Preis: 5,45 €; Grundpreis: 0,05 l (109,00 € je 1 l)",
+      "brand": {
+        "name": "WELEDA"
+      },
+      "dan": 1093043,
+      "gtin": 4001638523028,
+      "images": [
+        {
+          "alt": "Handcreme Express Sanddorn  WELEDA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562200/assets/pas/images/7bf5173a-67ff-47c5-9b42-d09dd70d38f7/weleda-handcreme-express-sanddorn"
+        },
+        {
+          "alt": "Handcreme Express Sanddorn  WELEDA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562192/assets/pas/images/bafe065d-465a-487b-b7dc-8b1660989d25/weleda-handcreme-express-sanddorn"
+        },
+        {
+          "alt": "Handcreme Express Sanddorn  WELEDA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562184/assets/pas/images/eec30c6d-4b46-487f-8212-aeb1102988da/weleda-handcreme-express-sanddorn"
+        },
+        {
+          "alt": "Handcreme Express Sanddorn  WELEDA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760562210/assets/pas/images/08241ae5-4658-48f6-abfc-d48113a1655a/weleda-handcreme-express-sanddorn"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,58 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (91,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (109,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 165,
+        "ratingValue": 4.8242
+      },
+      "self": "/p/d/1093043/weleda-handcreme-express-sanddorn",
+      "title": {
+        "tileHeadline": "Handcreme Express Sanddorn, 50 ml",
+        "tileHeadlineLong": "Handcreme Express Sanddorn, 50 ml"
+      },
+      "trackingData": {
+        "brand": "WELEDA",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8242,
+        "ratingCount": 165
+      }
+    }
+  },
+  {
+    "gtin": 4066447912920,
+    "dan": 1455000,
+    "brandName": "alverde NATURKOSMETIK",
+    "title": "Handcreme Olive, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: alverde NATURKOSMETIK; Produktname: Handcreme Olive, 75 ml; Preis: 1,95 €; Grundpreis: 0,075 l (26,00 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "alverde NATURKOSMETIK"
+      },
+      "dan": 1455000,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447912920,
+      "images": [
+        {
+          "alt": "Handcreme Olive  alverde NATURKOSMETIK",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773100973/assets/pas/images/0618e9f4-3ec8-446b-8a2c-cfd482ccbe41/alverde-naturkosmetik-handcreme-olive"
+        },
+        {
+          "alt": "Handcreme Olive  alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773100978/assets/pas/images/216e929f-ba06-4652-b592-7a91ef413c87/alverde-naturkosmetik-handcreme-olive"
+        },
+        {
+          "alt": "Handcreme Olive  alverde NATURKOSMETIK",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773100984/assets/pas/images/72930f6c-1644-4c83-8758-bbe8e904a305/alverde-naturkosmetik-handcreme-olive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (21,85 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (26,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.5116
+      },
+      "self": "/p/d/1455000/alverde-naturkosmetik-handcreme-olive",
+      "title": {
+        "tileHeadline": "Handcreme Olive, 75 ml",
+        "tileHeadlineLong": "Handcreme Olive, 75 ml"
+      },
+      "trackingData": {
+        "brand": "alverde NATURKOSMETIK",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5116,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4066447876031,
+    "dan": 1578748,
+    "brandName": "Balea",
+    "title": "Handcreme Urea, 100 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Balea; Produktname: Handcreme Urea, 100 ml; Preis: 0,95 €; Grundpreis: 0,1 l (9,50 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Balea"
+      },
+      "dan": 1578748,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447876031,
+      "images": [
+        {
+          "alt": "Handcreme Urea Balea",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756472703/assets/pas/images/e0b0c482-abb8-4b75-9b8c-c34848fab274/balea-handcreme-urea"
+        },
+        {
+          "alt": "Handcreme Urea Balea",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756472691/assets/pas/images/839c842e-acfc-40cb-bc87-5eea50777f9c/balea-handcreme-urea"
+        },
+        {
+          "alt": "Handcreme Urea Balea",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756472697/assets/pas/images/9718465b-ed2f-4115-83f0-bb7679c558d6/balea-handcreme-urea"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (7,98 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 l (9,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 236,
+        "ratingValue": 4.2458
+      },
+      "self": "/p/d/1578748/balea-handcreme-urea",
+      "title": {
+        "tileHeadline": "Handcreme Urea, 100 ml",
+        "tileHeadlineLong": "Handcreme Urea, 100 ml"
+      },
+      "trackingData": {
+        "brand": "Balea",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2458,
+        "ratingCount": 236
+      }
+    }
+  },
+  {
+    "gtin": 4000196032287,
+    "dan": 3136990,
+    "brandName": "Kamill",
+    "title": "Handcreme daily protection & hydration, LSF 30, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Kamill; Produktname: Handcreme daily protection & hydration, LSF 30, 75 ml; Preis: 3,45 €; Grundpreis: 0,075 l (46,00 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "Kamill"
+      },
+      "dan": 3136990,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4000196032287,
+      "images": [
+        {
+          "alt": "Handcreme daily protection & hydration, LSF 30 Kamill",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782343885/assets/pas/images/737664a2-ebb4-49bb-9ee6-d548c58642ba/kamill-handcreme-daily-protection-und-hydration-lsf-30"
+        },
+        {
+          "alt": "Handcreme daily protection & hydration, LSF 30 Kamill",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782343900/assets/pas/images/be2a1c69-e681-4e4f-9d17-b97a33d8f996/kamill-handcreme-daily-protection-und-hydration-lsf-30"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (38,66 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (46,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 11,
+        "ratingValue": 3.0909
+      },
+      "self": "/p/d/3136990/kamill-handcreme-daily-protection-und-hydration-lsf-30",
+      "title": {
+        "tileHeadline": "Handcreme daily protection & hydration, LSF 30, 75 ml",
+        "tileHeadlineLong": "Handcreme daily protection & hydration, LSF 30, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Kamill",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.0909,
+        "ratingCount": 11
+      }
+    }
+  },
+  {
+    "gtin": 4008233183756,
+    "dan": 3121394,
+    "brandName": "Kneipp",
+    "title": "Handcreme Kirschblütentraum, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Kneipp; Produktname: Handcreme Kirschblütentraum, 75 ml; Preis: 3,25 €; Grundpreis: 0,075 l (43,33 € je 1 l)",
+      "brand": {
+        "name": "Kneipp"
+      },
+      "dan": 3121394,
+      "gtin": 4008233183756,
+      "images": [
+        {
+          "alt": "Handcreme Kirschblütentraum Kneipp",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769730219/assets/pas/images/c44d53d8-0fe2-47a4-a046-7b28f79bf0a1/kneipp-handcreme-kirschbluetentraum"
+        },
+        {
+          "alt": "Handcreme Kirschblütentraum Kneipp",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769817794/assets/pas/images/b62b162a-15c1-49ff-97d4-34b875361fb3/kneipp-handcreme-kirschbluetentraum"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (36,41 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (43,33 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3121394/kneipp-handcreme-kirschbluetentraum",
+      "title": {
+        "tileHeadline": "Handcreme Kirschblütentraum, 75 ml",
+        "tileHeadlineLong": "Handcreme Kirschblütentraum, 75 ml"
+      },
+      "trackingData": {
+        "brand": "Kneipp",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 3574661800769,
+    "dan": 2970871,
+    "brandName": "Neutrogena",
+    "title": "Handcreme Intense Repair, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Neutrogena; Produktname: Handcreme Intense Repair, 50 ml; Preis: 2,95 €; Grundpreis: 0,05 l (59,00 € je 1 l)",
+      "brand": {
+        "name": "Neutrogena"
+      },
+      "dan": 2970871,
+      "gtin": 3574661800769,
+      "images": [
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751066257/assets/pas/images/edd94c68-be94-401a-aac2-4cef5c396464/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412685/assets/pas/images/adf85023-f033-4bcd-82b1-96c1c0c7d477/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412762/assets/pas/images/7e450f54-5b5a-4af1-99ee-826f2078cb0c/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412684/assets/pas/images/76151cbd-375d-4978-9854-705f36e4beb3/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751066288/assets/pas/images/52727c15-070c-4980-89ed-c1ce81d67f8c/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779312556/assets/pas/images/6cbda149-6cbd-4aa9-9b85-9316614f83d7/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751066302/assets/pas/images/9533ede2-9f32-47cb-bbc4-7ee9832a64b6/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751066312/assets/pas/images/6cd42337-6d61-4e9b-88f1-f4e81a1efb34/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751066266/assets/pas/images/c73f0a04-d6b0-42f5-9041-0626959b224d/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751066278/assets/pas/images/96b07c4f-4a74-49f3-bf41-613c63dee6fa/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779312582/assets/pas/images/2b55849b-61d1-4741-9b48-681da3b42052/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779312548/assets/pas/images/2a7df295-536a-4761-a122-61f658394e33/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779312573/assets/pas/images/a70f1f0e-fbfb-43fd-b200-7dfad09b0694/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779312567/assets/pas/images/94a9a6f0-79c3-4add-a8f6-7b173efc5357/neutrogena-handcreme-intense-repair"
+        },
+        {
+          "alt": "Handcreme Intense Repair Neutrogena",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412924/assets/pas/images/cf3d4605-ca75-4747-b07e-46ad32e084b7/neutrogena-handcreme-intense-repair"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (49,58 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (59,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 74,
+        "ratingValue": 4.5135
+      },
+      "self": "/p/d/2970871/neutrogena-handcreme-intense-repair",
+      "title": {
+        "tileHeadline": "Handcreme Intense Repair, 50 ml",
+        "tileHeadlineLong": "Handcreme Intense Repair, 50 ml"
+      },
+      "trackingData": {
+        "brand": "Neutrogena",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.52,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 9005800398822,
+    "dan": 1873335,
+    "brandName": "NIVEA",
+    "title": "Handcreme protective care mit Bienenwachs, 75 ml",
+    "tileData": {
+      "a11yLabel": "Marke: NIVEA; Produktname: Handcreme protective care mit Bienenwachs, 75 ml; Preis: 1,95 €; Grundpreis: 0,075 l (26,00 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "NIVEA"
+      },
+      "dan": 1873335,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 9005800398822,
+      "images": [
+        {
+          "alt": "Handcreme protective care mit Bienenwachs NIVEA",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780094651/assets/pas/images/4e811b1c-8683-4e3e-8218-339ba7c2a1f7/nivea-handcreme-protective-care-mit-bienenwachs"
+        },
+        {
+          "alt": "Handcreme protective care mit Bienenwachs NIVEA",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776172382/assets/pas/images/83217da9-6ea2-451a-aaa1-6bb6fc466ca3/nivea-handcreme-protective-care-mit-bienenwachs"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (21,85 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,075 l (26,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 4.8889
+      },
+      "self": "/p/d/1873335/nivea-handcreme-protective-care-mit-bienenwachs",
+      "title": {
+        "tileHeadline": "Handcreme protective care mit Bienenwachs, 75 ml",
+        "tileHeadlineLong": "Handcreme protective care mit Bienenwachs, 75 ml"
+      },
+      "trackingData": {
+        "brand": "NIVEA",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8889,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 3574661685977,
+    "dan": 1670450,
+    "brandName": "Neutrogena",
+    "title": "Handcreme konzentriert, parfumfrei, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Neutrogena; Produktname: Handcreme konzentriert, parfumfrei, 50 ml; Preis: 2,95 €; Grundpreis: 0,05 l (59,00 € je 1 l)",
+      "brand": {
+        "name": "Neutrogena"
+      },
+      "dan": 1670450,
+      "gtin": 3574661685977,
+      "images": [
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412814/assets/pas/images/05263a8c-3f2e-4c04-8b28-abe92e799c16/neutrogena-handcreme-konzentriert-parfumfrei"
+        },
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412813/assets/pas/images/49c8cf46-56cb-4da8-bc6f-3ae3b5ab3543/neutrogena-handcreme-konzentriert-parfumfrei"
+        },
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412823/assets/pas/images/37f02cb2-4a22-4d0b-9e9b-44f0c83d2350/neutrogena-handcreme-konzentriert-parfumfrei"
+        },
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412651/assets/pas/images/c1fdd8c3-2605-4eac-97ba-167c663d5a74/neutrogena-handcreme-konzentriert-parfumfrei"
+        },
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412575/assets/pas/images/280629a3-516a-4dd0-a2ff-f77ecebb3ba8/neutrogena-handcreme-konzentriert-parfumfrei"
+        },
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412575/assets/pas/images/24cfaf9a-9ffe-440f-aa86-a49918387e6c/neutrogena-handcreme-konzentriert-parfumfrei"
+        },
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412575/assets/pas/images/46ece114-462c-49b1-831e-67f3d3d2f72a/neutrogena-handcreme-konzentriert-parfumfrei"
+        },
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412513/assets/pas/images/00203188-41ed-499e-8936-b325c40f01b8/neutrogena-handcreme-konzentriert-parfumfrei"
+        },
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747573521/assets/pas/images/f2d23fc4-994f-4dcf-9add-f56f2d8a9f88/neutrogena-handcreme-konzentriert-parfumfrei"
+        },
+        {
+          "alt": "Handcreme konzentriert, parfumfrei Neutrogena",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412583/assets/pas/images/fa9dd524-fc30-42ef-a7c6-41fd4929b225/neutrogena-handcreme-konzentriert-parfumfrei"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (49,58 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (59,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 605,
+        "ratingValue": 4.5967
+      },
+      "self": "/p/d/1670450/neutrogena-handcreme-konzentriert-parfumfrei",
+      "title": {
+        "tileHeadline": "Handcreme konzentriert, parfumfrei, 50 ml",
+        "tileHeadlineLong": "Handcreme konzentriert, parfumfrei, 50 ml"
+      },
+      "trackingData": {
+        "brand": "Neutrogena",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5967,
+        "ratingCount": 605
+      }
+    }
+  },
+  {
+    "gtin": 4045612007036,
+    "dan": 1502905,
+    "brandName": "Handsan",
+    "title": "Handcreme 5 % Urea, 90 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Handsan; Produktname: Handcreme 5 % Urea, 90 ml; Preis: 1,35 €; Grundpreis: 0,09 l (15,00 € je 1 l)",
+      "brand": {
+        "name": "Handsan"
+      },
+      "dan": 1502905,
+      "gtin": 4045612007036,
+      "images": [
+        {
+          "alt": "Handcreme 5 % Urea  Handsan",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445487/assets/pas/images/7702c126-a513-4674-892b-99c036ff2758/handsan-handcreme-5-prozent-urea"
+        },
+        {
+          "alt": "Handcreme 5 % Urea  Handsan",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445487/assets/pas/images/99e229d6-0d31-4c2c-87ec-c3dd5803032d/handsan-handcreme-5-prozent-urea"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,13 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 l (12,61 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 l (15,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.4138
+      },
+      "self": "/p/d/1502905/handsan-handcreme-5-prozent-urea",
+      "title": {
+        "tileHeadline": "Handcreme 5 % Urea, 90 ml",
+        "tileHeadlineLong": "Handcreme 5 % Urea, 90 ml"
+      },
+      "trackingData": {
+        "brand": "Handsan",
+        "categories": [
+          "Handcreme & Handmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4138,
+        "ratingCount": 87
+      }
+    }
+  }
+]

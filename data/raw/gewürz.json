@@ -1,0 +1,2748 @@
+[
+  {
+    "gtin": 4058172507960,
+    "dan": 1666949,
+    "brandName": "dmBio",
+    "title": "Gewürzmischung, Italienische Kräuter, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gewürzmischung, Italienische Kräuter, 35 g; Preis: 1,85 €; Grundpreis: 0,035 kg (52,86 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1666949,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172507960,
+      "images": [
+        {
+          "alt": "Gewürzmischung, Italienische Kräuter dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747452126/assets/pas/images/66220932-3f31-4814-9064-64752495bcd8/dmbio-gewuerzmischung-italienische-kraeuter"
+        },
+        {
+          "alt": "Gewürzmischung, Italienische Kräuter dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747452171/assets/pas/images/20b71c9d-56e6-4a58-8267-6a07fb987414/dmbio-gewuerzmischung-italienische-kraeuter"
+        },
+        {
+          "alt": "Gewürzmischung, Italienische Kräuter dmBio",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747452292/assets/pas/images/b6e576b2-8650-4ea1-80c6-1359301ef901/dmbio-gewuerzmischung-italienische-kraeuter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (49,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (52,86 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.4216
+      },
+      "self": "/p/d/1666949/dmbio-gewuerzmischung-italienische-kraeuter",
+      "title": {
+        "tileHeadline": "Gewürzmischung, Italienische Kräuter, 35 g",
+        "tileHeadlineLong": "Gewürzmischung, Italienische Kräuter, 35 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4216,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4012824400016,
+    "dan": 1596551,
+    "brandName": "YOGI TEA",
+    "title": "Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer (17 Beutel), 37,4 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer (17 Beutel), 37,4 g; Preis: 3,25 €; Grundpreis: 0,0374 kg (86,90 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1596551,
+      "gtin": 4012824400016,
+      "images": [
+        {
+          "alt": "Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755094481/assets/pas/images/0110ad4b-7e58-40a1-88f8-d7c2232435dc/yogi-tea-gewuerztee-classic-mit-zimt-kardamom-und-ingwer-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,0374 kg (81,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,0374 kg (86,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 106,
+        "ratingValue": 4.8491
+      },
+      "self": "/p/d/1596551/yogi-tea-gewuerztee-classic-mit-zimt-kardamom-und-ingwer-17-beutel",
+      "title": {
+        "tileHeadline": "Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer..., 37,4 g",
+        "tileHeadlineLong": "Gewürztee \"Classic\" mit Zimt, Kardamom & Ingwer..., 37,4 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8491,
+        "ratingCount": 106
+      }
+    }
+  },
+  {
+    "gtin": 4070765022308,
+    "dan": 1327498,
+    "brandName": "dmBio",
+    "title": "Gewürzmischung Kräuterbutter, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gewürzmischung Kräuterbutter, 20 g; Preis: 0,95 €; Grundpreis: 0,02 kg (47,50 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1327498,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765022308,
+      "images": [
+        {
+          "alt": "Gewürzmischung Kräuterbutter dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168834/assets/pas/images/615fc45e-7ca3-44f0-9dd3-09de016a51ca/dmbio-gewuerzmischung-kraeuterbutter"
+        },
+        {
+          "alt": "Gewürzmischung Kräuterbutter dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775168840/assets/pas/images/0e001689-c078-4dd6-b1db-ec3a0ea24de4/dmbio-gewuerzmischung-kraeuterbutter"
+        },
+        {
+          "alt": "Gewürzmischung Kräuterbutter dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780436309/assets/pas/images/8cb24879-4c7b-4f6e-a161-7a10b1c0b9bf/dmbio-gewuerzmischung-kraeuterbutter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (44,39 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (47,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 46,
+        "ratingValue": 4.7174
+      },
+      "self": "/p/d/1327498/dmbio-gewuerzmischung-kraeuterbutter",
+      "title": {
+        "tileHeadline": "Gewürzmischung Kräuterbutter, 20 g",
+        "tileHeadlineLong": "Gewürzmischung Kräuterbutter, 20 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7174,
+        "ratingCount": 46
+      }
+    }
+  },
+  {
+    "gtin": 4066447899498,
+    "dan": 1487419,
+    "brandName": "dmBio",
+    "title": "Gewürztee Chai Schoko (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gewürztee Chai Schoko (20 Beutel), 40 g; Preis: 1,95 €; Grundpreis: 0,04 kg (48,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1487419,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447899498,
+      "images": [
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035589/assets/pas/images/7bb98b43-ed27-446f-b770-c5814e4e344f/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035578/assets/pas/images/40cbfc6b-3562-469a-9d47-6c867689d225/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035584/assets/pas/images/1d367bef-ac22-457e-9580-b72c683757ea/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035573/assets/pas/images/0812b925-692a-4fd8-903d-aa625048b44f/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035568/assets/pas/images/9f05cfe9-410e-4c7e-a17f-cb2f492dfe71/dmbio-gewuerztee-chai-schoko-20-beutel"
+        },
+        {
+          "alt": "Gewürztee Chai Schoko (20 Beutel) dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761035596/assets/pas/images/306bacf4-4d3e-4db1-9064-5bd36a409aff/dmbio-gewuerztee-chai-schoko-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (45,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (48,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 157,
+        "ratingValue": 4.4395
+      },
+      "self": "/p/d/1487419/dmbio-gewuerztee-chai-schoko-20-beutel",
+      "title": {
+        "tileHeadline": "Gewürztee Chai Schoko (20 Beutel), 40 g",
+        "tileHeadlineLong": "Gewürztee Chai Schoko (20 Beutel), 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4395,
+        "ratingCount": 157
+      }
+    }
+  },
+  {
+    "gtin": 4012346113906,
+    "dan": 3064567,
+    "brandName": "LEBENSBAUM",
+    "title": "Gewürzmischung, Topping Aufs Brot, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Gewürzmischung, Topping Aufs Brot, 80 g; Preis: 3,85 €; Grundpreis: 0,08 kg (48,13 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 3064567,
+      "gtin": 4012346113906,
+      "images": [
+        {
+          "alt": "Gewürzmischung, Topping Aufs Brot LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763850257/assets/pas/images/c906f70d-28df-48c8-a65f-34c77c6f4101/lebensbaum-gewuerzmischung-topping-aufs-brot"
+        },
+        {
+          "alt": "Gewürzmischung, Topping Aufs Brot LEBENSBAUM",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762905445/assets/pas/images/e525b053-ac5f-44cd-a5d8-f89cff5bcf01/lebensbaum-gewuerzmischung-topping-aufs-brot"
+        },
+        {
+          "alt": "Gewürzmischung, Topping Aufs Brot LEBENSBAUM",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776379613/assets/pas/images/283c7c76-c3af-4104-beec-7c7a02651ba1/lebensbaum-gewuerzmischung-topping-aufs-brot"
+        },
+        {
+          "alt": "Gewürzmischung, Topping Aufs Brot LEBENSBAUM",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776464009/assets/pas/images/e830a773-224e-456a-a7ed-4bf199c6738a/lebensbaum-gewuerzmischung-topping-aufs-brot"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,60 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (44,98 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (48,13 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 40,
+        "ratingValue": 4.675
+      },
+      "self": "/p/d/3064567/lebensbaum-gewuerzmischung-topping-aufs-brot",
+      "title": {
+        "tileHeadline": "Gewürzmischung, Topping Aufs Brot, 80 g",
+        "tileHeadlineLong": "Gewürzmischung, Topping Aufs Brot, 80 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.675,
+        "ratingCount": 40
+      }
+    }
+  },
+  {
+    "gtin": 4012824404120,
+    "dan": 1596544,
+    "brandName": "YOGI TEA",
+    "title": "Gewürztee \"Kurkuma Chai\" mit Kurkuma, Zimt & Ingwer (17 Beutel), 34 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Gewürztee \"Kurkuma Chai\" mit Kurkuma, Zimt & Ingwer (17 Beutel), 34 g; Preis: 3,25 €; Grundpreis: 0,034 kg (95,59 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1596544,
+      "gtin": 4012824404120,
+      "images": [
+        {
+          "alt": "Gewürztee \"Kurkuma Chai\" mit Kurkuma, Zimt & Ingwer (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779489280/assets/pas/images/e2bd08d0-c534-4a59-b7c3-aba03252e699/yogi-tea-gewuerztee-kurkuma-chai-mit-kurkuma-zimt-und-ingwer-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,034 kg (89,34 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,034 kg (95,59 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 4.8636
+      },
+      "self": "/p/d/1596544/yogi-tea-gewuerztee-kurkuma-chai-mit-kurkuma-zimt-und-ingwer-17-beutel",
+      "title": {
+        "tileHeadline": "Gewürztee \"Kurkuma Chai\" mit Kurkuma, Zimt &..., 34 g",
+        "tileHeadlineLong": "Gewürztee \"Kurkuma Chai\" mit Kurkuma, Zimt &..., 34 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8636,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 4066447656909,
+    "dan": 1435233,
+    "brandName": "dmBio",
+    "title": "Gewürzmischung, Garam Masala, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gewürzmischung, Garam Masala, 60 g; Preis: 1,95 €; Grundpreis: 0,06 kg (32,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1435233,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447656909,
+      "images": [
+        {
+          "alt": "Gewürzmischung, Garam Masala dmBio",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484157/assets/pas/images/09e98fc8-d296-4690-856e-1fb82a89a010/dmbio-gewuerzmischung-garam-masala"
+        },
+        {
+          "alt": "Gewürzmischung, Garam Masala dmBio",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484159/assets/pas/images/a4a0fd75-a364-46bc-8dae-3bc5487c29a8/dmbio-gewuerzmischung-garam-masala"
+        },
+        {
+          "alt": "Gewürzmischung, Garam Masala dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484159/assets/pas/images/b6c77d4a-82d7-4595-a4a4-72e9f578af1d/dmbio-gewuerzmischung-garam-masala"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (30,37 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (32,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.7797
+      },
+      "self": "/p/d/1435233/dmbio-gewuerzmischung-garam-masala",
+      "title": {
+        "tileHeadline": "Gewürzmischung, Garam Masala, 60 g",
+        "tileHeadlineLong": "Gewürzmischung, Garam Masala, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7797,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4012824405493,
+    "dan": 1701121,
+    "brandName": "YOGI TEA",
+    "title": "Gewürztee \"Seelenbalsam\" mit Kakaoschale, Rooibos & Orange (17 Beutel), 32,3 g",
+    "tileData": {
+      "a11yLabel": "Marke: YOGI TEA; Produktname: Gewürztee \"Seelenbalsam\" mit Kakaoschale, Rooibos & Orange (17 Beutel), 32,3 g; Preis: 3,25 €; Grundpreis: 0,0323 kg (100,62 € je 1 kg)",
+      "brand": {
+        "name": "YOGI TEA"
+      },
+      "dan": 1701121,
+      "gtin": 4012824405493,
+      "images": [
+        {
+          "alt": "Gewürztee \"Seelenbalsam\" mit Kakaoschale, Rooibos & Orange (17 Beutel) YOGI TEA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755123809/assets/pas/images/6ee89276-2c67-4efc-9ae1-1d252e981884/yogi-tea-gewuerztee-seelenbalsam-mit-kakaoschale-rooibos-und-orange-17-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,0323 kg (94,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,0323 kg (100,62 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 73,
+        "ratingValue": 4.7397
+      },
+      "self": "/p/d/1701121/yogi-tea-gewuerztee-seelenbalsam-mit-kakaoschale-rooibos-und-orange-17-beutel",
+      "title": {
+        "tileHeadline": "Gewürztee \"Seelenbalsam\" mit Kakaoschale, Rooibos..., 32,3 g",
+        "tileHeadlineLong": "Gewürztee \"Seelenbalsam\" mit Kakaoschale, Rooibos..., 32,3 g"
+      },
+      "trackingData": {
+        "brand": "YOGI TEA",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7397,
+        "ratingCount": 73
+      }
+    }
+  },
+  {
+    "gtin": 4012346180502,
+    "dan": 3064566,
+    "brandName": "LEBENSBAUM",
+    "title": "Gewürzmischung für Tofu, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Gewürzmischung für Tofu, 60 g; Preis: 2,95 €; Grundpreis: 0,06 kg (49,17 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 3064566,
+      "gtin": 4012346180502,
+      "images": [
+        {
+          "alt": "Gewürzmischung für Tofu LEBENSBAUM",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439337/assets/pas/images/c8b8fa4b-4ad3-4bca-8c74-6ef9514ea2ef/lebensbaum-gewuerzmischung-fuer-tofu"
+        },
+        {
+          "alt": "Gewürzmischung für Tofu LEBENSBAUM",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763074997/assets/pas/images/a1ea86c1-b6c9-47eb-a335-55ddc77ffc7b/lebensbaum-gewuerzmischung-fuer-tofu"
+        },
+        {
+          "alt": "Gewürzmischung für Tofu LEBENSBAUM",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762903081/assets/pas/images/6a4540d8-5e53-4da8-8e84-a5a95b462977/lebensbaum-gewuerzmischung-fuer-tofu"
+        },
+        {
+          "alt": "Gewürzmischung für Tofu LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764382997/assets/pas/images/5f5624ec-9eb3-4632-b1b3-c2d7fd695225/lebensbaum-gewuerzmischung-fuer-tofu"
+        },
+        {
+          "alt": "Gewürzmischung für Tofu LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764455934/assets/pas/images/20075283-8bb7-48b4-b71e-373f8b404d5e/lebensbaum-gewuerzmischung-fuer-tofu"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (45,95 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (49,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 14,
+        "ratingValue": 4.8571
+      },
+      "self": "/p/d/3064566/lebensbaum-gewuerzmischung-fuer-tofu",
+      "title": {
+        "tileHeadline": "Gewürzmischung für Tofu, 60 g",
+        "tileHeadlineLong": "Gewürzmischung für Tofu, 60 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8571,
+        "ratingCount": 14
+      }
+    }
+  },
+  {
+    "gtin": 4012346155302,
+    "dan": 3064302,
+    "brandName": "LEBENSBAUM",
+    "title": "Gewürzmischung, Kräuter der Provence, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Gewürzmischung, Kräuter der Provence, 30 g; Preis: 2,95 €; Grundpreis: 0,03 kg (98,33 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 3064302,
+      "gtin": 4012346155302,
+      "images": [
+        {
+          "alt": "Gewürzmischung, Kräuter der Provence LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764975189/assets/pas/images/fd02b01e-bb88-4672-8f73-f1f9b3f09785/lebensbaum-gewuerzmischung-kraeuter-der-provence"
+        },
+        {
+          "alt": "Gewürzmischung, Kräuter der Provence LEBENSBAUM",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764975179/assets/pas/images/64d08ebc-dbab-4d14-bbb0-ffae778eda11/lebensbaum-gewuerzmischung-kraeuter-der-provence"
+        },
+        {
+          "alt": "Gewürzmischung, Kräuter der Provence LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764456315/assets/pas/images/2249e100-3afa-4a82-af05-91c62e3da6c0/lebensbaum-gewuerzmischung-kraeuter-der-provence"
+        },
+        {
+          "alt": "Gewürzmischung, Kräuter der Provence LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763848476/assets/pas/images/9a5d294d-c689-4a7b-ac6e-db19bfe3c8da/lebensbaum-gewuerzmischung-kraeuter-der-provence"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (91,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (98,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 16,
+        "ratingValue": 4.625
+      },
+      "self": "/p/d/3064302/lebensbaum-gewuerzmischung-kraeuter-der-provence",
+      "title": {
+        "tileHeadline": "Gewürzmischung, Kräuter der Provence, 30 g",
+        "tileHeadlineLong": "Gewürzmischung, Kräuter der Provence, 30 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.625,
+        "ratingCount": 16
+      }
+    }
+  },
+  {
+    "gtin": 4066447899474,
+    "dan": 1487471,
+    "brandName": "dmBio",
+    "title": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer & Kardamom (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gewürztee \"Chai Klassik\" mit Zimt, Ingwer & Kardamom (20 Beutel), 40 g; Preis: 1,65 €; Grundpreis: 0,04 kg (41,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1487471,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447899474,
+      "images": [
+        {
+          "alt": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer & Kardamom (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099347/assets/pas/images/f4d6b94d-e3a3-4ed4-b4f7-b1ff8cfe7ea9/dmbio-gewuerztee-chai-klassik-mit-zimt-ingwer-und-kardamom-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer & Kardamom (20 Beutel) dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099378/assets/pas/images/84177526-ec7e-41ae-a37c-26834901b381/dmbio-gewuerztee-chai-klassik-mit-zimt-ingwer-und-kardamom-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer & Kardamom (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099373/assets/pas/images/0180c932-db0c-420a-b71f-b9d4794927a5/dmbio-gewuerztee-chai-klassik-mit-zimt-ingwer-und-kardamom-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer & Kardamom (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764082696/assets/pas/images/1242512d-a33b-4af1-b9df-95187f312423/dmbio-gewuerztee-chai-klassik-mit-zimt-ingwer-und-kardamom-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer & Kardamom (20 Beutel) dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099367/assets/pas/images/a7e783f8-d8d2-4d87-ad2e-b4fa6ae0a033/dmbio-gewuerztee-chai-klassik-mit-zimt-ingwer-und-kardamom-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer & Kardamom (20 Beutel) dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099362/assets/pas/images/acb28f40-98df-47d4-90e7-cf5f74b024c3/dmbio-gewuerztee-chai-klassik-mit-zimt-ingwer-und-kardamom-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer & Kardamom (20 Beutel) dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759099353/assets/pas/images/59506680-0cd6-4f54-8f05-90f0847b2ae2/dmbio-gewuerztee-chai-klassik-mit-zimt-ingwer-und-kardamom-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (38,55 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (41,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 147,
+        "ratingValue": 4.5034
+      },
+      "self": "/p/d/1487471/dmbio-gewuerztee-chai-klassik-mit-zimt-ingwer-und-kardamom-20-beutel",
+      "title": {
+        "tileHeadline": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer &..., 40 g",
+        "tileHeadlineLong": "Gewürztee \"Chai Klassik\" mit Zimt, Ingwer &..., 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5034,
+        "ratingCount": 147
+      }
+    }
+  },
+  {
+    "gtin": 4012346112008,
+    "dan": 3064563,
+    "brandName": "LEBENSBAUM",
+    "title": "Gewürzmischung, Harissa, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Gewürzmischung, Harissa, 50 g; Preis: 2,95 €; Grundpreis: 0,05 kg (59,00 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 3064563,
+      "gtin": 4012346112008,
+      "images": [
+        {
+          "alt": "Gewürzmischung, Harissa LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1770851495/assets/pas/images/fd8c5970-e035-4749-ab43-a692c92baf30/lebensbaum-gewuerzmischung-harissa"
+        },
+        {
+          "alt": "Gewürzmischung, Harissa LEBENSBAUM",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777510430/assets/pas/images/bee4bf05-1799-4ace-afb8-3b69d2f56af8/lebensbaum-gewuerzmischung-harissa"
+        },
+        {
+          "alt": "Gewürzmischung, Harissa LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764901019/assets/pas/images/61d51369-f4b9-4abd-9e18-8d10ec69abcc/lebensbaum-gewuerzmischung-harissa"
+        },
+        {
+          "alt": "Gewürzmischung, Harissa LEBENSBAUM",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764901025/assets/pas/images/82242c4e-efa9-4e74-ba1f-bd023d2f8f6f/lebensbaum-gewuerzmischung-harissa"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (55,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (59,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.5882
+      },
+      "self": "/p/d/3064563/lebensbaum-gewuerzmischung-harissa",
+      "title": {
+        "tileHeadline": "Gewürzmischung, Harissa, 50 g",
+        "tileHeadlineLong": "Gewürzmischung, Harissa, 50 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5882,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 5021991940460,
+    "dan": 1492661,
+    "brandName": "Cupper",
+    "title": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel), 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: Cupper; Produktname: Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel), 40 g; Preis: 2,95 €; Grundpreis: 0,04 kg (73,75 € je 1 kg)",
+      "brand": {
+        "name": "Cupper"
+      },
+      "dan": 1492661,
+      "gtin": 5021991940460,
+      "images": [
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272745/assets/pas/images/ae66a31c-8ac2-40f7-9f09-1a2d57c39323/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272791/assets/pas/images/b5dd1d5e-06bf-445d-a478-07e7ff661bd1/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272766/assets/pas/images/5e3330a1-8804-4a45-80b8-bacb4e94300a/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272836/assets/pas/images/a8745d3f-823f-46c1-b513-74d41ed429e5/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272902/assets/pas/images/f8eb1b66-cc1d-4764-b08f-9a52ae40bfa8/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272953/assets/pas/images/cc8f5282-0da8-434d-8c34-a5ce97f88dea/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272926/assets/pas/images/3667107e-63be-48ac-be81-00352e8e8c9e/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272863/assets/pas/images/ceb4ffe9-f0f8-46f2-a027-07775c65a185/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272816/assets/pas/images/54d09d83-deab-456e-b581-137139cc7623/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        },
+        {
+          "alt": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer, schwarzer Pfeffer (20 Beutel) Cupper",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773272880/assets/pas/images/9b9823ec-6ff5-4451-b777-bc678778d944/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (68,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (73,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.8026
+      },
+      "self": "/p/d/1492661/cupper-gewuerztee-be-happy-mit-zitrone-zimt-ingwer-schwarzer-pfeffer-20-beutel",
+      "title": {
+        "tileHeadline": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer,..., 40 g",
+        "tileHeadlineLong": "Gewürztee \"Be Happy\" mit Zitrone, Zimt, Ingwer,..., 40 g"
+      },
+      "trackingData": {
+        "brand": "Cupper",
+        "categories": [
+          "Tee"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8026,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 4012346519104,
+    "dan": 3064295,
+    "brandName": "LEBENSBAUM",
+    "title": "Gewürzmischung, Cumin-Koriander-Muskat, 45 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Gewürzmischung, Cumin-Koriander-Muskat, 45 g; Preis: 3,65 €; Grundpreis: 0,045 kg (81,11 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 3064295,
+      "gtin": 4012346519104,
+      "images": [
+        {
+          "alt": "Gewürzmischung, Cumin-Koriander-Muskat LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764375782/assets/pas/images/244479c0-754a-4e8b-805e-5675ec8bbb51/lebensbaum-gewuerzmischung-cumin-koriander-muskat"
+        },
+        {
+          "alt": "Gewürzmischung, Cumin-Koriander-Muskat LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764375755/assets/pas/images/6bbb1d73-b1f9-4b1a-ada4-7d0b00accb0e/lebensbaum-gewuerzmischung-cumin-koriander-muskat"
+        },
+        {
+          "alt": "Gewürzmischung, Cumin-Koriander-Muskat LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904357/assets/pas/images/58d33bd3-edee-4ae7-9793-565df21ffd8b/lebensbaum-gewuerzmischung-cumin-koriander-muskat"
+        },
+        {
+          "alt": "Gewürzmischung, Cumin-Koriander-Muskat LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764976813/assets/pas/images/a11ff706-62f0-4567-aa30-c1730a459507/lebensbaum-gewuerzmischung-cumin-koriander-muskat"
+        },
+        {
+          "alt": "Gewürzmischung, Cumin-Koriander-Muskat LEBENSBAUM",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764976807/assets/pas/images/48b242bd-5958-424c-8b75-fba1fcd5ef2f/lebensbaum-gewuerzmischung-cumin-koriander-muskat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,41 €"
+          }
+        },
+        "tileInfos": [
+          "0,045 kg (75,80 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,045 kg (81,11 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 15,
+        "ratingValue": 4.9333
+      },
+      "self": "/p/d/3064295/lebensbaum-gewuerzmischung-cumin-koriander-muskat",
+      "title": {
+        "tileHeadline": "Gewürzmischung, Cumin-Koriander-Muskat, 45 g",
+        "tileHeadlineLong": "Gewürzmischung, Cumin-Koriander-Muskat, 45 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9333,
+        "ratingCount": 15
+      }
+    }
+  },
+  {
+    "gtin": 4066447672541,
+    "dan": 1922072,
+    "brandName": "dmBio",
+    "title": "Gewürzmischung, Avocado Mix, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Gewürzmischung, Avocado Mix, 90 g; Preis: 1,95 €; Grundpreis: 0,09 kg (21,67 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1922072,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447672541,
+      "images": [
+        {
+          "alt": "Gewürzmischung, Avocado Mix dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484445/assets/pas/images/f52a1a30-ea3e-44e1-bb32-b128107c02f7/dmbio-gewuerzmischung-avocado-mix"
+        },
+        {
+          "alt": "Gewürzmischung, Avocado Mix dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484623/assets/pas/images/a1dbeb90-6617-4388-8ecb-4b11fc075bf6/dmbio-gewuerzmischung-avocado-mix"
+        },
+        {
+          "alt": "Gewürzmischung, Avocado Mix dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484445/assets/pas/images/557bfcc9-5a11-4984-846f-1f416c5a7a70/dmbio-gewuerzmischung-avocado-mix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.403
+      },
+      "self": "/p/d/1922072/dmbio-gewuerzmischung-avocado-mix",
+      "title": {
+        "tileHeadline": "Gewürzmischung, Avocado Mix, 90 g",
+        "tileHeadlineLong": "Gewürzmischung, Avocado Mix, 90 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.403,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4066447520590,
+    "dan": 1666918,
+    "brandName": "dmBio",
+    "title": "Ceylon Zimt, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Ceylon Zimt, 50 g; Preis: 1,85 €; Grundpreis: 0,05 kg (37,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1666918,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447520590,
+      "images": [
+        {
+          "alt": "Ceylon Zimt dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483165/assets/pas/images/f5978273-8a71-4c7e-8070-56683efe8806/dmbio-ceylon-zimt"
+        },
+        {
+          "alt": "Ceylon Zimt dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482865/assets/pas/images/2bd318b2-b1b0-4dd5-ab6b-887857fa2d7f/dmbio-ceylon-zimt"
+        },
+        {
+          "alt": "Ceylon Zimt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763561259/assets/pas/images/1da58953-ace9-4cf5-9cd0-a5fee608c586/dmbio-ceylon-zimt"
+        },
+        {
+          "alt": "Ceylon Zimt dmBio",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483165/assets/pas/images/5c0d2a9a-0a58-4784-bd15-10033bbfba6b/dmbio-ceylon-zimt"
+        },
+        {
+          "alt": "Ceylon Zimt dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747483165/assets/pas/images/9b0b046e-bac2-4511-9318-217e84a272d0/dmbio-ceylon-zimt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (34,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (37,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 139,
+        "ratingValue": 3.9424
+      },
+      "self": "/p/d/1666918/dmbio-ceylon-zimt",
+      "title": {
+        "tileHeadline": "Ceylon Zimt, 50 g",
+        "tileHeadlineLong": "Ceylon Zimt, 50 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9424,
+        "ratingCount": 139
+      }
+    }
+  },
+  {
+    "gtin": 4005924108029,
+    "dan": 1491724,
+    "brandName": "Saphir",
+    "title": "Meersalz, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Saphir; Produktname: Meersalz, 500 g; Preis: 0,75 €; Grundpreis: 0,5 kg (1,50 € je 1 kg)",
+      "brand": {
+        "name": "Saphir"
+      },
+      "dan": 1491724,
+      "gtin": 4005924108029,
+      "images": [
+        {
+          "alt": "Meersalz Saphir",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432720/assets/pas/images/54f40319-6bca-4450-a19f-3acffc8e61eb/saphir-meersalz"
+        },
+        {
+          "alt": "Meersalz Saphir",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432880/assets/pas/images/f31eac25-7594-43af-bb52-103f7f5d5754/saphir-meersalz"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,70 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 4.6392
+      },
+      "self": "/p/d/1491724/saphir-meersalz",
+      "title": {
+        "tileHeadline": "Meersalz, 500 g",
+        "tileHeadlineLong": "Meersalz, 500 g"
+      },
+      "trackingData": {
+        "brand": "Saphir",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6392,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 4005924108036,
+    "dan": 1491804,
+    "brandName": "Saphir",
+    "title": "Meersalz, jodiert, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Saphir; Produktname: Meersalz, jodiert, 500 g; Preis: 0,75 €; Grundpreis: 0,5 kg (1,50 € je 1 kg)",
+      "brand": {
+        "name": "Saphir"
+      },
+      "dan": 1491804,
+      "gtin": 4005924108036,
+      "images": [
+        {
+          "alt": "Meersalz, jodiert Saphir",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747432885/assets/pas/images/8988c492-b72b-42d1-bcf8-14d559424688/saphir-meersalz-jodiert"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,70 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,40 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 85,
+        "ratingValue": 4.9647
+      },
+      "self": "/p/d/1491804/saphir-meersalz-jodiert",
+      "title": {
+        "tileHeadline": "Meersalz, jodiert, 500 g",
+        "tileHeadlineLong": "Meersalz, jodiert, 500 g"
+      },
+      "trackingData": {
+        "brand": "Saphir",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9647,
+        "ratingCount": 85
+      }
+    }
+  },
+  {
+    "gtin": 4067796188356,
+    "dan": 1666931,
+    "brandName": "dmBio",
+    "title": "Paprika, edelsüß, 70 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Paprika, edelsüß, 70 g; Preis: 1,75 €; Grundpreis: 0,07 kg (25,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1666931,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796188356,
+      "images": [
+        {
+          "alt": "Paprika, edelsüß dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488584/assets/pas/images/8ba0c7e8-bf2f-4383-9e37-ad7e6163e333/dmbio-paprika-edelsuess"
+        },
+        {
+          "alt": "Paprika, edelsüß dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488783/assets/pas/images/50f4a410-b23b-4baa-aa0f-4a2dbda3c954/dmbio-paprika-edelsuess"
+        },
+        {
+          "alt": "Paprika, edelsüß dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488495/assets/pas/images/d57354f0-08d1-4dc0-a1c4-e67987ba4574/dmbio-paprika-edelsuess"
+        },
+        {
+          "alt": "Paprika, edelsüß dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488585/assets/pas/images/cbf477c5-7987-4a79-b099-732042548331/dmbio-paprika-edelsuess"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,07 kg (23,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,07 kg (25,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.9186
+      },
+      "self": "/p/d/1666931/dmbio-paprika-edelsuess",
+      "title": {
+        "tileHeadline": "Paprika, edelsüß, 70 g",
+        "tileHeadlineLong": "Paprika, edelsüß, 70 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9186,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 4066447495409,
+    "dan": 1573521,
+    "brandName": "dmBio",
+    "title": "Kartoffel Fix, 35 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kartoffel Fix, 35 g; Preis: 0,95 €; Grundpreis: 0,035 kg (27,14 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1573521,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447495409,
+      "images": [
+        {
+          "alt": "Kartoffel Fix dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755000628/assets/pas/images/644df1a6-9e91-4bee-8f63-b9e95d7f1b3c/dmbio-kartoffel-fix"
+        },
+        {
+          "alt": "Kartoffel Fix dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755000628/assets/pas/images/2be42725-465c-4178-8af0-29b8a4568f38/dmbio-kartoffel-fix"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (25,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,035 kg (27,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.9195
+      },
+      "self": "/p/d/1573521/dmbio-kartoffel-fix",
+      "title": {
+        "tileHeadline": "Kartoffel Fix, 35 g",
+        "tileHeadlineLong": "Kartoffel Fix, 35 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9195,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4067796125153,
+    "dan": 1665593,
+    "brandName": "dmBio",
+    "title": "Kurkuma, gemahlen, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kurkuma, gemahlen, 60 g; Preis: 1,85 €; Grundpreis: 0,06 kg (30,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1665593,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796125153,
+      "images": [
+        {
+          "alt": "Kurkuma, gemahlen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774739959/assets/pas/images/485dffa4-2571-452a-966b-c842cb44c8e0/dmbio-kurkuma-gemahlen"
+        },
+        {
+          "alt": "Kurkuma, gemahlen dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774739955/assets/pas/images/8443a7ad-842d-4c02-b82c-f33d372f17bf/dmbio-kurkuma-gemahlen"
+        },
+        {
+          "alt": "Kurkuma, gemahlen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774739963/assets/pas/images/c223838d-25bb-4bb8-a62e-a5f936cb9dc6/dmbio-kurkuma-gemahlen"
+        },
+        {
+          "alt": "Kurkuma, gemahlen dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774739966/assets/pas/images/51c9c5b4-35c1-4f7c-8c81-986091cd178a/dmbio-kurkuma-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (28,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (30,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.8205
+      },
+      "self": "/p/d/1665593/dmbio-kurkuma-gemahlen",
+      "title": {
+        "tileHeadline": "Kurkuma, gemahlen, 60 g",
+        "tileHeadlineLong": "Kurkuma, gemahlen, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8205,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4066447068184,
+    "dan": 1666804,
+    "brandName": "dmBio",
+    "title": "Curry, mild, 60 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Curry, mild, 60 g; Preis: 1,85 €; Grundpreis: 0,06 kg (30,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1666804,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447068184,
+      "images": [
+        {
+          "alt": "Curry, mild dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475609/assets/pas/images/0c1a8e6f-b639-4e06-a2dd-6e2906daadcb/dmbio-curry-mild"
+        },
+        {
+          "alt": "Curry, mild dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475661/assets/pas/images/ea499f17-ae88-465e-b787-0117a2f92f79/dmbio-curry-mild"
+        },
+        {
+          "alt": "Curry, mild dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475843/assets/pas/images/bd23a48c-c6cb-4de2-afcf-c7c2217990eb/dmbio-curry-mild"
+        },
+        {
+          "alt": "Curry, mild dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475844/assets/pas/images/21294ebe-449a-4091-a5bc-bce8b3d48caf/dmbio-curry-mild"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (28,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,06 kg (30,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 71,
+        "ratingValue": 4.5352
+      },
+      "self": "/p/d/1666804/dmbio-curry-mild",
+      "title": {
+        "tileHeadline": "Curry, mild, 60 g",
+        "tileHeadlineLong": "Curry, mild, 60 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5352,
+        "ratingCount": 71
+      }
+    }
+  },
+  {
+    "gtin": 4058172640858,
+    "dan": 1592734,
+    "brandName": "dmBio",
+    "title": "Kräutersalz, ohne Jod, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kräutersalz, ohne Jod, 200 g; Preis: 1,65 €; Grundpreis: 0,2 kg (8,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1592734,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172640858,
+      "images": [
+        {
+          "alt": "Kräutersalz, ohne Jod dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453491/assets/pas/images/fb0ad836-34c3-4ad5-a424-12ffe23e9456/dmbio-kraeutersalz-ohne-jod"
+        },
+        {
+          "alt": "Kräutersalz, ohne Jod dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453418/assets/pas/images/3dd1f3e9-8ae8-43b7-8296-75d379f33455/dmbio-kraeutersalz-ohne-jod"
+        },
+        {
+          "alt": "Kräutersalz, ohne Jod dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453418/assets/pas/images/da7793ee-b5cf-4e54-af1b-759aed96d50a/dmbio-kraeutersalz-ohne-jod"
+        },
+        {
+          "alt": "Kräutersalz, ohne Jod dmBio",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453315/assets/pas/images/7de69c4e-8dad-4e5d-af72-4d9449089c7c/dmbio-kraeutersalz-ohne-jod"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (7,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (8,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 101,
+        "ratingValue": 4.5545
+      },
+      "self": "/p/d/1592734/dmbio-kraeutersalz-ohne-jod",
+      "title": {
+        "tileHeadline": "Kräutersalz, ohne Jod, 200 g",
+        "tileHeadlineLong": "Kräutersalz, ohne Jod, 200 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5545,
+        "ratingCount": 101
+      }
+    }
+  },
+  {
+    "gtin": 4012346153605,
+    "dan": 1922952,
+    "brandName": "LEBENSBAUM",
+    "title": "Oregano, gerebelt, 15 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Oregano, gerebelt, 15 g; Preis: 1,95 €; Grundpreis: 0,015 kg (130,00 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 1922952,
+      "gtin": 4012346153605,
+      "images": [
+        {
+          "alt": "Oregano, gerebelt LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764895273/assets/pas/images/92406a72-177a-4b8e-bc58-b0c5134b5cd0/lebensbaum-oregano-gerebelt"
+        },
+        {
+          "alt": "Oregano, gerebelt LEBENSBAUM",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778279174/assets/pas/images/057c458d-dd02-450a-9e06-c62593494880/lebensbaum-oregano-gerebelt"
+        },
+        {
+          "alt": "Oregano, gerebelt LEBENSBAUM",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762902844/assets/pas/images/2d03e0c5-28c5-4511-b8a5-9ae500be30c8/lebensbaum-oregano-gerebelt"
+        },
+        {
+          "alt": "Oregano, gerebelt LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764456205/assets/pas/images/ffa11403-6f1a-47d6-a4e2-7bd9d3dd13df/lebensbaum-oregano-gerebelt"
+        },
+        {
+          "alt": "Oregano, gerebelt LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849280/assets/pas/images/76eb6269-15dd-4386-8786-0ce6bf030152/lebensbaum-oregano-gerebelt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,015 kg (121,50 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,015 kg (130,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 36,
+        "ratingValue": 4.8611
+      },
+      "self": "/p/d/1922952/lebensbaum-oregano-gerebelt",
+      "title": {
+        "tileHeadline": "Oregano, gerebelt, 15 g",
+        "tileHeadlineLong": "Oregano, gerebelt, 15 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8611,
+        "ratingCount": 36
+      }
+    }
+  },
+  {
+    "gtin": 4012346179902,
+    "dan": 3064562,
+    "brandName": "LEBENSBAUM",
+    "title": "Gewürzmischischung Veggie-Küche, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Gewürzmischischung Veggie-Küche, 40 g; Preis: 2,95 €; Grundpreis: 0,04 kg (73,75 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 3064562,
+      "gtin": 4012346179902,
+      "images": [
+        {
+          "alt": "Gewürzmischischung Veggie-Küche LEBENSBAUM",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747869586/assets/pas/images/d0f7162f-549e-4dee-8edb-d1107d612531/lebensbaum-gewuerzmischischung-veggie-kueche"
+        },
+        {
+          "alt": "Gewürzmischischung Veggie-Küche LEBENSBAUM",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776467702/assets/pas/images/c9b4834e-f122-444b-b566-c044e958aa2e/lebensbaum-gewuerzmischischung-veggie-kueche"
+        },
+        {
+          "alt": "Gewürzmischischung Veggie-Küche LEBENSBAUM",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762904718/assets/pas/images/d318d56b-c84d-4c6c-9bda-5804f301b77d/lebensbaum-gewuerzmischischung-veggie-kueche"
+        },
+        {
+          "alt": "Gewürzmischischung Veggie-Küche LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764456454/assets/pas/images/95711beb-7144-4346-a3a9-bb0146118d66/lebensbaum-gewuerzmischischung-veggie-kueche"
+        },
+        {
+          "alt": "Gewürzmischischung Veggie-Küche LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763848915/assets/pas/images/3ecd049b-d422-4409-887b-305315ba3b7c/lebensbaum-gewuerzmischischung-veggie-kueche"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (68,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (73,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 29,
+        "ratingValue": 4.9655
+      },
+      "self": "/p/d/3064562/lebensbaum-gewuerzmischischung-veggie-kueche",
+      "title": {
+        "tileHeadline": "Gewürzmischischung Veggie-Küche, 40 g",
+        "tileHeadlineLong": "Gewürzmischischung Veggie-Küche, 40 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9655,
+        "ratingCount": 29
+      }
+    }
+  },
+  {
+    "gtin": 4012346156002,
+    "dan": 3064564,
+    "brandName": "LEBENSBAUM",
+    "title": "Kreuzkümmel, gemahlen, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Kreuzkümmel, gemahlen, 40 g; Preis: 3,45 €; Grundpreis: 0,04 kg (86,25 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 3064564,
+      "gtin": 4012346156002,
+      "images": [
+        {
+          "alt": "Kreuzkümmel, gemahlen LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764378254/assets/pas/images/ddef2980-478a-4419-8a5b-3518657202b4/lebensbaum-kreuzkuemmel-gemahlen"
+        },
+        {
+          "alt": "Kreuzkümmel, gemahlen LEBENSBAUM",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782085275/assets/pas/images/3bfb0e1e-964d-4531-bb24-32a33b481ec3/lebensbaum-kreuzkuemmel-gemahlen"
+        },
+        {
+          "alt": "Kreuzkümmel, gemahlen LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764976007/assets/pas/images/dc3de6c2-4fda-4557-9b72-7c6d44530a3b/lebensbaum-kreuzkuemmel-gemahlen"
+        },
+        {
+          "alt": "Kreuzkümmel, gemahlen LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764456297/assets/pas/images/91af7fbc-ecf3-4e1f-8517-576f655bc736/lebensbaum-kreuzkuemmel-gemahlen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (80,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (86,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 12,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/3064564/lebensbaum-kreuzkuemmel-gemahlen",
+      "title": {
+        "tileHeadline": "Kreuzkümmel, gemahlen, 40 g",
+        "tileHeadlineLong": "Kreuzkümmel, gemahlen, 40 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 12
+      }
+    }
+  },
+  {
+    "gtin": 4066447878295,
+    "dan": 1592774,
+    "brandName": "dmBio",
+    "title": "Schwarzer Pfeffer, ganze Körner, 70 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schwarzer Pfeffer, ganze Körner, 70 g; Preis: 1,65 €; Grundpreis: 0,07 kg (23,57 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1592774,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447878295,
+      "images": [
+        {
+          "alt": "Schwarzer Pfeffer, ganze Körner dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093016/assets/pas/images/3a19ae03-d839-44a0-a01b-b566a89b18cf/dmbio-schwarzer-pfeffer-ganze-koerner"
+        },
+        {
+          "alt": "Schwarzer Pfeffer, ganze Körner dmBio",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093019/assets/pas/images/3665879d-d1f2-4b8d-997f-aa433b62263f/dmbio-schwarzer-pfeffer-ganze-koerner"
+        },
+        {
+          "alt": "Schwarzer Pfeffer, ganze Körner dmBio",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093023/assets/pas/images/8af5c8e5-34a7-498d-96b9-547088c77900/dmbio-schwarzer-pfeffer-ganze-koerner"
+        },
+        {
+          "alt": "Schwarzer Pfeffer, ganze Körner dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093020/assets/pas/images/28425f54-a041-48d1-9254-01232cf66323/dmbio-schwarzer-pfeffer-ganze-koerner"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,07 kg (22,03 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,07 kg (23,57 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.8889
+      },
+      "self": "/p/d/1592774/dmbio-schwarzer-pfeffer-ganze-koerner",
+      "title": {
+        "tileHeadline": "Schwarzer Pfeffer, ganze Körner, 70 g",
+        "tileHeadlineLong": "Schwarzer Pfeffer, ganze Körner, 70 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8889,
+        "ratingCount": 90
+      }
+    }
+  },
+  {
+    "gtin": 4012346158501,
+    "dan": 3064565,
+    "brandName": "LEBENSBAUM",
+    "title": "Pfeffer, bunt, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Pfeffer, bunt, 50 g; Preis: 3,45 €; Grundpreis: 0,05 kg (69,00 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 3064565,
+      "gtin": 4012346158501,
+      "images": [
+        {
+          "alt": "Pfeffer, bunt LEBENSBAUM",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764373840/assets/pas/images/c121443d-d66c-4211-8b97-a0addbed8651/lebensbaum-pfeffer-bunt"
+        },
+        {
+          "alt": "Pfeffer, bunt LEBENSBAUM",
+          "backgroundColor": "#F1F9F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764373817/assets/pas/images/1a34d581-f5e5-4808-8544-9336e3623317/lebensbaum-pfeffer-bunt"
+        },
+        {
+          "alt": "Pfeffer, bunt LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764373833/assets/pas/images/7e591dad-0892-4c8d-a696-0b8699a56613/lebensbaum-pfeffer-bunt"
+        },
+        {
+          "alt": "Pfeffer, bunt LEBENSBAUM",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764456473/assets/pas/images/22599467-440f-4f64-a23f-eb1abd27678c/lebensbaum-pfeffer-bunt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (64,49 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (69,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 9,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3064565/lebensbaum-pfeffer-bunt",
+      "title": {
+        "tileHeadline": "Pfeffer, bunt, 50 g",
+        "tileHeadlineLong": "Pfeffer, bunt, 50 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Salz & Pfeffer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 9
+      }
+    }
+  },
+  {
+    "gtin": 4012346156101,
+    "dan": 1922954,
+    "brandName": "LEBENSBAUM",
+    "title": "Lorbeerblätter, ganz, 5 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Lorbeerblätter, ganz, 5 g; Preis: 2,45 €",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 1922954,
+      "gtin": 4012346156101,
+      "images": [
+        {
+          "alt": "Lorbeerblätter, ganz LEBENSBAUM",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439362/assets/pas/images/ac3df8b6-08a2-4f11-ab8e-212e662f3bcd/lebensbaum-lorbeerblaetter-ganz"
+        },
+        {
+          "alt": "Lorbeerblätter, ganz LEBENSBAUM",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778026432/assets/pas/images/2e5dae1c-0c8f-4d24-b2cd-c0f62bf063e1/lebensbaum-lorbeerblaetter-ganz"
+        },
+        {
+          "alt": "Lorbeerblätter, ganz LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764456460/assets/pas/images/c930e915-d591-4f63-a481-6043ad5e069c/lebensbaum-lorbeerblaetter-ganz"
+        },
+        {
+          "alt": "Lorbeerblätter, ganz LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763848598/assets/pas/images/7b6a62d8-c558-4165-bb9e-c24bf1c7de04/lebensbaum-lorbeerblaetter-ganz"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        }
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        }
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/1922954/lebensbaum-lorbeerblaetter-ganz",
+      "title": {
+        "tileHeadline": "Lorbeerblätter, ganz, 5 g",
+        "tileHeadlineLong": "Lorbeerblätter, ganz, 5 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 10
+      }
+    }
+  },
+  {
+    "gtin": 4012346155104,
+    "dan": 2032341,
+    "brandName": "LEBENSBAUM",
+    "title": "Thymian, gerebelt, 20 g",
+    "tileData": {
+      "a11yLabel": "Marke: LEBENSBAUM; Produktname: Thymian, gerebelt, 20 g; Preis: 2,25 €; Grundpreis: 0,02 kg (112,50 € je 1 kg)",
+      "brand": {
+        "name": "LEBENSBAUM"
+      },
+      "dan": 2032341,
+      "gtin": 4012346155104,
+      "images": [
+        {
+          "alt": "Thymian, gerebelt LEBENSBAUM",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747439246/assets/pas/images/70c24a89-9de0-4f20-af1f-3ed0317734eb/lebensbaum-thymian-gerebelt"
+        },
+        {
+          "alt": "Thymian, gerebelt LEBENSBAUM",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777501578/assets/pas/images/9ce56598-ec44-49c2-9652-8a60f74a63ca/lebensbaum-thymian-gerebelt"
+        },
+        {
+          "alt": "Thymian, gerebelt LEBENSBAUM",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764456206/assets/pas/images/5b57c989-3cb8-49b3-8377-9b1755bae79e/lebensbaum-thymian-gerebelt"
+        },
+        {
+          "alt": "Thymian, gerebelt LEBENSBAUM",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764971756/assets/pas/images/f02bfdf4-ed44-4b0e-ac43-8a83acfb456f/lebensbaum-thymian-gerebelt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (105,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,02 kg (112,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 22,
+        "ratingValue": 4.9545
+      },
+      "self": "/p/d/2032341/lebensbaum-thymian-gerebelt",
+      "title": {
+        "tileHeadline": "Thymian, gerebelt, 20 g",
+        "tileHeadlineLong": "Thymian, gerebelt, 20 g"
+      },
+      "trackingData": {
+        "brand": "LEBENSBAUM",
+        "categories": [
+          "Gewürze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9545,
+        "ratingCount": 22
+      }
+    }
+  }
+]

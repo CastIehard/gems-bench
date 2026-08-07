@@ -1,0 +1,3298 @@
+[
+  {
+    "gtin": 4058172996290,
+    "dan": 1628088,
+    "brandName": "ebelin",
+    "title": "Feuchtetücher (3x25), 75 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Feuchtetücher (3x25), 75 St; Preis: 1,95 €; Grundpreis: 75 St (0,03 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1628088,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172996290,
+      "images": [
+        {
+          "alt": "Feuchtetücher (3x25) ebelin",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774596666/assets/pas/images/b652d84d-4574-4831-a315-283b52cd7ee0/ebelin-feuchtetuecher-3x25"
+        },
+        {
+          "alt": "Feuchtetücher (3x25) ebelin",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774596672/assets/pas/images/dfc4aef9-1e7e-4e3e-9239-68843b371ac3/ebelin-feuchtetuecher-3x25"
+        },
+        {
+          "alt": "Feuchtetücher (3x25) ebelin",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747457135/assets/pas/images/d353f75b-b409-42e9-96ce-1378f0e8f69d/ebelin-feuchtetuecher-3x25"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "75 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "75 St (0,03 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.6618
+      },
+      "self": "/p/d/1628088/ebelin-feuchtetuecher-3x25",
+      "title": {
+        "tileHeadline": "Feuchtetücher (3x25), 75 St",
+        "tileHeadlineLong": "Feuchtetücher (3x25), 75 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6618,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 4067796195880,
+    "dan": 3087130,
+    "brandName": "ebelin",
+    "title": "Feuchte Waschlappen Seide, 30 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Feuchte Waschlappen Seide, 30 St; Preis: 1,45 €; Grundpreis: 30 St (4,83 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 3087130,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796195880,
+      "images": [
+        {
+          "alt": "Feuchte Waschlappen Seide ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758115030/assets/pas/images/e97530bc-fc6e-49b1-b93d-b6b32ef9492a/ebelin-feuchte-waschlappen-seide"
+        },
+        {
+          "alt": "Feuchte Waschlappen Seide ebelin",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758115050/assets/pas/images/fd221cb1-f29a-4efc-85b0-4d8c0c3097c6/ebelin-feuchte-waschlappen-seide"
+        },
+        {
+          "alt": "Feuchte Waschlappen Seide ebelin",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758151825/assets/pas/images/3db41d80-a88e-449c-9155-9c957f1e9c38/ebelin-feuchte-waschlappen-seide"
+        },
+        {
+          "alt": "Feuchte Waschlappen Seide ebelin",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758151834/assets/pas/images/23689bca-c1ef-460c-80ee-ea6d7446aa17/ebelin-feuchte-waschlappen-seide"
+        },
+        {
+          "alt": "Feuchte Waschlappen Seide ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758151846/assets/pas/images/3a7d51e7-33fe-4f4f-b28b-c71d8313fe41/ebelin-feuchte-waschlappen-seide"
+        },
+        {
+          "alt": "Feuchte Waschlappen Seide ebelin",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758151840/assets/pas/images/9785842e-4bf9-4a32-a73c-acff44186082/ebelin-feuchte-waschlappen-seide"
+        },
+        {
+          "alt": "Feuchte Waschlappen Seide ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758151830/assets/pas/images/b2f5910d-b00f-4f5d-b945-d947ed7c6f5c/ebelin-feuchte-waschlappen-seide"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "30 St (4,06 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "30 St (4,83 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.7963
+      },
+      "self": "/p/d/3087130/ebelin-feuchte-waschlappen-seide",
+      "title": {
+        "tileHeadline": "Feuchte Waschlappen Seide, 30 St",
+        "tileHeadlineLong": "Feuchte Waschlappen Seide, 30 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Feuchttücher & Co.",
+          "Handtücher & Waschlappen"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7963,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 4066447995466,
+    "dan": 1459826,
+    "brandName": "ebelin",
+    "title": "Waschlappen Ultra sensitive, 20 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Waschlappen Ultra sensitive, 20 St; Preis: 1,25 €; Grundpreis: 20 St (6,25 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1459826,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447995466,
+      "images": [
+        {
+          "alt": "Waschlappen Ultra sensitive ebelin",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777889706/assets/pas/images/02cc592e-5fc3-408d-8ecf-f216c5307f4d/ebelin-waschlappen-ultra-sensitive"
+        },
+        {
+          "alt": "Waschlappen Ultra sensitive ebelin",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777067591/assets/pas/images/af25c26a-a6f3-48b7-af19-e49808bda79b/ebelin-waschlappen-ultra-sensitive"
+        },
+        {
+          "alt": "Waschlappen Ultra sensitive ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777067598/assets/pas/images/5159e29d-97d9-4f9a-b90b-d4442c468f2d/ebelin-waschlappen-ultra-sensitive"
+        },
+        {
+          "alt": "Waschlappen Ultra sensitive ebelin",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777067588/assets/pas/images/f0efb1e3-b359-4558-8cff-5dff03dbf5da/ebelin-waschlappen-ultra-sensitive"
+        },
+        {
+          "alt": "Waschlappen Ultra sensitive ebelin",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777067584/assets/pas/images/71fb6778-7e82-42d9-ba14-31077b4ae108/ebelin-waschlappen-ultra-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "20 St (5,25 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "20 St (6,25 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.5904
+      },
+      "self": "/p/d/1459826/ebelin-waschlappen-ultra-sensitive",
+      "title": {
+        "tileHeadline": "Waschlappen Ultra sensitive, 20 St",
+        "tileHeadlineLong": "Waschlappen Ultra sensitive, 20 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5904,
+        "ratingCount": 83
+      }
+    }
+  },
+  {
+    "gtin": 4066447995428,
+    "dan": 1533610,
+    "brandName": "ebelin",
+    "title": "Feuchte Pflegetücher, 50 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Feuchte Pflegetücher, 50 St; Preis: 2,45 €; Grundpreis: 50 St (0,49 € je 10 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1533610,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447995428,
+      "images": [
+        {
+          "alt": "Feuchte Pflegetücher ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775858534/assets/pas/images/7b724992-b7c4-4000-afce-bdedddf82d3a/ebelin-feuchte-pflegetuecher"
+        },
+        {
+          "alt": "Feuchte Pflegetücher ebelin",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775858544/assets/pas/images/fa6cc78c-f6f5-4d96-be35-7f4cd799200a/ebelin-feuchte-pflegetuecher"
+        },
+        {
+          "alt": "Feuchte Pflegetücher ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775858539/assets/pas/images/bbbab550-fd1b-46f7-a8c5-fbff32ed0c6b/ebelin-feuchte-pflegetuecher"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "50 St (0,41 € je 10 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "50 St (0,49 € je 10 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 104,
+        "ratingValue": 4.8077
+      },
+      "self": "/p/d/1533610/ebelin-feuchte-pflegetuecher",
+      "title": {
+        "tileHeadline": "Feuchte Pflegetücher, 50 St",
+        "tileHeadlineLong": "Feuchte Pflegetücher, 50 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8077,
+        "ratingCount": 104
+      }
+    }
+  },
+  {
+    "gtin": 8006530116374,
+    "dan": 3117626,
+    "brandName": "Pampers",
+    "title": "Feuchttücher 99 % water (18x60 St), 1.080 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher 99 % water (18x60 St), 1.080 St; Preis: 29,95 €; Grundpreis: 1.080 St (0,03 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 3117626,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8006530116374,
+      "images": [
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603492/assets/pas/images/32899d84-24b1-4fd4-be8f-f8b3d2c9ced9/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603482/assets/pas/images/4552d9dc-8707-44e9-865b-c09dc14d7901/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895395/assets/pas/images/26014548-5630-4078-8066-09d65956e76f/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895379/assets/pas/images/bc6f7d1c-9792-4310-a578-2079c91ae278/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895412/assets/pas/images/1e54110e-41fd-4dc7-baf8-9626667fe203/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781923406/assets/pas/images/8ae6e895-8fdb-4eaf-98cc-60bce9d4a333/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783173/assets/pas/images/a02c8a94-24d7-49d9-b1b7-4fed36073e5f/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783186/assets/pas/images/5f27101f-824f-4362-a79e-77cd0b51469f/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783207/assets/pas/images/b3fee0d9-f4fb-4aaf-a116-57ef3bdd1892/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783217/assets/pas/images/f14aaef9-6ad4-4cb2-9604-de6fde32d5a7/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767783197/assets/pas/images/3259cbdc-8b24-4bf3-9381-ef50e70379d8/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778367697/assets/pas/images/c20f45d4-52bd-4a7c-bd49-fa0fc3e5a1dd/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895422/assets/pas/images/98c3df6a-08e3-497e-a7d8-05c6359abdf6/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895404/assets/pas/images/9b623bc1-c56b-42dc-b6e6-a0ea3019bf11/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603539/assets/pas/images/f49f0ca0-dac6-4995-bf4b-252d243452ce/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768603503/assets/pas/images/9110ad22-8e67-48a6-a547-03ca8853f8b2/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895387/assets/pas/images/74b155e8-0269-44db-98d2-ef526feda920/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (18x60 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776895429/assets/pas/images/bc90979d-d176-4ac1-b185-9bee8288fde1/pampers-feuchttuecher-99-prozent-water-18x60-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "25,17 €"
+          }
+        },
+        "tileInfos": [
+          "1.080 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "1.080 St (0,03 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 560,
+        "ratingValue": 4.8161
+      },
+      "self": "/p/d/3117626/pampers-feuchttuecher-99-prozent-water-18x60-st",
+      "title": {
+        "tileHeadline": "Feuchttücher 99 % water (18x60 St), 1.080 St",
+        "tileHeadlineLong": "Feuchttücher 99 % water (18x60 St), 1.080 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8164,
+        "ratingCount": 561
+      }
+    }
+  },
+  {
+    "gtin": 8006530116305,
+    "dan": 3117627,
+    "brandName": "Pampers",
+    "title": "Feuchttücher 99 % water (4x60 St), 240 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher 99 % water (4x60 St), 240 St; Preis: 7,95 €; Grundpreis: 240 St (0,03 € je 1 St)",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 3117627,
+      "gtin": 8006530116305,
+      "images": [
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892768/assets/pas/images/dee4eafe-e72e-4a19-b1e1-1bd152901556/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026838/assets/pas/images/39b23a16-f76a-4f3f-a98a-fa3bbf78e29a/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026870/assets/pas/images/8ed5e515-132d-41dd-9d9e-797c08d64ea2/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026882/assets/pas/images/c3470236-78f3-4a47-bbba-4ed897ad290e/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781919397/assets/pas/images/f7ba950c-3fc5-4e10-b437-51402090dda0/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892693/assets/pas/images/522bdd9f-90c7-4e1e-9c2b-e99c76a76046/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892719/assets/pas/images/bfcf60aa-4dff-423d-97a6-da80eadcaf8e/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892707/assets/pas/images/e2a40d83-2ada-46e4-a4f3-234516c1797e/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892730/assets/pas/images/5d585681-b02e-46d4-9729-a1464c9f228f/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765892740/assets/pas/images/86358048-4fde-47bd-9faf-6135e6b07433/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778198165/assets/pas/images/24694ab4-20fe-4fdc-9bff-7bdf24631f9a/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026861/assets/pas/images/b91ad57c-5f23-4bd4-8bdd-7d363d5668f6/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771026851/assets/pas/images/3777906e-e0fe-4b54-8388-b816b9c5f686/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        },
+        {
+          "alt": "Feuchttücher 99 % water (4x60 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772936047/assets/pas/images/d6f6e956-0361-4eeb-801a-5ba413b6e347/pampers-feuchttuecher-99-prozent-water-4x60-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "240 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "240 St (0,03 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 559,
+        "ratingValue": 4.7907
+      },
+      "self": "/p/d/3117627/pampers-feuchttuecher-99-prozent-water-4x60-st",
+      "title": {
+        "tileHeadline": "Feuchttücher 99 % water (4x60 St), 240 St",
+        "tileHeadlineLong": "Feuchttücher 99 % water (4x60 St), 240 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7907,
+        "ratingCount": 559
+      }
+    }
+  },
+  {
+    "gtin": 8006530139977,
+    "dan": 3117628,
+    "brandName": "Pampers",
+    "title": "Feuchttücher aqua soft touch (18x48 St), 864 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher aqua soft touch (18x48 St), 864 St; Preis: 29,95 €; Grundpreis: 864 St (0,03 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 3117628,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8006530139977,
+      "images": [
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769726372/assets/pas/images/a826d4a4-048f-4a71-8e8f-a170b66cdaa7/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767914217/assets/pas/images/f41893ad-021e-4b59-ae01-a90344b18648/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781910163/assets/pas/images/c8269427-a4e9-485d-bb34-cdab067ca487/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767914228/assets/pas/images/7a36700a-9952-41f0-ab79-ca34046ee6b9/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767914236/assets/pas/images/dfa672d6-6b5b-4b4f-8d6b-53308067ae09/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767914247/assets/pas/images/ebdd0d23-508f-4428-9d31-013cda320360/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767914206/assets/pas/images/5df456ec-c05c-49fd-9832-645581572c9e/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780537583/assets/pas/images/68c4bb8b-45cc-43bf-bd8c-c32fa9ec9034/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772935630/assets/pas/images/6d0d8c40-792d-429d-b7f7-8b3123b5bdea/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (18x48 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781219804/assets/pas/images/5a512df9-e5c9-4b5d-b841-3a4b4b7e505b/pampers-feuchttuecher-aqua-soft-touch-18x48-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "25,17 €"
+          }
+        },
+        "tileInfos": [
+          "864 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "864 St (0,03 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 139,
+        "ratingValue": 4.8777
+      },
+      "self": "/p/d/3117628/pampers-feuchttuecher-aqua-soft-touch-18x48-st",
+      "title": {
+        "tileHeadline": "Feuchttücher aqua soft touch (18x48 St), 864 St",
+        "tileHeadlineLong": "Feuchttücher aqua soft touch (18x48 St), 864 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8777,
+        "ratingCount": 139
+      }
+    }
+  },
+  {
+    "gtin": 4066447995503,
+    "dan": 1541990,
+    "brandName": "Sanft&Sicher",
+    "title": "Feuchtes Toilettenpapier Ultra Sensitiv (2x50 Stück), 100 St",
+    "tileData": {
+      "a11yLabel": "Marke: Sanft&Sicher; Produktname: Feuchtes Toilettenpapier Ultra Sensitiv (2x50 Stück), 100 St; Preis: 2,95 €; Grundpreis: 100 St (2,95 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Sanft&Sicher"
+      },
+      "dan": 1541990,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447995503,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier Ultra Sensitiv (2x50 Stück) Sanft&Sicher",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237635/assets/pas/images/d3dc79ca-02d3-4fe4-8092-6ba9a8fc1f0d/sanft-und-sicher-feuchtes-toilettenpapier-ultra-sensitiv-2x50-stueck"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Ultra Sensitiv (2x50 Stück) Sanft&Sicher",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237639/assets/pas/images/5ebb1350-528f-4a20-bd50-e1bd73ac04e6/sanft-und-sicher-feuchtes-toilettenpapier-ultra-sensitiv-2x50-stueck"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Ultra Sensitiv (2x50 Stück) Sanft&Sicher",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779237642/assets/pas/images/53f9d65e-cab1-4679-b7ba-47675cf147b2/sanft-und-sicher-feuchtes-toilettenpapier-ultra-sensitiv-2x50-stueck"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "100 St (2,48 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "100 St (2,95 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 332,
+        "ratingValue": 4.244
+      },
+      "self": "/p/d/1541990/sanft-und-sicher-feuchtes-toilettenpapier-ultra-sensitiv-2x50-stueck",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier Ultra Sensitiv (2x50..., 100 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier Ultra Sensitiv (2x50..., 100 St"
+      },
+      "trackingData": {
+        "brand": "Sanft&Sicher",
+        "categories": [
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.244,
+        "ratingCount": 332
+      }
+    }
+  },
+  {
+    "gtin": 4066447980844,
+    "dan": 1692141,
+    "brandName": "Sanft&Sicher",
+    "title": "Feuchtes Toilettenpapier Zarte Pflege (3x50 St), 150 St",
+    "tileData": {
+      "a11yLabel": "Marke: Sanft&Sicher; Produktname: Feuchtes Toilettenpapier Zarte Pflege (3x50 St), 150 St; Preis: 2,95 €; Grundpreis: 150 St (1,97 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Sanft&Sicher"
+      },
+      "dan": 1692141,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447980844,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier Zarte Pflege (3x50 St) Sanft&Sicher",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774397031/assets/pas/images/4c18ec90-87da-4981-92cf-7f1c89b393e6/sanft-und-sicher-feuchtes-toilettenpapier-zarte-pflege-3x50-st"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Zarte Pflege (3x50 St) Sanft&Sicher",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774397023/assets/pas/images/ad424945-eafa-423f-8e53-f76b612f892f/sanft-und-sicher-feuchtes-toilettenpapier-zarte-pflege-3x50-st"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Zarte Pflege (3x50 St) Sanft&Sicher",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774397017/assets/pas/images/dcf99d04-233c-437a-852d-3787945a28b8/sanft-und-sicher-feuchtes-toilettenpapier-zarte-pflege-3x50-st"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Zarte Pflege (3x50 St) Sanft&Sicher",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774397027/assets/pas/images/3f2aeecd-e47c-4c53-888b-2bb71392d163/sanft-und-sicher-feuchtes-toilettenpapier-zarte-pflege-3x50-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "150 St (1,66 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "150 St (1,97 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 363,
+        "ratingValue": 4.3471
+      },
+      "self": "/p/d/1692141/sanft-und-sicher-feuchtes-toilettenpapier-zarte-pflege-3x50-st",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier Zarte Pflege (3x50 St), 150 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier Zarte Pflege (3x50 St), 150 St"
+      },
+      "trackingData": {
+        "brand": "Sanft&Sicher",
+        "categories": [
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3462,
+        "ratingCount": 364
+      }
+    }
+  },
+  {
+    "gtin": 8001841062754,
+    "dan": 1888279,
+    "brandName": "Pampers",
+    "title": "Feuchttücher Sensitive (4x80 St), 320 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher Sensitive (4x80 St), 320 St; Preis: 7,95 €; Grundpreis: 320 St (0,02 € je 1 St)",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 1888279,
+      "gtin": 8001841062754,
+      "images": [
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442730/assets/pas/images/c2e40429-4226-4c04-ba13-69eacf7ce216/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442688/assets/pas/images/8fd13f57-8142-41ef-8a19-8412ce996fbd/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442711/assets/pas/images/771ff34a-b6e1-491f-805f-d0eb98408b3a/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442700/assets/pas/images/1546e6f8-e6cc-4ac8-b96b-a68718181e18/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442782/assets/pas/images/24d75e16-d7a4-4642-a23c-c2726a7bc6f2/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442750/assets/pas/images/4420969f-78ae-4f51-957b-b4a064a5b75b/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442772/assets/pas/images/515237d2-4efd-4c7e-b08a-557f87aecee6/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442761/assets/pas/images/b8034cb2-abd6-4d79-8c5d-07b3eb8ed312/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442790/assets/pas/images/65b343e6-93a4-4d26-a1cf-7f0f56ceec8a/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778198975/assets/pas/images/0e35b1a2-7ec5-47f7-860d-3030bdd6b7dd/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442722/assets/pas/images/3873d560-c94a-47b0-a312-a4d59151e353/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765442742/assets/pas/images/b5e91012-21c0-4fa4-9cb0-9b51a003803a/pampers-feuchttuecher-sensitive-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Sensitive (4x80 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772930833/assets/pas/images/9f302099-6b47-4668-ae36-cb4803e48773/pampers-feuchttuecher-sensitive-4x80-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "320 St (0,02 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "320 St (0,02 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 240,
+        "ratingValue": 4.6708
+      },
+      "self": "/p/d/1888279/pampers-feuchttuecher-sensitive-4x80-st",
+      "title": {
+        "tileHeadline": "Feuchttücher Sensitive (4x80 St), 320 St",
+        "tileHeadlineLong": "Feuchttücher Sensitive (4x80 St), 320 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6708,
+        "ratingCount": 240
+      }
+    }
+  },
+  {
+    "gtin": 8001841063188,
+    "dan": 1691425,
+    "brandName": "Pampers",
+    "title": "Feuchttücher sensitive (15x80 St), Vorteilspack, 1.200 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher sensitive (15x80 St), Vorteilspack, 1.200 St; Preis: 23,45 €; Grundpreis: 1.200 St (0,02 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 1691425,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8001841063188,
+      "images": [
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547886/assets/pas/images/b4ce3f50-f023-4844-9ea3-34cfa79b9c6e/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547922/assets/pas/images/1445b9e4-0040-4fd6-9af8-df1e085eca8e/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764893861/assets/pas/images/4e0f97f5-6fd5-44a2-ba71-3b353f0b3b11/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764893824/assets/pas/images/01771862-d3d2-4c33-b542-37fef1bd61ce/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764893836/assets/pas/images/7a9e6459-9956-4043-8fbd-fea38912b14c/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764893849/assets/pas/images/6adf781e-4634-4857-bad0-1a7a7d161667/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764893869/assets/pas/images/205c9bf1-7d70-4ad9-a131-a2811eede5c2/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778371053/assets/pas/images/0bf500e2-e7fe-414d-9a67-55fbd0896b5f/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747513771/assets/pas/images/67a2113d-da6c-45b9-a647-db4a1f1b53b8/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547958/assets/pas/images/b274ac39-a650-407c-a6e9-4f3abbfa97f9/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher sensitive (15x80 St), Vorteilspack Pampers",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771547898/assets/pas/images/9694fa29-c7ed-4de6-88a2-97b5860cb756/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "19,71 €"
+          }
+        },
+        "tileInfos": [
+          "1.200 St (0,02 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "23,45 €"
+          }
+        },
+        "tileInfos": [
+          "1.200 St (0,02 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 835,
+        "ratingValue": 4.8287
+      },
+      "self": "/p/d/1691425/pampers-feuchttuecher-sensitive-15x80-st-vorteilspack",
+      "title": {
+        "tileHeadline": "Feuchttücher sensitive (15x80 St), Vorteilspack, 1.200 St",
+        "tileHeadlineLong": "Feuchttücher sensitive (15x80 St), Vorteilspack, 1.200 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Frühchen",
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 23.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8287,
+        "ratingCount": 835
+      }
+    }
+  },
+  {
+    "gtin": 4070765016871,
+    "dan": 3068386,
+    "brandName": "Sanft&Sicher",
+    "title": "Feuchtes Toilettenpapier Maxi Pack, 80 St",
+    "tileData": {
+      "a11yLabel": "Marke: Sanft&Sicher; Produktname: Feuchtes Toilettenpapier Maxi Pack, 80 St; Preis: 1,75 €; Grundpreis: 80 St (2,19 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Sanft&Sicher"
+      },
+      "dan": 3068386,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016871,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier Maxi Pack Sanft&Sicher",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773183857/assets/pas/images/b0a20a52-55e2-4870-8e96-5b3ca73e5025/sanft-und-sicher-feuchtes-toilettenpapier-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Maxi Pack Sanft&Sicher",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773183863/assets/pas/images/45d5254f-85f4-444f-9f78-1a2e998c7cef/sanft-und-sicher-feuchtes-toilettenpapier-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Maxi Pack Sanft&Sicher",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773183870/assets/pas/images/17922891-5c51-4165-abcd-a6d66ed848ac/sanft-und-sicher-feuchtes-toilettenpapier-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Maxi Pack Sanft&Sicher",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773183875/assets/pas/images/0825a3be-dc88-4127-80d5-d54d321f8228/sanft-und-sicher-feuchtes-toilettenpapier-maxi-pack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "80 St (1,84 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "80 St (2,19 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 95,
+        "ratingValue": 4.5053
+      },
+      "self": "/p/d/3068386/sanft-und-sicher-feuchtes-toilettenpapier-maxi-pack",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier Maxi Pack, 80 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier Maxi Pack, 80 St"
+      },
+      "trackingData": {
+        "brand": "Sanft&Sicher",
+        "categories": [
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5053,
+        "ratingCount": 95
+      }
+    }
+  },
+  {
+    "gtin": 8001841078052,
+    "dan": 1888280,
+    "brandName": "Pampers",
+    "title": "Feuchttücher Fresh & Clean (4x80 St), 320 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher Fresh & Clean (4x80 St), 320 St; Preis: 7,95 €; Grundpreis: 320 St (0,02 € je 1 St)",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 1888280,
+      "gtin": 8001841078052,
+      "images": [
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765443905/assets/pas/images/92f084ac-3de2-45e5-a2e3-68fe065a20fd/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765443918/assets/pas/images/933063e8-8da8-4ead-917b-edea7b7cb708/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765443892/assets/pas/images/4c3bc1cb-860a-401d-b618-a4ff1ee56be8/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765443952/assets/pas/images/374e186a-4c0a-4c8e-844e-1be31201b063/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765443965/assets/pas/images/4cd2c1f7-a34b-49ea-93b3-d818028ce185/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765443977/assets/pas/images/0578acf8-c6a5-4590-b934-9713d5e06cff/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765443987/assets/pas/images/56144031-d65f-4864-ab80-8d04e2e20b04/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765444000/assets/pas/images/5ae21a09-b8eb-47bb-9884-b0e796271944/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765444009/assets/pas/images/1e6c0bbc-9b77-4f05-843e-a502c28272b3/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778191096/assets/pas/images/abfae1e2-fa61-496b-aebd-4d833dfc1c78/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765443933/assets/pas/images/fc443c27-b446-41b5-b3f7-801e45e04894/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765443943/assets/pas/images/713d9395-47d6-4484-ad51-bc7017513ef6/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        },
+        {
+          "alt": "Feuchttücher Fresh & Clean (4x80 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772929149/assets/pas/images/f497138d-5b26-4a51-b34a-ec5ecd676871/pampers-feuchttuecher-fresh-und-clean-4x80-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "320 St (0,02 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "320 St (0,02 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 569,
+        "ratingValue": 4.696
+      },
+      "self": "/p/d/1888280/pampers-feuchttuecher-fresh-und-clean-4x80-st",
+      "title": {
+        "tileHeadline": "Feuchttücher Fresh & Clean (4x80 St), 320 St",
+        "tileHeadlineLong": "Feuchttücher Fresh & Clean (4x80 St), 320 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6947,
+        "ratingCount": 570
+      }
+    }
+  },
+  {
+    "gtin": 4062300445543,
+    "dan": 1701108,
+    "brandName": "HiPP Babysanft",
+    "title": "Feuchttücher Ultra sensitiv 5x48 St., 240 St",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP Babysanft; Produktname: Feuchttücher Ultra sensitiv 5x48 St., 240 St; Preis: 4,95 €; Grundpreis: 240 St (0,02 € je 1 St); Grafik: Öko Test HiPP Feuchttücher Ultra Senstiv sehr gut Öko-TEST Magazin10/2024",
+      "brand": {
+        "name": "HiPP Babysanft"
+      },
+      "dan": 1701108,
+      "eyecatchers": [
+        {
+          "alt": "Grafik: Öko Test HiPP Feuchttücher Ultra Senstiv sehr gut Öko-TEST Magazin10/2024",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768550965/assets/pas/seals/ebf270c8-a28f-4f73-aaa0-f324f767b447/ebf270c8-a28f-4f73-aaa0-f324f767b447.png",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768550965/assets/pas/seals/ebf270c8-a28f-4f73-aaa0-f324f767b447/ebf270c8-a28f-4f73-aaa0-f324f767b447.png"
+        }
+      ],
+      "gtin": 4062300445543,
+      "images": [
+        {
+          "alt": "Feuchttücher Ultra sensitiv 5x48 St. HiPP Babysanft",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1750891923/assets/pas/images/52ddfeb8-b692-438a-987b-1c85e57753cc/hipp-babysanft-feuchttuecher-ultra-sensitiv-5x48-st"
+        },
+        {
+          "alt": "Feuchttücher Ultra sensitiv 5x48 St. HiPP Babysanft",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751933585/assets/pas/images/03c9fb58-caa2-49cc-bc7c-3648fe265172/hipp-babysanft-feuchttuecher-ultra-sensitiv-5x48-st"
+        },
+        {
+          "alt": "Feuchttücher Ultra sensitiv 5x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751320700/assets/pas/images/38685626-09cd-4708-ba90-9d01624613e6/hipp-babysanft-feuchttuecher-ultra-sensitiv-5x48-st"
+        },
+        {
+          "alt": "Feuchttücher Ultra sensitiv 5x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474182/assets/pas/images/dc500f48-905a-4208-b29b-dec0f4a9d8b4/hipp-babysanft-feuchttuecher-ultra-sensitiv-5x48-st"
+        },
+        {
+          "alt": "Feuchttücher Ultra sensitiv 5x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747474165/assets/pas/images/e2c8c214-d5cd-4ee9-ac77-b72d5c9f3e3b/hipp-babysanft-feuchttuecher-ultra-sensitiv-5x48-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "240 St (0,02 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "240 St (0,02 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 418,
+        "ratingValue": 4.5311
+      },
+      "self": "/p/d/1701108/hipp-babysanft-feuchttuecher-ultra-sensitiv-5x48-st",
+      "title": {
+        "tileHeadline": "Feuchttücher Ultra sensitiv 5x48 St., 240 St",
+        "tileHeadlineLong": "Feuchttücher Ultra sensitiv 5x48 St., 240 St"
+      },
+      "trackingData": {
+        "brand": "HiPP Babysanft",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5311,
+        "ratingCount": 418
+      }
+    }
+  },
+  {
+    "gtin": 4262459491242,
+    "dan": 1541521,
+    "brandName": "LILLYDOO",
+    "title": "Feuchttücher mit 99 % Wasser, 60 St",
+    "tileData": {
+      "a11yLabel": "Marke: LILLYDOO; Produktname: Feuchttücher mit 99 % Wasser, 60 St; Preis: 3,25 €; Grundpreis: 60 St (0,05 € je 1 St)",
+      "brand": {
+        "name": "LILLYDOO"
+      },
+      "dan": 1541521,
+      "gtin": 4262459491242,
+      "images": [
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759962175/assets/pas/images/365379f6-cc21-4add-bea3-a5b41562c7c7/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495896/assets/pas/images/c6f1a1f3-368b-4126-90cb-556809d43370/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082090/assets/pas/images/6f22964c-b0a4-43c5-ba70-50eef8959b8e/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082057/assets/pas/images/95bd95ad-5459-4bfd-bb30-350524110207/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082107/assets/pas/images/c6501465-381f-4826-adcd-1669d639b243/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082075/assets/pas/images/34c9a2ef-7da4-4520-abbe-61c49bea973c/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082143/assets/pas/images/979e8462-f0a6-41a4-9e20-afa54fb6957f/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784082126/assets/pas/images/2fdc2a0f-2eb2-4fbe-aa24-cc3de3a9a2e4/lillydoo-feuchttuecher-mit-99-prozent-wasser"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,73 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (0,04 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (0,05 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 330,
+        "ratingValue": 4.5576
+      },
+      "self": "/p/d/1541521/lillydoo-feuchttuecher-mit-99-prozent-wasser",
+      "title": {
+        "tileHeadline": "Feuchttücher mit 99 % Wasser, 60 St",
+        "tileHeadlineLong": "Feuchttücher mit 99 % Wasser, 60 St"
+      },
+      "trackingData": {
+        "brand": "LILLYDOO",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5576,
+        "ratingCount": 330
+      }
+    }
+  },
+  {
+    "gtin": 7322541420493,
+    "dan": 1621345,
+    "brandName": "Tempo",
+    "title": "Feuchtes Toilettenpapier sanft & frisch (2x42 St), 84 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Feuchtes Toilettenpapier sanft & frisch (2x42 St), 84 St; Preis: 3,35 €; Grundpreis: 84 St (3,99 € je 100 St); Limitierte Editition Grafik",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1621345,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        }
+      ],
+      "gtin": 7322541420493,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier sanft & frisch (2x42 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762209622/assets/pas/images/0a267a52-9d6b-4f96-a833-7714b7b49603/tempo-feuchtes-toilettenpapier-sanft-und-frisch-2x42-st"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier sanft & frisch (2x42 St) Tempo",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762383154/assets/pas/images/5a9b971d-4685-4562-888e-b3819a5f58bb/tempo-feuchtes-toilettenpapier-sanft-und-frisch-2x42-st"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier sanft & frisch (2x42 St) Tempo",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762383147/assets/pas/images/31ab3847-d07d-4619-aa46-40ac6480a99f/tempo-feuchtes-toilettenpapier-sanft-und-frisch-2x42-st"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier sanft & frisch (2x42 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769553943/assets/pas/images/08ab1db3-b57a-44c3-ad65-de9e7b45ddb6/tempo-feuchtes-toilettenpapier-sanft-und-frisch-2x42-st"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier sanft & frisch (2x42 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769553953/assets/pas/images/77577d90-5bb9-47b3-9f8f-bf380faa3007/tempo-feuchtes-toilettenpapier-sanft-und-frisch-2x42-st"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier sanft & frisch (2x42 St) Tempo",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769553934/assets/pas/images/7d728a0a-0d2b-4490-8041-dc5b3d8d212e/tempo-feuchtes-toilettenpapier-sanft-und-frisch-2x42-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,82 €"
+          }
+        },
+        "tileInfos": [
+          "84 St (3,35 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,35 €"
+          }
+        },
+        "tileInfos": [
+          "84 St (3,99 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 126,
+        "ratingValue": 4.8254
+      },
+      "self": "/p/d/1621345/tempo-feuchtes-toilettenpapier-sanft-und-frisch-2x42-st",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier sanft & frisch (2x42 St), 84 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier sanft & frisch (2x42 St), 84 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.35
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8254,
+        "ratingCount": 126
+      }
+    }
+  },
+  {
+    "gtin": 5099514002735,
+    "dan": 1689622,
+    "brandName": "WaterWipes",
+    "title": "Feuchttücher (3x48 St), 144 St",
+    "tileData": {
+      "a11yLabel": "Marke: WaterWipes; Produktname: Feuchttücher (3x48 St), 144 St; Preis: 7,45 €; Grundpreis: 144 St (0,05 € je 1 St); Grafik: Hebammen-testen.de 98% Empfehlung für WaterWipes Baby-Feuchttücher - biologisch abbaubar von 100 Hebammen 10/2021 Lz.Nr. 1001682",
+      "brand": {
+        "name": "WaterWipes"
+      },
+      "dan": 1689622,
+      "eyecatchers": [
+        {
+          "alt": "Grafik: Hebammen-testen.de 98% Empfehlung für WaterWipes Baby-Feuchttücher - biologisch abbaubar von 100 Hebammen 10/2021 Lz.Nr. 1001682",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768819730/assets/pas/seals/a5ef9be9-8941-442e-a947-96b4788d74ff/a5ef9be9-8941-442e-a947-96b4788d74ff.png",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768819730/assets/pas/seals/a5ef9be9-8941-442e-a947-96b4788d74ff/a5ef9be9-8941-442e-a947-96b4788d74ff.png"
+        }
+      ],
+      "gtin": 5099514002735,
+      "images": [
+        {
+          "alt": "Feuchttücher (3x48 St) WaterWipes",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772928639/assets/pas/images/f104cf8c-ac5d-4ada-a05b-28a0c7e0c767/waterwipes-feuchttuecher-3x48-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,26 €"
+          }
+        },
+        "tileInfos": [
+          "144 St (0,04 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,45 €"
+          }
+        },
+        "tileInfos": [
+          "144 St (0,05 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 191,
+        "ratingValue": 4.6545
+      },
+      "self": "/p/d/1689622/waterwipes-feuchttuecher-3x48-st",
+      "title": {
+        "tileHeadline": "Feuchttücher (3x48 St), 144 St",
+        "tileHeadlineLong": "Feuchttücher (3x48 St), 144 St"
+      },
+      "trackingData": {
+        "brand": "WaterWipes",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6545,
+        "ratingCount": 191
+      }
+    }
+  },
+  {
+    "gtin": 4062300446663,
+    "dan": 1701105,
+    "brandName": "HiPP Babysanft",
+    "title": "Feuchttücher Soft & Pur 18x48 St., 864 St",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP Babysanft; Produktname: Feuchttücher Soft & Pur 18x48 St., 864 St; Preis: 24,15 €; Grundpreis: 864 St (0,03 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "HiPP Babysanft"
+      },
+      "dan": 1701105,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4062300446663,
+      "images": [
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778373228/assets/pas/images/c33918f5-74e7-438d-a3ff-3b8a4bfc20ed/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782008982/assets/pas/images/3c202964-43e5-497e-be84-131ac298994a/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777598490/assets/pas/images/ad084a8d-3d35-4e97-9bb7-8d872cc3d030/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418717/assets/pas/images/d6f57f20-5611-4237-9e2b-3c00e8f19ec1/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418710/assets/pas/images/d15464fd-754b-40b2-bd7c-7994ec23c54d/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418704/assets/pas/images/66a73a9a-4dec-4602-a9cd-95117742fc50/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418696/assets/pas/images/0e5c5ec0-018b-493c-a2b3-4962a3b95368/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418683/assets/pas/images/6cc37065-36bb-4a82-a1f7-043c2f444299/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418676/assets/pas/images/c90cc8e5-1e4d-49bf-b69e-96a03bbdfe87/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418668/assets/pas/images/92be64ba-ab37-4ea8-9a21-76d51902da64/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777418661/assets/pas/images/ca23e0b8-1f4d-4c05-a56a-6231959f37fe/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 18x48 St.  HiPP Babysanft",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778373220/assets/pas/images/47d71982-79d4-45a3-83b0-f8b236ffc57c/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "20,29 €"
+          }
+        },
+        "tileInfos": [
+          "864 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "24,15 €"
+          }
+        },
+        "tileInfos": [
+          "864 St (0,03 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 358,
+        "ratingValue": 4.5447
+      },
+      "self": "/p/d/1701105/hipp-babysanft-feuchttuecher-soft-und-pur-18x48-st",
+      "title": {
+        "tileHeadline": "Feuchttücher Soft & Pur 18x48 St., 864 St",
+        "tileHeadlineLong": "Feuchttücher Soft & Pur 18x48 St., 864 St"
+      },
+      "trackingData": {
+        "brand": "HiPP Babysanft",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 24.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5447,
+        "ratingCount": 358
+      }
+    }
+  },
+  {
+    "gtin": 40623474,
+    "dan": 1436529,
+    "brandName": "HiPP Babysanft",
+    "title": "Feuchttücher Gesicht & Hände Tücher, Reisegröße, 20 St",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP Babysanft; Produktname: Feuchttücher Gesicht & Hände Tücher, Reisegröße, 20 St; Preis: 1,15 €; Grundpreis: 20 St (5,75 € je 100 St)",
+      "brand": {
+        "name": "HiPP Babysanft"
+      },
+      "dan": 1436529,
+      "gtin": 40623474,
+      "images": [
+        {
+          "alt": "Feuchttücher Gesicht & Hände Tücher, Reisegröße HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773793977/assets/pas/images/2259a629-4821-4a41-ad31-244cce17d7c1/hipp-babysanft-feuchttuecher-gesicht-und-haende-tuecher-reisegroesse"
+        },
+        {
+          "alt": "Feuchttücher Gesicht & Hände Tücher, Reisegröße HiPP Babysanft",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779497216/assets/pas/images/c8fc146e-dd0f-4584-a091-2658c4f893fe/hipp-babysanft-feuchttuecher-gesicht-und-haende-tuecher-reisegroesse"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,97 €"
+          }
+        },
+        "tileInfos": [
+          "20 St (4,83 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "20 St (5,75 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 173,
+        "ratingValue": 4.5202
+      },
+      "self": "/p/d/1436529/hipp-babysanft-feuchttuecher-gesicht-und-haende-tuecher-reisegroesse",
+      "title": {
+        "tileHeadline": "Feuchttücher Gesicht & Hände Tücher, Reisegröße, 20 St",
+        "tileHeadlineLong": "Feuchttücher Gesicht & Hände Tücher, Reisegröße, 20 St"
+      },
+      "trackingData": {
+        "brand": "HiPP Babysanft",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5202,
+        "ratingCount": 173
+      }
+    }
+  },
+  {
+    "gtin": 7322542528334,
+    "dan": 3068385,
+    "brandName": "Tempo",
+    "title": "Feuchtes Toilettenpapier Family Maxi Pack, 84 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Feuchtes Toilettenpapier Family Maxi Pack, 84 St; Preis: 3,25 €; Grundpreis: 84 St (3,87 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 3068385,
+      "gtin": 7322542528334,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier Family Maxi Pack  Tempo",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773103455/assets/pas/images/339c39da-acf6-4017-9102-9eae5be54fa5/tempo-feuchtes-toilettenpapier-family-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Family Maxi Pack  Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779234057/assets/pas/images/d3333082-2ca5-41d5-86e9-80c8273c2d85/tempo-feuchtes-toilettenpapier-family-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Family Maxi Pack  Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778534717/assets/pas/images/6683574d-628f-40bd-b6ee-91eb754bf714/tempo-feuchtes-toilettenpapier-family-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Family Maxi Pack  Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777593875/assets/pas/images/498f802d-6e4b-4fb4-b084-51897864b374/tempo-feuchtes-toilettenpapier-family-maxi-pack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,73 €"
+          }
+        },
+        "tileInfos": [
+          "84 St (3,25 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,25 €"
+          }
+        },
+        "tileInfos": [
+          "84 St (3,87 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.7705
+      },
+      "self": "/p/d/3068385/tempo-feuchtes-toilettenpapier-family-maxi-pack",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier Family Maxi Pack, 84 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier Family Maxi Pack, 84 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7705,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 8006530140034,
+    "dan": 3117629,
+    "brandName": "Pampers",
+    "title": "Feuchttücher aqua soft touch (4x48 St), 192 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher aqua soft touch (4x48 St), 192 St; Preis: 7,95 €; Grundpreis: 192 St (0,04 € je 1 St)",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 3117629,
+      "gtin": 8006530140034,
+      "images": [
+        {
+          "alt": "Feuchttücher aqua soft touch (4x48 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781910532/assets/pas/images/ad00ab99-d5bd-45df-99fb-6250802b3afe/pampers-feuchttuecher-aqua-soft-touch-4x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (4x48 St) Pampers",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781910553/assets/pas/images/91024837-207a-48da-900c-c9e8dfa6beb7/pampers-feuchttuecher-aqua-soft-touch-4x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (4x48 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765973643/assets/pas/images/78547d08-520f-47f4-99bc-99eada13b41a/pampers-feuchttuecher-aqua-soft-touch-4x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (4x48 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781910599/assets/pas/images/0a84ea17-2cb5-4a86-901a-329ff7587baa/pampers-feuchttuecher-aqua-soft-touch-4x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (4x48 St) Pampers",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765973604/assets/pas/images/4eccc1b0-6850-4a2e-a0d1-7bb64a737c9f/pampers-feuchttuecher-aqua-soft-touch-4x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (4x48 St) Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765973568/assets/pas/images/317b9b2e-7a82-4c74-830f-7fe2177f0828/pampers-feuchttuecher-aqua-soft-touch-4x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (4x48 St) Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765973595/assets/pas/images/506f543c-aab0-45fd-9e47-fbce50a4dccf/pampers-feuchttuecher-aqua-soft-touch-4x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (4x48 St) Pampers",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765973657/assets/pas/images/47886c05-cbc1-4000-a8a0-52e959911859/pampers-feuchttuecher-aqua-soft-touch-4x48-st"
+        },
+        {
+          "alt": "Feuchttücher aqua soft touch (4x48 St) Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780538415/assets/pas/images/3c55fbef-4784-4f43-988d-9f45421ff84b/pampers-feuchttuecher-aqua-soft-touch-4x48-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,68 €"
+          }
+        },
+        "tileInfos": [
+          "192 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "192 St (0,04 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 138,
+        "ratingValue": 4.7391
+      },
+      "self": "/p/d/3117629/pampers-feuchttuecher-aqua-soft-touch-4x48-st",
+      "title": {
+        "tileHeadline": "Feuchttücher aqua soft touch (4x48 St), 192 St",
+        "tileHeadlineLong": "Feuchttücher aqua soft touch (4x48 St), 192 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7391,
+        "ratingCount": 138
+      }
+    }
+  },
+  {
+    "gtin": 8001841078496,
+    "dan": 1691426,
+    "brandName": "Pampers",
+    "title": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack, 1.200 St",
+    "tileData": {
+      "a11yLabel": "Marke: Pampers; Produktname: Feuchttücher Fresh Clean (15x80 St), Vorteilspack, 1.200 St; Preis: 23,45 €; Grundpreis: 1.200 St (0,02 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "Pampers"
+      },
+      "dan": 1691426,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 8001841078496,
+      "images": [
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551882/assets/pas/images/f258d298-116d-459a-b114-e2f97e791877/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551893/assets/pas/images/c024d7ab-46d2-4bbf-b879-8545bec99620/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766268139/assets/pas/images/927ccd2d-11e4-4692-b532-14e192ed5aa5/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766268129/assets/pas/images/4987f020-30a6-4a9c-b027-3b8934ca24c9/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766268118/assets/pas/images/b1939f4a-2d65-467f-8b43-80c9a091ab8d/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766268109/assets/pas/images/c9861a23-0e64-4098-b8e1-050b5e5b286b/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766268099/assets/pas/images/7ab6ebb3-bd2a-4126-b52a-5926dde70519/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778368408/assets/pas/images/719e80d6-e8b2-4420-9373-725ab7273978/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551851/assets/pas/images/8bc9ec5b-b854-4732-9117-247fb2eb8257/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        },
+        {
+          "alt": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack  Pampers",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551912/assets/pas/images/b9362c9e-9740-40da-a071-017030f564cb/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "19,71 €"
+          }
+        },
+        "tileInfos": [
+          "1.200 St (0,02 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "23,45 €"
+          }
+        },
+        "tileInfos": [
+          "1.200 St (0,02 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 975,
+        "ratingValue": 4.7692
+      },
+      "self": "/p/d/1691426/pampers-feuchttuecher-fresh-clean-15x80-st-vorteilspack",
+      "title": {
+        "tileHeadline": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack, 1.200 St",
+        "tileHeadlineLong": "Feuchttücher Fresh Clean (15x80 St), Vorteilspack, 1.200 St"
+      },
+      "trackingData": {
+        "brand": "Pampers",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 23.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7692,
+        "ratingCount": 975
+      }
+    }
+  },
+  {
+    "gtin": 5029053583976,
+    "dan": 1635263,
+    "brandName": "Cottonelle",
+    "title": "Feuchtes Toilettenpapier Sensitiv Pflegend, Maxi Pack, 84 St",
+    "tileData": {
+      "a11yLabel": "Marke: Cottonelle; Produktname: Feuchtes Toilettenpapier Sensitiv Pflegend, Maxi Pack, 84 St; Preis: 2,95 €; Grundpreis: 84 St (3,51 € je 100 St)",
+      "brand": {
+        "name": "Cottonelle"
+      },
+      "dan": 1635263,
+      "gtin": 5029053583976,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier Sensitiv Pflegend, Maxi Pack Cottonelle",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502743/assets/pas/images/7b428bfd-3adc-47be-9c82-937ba0d68c77/cottonelle-feuchtes-toilettenpapier-sensitiv-pflegend-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Sensitiv Pflegend, Maxi Pack Cottonelle",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502709/assets/pas/images/bf0436bf-bcf3-432f-add0-3763decb5b72/cottonelle-feuchtes-toilettenpapier-sensitiv-pflegend-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Sensitiv Pflegend, Maxi Pack Cottonelle",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502750/assets/pas/images/4203593c-ec52-4e69-adac-1fd9a6931347/cottonelle-feuchtes-toilettenpapier-sensitiv-pflegend-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Sensitiv Pflegend, Maxi Pack Cottonelle",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502726/assets/pas/images/53f3b9a3-bc9c-4557-b454-7467d3ca80d9/cottonelle-feuchtes-toilettenpapier-sensitiv-pflegend-maxi-pack"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier Sensitiv Pflegend, Maxi Pack Cottonelle",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502759/assets/pas/images/18677b1f-136c-47eb-a3f3-945f3bb87f2b/cottonelle-feuchtes-toilettenpapier-sensitiv-pflegend-maxi-pack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "84 St (2,95 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "84 St (3,51 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.6875
+      },
+      "self": "/p/d/1635263/cottonelle-feuchtes-toilettenpapier-sensitiv-pflegend-maxi-pack",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier Sensitiv Pflegend, Maxi..., 84 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier Sensitiv Pflegend, Maxi..., 84 St"
+      },
+      "trackingData": {
+        "brand": "Cottonelle",
+        "categories": [
+          "Haushaltsartikel",
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6914,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 4062300445475,
+    "dan": 1701106,
+    "brandName": "HiPP Babysanft",
+    "title": "Feuchttücher Soft & Pur 3x48 St., 144 St",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP Babysanft; Produktname: Feuchttücher Soft & Pur 3x48 St., 144 St; Preis: 4,95 €; Grundpreis: 144 St (0,03 € je 1 St)",
+      "brand": {
+        "name": "HiPP Babysanft"
+      },
+      "dan": 1701106,
+      "gtin": 4062300445475,
+      "images": [
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773793845/assets/pas/images/0354b144-0cb3-420f-82f8-62d7030bd49a/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781993167/assets/pas/images/d35f08cd-1d90-481d-8666-9af799b7ee4f/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775688435/assets/pas/images/6530d4d8-3ff1-4906-a565-fbd87c4eb262/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775779061/assets/pas/images/8fdc457c-f28d-4f4e-a32f-6da0861b02bb/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775779054/assets/pas/images/23f65463-afa2-416f-8c6a-1328c256ce3e/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775779040/assets/pas/images/edb630cf-74dc-4fc0-9ef4-9e3e16cb27e5/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775779033/assets/pas/images/8771749f-0092-418e-ab97-8ea2014c51af/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775860124/assets/pas/images/4a427f33-9b6e-4313-931e-1d6e11d61823/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775860119/assets/pas/images/50246f2c-c342-4583-a3f5-968eda0cd2ae/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775860111/assets/pas/images/44d354c1-df9c-4938-bd05-a22f30e9f610/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        },
+        {
+          "alt": "Feuchttücher Soft & Pur 3x48 St. HiPP Babysanft",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775860103/assets/pas/images/b5fa801e-39a3-41c5-aad9-714f25357e5b/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "144 St (0,03 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "144 St (0,03 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 520,
+        "ratingValue": 4.3942
+      },
+      "self": "/p/d/1701106/hipp-babysanft-feuchttuecher-soft-und-pur-3x48-st",
+      "title": {
+        "tileHeadline": "Feuchttücher Soft & Pur 3x48 St., 144 St",
+        "tileHeadlineLong": "Feuchttücher Soft & Pur 3x48 St., 144 St"
+      },
+      "trackingData": {
+        "brand": "HiPP Babysanft",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3942,
+        "ratingCount": 520
+      }
+    }
+  },
+  {
+    "gtin": 7322540728439,
+    "dan": 1457027,
+    "brandName": "Tempo",
+    "title": "Feuchtes Toilettenpapier, Reisegröße, 10 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Feuchtes Toilettenpapier, Reisegröße, 10 St; Preis: 0,95 €; Grundpreis: 10 St (9,50 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1457027,
+      "gtin": 7322540728439,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier, Reisegröße Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932909/assets/pas/images/f525cb5a-b34c-4f79-85fe-5074fc4b186a/tempo-feuchtes-toilettenpapier-reisegroesse"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier, Reisegröße Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932931/assets/pas/images/4000d5e9-acc1-4a52-9371-f9a70fb38d0e/tempo-feuchtes-toilettenpapier-reisegroesse"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier, Reisegröße Tempo",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777586484/assets/pas/images/80f9393e-9baa-43f7-a618-07197c8b2c4c/tempo-feuchtes-toilettenpapier-reisegroesse"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier, Reisegröße Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932922/assets/pas/images/142a4ebe-c8f9-4d5d-bf38-47d8ebd7e6cb/tempo-feuchtes-toilettenpapier-reisegroesse"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier, Reisegröße Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756244583/assets/pas/images/1029ae11-348c-4056-9b87-e7efef4eb109/tempo-feuchtes-toilettenpapier-reisegroesse"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier, Reisegröße Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756244595/assets/pas/images/506efdd1-839c-4f47-b7eb-72eb225e03e1/tempo-feuchtes-toilettenpapier-reisegroesse"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier, Reisegröße Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756244549/assets/pas/images/14cacaea-2b23-4c56-b9b9-3d04810e822a/tempo-feuchtes-toilettenpapier-reisegroesse"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier, Reisegröße Tempo",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756244573/assets/pas/images/68b9e7c5-351d-4dd7-a367-27070b05588a/tempo-feuchtes-toilettenpapier-reisegroesse"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier, Reisegröße Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756244538/assets/pas/images/197628d7-68e9-476d-9433-c1f0eafeaf9c/tempo-feuchtes-toilettenpapier-reisegroesse"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (7,98 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "10 St (9,50 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.791
+      },
+      "self": "/p/d/1457027/tempo-feuchtes-toilettenpapier-reisegroesse",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier, Reisegröße, 10 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier, Reisegröße, 10 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.791,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 4066447995527,
+    "dan": 3081642,
+    "brandName": "Sanft&Sicher",
+    "title": "Feuchtes Toilettenpapier 99%Wasser, 50 St",
+    "tileData": {
+      "a11yLabel": "Marke: Sanft&Sicher; Produktname: Feuchtes Toilettenpapier 99%Wasser, 50 St; Preis: 1,75 €; Grundpreis: 50 St (3,50 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Sanft&Sicher"
+      },
+      "dan": 3081642,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447995527,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier 99%Wasser Sanft&Sicher",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778365217/assets/pas/images/d1eaedcb-c42f-4127-aad1-776532727572/sanft-und-sicher-feuchtes-toilettenpapier-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier 99%Wasser Sanft&Sicher",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778365202/assets/pas/images/af3905b4-344f-4e18-a5db-8cd4d51e57f3/sanft-und-sicher-feuchtes-toilettenpapier-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier 99%Wasser Sanft&Sicher",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778365212/assets/pas/images/0bf008e0-7738-48c6-bda1-cecba5dd49fe/sanft-und-sicher-feuchtes-toilettenpapier-99-prozent-wasser"
+        },
+        {
+          "alt": "Feuchtes Toilettenpapier 99%Wasser Sanft&Sicher",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778365208/assets/pas/images/633a50a4-ea7c-406b-83ff-e2c339326b82/sanft-und-sicher-feuchtes-toilettenpapier-99-prozent-wasser"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "50 St (2,94 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "50 St (3,50 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.5143
+      },
+      "self": "/p/d/3081642/sanft-und-sicher-feuchtes-toilettenpapier-99-prozent-wasser",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier 99%Wasser, 50 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier 99%Wasser, 50 St"
+      },
+      "trackingData": {
+        "brand": "Sanft&Sicher",
+        "categories": [
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5143,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 5099514400036,
+    "dan": 1614522,
+    "brandName": "WaterWipes",
+    "title": "Feuchttücher (18x60 St), 1.080 St",
+    "tileData": {
+      "a11yLabel": "Marke: WaterWipes; Produktname: Feuchttücher (18x60 St), 1.080 St; Preis: 49,95 €; Grundpreis: 1.080 St (4,63 € je 100 St); Nur Online Grafik",
+      "brand": {
+        "name": "WaterWipes"
+      },
+      "dan": 1614522,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 5099514400036,
+      "images": [
+        {
+          "alt": "Feuchttücher (18x60 St) WaterWipes",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747500991/assets/pas/images/c4583c8a-3a1a-4876-a8d0-6e7052912c77/waterwipes-feuchttuecher-18x60-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "41,97 €"
+          }
+        },
+        "tileInfos": [
+          "1.080 St (3,89 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "49,95 €"
+          }
+        },
+        "tileInfos": [
+          "1.080 St (4,63 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 86,
+        "ratingValue": 4.814
+      },
+      "self": "/p/d/1614522/waterwipes-feuchttuecher-18x60-st",
+      "title": {
+        "tileHeadline": "Feuchttücher (18x60 St), 1.080 St",
+        "tileHeadlineLong": "Feuchttücher (18x60 St), 1.080 St"
+      },
+      "trackingData": {
+        "brand": "WaterWipes",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 49.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.814,
+        "ratingCount": 86
+      }
+    }
+  },
+  {
+    "gtin": 5099514400159,
+    "dan": 1610385,
+    "brandName": "WaterWipes",
+    "title": "Feuchttücher (9x60 St), 540 St",
+    "tileData": {
+      "a11yLabel": "Marke: WaterWipes; Produktname: Feuchttücher (9x60 St), 540 St; Preis: 26,45 €; Grundpreis: 540 St (4,90 € je 100 St); Nur Online Grafik",
+      "brand": {
+        "name": "WaterWipes"
+      },
+      "dan": 1610385,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 5099514400159,
+      "images": [
+        {
+          "alt": "Feuchttücher (9x60 St) WaterWipes",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757931421/assets/pas/images/c0f434b6-fe5c-49b9-b241-2ae2f39cf9ee/waterwipes-feuchttuecher-9x60-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "22,23 €"
+          }
+        },
+        "tileInfos": [
+          "540 St (4,12 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "26,45 €"
+          }
+        },
+        "tileInfos": [
+          "540 St (4,90 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 170,
+        "ratingValue": 4.7412
+      },
+      "self": "/p/d/1610385/waterwipes-feuchttuecher-9x60-st",
+      "title": {
+        "tileHeadline": "Feuchttücher (9x60 St), 540 St",
+        "tileHeadlineLong": "Feuchttücher (9x60 St), 540 St"
+      },
+      "trackingData": {
+        "brand": "WaterWipes",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 26.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7412,
+        "ratingCount": 170
+      }
+    }
+  },
+  {
+    "gtin": 4262459490429,
+    "dan": 1472506,
+    "brandName": "LILLYDOO",
+    "title": "Feuchttücher mit 99 % Wasser (15x60 St), 900 St",
+    "tileData": {
+      "a11yLabel": "Marke: LILLYDOO; Produktname: Feuchttücher mit 99 % Wasser (15x60 St), 900 St; Preis: 43,95 €; Grundpreis: 900 St (0,05 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "LILLYDOO"
+      },
+      "dan": 1472506,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4262459490429,
+      "images": [
+        {
+          "alt": "Feuchttücher mit 99 % Wasser (15x60 St) LILLYDOO",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778026239/assets/pas/images/2d95696b-6361-4109-8864-9d66fab5d8fb/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser (15x60 St) LILLYDOO",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776756566/assets/pas/images/0a24fbd4-1515-4ddf-ae18-e59a21de1aae/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser (15x60 St) LILLYDOO",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776756580/assets/pas/images/91d5ac4e-fd05-415e-a965-520f15c61532/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser (15x60 St) LILLYDOO",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784085700/assets/pas/images/a7532284-f4d4-4079-a333-fdc8e3a78718/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser (15x60 St) LILLYDOO",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784085666/assets/pas/images/404cc2e1-e0dc-4750-b860-2074a1850c0d/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser (15x60 St) LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784085718/assets/pas/images/684f89dd-0261-4b26-b468-1be1913f06b2/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser (15x60 St) LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784085685/assets/pas/images/812d2b68-44af-4b49-95d9-78d5044d5de0/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser (15x60 St) LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784085759/assets/pas/images/8ad11a01-6283-488e-8b97-d00bf6977fc6/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st"
+        },
+        {
+          "alt": "Feuchttücher mit 99 % Wasser (15x60 St) LILLYDOO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784085739/assets/pas/images/aa7a98c3-4de7-40f3-b9d4-49153c55ee62/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "36,93 €"
+          }
+        },
+        "tileInfos": [
+          "900 St (0,04 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "43,95 €"
+          }
+        },
+        "tileInfos": [
+          "900 St (0,05 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 330,
+        "ratingValue": 4.5576
+      },
+      "self": "/p/d/1472506/lillydoo-feuchttuecher-mit-99-prozent-wasser-15x60-st",
+      "title": {
+        "tileHeadline": "Feuchttücher mit 99 % Wasser (15x60 St), 900 St",
+        "tileHeadlineLong": "Feuchttücher mit 99 % Wasser (15x60 St), 900 St"
+      },
+      "trackingData": {
+        "brand": "LILLYDOO",
+        "categories": [
+          "Feuchttücher & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 43.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5576,
+        "ratingCount": 330
+      }
+    }
+  },
+  {
+    "gtin": 4260344221509,
+    "dan": 1572011,
+    "brandName": "Hakle",
+    "title": "Feuchtes Toilettenpapier ultra med, 42 St",
+    "tileData": {
+      "a11yLabel": "Marke: Hakle; Produktname: Feuchtes Toilettenpapier ultra med, 42 St; Preis: 1,65 €; Grundpreis: 42 St (3,93 € je 100 St)",
+      "brand": {
+        "name": "Hakle"
+      },
+      "dan": 1572011,
+      "gtin": 4260344221509,
+      "images": [
+        {
+          "alt": "Feuchtes Toilettenpapier ultra med Hakle",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762903546/assets/pas/images/42165169-4160-49e2-92c2-bd98765e1e64/hakle-feuchtes-toilettenpapier-ultra-med"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,39 €"
+          }
+        },
+        "tileInfos": [
+          "42 St (3,30 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "42 St (3,93 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.925
+      },
+      "self": "/p/d/1572011/hakle-feuchtes-toilettenpapier-ultra-med",
+      "title": {
+        "tileHeadline": "Feuchtes Toilettenpapier ultra med, 42 St",
+        "tileHeadlineLong": "Feuchtes Toilettenpapier ultra med, 42 St"
+      },
+      "trackingData": {
+        "brand": "Hakle",
+        "categories": [
+          "Toilettenpapier"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.925,
+        "ratingCount": 80
+      }
+    }
+  }
+]

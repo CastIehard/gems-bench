@@ -1,0 +1,2665 @@
+[
+  {
+    "gtin": 4044889005455,
+    "dan": 3129562,
+    "brandName": "Vivani",
+    "title": "Schokolade, Feine Bitter Dattelsüße 80%, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: Vivani; Produktname: Schokolade, Feine Bitter Dattelsüße 80%, 80 g; Preis: 3,95 €; Grundpreis: 0,08 kg (49,38 € je 1 kg)",
+      "brand": {
+        "name": "Vivani"
+      },
+      "dan": 3129562,
+      "gtin": 4044889005455,
+      "images": [
+        {
+          "alt": "Schokolade, Feine Bitter Dattelsüße 80% Vivani",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772239564/assets/pas/images/4f05ac12-d0c3-41a5-a065-c0b179b000f4/vivani-schokolade-feine-bitter-dattelsuesse-80-prozent"
+        },
+        {
+          "alt": "Schokolade, Feine Bitter Dattelsüße 80% Vivani",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777069216/assets/pas/images/fb1054e3-fcd1-4f25-8bbd-f3d66bf2ffa4/vivani-schokolade-feine-bitter-dattelsuesse-80-prozent"
+        },
+        {
+          "alt": "Schokolade, Feine Bitter Dattelsüße 80% Vivani",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777069211/assets/pas/images/724b3c60-fc98-45ca-a30c-f5dad31f21c6/vivani-schokolade-feine-bitter-dattelsuesse-80-prozent"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (46,15 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (49,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.4615
+      },
+      "self": "/p/d/3129562/vivani-schokolade-feine-bitter-dattelsuesse-80-prozent",
+      "title": {
+        "tileHeadline": "Schokolade, Feine Bitter Dattelsüße 80%, 80 g",
+        "tileHeadlineLong": "Schokolade, Feine Bitter Dattelsüße 80%, 80 g"
+      },
+      "trackingData": {
+        "brand": "Vivani",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4615,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 4044889004342,
+    "dan": 3129674,
+    "brandName": "Vivani",
+    "title": "Schokolade, Feine Bitter Mallorca Flor de Sal 75%, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: Vivani; Produktname: Schokolade, Feine Bitter Mallorca Flor de Sal 75%, 80 g; Preis: 3,45 €; Grundpreis: 0,08 kg (43,13 € je 1 kg)",
+      "brand": {
+        "name": "Vivani"
+      },
+      "dan": 3129674,
+      "gtin": 4044889004342,
+      "images": [
+        {
+          "alt": "Schokolade, Feine Bitter Mallorca Flor de Sal 75%  Vivani",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771553069/assets/pas/images/9672b71e-f52d-46cd-9e27-38b80c304a45/vivani-schokolade-feine-bitter-mallorca-flor-de-sal-75-prozent"
+        },
+        {
+          "alt": "Schokolade, Feine Bitter Mallorca Flor de Sal 75%  Vivani",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777072266/assets/pas/images/29ef3892-f8a5-4ada-ab3d-13f58a14729e/vivani-schokolade-feine-bitter-mallorca-flor-de-sal-75-prozent"
+        },
+        {
+          "alt": "Schokolade, Feine Bitter Mallorca Flor de Sal 75%  Vivani",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777072271/assets/pas/images/2b19194f-303e-445d-9a6c-d4fe9fba53d7/vivani-schokolade-feine-bitter-mallorca-flor-de-sal-75-prozent"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (40,31 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (43,13 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 32,
+        "ratingValue": 4.25
+      },
+      "self": "/p/d/3129674/vivani-schokolade-feine-bitter-mallorca-flor-de-sal-75-prozent",
+      "title": {
+        "tileHeadline": "Schokolade, Feine Bitter Mallorca Flor de Sal 75%, 80 g",
+        "tileHeadlineLong": "Schokolade, Feine Bitter Mallorca Flor de Sal 75%, 80 g"
+      },
+      "trackingData": {
+        "brand": "Vivani",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.25,
+        "ratingCount": 32
+      }
+    }
+  },
+  {
+    "gtin": 4066447225396,
+    "dan": 1519649,
+    "brandName": "dmBio",
+    "title": "Schokoriegel, Zartbitter Kokos, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokoriegel, Zartbitter Kokos, 40 g; Preis: 0,85 €; Grundpreis: 0,04 kg (21,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1519649,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447225396,
+      "images": [
+        {
+          "alt": "Schokoriegel, Zartbitter Kokos dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020715/assets/pas/images/890d9fba-3d99-4df7-a899-558cad03f0ad/dmbio-schokoriegel-zartbitter-kokos"
+        },
+        {
+          "alt": "Schokoriegel, Zartbitter Kokos dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020711/assets/pas/images/93b26d42-6db5-48e4-88c8-abdaa47bbfcb/dmbio-schokoriegel-zartbitter-kokos"
+        },
+        {
+          "alt": "Schokoriegel, Zartbitter Kokos dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478502/assets/pas/images/185cbb8d-8f17-4e53-bfb6-438cf1bd3fb9/dmbio-schokoriegel-zartbitter-kokos"
+        },
+        {
+          "alt": "Schokoriegel, Zartbitter Kokos dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755020707/assets/pas/images/f927f2f9-3a4e-4489-9f4e-0c7024b72d32/dmbio-schokoriegel-zartbitter-kokos"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (19,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (21,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 153,
+        "ratingValue": 4.6536
+      },
+      "self": "/p/d/1519649/dmbio-schokoriegel-zartbitter-kokos",
+      "title": {
+        "tileHeadline": "Schokoriegel, Zartbitter Kokos, 40 g",
+        "tileHeadlineLong": "Schokoriegel, Zartbitter Kokos, 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6536,
+        "ratingCount": 153
+      }
+    }
+  },
+  {
+    "gtin": 4070765071429,
+    "dan": 3130277,
+    "brandName": "dmBio",
+    "title": "Schokolade, Matcha Erdbeere, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokolade, Matcha Erdbeere, 100 g; Preis: 2,75 €; Grundpreis: 0,1 kg (27,50 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3130277,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765071429,
+      "images": [
+        {
+          "alt": "Schokolade, Matcha Erdbeere dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408115/assets/pas/images/a193c2ba-9e3d-468d-a617-62f109a4d7cf/dmbio-schokolade-matcha-erdbeere"
+        },
+        {
+          "alt": "Schokolade, Matcha Erdbeere dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408120/assets/pas/images/5a3072a3-9674-4df3-9502-af349afbfa05/dmbio-schokolade-matcha-erdbeere"
+        },
+        {
+          "alt": "Schokolade, Matcha Erdbeere dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779408109/assets/pas/images/382e99f9-e9ee-453f-aeb9-ba04be2ca88b/dmbio-schokolade-matcha-erdbeere"
+        },
+        {
+          "alt": "Schokolade, Matcha Erdbeere dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780445396/assets/pas/images/c61c8cc2-7deb-4e95-a5e9-e55af48d0fbd/dmbio-schokolade-matcha-erdbeere"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (25,70 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (27,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 68,
+        "ratingValue": 4.0294
+      },
+      "self": "/p/d/3130277/dmbio-schokolade-matcha-erdbeere",
+      "title": {
+        "tileHeadline": "Schokolade, Matcha Erdbeere, 100 g",
+        "tileHeadlineLong": "Schokolade, Matcha Erdbeere, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0294,
+        "ratingCount": 68
+      }
+    }
+  },
+  {
+    "gtin": 5425007881899,
+    "dan": 1487014,
+    "brandName": "BEL & BIO",
+    "title": "Schokolade, Belgische Pralinen, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: BEL & BIO; Produktname: Schokolade, Belgische Pralinen, 100 g; Preis: 3,95 €; Grundpreis: 0,1 kg (39,50 € je 1 kg)",
+      "brand": {
+        "name": "BEL & BIO"
+      },
+      "dan": 1487014,
+      "gtin": 5425007881899,
+      "images": [
+        {
+          "alt": "Schokolade, Belgische Pralinen BEL & BIO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501744/assets/pas/images/ec3c8f32-654c-4454-9c59-dac35112b1dd/bel-und-bio-schokolade-belgische-pralinen"
+        },
+        {
+          "alt": "Schokolade, Belgische Pralinen BEL & BIO",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501746/assets/pas/images/6de3141b-078e-4d37-bd4e-b91591af9118/bel-und-bio-schokolade-belgische-pralinen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (36,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (39,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 128,
+        "ratingValue": 3.9609
+      },
+      "self": "/p/d/1487014/bel-und-bio-schokolade-belgische-pralinen",
+      "title": {
+        "tileHeadline": "Schokolade, Belgische Pralinen, 100 g",
+        "tileHeadlineLong": "Schokolade, Belgische Pralinen, 100 g"
+      },
+      "trackingData": {
+        "brand": "BEL & BIO",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9609,
+        "ratingCount": 128
+      }
+    }
+  },
+  {
+    "gtin": 4262354077046,
+    "dan": 1670772,
+    "brandName": "nucao",
+    "title": "Trockenfrüchte, Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g",
+    "tileData": {
+      "a11yLabel": "Marke: nucao; Produktname: Trockenfrüchte, Crunchy Strawberries, Erdbeeren mit Schokolade, 50 g; Preis: 2,95 €; Grundpreis: 0,05 kg (59,00 € je 1 kg)",
+      "brand": {
+        "name": "nucao"
+      },
+      "dan": 1670772,
+      "gtin": 4262354077046,
+      "images": [
+        {
+          "alt": "Trockenfrüchte, Crunchy Strawberries, Erdbeeren mit Schokolade nucao",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747494830/assets/pas/images/3676a201-9924-423f-adfe-6e977cd0cd92/nucao-trockenfruechte-crunchy-strawberries-erdbeeren-mit-schokolade"
+        },
+        {
+          "alt": "Trockenfrüchte, Crunchy Strawberries, Erdbeeren mit Schokolade nucao",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782081417/assets/pas/images/ba8e7a5b-282f-405e-99d7-ad5d0c6fcf40/nucao-trockenfruechte-crunchy-strawberries-erdbeeren-mit-schokolade"
+        },
+        {
+          "alt": "Trockenfrüchte, Crunchy Strawberries, Erdbeeren mit Schokolade nucao",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763246855/assets/pas/images/2690e6f7-0202-4681-b1f5-5aac25e45001/nucao-trockenfruechte-crunchy-strawberries-erdbeeren-mit-schokolade"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (55,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 kg (59,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 139,
+        "ratingValue": 3.8921
+      },
+      "self": "/p/d/1670772/nucao-trockenfruechte-crunchy-strawberries-erdbeeren-mit-schokolade",
+      "title": {
+        "tileHeadline": "Trockenfrüchte, Crunchy Strawberries, Erdbeeren..., 50 g",
+        "tileHeadlineLong": "Trockenfrüchte, Crunchy Strawberries, Erdbeeren..., 50 g"
+      },
+      "trackingData": {
+        "brand": "nucao",
+        "categories": [
+          "Trockenfrüchte",
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8921,
+        "ratingCount": 139
+      }
+    }
+  },
+  {
+    "gtin": 4067796188295,
+    "dan": 3066243,
+    "brandName": "Sportness",
+    "title": "Protein Schokolade mit Milchcreme-Crisp-Füllung, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Schokolade mit Milchcreme-Crisp-Füllung, 40 g; Preis: 1,15 €; Grundpreis: 0,04 kg (28,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3066243,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796188295,
+      "images": [
+        {
+          "alt": "Protein Schokolade mit Milchcreme-Crisp-Füllung Sportness",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488287/assets/pas/images/e4647542-8269-403a-8080-739994f95820/sportness-protein-schokolade-mit-milchcreme-crisp-fuellung"
+        },
+        {
+          "alt": "Protein Schokolade mit Milchcreme-Crisp-Füllung Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488614/assets/pas/images/9be1ddab-d692-42d9-8f88-9499dfa091b1/sportness-protein-schokolade-mit-milchcreme-crisp-fuellung"
+        },
+        {
+          "alt": "Protein Schokolade mit Milchcreme-Crisp-Füllung Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488286/assets/pas/images/8c7ae5c6-ebc5-4b72-8814-4003260ff8b1/sportness-protein-schokolade-mit-milchcreme-crisp-fuellung"
+        },
+        {
+          "alt": "Protein Schokolade mit Milchcreme-Crisp-Füllung Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488387/assets/pas/images/beceb2cd-da78-42da-ada5-9928a2ba76c6/sportness-protein-schokolade-mit-milchcreme-crisp-fuellung"
+        },
+        {
+          "alt": "Protein Schokolade mit Milchcreme-Crisp-Füllung Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488618/assets/pas/images/3d4b9294-fcfe-41a8-9884-9238fb2f71ec/sportness-protein-schokolade-mit-milchcreme-crisp-fuellung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (26,87 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (28,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 131,
+        "ratingValue": 4.5038
+      },
+      "self": "/p/d/3066243/sportness-protein-schokolade-mit-milchcreme-crisp-fuellung",
+      "title": {
+        "tileHeadline": "Protein Schokolade mit Milchcreme-Crisp-Füllung, 40 g",
+        "tileHeadlineLong": "Protein Schokolade mit Milchcreme-Crisp-Füllung, 40 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Schokolade & Schokoriegel",
+          "Sport Zubehör & Spezialprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5038,
+        "ratingCount": 131
+      }
+    }
+  },
+  {
+    "gtin": 4262378221401,
+    "dan": 3102868,
+    "brandName": "nucao",
+    "title": "Schokoriegel, Salted Pistachio Butter, 33 g",
+    "tileData": {
+      "a11yLabel": "Marke: nucao; Produktname: Schokoriegel, Salted Pistachio Butter, 33 g; Preis: 1,95 €; Grundpreis: 0,033 kg (59,09 € je 1 kg)",
+      "brand": {
+        "name": "nucao"
+      },
+      "dan": 3102868,
+      "gtin": 4262378221401,
+      "images": [
+        {
+          "alt": "Schokoriegel, Salted Pistachio Butter nucao",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761429534/assets/pas/images/a5adf173-5168-46ec-a1da-0345c3cfcad7/nucao-schokoriegel-salted-pistachio-butter"
+        },
+        {
+          "alt": "Schokoriegel, Salted Pistachio Butter nucao",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763251932/assets/pas/images/9ec721b4-f760-46f7-a45c-0aee08a5abd3/nucao-schokoriegel-salted-pistachio-butter"
+        },
+        {
+          "alt": "Schokoriegel, Salted Pistachio Butter nucao",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763251899/assets/pas/images/712cb4f7-e69f-48b6-a513-4b5df47d03a6/nucao-schokoriegel-salted-pistachio-butter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,033 kg (55,22 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,033 kg (59,09 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 3.9091
+      },
+      "self": "/p/d/3102868/nucao-schokoriegel-salted-pistachio-butter",
+      "title": {
+        "tileHeadline": "Schokoriegel, Salted Pistachio Butter, 33 g",
+        "tileHeadlineLong": "Schokoriegel, Salted Pistachio Butter, 33 g"
+      },
+      "trackingData": {
+        "brand": "nucao",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9091,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 8008698026281,
+    "dan": 1622364,
+    "brandName": "Schär",
+    "title": "Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück), 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: Schär; Produktname: Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück), 90 g; Preis: 3,15 €; Grundpreis: 0,09 kg (35,00 € je 1 kg)",
+      "brand": {
+        "name": "Schär"
+      },
+      "dan": 1622364,
+      "gtin": 8008698026281,
+      "images": [
+        {
+          "alt": "Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück) Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779231969/assets/pas/images/36f6da55-c564-4e3d-9e89-42e6ad7f4cf6/schaer-schokoriegel-melto-chocolat-au-lait-glutenfrei-3-stueck"
+        },
+        {
+          "alt": "Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück) Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779232001/assets/pas/images/8f02c6a0-a645-41cc-a57b-5d3f00a960c6/schaer-schokoriegel-melto-chocolat-au-lait-glutenfrei-3-stueck"
+        },
+        {
+          "alt": "Schokoriegel, \"Melto\" Chocolat au Lait, glutenfrei (3 Stück) Schär",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747517454/assets/pas/images/098658e0-ba7e-4e68-a46d-3bb73be7e719/schaer-schokoriegel-melto-chocolat-au-lait-glutenfrei-3-stueck"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (32,71 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (35,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 71,
+        "ratingValue": 4.7465
+      },
+      "self": "/p/d/1622364/schaer-schokoriegel-melto-chocolat-au-lait-glutenfrei-3-stueck",
+      "title": {
+        "tileHeadline": "Schokoriegel, \"Melto\" Chocolat au Lait,..., 90 g",
+        "tileHeadlineLong": "Schokoriegel, \"Melto\" Chocolat au Lait,..., 90 g"
+      },
+      "trackingData": {
+        "brand": "Schär",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7465,
+        "ratingCount": 71
+      }
+    }
+  },
+  {
+    "gtin": 4262414874028,
+    "dan": 3095027,
+    "brandName": "share",
+    "title": "Schokolade. Himbeere, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: share; Produktname: Schokolade. Himbeere, 80 g; Preis: 2,55 €; Grundpreis: 0,08 kg (31,88 € je 1 kg)",
+      "brand": {
+        "name": "share"
+      },
+      "dan": 3095027,
+      "gtin": 4262414874028,
+      "images": [
+        {
+          "alt": "Schokolade. Himbeere share",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762211996/assets/pas/images/043dee29-06a9-4898-a6cb-34fb1bc04a1a/share-schokolade-himbeere"
+        },
+        {
+          "alt": "Schokolade. Himbeere share",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755213251/assets/pas/images/805e224d-df83-4bd8-b5b5-cb23f825ddd4/share-schokolade-himbeere"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (29,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (31,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 72,
+        "ratingValue": 4.4583
+      },
+      "self": "/p/d/3095027/share-schokolade-himbeere",
+      "title": {
+        "tileHeadline": "Schokolade. Himbeere, 80 g",
+        "tileHeadlineLong": "Schokolade. Himbeere, 80 g"
+      },
+      "trackingData": {
+        "brand": "share",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4583,
+        "ratingCount": 72
+      }
+    }
+  },
+  {
+    "gtin": 4262354071006,
+    "dan": 1458710,
+    "brandName": "nucao",
+    "title": "Schokolade Almond Butter & Sea Salt, vegan, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: nucao; Produktname: Schokolade Almond Butter & Sea Salt, vegan, 125 g; Preis: 3,75 €; Grundpreis: 0,125 kg (30,00 € je 1 kg)",
+      "brand": {
+        "name": "nucao"
+      },
+      "dan": 1458710,
+      "gtin": 4262354071006,
+      "images": [
+        {
+          "alt": "Schokolade Almond Butter & Sea Salt, vegan nucao",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777588662/assets/pas/images/e9d8569d-9699-4958-a5d7-084a925b4166/nucao-schokolade-almond-butter-und-sea-salt-vegan"
+        },
+        {
+          "alt": "Schokolade Almond Butter & Sea Salt, vegan nucao",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777588673/assets/pas/images/07e7739c-0d6c-4586-8977-1b3f0e7f85d1/nucao-schokolade-almond-butter-und-sea-salt-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (28,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (30,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 106,
+        "ratingValue": 4.3302
+      },
+      "self": "/p/d/1458710/nucao-schokolade-almond-butter-und-sea-salt-vegan",
+      "title": {
+        "tileHeadline": "Schokolade Almond Butter & Sea Salt, vegan, 125 g",
+        "tileHeadlineLong": "Schokolade Almond Butter & Sea Salt, vegan, 125 g"
+      },
+      "trackingData": {
+        "brand": "nucao",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3302,
+        "ratingCount": 106
+      }
+    }
+  },
+  {
+    "gtin": 4262354071105,
+    "dan": 1459024,
+    "brandName": "nucao",
+    "title": "Schokolade, Crunchy Haselnussmus, vegan, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: nucao; Produktname: Schokolade, Crunchy Haselnussmus, vegan, 125 g; Preis: 3,75 €; Grundpreis: 0,125 kg (30,00 € je 1 kg)",
+      "brand": {
+        "name": "nucao"
+      },
+      "dan": 1459024,
+      "gtin": 4262354071105,
+      "images": [
+        {
+          "alt": "Schokolade, Crunchy Haselnussmus, vegan nucao",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777588687/assets/pas/images/3e8cc32c-e532-4051-b482-2aa88aae687b/nucao-schokolade-crunchy-haselnussmus-vegan"
+        },
+        {
+          "alt": "Schokolade, Crunchy Haselnussmus, vegan nucao",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777588698/assets/pas/images/2c1f3301-4870-493c-8446-5790eb493d0a/nucao-schokolade-crunchy-haselnussmus-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (28,04 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (30,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 94,
+        "ratingValue": 4.4149
+      },
+      "self": "/p/d/1459024/nucao-schokolade-crunchy-haselnussmus-vegan",
+      "title": {
+        "tileHeadline": "Schokolade, Crunchy Haselnussmus, vegan, 125 g",
+        "tileHeadlineLong": "Schokolade, Crunchy Haselnussmus, vegan, 125 g"
+      },
+      "trackingData": {
+        "brand": "nucao",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4149,
+        "ratingCount": 94
+      }
+    }
+  },
+  {
+    "gtin": 4070765016253,
+    "dan": 3115715,
+    "brandName": "dmBio",
+    "title": "Kirschen in Zartbitterschokolade, 85 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Kirschen in Zartbitterschokolade, 85 g; Preis: 2,95 €; Grundpreis: 0,085 kg (34,71 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3115715,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016253,
+      "images": [
+        {
+          "alt": "Kirschen in Zartbitterschokolade dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782256038/assets/pas/images/5195f246-d84d-4774-b602-cf901b4b0062/dmbio-kirschen-in-zartbitterschokolade"
+        },
+        {
+          "alt": "Kirschen in Zartbitterschokolade dmBio",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782256044/assets/pas/images/eacbda7f-cc9b-444b-9591-76e54560828a/dmbio-kirschen-in-zartbitterschokolade"
+        },
+        {
+          "alt": "Kirschen in Zartbitterschokolade dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781837759/assets/pas/images/168bf6ad-7630-4a99-bb8e-a9be224ed42a/dmbio-kirschen-in-zartbitterschokolade"
+        },
+        {
+          "alt": "Kirschen in Zartbitterschokolade dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782256029/assets/pas/images/b28a1c67-a28d-4401-a3c0-8c527c580359/dmbio-kirschen-in-zartbitterschokolade"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (32,44 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (34,71 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 11,
+        "ratingValue": 4.4545
+      },
+      "self": "/p/d/3115715/dmbio-kirschen-in-zartbitterschokolade",
+      "title": {
+        "tileHeadline": "Kirschen in Zartbitterschokolade, 85 g",
+        "tileHeadlineLong": "Kirschen in Zartbitterschokolade, 85 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4545,
+        "ratingCount": 11
+      }
+    }
+  },
+  {
+    "gtin": 4262414872888,
+    "dan": 3095026,
+    "brandName": "share",
+    "title": "Schokolade, Nougat, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: share; Produktname: Schokolade, Nougat, 80 g; Preis: 2,55 €; Grundpreis: 0,08 kg (31,88 € je 1 kg)",
+      "brand": {
+        "name": "share"
+      },
+      "dan": 3095026,
+      "gtin": 4262414872888,
+      "images": [
+        {
+          "alt": "Schokolade, Nougat share",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753089243/assets/pas/images/a399b043-61d8-4ec9-ba53-fcaebc8ca2ab/share-schokolade-nougat"
+        },
+        {
+          "alt": "Schokolade, Nougat share",
+          "backgroundColor": "#F9F1F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753089254/assets/pas/images/d37aac7f-38ba-4eac-9ccb-aa1923b6a827/share-schokolade-nougat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (29,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (31,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 52,
+        "ratingValue": 4.1731
+      },
+      "self": "/p/d/3095026/share-schokolade-nougat",
+      "title": {
+        "tileHeadline": "Schokolade, Nougat, 80 g",
+        "tileHeadlineLong": "Schokolade, Nougat, 80 g"
+      },
+      "trackingData": {
+        "brand": "share",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1731,
+        "ratingCount": 52
+      }
+    }
+  },
+  {
+    "gtin": 4066447616477,
+    "dan": 1711512,
+    "brandName": "dmBio",
+    "title": "Schokoriegel Milch, 23 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokoriegel Milch, 23 g; Preis: 0,65 €; Grundpreis: 0,023 kg (28,26 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1711512,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447616477,
+      "images": [
+        {
+          "alt": "Schokoriegel Milch dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484237/assets/pas/images/8329d196-11dc-4677-b340-e399f63d229d/dmbio-schokoriegel-milch"
+        },
+        {
+          "alt": "Schokoriegel Milch dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484237/assets/pas/images/dcd31e1d-5ff6-4bc8-a8b5-71e7eb7de0de/dmbio-schokoriegel-milch"
+        },
+        {
+          "alt": "Schokoriegel Milch dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484332/assets/pas/images/070e564e-0a4a-4a3f-b5c3-f3d782144c0a/dmbio-schokoriegel-milch"
+        },
+        {
+          "alt": "Schokoriegel Milch dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484048/assets/pas/images/420f08c1-7589-4bad-96c6-73885a1c350c/dmbio-schokoriegel-milch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,61 €"
+          }
+        },
+        "tileInfos": [
+          "0,023 kg (26,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,023 kg (28,26 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 134,
+        "ratingValue": 4.5448
+      },
+      "self": "/p/d/1711512/dmbio-schokoriegel-milch",
+      "title": {
+        "tileHeadline": "Schokoriegel Milch, 23 g",
+        "tileHeadlineLong": "Schokoriegel Milch, 23 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5448,
+        "ratingCount": 134
+      }
+    }
+  },
+  {
+    "gtin": 4262414872895,
+    "dan": 3095115,
+    "brandName": "share",
+    "title": "Schokolade, Mocca, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: share; Produktname: Schokolade, Mocca, 80 g; Preis: 2,55 €; Grundpreis: 0,08 kg (31,88 € je 1 kg)",
+      "brand": {
+        "name": "share"
+      },
+      "dan": 3095115,
+      "gtin": 4262414872895,
+      "images": [
+        {
+          "alt": "Schokolade, Mocca share",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753400349/assets/pas/images/b777c06a-dd18-4545-bd55-2763b4cf0a69/share-schokolade-mocca"
+        },
+        {
+          "alt": "Schokolade, Mocca share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753089419/assets/pas/images/f4d27f97-c9d6-4192-8122-4d042d5f7469/share-schokolade-mocca"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (29,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (31,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 54,
+        "ratingValue": 4.8148
+      },
+      "self": "/p/d/3095115/share-schokolade-mocca",
+      "title": {
+        "tileHeadline": "Schokolade, Mocca, 80 g",
+        "tileHeadlineLong": "Schokolade, Mocca, 80 g"
+      },
+      "trackingData": {
+        "brand": "share",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8148,
+        "ratingCount": 54
+      }
+    }
+  },
+  {
+    "gtin": 5425007882643,
+    "dan": 3065069,
+    "brandName": "BEL & BIO",
+    "title": "Schokolade mit Pistazienfüllung, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: BEL & BIO; Produktname: Schokolade mit Pistazienfüllung, 100 g; Preis: 3,95 €; Grundpreis: 0,1 kg (39,50 € je 1 kg)",
+      "brand": {
+        "name": "BEL & BIO"
+      },
+      "dan": 3065069,
+      "gtin": 5425007882643,
+      "images": [
+        {
+          "alt": "Schokolade mit Pistazienfüllung BEL & BIO",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747958694/assets/pas/images/6fbc8718-57bd-474b-9c3a-81196da02245/bel-und-bio-schokolade-mit-pistazienfuellung"
+        },
+        {
+          "alt": "Schokolade mit Pistazienfüllung BEL & BIO",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747958685/assets/pas/images/f1f8fa50-4954-4034-9485-15cb0f7987fd/bel-und-bio-schokolade-mit-pistazienfuellung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (36,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (39,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 105,
+        "ratingValue": 3.5714
+      },
+      "self": "/p/d/3065069/bel-und-bio-schokolade-mit-pistazienfuellung",
+      "title": {
+        "tileHeadline": "Schokolade mit Pistazienfüllung, 100 g",
+        "tileHeadlineLong": "Schokolade mit Pistazienfüllung, 100 g"
+      },
+      "trackingData": {
+        "brand": "BEL & BIO",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5714,
+        "ratingCount": 105
+      }
+    }
+  },
+  {
+    "gtin": 4067796195385,
+    "dan": 1672766,
+    "brandName": "dmBio",
+    "title": "Schokolade, \"Sierra Leone\" Feine Bitter, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokolade, \"Sierra Leone\" Feine Bitter, 80 g; Preis: 1,75 €; Grundpreis: 0,08 kg (21,88 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1672766,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796195385,
+      "images": [
+        {
+          "alt": "Schokolade, \"Sierra Leone\" Feine Bitter dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488493/assets/pas/images/6b987ff1-2745-4ddb-8335-f4980338c6c4/dmbio-schokolade-sierra-leone-feine-bitter"
+        },
+        {
+          "alt": "Schokolade, \"Sierra Leone\" Feine Bitter dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488211/assets/pas/images/0607e2e2-7b53-41eb-9987-ab9ea82a64fc/dmbio-schokolade-sierra-leone-feine-bitter"
+        },
+        {
+          "alt": "Schokolade, \"Sierra Leone\" Feine Bitter dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488542/assets/pas/images/4444a9fc-3e7f-4264-9582-8e174dc2513f/dmbio-schokolade-sierra-leone-feine-bitter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (20,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (21,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 89,
+        "ratingValue": 4.573
+      },
+      "self": "/p/d/1672766/dmbio-schokolade-sierra-leone-feine-bitter",
+      "title": {
+        "tileHeadline": "Schokolade, \"Sierra Leone\" Feine Bitter, 80 g",
+        "tileHeadlineLong": "Schokolade, \"Sierra Leone\" Feine Bitter, 80 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.573,
+        "ratingCount": 89
+      }
+    }
+  },
+  {
+    "gtin": 7610815101194,
+    "dan": 1709561,
+    "brandName": "Plant-for-the-Planet",
+    "title": "Schokolade, Zartbitter, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Plant-for-the-Planet; Produktname: Schokolade, Zartbitter, 100 g; Preis: 2,15 €; Grundpreis: 0,1 kg (21,50 € je 1 kg)",
+      "brand": {
+        "name": "Plant-for-the-Planet"
+      },
+      "dan": 1709561,
+      "gtin": 7610815101194,
+      "images": [
+        {
+          "alt": "Schokolade, Zartbitter Plant-for-the-Planet",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781404326/assets/pas/images/3b5b46e9-aa01-4751-8939-9cb9c18db625/plant-for-the-planet-schokolade-zartbitter"
+        },
+        {
+          "alt": "Schokolade, Zartbitter Plant-for-the-Planet",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781404342/assets/pas/images/293715ba-9fff-4d46-8508-bad528679010/plant-for-the-planet-schokolade-zartbitter"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,01 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (20,09 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (21,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 76,
+        "ratingValue": 4.6316
+      },
+      "self": "/p/d/1709561/plant-for-the-planet-schokolade-zartbitter",
+      "title": {
+        "tileHeadline": "Schokolade, Zartbitter, 100 g",
+        "tileHeadlineLong": "Schokolade, Zartbitter, 100 g"
+      },
+      "trackingData": {
+        "brand": "Plant-for-the-Planet",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6316,
+        "ratingCount": 76
+      }
+    }
+  },
+  {
+    "gtin": 7610815028774,
+    "dan": 1496731,
+    "brandName": "Plant-for-the-Planet",
+    "title": "Schokolade, Vollmilch, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: Plant-for-the-Planet; Produktname: Schokolade, Vollmilch, 100 g; Preis: 2,15 €; Grundpreis: 0,1 kg (21,50 € je 1 kg)",
+      "brand": {
+        "name": "Plant-for-the-Planet"
+      },
+      "dan": 1496731,
+      "gtin": 7610815028774,
+      "images": [
+        {
+          "alt": "Schokolade, Vollmilch Plant-for-the-Planet",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771551686/assets/pas/images/8685d840-1506-4a52-89c1-0444f371d73c/plant-for-the-planet-schokolade-vollmilch"
+        },
+        {
+          "alt": "Schokolade, Vollmilch Plant-for-the-Planet",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781654039/assets/pas/images/822f3fb4-b2d1-48de-8de9-c631c9d3965b/plant-for-the-planet-schokolade-vollmilch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,01 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (20,09 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (21,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 129,
+        "ratingValue": 4.3643
+      },
+      "self": "/p/d/1496731/plant-for-the-planet-schokolade-vollmilch",
+      "title": {
+        "tileHeadline": "Schokolade, Vollmilch, 100 g",
+        "tileHeadlineLong": "Schokolade, Vollmilch, 100 g"
+      },
+      "trackingData": {
+        "brand": "Plant-for-the-Planet",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3643,
+        "ratingCount": 129
+      }
+    }
+  },
+  {
+    "gtin": 4070765016215,
+    "dan": 3114816,
+    "brandName": "dmBio",
+    "title": "Haselnüsse in Vollmilchschokolade, 85 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haselnüsse in Vollmilchschokolade, 85 g; Preis: 2,45 €; Grundpreis: 0,085 kg (28,82 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3114816,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765016215,
+      "images": [
+        {
+          "alt": "Haselnüsse in Vollmilchschokolade dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782257550/assets/pas/images/cd6490ab-5e18-4526-bd1e-c5e9db18eaba/dmbio-haselnuesse-in-vollmilchschokolade"
+        },
+        {
+          "alt": "Haselnüsse in Vollmilchschokolade dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782257546/assets/pas/images/33340b1d-0d20-429c-99da-fc88ef7ff4f2/dmbio-haselnuesse-in-vollmilchschokolade"
+        },
+        {
+          "alt": "Haselnüsse in Vollmilchschokolade dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781822825/assets/pas/images/d9741255-c54e-4b5f-855a-25e9c0372b0b/dmbio-haselnuesse-in-vollmilchschokolade"
+        },
+        {
+          "alt": "Haselnüsse in Vollmilchschokolade dmBio",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782257538/assets/pas/images/e95353ea-58f1-4a96-908e-437be36d056d/dmbio-haselnuesse-in-vollmilchschokolade"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (26,93 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,085 kg (28,82 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/3114816/dmbio-haselnuesse-in-vollmilchschokolade",
+      "title": {
+        "tileHeadline": "Haselnüsse in Vollmilchschokolade, 85 g",
+        "tileHeadlineLong": "Haselnüsse in Vollmilchschokolade, 85 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 4067796174359,
+    "dan": 1488268,
+    "brandName": "dmBio",
+    "title": "Schokoriegel, Vollmilch Espresso Crunch, 37,5 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokoriegel, Vollmilch Espresso Crunch, 37,5 g; Preis: 0,85 €; Grundpreis: 0,0375 kg (22,67 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1488268,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796174359,
+      "images": [
+        {
+          "alt": "Schokoriegel, Vollmilch Espresso Crunch dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488414/assets/pas/images/36bba9e4-a97a-45fe-bfa1-1a19f07a6f2e/dmbio-schokoriegel-vollmilch-espresso-crunch"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Espresso Crunch dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488376/assets/pas/images/38d32c9d-67f6-4a36-9e69-67b09bdb621f/dmbio-schokoriegel-vollmilch-espresso-crunch"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Espresso Crunch dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488413/assets/pas/images/4143cf1a-a1e9-4f5c-bfc4-98be0f82a2fe/dmbio-schokoriegel-vollmilch-espresso-crunch"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Espresso Crunch dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488156/assets/pas/images/d6881190-e55f-4447-b76e-f3ab5be6862e/dmbio-schokoriegel-vollmilch-espresso-crunch"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Espresso Crunch dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488417/assets/pas/images/f6e606de-9682-48aa-8a70-21c780d45a8d/dmbio-schokoriegel-vollmilch-espresso-crunch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,0375 kg (21,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,0375 kg (22,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 105,
+        "ratingValue": 4.8476
+      },
+      "self": "/p/d/1488268/dmbio-schokoriegel-vollmilch-espresso-crunch",
+      "title": {
+        "tileHeadline": "Schokoriegel, Vollmilch Espresso Crunch, 37,5 g",
+        "tileHeadlineLong": "Schokoriegel, Vollmilch Espresso Crunch, 37,5 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8476,
+        "ratingCount": 105
+      }
+    }
+  },
+  {
+    "gtin": 4067796194159,
+    "dan": 1488265,
+    "brandName": "dmBio",
+    "title": "Schokoriegel, Vollmilch Himbeer Joghurt, 37,5 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokoriegel, Vollmilch Himbeer Joghurt, 37,5 g; Preis: 0,85 €; Grundpreis: 0,0375 kg (22,67 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1488265,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796194159,
+      "images": [
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488474/assets/pas/images/c571dcfe-ccc2-4d6a-8bc1-32e74f36eca5/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488684/assets/pas/images/038ce2b8-7f17-4896-b9f6-56fe52cfa05f/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488659/assets/pas/images/aec612d5-5ccb-459c-9419-9baba887b544/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488381/assets/pas/images/63b587e2-b7a0-4b50-8424-0c4775184c1a/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Himbeer Joghurt dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488478/assets/pas/images/87cfdcf7-0b32-4084-86ba-ebc5a9e123b4/dmbio-schokoriegel-vollmilch-himbeer-joghurt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,0375 kg (21,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,0375 kg (22,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.3525
+      },
+      "self": "/p/d/1488265/dmbio-schokoriegel-vollmilch-himbeer-joghurt",
+      "title": {
+        "tileHeadline": "Schokoriegel, Vollmilch Himbeer Joghurt, 37,5 g",
+        "tileHeadlineLong": "Schokoriegel, Vollmilch Himbeer Joghurt, 37,5 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3525,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 4067796195422,
+    "dan": 1640571,
+    "brandName": "dmBio",
+    "title": "Schokolade, Edelbitter 90%, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokolade, Edelbitter 90%, 100 g; Preis: 1,95 €; Grundpreis: 0,1 kg (19,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1640571,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796195422,
+      "images": [
+        {
+          "alt": "Schokolade, Edelbitter 90% dmBio",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999606/assets/pas/images/c8604828-6c24-42a9-9414-0c014cf33d96/dmbio-schokolade-edelbitter-90-prozent"
+        },
+        {
+          "alt": "Schokolade, Edelbitter 90% dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999611/assets/pas/images/c15c38fe-f071-4b06-98c9-87f1aaf21f5f/dmbio-schokolade-edelbitter-90-prozent"
+        },
+        {
+          "alt": "Schokolade, Edelbitter 90% dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488570/assets/pas/images/85f1a581-dab5-4299-aeda-e74c35e346d5/dmbio-schokolade-edelbitter-90-prozent"
+        },
+        {
+          "alt": "Schokolade, Edelbitter 90% dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763561139/assets/pas/images/75296d8d-97eb-48fc-9872-22e69461d2aa/dmbio-schokolade-edelbitter-90-prozent"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (18,22 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (19,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 184,
+        "ratingValue": 4.1196
+      },
+      "self": "/p/d/1640571/dmbio-schokolade-edelbitter-90-prozent",
+      "title": {
+        "tileHeadline": "Schokolade, Edelbitter 90%, 100 g",
+        "tileHeadlineLong": "Schokolade, Edelbitter 90%, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1196,
+        "ratingCount": 184
+      }
+    }
+  },
+  {
+    "gtin": 4066447229066,
+    "dan": 1495026,
+    "brandName": "dmBio",
+    "title": "Schokoriegel, Edelmarzipan mit Honig & Zartbitterschokolade, 40 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokoriegel, Edelmarzipan mit Honig & Zartbitterschokolade, 40 g; Preis: 0,95 €; Grundpreis: 0,04 kg (23,75 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1495026,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447229066,
+      "images": [
+        {
+          "alt": "Schokoriegel, Edelmarzipan mit Honig & Zartbitterschokolade dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478507/assets/pas/images/710a43fd-41c2-448f-853b-e50352e7e465/dmbio-schokoriegel-edelmarzipan-mit-honig-und-zartbitterschokolade"
+        },
+        {
+          "alt": "Schokoriegel, Edelmarzipan mit Honig & Zartbitterschokolade dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478211/assets/pas/images/65b66d5a-b1a1-42cb-9f4e-a50551a17c8a/dmbio-schokoriegel-edelmarzipan-mit-honig-und-zartbitterschokolade"
+        },
+        {
+          "alt": "Schokoriegel, Edelmarzipan mit Honig & Zartbitterschokolade dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478212/assets/pas/images/83bb5c03-356e-4d8b-b2bf-fbe5a70ce25c/dmbio-schokoriegel-edelmarzipan-mit-honig-und-zartbitterschokolade"
+        },
+        {
+          "alt": "Schokoriegel, Edelmarzipan mit Honig & Zartbitterschokolade dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478446/assets/pas/images/287cdbcb-9320-4178-8567-b20b5a356873/dmbio-schokoriegel-edelmarzipan-mit-honig-und-zartbitterschokolade"
+        },
+        {
+          "alt": "Schokoriegel, Edelmarzipan mit Honig & Zartbitterschokolade dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747478507/assets/pas/images/b171fbd7-326c-42f9-b3e8-01676802615a/dmbio-schokoriegel-edelmarzipan-mit-honig-und-zartbitterschokolade"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,89 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (22,20 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,04 kg (23,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 4.4639
+      },
+      "self": "/p/d/1495026/dmbio-schokoriegel-edelmarzipan-mit-honig-und-zartbitterschokolade",
+      "title": {
+        "tileHeadline": "Schokoriegel, Edelmarzipan mit Honig &..., 40 g",
+        "tileHeadlineLong": "Schokoriegel, Edelmarzipan mit Honig &..., 40 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4639,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 4067796195361,
+    "dan": 1691024,
+    "brandName": "dmBio",
+    "title": "Schokolade, weiß mit Mandelstücken, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokolade, weiß mit Mandelstücken, 100 g; Preis: 1,65 €; Grundpreis: 0,1 kg (16,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1691024,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796195361,
+      "images": [
+        {
+          "alt": "Schokolade, weiß mit Mandelstücken dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755013315/assets/pas/images/21831eab-01ca-4e97-9ac5-0b48de8a81b7/dmbio-schokolade-weiss-mit-mandelstuecken"
+        },
+        {
+          "alt": "Schokolade, weiß mit Mandelstücken dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755013317/assets/pas/images/b4b48a54-5f06-4835-8327-2c8eab2d7ab6/dmbio-schokolade-weiss-mit-mandelstuecken"
+        },
+        {
+          "alt": "Schokolade, weiß mit Mandelstücken dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488568/assets/pas/images/93023285-115a-454d-9e9e-3544e796228c/dmbio-schokolade-weiss-mit-mandelstuecken"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (15,42 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (16,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.3103
+      },
+      "self": "/p/d/1691024/dmbio-schokolade-weiss-mit-mandelstuecken",
+      "title": {
+        "tileHeadline": "Schokolade, weiß mit Mandelstücken, 100 g",
+        "tileHeadlineLong": "Schokolade, weiß mit Mandelstücken, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3103,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 4260137744406,
+    "dan": 3129250,
+    "brandName": "Frusano",
+    "title": "Schokolade Vollmilch, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: Frusano; Produktname: Schokolade Vollmilch, 80 g; Preis: 3,55 €; Grundpreis: 0,08 kg (44,38 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "Frusano"
+      },
+      "dan": 3129250,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4260137744406,
+      "images": [
+        {
+          "alt": "Schokolade Vollmilch Frusano",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775565187/assets/pas/images/28d30558-b4fb-44e3-8f2d-375f1f6fa37c/frusano-schokolade-vollmilch"
+        },
+        {
+          "alt": "Schokolade Vollmilch Frusano",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777587413/assets/pas/images/8d0f9a67-d73b-4ef1-af56-3574fc1e57b0/frusano-schokolade-vollmilch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (41,48 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (44,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 0,
+        "ratingValue": 0.0
+      },
+      "self": "/p/d/3129250/frusano-schokolade-vollmilch",
+      "title": {
+        "tileHeadline": "Schokolade Vollmilch, 80 g",
+        "tileHeadlineLong": "Schokolade Vollmilch, 80 g"
+      },
+      "trackingData": {
+        "brand": "Frusano",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 0.0,
+        "ratingCount": 0
+      }
+    }
+  },
+  {
+    "gtin": 4067796195408,
+    "dan": 1672774,
+    "brandName": "dmBio",
+    "title": "Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips, 80 g; Preis: 1,75 €; Grundpreis: 0,08 kg (21,88 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1672774,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796195408,
+      "images": [
+        {
+          "alt": "Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips dmBio",
+          "backgroundColor": "#F1F9F8",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751269299/assets/pas/images/08717a26-591d-4e9f-9fe9-330313f2801e/dmbio-schokolade-sierra-leone-feine-bitter-mit-kokoschips"
+        },
+        {
+          "alt": "Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751269292/assets/pas/images/628ef0e5-5917-4d4e-a3dc-16a07cda693d/dmbio-schokolade-sierra-leone-feine-bitter-mit-kokoschips"
+        },
+        {
+          "alt": "Schokolade, \"Sierra Leone\" Feine Bitter mit Kokoschips dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751269287/assets/pas/images/d7d180b9-5acf-40c8-a4d0-818188241921/dmbio-schokolade-sierra-leone-feine-bitter-mit-kokoschips"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (20,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (21,88 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 81,
+        "ratingValue": 4.5309
+      },
+      "self": "/p/d/1672774/dmbio-schokolade-sierra-leone-feine-bitter-mit-kokoschips",
+      "title": {
+        "tileHeadline": "Schokolade, \"Sierra Leone\" Feine Bitter mit..., 80 g",
+        "tileHeadlineLong": "Schokolade, \"Sierra Leone\" Feine Bitter mit..., 80 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5309,
+        "ratingCount": 81
+      }
+    }
+  },
+  {
+    "gtin": 4067796174410,
+    "dan": 1488264,
+    "brandName": "dmBio",
+    "title": "Schokoriegel, Vollmilch Keks, 37,5 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokoriegel, Vollmilch Keks, 37,5 g; Preis: 0,85 €; Grundpreis: 0,0375 kg (22,67 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1488264,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796174410,
+      "images": [
+        {
+          "alt": "Schokoriegel, Vollmilch Keks dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488271/assets/pas/images/f398e8ad-89a6-4051-83d4-393785015e3c/dmbio-schokoriegel-vollmilch-keks"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Keks dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488271/assets/pas/images/e3126072-9388-4ee3-bd2a-6bb03f674dbf/dmbio-schokoriegel-vollmilch-keks"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Keks dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488499/assets/pas/images/2c210e5e-b007-44cc-a3cd-9fb7ca32819e/dmbio-schokoriegel-vollmilch-keks"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Keks dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488500/assets/pas/images/e94f91f9-c780-45ce-8d33-04c213d42660/dmbio-schokoriegel-vollmilch-keks"
+        },
+        {
+          "alt": "Schokoriegel, Vollmilch Keks dmBio",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488455/assets/pas/images/3558fa9e-8541-4d29-86fc-36799c214c89/dmbio-schokoriegel-vollmilch-keks"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,0375 kg (21,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,0375 kg (22,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.4146
+      },
+      "self": "/p/d/1488264/dmbio-schokoriegel-vollmilch-keks",
+      "title": {
+        "tileHeadline": "Schokoriegel, Vollmilch Keks, 37,5 g",
+        "tileHeadlineLong": "Schokoriegel, Vollmilch Keks, 37,5 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4146,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 4067796174373,
+    "dan": 1488261,
+    "brandName": "dmBio",
+    "title": "Schokolade Nougat, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schokolade Nougat, 100 g; Preis: 1,75 €; Grundpreis: 0,1 kg (17,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1488261,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796174373,
+      "images": [
+        {
+          "alt": "Schokolade Nougat dmBio",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748560413/assets/pas/images/898b0824-a98f-4f79-b7a8-38243ea8da4a/dmbio-schokolade-nougat"
+        },
+        {
+          "alt": "Schokolade Nougat dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748560419/assets/pas/images/4aaf52c8-6ba8-47e3-b717-a665062cdc2b/dmbio-schokolade-nougat"
+        },
+        {
+          "alt": "Schokolade Nougat dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488602/assets/pas/images/b163b8c9-5ec3-443c-87a8-30b625e86579/dmbio-schokolade-nougat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (16,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (17,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 134,
+        "ratingValue": 4.1716
+      },
+      "self": "/p/d/1488261/dmbio-schokolade-nougat",
+      "title": {
+        "tileHeadline": "Schokolade Nougat, 100 g",
+        "tileHeadlineLong": "Schokolade Nougat, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Schokolade & Schokoriegel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1716,
+        "ratingCount": 134
+      }
+    }
+  }
+]

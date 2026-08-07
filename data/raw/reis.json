@@ -1,0 +1,2731 @@
+[
+  {
+    "gtin": 4066447974645,
+    "dan": 1639883,
+    "brandName": "dmBio",
+    "title": "Jasminreis weiß, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Jasminreis weiß, 500 g; Preis: 1,85 €; Grundpreis: 0,5 kg (3,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1639883,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447974645,
+      "images": [
+        {
+          "alt": "Jasminreis weiß dmBio",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776207432/assets/pas/images/8109e4e4-bbf1-4ce0-969e-ba4cfd0b86df/dmbio-jasminreis-weiss"
+        },
+        {
+          "alt": "Jasminreis weiß dmBio",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776207422/assets/pas/images/4880db31-e5e6-45a0-ae7c-8763f6e12278/dmbio-jasminreis-weiss"
+        },
+        {
+          "alt": "Jasminreis weiß dmBio",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776207437/assets/pas/images/d3cfd80d-5b8b-4658-8e6d-2a4b79b439f9/dmbio-jasminreis-weiss"
+        },
+        {
+          "alt": "Jasminreis weiß dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776207428/assets/pas/images/ddf55c0e-e3bb-4a42-8141-9bf16a0d095b/dmbio-jasminreis-weiss"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,46 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.7195
+      },
+      "self": "/p/d/1639883/dmbio-jasminreis-weiss",
+      "title": {
+        "tileHeadline": "Jasminreis weiß, 500 g",
+        "tileHeadlineLong": "Jasminreis weiß, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7195,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 4019339226209,
+    "dan": 1639563,
+    "brandName": "Davert",
+    "title": "Basmati & Wildreis Mischung, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Basmati & Wildreis Mischung, 500 g; Preis: 4,95 €; Grundpreis: 0,5 kg (9,90 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1639563,
+      "gtin": 4019339226209,
+      "images": [
+        {
+          "alt": "Basmati & Wildreis Mischung Davert",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442465/assets/pas/images/b40233b7-d016-442b-a3f7-e53d60204db6/davert-basmati-und-wildreis-mischung"
+        },
+        {
+          "alt": "Basmati & Wildreis Mischung Davert",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442465/assets/pas/images/f7306381-3b39-4210-b1bb-625ff7f1508b/davert-basmati-und-wildreis-mischung"
+        },
+        {
+          "alt": "Basmati & Wildreis Mischung Davert",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442707/assets/pas/images/dcbd1a50-395c-4bdd-8443-45c40de8bf47/davert-basmati-und-wildreis-mischung"
+        },
+        {
+          "alt": "Basmati & Wildreis Mischung Davert",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442712/assets/pas/images/fe47d0c6-05a5-4f45-af3a-d01e5b0f6c0d/davert-basmati-und-wildreis-mischung"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (9,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (9,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.8906
+      },
+      "self": "/p/d/1639563/davert-basmati-und-wildreis-mischung",
+      "title": {
+        "tileHeadline": "Basmati & Wildreis Mischung, 500 g",
+        "tileHeadlineLong": "Basmati & Wildreis Mischung, 500 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8906,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 4066447680300,
+    "dan": 1454785,
+    "brandName": "dmBio",
+    "title": "Langkornreis Vollkorn, 1.000 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Langkornreis Vollkorn, 1.000 g; Preis: 2,55 €; Grundpreis: 1 kg (2,55 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454785,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447680300,
+      "images": [
+        {
+          "alt": "Langkornreis Vollkorn  dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484621/assets/pas/images/5ec7e703-8a98-4af0-b885-436babc202a8/dmbio-langkornreis-vollkorn"
+        },
+        {
+          "alt": "Langkornreis Vollkorn  dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484882/assets/pas/images/ac0876d5-3576-4696-a2e7-fa7bf9fc3297/dmbio-langkornreis-vollkorn"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (2,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (2,55 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.2377
+      },
+      "self": "/p/d/1454785/dmbio-langkornreis-vollkorn",
+      "title": {
+        "tileHeadline": "Langkornreis Vollkorn, 1.000 g",
+        "tileHeadlineLong": "Langkornreis Vollkorn, 1.000 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2377,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 4066447758757,
+    "dan": 1454975,
+    "brandName": "dmBio",
+    "title": "Milchreis, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Milchreis, 500 g; Preis: 1,55 €; Grundpreis: 0,5 kg (3,10 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454975,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447758757,
+      "images": [
+        {
+          "alt": "Milchreis dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774601200/assets/pas/images/67fd73af-26b8-4a6a-96d3-80565cf262a6/dmbio-milchreis"
+        },
+        {
+          "alt": "Milchreis dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774601208/assets/pas/images/c1c6cf79-817b-4c7d-a773-f3514f0f65b4/dmbio-milchreis"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,10 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 135,
+        "ratingValue": 4.7481
+      },
+      "self": "/p/d/1454975/dmbio-milchreis",
+      "title": {
+        "tileHeadline": "Milchreis, 500 g",
+        "tileHeadlineLong": "Milchreis, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7481,
+        "ratingCount": 135
+      }
+    }
+  },
+  {
+    "gtin": 4066447680287,
+    "dan": 1454973,
+    "brandName": "dmBio",
+    "title": "Langkornreis Parboiled, 1 kg",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Langkornreis Parboiled, 1 kg; Preis: 2,45 €; Grundpreis: 1 kg (2,45 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454973,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447680287,
+      "images": [
+        {
+          "alt": "Langkornreis Parboiled  dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484761/assets/pas/images/835ca6f3-30f3-4f4f-bd57-44b246de9091/dmbio-langkornreis-parboiled"
+        },
+        {
+          "alt": "Langkornreis Parboiled  dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484622/assets/pas/images/0335ca2a-1f79-48c8-b529-3eb359d7d150/dmbio-langkornreis-parboiled"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (2,29 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (2,45 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 3.7708
+      },
+      "self": "/p/d/1454973/dmbio-langkornreis-parboiled",
+      "title": {
+        "tileHeadline": "Langkornreis Parboiled, 1 kg",
+        "tileHeadlineLong": "Langkornreis Parboiled, 1 kg"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7708,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4058172824579,
+    "dan": 1624419,
+    "brandName": "dmBio",
+    "title": "Basmatireis mit Olivenöl verfeinert, Express, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Basmatireis mit Olivenöl verfeinert, Express, 250 g; Preis: 1,75 €; Grundpreis: 0,25 kg (7,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1624419,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172824579,
+      "images": [
+        {
+          "alt": "Basmatireis mit Olivenöl verfeinert, Express dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455422/assets/pas/images/ff66f253-04a1-424e-9f90-010c46e6efa7/dmbio-basmatireis-mit-olivenoel-verfeinert-express"
+        },
+        {
+          "alt": "Basmatireis mit Olivenöl verfeinert, Express dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455635/assets/pas/images/4e8e5cdf-7081-4f89-ad4a-919d7fcee53b/dmbio-basmatireis-mit-olivenoel-verfeinert-express"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (6,54 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (7,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/1624419/dmbio-basmatireis-mit-olivenoel-verfeinert-express",
+      "title": {
+        "tileHeadline": "Basmatireis mit Olivenöl verfeinert, Express, 250 g",
+        "tileHeadlineLong": "Basmatireis mit Olivenöl verfeinert, Express, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4058172716232,
+    "dan": 1454951,
+    "brandName": "dmBio",
+    "title": "Basmatireis aus Vollkorn, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Basmatireis aus Vollkorn, 500 g; Preis: 2,35 €; Grundpreis: 0,5 kg (4,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1454951,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172716232,
+      "images": [
+        {
+          "alt": "Basmatireis aus Vollkorn dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747453998/assets/pas/images/42158ade-2327-4ae4-8cdc-bb3f94e83ef0/dmbio-basmatireis-aus-vollkorn"
+        },
+        {
+          "alt": "Basmatireis aus Vollkorn dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747454211/assets/pas/images/9eba42d9-7758-4bec-81e0-3c12e7553b8a/dmbio-basmatireis-aus-vollkorn"
+        },
+        {
+          "alt": "Basmatireis aus Vollkorn dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761142458/assets/pas/images/7b144e75-d871-42f0-939a-d6d9b27c16a3/dmbio-basmatireis-aus-vollkorn"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,39 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 127,
+        "ratingValue": 4.3307
+      },
+      "self": "/p/d/1454951/dmbio-basmatireis-aus-vollkorn",
+      "title": {
+        "tileHeadline": "Basmatireis aus Vollkorn, 500 g",
+        "tileHeadlineLong": "Basmatireis aus Vollkorn, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3307,
+        "ratingCount": 127
+      }
+    }
+  },
+  {
+    "gtin": 4019339235102,
+    "dan": 1639576,
+    "brandName": "Davert",
+    "title": "Basmatireis weiß, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: Davert; Produktname: Basmatireis weiß, 500 g; Preis: 3,95 €; Grundpreis: 0,5 kg (7,90 € je 1 kg)",
+      "brand": {
+        "name": "Davert"
+      },
+      "dan": 1639576,
+      "gtin": 4019339235102,
+      "images": [
+        {
+          "alt": "Basmatireis weiß Davert",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442618/assets/pas/images/b660cb6f-142c-4eed-ba2f-9b3f9d2e9bd3/davert-basmatireis-weiss"
+        },
+        {
+          "alt": "Basmatireis weiß Davert",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442707/assets/pas/images/3326cc63-00c8-4d55-b0a3-919da6b56e77/davert-basmatireis-weiss"
+        },
+        {
+          "alt": "Basmatireis weiß Davert",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747442621/assets/pas/images/50e6427e-fe4d-475c-9140-6dcdac7a7cd1/davert-basmatireis-weiss"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,38 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 60,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/1639576/davert-basmatireis-weiss",
+      "title": {
+        "tileHeadline": "Basmatireis weiß, 500 g",
+        "tileHeadlineLong": "Basmatireis weiß, 500 g"
+      },
+      "trackingData": {
+        "brand": "Davert",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 60
+      }
+    }
+  },
+  {
+    "gtin": 4066447874167,
+    "dan": 1457931,
+    "brandName": "dmBio",
+    "title": "Risottoreis Carnaroli, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Risottoreis Carnaroli, 500 g; Preis: 2,65 €; Grundpreis: 0,5 kg (5,30 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1457931,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447874167,
+      "images": [
+        {
+          "alt": "Risottoreis Carnaroli dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755094412/assets/pas/images/d747c294-e449-4dae-a71d-782b731e50e5/dmbio-risottoreis-carnaroli"
+        },
+        {
+          "alt": "Risottoreis Carnaroli dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755094410/assets/pas/images/bec8f83c-e9e9-4b5b-a709-d055955388e7/dmbio-risottoreis-carnaroli"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,95 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,30 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 111,
+        "ratingValue": 4.9189
+      },
+      "self": "/p/d/1457931/dmbio-risottoreis-carnaroli",
+      "title": {
+        "tileHeadline": "Risottoreis Carnaroli, 500 g",
+        "tileHeadlineLong": "Risottoreis Carnaroli, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9189,
+        "ratingCount": 111
+      }
+    }
+  },
+  {
+    "gtin": 4066447672688,
+    "dan": 1457820,
+    "brandName": "dmBio",
+    "title": "Basmatireis weiß, 1.000 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Basmatireis weiß, 1.000 g; Preis: 3,15 €; Grundpreis: 1 kg (3,15 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1457820,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447672688,
+      "images": [
+        {
+          "alt": "Basmatireis weiß  dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484470/assets/pas/images/24a0e9c1-f080-4943-8232-90885aff9639/dmbio-basmatireis-weiss"
+        },
+        {
+          "alt": "Basmatireis weiß  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484598/assets/pas/images/2af47064-cd9e-47a9-a11c-f362ff72bd68/dmbio-basmatireis-weiss"
+        },
+        {
+          "alt": "Basmatireis weiß  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484312/assets/pas/images/8f06c084-7723-4e81-9b40-3078d8918ac1/dmbio-basmatireis-weiss"
+        },
+        {
+          "alt": "Basmatireis weiß  dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484315/assets/pas/images/cf7dbd18-8b86-45d9-b9ce-1b1b03ae1dbf/dmbio-basmatireis-weiss"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (2,94 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (3,15 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 245,
+        "ratingValue": 4.6408
+      },
+      "self": "/p/d/1457820/dmbio-basmatireis-weiss",
+      "title": {
+        "tileHeadline": "Basmatireis weiß, 1.000 g",
+        "tileHeadlineLong": "Basmatireis weiß, 1.000 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Reis"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6408,
+        "ratingCount": 245
+      }
+    }
+  },
+  {
+    "gtin": 4067796139266,
+    "dan": 1639884,
+    "brandName": "dmBio",
+    "title": "Reisnudeln Pad Thai, 225 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reisnudeln Pad Thai, 225 g; Preis: 2,75 €; Grundpreis: 0,225 kg (12,22 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1639884,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796139266,
+      "images": [
+        {
+          "alt": "Reisnudeln Pad Thai dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752066227/assets/pas/images/4ce789e4-a231-43e0-9ff2-00a6211fc238/dmbio-reisnudeln-pad-thai"
+        },
+        {
+          "alt": "Reisnudeln Pad Thai dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752066222/assets/pas/images/6dfd9635-dfc5-44b1-8a60-cc2017fa0572/dmbio-reisnudeln-pad-thai"
+        },
+        {
+          "alt": "Reisnudeln Pad Thai dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761829455/assets/pas/images/327b6951-ead3-43b7-9ec0-c35f8646402f/dmbio-reisnudeln-pad-thai"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 kg (11,42 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 kg (12,22 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 118,
+        "ratingValue": 4.7458
+      },
+      "self": "/p/d/1639884/dmbio-reisnudeln-pad-thai",
+      "title": {
+        "tileHeadline": "Reisnudeln Pad Thai, 225 g",
+        "tileHeadlineLong": "Reisnudeln Pad Thai, 225 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7458,
+        "ratingCount": 118
+      }
+    }
+  },
+  {
+    "gtin": 7640143673360,
+    "dan": 1623844,
+    "brandName": "PPURA",
+    "title": "Nudeln, Fusilli aus Vollkornreis, glutenfrei, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Nudeln, Fusilli aus Vollkornreis, glutenfrei, 400 g; Preis: 2,95 €; Grundpreis: 0,4 kg (7,38 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1623844,
+      "gtin": 7640143673360,
+      "images": [
+        {
+          "alt": "Nudeln, Fusilli aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511265/assets/pas/images/6e2ee914-c15f-46a6-bb55-6ee76d5beda1/ppura-nudeln-fusilli-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511361/assets/pas/images/5ced887b-7be5-409c-8340-7c9dbae23c7a/ppura-nudeln-fusilli-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773449867/assets/pas/images/e51d2869-2e95-454d-9384-830c3c0c4f4f/ppura-nudeln-fusilli-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511678/assets/pas/images/c219ee95-cac4-483a-b541-f137e514b85c/ppura-nudeln-fusilli-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511361/assets/pas/images/34d8e73d-ba08-42ee-abe3-6dbb0d3d146e/ppura-nudeln-fusilli-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Fusilli aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511266/assets/pas/images/48838f75-cd36-43cd-b530-f1c6acad29a2/ppura-nudeln-fusilli-aus-vollkornreis-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (7,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 147,
+        "ratingValue": 4.6939
+      },
+      "self": "/p/d/1623844/ppura-nudeln-fusilli-aus-vollkornreis-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Fusilli aus Vollkornreis, glutenfrei, 400 g",
+        "tileHeadlineLong": "Nudeln, Fusilli aus Vollkornreis, glutenfrei, 400 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6939,
+        "ratingCount": 147
+      }
+    }
+  },
+  {
+    "gtin": 4003573023144,
+    "dan": 3069473,
+    "brandName": "Schaebens",
+    "title": "Tuchmaske Reiswasser, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: Schaebens; Produktname: Tuchmaske Reiswasser, 1 St; Preis: 1,45 €; Grundpreis: 1 St (1,45 € je 1 St)",
+      "brand": {
+        "name": "Schaebens"
+      },
+      "dan": 3069473,
+      "gtin": 4003573023144,
+      "images": [
+        {
+          "alt": "Tuchmaske Reiswasser Schaebens",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758315614/assets/pas/images/d07e772e-a54e-4f35-85dc-7ce62b7f3682/schaebens-tuchmaske-reiswasser"
+        },
+        {
+          "alt": "Tuchmaske Reiswasser Schaebens",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758315625/assets/pas/images/38de0dca-d820-41ec-9216-e00362c6bc51/schaebens-tuchmaske-reiswasser"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (1,22 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (1,45 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 112,
+        "ratingValue": 4.8304
+      },
+      "self": "/p/d/3069473/schaebens-tuchmaske-reiswasser",
+      "title": {
+        "tileHeadline": "Tuchmaske Reiswasser, 1 St",
+        "tileHeadlineLong": "Tuchmaske Reiswasser, 1 St"
+      },
+      "trackingData": {
+        "brand": "Schaebens",
+        "categories": [
+          "Gesichtsmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8304,
+        "ratingCount": 112
+      }
+    }
+  },
+  {
+    "gtin": 4067796140309,
+    "dan": 1513488,
+    "brandName": "dmBio",
+    "title": "Reiswaffeln, Schoko Zartbitter, glutenfrei, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reiswaffeln, Schoko Zartbitter, glutenfrei, 100 g; Preis: 1,45 €; Grundpreis: 0,1 kg (14,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1513488,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796140309,
+      "images": [
+        {
+          "alt": "Reiswaffeln, Schoko Zartbitter, glutenfrei dmBio",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487816/assets/pas/images/4433b8fa-4afa-440a-aa20-7ad163bc51f5/dmbio-reiswaffeln-schoko-zartbitter-glutenfrei"
+        },
+        {
+          "alt": "Reiswaffeln, Schoko Zartbitter, glutenfrei dmBio",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487837/assets/pas/images/9780bbbe-f18a-42ce-86bb-745e04123e4a/dmbio-reiswaffeln-schoko-zartbitter-glutenfrei"
+        },
+        {
+          "alt": "Reiswaffeln, Schoko Zartbitter, glutenfrei dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487816/assets/pas/images/b5d589bd-4f0a-49f5-a4b8-6b8e395255f5/dmbio-reiswaffeln-schoko-zartbitter-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (13,55 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (14,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 212,
+        "ratingValue": 4.6651
+      },
+      "self": "/p/d/1513488/dmbio-reiswaffeln-schoko-zartbitter-glutenfrei",
+      "title": {
+        "tileHeadline": "Reiswaffeln, Schoko Zartbitter, glutenfrei, 100 g",
+        "tileHeadlineLong": "Reiswaffeln, Schoko Zartbitter, glutenfrei, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6651,
+        "ratingCount": 212
+      }
+    }
+  },
+  {
+    "gtin": 8710447217054,
+    "dan": 1545376,
+    "brandName": "Dove",
+    "title": "Körperpeeling Macadamia & Reismilch, 225 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Dove; Produktname: Körperpeeling Macadamia & Reismilch, 225 ml; Preis: 5,75 €; Grundpreis: 0,225 l (25,56 € je 1 l)",
+      "brand": {
+        "name": "Dove"
+      },
+      "dan": 1545376,
+      "gtin": 8710447217054,
+      "images": [
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124918/assets/pas/images/1c48bd03-d0ca-4e3f-a3b7-077c06c4656a/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124921/assets/pas/images/0a44fba7-5497-4766-b079-f597aadb739f/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124904/assets/pas/images/7d884634-622b-4e29-89c3-a17be7544618/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777593547/assets/pas/images/a2fb7763-fcef-483a-9d90-ca25b5b1a804/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753308615/assets/pas/images/26368e79-597f-46ad-a6a2-11f7f2b1f343/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777593554/assets/pas/images/03bb0886-f969-4bae-a692-e29deb53be92/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777593541/assets/pas/images/6e850393-8041-4958-b263-af4a233f59db/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124910/assets/pas/images/807ad4c1-822d-4e34-aa21-5d5e8575c042/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124910/assets/pas/images/c8b8245b-f3b8-4208-91fa-cde0aaacf60a/dove-koerperpeeling-macadamia-und-reismilch"
+        },
+        {
+          "alt": "Körperpeeling Macadamia & Reismilch Dove",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755124906/assets/pas/images/b6cd35ce-dcc2-4098-b5db-c43bc1c3b370/dove-koerperpeeling-macadamia-und-reismilch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,83 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 l (21,48 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,225 l (25,56 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 461,
+        "ratingValue": 4.7267
+      },
+      "self": "/p/d/1545376/dove-koerperpeeling-macadamia-und-reismilch",
+      "title": {
+        "tileHeadline": "Körperpeeling Macadamia & Reismilch, 225 ml",
+        "tileHeadlineLong": "Körperpeeling Macadamia & Reismilch, 225 ml"
+      },
+      "trackingData": {
+        "brand": "Dove",
+        "categories": [
+          "Körperpeeling & Body Scrub"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7267,
+        "ratingCount": 461
+      }
+    }
+  },
+  {
+    "gtin": 4066447874389,
+    "dan": 1513584,
+    "brandName": "dmBio",
+    "title": "Reiswaffeln, Schoko Vollmilch, glutenfrei, 100 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reiswaffeln, Schoko Vollmilch, glutenfrei, 100 g; Preis: 1,45 €; Grundpreis: 0,1 kg (14,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1513584,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447874389,
+      "images": [
+        {
+          "alt": "Reiswaffeln, Schoko Vollmilch, glutenfrei dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371684/assets/pas/images/69f9b329-281d-4437-b836-5a1c975f6d37/dmbio-reiswaffeln-schoko-vollmilch-glutenfrei"
+        },
+        {
+          "alt": "Reiswaffeln, Schoko Vollmilch, glutenfrei dmBio",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371690/assets/pas/images/51726ee1-38e8-4f46-8bbf-6900267f54fd/dmbio-reiswaffeln-schoko-vollmilch-glutenfrei"
+        },
+        {
+          "alt": "Reiswaffeln, Schoko Vollmilch, glutenfrei dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1757371678/assets/pas/images/0e78b591-a7c5-4f24-893a-80dcf0a9447f/dmbio-reiswaffeln-schoko-vollmilch-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (13,55 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,1 kg (14,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 183,
+        "ratingValue": 4.612
+      },
+      "self": "/p/d/1513584/dmbio-reiswaffeln-schoko-vollmilch-glutenfrei",
+      "title": {
+        "tileHeadline": "Reiswaffeln, Schoko Vollmilch, glutenfrei, 100 g",
+        "tileHeadlineLong": "Reiswaffeln, Schoko Vollmilch, glutenfrei, 100 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.612,
+        "ratingCount": 183
+      }
+    }
+  },
+  {
+    "gtin": 4038375025300,
+    "dan": 1670427,
+    "brandName": "Natumi",
+    "title": "Pflanzendrink, Reis Kokos, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: Natumi; Produktname: Pflanzendrink, Reis Kokos, 1 l; Preis: 2,35 €; Grundpreis: 1 l (2,35 € je 1 l)",
+      "brand": {
+        "name": "Natumi"
+      },
+      "dan": 1670427,
+      "gtin": 4038375025300,
+      "images": [
+        {
+          "alt": "Pflanzendrink, Reis Kokos Natumi",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748387145/assets/pas/images/49445b75-7859-4ba3-9e04-0afd02b3374c/natumi-pflanzendrink-reis-kokos"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,97 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (2,35 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 69,
+        "ratingValue": 4.7681
+      },
+      "self": "/p/d/1670427/natumi-pflanzendrink-reis-kokos",
+      "title": {
+        "tileHeadline": "Pflanzendrink, Reis Kokos, 1 l",
+        "tileHeadlineLong": "Pflanzendrink, Reis Kokos, 1 l"
+      },
+      "trackingData": {
+        "brand": "Natumi",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7681,
+        "ratingCount": 69
+      }
+    }
+  },
+  {
+    "gtin": 4048422159032,
+    "dan": 1330575,
+    "brandName": "Good Boy",
+    "title": "Hundeleckerli Hähnchen Reis-Sticks, Adult, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: Good Boy; Produktname: Hundeleckerli Hähnchen Reis-Sticks, Adult, 90 g; Rechtliche Kategorie: Ergänzungsfuttermittel; Preis: 1,95 €; Grundpreis: 0,09 kg (21,67 € je 1 kg)",
+      "brand": {
+        "name": "Good Boy"
+      },
+      "dan": 1330575,
+      "gtin": 4048422159032,
+      "images": [
+        {
+          "alt": "Hundeleckerli Hähnchen Reis-Sticks, Adult Good Boy",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445872/assets/pas/images/87618d19-3b75-4aaf-8634-7d8018e781b0/good-boy-hundeleckerli-haehnchen-reis-sticks-adult"
+        },
+        {
+          "alt": "Hundeleckerli Hähnchen Reis-Sticks, Adult Good Boy",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747445673/assets/pas/images/13986398-7cde-402a-80f8-d3d7e306f1e9/good-boy-hundeleckerli-haehnchen-reis-sticks-adult"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (20,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (21,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 91,
+        "ratingValue": 4.956
+      },
+      "self": "/p/d/1330575/good-boy-hundeleckerli-haehnchen-reis-sticks-adult",
+      "title": {
+        "subheadline": "Ergänzungsfuttermittel",
+        "tileHeadline": "Hundeleckerli Hähnchen Reis-Sticks, Adult, 90 g",
+        "tileHeadlineLong": "Hundeleckerli Hähnchen Reis-Sticks, Adult, 90 g"
+      },
+      "trackingData": {
+        "brand": "Good Boy",
+        "categories": [
+          "Leckerlis für Hunde"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.956,
+        "ratingCount": 91
+      }
+    }
+  },
+  {
+    "gtin": 7640143673438,
+    "dan": 3129359,
+    "brandName": "PPURA",
+    "title": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei, 400 g; Preis: 2,95 €; Grundpreis: 0,4 kg (7,38 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 3129359,
+      "gtin": 7640143673438,
+      "images": [
+        {
+          "alt": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei PPURA",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776120259/assets/pas/images/5f64420c-8b12-467c-88fd-dad100a2d672/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei PPURA",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776120272/assets/pas/images/3e5aa2f6-0e32-43cf-81b1-9768e0127294/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776469275/assets/pas/images/792de751-05c0-4cc4-8613-10b1a0de9d9f/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Rigatoni Vollkornreis für Kinder, glutenfrei PPURA",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776120293/assets/pas/images/1510bf7f-579e-47f5-878c-8eca79cf4f2f/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (7,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 49,
+        "ratingValue": 4.9184
+      },
+      "self": "/p/d/3129359/ppura-nudeln-rigatoni-vollkornreis-fuer-kinder-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Rigatoni Vollkornreis für Kinder,..., 400 g",
+        "tileHeadlineLong": "Nudeln, Rigatoni Vollkornreis für Kinder,..., 400 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9184,
+        "ratingCount": 49
+      }
+    }
+  },
+  {
+    "gtin": 8445290312112,
+    "dan": 1670569,
+    "brandName": "PURINA ONE",
+    "title": "Trockenfutter Katze sensitive mit Truthahn & Reis, Adult, 900 g",
+    "tileData": {
+      "a11yLabel": "Marke: PURINA ONE; Produktname: Trockenfutter Katze sensitive mit Truthahn & Reis, Adult, 900 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 4,65 €; Grundpreis: 0,9 kg (5,17 € je 1 kg)",
+      "brand": {
+        "name": "PURINA ONE"
+      },
+      "dan": 1670569,
+      "gtin": 8445290312112,
+      "images": [
+        {
+          "alt": "Trockenfutter Katze sensitive mit Truthahn & Reis, Adult PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524656/assets/pas/images/f7d137b1-72aa-4ed1-9bab-40266ed82b1b/purina-one-trockenfutter-katze-sensitive-mit-truthahn-und-reis-adult"
+        },
+        {
+          "alt": "Trockenfutter Katze sensitive mit Truthahn & Reis, Adult PURINA ONE",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525320/assets/pas/images/4c2fe78b-9ee2-4104-8bb4-35b125427a63/purina-one-trockenfutter-katze-sensitive-mit-truthahn-und-reis-adult"
+        },
+        {
+          "alt": "Trockenfutter Katze sensitive mit Truthahn & Reis, Adult PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525268/assets/pas/images/c6103225-3bad-4c22-9b48-cc4e18a262af/purina-one-trockenfutter-katze-sensitive-mit-truthahn-und-reis-adult"
+        },
+        {
+          "alt": "Trockenfutter Katze sensitive mit Truthahn & Reis, Adult PURINA ONE",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524658/assets/pas/images/09c9e03c-5f89-480c-8f36-cfe1b60f6945/purina-one-trockenfutter-katze-sensitive-mit-truthahn-und-reis-adult"
+        },
+        {
+          "alt": "Trockenfutter Katze sensitive mit Truthahn & Reis, Adult PURINA ONE",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524641/assets/pas/images/82cdb789-c55b-483e-810b-20089f98aada/purina-one-trockenfutter-katze-sensitive-mit-truthahn-und-reis-adult"
+        },
+        {
+          "alt": "Trockenfutter Katze sensitive mit Truthahn & Reis, Adult PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747524641/assets/pas/images/80436117-7ebb-4cf6-a273-4ae4b5461c97/purina-one-trockenfutter-katze-sensitive-mit-truthahn-und-reis-adult"
+        },
+        {
+          "alt": "Trockenfutter Katze sensitive mit Truthahn & Reis, Adult PURINA ONE",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747525268/assets/pas/images/a8882488-be7d-4823-aa4a-2d464ad212c4/purina-one-trockenfutter-katze-sensitive-mit-truthahn-und-reis-adult"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,9 kg (4,83 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,9 kg (5,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 108,
+        "ratingValue": 4.8333
+      },
+      "self": "/p/d/1670569/purina-one-trockenfutter-katze-sensitive-mit-truthahn-und-reis-adult",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Trockenfutter Katze sensitive mit Truthahn &..., 900 g",
+        "tileHeadlineLong": "Trockenfutter Katze sensitive mit Truthahn &..., 900 g"
+      },
+      "trackingData": {
+        "brand": "PURINA ONE",
+        "categories": [
+          "Trockenfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8333,
+        "ratingCount": 108
+      }
+    }
+  },
+  {
+    "gtin": 7613036526845,
+    "dan": 1395558,
+    "brandName": "PURINA ONE",
+    "title": "Trockenfutter Hund mit Rind & Reis, Mini, Adult, 800 g",
+    "tileData": {
+      "a11yLabel": "Marke: PURINA ONE; Produktname: Trockenfutter Hund mit Rind & Reis, Mini, Adult, 800 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 4,45 €; Grundpreis: 0,8 kg (5,56 € je 1 kg)",
+      "brand": {
+        "name": "PURINA ONE"
+      },
+      "dan": 1395558,
+      "gtin": 7613036526845,
+      "images": [
+        {
+          "alt": "Trockenfutter Hund mit Rind & Reis, Mini, Adult PURINA ONE",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511466/assets/pas/images/447cc80f-67ed-4073-aca7-9c3c3735630c/purina-one-trockenfutter-hund-mit-rind-und-reis-mini-adult"
+        },
+        {
+          "alt": "Trockenfutter Hund mit Rind & Reis, Mini, Adult PURINA ONE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511525/assets/pas/images/c80c2584-35e2-410d-8a36-3d501fc7c864/purina-one-trockenfutter-hund-mit-rind-und-reis-mini-adult"
+        },
+        {
+          "alt": "Trockenfutter Hund mit Rind & Reis, Mini, Adult PURINA ONE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510983/assets/pas/images/68f3217d-50bd-4515-9cba-75b53350620e/purina-one-trockenfutter-hund-mit-rind-und-reis-mini-adult"
+        },
+        {
+          "alt": "Trockenfutter Hund mit Rind & Reis, Mini, Adult PURINA ONE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760047432/assets/pas/images/e3775f7a-e1f6-4a7d-81ca-22bee9c8ef49/purina-one-trockenfutter-hund-mit-rind-und-reis-mini-adult"
+        },
+        {
+          "alt": "Trockenfutter Hund mit Rind & Reis, Mini, Adult PURINA ONE",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511526/assets/pas/images/1f6985d5-8b17-48d6-a4af-eb7d701e3723/purina-one-trockenfutter-hund-mit-rind-und-reis-mini-adult"
+        },
+        {
+          "alt": "Trockenfutter Hund mit Rind & Reis, Mini, Adult PURINA ONE",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760047424/assets/pas/images/a21a805a-a1a4-4620-80c5-9400c64aad14/purina-one-trockenfutter-hund-mit-rind-und-reis-mini-adult"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,8 kg (5,20 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,8 kg (5,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 349,
+        "ratingValue": 4.6819
+      },
+      "self": "/p/d/1395558/purina-one-trockenfutter-hund-mit-rind-und-reis-mini-adult",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Trockenfutter Hund mit Rind & Reis, Mini, Adult, 800 g",
+        "tileHeadlineLong": "Trockenfutter Hund mit Rind & Reis, Mini, Adult, 800 g"
+      },
+      "trackingData": {
+        "brand": "PURINA ONE",
+        "categories": [
+          "Trockenfutter Hund"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6819,
+        "ratingCount": 349
+      }
+    }
+  },
+  {
+    "gtin": 7640143673377,
+    "dan": 1623843,
+    "brandName": "PPURA",
+    "title": "Nudeln, Spaghetti aus Vollkornreis, glutenfrei, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: PPURA; Produktname: Nudeln, Spaghetti aus Vollkornreis, glutenfrei, 400 g; Preis: 2,95 €; Grundpreis: 0,4 kg (7,38 € je 1 kg)",
+      "brand": {
+        "name": "PPURA"
+      },
+      "dan": 1623843,
+      "gtin": 7640143673377,
+      "images": [
+        {
+          "alt": "Nudeln, Spaghetti aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511268/assets/pas/images/71ce760a-e83b-4488-a8dc-2c4c99f2ad47/ppura-nudeln-spaghetti-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Spaghetti aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511373/assets/pas/images/c82b9af4-1486-4c37-b129-6c1be40f29c5/ppura-nudeln-spaghetti-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Spaghetti aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511898/assets/pas/images/ef84db17-0f7a-4212-8054-3fbb8a356409/ppura-nudeln-spaghetti-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Spaghetti aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511681/assets/pas/images/fbd6a81d-835c-4b6e-a093-a02a54d6c138/ppura-nudeln-spaghetti-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Spaghetti aus Vollkornreis, glutenfrei PPURA",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773450290/assets/pas/images/810a0e24-367d-4c86-add8-291a12d2c3a2/ppura-nudeln-spaghetti-aus-vollkornreis-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,90 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (7,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 103,
+        "ratingValue": 4.4466
+      },
+      "self": "/p/d/1623843/ppura-nudeln-spaghetti-aus-vollkornreis-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Spaghetti aus Vollkornreis, glutenfrei, 400 g",
+        "tileHeadlineLong": "Nudeln, Spaghetti aus Vollkornreis, glutenfrei, 400 g"
+      },
+      "trackingData": {
+        "brand": "PPURA",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4466,
+        "ratingCount": 103
+      }
+    }
+  },
+  {
+    "gtin": 4260739998252,
+    "dan": 1664999,
+    "brandName": "share",
+    "title": "Linsenchips, gesalzen mit schwarzem Reis, 80 g",
+    "tileData": {
+      "a11yLabel": "Marke: share; Produktname: Linsenchips, gesalzen mit schwarzem Reis, 80 g; Preis: 1,95 €; Grundpreis: 0,08 kg (24,38 € je 1 kg)",
+      "brand": {
+        "name": "share"
+      },
+      "dan": 1664999,
+      "gtin": 4260739998252,
+      "images": [
+        {
+          "alt": "Linsenchips, gesalzen mit schwarzem Reis share",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303018/assets/pas/images/45b3ce6f-2a23-4295-8138-1d4b8224b066/share-linsenchips-gesalzen-mit-schwarzem-reis"
+        },
+        {
+          "alt": "Linsenchips, gesalzen mit schwarzem Reis share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303032/assets/pas/images/cba111b1-0bb1-4a17-a6a3-72852b6b9c0d/share-linsenchips-gesalzen-mit-schwarzem-reis"
+        },
+        {
+          "alt": "Linsenchips, gesalzen mit schwarzem Reis share",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781303023/assets/pas/images/f01c49e8-2ced-441e-b30e-4e3700ffe499/share-linsenchips-gesalzen-mit-schwarzem-reis"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (22,79 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,08 kg (24,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 146,
+        "ratingValue": 4.1986
+      },
+      "self": "/p/d/1664999/share-linsenchips-gesalzen-mit-schwarzem-reis",
+      "title": {
+        "tileHeadline": "Linsenchips, gesalzen mit schwarzem Reis, 80 g",
+        "tileHeadlineLong": "Linsenchips, gesalzen mit schwarzem Reis, 80 g"
+      },
+      "trackingData": {
+        "brand": "share",
+        "categories": [
+          "Knabberzeug"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1986,
+        "ratingCount": 146
+      }
+    }
+  },
+  {
+    "gtin": 4066447707540,
+    "dan": 1431385,
+    "brandName": "dmBio",
+    "title": "Reismehl, glutenfrei, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Reismehl, glutenfrei, 500 g; Preis: 2,75 €; Grundpreis: 0,5 kg (5,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1431385,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447707540,
+      "images": [
+        {
+          "alt": "Reismehl, glutenfrei dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006734/assets/pas/images/506293ce-3fd3-4fde-b901-c4a4e47aa882/dmbio-reismehl-glutenfrei"
+        },
+        {
+          "alt": "Reismehl, glutenfrei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006733/assets/pas/images/75456075-fbd5-42e6-880c-1b03cf764c69/dmbio-reismehl-glutenfrei"
+        },
+        {
+          "alt": "Reismehl, glutenfrei dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006730/assets/pas/images/ec6bdc76-4835-46c1-bf42-384f529a993f/dmbio-reismehl-glutenfrei"
+        },
+        {
+          "alt": "Reismehl, glutenfrei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006733/assets/pas/images/6b71b639-bd68-4b09-978d-20bd6c919f2c/dmbio-reismehl-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,14 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (5,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 72,
+        "ratingValue": 4.6944
+      },
+      "self": "/p/d/1431385/dmbio-reismehl-glutenfrei",
+      "title": {
+        "tileHeadline": "Reismehl, glutenfrei, 500 g",
+        "tileHeadlineLong": "Reismehl, glutenfrei, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Mehl & Grieß"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6944,
+        "ratingCount": 72
+      }
+    }
+  },
+  {
+    "gtin": 4066447422986,
+    "dan": 1690673,
+    "brandName": "dmBio",
+    "title": "Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g; Preis: 2,45 €; Grundpreis: 0,4 kg (6,13 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1690673,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447422986,
+      "images": [
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595805/assets/pas/images/7ccbd753-dadf-4425-8288-e481519456c9/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481642/assets/pas/images/fd5be9a7-327f-47d4-af2f-36625802938e/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761834734/assets/pas/images/8c5b80bc-8d74-4677-b41c-922ca6946b8d/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481739/assets/pas/images/2d52c4d3-5ed6-4739-8b72-84a46b627f7f/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        },
+        {
+          "alt": "Nudeln, Penne aus Vollkornreis, glutenfrei dmBio",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774595801/assets/pas/images/70df1444-a023-493e-ab63-4cfc46b3404d/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (5,73 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,13 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.1042
+      },
+      "self": "/p/d/1690673/dmbio-nudeln-penne-aus-vollkornreis-glutenfrei",
+      "title": {
+        "tileHeadline": "Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g",
+        "tileHeadlineLong": "Nudeln, Penne aus Vollkornreis, glutenfrei, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Nudeln"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1042,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4067796002102,
+    "dan": 1502968,
+    "brandName": "dmBio",
+    "title": "Pflanzendrink, Reis natur, 1 l",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Pflanzendrink, Reis natur, 1 l; Preis: 1,45 €; Grundpreis: 1 l (1,45 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1502968,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796002102,
+      "images": [
+        {
+          "alt": "Pflanzendrink, Reis natur dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755041643/assets/pas/images/3a07f0ed-0a71-4aea-9ffb-aea5ca518dcf/dmbio-pflanzendrink-reis-natur"
+        },
+        {
+          "alt": "Pflanzendrink, Reis natur dmBio",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755041638/assets/pas/images/32f9eab5-4eaa-4bf3-a997-434d029aec39/dmbio-pflanzendrink-reis-natur"
+        },
+        {
+          "alt": "Pflanzendrink, Reis natur dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755041642/assets/pas/images/0a7626a2-959e-402f-ac34-343e704a56a8/dmbio-pflanzendrink-reis-natur"
+        },
+        {
+          "alt": "Pflanzendrink, Reis natur dmBio",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755041641/assets/pas/images/3da29a91-0e0b-40aa-9d7c-d39c9c03e2e8/dmbio-pflanzendrink-reis-natur"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,22 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 l (1,45 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 95,
+        "ratingValue": 4.8211
+      },
+      "self": "/p/d/1502968/dmbio-pflanzendrink-reis-natur",
+      "title": {
+        "tileHeadline": "Pflanzendrink, Reis natur, 1 l",
+        "tileHeadlineLong": "Pflanzendrink, Reis natur, 1 l"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Pflanzendrinks"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8211,
+        "ratingCount": 95
+      }
+    }
+  },
+  {
+    "gtin": 4262401739835,
+    "dan": 3063483,
+    "brandName": "Jean&Len",
+    "title": "Duschcreme Mandelblüte Reismilch, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Jean&Len; Produktname: Duschcreme Mandelblüte Reismilch, 250 ml; Preis: 2,75 €; Grundpreis: 0,25 l (11,00 € je 1 l)",
+      "brand": {
+        "name": "Jean&Len"
+      },
+      "dan": 3063483,
+      "gtin": 4262401739835,
+      "images": [
+        {
+          "alt": "Duschcreme Mandelblüte Reismilch Jean&Len",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245172/assets/pas/images/64b43b05-ccd9-4fb3-b4c7-ad7aed9aaced/jean-und-len-duschcreme-mandelbluete-reismilch"
+        },
+        {
+          "alt": "Duschcreme Mandelblüte Reismilch Jean&Len",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336505/assets/pas/images/3cfb99e7-9fcc-47ab-8007-2a263ec552ba/jean-und-len-duschcreme-mandelbluete-reismilch"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.8361
+      },
+      "self": "/p/d/3063483/jean-und-len-duschcreme-mandelbluete-reismilch",
+      "title": {
+        "tileHeadline": "Duschcreme Mandelblüte Reismilch, 250 ml",
+        "tileHeadlineLong": "Duschcreme Mandelblüte Reismilch, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Jean&Len",
+        "categories": [
+          "Duschgel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8361,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4260133236325,
+    "dan": 1454079,
+    "brandName": "FruchtBar",
+    "title": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais & Reis ab 12 Monaten, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: FruchtBar; Produktname: Kindersnack Knusper-Enten Karotte, Kürbis, Mais & Reis ab 12 Monaten, 30 g; Preis: 1,15 €; Grundpreis: 0,03 kg (38,33 € je 1 kg)",
+      "brand": {
+        "name": "FruchtBar"
+      },
+      "dan": 1454079,
+      "gtin": 4260133236325,
+      "images": [
+        {
+          "alt": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais & Reis ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754926927/assets/pas/images/4be4db0e-96af-4909-914e-6f418c9d639f/fruchtbar-kindersnack-knusper-enten-karotte-kuerbis-mais-und-reis-ab-12-monaten"
+        },
+        {
+          "alt": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais & Reis ab 12 Monaten FruchtBar",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754926926/assets/pas/images/4fc820fa-5ab2-45b9-98b2-beb7b43039dc/fruchtbar-kindersnack-knusper-enten-karotte-kuerbis-mais-und-reis-ab-12-monaten"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (35,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,33 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 91,
+        "ratingValue": 4.9121
+      },
+      "self": "/p/d/1454079/fruchtbar-kindersnack-knusper-enten-karotte-kuerbis-mais-und-reis-ab-12-monaten",
+      "title": {
+        "tileHeadline": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais &..., 30 g",
+        "tileHeadlineLong": "Kindersnack Knusper-Enten Karotte, Kürbis, Mais &..., 30 g"
+      },
+      "trackingData": {
+        "brand": "FruchtBar",
+        "categories": [
+          "Snacks für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9121,
+        "ratingCount": 91
+      }
+    }
+  },
+  {
+    "gtin": 4062300208254,
+    "dan": 1371118,
+    "brandName": "HiPP",
+    "title": "Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g; Rechtliche Kategorie: Beikost; Preis: 1,85 €; Grundpreis: 0,22 kg (8,41 € je 1 kg)",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 1371118,
+      "gtin": 4062300208254,
+      "images": [
+        {
+          "alt": "Menü Karotten mit Reis & Wildlachs ab dem 8. Monat HiPP",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753145320/assets/pas/images/1706b430-1c58-4d1d-ba19-65cb311a6b1e/hipp-menue-karotten-mit-reis-und-wildlachs-ab-dem-8-monat"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (7,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (8,41 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 85,
+        "ratingValue": 4.8588
+      },
+      "self": "/p/d/1371118/hipp-menue-karotten-mit-reis-und-wildlachs-ab-dem-8-monat",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g",
+        "tileHeadlineLong": "Menü Karotten mit Reis & Wildlachs ab dem 8. Monat, 220 g"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Babygläschen & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8588,
+        "ratingCount": 85
+      }
+    }
+  },
+  {
+    "gtin": 7613038187587,
+    "dan": 1697722,
+    "brandName": "Purina Gourmet",
+    "title": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g), 340 g",
+    "tileData": {
+      "a11yLabel": "Marke: Purina Gourmet; Produktname: Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g), 340 g; Rechtliche Kategorie: Alleinfuttermittel; Preis: 3,95 €; Grundpreis: 0,34 kg (11,62 € je 1 kg)",
+      "brand": {
+        "name": "Purina Gourmet"
+      },
+      "dan": 1697722,
+      "gtin": 7613038187587,
+      "images": [
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511193/assets/pas/images/0cae5cb4-0f96-41ad-8464-ff1a3eef4fca/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769205533/assets/pas/images/8c0e7b6f-a2fc-447a-9d1f-799611545961/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769205507/assets/pas/images/9e488fef-2250-4c84-a8c0-01c7bec6dfa9/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769205519/assets/pas/images/a10bf178-a958-4b32-b2aa-abb4dea358ef/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769205526/assets/pas/images/f9e8fc9c-bfa2-4e63-bcc2-05e7af18cc4b/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747511489/assets/pas/images/fe60570c-90ea-46c9-adab-1ac6e9413cc6/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510881/assets/pas/images/712215c4-1692-4f91-8f79-419a304a9adb/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769205548/assets/pas/images/f2cf3b60-1288-4062-aac4-e843bfd76efb/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769205540/assets/pas/images/f46b9565-9377-447f-bae2-578bb150ef5b/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        },
+        {
+          "alt": "Nassfutter Katze mit Hochseefisch, Spinat & Reis, nature's creations, Multipack (4x85 g) Purina Gourmet",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769205514/assets/pas/images/2afb1336-10ff-40a7-bde7-62b05cdfde58/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (10,86 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (11,62 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 847,
+        "ratingValue": 4.7013
+      },
+      "self": "/p/d/1697722/purina-gourmet-nassfutter-katze-mit-hochseefisch-spinat-und-reis-natures-creations-multipack-4x85-g",
+      "title": {
+        "subheadline": "Alleinfuttermittel",
+        "tileHeadline": "Nassfutter Katze mit Hochseefisch, Spinat & Reis,..., 340 g",
+        "tileHeadlineLong": "Nassfutter Katze mit Hochseefisch, Spinat & Reis,..., 340 g"
+      },
+      "trackingData": {
+        "brand": "Purina Gourmet",
+        "categories": [
+          "Nassfutter Katze"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7013,
+        "ratingCount": 847
+      }
+    }
+  }
+]

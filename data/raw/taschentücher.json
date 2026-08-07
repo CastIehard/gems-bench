@@ -1,0 +1,3347 @@
+[
+  {
+    "gtin": 4066447912067,
+    "dan": 1292653,
+    "brandName": "Soft&Sicher",
+    "title": "Taschentücher Box Design, 100 St",
+    "tileData": {
+      "a11yLabel": "Marke: Soft&Sicher; Produktname: Taschentücher Box Design, 100 St; Preis: 0,95 €; Grundpreis: 100 St (0,95 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Soft&Sicher"
+      },
+      "dan": 1292653,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447912067,
+      "images": [
+        {
+          "alt": "Taschentücher Box Design Soft&Sicher",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773869515/assets/pas/images/d4aea618-1d2e-40a1-bb54-d5219f999aea/soft-und-sicher-taschentuecher-box-design"
+        },
+        {
+          "alt": "Taschentücher Box Design Soft&Sicher",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773869522/assets/pas/images/2561e75d-e4f6-4680-8e57-814dba7844c1/soft-und-sicher-taschentuecher-box-design"
+        },
+        {
+          "alt": "Taschentücher Box Design Soft&Sicher",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773869538/assets/pas/images/628fab20-c686-4235-a685-45b0915cfcfd/soft-und-sicher-taschentuecher-box-design"
+        },
+        {
+          "alt": "Taschentücher Box Design Soft&Sicher",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773869505/assets/pas/images/cd512037-90d4-49a4-b65f-f6c09a2a541d/soft-und-sicher-taschentuecher-box-design"
+        },
+        {
+          "alt": "Taschentücher Box Design Soft&Sicher",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773869527/assets/pas/images/68bf362c-f278-4431-870b-5db62ccacb3c/soft-und-sicher-taschentuecher-box-design"
+        },
+        {
+          "alt": "Taschentücher Box Design Soft&Sicher",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773869532/assets/pas/images/7cb3e8c4-bddc-462b-b389-1d5ac7750796/soft-und-sicher-taschentuecher-box-design"
+        },
+        {
+          "alt": "Taschentücher Box Design Soft&Sicher",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773869543/assets/pas/images/6de2aa72-77bc-4416-90b0-3d72efe500f2/soft-und-sicher-taschentuecher-box-design"
+        },
+        {
+          "alt": "Taschentücher Box Design Soft&Sicher",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773869510/assets/pas/images/37887ef1-b0b8-43ce-92fe-eab189f4bd41/soft-und-sicher-taschentuecher-box-design"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "100 St (0,80 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "100 St (0,95 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 567,
+        "ratingValue": 4.194
+      },
+      "self": "/p/d/1292653/soft-und-sicher-taschentuecher-box-design",
+      "title": {
+        "tileHeadline": "Taschentücher Box Design, 100 St",
+        "tileHeadlineLong": "Taschentücher Box Design, 100 St"
+      },
+      "trackingData": {
+        "brand": "Soft&Sicher",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.194,
+        "ratingCount": 567
+      }
+    }
+  },
+  {
+    "gtin": 4066447787825,
+    "dan": 1497208,
+    "brandName": "Soft&Sicher",
+    "title": "Taschentücher Box Recycling 3-lagig, 160 St",
+    "tileData": {
+      "a11yLabel": "Marke: Soft&Sicher; Produktname: Taschentücher Box Recycling 3-lagig, 160 St; Preis: 1,65 €; Grundpreis: 160 St (1,03 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Soft&Sicher"
+      },
+      "dan": 1497208,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447787825,
+      "images": [
+        {
+          "alt": "Taschentücher Box Recycling 3-lagig Soft&Sicher",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755002532/assets/pas/images/8c4f18f9-beea-4ded-bcd1-72d0964c597d/soft-und-sicher-taschentuecher-box-recycling-3-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 3-lagig Soft&Sicher",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755002531/assets/pas/images/37c9e9af-1355-4250-9596-4cfab945bc1b/soft-und-sicher-taschentuecher-box-recycling-3-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 3-lagig Soft&Sicher",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755002528/assets/pas/images/de156c6a-8f8e-40ec-bf64-c3481eba52c8/soft-und-sicher-taschentuecher-box-recycling-3-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 3-lagig Soft&Sicher",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755002535/assets/pas/images/a67cb85f-ef84-458b-be37-06fe611fb10e/soft-und-sicher-taschentuecher-box-recycling-3-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 3-lagig Soft&Sicher",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755002534/assets/pas/images/c3fe601c-7816-4d7f-acb4-9e6449736b9f/soft-und-sicher-taschentuecher-box-recycling-3-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 3-lagig Soft&Sicher",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755002530/assets/pas/images/5f0d6d5a-9a60-4a28-bb69-4bbf60fd02f7/soft-und-sicher-taschentuecher-box-recycling-3-lagig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,39 €"
+          }
+        },
+        "tileInfos": [
+          "160 St (0,87 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "160 St (1,03 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 328,
+        "ratingValue": 4.378
+      },
+      "self": "/p/d/1497208/soft-und-sicher-taschentuecher-box-recycling-3-lagig",
+      "title": {
+        "tileHeadline": "Taschentücher Box Recycling 3-lagig, 160 St",
+        "tileHeadlineLong": "Taschentücher Box Recycling 3-lagig, 160 St"
+      },
+      "trackingData": {
+        "brand": "Soft&Sicher",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.378,
+        "ratingCount": 328
+      }
+    }
+  },
+  {
+    "gtin": 4058172861680,
+    "dan": 1533444,
+    "brandName": "Soft&Sicher",
+    "title": "Taschentücher Box mit extra großen Taschentüchern, 110 St",
+    "tileData": {
+      "a11yLabel": "Marke: Soft&Sicher; Produktname: Taschentücher Box mit extra großen Taschentüchern, 110 St; Preis: 2,35 €; Grundpreis: 110 St (2,14 € je 100 St); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Soft&Sicher"
+      },
+      "dan": 1533444,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4058172861680,
+      "images": [
+        {
+          "alt": "Taschentücher Box mit extra großen Taschentüchern Soft&Sicher",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777499429/assets/pas/images/26184065-c650-4529-812c-e5d60cf2fa24/soft-und-sicher-taschentuecher-box-mit-extra-grossen-taschentuechern"
+        },
+        {
+          "alt": "Taschentücher Box mit extra großen Taschentüchern Soft&Sicher",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777499445/assets/pas/images/15b3be56-7fb9-41f4-b313-72082dc9aae7/soft-und-sicher-taschentuecher-box-mit-extra-grossen-taschentuechern"
+        },
+        {
+          "alt": "Taschentücher Box mit extra großen Taschentüchern Soft&Sicher",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777499451/assets/pas/images/3f182c52-df25-44eb-9ff5-37077333bb24/soft-und-sicher-taschentuecher-box-mit-extra-grossen-taschentuechern"
+        },
+        {
+          "alt": "Taschentücher Box mit extra großen Taschentüchern Soft&Sicher",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777499458/assets/pas/images/a99921ca-9bb2-4073-bc77-19831c008b62/soft-und-sicher-taschentuecher-box-mit-extra-grossen-taschentuechern"
+        },
+        {
+          "alt": "Taschentücher Box mit extra großen Taschentüchern Soft&Sicher",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777499464/assets/pas/images/710b73e5-a509-4dbe-a497-b3f76ba2e96a/soft-und-sicher-taschentuecher-box-mit-extra-grossen-taschentuechern"
+        },
+        {
+          "alt": "Taschentücher Box mit extra großen Taschentüchern Soft&Sicher",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777499437/assets/pas/images/af684f36-e3af-493f-865f-2f3fc1ce066d/soft-und-sicher-taschentuecher-box-mit-extra-grossen-taschentuechern"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "110 St (1,80 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "110 St (2,14 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 207,
+        "ratingValue": 4.5894
+      },
+      "self": "/p/d/1533444/soft-und-sicher-taschentuecher-box-mit-extra-grossen-taschentuechern",
+      "title": {
+        "tileHeadline": "Taschentücher Box mit extra großen Taschentüchern, 110 St",
+        "tileHeadlineLong": "Taschentücher Box mit extra großen Taschentüchern, 110 St"
+      },
+      "trackingData": {
+        "brand": "Soft&Sicher",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5894,
+        "ratingCount": 207
+      }
+    }
+  },
+  {
+    "gtin": 4066447787788,
+    "dan": 1262689,
+    "brandName": "Soft&Sicher",
+    "title": "Taschentücher Box Recycling 4-lagig, 100 St",
+    "tileData": {
+      "a11yLabel": "Marke: Soft&Sicher; Produktname: Taschentücher Box Recycling 4-lagig, 100 St; Preis: 1,25 €; Grundpreis: 100 St (1,25 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Soft&Sicher"
+      },
+      "dan": 1262689,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447787788,
+      "images": [
+        {
+          "alt": "Taschentücher Box Recycling 4-lagig Soft&Sicher",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756592849/assets/pas/images/35ebeabb-838d-4b67-b222-7c4248b4910c/soft-und-sicher-taschentuecher-box-recycling-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 4-lagig Soft&Sicher",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756592826/assets/pas/images/5b8b7a18-70aa-4f18-af83-d9af295ceb3b/soft-und-sicher-taschentuecher-box-recycling-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 4-lagig Soft&Sicher",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756592837/assets/pas/images/e34c8735-ff68-42db-badc-557326221c30/soft-und-sicher-taschentuecher-box-recycling-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 4-lagig Soft&Sicher",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756592820/assets/pas/images/e5ef53b9-94fb-4ef9-9a93-2b6e14413c6e/soft-und-sicher-taschentuecher-box-recycling-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 4-lagig Soft&Sicher",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756592831/assets/pas/images/5ac68e90-09d9-4296-bb10-3112e3b192b4/soft-und-sicher-taschentuecher-box-recycling-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Recycling 4-lagig Soft&Sicher",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756592843/assets/pas/images/07894b00-bfea-4d73-a877-2ed0d01fef2d/soft-und-sicher-taschentuecher-box-recycling-4-lagig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "100 St (1,05 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "100 St (1,25 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 230,
+        "ratingValue": 4.4043
+      },
+      "self": "/p/d/1262689/soft-und-sicher-taschentuecher-box-recycling-4-lagig",
+      "title": {
+        "tileHeadline": "Taschentücher Box Recycling 4-lagig, 100 St",
+        "tileHeadlineLong": "Taschentücher Box Recycling 4-lagig, 100 St"
+      },
+      "trackingData": {
+        "brand": "Soft&Sicher",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4043,
+        "ratingCount": 230
+      }
+    }
+  },
+  {
+    "gtin": 4058172286391,
+    "dan": 1660856,
+    "brandName": "Soft&Sicher",
+    "title": "Taschentücher Box Balsam 4-lagig, 120 St",
+    "tileData": {
+      "a11yLabel": "Marke: Soft&Sicher; Produktname: Taschentücher Box Balsam 4-lagig, 120 St; Preis: 1,75 €; Grundpreis: 120 Bl (1,46 € je 100 Bl); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Soft&Sicher"
+      },
+      "dan": 1660856,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4058172286391,
+      "images": [
+        {
+          "alt": "Taschentücher Box Balsam 4-lagig Soft&Sicher",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759528074/assets/pas/images/18d8b5ad-75db-46d6-a1d0-a4d022141579/soft-und-sicher-taschentuecher-box-balsam-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Balsam 4-lagig Soft&Sicher",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759528068/assets/pas/images/f84b6da5-4be6-4a4a-bda9-8cba026931b9/soft-und-sicher-taschentuecher-box-balsam-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box Balsam 4-lagig Soft&Sicher",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747450400/assets/pas/images/f8c384cc-d661-449d-aa5b-370e73306bf8/soft-und-sicher-taschentuecher-box-balsam-4-lagig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "120 Bl (1,23 € je 100 Bl)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "120 Bl (1,46 € je 100 Bl)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 163,
+        "ratingValue": 4.5828
+      },
+      "self": "/p/d/1660856/soft-und-sicher-taschentuecher-box-balsam-4-lagig",
+      "title": {
+        "tileHeadline": "Taschentücher Box Balsam 4-lagig, 120 St",
+        "tileHeadlineLong": "Taschentücher Box Balsam 4-lagig, 120 St"
+      },
+      "trackingData": {
+        "brand": "Soft&Sicher",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5828,
+        "ratingCount": 163
+      }
+    }
+  },
+  {
+    "gtin": 7322540788709,
+    "dan": 1436110,
+    "brandName": "Tempo",
+    "title": "Taschentücher (30x10 St), 300 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher (30x10 St), 300 St; Preis: 3,85 €; Grundpreis: 300 St (1,28 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1436110,
+      "gtin": 7322540788709,
+      "images": [
+        {
+          "alt": "Taschentücher (30x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855547/assets/pas/images/b0e79c0c-84f2-475e-a707-668221ad2a44/tempo-taschentuecher-30x10-st"
+        },
+        {
+          "alt": "Taschentücher (30x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776809921/assets/pas/images/8b03bd56-3da1-4b52-b099-b0f900836734/tempo-taschentuecher-30x10-st"
+        },
+        {
+          "alt": "Taschentücher (30x10 St) Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778713633/assets/pas/images/7a7f4fdb-80cc-4b02-895b-ca741baf0f01/tempo-taschentuecher-30x10-st"
+        },
+        {
+          "alt": "Taschentücher (30x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855503/assets/pas/images/082d96cc-70d2-4cc5-9447-fe08a2c610ba/tempo-taschentuecher-30x10-st"
+        },
+        {
+          "alt": "Taschentücher (30x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855529/assets/pas/images/69d20d43-29d1-4517-9d77-17be00cd5e47/tempo-taschentuecher-30x10-st"
+        },
+        {
+          "alt": "Taschentücher (30x10 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855484/assets/pas/images/e749a1d5-93fb-47e2-b64d-818cf35e7634/tempo-taschentuecher-30x10-st"
+        },
+        {
+          "alt": "Taschentücher (30x10 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855494/assets/pas/images/4f24eb66-e0c1-4046-a6ce-63406b53e8de/tempo-taschentuecher-30x10-st"
+        },
+        {
+          "alt": "Taschentücher (30x10 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756855539/assets/pas/images/a5a8214c-7d26-42a3-a0b0-e6c7b037acd0/tempo-taschentuecher-30x10-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,24 €"
+          }
+        },
+        "tileInfos": [
+          "300 St (1,08 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,85 €"
+          }
+        },
+        "tileInfos": [
+          "300 St (1,28 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1987,
+        "ratingValue": 4.7292
+      },
+      "self": "/p/d/1436110/tempo-taschentuecher-30x10-st",
+      "title": {
+        "tileHeadline": "Taschentücher (30x10 St), 300 St",
+        "tileHeadlineLong": "Taschentücher (30x10 St), 300 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7292,
+        "ratingCount": 1987
+      }
+    }
+  },
+  {
+    "gtin": 4058172622687,
+    "dan": 1195352,
+    "brandName": "Soft&Sicher",
+    "title": "Taschentücher Design 4-lagig (42x10 St), 42 St",
+    "tileData": {
+      "a11yLabel": "Marke: Soft&Sicher; Produktname: Taschentücher Design 4-lagig (42x10 St), 42 St; Preis: 3,95 €; Grundpreis: 420 St (0,94 € je 100 St); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Soft&Sicher"
+      },
+      "dan": 1195352,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172622687,
+      "images": [
+        {
+          "alt": "Taschentücher Design 4-lagig (42x10 St) Soft&Sicher",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781304131/assets/pas/images/1d5fa6a6-214d-4e93-8f3f-00646cd06c61/soft-und-sicher-taschentuecher-design-4-lagig-42x10-st"
+        },
+        {
+          "alt": "Taschentücher Design 4-lagig (42x10 St) Soft&Sicher",
+          "backgroundColor": "#F2F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781304136/assets/pas/images/ca1ad6b2-d505-4228-9fa4-23344ec600a9/soft-und-sicher-taschentuecher-design-4-lagig-42x10-st"
+        },
+        {
+          "alt": "Taschentücher Design 4-lagig (42x10 St) Soft&Sicher",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781304126/assets/pas/images/9ab8def1-e375-4ce2-adbf-b710f999a179/soft-und-sicher-taschentuecher-design-4-lagig-42x10-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "420 St (0,79 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "420 St (0,94 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 387,
+        "ratingValue": 4.7261
+      },
+      "self": "/p/d/1195352/soft-und-sicher-taschentuecher-design-4-lagig-42x10-st",
+      "title": {
+        "tileHeadline": "Taschentücher Design 4-lagig (42x10 St), 42 St",
+        "tileHeadlineLong": "Taschentücher Design 4-lagig (42x10 St), 42 St"
+      },
+      "trackingData": {
+        "brand": "Soft&Sicher",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7261,
+        "ratingCount": 387
+      }
+    }
+  },
+  {
+    "gtin": 7322541402697,
+    "dan": 1533055,
+    "brandName": "Tempo",
+    "title": "Taschentücher Trio Box 4-lagig (3x100 St), 300 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher Trio Box 4-lagig (3x100 St), 300 St; Preis: 4,95 €; Grundpreis: 300 St (1,65 € je 100 St); Limitierte Editition Grafik",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1533055,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        }
+      ],
+      "gtin": 7322541402697,
+      "images": [
+        {
+          "alt": "Taschentücher Trio Box 4-lagig (3x100 St) Tempo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769554412/assets/pas/images/557a4f8f-e80d-4c70-9ba9-ec85e4223a5c/tempo-taschentuecher-trio-box-4-lagig-3x100-st"
+        },
+        {
+          "alt": "Taschentücher Trio Box 4-lagig (3x100 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769554436/assets/pas/images/b01ff9e5-8866-4180-a716-98255e0ef6df/tempo-taschentuecher-trio-box-4-lagig-3x100-st"
+        },
+        {
+          "alt": "Taschentücher Trio Box 4-lagig (3x100 St) Tempo",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781300470/assets/pas/images/9cb48041-816e-4e8b-a1cd-7c01ffbe71d9/tempo-taschentuecher-trio-box-4-lagig-3x100-st"
+        },
+        {
+          "alt": "Taschentücher Trio Box 4-lagig (3x100 St) Tempo",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769554423/assets/pas/images/204d0321-cf66-4e13-948f-34e1227b688a/tempo-taschentuecher-trio-box-4-lagig-3x100-st"
+        },
+        {
+          "alt": "Taschentücher Trio Box 4-lagig (3x100 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249087/assets/pas/images/9be7b245-da82-4232-8110-d275cef5833b/tempo-taschentuecher-trio-box-4-lagig-3x100-st"
+        },
+        {
+          "alt": "Taschentücher Trio Box 4-lagig (3x100 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249068/assets/pas/images/410ee83d-6d40-4e6d-b421-85159598245c/tempo-taschentuecher-trio-box-4-lagig-3x100-st"
+        },
+        {
+          "alt": "Taschentücher Trio Box 4-lagig (3x100 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249101/assets/pas/images/7e406b1a-26a9-4635-a7d1-bef52d8ef0db/tempo-taschentuecher-trio-box-4-lagig-3x100-st"
+        },
+        {
+          "alt": "Taschentücher Trio Box 4-lagig (3x100 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249078/assets/pas/images/7019155f-ae9b-4793-98f0-d53517689d6c/tempo-taschentuecher-trio-box-4-lagig-3x100-st"
+        },
+        {
+          "alt": "Taschentücher Trio Box 4-lagig (3x100 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249059/assets/pas/images/bffd8aba-2deb-46f7-8a9d-c0f79b800e57/tempo-taschentuecher-trio-box-4-lagig-3x100-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "300 St (1,39 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "300 St (1,65 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 244,
+        "ratingValue": 4.8197
+      },
+      "self": "/p/d/1533055/tempo-taschentuecher-trio-box-4-lagig-3x100-st",
+      "title": {
+        "tileHeadline": "Taschentücher Trio Box 4-lagig (3x100 St), 300 St",
+        "tileHeadlineLong": "Taschentücher Trio Box 4-lagig (3x100 St), 300 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8197,
+        "ratingCount": 244
+      }
+    }
+  },
+  {
+    "gtin": 4066447898903,
+    "dan": 1615589,
+    "brandName": "SauBär",
+    "title": "Kinder Taschentücher Box sortiert, 70 St",
+    "tileData": {
+      "a11yLabel": "Marke: SauBär; Produktname: Kinder Taschentücher Box sortiert, 70 St; Preis: 1,25 €; Grundpreis: 70 St (1,79 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "SauBär"
+      },
+      "dan": 1615589,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447898903,
+      "images": [
+        {
+          "alt": "Kinder Taschentücher Box sortiert SauBär",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765540363/assets/pas/images/39ada68e-a54e-470c-87c5-8cf0468a6fba/saubaer-kinder-taschentuecher-box-sortiert"
+        },
+        {
+          "alt": "Kinder Taschentücher Box sortiert SauBär",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765540370/assets/pas/images/5cdf047a-ebca-4344-8f7f-c56e14358381/saubaer-kinder-taschentuecher-box-sortiert"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "70 St (1,50 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "70 St (1,79 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 99,
+        "ratingValue": 4.4343
+      },
+      "self": "/p/d/1615589/saubaer-kinder-taschentuecher-box-sortiert",
+      "title": {
+        "tileHeadline": "Kinder Taschentücher Box sortiert, 70 St",
+        "tileHeadlineLong": "Kinder Taschentücher Box sortiert, 70 St"
+      },
+      "trackingData": {
+        "brand": "SauBär",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4343,
+        "ratingCount": 99
+      }
+    }
+  },
+  {
+    "gtin": 8004260450515,
+    "dan": 1009189,
+    "brandName": "Softis",
+    "title": "Taschentücher super-soft (15x9 St), 135 St",
+    "tileData": {
+      "a11yLabel": "Marke: Softis; Produktname: Taschentücher super-soft (15x9 St), 135 St; Preis: 2,25 €; Grundpreis: 135 St (1,67 € je 100 St)",
+      "brand": {
+        "name": "Softis"
+      },
+      "dan": 1009189,
+      "gtin": 8004260450515,
+      "images": [
+        {
+          "alt": "Taschentücher super-soft (15x9 St) Softis",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747514718/assets/pas/images/2dcab8b5-9640-4281-b7b4-c6a2cbe7461b/softis-taschentuecher-super-soft-15x9-st"
+        },
+        {
+          "alt": "Taschentücher super-soft (15x9 St) Softis",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747515424/assets/pas/images/69bd2822-e687-463e-a281-387d02d9e135/softis-taschentuecher-super-soft-15x9-st"
+        },
+        {
+          "alt": "Taschentücher super-soft (15x9 St) Softis",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747514718/assets/pas/images/c4403949-3e17-474f-b1cd-8879406b6ce6/softis-taschentuecher-super-soft-15x9-st"
+        },
+        {
+          "alt": "Taschentücher super-soft (15x9 St) Softis",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747514718/assets/pas/images/75b80d2a-e7a7-46d6-a80f-25f5d13400a8/softis-taschentuecher-super-soft-15x9-st"
+        },
+        {
+          "alt": "Taschentücher super-soft (15x9 St) Softis",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747515425/assets/pas/images/3d5a54fb-8299-42cb-b37a-86c9cab349ab/softis-taschentuecher-super-soft-15x9-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,89 €"
+          }
+        },
+        "tileInfos": [
+          "135 St (1,40 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "135 St (1,67 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 77,
+        "ratingValue": 4.013
+      },
+      "self": "/p/d/1009189/softis-taschentuecher-super-soft-15x9-st",
+      "title": {
+        "tileHeadline": "Taschentücher super-soft (15x9 St), 135 St",
+        "tileHeadlineLong": "Taschentücher super-soft (15x9 St), 135 St"
+      },
+      "trackingData": {
+        "brand": "Softis",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.013,
+        "ratingCount": 77
+      }
+    }
+  },
+  {
+    "gtin": 7322541349220,
+    "dan": 1585444,
+    "brandName": "Danke",
+    "title": "Taschentücher Box 100% Recycling-Fasern, 80 St",
+    "tileData": {
+      "a11yLabel": "Marke: Danke; Produktname: Taschentücher Box 100% Recycling-Fasern, 80 St; Preis: 1,95 €; Grundpreis: 80 St (2,44 € je 100 St)",
+      "brand": {
+        "name": "Danke"
+      },
+      "dan": 1585444,
+      "gtin": 7322541349220,
+      "images": [
+        {
+          "alt": "Taschentücher Box 100% Recycling-Fasern Danke",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752281465/assets/pas/images/93d014be-8aeb-468d-a7ed-1dba3fe38b0d/danke-taschentuecher-box-100-prozent-recycling-fasern"
+        },
+        {
+          "alt": "Taschentücher Box 100% Recycling-Fasern Danke",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1752281451/assets/pas/images/6477de89-5c6b-4dc7-85a5-c40add844af3/danke-taschentuecher-box-100-prozent-recycling-fasern"
+        },
+        {
+          "alt": "Taschentücher Box 100% Recycling-Fasern Danke",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747509316/assets/pas/images/1754e8c4-dc16-4830-bed6-be3b64a56015/danke-taschentuecher-box-100-prozent-recycling-fasern"
+        },
+        {
+          "alt": "Taschentücher Box 100% Recycling-Fasern Danke",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747509593/assets/pas/images/cdcaace5-3b91-471f-90e3-1fa622733b9a/danke-taschentuecher-box-100-prozent-recycling-fasern"
+        },
+        {
+          "alt": "Taschentücher Box 100% Recycling-Fasern Danke",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747509316/assets/pas/images/6d6d3996-93a4-4489-bc53-cbb08667d094/danke-taschentuecher-box-100-prozent-recycling-fasern"
+        },
+        {
+          "alt": "Taschentücher Box 100% Recycling-Fasern Danke",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747509599/assets/pas/images/fb2d64f1-c887-42fd-acda-df4b2d7f5691/danke-taschentuecher-box-100-prozent-recycling-fasern"
+        },
+        {
+          "alt": "Taschentücher Box 100% Recycling-Fasern Danke",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747510135/assets/pas/images/594225e6-6695-4515-92b4-abec8e8ed944/danke-taschentuecher-box-100-prozent-recycling-fasern"
+        },
+        {
+          "alt": "Taschentücher Box 100% Recycling-Fasern Danke",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747509316/assets/pas/images/19cb475b-cf53-4197-b2b2-6c04fd6ac05f/danke-taschentuecher-box-100-prozent-recycling-fasern"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "80 St (2,05 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "80 St (2,44 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 55,
+        "ratingValue": 4.8727
+      },
+      "self": "/p/d/1585444/danke-taschentuecher-box-100-prozent-recycling-fasern",
+      "title": {
+        "tileHeadline": "Taschentücher Box 100% Recycling-Fasern, 80 St",
+        "tileHeadlineLong": "Taschentücher Box 100% Recycling-Fasern, 80 St"
+      },
+      "trackingData": {
+        "brand": "Danke",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8727,
+        "ratingCount": 55
+      }
+    }
+  },
+  {
+    "gtin": 5029053579146,
+    "dan": 1626055,
+    "brandName": "Kleenex",
+    "title": "Taschentücher Box Kids Disney, 48 St",
+    "tileData": {
+      "a11yLabel": "Marke: Kleenex; Produktname: Taschentücher Box Kids Disney, 48 St; Preis: 1,55 €; Grundpreis: 48 St (3,23 € je 100 St)",
+      "brand": {
+        "name": "Kleenex"
+      },
+      "dan": 1626055,
+      "gtin": 5029053579146,
+      "images": [
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497709/assets/pas/images/715531ea-c81a-41b0-83b6-84d4d9a78339/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497687/assets/pas/images/d42e7d3b-9d7a-4a0b-a93e-28182e6a2561/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497747/assets/pas/images/2cbc7700-5b49-4fb3-9ca1-73e6eb59c2da/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497737/assets/pas/images/be558b66-7a62-4092-b05e-b79df104b606/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497678/assets/pas/images/5e5afd35-0fdf-441f-94c8-6cd93d4aa95d/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497716/assets/pas/images/42535e38-4988-4969-b6e7-613eeead628b/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497827/assets/pas/images/c0b4196c-8056-4ad3-8dcb-8849335e4283/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497790/assets/pas/images/6065ca81-0712-4c20-bc23-9ac7c4c36575/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497728/assets/pas/images/5cf923ea-3a36-4b36-8082-d329aac79089/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497798/assets/pas/images/ee340d06-a9c3-4746-8746-e6119b78ee41/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497782/assets/pas/images/60db565e-80a3-437f-bcd6-25d986f52157/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497772/assets/pas/images/6d9dab47-ed2f-4ad9-a3dd-01f082543561/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497843/assets/pas/images/a997938c-57e2-445e-89c9-e1a2e7f0c3b9/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497694/assets/pas/images/a5057849-1ab7-42c6-bd27-00e983ff74ab/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497755/assets/pas/images/fd54f99c-f577-4114-ac31-898578872f9d/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497853/assets/pas/images/ad64700c-ab1d-4fb6-9542-62fddd931a16/kleenex-taschentuecher-box-kids-disney"
+        },
+        {
+          "alt": "Taschentücher Box Kids Disney  Kleenex",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780497809/assets/pas/images/dcd75f63-2320-4405-9eb0-2bcffc72a779/kleenex-taschentuecher-box-kids-disney"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,30 €"
+          }
+        },
+        "tileInfos": [
+          "48 St (2,71 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "48 St (3,23 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 64,
+        "ratingValue": 4.5469
+      },
+      "self": "/p/d/1626055/kleenex-taschentuecher-box-kids-disney",
+      "title": {
+        "tileHeadline": "Taschentücher Box Kids Disney, 48 St",
+        "tileHeadlineLong": "Taschentücher Box Kids Disney, 48 St"
+      },
+      "trackingData": {
+        "brand": "Kleenex",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5469,
+        "ratingCount": 64
+      }
+    }
+  },
+  {
+    "gtin": 5029053579993,
+    "dan": 3098256,
+    "brandName": "Kleenex",
+    "title": "Taschentücher Box Maxi Balsam, 96 St",
+    "tileData": {
+      "a11yLabel": "Marke: Kleenex; Produktname: Taschentücher Box Maxi Balsam, 96 St; Preis: 2,45 €; Grundpreis: 96 St (2,55 € je 100 St)",
+      "brand": {
+        "name": "Kleenex"
+      },
+      "dan": 3098256,
+      "gtin": 5029053579993,
+      "images": [
+        {
+          "alt": "Taschentücher Box Maxi Balsam Kleenex",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502965/assets/pas/images/ebf8be55-0647-4088-8726-ff0b400dd64d/kleenex-taschentuecher-box-maxi-balsam"
+        },
+        {
+          "alt": "Taschentücher Box Maxi Balsam Kleenex",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502956/assets/pas/images/9a53497c-940d-4be2-8af6-78595fca4851/kleenex-taschentuecher-box-maxi-balsam"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,06 €"
+          }
+        },
+        "tileInfos": [
+          "96 St (2,14 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "96 St (2,55 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 43,
+        "ratingValue": 4.9535
+      },
+      "self": "/p/d/3098256/kleenex-taschentuecher-box-maxi-balsam",
+      "title": {
+        "tileHeadline": "Taschentücher Box Maxi Balsam, 96 St",
+        "tileHeadlineLong": "Taschentücher Box Maxi Balsam, 96 St"
+      },
+      "trackingData": {
+        "brand": "Kleenex",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9535,
+        "ratingCount": 43
+      }
+    }
+  },
+  {
+    "gtin": 7322541409276,
+    "dan": 1436113,
+    "brandName": "Tempo",
+    "title": "Taschentücher Box Original, 60 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher Box Original, 60 St; Preis: 1,65 €; Grundpreis: 60 St (2,75 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1436113,
+      "gtin": 7322541409276,
+      "images": [
+        {
+          "alt": "Taschentücher Box Original Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772583279/assets/pas/images/4609ea65-daad-4514-a3e1-d5ffa5660b78/tempo-taschentuecher-box-original"
+        },
+        {
+          "alt": "Taschentücher Box Original Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247220/assets/pas/images/e114f1c8-26a6-4d57-ae2e-ec28b11ea818/tempo-taschentuecher-box-original"
+        },
+        {
+          "alt": "Taschentücher Box Original Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247242/assets/pas/images/3abd31e5-7750-4576-908d-8a84b816e048/tempo-taschentuecher-box-original"
+        },
+        {
+          "alt": "Taschentücher Box Original Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247212/assets/pas/images/42fcfe74-77da-4351-8309-7ce28f3703a8/tempo-taschentuecher-box-original"
+        },
+        {
+          "alt": "Taschentücher Box Original Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247202/assets/pas/images/25a19ad4-60a1-4b71-ae23-e163b3e0a18f/tempo-taschentuecher-box-original"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,39 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (2,31 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (2,75 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 87,
+        "ratingValue": 4.8851
+      },
+      "self": "/p/d/1436113/tempo-taschentuecher-box-original",
+      "title": {
+        "tileHeadline": "Taschentücher Box Original, 60 St",
+        "tileHeadlineLong": "Taschentücher Box Original, 60 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8851,
+        "ratingCount": 87
+      }
+    }
+  },
+  {
+    "gtin": 7322542527962,
+    "dan": 3070370,
+    "brandName": "Tempo",
+    "title": "Taschentücher Box Kids Everyday, 64 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher Box Kids Everyday, 64 St; Preis: 1,45 €; Grundpreis: 64 St (2,27 € je 100 St); glückskind 93% Weiterempfehlung Tempo Everyday Kids Box 374 Teilnehmer Juli 2025",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 3070370,
+      "eyecatchers": [
+        {
+          "alt": "glückskind 93% Weiterempfehlung Tempo Everyday Kids Box 374 Teilnehmer Juli 2025",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768551328/assets/pas/seals/e557371d-a349-4cd5-951e-44a7111d7893/e557371d-a349-4cd5-951e-44a7111d7893.png",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768551328/assets/pas/seals/e557371d-a349-4cd5-951e-44a7111d7893/e557371d-a349-4cd5-951e-44a7111d7893.png"
+        }
+      ],
+      "gtin": 7322542527962,
+      "images": [
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748386874/assets/pas/images/c1eac71a-aab2-4b71-a92b-33c98a026729/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748386860/assets/pas/images/a2aced7b-f017-402f-aa3a-8cf44d5a8307/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748386821/assets/pas/images/6a6ec997-c178-42d5-8e0e-c0b5ac40b9fa/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748386845/assets/pas/images/5a06dc23-6e31-4f06-acd7-c7c248561873/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748386832/assets/pas/images/2c65c552-0b58-4d21-b549-56039666026e/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747867735/assets/pas/images/3387c7ec-9e45-4298-a42f-de949ccb5d0f/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747867742/assets/pas/images/947bbace-e45e-465b-b09a-07b0849248f9/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245136/assets/pas/images/f30b4eb4-7a33-4ca2-9bad-a3973bc60741/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245146/assets/pas/images/ed2771c9-c928-4bab-acb0-904d8c6bd9b4/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245128/assets/pas/images/dde6aba7-8c67-4694-8c32-e55b4c492c0e/tempo-taschentuecher-box-kids-everyday"
+        },
+        {
+          "alt": "Taschentücher Box Kids Everyday Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756245119/assets/pas/images/4c6db5d5-61d8-4b19-bf01-2b1bdbddfdf4/tempo-taschentuecher-box-kids-everyday"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "64 St (1,91 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "64 St (2,27 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 75,
+        "ratingValue": 4.8933
+      },
+      "self": "/p/d/3070370/tempo-taschentuecher-box-kids-everyday",
+      "title": {
+        "tileHeadline": "Taschentücher Box Kids Everyday, 64 St",
+        "tileHeadlineLong": "Taschentücher Box Kids Everyday, 64 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8933,
+        "ratingCount": 75
+      }
+    }
+  },
+  {
+    "gtin": 8004260450546,
+    "dan": 1686056,
+    "brandName": "Softis",
+    "title": "Taschentücher super-soft Aloe Vera (15x9 St), 135 St",
+    "tileData": {
+      "a11yLabel": "Marke: Softis; Produktname: Taschentücher super-soft Aloe Vera (15x9 St), 135 St; Preis: 2,25 €; Grundpreis: 135 St (1,67 € je 100 St)",
+      "brand": {
+        "name": "Softis"
+      },
+      "dan": 1686056,
+      "gtin": 8004260450546,
+      "images": [
+        {
+          "alt": "Taschentücher super-soft Aloe Vera (15x9 St) Softis",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747514469/assets/pas/images/d4c7b0cd-ef6c-4180-9c61-dfb0f5587b32/softis-taschentuecher-super-soft-aloe-vera-15x9-st"
+        },
+        {
+          "alt": "Taschentücher super-soft Aloe Vera (15x9 St) Softis",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747515326/assets/pas/images/e722fdab-dfd0-4c1b-971b-d39991fbb71e/softis-taschentuecher-super-soft-aloe-vera-15x9-st"
+        },
+        {
+          "alt": "Taschentücher super-soft Aloe Vera (15x9 St) Softis",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747514469/assets/pas/images/6965b9c6-4a3d-4ea4-9fab-03ce78834f3a/softis-taschentuecher-super-soft-aloe-vera-15x9-st"
+        },
+        {
+          "alt": "Taschentücher super-soft Aloe Vera (15x9 St) Softis",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747515078/assets/pas/images/beb5208a-72bf-4e5c-bda2-10ce8d53ec73/softis-taschentuecher-super-soft-aloe-vera-15x9-st"
+        },
+        {
+          "alt": "Taschentücher super-soft Aloe Vera (15x9 St) Softis",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747515326/assets/pas/images/4654161e-9fa6-40db-92b4-9b4b69877c86/softis-taschentuecher-super-soft-aloe-vera-15x9-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,89 €"
+          }
+        },
+        "tileInfos": [
+          "135 St (1,40 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "135 St (1,67 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 211,
+        "ratingValue": 4.7062
+      },
+      "self": "/p/d/1686056/softis-taschentuecher-super-soft-aloe-vera-15x9-st",
+      "title": {
+        "tileHeadline": "Taschentücher super-soft Aloe Vera (15x9 St), 135 St",
+        "tileHeadlineLong": "Taschentücher super-soft Aloe Vera (15x9 St), 135 St"
+      },
+      "trackingData": {
+        "brand": "Softis",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7062,
+        "ratingCount": 211
+      }
+    }
+  },
+  {
+    "gtin": 4058172286414,
+    "dan": 1661764,
+    "brandName": "Soft&Sicher",
+    "title": "Taschentücher Box sensitive 3-lagig, 72 St",
+    "tileData": {
+      "a11yLabel": "Marke: Soft&Sicher; Produktname: Taschentücher Box sensitive 3-lagig, 72 St; Preis: 1,25 €; Grundpreis: 72 Bl (1,74 € je 100 Bl); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Soft&Sicher"
+      },
+      "dan": 1661764,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4058172286414,
+      "images": [
+        {
+          "alt": "Taschentücher Box sensitive 3-lagig Soft&Sicher",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774586621/assets/pas/images/518bfb3c-658a-4db8-a96d-fc94d3abdf7d/soft-und-sicher-taschentuecher-box-sensitive-3-lagig"
+        },
+        {
+          "alt": "Taschentücher Box sensitive 3-lagig Soft&Sicher",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774586628/assets/pas/images/e984fb28-3279-4ba2-8c22-beb17bc53b09/soft-und-sicher-taschentuecher-box-sensitive-3-lagig"
+        },
+        {
+          "alt": "Taschentücher Box sensitive 3-lagig Soft&Sicher",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747450623/assets/pas/images/d3e2ef32-3b40-4b6a-9f7e-a569d345609f/soft-und-sicher-taschentuecher-box-sensitive-3-lagig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "72 Bl (1,46 € je 100 Bl)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "72 Bl (1,74 € je 100 Bl)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 100,
+        "ratingValue": 3.58
+      },
+      "self": "/p/d/1661764/soft-und-sicher-taschentuecher-box-sensitive-3-lagig",
+      "title": {
+        "tileHeadline": "Taschentücher Box sensitive 3-lagig, 72 St",
+        "tileHeadlineLong": "Taschentücher Box sensitive 3-lagig, 72 St"
+      },
+      "trackingData": {
+        "brand": "Soft&Sicher",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.58,
+        "ratingCount": 100
+      }
+    }
+  },
+  {
+    "gtin": 7322541402932,
+    "dan": 3136208,
+    "brandName": "Tempo",
+    "title": "Taschentücher Light Box XXL, 140 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher Light Box XXL, 140 St; Preis: 2,35 €; Grundpreis: 140 St (1,68 € je 100 St); Neues Produkt Grafik",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 3136208,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 7322541402932,
+      "images": [
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457328/assets/pas/images/9d6196b7-5b7d-4ecb-b66b-f1ecfc51bd00/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781299741/assets/pas/images/60b45f19-0e84-41fb-913f-45b12c1e642d/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457263/assets/pas/images/1a70e1bb-fd1d-4386-8378-c7448f6dee7e/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457279/assets/pas/images/722df6c9-c3a7-40a4-a12b-bd1b9bc29da1/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457304/assets/pas/images/6c0bd649-8f9c-42fb-953d-2c5f27f244fb/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457238/assets/pas/images/86f60f3a-ba7f-4c56-b13a-2a4e0945c499/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457189/assets/pas/images/2a564ff6-03a8-4d65-9158-48b9819acf80/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457207/assets/pas/images/69073c73-bc4a-4caa-9bbb-a8d1d37ad498/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457176/assets/pas/images/e47895aa-0dde-4fdf-97e7-1c9bb007ae7d/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457155/assets/pas/images/10a6993c-1f7e-44e2-ae11-9cdeca0b73ac/tempo-taschentuecher-light-box-xxl"
+        },
+        {
+          "alt": "Taschentücher Light Box XXL Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777457144/assets/pas/images/27e21912-03e8-4c90-90bd-17d992a550db/tempo-taschentuecher-light-box-xxl"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "140 St (1,41 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "140 St (1,68 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3136208/tempo-taschentuecher-light-box-xxl",
+      "title": {
+        "tileHeadline": "Taschentücher Light Box XXL, 140 St",
+        "tileHeadlineLong": "Taschentücher Light Box XXL, 140 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 2
+      }
+    }
+  },
+  {
+    "gtin": 7322540786606,
+    "dan": 1460738,
+    "brandName": "Tempo",
+    "title": "Taschentücher soft & sensitive (36x9 St), 324 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher soft & sensitive (36x9 St), 324 St; Preis: 4,95 €; Grundpreis: 324 St (1,53 € je 100 St); Nur Online Grafik",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1460738,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7322540786606,
+      "images": [
+        {
+          "alt": "Taschentücher soft & sensitive (36x9 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751931266/assets/pas/images/f081f7be-3229-4123-80f9-3c9bed3dc21e/tempo-taschentuecher-soft-und-sensitive-36x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (36x9 St) Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751931280/assets/pas/images/b08bf2e2-02e0-437c-a3e8-8b485511bb91/tempo-taschentuecher-soft-und-sensitive-36x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (36x9 St) Tempo",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779924340/assets/pas/images/4d9eeea3-2e71-4522-a3bf-03bdaf797bd8/tempo-taschentuecher-soft-und-sensitive-36x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (36x9 St) Tempo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751931295/assets/pas/images/aed3f003-fbe0-4ddd-8211-a0b5dc134dec/tempo-taschentuecher-soft-und-sensitive-36x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (36x9 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756335896/assets/pas/images/8f11f68d-1a69-41ce-8b24-f2fb18e7ca4d/tempo-taschentuecher-soft-und-sensitive-36x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (36x9 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756335874/assets/pas/images/29ea5129-a228-4f66-bdbd-a976cec22867/tempo-taschentuecher-soft-und-sensitive-36x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (36x9 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756335884/assets/pas/images/520e3091-98c3-4b7d-9cde-fa73a7bef993/tempo-taschentuecher-soft-und-sensitive-36x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (36x9 St) Tempo",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756335909/assets/pas/images/dcf83201-cd78-4fda-b45a-7e68a71c7851/tempo-taschentuecher-soft-und-sensitive-36x9-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "324 St (1,29 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "324 St (1,53 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 83,
+        "ratingValue": 4.7952
+      },
+      "self": "/p/d/1460738/tempo-taschentuecher-soft-und-sensitive-36x9-st",
+      "title": {
+        "tileHeadline": "Taschentücher soft & sensitive (36x9 St), 324 St",
+        "tileHeadlineLong": "Taschentücher soft & sensitive (36x9 St), 324 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7952,
+        "ratingCount": 83
+      }
+    }
+  },
+  {
+    "gtin": 7322542520284,
+    "dan": 3068321,
+    "brandName": "Tempo",
+    "title": "Taschentücher Box Balsam Duo (2x90 St), 180 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher Box Balsam Duo (2x90 St), 180 St; Preis: 3,85 €; Grundpreis: 180 St (2,14 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 3068321,
+      "gtin": 7322542520284,
+      "images": [
+        {
+          "alt": "Taschentücher Box Balsam Duo (2x90 St) Tempo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747509278/assets/pas/images/451dec6b-1260-467c-b7d7-733d89d017ad/tempo-taschentuecher-box-balsam-duo-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Box Balsam Duo (2x90 St) Tempo",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748382370/assets/pas/images/7b61b623-6f43-4f28-9c9b-ab6e6d4dae48/tempo-taschentuecher-box-balsam-duo-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Box Balsam Duo (2x90 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247833/assets/pas/images/97f98083-e4aa-4373-9541-1983c43357c8/tempo-taschentuecher-box-balsam-duo-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Box Balsam Duo (2x90 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247845/assets/pas/images/bfb4f993-9269-41b9-b538-d2a0b2cc8a28/tempo-taschentuecher-box-balsam-duo-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Box Balsam Duo (2x90 St) Tempo",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247815/assets/pas/images/908c0115-d62e-48a0-a9b1-f7a8d23163f4/tempo-taschentuecher-box-balsam-duo-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Box Balsam Duo (2x90 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247825/assets/pas/images/e34c859a-2d96-41db-a33b-2c6e55700f78/tempo-taschentuecher-box-balsam-duo-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Box Balsam Duo (2x90 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247806/assets/pas/images/42593684-4e67-4a86-a087-05592a193975/tempo-taschentuecher-box-balsam-duo-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Box Balsam Duo (2x90 St) Tempo",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748382384/assets/pas/images/58fdc01d-4b87-4e01-89a9-059c3e1e219a/tempo-taschentuecher-box-balsam-duo-2x90-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,24 €"
+          }
+        },
+        "tileInfos": [
+          "180 St (1,80 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,85 €"
+          }
+        },
+        "tileInfos": [
+          "180 St (2,14 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 53,
+        "ratingValue": 4.3962
+      },
+      "self": "/p/d/3068321/tempo-taschentuecher-box-balsam-duo-2x90-st",
+      "title": {
+        "tileHeadline": "Taschentücher Box Balsam Duo (2x90 St), 180 St",
+        "tileHeadlineLong": "Taschentücher Box Balsam Duo (2x90 St), 180 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3962,
+        "ratingCount": 53
+      }
+    }
+  },
+  {
+    "gtin": 7322541402826,
+    "dan": 1679808,
+    "brandName": "Tempo",
+    "title": "Taschentücher Duo Box 4-lagig (2x100 St), 200 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher Duo Box 4-lagig (2x100 St), 200 St; Preis: 3,65 €; Grundpreis: 200 St (1,83 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1679808,
+      "gtin": 7322541402826,
+      "images": [
+        {
+          "alt": "Taschentücher Duo Box 4-lagig (2x100 St) Tempo",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769554510/assets/pas/images/d12030f6-c1c9-4364-850b-0835fbbb70f3/tempo-taschentuecher-duo-box-4-lagig-2x100-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box 4-lagig (2x100 St) Tempo",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769554499/assets/pas/images/939e1f50-4a57-4cca-84de-25481e50a05b/tempo-taschentuecher-duo-box-4-lagig-2x100-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box 4-lagig (2x100 St) Tempo",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769554483/assets/pas/images/e59b01bc-a68d-4c92-acaa-cdd4d5456a4d/tempo-taschentuecher-duo-box-4-lagig-2x100-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box 4-lagig (2x100 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247741/assets/pas/images/fcf7cb7d-37d0-4407-a1fa-d7144f679f69/tempo-taschentuecher-duo-box-4-lagig-2x100-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box 4-lagig (2x100 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247730/assets/pas/images/9f41836e-33b3-4ab1-8f25-07c30eebd08e/tempo-taschentuecher-duo-box-4-lagig-2x100-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box 4-lagig (2x100 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247761/assets/pas/images/374fa600-85aa-4695-8b09-cfcea3e949c0/tempo-taschentuecher-duo-box-4-lagig-2x100-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box 4-lagig (2x100 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247753/assets/pas/images/0c55662d-9068-417b-bd23-6fa0515493f7/tempo-taschentuecher-duo-box-4-lagig-2x100-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box 4-lagig (2x100 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247706/assets/pas/images/e9937d77-76c3-4db3-90ca-76a008b7d251/tempo-taschentuecher-duo-box-4-lagig-2x100-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,07 €"
+          }
+        },
+        "tileInfos": [
+          "200 St (1,54 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,65 €"
+          }
+        },
+        "tileInfos": [
+          "200 St (1,83 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 128,
+        "ratingValue": 4.6328
+      },
+      "self": "/p/d/1679808/tempo-taschentuecher-duo-box-4-lagig-2x100-st",
+      "title": {
+        "tileHeadline": "Taschentücher Duo Box 4-lagig (2x100 St), 200 St",
+        "tileHeadlineLong": "Taschentücher Duo Box 4-lagig (2x100 St), 200 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.65
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6328,
+        "ratingCount": 128
+      }
+    }
+  },
+  {
+    "gtin": 5029053038759,
+    "dan": 2163896,
+    "brandName": "Kleenex",
+    "title": "Taschentücher Box, 48 St",
+    "tileData": {
+      "a11yLabel": "Marke: Kleenex; Produktname: Taschentücher Box, 48 St; Preis: 1,55 €; Grundpreis: 48 St (3,23 € je 100 St)",
+      "brand": {
+        "name": "Kleenex"
+      },
+      "dan": 2163896,
+      "gtin": 5029053038759,
+      "images": [
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503021/assets/pas/images/06bb5bf9-5a25-43d2-b5d0-2ec57295d076/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503087/assets/pas/images/dc5d6315-9cf5-4840-a7a7-a9d546da4eaa/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503002/assets/pas/images/9dabd322-c456-4046-a127-0997a03a5d5b/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502983/assets/pas/images/8c166998-b80c-4381-8ddb-99ab9b34aabf/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503077/assets/pas/images/9954969a-c937-402c-9050-50792e42fb96/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503039/assets/pas/images/472cd546-dea6-414a-bad0-1b35aa46d30a/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502974/assets/pas/images/f9c0543b-9505-493d-ad88-653117ee078f/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503059/assets/pas/images/8ce310b6-5342-4646-b300-7858137db678/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F8F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503049/assets/pas/images/c9cb7df6-0ab7-43dc-94d8-95d192fe55aa/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780502993/assets/pas/images/27b07e18-2094-4138-b620-35f5d6dc7c89/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503012/assets/pas/images/1bbac776-3cbd-4ba0-9113-a9b2fecbcc1a/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503068/assets/pas/images/6fead132-1d45-4764-ba0e-c82507d96767/kleenex-taschentuecher-box"
+        },
+        {
+          "alt": "Taschentücher Box Kleenex",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780503031/assets/pas/images/7a95c125-c0e8-4548-bc30-565e15053c05/kleenex-taschentuecher-box"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,30 €"
+          }
+        },
+        "tileInfos": [
+          "48 St (2,71 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "48 St (3,23 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 26,
+        "ratingValue": 4.8077
+      },
+      "self": "/p/d/2163896/kleenex-taschentuecher-box",
+      "title": {
+        "tileHeadline": "Taschentücher Box, 48 St",
+        "tileHeadlineLong": "Taschentücher Box, 48 St"
+      },
+      "trackingData": {
+        "brand": "Kleenex",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8077,
+        "ratingCount": 26
+      }
+    }
+  },
+  {
+    "gtin": 7322541403113,
+    "dan": 1623847,
+    "brandName": "Tempo",
+    "title": "Taschentücher Box 4-lagig, 100 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher Box 4-lagig, 100 St; Preis: 1,95 €; Grundpreis: 100 St (1,95 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1623847,
+      "gtin": 7322541403113,
+      "images": [
+        {
+          "alt": "Taschentücher Box 4-lagig Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756248014/assets/pas/images/46027024-e8c0-47c9-a73f-6e874c0c7b6d/tempo-taschentuecher-box-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box 4-lagig Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247988/assets/pas/images/01abad22-f378-4e0d-befd-99e3a4586659/tempo-taschentuecher-box-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box 4-lagig Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247969/assets/pas/images/a1723f3e-b98a-4e2a-a4da-5408e696da36/tempo-taschentuecher-box-4-lagig"
+        },
+        {
+          "alt": "Taschentücher Box 4-lagig Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756247962/assets/pas/images/2a90f135-b5fb-470a-aff7-01c45d3080b0/tempo-taschentuecher-box-4-lagig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "100 St (1,64 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "tileInfos": [
+          "100 St (1,95 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 106,
+        "ratingValue": 4.6509
+      },
+      "self": "/p/d/1623847/tempo-taschentuecher-box-4-lagig",
+      "title": {
+        "tileHeadline": "Taschentücher Box 4-lagig, 100 St",
+        "tileHeadlineLong": "Taschentücher Box 4-lagig, 100 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6509,
+        "ratingCount": 106
+      }
+    }
+  },
+  {
+    "gtin": 7322541409214,
+    "dan": 1615588,
+    "brandName": "Tempo",
+    "title": "Taschentücher Duo Box mit Duft (2x90 St), 180 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher Duo Box mit Duft (2x90 St), 180 St; Preis: 3,85 €; Grundpreis: 180 St (2,14 € je 100 St); Limitierte Editition Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1615588,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7322541409214,
+      "images": [
+        {
+          "alt": "Taschentücher Duo Box mit Duft (2x90 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779489015/assets/pas/images/40cd44cf-13f0-4d9b-88aa-ac11741f6c0f/tempo-taschentuecher-duo-box-mit-duft-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box mit Duft (2x90 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751935815/assets/pas/images/c881791f-3fc0-4ae1-aa47-62eb22079ddc/tempo-taschentuecher-duo-box-mit-duft-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box mit Duft (2x90 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425732/assets/pas/images/dee4a44e-87d3-440c-9a60-70079663363e/tempo-taschentuecher-duo-box-mit-duft-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box mit Duft (2x90 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425705/assets/pas/images/e59640b8-5c7e-4905-b655-49a033a21799/tempo-taschentuecher-duo-box-mit-duft-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box mit Duft (2x90 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425759/assets/pas/images/b9598f20-0143-494f-b6d7-fa9f96cb8ed2/tempo-taschentuecher-duo-box-mit-duft-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box mit Duft (2x90 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425767/assets/pas/images/de8fc313-4a71-44db-89be-880077d17401/tempo-taschentuecher-duo-box-mit-duft-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box mit Duft (2x90 St) Tempo",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756425744/assets/pas/images/f610b209-44b1-4581-aa7e-72c3ffa70a75/tempo-taschentuecher-duo-box-mit-duft-2x90-st"
+        },
+        {
+          "alt": "Taschentücher Duo Box mit Duft (2x90 St) Tempo",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751935796/assets/pas/images/da4f5355-ccce-4d64-a88f-4a37c10cc6a0/tempo-taschentuecher-duo-box-mit-duft-2x90-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,24 €"
+          }
+        },
+        "tileInfos": [
+          "180 St (1,80 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,85 €"
+          }
+        },
+        "tileInfos": [
+          "180 St (2,14 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.3636
+      },
+      "self": "/p/d/1615588/tempo-taschentuecher-duo-box-mit-duft-2x90-st",
+      "title": {
+        "tileHeadline": "Taschentücher Duo Box mit Duft (2x90 St), 180 St",
+        "tileHeadlineLong": "Taschentücher Duo Box mit Duft (2x90 St), 180 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3636,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 7322540786989,
+    "dan": 1533054,
+    "brandName": "Tempo",
+    "title": "Taschentücher (56x10 St), 560 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher (56x10 St), 560 St; Preis: 6,65 €; Grundpreis: 560 St (1,19 € je 100 St); Nur Online Grafik",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1533054,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 7322540786989,
+      "images": [
+        {
+          "alt": "Taschentücher (56x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751931562/assets/pas/images/5be206bb-cb79-4603-a5b3-760752b60c58/tempo-taschentuecher-56x10-st"
+        },
+        {
+          "alt": "Taschentücher (56x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779925573/assets/pas/images/0aa56e67-0e29-4308-a6b4-d1816a54c6d7/tempo-taschentuecher-56x10-st"
+        },
+        {
+          "alt": "Taschentücher (56x10 St) Tempo",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751931576/assets/pas/images/1fdf05fb-a848-43e4-ab53-53775a2062f3/tempo-taschentuecher-56x10-st"
+        },
+        {
+          "alt": "Taschentücher (56x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756337209/assets/pas/images/65365ea2-b258-486e-86bb-577daafa04cb/tempo-taschentuecher-56x10-st"
+        },
+        {
+          "alt": "Taschentücher (56x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756337240/assets/pas/images/4f92c38c-6f1b-4252-8358-b72f962c8385/tempo-taschentuecher-56x10-st"
+        },
+        {
+          "alt": "Taschentücher (56x10 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756337230/assets/pas/images/a5d51b2e-e5c9-43dd-9d49-321280da8ea6/tempo-taschentuecher-56x10-st"
+        },
+        {
+          "alt": "Taschentücher (56x10 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756337220/assets/pas/images/7be2767a-98b0-475d-a12c-c7b8dd45091e/tempo-taschentuecher-56x10-st"
+        },
+        {
+          "alt": "Taschentücher (56x10 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756337200/assets/pas/images/8424123d-d1ae-4486-895a-47cab4a71d45/tempo-taschentuecher-56x10-st"
+        },
+        {
+          "alt": "Taschentücher (56x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751931546/assets/pas/images/4850cb92-da3f-4370-98e7-99bd5a904ef1/tempo-taschentuecher-56x10-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,59 €"
+          }
+        },
+        "tileInfos": [
+          "560 St (1,00 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,65 €"
+          }
+        },
+        "tileInfos": [
+          "560 St (1,19 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1883,
+        "ratingValue": 4.7366
+      },
+      "self": "/p/d/1533054/tempo-taschentuecher-56x10-st",
+      "title": {
+        "tileHeadline": "Taschentücher (56x10 St), 560 St",
+        "tileHeadlineLong": "Taschentücher (56x10 St), 560 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.65
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7366,
+        "ratingCount": 1883
+      }
+    }
+  },
+  {
+    "gtin": 7322541205670,
+    "dan": 1452414,
+    "brandName": "Tempo",
+    "title": "Taschentücher natural & soft (12x9 St), 108 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher natural & soft (12x9 St), 108 St; Preis: 2,35 €; Grundpreis: 108 St (2,18 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1452414,
+      "gtin": 7322541205670,
+      "images": [
+        {
+          "alt": "Taschentücher natural & soft (12x9 St) Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751937007/assets/pas/images/09a544b2-7c6d-4c50-9dca-821fecf5dc89/tempo-taschentuecher-natural-und-soft-12x9-st"
+        },
+        {
+          "alt": "Taschentücher natural & soft (12x9 St) Tempo",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751937014/assets/pas/images/0a3ea13b-a714-45bf-b818-d5ae590e05a2/tempo-taschentuecher-natural-und-soft-12x9-st"
+        },
+        {
+          "alt": "Taschentücher natural & soft (12x9 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756246098/assets/pas/images/c05ae91d-d4a5-4d22-b25a-2df3e12699b2/tempo-taschentuecher-natural-und-soft-12x9-st"
+        },
+        {
+          "alt": "Taschentücher natural & soft (12x9 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756246062/assets/pas/images/4d94cb64-2da1-4971-b102-b878d7960102/tempo-taschentuecher-natural-und-soft-12x9-st"
+        },
+        {
+          "alt": "Taschentücher natural & soft (12x9 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756246089/assets/pas/images/9f871751-284a-4c67-ba7a-235d130bddea/tempo-taschentuecher-natural-und-soft-12x9-st"
+        },
+        {
+          "alt": "Taschentücher natural & soft (12x9 St) Tempo",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756246118/assets/pas/images/d30d6212-93ba-4f47-8808-e1d131501d8b/tempo-taschentuecher-natural-und-soft-12x9-st"
+        },
+        {
+          "alt": "Taschentücher natural & soft (12x9 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756246109/assets/pas/images/db02cd7e-bb63-47b9-9b7e-31fc25c637e5/tempo-taschentuecher-natural-und-soft-12x9-st"
+        },
+        {
+          "alt": "Taschentücher natural & soft (12x9 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751936993/assets/pas/images/853e713c-1f76-4892-9489-b4824afa8273/tempo-taschentuecher-natural-und-soft-12x9-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "108 St (1,83 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "108 St (2,18 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 141,
+        "ratingValue": 4.8582
+      },
+      "self": "/p/d/1452414/tempo-taschentuecher-natural-und-soft-12x9-st",
+      "title": {
+        "tileHeadline": "Taschentücher natural & soft (12x9 St), 108 St",
+        "tileHeadlineLong": "Taschentücher natural & soft (12x9 St), 108 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8582,
+        "ratingCount": 141
+      }
+    }
+  },
+  {
+    "gtin": 7322540786514,
+    "dan": 1436067,
+    "brandName": "Tempo",
+    "title": "Taschentücher (15x10 St), 150 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher (15x10 St), 150 St; Preis: 2,35 €; Grundpreis: 150 St (1,57 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1436067,
+      "gtin": 7322540786514,
+      "images": [
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294687/assets/pas/images/b0dfbc77-4e40-447d-9bbc-26f33cd2833d/tempo-taschentuecher-15x10-st"
+        },
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249779/assets/pas/images/808adab1-4fd6-478f-9a65-914162ec7842/tempo-taschentuecher-15x10-st"
+        },
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249790/assets/pas/images/194ae249-52b7-41c3-82ab-19f78db28e06/tempo-taschentuecher-15x10-st"
+        },
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249770/assets/pas/images/9ac1a360-c2ee-4be5-9a01-e03f2381cccf/tempo-taschentuecher-15x10-st"
+        },
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249817/assets/pas/images/2a3e30e1-335f-40f8-8f15-162acd924765/tempo-taschentuecher-15x10-st"
+        },
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762554422/assets/pas/images/15bce91e-5ee6-4cb2-86cb-70d30720c4aa/tempo-taschentuecher-15x10-st"
+        },
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762554434/assets/pas/images/c7850dc1-9315-46df-abc8-6483f300d3e0/tempo-taschentuecher-15x10-st"
+        },
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762554446/assets/pas/images/4dfb94a1-be66-4c05-ae9d-ceff23b3fa24/tempo-taschentuecher-15x10-st"
+        },
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762554456/assets/pas/images/7f4f91ae-bfdd-456f-a986-3570fab92019/tempo-taschentuecher-15x10-st"
+        },
+        {
+          "alt": "Taschentücher (15x10 St) Tempo",
+          "backgroundColor": "#F1F9F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762294697/assets/pas/images/2f963586-6d00-4d47-bf02-01c7d6a5c840/tempo-taschentuecher-15x10-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "150 St (1,32 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "150 St (1,57 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1732,
+        "ratingValue": 4.7148
+      },
+      "self": "/p/d/1436067/tempo-taschentuecher-15x10-st",
+      "title": {
+        "tileHeadline": "Taschentücher (15x10 St), 150 St",
+        "tileHeadlineLong": "Taschentücher (15x10 St), 150 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7148,
+        "ratingCount": 1732
+      }
+    }
+  },
+  {
+    "gtin": 7322540786927,
+    "dan": 1436100,
+    "brandName": "Tempo",
+    "title": "Taschentücher sanft & frei (10x9 St), 90 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher sanft & frei (10x9 St), 90 St; Preis: 2,35 €; Grundpreis: 90 St (2,61 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1436100,
+      "gtin": 7322540786927,
+      "images": [
+        {
+          "alt": "Taschentücher sanft & frei (10x9 St) Tempo",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932527/assets/pas/images/9cd93698-8398-445c-a733-8a261cc8cd41/tempo-taschentuecher-sanft-und-frei-10x9-st"
+        },
+        {
+          "alt": "Taschentücher sanft & frei (10x9 St) Tempo",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932536/assets/pas/images/f39afcad-85e7-4111-982d-08ce03c4b156/tempo-taschentuecher-sanft-und-frei-10x9-st"
+        },
+        {
+          "alt": "Taschentücher sanft & frei (10x9 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336611/assets/pas/images/9d506f3f-384d-43ee-b4a6-fb98ffa12ebd/tempo-taschentuecher-sanft-und-frei-10x9-st"
+        },
+        {
+          "alt": "Taschentücher sanft & frei (10x9 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336578/assets/pas/images/99a571fd-6adc-48cd-895d-2bc2cc110d34/tempo-taschentuecher-sanft-und-frei-10x9-st"
+        },
+        {
+          "alt": "Taschentücher sanft & frei (10x9 St) Tempo",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336566/assets/pas/images/a1764701-fb77-4fd0-9deb-6cc295f34b1d/tempo-taschentuecher-sanft-und-frei-10x9-st"
+        },
+        {
+          "alt": "Taschentücher sanft & frei (10x9 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336602/assets/pas/images/f46e9908-566d-44e3-ba01-0780337e88f3/tempo-taschentuecher-sanft-und-frei-10x9-st"
+        },
+        {
+          "alt": "Taschentücher sanft & frei (10x9 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756336556/assets/pas/images/cda62859-bcd2-492c-aba5-0c77181d219e/tempo-taschentuecher-sanft-und-frei-10x9-st"
+        },
+        {
+          "alt": "Taschentücher sanft & frei (10x9 St) Tempo",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751932513/assets/pas/images/96fd20e4-c67a-4dfc-8c30-4c3246c86662/tempo-taschentuecher-sanft-und-frei-10x9-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "90 St (2,19 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "90 St (2,61 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 100,
+        "ratingValue": 4.47
+      },
+      "self": "/p/d/1436100/tempo-taschentuecher-sanft-und-frei-10x9-st",
+      "title": {
+        "tileHeadline": "Taschentücher sanft & frei (10x9 St), 90 St",
+        "tileHeadlineLong": "Taschentücher sanft & frei (10x9 St), 90 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.47,
+        "ratingCount": 100
+      }
+    }
+  },
+  {
+    "gtin": 7322540786750,
+    "dan": 1436075,
+    "brandName": "Tempo",
+    "title": "Taschentücher soft & sensitive (12x9 St), 108 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tempo; Produktname: Taschentücher soft & sensitive (12x9 St), 108 St; Preis: 2,35 €; Grundpreis: 108 St (2,18 € je 100 St)",
+      "brand": {
+        "name": "Tempo"
+      },
+      "dan": 1436075,
+      "gtin": 7322540786750,
+      "images": [
+        {
+          "alt": "Taschentücher soft & sensitive (12x9 St) Tempo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751934642/assets/pas/images/2a20f5c7-c198-45a9-8e76-e4b0a335d9e3/tempo-taschentuecher-soft-und-sensitive-12x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (12x9 St) Tempo",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779929830/assets/pas/images/fb6a28cd-1c1e-4e73-a7a3-3f45f4110e4f/tempo-taschentuecher-soft-und-sensitive-12x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (12x9 St) Tempo",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751934649/assets/pas/images/5f3dadc0-1d6c-48c2-bc36-165978380fa3/tempo-taschentuecher-soft-und-sensitive-12x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (12x9 St) Tempo",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249223/assets/pas/images/df10acaa-f246-4669-a370-d77cad75e08d/tempo-taschentuecher-soft-und-sensitive-12x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (12x9 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249214/assets/pas/images/e424f126-53f2-49af-bad7-35fcc0816518/tempo-taschentuecher-soft-und-sensitive-12x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (12x9 St) Tempo",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249186/assets/pas/images/45b2166c-69f9-45aa-9854-3dacce265451/tempo-taschentuecher-soft-und-sensitive-12x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (12x9 St) Tempo",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249194/assets/pas/images/9d303ca6-bd8c-4fc5-a8de-abc9ca6f4eab/tempo-taschentuecher-soft-und-sensitive-12x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (12x9 St) Tempo",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1756249202/assets/pas/images/3e300366-86d9-4f8c-b712-2c4c76570885/tempo-taschentuecher-soft-und-sensitive-12x9-st"
+        },
+        {
+          "alt": "Taschentücher soft & sensitive (12x9 St) Tempo",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751934629/assets/pas/images/c845dd23-884a-4c1c-9112-af1015da7354/tempo-taschentuecher-soft-und-sensitive-12x9-st"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,97 €"
+          }
+        },
+        "tileInfos": [
+          "108 St (1,83 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "108 St (2,18 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 82,
+        "ratingValue": 4.8415
+      },
+      "self": "/p/d/1436075/tempo-taschentuecher-soft-und-sensitive-12x9-st",
+      "title": {
+        "tileHeadline": "Taschentücher soft & sensitive (12x9 St), 108 St",
+        "tileHeadlineLong": "Taschentücher soft & sensitive (12x9 St), 108 St"
+      },
+      "trackingData": {
+        "brand": "Tempo",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8415,
+        "ratingCount": 82
+      }
+    }
+  },
+  {
+    "gtin": 4067796180183,
+    "dan": 1353487,
+    "brandName": "Soft&Sicher",
+    "title": "Taschentücher Pocket (6x8 Stück), 6 St",
+    "tileData": {
+      "a11yLabel": "Marke: Soft&Sicher; Produktname: Taschentücher Pocket (6x8 Stück), 6 St; Preis: 0,85 €; Grundpreis: 48 St (1,77 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "Soft&Sicher"
+      },
+      "dan": 1353487,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796180183,
+      "images": [
+        {
+          "alt": "Taschentücher Pocket (6x8 Stück) Soft&Sicher",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305326/assets/pas/images/c34a3a45-2137-4057-880b-60b611165394/soft-und-sicher-taschentuecher-pocket-6x8-stueck"
+        },
+        {
+          "alt": "Taschentücher Pocket (6x8 Stück) Soft&Sicher",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305331/assets/pas/images/345313f0-9723-4119-b09a-5c452c2dd18d/soft-und-sicher-taschentuecher-pocket-6x8-stueck"
+        },
+        {
+          "alt": "Taschentücher Pocket (6x8 Stück) Soft&Sicher",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305337/assets/pas/images/67d4373a-9f00-405a-8c80-0de86f92f0c1/soft-und-sicher-taschentuecher-pocket-6x8-stueck"
+        },
+        {
+          "alt": "Taschentücher Pocket (6x8 Stück) Soft&Sicher",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781305341/assets/pas/images/85c194e0-8566-441c-85f5-4b8beba36e41/soft-und-sicher-taschentuecher-pocket-6x8-stueck"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,71 €"
+          }
+        },
+        "tileInfos": [
+          "48 St (1,49 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "48 St (1,77 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 90,
+        "ratingValue": 4.7111
+      },
+      "self": "/p/d/1353487/soft-und-sicher-taschentuecher-pocket-6x8-stueck",
+      "title": {
+        "tileHeadline": "Taschentücher Pocket (6x8 Stück), 6 St",
+        "tileHeadlineLong": "Taschentücher Pocket (6x8 Stück), 6 St"
+      },
+      "trackingData": {
+        "brand": "Soft&Sicher",
+        "categories": [
+          "Taschentücher"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7111,
+        "ratingCount": 90
+      }
+    }
+  }
+]

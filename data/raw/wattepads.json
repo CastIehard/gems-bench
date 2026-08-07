@@ -1,0 +1,2404 @@
+[
+  {
+    "gtin": 4058172178504,
+    "dan": 1534101,
+    "brandName": "ebelin",
+    "title": "Wattepads Maxi, 50 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads Maxi, 50 St; Preis: 0,95 €; Grundpreis: 50 St (1,90 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1534101,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172178504,
+      "images": [
+        {
+          "alt": "Wattepads Maxi ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778102702/assets/pas/images/1300eaef-dae4-43a1-b700-f27d346af574/ebelin-wattepads-maxi"
+        },
+        {
+          "alt": "Wattepads Maxi ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778102696/assets/pas/images/58c04600-7003-488e-81fb-bc8e44e4e8c1/ebelin-wattepads-maxi"
+        },
+        {
+          "alt": "Wattepads Maxi ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755820604/assets/pas/images/6f1de43b-f95a-4232-99aa-70cb09e2d687/ebelin-wattepads-maxi"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "50 St (1,60 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "50 St (1,90 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.5347
+      },
+      "self": "/p/d/1534101/ebelin-wattepads-maxi",
+      "title": {
+        "tileHeadline": "Wattepads Maxi, 50 St",
+        "tileHeadlineLong": "Wattepads Maxi, 50 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5347,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4058172178481,
+    "dan": 1094189,
+    "brandName": "ebelin",
+    "title": "Wattepads, 140 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads, 140 St; Preis: 0,95 €; Grundpreis: 140 St (0,68 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1094189,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172178481,
+      "images": [
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774589961/assets/pas/images/417a06c8-84fa-441a-89c7-60b17ed848d7/ebelin-wattepads"
+        },
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784086731/assets/pas/images/6efb189d-6708-4a9e-8d5f-5d183035f578/ebelin-wattepads"
+        },
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774589969/assets/pas/images/1538d0eb-1314-4685-bc1c-b31a5724f761/ebelin-wattepads"
+        },
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784086737/assets/pas/images/ab37f4a6-3902-4c16-b803-e39d820ddb13/ebelin-wattepads"
+        },
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755816197/assets/pas/images/755dab32-4ccb-44e5-a05c-22c9afd81f02/ebelin-wattepads"
+        },
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784086727/assets/pas/images/5c6f9574-c775-4a81-a203-426c0c8fc3a8/ebelin-wattepads"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "140 St (0,57 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "140 St (0,68 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 435,
+        "ratingValue": 3.8023
+      },
+      "self": "/p/d/1094189/ebelin-wattepads",
+      "title": {
+        "tileHeadline": "Wattepads, 140 St",
+        "tileHeadlineLong": "Wattepads, 140 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8023,
+        "ratingCount": 435
+      }
+    }
+  },
+  {
+    "gtin": 4058172178528,
+    "dan": 1440835,
+    "brandName": "ebelin",
+    "title": "Wattepads Maxi supersoft, 50 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads Maxi supersoft, 50 St; Preis: 1,25 €; Grundpreis: 50 St (2,50 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1440835,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172178528,
+      "images": [
+        {
+          "alt": "Wattepads Maxi supersoft ebelin",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776983909/assets/pas/images/c37aaaf5-7098-4886-bb1e-b0d95b62517f/ebelin-wattepads-maxi-supersoft"
+        },
+        {
+          "alt": "Wattepads Maxi supersoft ebelin",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776983912/assets/pas/images/32ae9a71-7c64-46fd-b10d-bc834f685059/ebelin-wattepads-maxi-supersoft"
+        },
+        {
+          "alt": "Wattepads Maxi supersoft ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755818930/assets/pas/images/eaec893f-869e-4146-82e8-1cb142054f78/ebelin-wattepads-maxi-supersoft"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "50 St (2,10 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "50 St (2,50 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 129,
+        "ratingValue": 4.4729
+      },
+      "self": "/p/d/1440835/ebelin-wattepads-maxi-supersoft",
+      "title": {
+        "tileHeadline": "Wattepads Maxi supersoft, 50 St",
+        "tileHeadlineLong": "Wattepads Maxi supersoft, 50 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4729,
+        "ratingCount": 129
+      }
+    }
+  },
+  {
+    "gtin": 4066447015935,
+    "dan": 3098629,
+    "brandName": "ebelin",
+    "title": "Wattepads Maxi mit Seide, 60 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads Maxi mit Seide, 60 St; Preis: 1,25 €; Grundpreis: 60 St (2,08 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 3098629,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447015935,
+      "images": [
+        {
+          "alt": "Wattepads Maxi mit Seide ebelin",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765200403/assets/pas/images/51fac494-e193-4640-8a14-fc40a4c33387/ebelin-wattepads-maxi-mit-seide"
+        },
+        {
+          "alt": "Wattepads Maxi mit Seide ebelin",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765200420/assets/pas/images/f8be4eb3-ae8f-486b-8393-c44861cd46f8/ebelin-wattepads-maxi-mit-seide"
+        },
+        {
+          "alt": "Wattepads Maxi mit Seide ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765200443/assets/pas/images/0f4225e7-44a0-4cad-91a7-46e63bbbde16/ebelin-wattepads-maxi-mit-seide"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (1,75 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (2,08 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 4.7857
+      },
+      "self": "/p/d/3098629/ebelin-wattepads-maxi-mit-seide",
+      "title": {
+        "tileHeadline": "Wattepads Maxi mit Seide, 60 St",
+        "tileHeadlineLong": "Wattepads Maxi mit Seide, 60 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Kosmetiktücher & Wattepads"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7857,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 4058172067310,
+    "dan": 1094187,
+    "brandName": "ebelin",
+    "title": "Wattepads, 70 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads, 70 St; Preis: 0,65 €; Grundpreis: 70 St (0,93 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1094187,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172067310,
+      "images": [
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778102696/assets/pas/images/fe227369-96b2-4936-bca8-d81c5bb14564/ebelin-wattepads"
+        },
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778102699/assets/pas/images/9da9873d-929b-4cab-b5ef-bec14ed0ad93/ebelin-wattepads"
+        },
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755818777/assets/pas/images/ce4eb281-1d18-4e13-8dce-ac71c345b2ef/ebelin-wattepads"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,55 €"
+          }
+        },
+        "tileInfos": [
+          "70 St (0,78 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,65 €"
+          }
+        },
+        "tileInfos": [
+          "70 St (0,93 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.2826
+      },
+      "self": "/p/d/1094187/ebelin-wattepads",
+      "title": {
+        "tileHeadline": "Wattepads, 70 St",
+        "tileHeadlineLong": "Wattepads, 70 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.65
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2826,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4066447015591,
+    "dan": 1619631,
+    "brandName": "ebelin",
+    "title": "Wattepads Bio Maxi GOTS-zertifiziert, 40 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads Bio Maxi GOTS-zertifiziert, 40 St; Preis: 0,95 €; Grundpreis: 40 St (0,02 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1619631,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447015591,
+      "images": [
+        {
+          "alt": "Wattepads Bio Maxi GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774589268/assets/pas/images/28426c00-577c-4547-abfa-2a65c6ce53f4/ebelin-wattepads-bio-maxi-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio Maxi GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774589261/assets/pas/images/187cd7f0-9ea7-4ad5-9e3f-3891ec4260cc/ebelin-wattepads-bio-maxi-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio Maxi GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755819852/assets/pas/images/63052ced-a76f-4e10-8edb-5d149903b196/ebelin-wattepads-bio-maxi-gots-zertifiziert"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "40 St (0,02 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "40 St (0,02 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.5761
+      },
+      "self": "/p/d/1619631/ebelin-wattepads-bio-maxi-gots-zertifiziert",
+      "title": {
+        "tileHeadline": "Wattepads Bio Maxi GOTS-zertifiziert, 40 St",
+        "tileHeadlineLong": "Wattepads Bio Maxi GOTS-zertifiziert, 40 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5761,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4066447015577,
+    "dan": 1566769,
+    "brandName": "ebelin",
+    "title": "Wattepads Bio GOTS-zertifiziert, 120 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads Bio GOTS-zertifiziert, 120 St; Preis: 1,45 €; Grundpreis: 120 St (1,21 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1566769,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447015577,
+      "images": [
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F1F9F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774597766/assets/pas/images/d8a0dd01-2a7c-4277-96a1-996852455f19/ebelin-wattepads-bio-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784076755/assets/pas/images/dded6e05-69ae-4755-8a20-7c942f6f160c/ebelin-wattepads-bio-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774597775/assets/pas/images/138b98fc-9901-486d-ae3f-541120e6b0d9/ebelin-wattepads-bio-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784076762/assets/pas/images/b367af15-a615-468b-93f0-37a40f61c52e/ebelin-wattepads-bio-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1784076751/assets/pas/images/2b4c17d9-409d-4199-a864-796b69cb9e7c/ebelin-wattepads-bio-gots-zertifiziert"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,22 €"
+          }
+        },
+        "tileInfos": [
+          "120 St (1,02 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "120 St (1,21 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 93,
+        "ratingValue": 4.5914
+      },
+      "self": "/p/d/1566769/ebelin-wattepads-bio-gots-zertifiziert",
+      "title": {
+        "tileHeadline": "Wattepads Bio GOTS-zertifiziert, 120 St",
+        "tileHeadlineLong": "Wattepads Bio GOTS-zertifiziert, 120 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5914,
+        "ratingCount": 93
+      }
+    }
+  },
+  {
+    "gtin": 7322540809213,
+    "dan": 3115837,
+    "brandName": "Demak'Up",
+    "title": "Wattepads Design, 105 St",
+    "tileData": {
+      "a11yLabel": "Marke: Demak'Up; Produktname: Wattepads Design, 105 St; Preis: 1,75 €; Grundpreis: 105 St (1,67 € je 100 St)",
+      "brand": {
+        "name": "Demak'Up"
+      },
+      "dan": 3115837,
+      "gtin": 7322540809213,
+      "images": [
+        {
+          "alt": "Wattepads Design  Demak'Up",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780533243/assets/pas/images/0e2970c9-d932-4e0b-ac6a-941da7d4dd84/demak-up-wattepads-design"
+        },
+        {
+          "alt": "Wattepads Design  Demak'Up",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1780533253/assets/pas/images/51156b87-796d-4e0d-b5a6-86e23cf2bb6b/demak-up-wattepads-design"
+        },
+        {
+          "alt": "Wattepads Design  Demak'Up",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765382740/assets/pas/images/812c52e2-de03-478d-b105-44806163fe25/demak-up-wattepads-design"
+        },
+        {
+          "alt": "Wattepads Design  Demak'Up",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765382759/assets/pas/images/8db34a0b-c5fe-4b19-8e29-57c3b6dcbfbf/demak-up-wattepads-design"
+        },
+        {
+          "alt": "Wattepads Design  Demak'Up",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765382748/assets/pas/images/8a6935da-4aac-4262-9b25-02659184f41f/demak-up-wattepads-design"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "105 St (1,40 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "105 St (1,67 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 14,
+        "ratingValue": 4.6429
+      },
+      "self": "/p/d/3115837/demak-up-wattepads-design",
+      "title": {
+        "tileHeadline": "Wattepads Design, 105 St",
+        "tileHeadlineLong": "Wattepads Design, 105 St"
+      },
+      "trackingData": {
+        "brand": "Demak'Up",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6429,
+        "ratingCount": 14
+      }
+    }
+  },
+  {
+    "gtin": 4058172178443,
+    "dan": 1094186,
+    "brandName": "ebelin",
+    "title": "Wattepads, 30 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads, 30 St; Preis: 0,45 €; Grundpreis: 30 St (1,50 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1094186,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172178443,
+      "images": [
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782079287/assets/pas/images/b4566a32-38f6-4f0a-afc1-dfed73487661/ebelin-wattepads"
+        },
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782079282/assets/pas/images/15fc5bce-e9b6-4fc6-b0a2-ddf83dbf4165/ebelin-wattepads"
+        },
+        {
+          "alt": "Wattepads ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755815756/assets/pas/images/b6ef3f8d-f20d-4e57-b25b-4ee9721e5dae/ebelin-wattepads"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,38 €"
+          }
+        },
+        "tileInfos": [
+          "30 St (1,26 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,45 €"
+          }
+        },
+        "tileInfos": [
+          "30 St (1,50 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 70,
+        "ratingValue": 4.8143
+      },
+      "self": "/p/d/1094186/ebelin-wattepads",
+      "title": {
+        "tileHeadline": "Wattepads, 30 St",
+        "tileHeadlineLong": "Wattepads, 30 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8143,
+        "ratingCount": 70
+      }
+    }
+  },
+  {
+    "gtin": 3133200000130,
+    "dan": 1617877,
+    "brandName": "Demak'Up",
+    "title": "Wattepads Sensitive, 72 St",
+    "tileData": {
+      "a11yLabel": "Marke: Demak'Up; Produktname: Wattepads Sensitive, 72 St; Preis: 1,65 €; Grundpreis: 72 St (2,29 € je 100 St)",
+      "brand": {
+        "name": "Demak'Up"
+      },
+      "dan": 1617877,
+      "gtin": 3133200000130,
+      "images": [
+        {
+          "alt": "Wattepads Sensitive Demak'Up",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769124770/assets/pas/images/0e0368ca-9eba-4be3-a609-60dde4d30179/demak-up-wattepads-sensitive"
+        },
+        {
+          "alt": "Wattepads Sensitive Demak'Up",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779493398/assets/pas/images/468b4c2f-4004-4d8f-8837-b0edddb8f549/demak-up-wattepads-sensitive"
+        },
+        {
+          "alt": "Wattepads Sensitive Demak'Up",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410669/assets/pas/images/c15c3647-2db4-44dc-8ca7-bfea8d9e92d0/demak-up-wattepads-sensitive"
+        },
+        {
+          "alt": "Wattepads Sensitive Demak'Up",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410763/assets/pas/images/658e7c08-4b52-4d3b-98cb-2af665a607bf/demak-up-wattepads-sensitive"
+        },
+        {
+          "alt": "Wattepads Sensitive Demak'Up",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410765/assets/pas/images/deee16ee-ba1c-4edc-978d-bd92bfc7ed5a/demak-up-wattepads-sensitive"
+        },
+        {
+          "alt": "Wattepads Sensitive Demak'Up",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410669/assets/pas/images/e8eba3a2-6900-4142-ae6c-3d67338dfe22/demak-up-wattepads-sensitive"
+        },
+        {
+          "alt": "Wattepads Sensitive Demak'Up",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410668/assets/pas/images/d120af06-2b35-4612-92c7-b4ee95795c50/demak-up-wattepads-sensitive"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,39 €"
+          }
+        },
+        "tileInfos": [
+          "72 St (1,92 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "72 St (2,29 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.9625
+      },
+      "self": "/p/d/1617877/demak-up-wattepads-sensitive",
+      "title": {
+        "tileHeadline": "Wattepads Sensitive, 72 St",
+        "tileHeadlineLong": "Wattepads Sensitive, 72 St"
+      },
+      "trackingData": {
+        "brand": "Demak'Up",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9625,
+        "ratingCount": 80
+      }
+    }
+  },
+  {
+    "gtin": 4066447910575,
+    "dan": 3121665,
+    "brandName": "ebelin",
+    "title": "Wattepads Peeling Herzen, 40 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads Peeling Herzen, 40 St; Preis: 1,55 €; Grundpreis: 40 St (3,88 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 3121665,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447910575,
+      "images": [
+        {
+          "alt": "Wattepads Peeling Herzen ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550334/assets/pas/images/cfc0ef2b-4cf0-445d-833a-3071fb27c087/ebelin-wattepads-peeling-herzen"
+        },
+        {
+          "alt": "Wattepads Peeling Herzen ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771023976/assets/pas/images/2f6ea3f3-55ac-4feb-8df0-9999a29aa085/ebelin-wattepads-peeling-herzen"
+        },
+        {
+          "alt": "Wattepads Peeling Herzen ebelin",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550346/assets/pas/images/e71755e6-e0b4-4a82-97f0-f042d414c52a/ebelin-wattepads-peeling-herzen"
+        },
+        {
+          "alt": "Wattepads Peeling Herzen ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771023981/assets/pas/images/2ace94a6-8bfa-45d7-9f61-da0d234ef5f5/ebelin-wattepads-peeling-herzen"
+        },
+        {
+          "alt": "Wattepads Peeling Herzen ebelin",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550340/assets/pas/images/2f846a0a-3da5-4fd1-84d1-befc0b5a66fc/ebelin-wattepads-peeling-herzen"
+        },
+        {
+          "alt": "Wattepads Peeling Herzen ebelin",
+          "backgroundColor": "#F9F1F6",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771023970/assets/pas/images/1bbb94a7-8e54-479c-af67-df7b58b4c8e5/ebelin-wattepads-peeling-herzen"
+        },
+        {
+          "alt": "Wattepads Peeling Herzen ebelin",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1771550352/assets/pas/images/7ea8cc81-1fc6-4307-99a4-1d5b900b3702/ebelin-wattepads-peeling-herzen"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,30 €"
+          }
+        },
+        "tileInfos": [
+          "40 St (3,26 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "40 St (3,88 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.4746
+      },
+      "self": "/p/d/3121665/ebelin-wattepads-peeling-herzen",
+      "title": {
+        "tileHeadline": "Wattepads Peeling Herzen, 40 St",
+        "tileHeadlineLong": "Wattepads Peeling Herzen, 40 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4746,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 3133200542920,
+    "dan": 1006592,
+    "brandName": "Demak'Up",
+    "title": "Wattepads Expert, 84 St",
+    "tileData": {
+      "a11yLabel": "Marke: Demak'Up; Produktname: Wattepads Expert, 84 St; Preis: 1,65 €; Grundpreis: 84 St (1,96 € je 100 St)",
+      "brand": {
+        "name": "Demak'Up"
+      },
+      "dan": 1006592,
+      "gtin": 3133200542920,
+      "images": [
+        {
+          "alt": "Wattepads Expert Demak'Up",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769126122/assets/pas/images/465b3f52-14ef-4911-b167-06732495266a/demak-up-wattepads-expert"
+        },
+        {
+          "alt": "Wattepads Expert Demak'Up",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410684/assets/pas/images/f0b300ea-1f4a-44a5-b1f9-ae1a72747748/demak-up-wattepads-expert"
+        },
+        {
+          "alt": "Wattepads Expert Demak'Up",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410685/assets/pas/images/6fc2709d-3a6c-4d67-ab27-3eb9e9089543/demak-up-wattepads-expert"
+        },
+        {
+          "alt": "Wattepads Expert Demak'Up",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410769/assets/pas/images/9fe6dfb2-66a0-4bb1-895a-efa17a57058d/demak-up-wattepads-expert"
+        },
+        {
+          "alt": "Wattepads Expert Demak'Up",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410675/assets/pas/images/bffe750c-a466-43ae-8b4f-669847938c19/demak-up-wattepads-expert"
+        },
+        {
+          "alt": "Wattepads Expert Demak'Up",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747410971/assets/pas/images/bc313933-ddb1-4ba2-950e-f795a59877de/demak-up-wattepads-expert"
+        },
+        {
+          "alt": "Wattepads Expert Demak'Up",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779492471/assets/pas/images/8bdfc491-8464-4d9c-883b-f66dab1d18f5/demak-up-wattepads-expert"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,39 €"
+          }
+        },
+        "tileInfos": [
+          "84 St (1,65 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "84 St (1,96 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 176,
+        "ratingValue": 4.7614
+      },
+      "self": "/p/d/1006592/demak-up-wattepads-expert",
+      "title": {
+        "tileHeadline": "Wattepads Expert, 84 St",
+        "tileHeadlineLong": "Wattepads Expert, 84 St"
+      },
+      "trackingData": {
+        "brand": "Demak'Up",
+        "categories": [
+          "Make-up Entferner",
+          "Kosmetiktücher & Wattepads"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7614,
+        "ratingCount": 176
+      }
+    }
+  },
+  {
+    "gtin": 4066447750829,
+    "dan": 1157201,
+    "brandName": "babylove",
+    "title": "Reinigungs Wattepads, 60 St",
+    "tileData": {
+      "a11yLabel": "Marke: babylove; Produktname: Reinigungs Wattepads, 60 St; Preis: 1,65 €; Grundpreis: 60 St (2,75 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "babylove"
+      },
+      "dan": 1157201,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447750829,
+      "images": [
+        {
+          "alt": "Reinigungs Wattepads  babylove",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755001190/assets/pas/images/7e27803c-4243-4c88-985f-f507b4475d93/babylove-reinigungs-wattepads"
+        },
+        {
+          "alt": "Reinigungs Wattepads  babylove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755001193/assets/pas/images/6ed096d5-e858-460a-9870-4e207d283ddb/babylove-reinigungs-wattepads"
+        },
+        {
+          "alt": "Reinigungs Wattepads  babylove",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485743/assets/pas/images/ed71e0a6-9a5c-49f7-9bea-ea3f0ee788e8/babylove-reinigungs-wattepads"
+        },
+        {
+          "alt": "Reinigungs Wattepads  babylove",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755001196/assets/pas/images/12bcdaa5-b88f-497a-9f1d-bc5d73fdae0a/babylove-reinigungs-wattepads"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,39 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (2,31 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (2,75 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 984,
+        "ratingValue": 4.6687
+      },
+      "self": "/p/d/1157201/babylove-reinigungs-wattepads",
+      "title": {
+        "tileHeadline": "Reinigungs Wattepads, 60 St",
+        "tileHeadlineLong": "Reinigungs Wattepads, 60 St"
+      },
+      "trackingData": {
+        "brand": "babylove",
+        "categories": [
+          "Babypflege Zubehör"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.669,
+        "ratingCount": 985
+      }
+    }
+  },
+  {
+    "gtin": 4066447750843,
+    "dan": 1558087,
+    "brandName": "babylove",
+    "title": "Reinigungs Wattepads (4x60 St), 240 St",
+    "tileData": {
+      "a11yLabel": "Marke: babylove; Produktname: Reinigungs Wattepads (4x60 St), 240 St; Preis: 6,25 €; Grundpreis: 240 St (2,60 € je 100 St); Nur Online Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "babylove"
+      },
+      "dan": 1558087,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447750843,
+      "images": [
+        {
+          "alt": "Reinigungs Wattepads (4x60 St) babylove",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755016999/assets/pas/images/6dcf2b23-08d1-415e-86d4-1288caf85dab/babylove-reinigungs-wattepads-4x60-st"
+        },
+        {
+          "alt": "Reinigungs Wattepads (4x60 St) babylove",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755016999/assets/pas/images/da221023-eb47-4a77-a151-c265b29721bf/babylove-reinigungs-wattepads-4x60-st"
+        },
+        {
+          "alt": "Reinigungs Wattepads (4x60 St) babylove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755016998/assets/pas/images/00940734-d2c5-498f-922f-30f5e888d5e0/babylove-reinigungs-wattepads-4x60-st"
+        },
+        {
+          "alt": "Reinigungs Wattepads (4x60 St) babylove",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755016994/assets/pas/images/4d350ccf-0bc2-49ad-9d46-632ade181125/babylove-reinigungs-wattepads-4x60-st"
+        },
+        {
+          "alt": "Reinigungs Wattepads (4x60 St) babylove",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747485530/assets/pas/images/d1e01e37-f90e-47d2-9a44-b11333fa3d95/babylove-reinigungs-wattepads-4x60-st"
+        },
+        {
+          "alt": "Reinigungs Wattepads (4x60 St) babylove",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755016994/assets/pas/images/2be974a5-e92d-48b9-969f-ad61ec400939/babylove-reinigungs-wattepads-4x60-st"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,25 €"
+          }
+        },
+        "tileInfos": [
+          "240 St (2,18 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,25 €"
+          }
+        },
+        "tileInfos": [
+          "240 St (2,60 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2616,
+        "ratingValue": 4.8498
+      },
+      "self": "/p/d/1558087/babylove-reinigungs-wattepads-4x60-st",
+      "title": {
+        "tileHeadline": "Reinigungs Wattepads (4x60 St), 240 St",
+        "tileHeadlineLong": "Reinigungs Wattepads (4x60 St), 240 St"
+      },
+      "trackingData": {
+        "brand": "babylove",
+        "categories": [
+          "Babypflege Zubehör"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8498,
+        "ratingCount": 2616
+      }
+    }
+  },
+  {
+    "gtin": 4066447910551,
+    "dan": 3121666,
+    "brandName": "ebelin",
+    "title": "Korrekturstäbchen für Make-Up, 120 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Korrekturstäbchen für Make-Up, 120 St; Preis: 0,95 €; Grundpreis: 120 St (0,79 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 3121666,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447910551,
+      "images": [
+        {
+          "alt": "Korrekturstäbchen für Make-Up ebelin",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769555017/assets/pas/images/96b402bc-08e8-4264-9700-285b07bc719e/ebelin-korrekturstaebchen-fuer-make-up"
+        },
+        {
+          "alt": "Korrekturstäbchen für Make-Up ebelin",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769555045/assets/pas/images/9f874ef1-7218-4594-9127-3a884e1a16f7/ebelin-korrekturstaebchen-fuer-make-up"
+        },
+        {
+          "alt": "Korrekturstäbchen für Make-Up ebelin",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769555031/assets/pas/images/b2a5297f-92b3-4760-a63a-d0f0313e601c/ebelin-korrekturstaebchen-fuer-make-up"
+        },
+        {
+          "alt": "Korrekturstäbchen für Make-Up ebelin",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769555023/assets/pas/images/3c9e2fdb-3a4e-4772-a8dc-9c7dd606e66f/ebelin-korrekturstaebchen-fuer-make-up"
+        },
+        {
+          "alt": "Korrekturstäbchen für Make-Up ebelin",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769555038/assets/pas/images/78ad6898-792c-4281-b8a3-cb764e5b8e38/ebelin-korrekturstaebchen-fuer-make-up"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "120 St (0,66 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "120 St (0,79 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 71,
+        "ratingValue": 4.6056
+      },
+      "self": "/p/d/3121666/ebelin-korrekturstaebchen-fuer-make-up",
+      "title": {
+        "tileHeadline": "Korrekturstäbchen für Make-Up, 120 St",
+        "tileHeadlineLong": "Korrekturstäbchen für Make-Up, 120 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Kosmetiktücher & Wattepads"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6056,
+        "ratingCount": 71
+      }
+    }
+  },
+  {
+    "gtin": 4066447849974,
+    "dan": 1574417,
+    "brandName": "ebelin",
+    "title": "Kosmetiktücher Recycling 3-lagig, 60 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Kosmetiktücher Recycling 3-lagig, 60 St; Preis: 1,25 €; Grundpreis: 60 St (0,02 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1574417,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447849974,
+      "images": [
+        {
+          "alt": "Kosmetiktücher Recycling 3-lagig ebelin",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761255429/assets/pas/images/19f58e3e-977a-4e14-a8bd-552fd33c6d0c/ebelin-kosmetiktuecher-recycling-3-lagig"
+        },
+        {
+          "alt": "Kosmetiktücher Recycling 3-lagig ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761255420/assets/pas/images/3ef34e3d-d1e2-47b1-8305-0c563020ba0b/ebelin-kosmetiktuecher-recycling-3-lagig"
+        },
+        {
+          "alt": "Kosmetiktücher Recycling 3-lagig ebelin",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761255444/assets/pas/images/583785c6-bd57-451b-8949-421892bb3eae/ebelin-kosmetiktuecher-recycling-3-lagig"
+        },
+        {
+          "alt": "Kosmetiktücher Recycling 3-lagig ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778795405/assets/pas/images/6bf591d0-8301-4f6d-b810-78fc27146dc9/ebelin-kosmetiktuecher-recycling-3-lagig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,05 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (0,02 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (0,02 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 89,
+        "ratingValue": 4.6629
+      },
+      "self": "/p/d/1574417/ebelin-kosmetiktuecher-recycling-3-lagig",
+      "title": {
+        "tileHeadline": "Kosmetiktücher Recycling 3-lagig, 60 St",
+        "tileHeadlineLong": "Kosmetiktücher Recycling 3-lagig, 60 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte",
+          "Kosmetiktücher & Wattepads"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6629,
+        "ratingCount": 89
+      }
+    }
+  },
+  {
+    "gtin": 4066447618983,
+    "dan": 3119514,
+    "brandName": "ebelin",
+    "title": "Wattepadbehälter transparent, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepadbehälter transparent, 1 St; Preis: 4,95 €; Grundpreis: 1 St (4,95 € je 1 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 3119514,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447618983,
+      "images": [
+        {
+          "alt": "Wattepadbehälter transparent ebelin",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769901715/assets/pas/images/cc40aae7-dad4-4fab-bf47-3a736ec61d33/ebelin-wattepadbehaelter-transparent"
+        },
+        {
+          "alt": "Wattepadbehälter transparent ebelin",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769901711/assets/pas/images/b1f9a0ee-8f8d-45a0-a966-7395121f5def/ebelin-wattepadbehaelter-transparent"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (4,16 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (4,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 16,
+        "ratingValue": 4.375
+      },
+      "self": "/p/d/3119514/ebelin-wattepadbehaelter-transparent",
+      "title": {
+        "tileHeadline": "Wattepadbehälter transparent, 1 St",
+        "tileHeadlineLong": "Wattepadbehälter transparent, 1 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Bad & Make-up Organizer"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.375,
+        "ratingCount": 16
+      }
+    }
+  },
+  {
+    "gtin": 5010415350145,
+    "dan": 1677242,
+    "brandName": "Tommee Tippee",
+    "title": "Windeleimer Twist & Click Sangenic XL, weiß, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: Tommee Tippee; Produktname: Windeleimer Twist & Click Sangenic XL, weiß, 1 St; Preis: 29,95 €; Grundpreis: 1 St (29,95 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "Tommee Tippee"
+      },
+      "dan": 1677242,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 5010415350145,
+      "images": [
+        {
+          "alt": "Windeleimer Twist & Click Sangenic XL, weiß Tommee Tippee",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764200984/assets/pas/images/fdaf86c5-11cf-4d56-a11d-ecabe3c806bf/tommee-tippee-windeleimer-twist-und-click-sangenic-xl-weiss"
+        },
+        {
+          "alt": "Windeleimer Twist & Click Sangenic XL, weiß Tommee Tippee",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747642312/assets/pas/images/4f0e8d14-5a6c-43ef-8d60-013ebc0d5b09/tommee-tippee-windeleimer-twist-und-click-sangenic-xl-weiss"
+        },
+        {
+          "alt": "Windeleimer Twist & Click Sangenic XL, weiß Tommee Tippee",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747642328/assets/pas/images/272b86fe-5bcd-43e3-9c1f-3934ab734d9a/tommee-tippee-windeleimer-twist-und-click-sangenic-xl-weiss"
+        },
+        {
+          "alt": "Windeleimer Twist & Click Sangenic XL, weiß Tommee Tippee",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747642317/assets/pas/images/e3305689-caa8-4cb1-bb26-d6f16d92366d/tommee-tippee-windeleimer-twist-und-click-sangenic-xl-weiss"
+        },
+        {
+          "alt": "Windeleimer Twist & Click Sangenic XL, weiß Tommee Tippee",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748041514/assets/pas/images/365c22df-120b-41fc-9dda-2dac66e3abc9/tommee-tippee-windeleimer-twist-und-click-sangenic-xl-weiss"
+        },
+        {
+          "alt": "Windeleimer Twist & Click Sangenic XL, weiß Tommee Tippee",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747642323/assets/pas/images/47260e9a-04d6-4ea4-807d-a24d9ad1d664/tommee-tippee-windeleimer-twist-und-click-sangenic-xl-weiss"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "25,17 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (25,17 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "29,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (29,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 121,
+        "ratingValue": 4.438
+      },
+      "self": "/p/d/1677242/tommee-tippee-windeleimer-twist-und-click-sangenic-xl-weiss",
+      "title": {
+        "tileHeadline": "Windeleimer Twist & Click Sangenic XL, weiß, 1 St",
+        "tileHeadlineLong": "Windeleimer Twist & Click Sangenic XL, weiß, 1 St"
+      },
+      "trackingData": {
+        "brand": "Tommee Tippee",
+        "categories": [
+          "Windeleimer & Zubehör"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 29.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.438,
+        "ratingCount": 121
+      }
+    }
+  },
+  {
+    "gtin": 4262460910183,
+    "dan": 3042376,
+    "brandName": "littleplan",
+    "title": "Erste-Hilfe-Tasche Regenbogen 34tlg",
+    "tileData": {
+      "a11yLabel": "Marke: littleplan; Produktname: Erste-Hilfe-Tasche Regenbogen 34tlg; Preis: 25,85 €; Grundpreis: 1 St (25,85 € je 1 St); Limitierte Editition Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "littleplan"
+      },
+      "dan": 3042376,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4262460910183,
+      "images": [
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495523/assets/pas/images/7d1134c8-c719-48d2-8668-0f6802686253/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        },
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495916/assets/pas/images/459d781e-e7d6-41a6-a2de-e9b4e15b22fb/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        },
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495915/assets/pas/images/c153d65c-7306-4d9a-b817-5d8a31cf40b5/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        },
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495531/assets/pas/images/f166f36a-1363-4290-83db-e0c5fc15efb6/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        },
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768865232/assets/pas/images/87a7231f-4e02-47ff-acf2-619c0f1fb8d7/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        },
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768865235/assets/pas/images/e4a7d6fd-fe86-485a-94d3-47ef3240f85c/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        },
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495879/assets/pas/images/e9df0ed7-39c0-495f-9090-a98ba398d11c/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        },
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747495913/assets/pas/images/391ae26e-c618-4150-8af2-a789548ce7f1/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        },
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768865246/assets/pas/images/7136241c-f7b7-42d7-8519-b03a30125683/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        },
+        {
+          "alt": "Erste-Hilfe-Tasche Regenbogen 34tlg littleplan",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768865241/assets/pas/images/b0be895e-582f-49a0-8526-d1a674d57711/littleplan-erste-hilfe-tasche-regenbogen-34tlg"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "21,72 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (21,72 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "25,85 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (25,85 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 66,
+        "ratingValue": 4.803
+      },
+      "self": "/p/d/3042376/littleplan-erste-hilfe-tasche-regenbogen-34tlg",
+      "title": {
+        "tileHeadline": "Erste-Hilfe-Tasche Regenbogen 34tlg",
+        "tileHeadlineLong": "Erste-Hilfe-Tasche Regenbogen 34tlg"
+      },
+      "trackingData": {
+        "brand": "littleplan",
+        "categories": [
+          "Babypflege Zubehör"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 25.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.803,
+        "ratingCount": 66
+      }
+    }
+  },
+  {
+    "gtin": 4008600333142,
+    "dan": 1557599,
+    "brandName": "NUK",
+    "title": "Deckel für Evolution Magic Cup, 2 St",
+    "tileData": {
+      "a11yLabel": "Marke: NUK; Produktname: Deckel für Evolution Magic Cup, 2 St; Preis: 3,95 €; Grundpreis: 2 St (1,98 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "NUK"
+      },
+      "dan": 1557599,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4008600333142,
+      "images": [
+        {
+          "alt": "Deckel für Evolution Magic Cup NUK",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747435151/assets/pas/images/f1f65949-ee42-4b3c-8afb-6544d53b79d8/nuk-deckel-fuer-evolution-magic-cup"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (1,66 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (1,98 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 77,
+        "ratingValue": 4.7273
+      },
+      "self": "/p/d/1557599/nuk-deckel-fuer-evolution-magic-cup",
+      "title": {
+        "tileHeadline": "Deckel für Evolution Magic Cup, 2 St",
+        "tileHeadlineLong": "Deckel für Evolution Magic Cup, 2 St"
+      },
+      "trackingData": {
+        "brand": "NUK",
+        "categories": [
+          "Schnullerketten & Zubehör"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7273,
+        "ratingCount": 77
+      }
+    }
+  },
+  {
+    "gtin": 4070765039313,
+    "dan": 3136163,
+    "brandName": "ebelin",
+    "title": "Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattestäbchen mit bedruckten Papierschäften Motiv-Box, 300 St; Preis: 0,95 €; Grundpreis: 300 St (0,32 € je 100 St); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 3136163,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765039313,
+      "images": [
+        {
+          "alt": "Wattestäbchen mit bedruckten Papierschäften Motiv-Box ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781655359/assets/pas/images/af0875b7-e361-4361-9fd9-885ebad4f17a/ebelin-wattestaebchen-mit-bedruckten-papierschaeften-motiv-box"
+        },
+        {
+          "alt": "Wattestäbchen mit bedruckten Papierschäften Motiv-Box ebelin",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781655334/assets/pas/images/8c2c5fbd-e270-4605-9d5f-7ccf84f616ba/ebelin-wattestaebchen-mit-bedruckten-papierschaeften-motiv-box"
+        },
+        {
+          "alt": "Wattestäbchen mit bedruckten Papierschäften Motiv-Box ebelin",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781655353/assets/pas/images/1b0b4fe2-2fe0-4f20-8a0e-6d68efe5392d/ebelin-wattestaebchen-mit-bedruckten-papierschaeften-motiv-box"
+        },
+        {
+          "alt": "Wattestäbchen mit bedruckten Papierschäften Motiv-Box ebelin",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781655346/assets/pas/images/e56ebc55-7c18-49b3-bee3-9875828f70ba/ebelin-wattestaebchen-mit-bedruckten-papierschaeften-motiv-box"
+        },
+        {
+          "alt": "Wattestäbchen mit bedruckten Papierschäften Motiv-Box ebelin",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781655327/assets/pas/images/b59ed89e-0e91-42c6-830d-4a430daf8ed6/ebelin-wattestaebchen-mit-bedruckten-papierschaeften-motiv-box"
+        },
+        {
+          "alt": "Wattestäbchen mit bedruckten Papierschäften Motiv-Box ebelin",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781655320/assets/pas/images/0b261443-248e-496b-bdb1-c79c4549596a/ebelin-wattestaebchen-mit-bedruckten-papierschaeften-motiv-box"
+        },
+        {
+          "alt": "Wattestäbchen mit bedruckten Papierschäften Motiv-Box ebelin",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781655341/assets/pas/images/b2bcc35c-ff04-438a-a1fa-d260bf32c92e/ebelin-wattestaebchen-mit-bedruckten-papierschaeften-motiv-box"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "300 St (0,27 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "300 St (0,32 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 0,
+        "ratingValue": 0.0
+      },
+      "self": "/p/d/3136163/ebelin-wattestaebchen-mit-bedruckten-papierschaeften-motiv-box",
+      "title": {
+        "tileHeadline": "Wattestäbchen mit bedruckten Papierschäften..., 300 St",
+        "tileHeadlineLong": "Wattestäbchen mit bedruckten Papierschäften..., 300 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 0.0,
+        "ratingCount": 0
+      }
+    }
+  },
+  {
+    "gtin": 5903274000934,
+    "dan": 1612759,
+    "brandName": "NÉONAIL",
+    "title": "Zellulose-Pad 12-lagig, 250 St",
+    "tileData": {
+      "a11yLabel": "Marke: NÉONAIL; Produktname: Zellulose-Pad 12-lagig, 250 St; Preis: 4,95 €; Grundpreis: 250 St (1,98 € je 100 St)",
+      "brand": {
+        "name": "NÉONAIL"
+      },
+      "dan": 1612759,
+      "gtin": 5903274000934,
+      "images": [
+        {
+          "alt": "Zellulose-Pad 12-lagig NÉONAIL",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755100609/assets/pas/images/3e2d3d5b-2522-43bd-b2a4-b81799f2cc10/neonail-zellulose-pad-12-lagig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "250 St (1,66 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "250 St (1,98 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 65,
+        "ratingValue": 4.5077
+      },
+      "self": "/p/d/1612759/neonail-zellulose-pad-12-lagig",
+      "title": {
+        "tileHeadline": "Zellulose-Pad 12-lagig, 250 St",
+        "tileHeadlineLong": "Zellulose-Pad 12-lagig, 250 St"
+      },
+      "trackingData": {
+        "brand": "NÉONAIL",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5077,
+        "ratingCount": 65
+      }
+    }
+  },
+  {
+    "gtin": 4066447015553,
+    "dan": 1242980,
+    "brandName": "ebelin",
+    "title": "Wattepads Bio GOTS-zertifiziert, 60 St",
+    "tileData": {
+      "a11yLabel": "Marke: ebelin; Produktname: Wattepads Bio GOTS-zertifiziert, 60 St; Preis: 0,95 €; Grundpreis: 60 St (1,58 € je 100 St); Marke von dm Grafik",
+      "brand": {
+        "name": "ebelin"
+      },
+      "dan": 1242980,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447015553,
+      "images": [
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475483/assets/pas/images/68e5c915-cd06-45a5-906c-d56ef45dd0ac/ebelin-wattepads-bio-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782086824/assets/pas/images/88d482ad-7a1a-4658-a797-2072716b9188/ebelin-wattepads-bio-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747475342/assets/pas/images/cd85f945-b99e-4842-b8d4-0f41bb3cb04e/ebelin-wattepads-bio-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782086828/assets/pas/images/e7b1ebea-a679-40ca-b198-be8709c2ecb7/ebelin-wattepads-bio-gots-zertifiziert"
+        },
+        {
+          "alt": "Wattepads Bio GOTS-zertifiziert ebelin",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755815961/assets/pas/images/efcd1b25-0bad-4f23-871c-a8cf2613c2d6/ebelin-wattepads-bio-gots-zertifiziert"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,80 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (1,33 € je 100 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,95 €"
+          }
+        },
+        "tileInfos": [
+          "60 St (1,58 € je 100 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 88,
+        "ratingValue": 4.3977
+      },
+      "self": "/p/d/1242980/ebelin-wattepads-bio-gots-zertifiziert",
+      "title": {
+        "tileHeadline": "Wattepads Bio GOTS-zertifiziert, 60 St",
+        "tileHeadlineLong": "Wattepads Bio GOTS-zertifiziert, 60 St"
+      },
+      "trackingData": {
+        "brand": "ebelin",
+        "categories": [
+          "Abschminkprodukte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.95
+      },
+      "variants": {
+        "showMore": {
+          "text": "+1 weitere Größe",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3977,
+        "ratingCount": 88
+      }
+    }
+  },
+  {
+    "gtin": 3574661336640,
+    "dan": 1496215,
+    "brandName": "Neutrogena",
+    "title": "Gesichtswasser Anti-Mitesser, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Neutrogena; Produktname: Gesichtswasser Anti-Mitesser, 200 ml; Preis: 3,95 €; Grundpreis: 0,2 l (19,75 € je 1 l)",
+      "brand": {
+        "name": "Neutrogena"
+      },
+      "dan": 1496215,
+      "gtin": 3574661336640,
+      "images": [
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412166/assets/pas/images/74b50b8d-a46e-46b1-ba92-59a9a6cc55a3/neutrogena-gesichtswasser-anti-mitesser"
+        },
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412053/assets/pas/images/2eb1c0b0-c1cc-46f2-a308-1d7f832c2c54/neutrogena-gesichtswasser-anti-mitesser"
+        },
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411937/assets/pas/images/0153d79a-5081-4b32-8676-605a40d1081c/neutrogena-gesichtswasser-anti-mitesser"
+        },
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411930/assets/pas/images/84dc0099-b756-4022-9fbc-a33390095190/neutrogena-gesichtswasser-anti-mitesser"
+        },
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412175/assets/pas/images/f166e8b0-5bec-4696-909f-c5ddd4283ec3/neutrogena-gesichtswasser-anti-mitesser"
+        },
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412058/assets/pas/images/f0819e11-f3e2-46e5-a8e0-daae1443606d/neutrogena-gesichtswasser-anti-mitesser"
+        },
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411912/assets/pas/images/b7dc5a0b-9b53-41a7-a800-c6984d3e0a36/neutrogena-gesichtswasser-anti-mitesser"
+        },
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747411917/assets/pas/images/52400d65-3ae1-4c06-8564-b176fa6317b3/neutrogena-gesichtswasser-anti-mitesser"
+        },
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412058/assets/pas/images/1c74b396-a88d-42cb-a495-01343386d118/neutrogena-gesichtswasser-anti-mitesser"
+        },
+        {
+          "alt": "Gesichtswasser Anti-Mitesser Neutrogena",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412180/assets/pas/images/30c3c975-a4b2-48e9-8423-fd8390ea727e/neutrogena-gesichtswasser-anti-mitesser"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (16,60 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (19,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 536,
+        "ratingValue": 3.9086
+      },
+      "self": "/p/d/1496215/neutrogena-gesichtswasser-anti-mitesser",
+      "title": {
+        "tileHeadline": "Gesichtswasser Anti-Mitesser, 200 ml",
+        "tileHeadlineLong": "Gesichtswasser Anti-Mitesser, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Neutrogena",
+        "categories": [
+          "Gesichtswasser"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9086,
+        "ratingCount": 536
+      }
+    }
+  }
+]

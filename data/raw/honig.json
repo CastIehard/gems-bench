@@ -1,0 +1,2837 @@
+[
+  {
+    "gtin": 4067796063790,
+    "dan": 1546636,
+    "brandName": "dmBio",
+    "title": "Blütenhonig aus Deutschland, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Blütenhonig aus Deutschland, 500 g; Preis: 6,95 €; Grundpreis: 0,5 kg (13,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1546636,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796063790,
+      "images": [
+        {
+          "alt": "Blütenhonig aus Deutschland dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486949/assets/pas/images/8f786a87-73b0-4bba-8a73-5d9f984453c5/dmbio-bluetenhonig-aus-deutschland"
+        },
+        {
+          "alt": "Blütenhonig aus Deutschland dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486689/assets/pas/images/1fe3c37d-b5e1-4377-9385-29c7aa012ec1/dmbio-bluetenhonig-aus-deutschland"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,50 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (12,99 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "6,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (13,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 153,
+        "ratingValue": 4.7124
+      },
+      "self": "/p/d/1546636/dmbio-bluetenhonig-aus-deutschland",
+      "title": {
+        "tileHeadline": "Blütenhonig aus Deutschland, 500 g",
+        "tileHeadlineLong": "Blütenhonig aus Deutschland, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 6.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7124,
+        "ratingCount": 153
+      }
+    }
+  },
+  {
+    "gtin": 4070765018820,
+    "dan": 3119157,
+    "brandName": "dmBio",
+    "title": "Lavendelhonig, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Lavendelhonig, 250 g; Preis: 4,45 €; Grundpreis: 0,25 kg (17,80 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3119157,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765018820,
+      "images": [
+        {
+          "alt": "Lavendelhonig dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773181878/assets/pas/images/04f573f1-1c39-41a4-9b28-4b8d7d0928e0/dmbio-lavendelhonig"
+        },
+        {
+          "alt": "Lavendelhonig dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773181885/assets/pas/images/f4f256df-4788-46ab-af69-02abd0e5b949/dmbio-lavendelhonig"
+        },
+        {
+          "alt": "Lavendelhonig dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773181891/assets/pas/images/c95c56f2-4a2f-4192-83b9-8fd174fa7c29/dmbio-lavendelhonig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (16,64 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (17,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 31,
+        "ratingValue": 4.4194
+      },
+      "self": "/p/d/3119157/dmbio-lavendelhonig",
+      "title": {
+        "tileHeadline": "Lavendelhonig, 250 g",
+        "tileHeadlineLong": "Lavendelhonig, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4194,
+        "ratingCount": 31
+      }
+    }
+  },
+  {
+    "gtin": 4066447413540,
+    "dan": 1638681,
+    "brandName": "dmBio",
+    "title": "Griechischer Honig, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Griechischer Honig, 250 g; Preis: 3,95 €; Grundpreis: 0,25 kg (15,80 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1638681,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447413540,
+      "images": [
+        {
+          "alt": "Griechischer Honig dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755004537/assets/pas/images/213b1034-be93-47ab-9e97-f10f2d710b49/dmbio-griechischer-honig"
+        },
+        {
+          "alt": "Griechischer Honig dmBio",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755004536/assets/pas/images/5f989249-f2cb-422c-b760-3e6edfae124b/dmbio-griechischer-honig"
+        },
+        {
+          "alt": "Griechischer Honig dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755004538/assets/pas/images/d812f73b-ca48-44b8-b2f0-a5569f7d71e9/dmbio-griechischer-honig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (14,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (15,80 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 4.6154
+      },
+      "self": "/p/d/1638681/dmbio-griechischer-honig",
+      "title": {
+        "tileHeadline": "Griechischer Honig, 250 g",
+        "tileHeadlineLong": "Griechischer Honig, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6154,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4067796162172,
+    "dan": 1449178,
+    "brandName": "dmBio",
+    "title": "Blütenhonig in der Tube, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Blütenhonig in der Tube, 350 g; Preis: 2,55 €; Grundpreis: 0,35 kg (7,29 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1449178,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796162172,
+      "images": [
+        {
+          "alt": "Blütenhonig in der Tube dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487959/assets/pas/images/29d29cd8-c3e3-46a3-973d-4c3879082996/dmbio-bluetenhonig-in-der-tube"
+        },
+        {
+          "alt": "Blütenhonig in der Tube dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487960/assets/pas/images/79cdcfd6-d583-4f3e-b2a0-1c78ee45f3bd/dmbio-bluetenhonig-in-der-tube"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,38 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (6,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,55 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (7,29 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 186,
+        "ratingValue": 4.6935
+      },
+      "self": "/p/d/1449178/dmbio-bluetenhonig-in-der-tube",
+      "title": {
+        "tileHeadline": "Blütenhonig in der Tube, 350 g",
+        "tileHeadlineLong": "Blütenhonig in der Tube, 350 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6935,
+        "ratingCount": 186
+      }
+    }
+  },
+  {
+    "gtin": 4067796162042,
+    "dan": 1449171,
+    "brandName": "dmBio",
+    "title": "Waldhonig, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Waldhonig, 500 g; Preis: 4,95 €; Grundpreis: 0,5 kg (9,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1449171,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796162042,
+      "images": [
+        {
+          "alt": "Waldhonig dmBio",
+          "backgroundColor": "#F9F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488401/assets/pas/images/f39568f4-6970-45fe-b8f7-b24322697be2/dmbio-waldhonig"
+        },
+        {
+          "alt": "Waldhonig dmBio",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488132/assets/pas/images/fc211fd0-0104-4452-9be7-ca5184d341dc/dmbio-waldhonig"
+        },
+        {
+          "alt": "Waldhonig dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488361/assets/pas/images/15614b9e-985f-45ce-849a-28cdc565bed5/dmbio-waldhonig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (9,25 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (9,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 167,
+        "ratingValue": 4.5868
+      },
+      "self": "/p/d/1449171/dmbio-waldhonig",
+      "title": {
+        "tileHeadline": "Waldhonig, 500 g",
+        "tileHeadlineLong": "Waldhonig, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5655,
+        "ratingCount": 168
+      }
+    }
+  },
+  {
+    "gtin": 4067796162158,
+    "dan": 1449184,
+    "brandName": "dmBio",
+    "title": "Vielblütenhonig, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Vielblütenhonig, 500 g; Preis: 3,65 €; Grundpreis: 0,5 kg (7,30 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1449184,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796162158,
+      "images": [
+        {
+          "alt": "Vielblütenhonig dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488040/assets/pas/images/fef7fe64-0d84-42ea-9cf7-df24be6a23aa/dmbio-vielbluetenhonig"
+        },
+        {
+          "alt": "Vielblütenhonig dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488261/assets/pas/images/31786d84-d670-411e-bc5a-0f48a86f0b05/dmbio-vielbluetenhonig"
+        },
+        {
+          "alt": "Vielblütenhonig dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488291/assets/pas/images/ba8b1f21-24d2-48e6-935f-95bb484ff49f/dmbio-vielbluetenhonig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,41 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (7,30 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 221,
+        "ratingValue": 4.733
+      },
+      "self": "/p/d/1449184/dmbio-vielbluetenhonig",
+      "title": {
+        "tileHeadline": "Vielblütenhonig, 500 g",
+        "tileHeadlineLong": "Vielblütenhonig, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.733,
+        "ratingCount": 221
+      }
+    }
+  },
+  {
+    "gtin": 4260248063892,
+    "dan": 1559917,
+    "brandName": "Xucker",
+    "title": "Fruchtaufstrich, Erdbeere mit Xylit, 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: Xucker; Produktname: Fruchtaufstrich, Erdbeere mit Xylit, 220 g; Preis: 3,95 €; Grundpreis: 0,22 kg (17,95 € je 1 kg)",
+      "brand": {
+        "name": "Xucker"
+      },
+      "dan": 1559917,
+      "gtin": 4260248063892,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Erdbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491624/assets/pas/images/555e9a51-6e3f-42ed-b770-bdfa66344f20/xucker-fruchtaufstrich-erdbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Erdbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781658938/assets/pas/images/977bb07e-b431-4ecc-8856-6e20ad34439f/xucker-fruchtaufstrich-erdbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Erdbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492022/assets/pas/images/9e728cce-807e-463c-9567-984906c2fade/xucker-fruchtaufstrich-erdbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Erdbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491870/assets/pas/images/092ee9fd-19c1-429e-8557-24c268a95090/xucker-fruchtaufstrich-erdbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Erdbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491629/assets/pas/images/01b36045-f949-48a7-b4b2-7cd07a294567/xucker-fruchtaufstrich-erdbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Erdbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491624/assets/pas/images/d76f905f-55fb-4bec-b47d-86cb470e67e3/xucker-fruchtaufstrich-erdbeere-mit-xylit"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (16,78 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (17,95 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.7541
+      },
+      "self": "/p/d/1559917/xucker-fruchtaufstrich-erdbeere-mit-xylit",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Erdbeere mit Xylit, 220 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Erdbeere mit Xylit, 220 g"
+      },
+      "trackingData": {
+        "brand": "Xucker",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7541,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 4260137741535,
+    "dan": 1397144,
+    "brandName": "Frusano",
+    "title": "Fruchtaufstrich, Rote Johannisbeere, 235 g",
+    "tileData": {
+      "a11yLabel": "Marke: Frusano; Produktname: Fruchtaufstrich, Rote Johannisbeere, 235 g; Preis: 4,15 €; Grundpreis: 0,235 kg (17,66 € je 1 kg)",
+      "brand": {
+        "name": "Frusano"
+      },
+      "dan": 1397144,
+      "gtin": 4260137741535,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Rote Johannisbeere Frusano",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491502/assets/pas/images/f8054f66-5ca7-4455-97d7-523b13b365e7/frusano-fruchtaufstrich-rote-johannisbeere"
+        },
+        {
+          "alt": "Fruchtaufstrich, Rote Johannisbeere Frusano",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786407/assets/pas/images/be796523-79b9-466d-9280-5fde92140479/frusano-fruchtaufstrich-rote-johannisbeere"
+        },
+        {
+          "alt": "Fruchtaufstrich, Rote Johannisbeere Frusano",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759786396/assets/pas/images/63cf4ab1-3080-4de8-8ff6-1c09df9e9334/frusano-fruchtaufstrich-rote-johannisbeere"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,88 €"
+          }
+        },
+        "tileInfos": [
+          "0,235 kg (16,50 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,235 kg (17,66 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 49,
+        "ratingValue": 4.6327
+      },
+      "self": "/p/d/1397144/frusano-fruchtaufstrich-rote-johannisbeere",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Rote Johannisbeere, 235 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Rote Johannisbeere, 235 g"
+      },
+      "trackingData": {
+        "brand": "Frusano",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6327,
+        "ratingCount": 49
+      }
+    }
+  },
+  {
+    "gtin": 4260248063908,
+    "dan": 1559922,
+    "brandName": "Xucker",
+    "title": "Fruchtaufstrich, Himbeere mit Xylit, 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: Xucker; Produktname: Fruchtaufstrich, Himbeere mit Xylit, 220 g; Preis: 3,95 €; Grundpreis: 0,22 kg (17,95 € je 1 kg)",
+      "brand": {
+        "name": "Xucker"
+      },
+      "dan": 1559922,
+      "gtin": 4260248063908,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Himbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492010/assets/pas/images/7dc0215c-f0bf-4aac-ac18-c9eb92679856/xucker-fruchtaufstrich-himbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Himbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781655660/assets/pas/images/3d63af57-47ba-4c32-b9bd-e2a5125bada7/xucker-fruchtaufstrich-himbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Himbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491628/assets/pas/images/1483715b-ce10-43e8-ab6f-4f1a4a73f30e/xucker-fruchtaufstrich-himbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Himbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491863/assets/pas/images/7522d703-41e5-42df-8479-6cd83db04a91/xucker-fruchtaufstrich-himbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Himbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747491867/assets/pas/images/6a141fdd-81e9-4eb3-9d05-59691af5a2bb/xucker-fruchtaufstrich-himbeere-mit-xylit"
+        },
+        {
+          "alt": "Fruchtaufstrich, Himbeere mit Xylit Xucker",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492025/assets/pas/images/aa70f9f9-12a5-4a43-aada-dc53a886e2b7/xucker-fruchtaufstrich-himbeere-mit-xylit"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (16,78 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (17,95 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 100,
+        "ratingValue": 4.66
+      },
+      "self": "/p/d/1559922/xucker-fruchtaufstrich-himbeere-mit-xylit",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Himbeere mit Xylit, 220 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Himbeere mit Xylit, 220 g"
+      },
+      "trackingData": {
+        "brand": "Xucker",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.66,
+        "ratingCount": 100
+      }
+    }
+  },
+  {
+    "gtin": 4016249074289,
+    "dan": 3129901,
+    "brandName": "ALLOS",
+    "title": "Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g; Preis: 3,15 €; Grundpreis: 0,2 kg (15,75 € je 1 kg)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 3129901,
+      "gtin": 4016249074289,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Mango 75% Frucht ALLOS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773705981/assets/pas/images/8f746889-53d6-46ac-a2fb-2f848be4dc41/allos-fruchtaufstrich-frucht-pur-mango-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Mango 75% Frucht ALLOS",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773705909/assets/pas/images/305a9f1a-7c49-46f4-92c9-ce2ca6d1aaf6/allos-fruchtaufstrich-frucht-pur-mango-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Mango 75% Frucht ALLOS",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773705965/assets/pas/images/ca452d80-e422-480b-bedf-5458c3f7bf0c/allos-fruchtaufstrich-frucht-pur-mango-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Mango 75% Frucht ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773705930/assets/pas/images/c3dca1d3-a7e8-4de4-900c-e91e2821e850/allos-fruchtaufstrich-frucht-pur-mango-75-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (14,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (15,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 18,
+        "ratingValue": 4.1667
+      },
+      "self": "/p/d/3129901/allos-fruchtaufstrich-frucht-pur-mango-75-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Frucht Pur Mango 75% Frucht, 200 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1667,
+        "ratingCount": 18
+      }
+    }
+  },
+  {
+    "gtin": 4016249074296,
+    "dan": 3121056,
+    "brandName": "ALLOS",
+    "title": "Fruchtaufstrich, Frucht Pur Heidelbeere 75% Frucht, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Fruchtaufstrich, Frucht Pur Heidelbeere 75% Frucht, 200 g; Preis: 3,15 €; Grundpreis: 0,2 kg (15,75 € je 1 kg)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 3121056,
+      "gtin": 4016249074296,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Heidelbeere 75% Frucht ALLOS",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447751/assets/pas/images/bd63a32e-1802-4f12-9c4c-3548636ba92c/allos-fruchtaufstrich-frucht-pur-heidelbeere-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Heidelbeere 75% Frucht ALLOS",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447704/assets/pas/images/c75fc2db-189e-4e34-8768-ffaa0dcbeda5/allos-fruchtaufstrich-frucht-pur-heidelbeere-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Heidelbeere 75% Frucht ALLOS",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447736/assets/pas/images/dcac7b05-8bd3-46f0-a698-7bec17606006/allos-fruchtaufstrich-frucht-pur-heidelbeere-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Heidelbeere 75% Frucht ALLOS",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447720/assets/pas/images/fe28d528-943d-4287-9c6c-46cfdc5efe8a/allos-fruchtaufstrich-frucht-pur-heidelbeere-75-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (14,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (15,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 8,
+        "ratingValue": 4.625
+      },
+      "self": "/p/d/3121056/allos-fruchtaufstrich-frucht-pur-heidelbeere-75-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Frucht Pur Heidelbeere 75% Frucht, 200 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Frucht Pur Heidelbeere 75% Frucht, 200 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.625,
+        "ratingCount": 8
+      }
+    }
+  },
+  {
+    "gtin": 4016249074920,
+    "dan": 3121424,
+    "brandName": "ALLOS",
+    "title": "Fruchtaufstrich, Frucht Pur Erdbeere & Rhabarber 75% Frucht, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Fruchtaufstrich, Frucht Pur Erdbeere & Rhabarber 75% Frucht, 200 g; Preis: 3,15 €; Grundpreis: 0,2 kg (15,75 € je 1 kg); Neues Produkt Grafik, Nur Online Grafik",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 3121424,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4016249074920,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Erdbeere & Rhabarber 75% Frucht ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447698/assets/pas/images/13df947e-a3f3-4f82-9eff-3a8091e92194/allos-fruchtaufstrich-frucht-pur-erdbeere-und-rhabarber-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Erdbeere & Rhabarber 75% Frucht ALLOS",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447651/assets/pas/images/ba49ef6f-cf7a-46ee-b998-f7e5ef577e26/allos-fruchtaufstrich-frucht-pur-erdbeere-und-rhabarber-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Erdbeere & Rhabarber 75% Frucht ALLOS",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447683/assets/pas/images/b47945ae-1565-4181-8ad1-b7fd8325ab98/allos-fruchtaufstrich-frucht-pur-erdbeere-und-rhabarber-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Erdbeere & Rhabarber 75% Frucht ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447668/assets/pas/images/1a0683da-933b-4c6b-94be-6f714223af90/allos-fruchtaufstrich-frucht-pur-erdbeere-und-rhabarber-75-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (14,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (15,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 4.0
+      },
+      "self": "/p/d/3121424/allos-fruchtaufstrich-frucht-pur-erdbeere-und-rhabarber-75-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Frucht Pur Erdbeere & Rhabarber..., 200 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Frucht Pur Erdbeere & Rhabarber..., 200 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4016249074913,
+    "dan": 3121420,
+    "brandName": "ALLOS",
+    "title": "Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g; Preis: 3,15 €; Grundpreis: 0,2 kg (15,75 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 3121420,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4016249074913,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht ALLOS",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447385/assets/pas/images/7ca46d05-9ac3-4adb-9573-b4857c17581b/allos-fruchtaufstrich-frucht-pur-himbeere-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht ALLOS",
+          "backgroundColor": "#F8F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447418/assets/pas/images/cb68b9ab-82b3-4335-86d7-2c29f008bd8f/allos-fruchtaufstrich-frucht-pur-himbeere-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht ALLOS",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447402/assets/pas/images/0e38d116-7663-4b6d-85f0-98d108c85465/allos-fruchtaufstrich-frucht-pur-himbeere-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773447433/assets/pas/images/6f942c1c-53b8-444b-b171-d688586161d0/allos-fruchtaufstrich-frucht-pur-himbeere-75-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (14,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (15,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1,
+        "ratingValue": 4.0
+      },
+      "self": "/p/d/3121420/allos-fruchtaufstrich-frucht-pur-himbeere-75-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Frucht Pur Himbeere 75% Frucht, 200 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0,
+        "ratingCount": 1
+      }
+    }
+  },
+  {
+    "gtin": 8018759000235,
+    "dan": 3142740,
+    "brandName": "LaSelva",
+    "title": "Fruchtaufstrich, Feige, 220 g",
+    "tileData": {
+      "a11yLabel": "Marke: LaSelva; Produktname: Fruchtaufstrich, Feige, 220 g; Preis: 2,45 €; Grundpreis: 0,22 kg (11,14 € je 1 kg); Neues Produkt Grafik",
+      "brand": {
+        "name": "LaSelva"
+      },
+      "dan": 3142740,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 8018759000235,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Feige LaSelva",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779835440/assets/pas/images/3baea6d5-62c4-4469-bc18-ea7666d5ac92/laselva-fruchtaufstrich-feige"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (10,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,22 kg (11,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 3,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/3142740/laselva-fruchtaufstrich-feige",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Feige, 220 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Feige, 220 g"
+      },
+      "trackingData": {
+        "brand": "LaSelva",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 3
+      }
+    }
+  },
+  {
+    "gtin": 4067796111118,
+    "dan": 1058435,
+    "brandName": "dmBio",
+    "title": "Fruchtaufstrich, Erdbeere 75% Frucht, 250 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Fruchtaufstrich, Erdbeere 75% Frucht, 250 g; Preis: 2,25 €; Grundpreis: 0,25 kg (9,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1058435,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796111118,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Erdbeere 75% Frucht dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487512/assets/pas/images/0071cddb-4797-40d6-bf55-9a1734e7c416/dmbio-fruchtaufstrich-erdbeere-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Erdbeere 75% Frucht dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487513/assets/pas/images/8cdbad2f-e74d-4581-9cbb-1cbe02536051/dmbio-fruchtaufstrich-erdbeere-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Erdbeere 75% Frucht dmBio",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487782/assets/pas/images/ebcbcf01-e24d-499e-baae-978d5787090b/dmbio-fruchtaufstrich-erdbeere-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Erdbeere 75% Frucht dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487577/assets/pas/images/11898eed-e122-4426-8f00-a2a1dfd17e57/dmbio-fruchtaufstrich-erdbeere-75-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (8,41 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 kg (9,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 184,
+        "ratingValue": 4.163
+      },
+      "self": "/p/d/1058435/dmbio-fruchtaufstrich-erdbeere-75-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Erdbeere 75% Frucht, 250 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Erdbeere 75% Frucht, 250 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.163,
+        "ratingCount": 184
+      }
+    }
+  },
+  {
+    "gtin": 4016249074227,
+    "dan": 3129877,
+    "brandName": "ALLOS",
+    "title": "Fruchtaufstrich, Frucht Pur Pflaume 75% Frucht, 200 g",
+    "tileData": {
+      "a11yLabel": "Marke: ALLOS; Produktname: Fruchtaufstrich, Frucht Pur Pflaume 75% Frucht, 200 g; Preis: 3,15 €; Grundpreis: 0,2 kg (15,75 € je 1 kg)",
+      "brand": {
+        "name": "ALLOS"
+      },
+      "dan": 3129877,
+      "gtin": 4016249074227,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Pflaume 75% Frucht ALLOS",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773703697/assets/pas/images/cf41ba16-8f72-498f-af0f-10ea794201e5/allos-fruchtaufstrich-frucht-pur-pflaume-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Pflaume 75% Frucht ALLOS",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773703650/assets/pas/images/b63f699c-e5de-4d34-b8da-f752cc1a91db/allos-fruchtaufstrich-frucht-pur-pflaume-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Pflaume 75% Frucht ALLOS",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773703682/assets/pas/images/12fb40c7-47fa-447f-9070-22ebe50cbb82/allos-fruchtaufstrich-frucht-pur-pflaume-75-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Frucht Pur Pflaume 75% Frucht ALLOS",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773703667/assets/pas/images/f79901b0-9ea8-4793-8e2f-0d44a719ac01/allos-fruchtaufstrich-frucht-pur-pflaume-75-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,94 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (14,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 kg (15,75 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3129877/allos-fruchtaufstrich-frucht-pur-pflaume-75-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Frucht Pur Pflaume 75% Frucht, 200 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Frucht Pur Pflaume 75% Frucht, 200 g"
+      },
+      "trackingData": {
+        "brand": "ALLOS",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 4058172777875,
+    "dan": 1603479,
+    "brandName": "dmBio",
+    "title": "Fruchtaufstrich, Hagebutte 55% Frucht, 340 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Fruchtaufstrich, Hagebutte 55% Frucht, 340 g; Preis: 1,75 €; Grundpreis: 0,34 kg (5,15 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1603479,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172777875,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Hagebutte 55% Frucht dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747454847/assets/pas/images/a6fb2bcf-ee0a-4a88-bc5b-5fe2ef035afc/dmbio-fruchtaufstrich-hagebutte-55-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Hagebutte 55% Frucht dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747455038/assets/pas/images/9e0295b0-69f6-4aa9-9768-8cf185211edd/dmbio-fruchtaufstrich-hagebutte-55-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Hagebutte 55% Frucht dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747454894/assets/pas/images/a6b974c9-79c8-44d9-af76-3461bca0f8c1/dmbio-fruchtaufstrich-hagebutte-55-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (4,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (5,15 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 116,
+        "ratingValue": 4.6638
+      },
+      "self": "/p/d/1603479/dmbio-fruchtaufstrich-hagebutte-55-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Hagebutte 55% Frucht, 340 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Hagebutte 55% Frucht, 340 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6638,
+        "ratingCount": 116
+      }
+    }
+  },
+  {
+    "gtin": 4058172777837,
+    "dan": 1603440,
+    "brandName": "dmBio",
+    "title": "Fruchtaufstrich, Aprikose 55% Frucht, 340 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Fruchtaufstrich, Aprikose 55% Frucht, 340 g; Preis: 1,75 €; Grundpreis: 0,34 kg (5,15 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1603440,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172777837,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Aprikose 55% Frucht dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747454618/assets/pas/images/12dbc0fb-b476-457b-920d-13cd6a315f09/dmbio-fruchtaufstrich-aprikose-55-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Aprikose 55% Frucht dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747454974/assets/pas/images/afdc2dd5-4b93-4dbc-82cc-769d84670264/dmbio-fruchtaufstrich-aprikose-55-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Aprikose 55% Frucht dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747454974/assets/pas/images/302e081e-5840-4644-a1d0-397c9d30246f/dmbio-fruchtaufstrich-aprikose-55-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (4,81 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (5,15 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 92,
+        "ratingValue": 4.6739
+      },
+      "self": "/p/d/1603440/dmbio-fruchtaufstrich-aprikose-55-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Aprikose 55% Frucht, 340 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Aprikose 55% Frucht, 340 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6739,
+        "ratingCount": 92
+      }
+    }
+  },
+  {
+    "gtin": 4058172777936,
+    "dan": 1603447,
+    "brandName": "dmBio",
+    "title": "Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g; Preis: 2,15 €; Grundpreis: 0,34 kg (6,32 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1603447,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4058172777936,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Waldfrucht 55% Frucht dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747454782/assets/pas/images/8366b8a8-710e-4fe7-923c-dc5118a85b1b/dmbio-fruchtaufstrich-waldfrucht-55-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Waldfrucht 55% Frucht dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747454823/assets/pas/images/01cbf203-6fd4-4659-b42a-ec5ab57733a9/dmbio-fruchtaufstrich-waldfrucht-55-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Waldfrucht 55% Frucht dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747454974/assets/pas/images/99235e0a-d6c9-4ab0-87e4-58542ca4ec0e/dmbio-fruchtaufstrich-waldfrucht-55-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,01 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (5,91 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (6,32 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.7745
+      },
+      "self": "/p/d/1603447/dmbio-fruchtaufstrich-waldfrucht-55-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Waldfrucht 55% Frucht, 340 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7745,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 4067796010817,
+    "dan": 1603442,
+    "brandName": "dmBio",
+    "title": "Fruchtaufstrich, Himbeere 55% Frucht, 340 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Fruchtaufstrich, Himbeere 55% Frucht, 340 g; Preis: 2,25 €; Grundpreis: 0,34 kg (6,62 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1603442,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796010817,
+      "images": [
+        {
+          "alt": "Fruchtaufstrich, Himbeere 55% Frucht dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486738/assets/pas/images/9fd89d11-c246-468d-a985-33b0932bf479/dmbio-fruchtaufstrich-himbeere-55-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Himbeere 55% Frucht dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486991/assets/pas/images/aac0d9dc-2ede-4a69-9eeb-bae09e8712e2/dmbio-fruchtaufstrich-himbeere-55-prozent-frucht"
+        },
+        {
+          "alt": "Fruchtaufstrich, Himbeere 55% Frucht dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747486993/assets/pas/images/07a503d4-1815-48e8-96a7-a6b7e4974dc1/dmbio-fruchtaufstrich-himbeere-55-prozent-frucht"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (6,19 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 kg (6,62 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 121,
+        "ratingValue": 4.8595
+      },
+      "self": "/p/d/1603442/dmbio-fruchtaufstrich-himbeere-55-prozent-frucht",
+      "title": {
+        "tileHeadline": "Fruchtaufstrich, Himbeere 55% Frucht, 340 g",
+        "tileHeadlineLong": "Fruchtaufstrich, Himbeere 55% Frucht, 340 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Marmelade, Fruchtaufstrich & Honig"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8595,
+        "ratingCount": 121
+      }
+    }
+  },
+  {
+    "gtin": 5061103350473,
+    "dan": 3117359,
+    "brandName": "Wild",
+    "title": "Antitranspirant Deo Roll-on Honey & Cactus Flower, 50 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Wild; Produktname: Antitranspirant Deo Roll-on Honey & Cactus Flower, 50 ml; Preis: 15,95 €; Grundpreis: 0,05 l (319,00 € je 1 l)",
+      "brand": {
+        "name": "Wild"
+      },
+      "dan": 3117359,
+      "gtin": 5061103350473,
+      "images": [
+        {
+          "alt": "Antitranspirant Deo Roll-on Honey & Cactus Flower Wild",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777933372/assets/pas/images/10e032a6-472e-430a-b374-425bb7683631/wild-antitranspirant-deo-roll-on-honey-und-cactus-flower"
+        },
+        {
+          "alt": "Antitranspirant Deo Roll-on Honey & Cactus Flower Wild",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777933380/assets/pas/images/b159eb9e-e5dc-4d0d-b43c-14c3291e4f10/wild-antitranspirant-deo-roll-on-honey-und-cactus-flower"
+        },
+        {
+          "alt": "Antitranspirant Deo Roll-on Honey & Cactus Flower Wild",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777933393/assets/pas/images/9766c9e4-b98a-4e75-9354-50bba6976777/wild-antitranspirant-deo-roll-on-honey-und-cactus-flower"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,40 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (268,07 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,05 l (319,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 4.4333
+      },
+      "self": "/p/d/3117359/wild-antitranspirant-deo-roll-on-honey-und-cactus-flower",
+      "title": {
+        "tileHeadline": "Antitranspirant Deo Roll-on Honey & Cactus Flower, 50 ml",
+        "tileHeadlineLong": "Antitranspirant Deo Roll-on Honey & Cactus Flower, 50 ml"
+      },
+      "trackingData": {
+        "brand": "Wild",
+        "categories": [
+          "Deo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 15.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4333,
+        "ratingCount": 30
+      }
+    }
+  },
+  {
+    "gtin": 5412533420128,
+    "dan": 1631241,
+    "brandName": "ECOVER",
+    "title": "Woll & Feinwaschmittel flüssig Wasserlilie & Honigmelone, 22 Wl",
+    "tileData": {
+      "a11yLabel": "Marke: ECOVER; Produktname: Woll & Feinwaschmittel flüssig Wasserlilie & Honigmelone, 22 Wl; Preis: 5,25 €; Grundpreis: 22 Wl (0,24 € je 1 Wl); Verpackung größer/gleich 70% Recyclinganteil Grafik; Gefahrenhinweis reizend",
+      "brand": {
+        "name": "ECOVER"
+      },
+      "dan": 1631241,
+      "eyecatchers": [
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 5412533420128,
+      "images": [
+        {
+          "alt": "Woll & Feinwaschmittel flüssig Wasserlilie & Honigmelone ECOVER",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748475211/assets/pas/images/69fcfbe5-9a66-4962-aeea-3562ac16f93a/ecover-woll-und-feinwaschmittel-fluessig-wasserlilie-und-honigmelone"
+        },
+        {
+          "alt": "Woll & Feinwaschmittel flüssig Wasserlilie & Honigmelone ECOVER",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747501701/assets/pas/images/bc60a53f-d603-4cfe-bdfb-1d0f56360690/ecover-woll-und-feinwaschmittel-fluessig-wasserlilie-und-honigmelone"
+        }
+      ],
+      "infoHint": {
+        "icons": [
+          {
+            "alt": "Gefahrenhinweis reizend",
+            "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_200,h_200/v1758706372/assets/mp/ghs-symbols/ghs_ghs07_default/ghs_ghs07_default"
+          }
+        ],
+        "text": "Gefahrenhinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,41 €"
+          }
+        },
+        "tileInfos": [
+          "22 Wl (0,20 € je 1 Wl)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,25 €"
+          }
+        },
+        "tileInfos": [
+          "22 Wl (0,24 € je 1 Wl)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 242,
+        "ratingValue": 4.5868
+      },
+      "self": "/p/d/1631241/ecover-woll-und-feinwaschmittel-fluessig-wasserlilie-und-honigmelone",
+      "title": {
+        "tileHeadline": "Woll & Feinwaschmittel flüssig Wasserlilie &..., 22 Wl",
+        "tileHeadlineLong": "Woll & Feinwaschmittel flüssig Wasserlilie &..., 22 Wl"
+      },
+      "trackingData": {
+        "brand": "ECOVER",
+        "categories": [
+          "Waschmittel"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5868,
+        "ratingCount": 242
+      }
+    }
+  },
+  {
+    "gtin": 4070765022711,
+    "dan": 1616197,
+    "brandName": "dmBio",
+    "title": "Müsli Crunchy, Nuss mit Honig verfeinert, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Müsli Crunchy, Nuss mit Honig verfeinert, 500 g; Preis: 3,45 €; Grundpreis: 0,5 kg (6,90 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1616197,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765022711,
+      "images": [
+        {
+          "alt": "Müsli Crunchy, Nuss mit Honig verfeinert dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779575473/assets/pas/images/4a813d40-0783-49e5-bf6e-7805bbf9a93c/dmbio-muesli-crunchy-nuss-mit-honig-verfeinert"
+        },
+        {
+          "alt": "Müsli Crunchy, Nuss mit Honig verfeinert dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779575477/assets/pas/images/41b4a2e6-35c1-4479-aff1-aed27c098237/dmbio-muesli-crunchy-nuss-mit-honig-verfeinert"
+        },
+        {
+          "alt": "Müsli Crunchy, Nuss mit Honig verfeinert dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779575466/assets/pas/images/b6d30a02-f291-4531-ba46-e65f227520b7/dmbio-muesli-crunchy-nuss-mit-honig-verfeinert"
+        },
+        {
+          "alt": "Müsli Crunchy, Nuss mit Honig verfeinert dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779575469/assets/pas/images/1899051f-5c97-4be8-a287-0cb1150eba53/dmbio-muesli-crunchy-nuss-mit-honig-verfeinert"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (6,90 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 208,
+        "ratingValue": 4.5721
+      },
+      "self": "/p/d/1616197/dmbio-muesli-crunchy-nuss-mit-honig-verfeinert",
+      "title": {
+        "tileHeadline": "Müsli Crunchy, Nuss mit Honig verfeinert, 500 g",
+        "tileHeadlineLong": "Müsli Crunchy, Nuss mit Honig verfeinert, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5721,
+        "ratingCount": 208
+      }
+    }
+  },
+  {
+    "gtin": 5056585802022,
+    "dan": 1459356,
+    "brandName": "Scholl",
+    "title": "Fußmaske Socken ​mit Manuka-Honig (1 Paar), 2 St",
+    "tileData": {
+      "a11yLabel": "Marke: Scholl; Produktname: Fußmaske Socken ​mit Manuka-Honig (1 Paar), 2 St; Preis: 3,95 €; Grundpreis: 2 St (1,98 € je 1 St)",
+      "brand": {
+        "name": "Scholl"
+      },
+      "dan": 1459356,
+      "gtin": 5056585802022,
+      "images": [
+        {
+          "alt": "Fußmaske Socken ​mit Manuka-Honig (1 Paar) Scholl",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1783654476/assets/pas/images/a72ac123-4d9f-466a-8c9d-49c9edbdf8aa/scholl-fussmaske-socken-mit-manuka-honig-1-paar"
+        },
+        {
+          "alt": "Fußmaske Socken ​mit Manuka-Honig (1 Paar) Scholl",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776120399/assets/pas/images/9d867f0a-4ab6-4572-88ab-e77eb58c3928/scholl-fussmaske-socken-mit-manuka-honig-1-paar"
+        },
+        {
+          "alt": "Fußmaske Socken ​mit Manuka-Honig (1 Paar) Scholl",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776120413/assets/pas/images/976e581b-e7e4-4871-a673-8e9fc37963fc/scholl-fussmaske-socken-mit-manuka-honig-1-paar"
+        },
+        {
+          "alt": "Fußmaske Socken ​mit Manuka-Honig (1 Paar) Scholl",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747499151/assets/pas/images/20029e5b-c246-48dc-9036-a7e8cefa00a5/scholl-fussmaske-socken-mit-manuka-honig-1-paar"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,32 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (1,66 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "2 St (1,98 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 4.7213
+      },
+      "self": "/p/d/1459356/scholl-fussmaske-socken-mit-manuka-honig-1-paar",
+      "title": {
+        "tileHeadline": "Fußmaske Socken ​mit Manuka-Honig (1 Paar), 2 St",
+        "tileHeadlineLong": "Fußmaske Socken ​mit Manuka-Honig (1 Paar), 2 St"
+      },
+      "trackingData": {
+        "brand": "Scholl",
+        "categories": [
+          "Fußmasken"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7213,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 3600542461030,
+    "dan": 1670316,
+    "brandName": "Wahre Schätze",
+    "title": "Shampoo Honig Schätze, 400 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Wahre Schätze; Produktname: Shampoo Honig Schätze, 400 ml; Preis: 3,45 €; Grundpreis: 0,4 l (8,63 € je 1 l)",
+      "brand": {
+        "name": "Wahre Schätze"
+      },
+      "dan": 1670316,
+      "gtin": 3600542461030,
+      "images": [
+        {
+          "alt": "Shampoo Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420189/assets/pas/images/67007a63-6878-4cb0-a2e9-e1548d424b50/wahre-schaetze-shampoo-honig-schaetze"
+        },
+        {
+          "alt": "Shampoo Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420062/assets/pas/images/6c198ee0-b19e-4a44-8b53-5b1ad131c9d3/wahre-schaetze-shampoo-honig-schaetze"
+        },
+        {
+          "alt": "Shampoo Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420188/assets/pas/images/6891cfda-d238-43c9-bd69-5c4e9c033a62/wahre-schaetze-shampoo-honig-schaetze"
+        },
+        {
+          "alt": "Shampoo Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420216/assets/pas/images/16aa82a5-db41-4575-8948-ffe6e9a36295/wahre-schaetze-shampoo-honig-schaetze"
+        },
+        {
+          "alt": "Shampoo Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420374/assets/pas/images/d1fcd834-dacc-42d5-814a-5656efd0ed2c/wahre-schaetze-shampoo-honig-schaetze"
+        },
+        {
+          "alt": "Shampoo Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772579442/assets/pas/images/dca9c06a-e15d-4db7-b0f7-c60b825f3aee/wahre-schaetze-shampoo-honig-schaetze"
+        },
+        {
+          "alt": "Shampoo Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772579430/assets/pas/images/4edfa6f7-cf45-43b9-90f1-042c0f0a0763/wahre-schaetze-shampoo-honig-schaetze"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (7,25 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 l (8,63 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 2107,
+        "ratingValue": 4.6398
+      },
+      "self": "/p/d/1670316/wahre-schaetze-shampoo-honig-schaetze",
+      "title": {
+        "tileHeadline": "Shampoo Honig Schätze, 400 ml",
+        "tileHeadlineLong": "Shampoo Honig Schätze, 400 ml"
+      },
+      "trackingData": {
+        "brand": "Wahre Schätze",
+        "categories": [
+          "Shampoo"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+2 weitere Größen",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        }
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6398,
+        "ratingCount": 2107
+      }
+    }
+  },
+  {
+    "gtin": 3600542462150,
+    "dan": 1670334,
+    "brandName": "Wahre Schätze",
+    "title": "Conditioner Honig Schätze, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Wahre Schätze; Produktname: Conditioner Honig Schätze, 250 ml; Preis: 2,75 €; Grundpreis: 0,25 l (11,00 € je 1 l)",
+      "brand": {
+        "name": "Wahre Schätze"
+      },
+      "dan": 1670334,
+      "gtin": 3600542462150,
+      "images": [
+        {
+          "alt": "Conditioner Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1758057036/assets/pas/images/f7d203ba-1804-451d-b685-feb3b65f563d/wahre-schaetze-conditioner-honig-schaetze"
+        },
+        {
+          "alt": "Conditioner Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420374/assets/pas/images/bf3fb8a6-2739-437f-80eb-7236edb0f038/wahre-schaetze-conditioner-honig-schaetze"
+        },
+        {
+          "alt": "Conditioner Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420218/assets/pas/images/e41d6fb7-a00f-4d81-8e9e-b207dd810536/wahre-schaetze-conditioner-honig-schaetze"
+        },
+        {
+          "alt": "Conditioner Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420068/assets/pas/images/e3ddff37-41f1-40cc-9801-2bab7fae42a6/wahre-schaetze-conditioner-honig-schaetze"
+        },
+        {
+          "alt": "Conditioner Honig Schätze  Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420374/assets/pas/images/fe8bdea8-c4ce-4c3d-8f08-5ee0322a94c6/wahre-schaetze-conditioner-honig-schaetze"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,31 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (9,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (11,00 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 1932,
+        "ratingValue": 4.6791
+      },
+      "self": "/p/d/1670334/wahre-schaetze-conditioner-honig-schaetze",
+      "title": {
+        "tileHeadline": "Conditioner Honig Schätze, 250 ml",
+        "tileHeadlineLong": "Conditioner Honig Schätze, 250 ml"
+      },
+      "trackingData": {
+        "brand": "Wahre Schätze",
+        "categories": [
+          "Conditioner"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6791,
+        "ratingCount": 1932
+      }
+    }
+  },
+  {
+    "gtin": 4063528105721,
+    "dan": 3124801,
+    "brandName": "deserved",
+    "title": "Duschschaum Honey Greek Yogurt, 250 ml",
+    "tileData": {
+      "a11yLabel": "Marke: deserved; Produktname: Duschschaum Honey Greek Yogurt, 250 ml; Preis: 5,95 €; Grundpreis: 0,25 l (23,80 € je 1 l); Neues Produkt Grafik",
+      "brand": {
+        "name": "deserved"
+      },
+      "dan": 3124801,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4063528105721,
+      "images": [
+        {
+          "alt": "Duschschaum Honey Greek Yogurt deserved",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1777588905/assets/pas/images/55355c20-d08f-4107-a976-2b90220f43ce/deserved-duschschaum-honey-greek-yogurt"
+        },
+        {
+          "alt": "Duschschaum Honey Greek Yogurt deserved",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782516492/assets/pas/images/d6779d39-7169-4908-9faa-9654213aa5a8/deserved-duschschaum-honey-greek-yogurt"
+        },
+        {
+          "alt": "Duschschaum Honey Greek Yogurt deserved",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782516527/assets/pas/images/5acef229-520e-4fd9-9f2c-8d6ea53a351a/deserved-duschschaum-honey-greek-yogurt"
+        },
+        {
+          "alt": "Duschschaum Honey Greek Yogurt deserved",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776379112/assets/pas/images/843abb11-8b47-405a-b8d3-b0ffb249bce9/deserved-duschschaum-honey-greek-yogurt"
+        },
+        {
+          "alt": "Duschschaum Honey Greek Yogurt deserved",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776379119/assets/pas/images/885875ec-1b04-4778-99c1-da6af4403ea1/deserved-duschschaum-honey-greek-yogurt"
+        },
+        {
+          "alt": "Duschschaum Honey Greek Yogurt deserved",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776379126/assets/pas/images/0b640e8e-41f8-4b0f-aeee-32e7b940a25e/deserved-duschschaum-honey-greek-yogurt"
+        },
+        {
+          "alt": "Duschschaum Honey Greek Yogurt deserved",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776379134/assets/pas/images/43353e63-ec00-4525-b5b2-90a81cc4480f/deserved-duschschaum-honey-greek-yogurt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,00 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (20,00 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,25 l (23,80 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 20,
+        "ratingValue": 3.9
+      },
+      "self": "/p/d/3124801/deserved-duschschaum-honey-greek-yogurt",
+      "title": {
+        "tileHeadline": "Duschschaum Honey Greek Yogurt, 250 ml",
+        "tileHeadlineLong": "Duschschaum Honey Greek Yogurt, 250 ml"
+      },
+      "trackingData": {
+        "brand": "deserved",
+        "categories": [
+          "Duschschaum"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9,
+        "ratingCount": 20
+      }
+    }
+  },
+  {
+    "gtin": 3600542509428,
+    "dan": 1679237,
+    "brandName": "Wahre Schätze",
+    "title": "Haarkur 1-Minute Honig Schätze, 340 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Wahre Schätze; Produktname: Haarkur 1-Minute Honig Schätze, 340 ml; Preis: 4,95 €; Grundpreis: 0,34 l (14,56 € je 1 l)",
+      "brand": {
+        "name": "Wahre Schätze"
+      },
+      "dan": 1679237,
+      "gtin": 3600542509428,
+      "images": [
+        {
+          "alt": "Haarkur 1-Minute Honig Schätze Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420600/assets/pas/images/d8d6a0a6-945e-4a37-b9c9-82c0638787c5/wahre-schaetze-haarkur-1-minute-honig-schaetze"
+        },
+        {
+          "alt": "Haarkur 1-Minute Honig Schätze Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420434/assets/pas/images/3cc22654-97b0-4183-8efb-558ea5a82382/wahre-schaetze-haarkur-1-minute-honig-schaetze"
+        },
+        {
+          "alt": "Haarkur 1-Minute Honig Schätze Wahre Schätze",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420454/assets/pas/images/b331b754-d2d0-4380-b76b-12c7ae6e7e2a/wahre-schaetze-haarkur-1-minute-honig-schaetze"
+        },
+        {
+          "alt": "Haarkur 1-Minute Honig Schätze Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420461/assets/pas/images/efc7fc3b-d52e-45ae-a457-03d61d366a57/wahre-schaetze-haarkur-1-minute-honig-schaetze"
+        },
+        {
+          "alt": "Haarkur 1-Minute Honig Schätze Wahre Schätze",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420288/assets/pas/images/d8bc1cec-86df-4d4d-9f7c-3136833cce72/wahre-schaetze-haarkur-1-minute-honig-schaetze"
+        },
+        {
+          "alt": "Haarkur 1-Minute Honig Schätze Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420461/assets/pas/images/e8344a0b-a059-4250-b32e-0cc82a32d7b0/wahre-schaetze-haarkur-1-minute-honig-schaetze"
+        },
+        {
+          "alt": "Haarkur 1-Minute Honig Schätze Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420434/assets/pas/images/e859496c-fa93-4822-8f1c-efda150310ce/wahre-schaetze-haarkur-1-minute-honig-schaetze"
+        },
+        {
+          "alt": "Haarkur 1-Minute Honig Schätze Wahre Schätze",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747420461/assets/pas/images/7b371f57-c6c5-4842-9aad-47d29c1a3fec/wahre-schaetze-haarkur-1-minute-honig-schaetze"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,16 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 l (12,24 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,34 l (14,56 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 293,
+        "ratingValue": 4.8191
+      },
+      "self": "/p/d/1679237/wahre-schaetze-haarkur-1-minute-honig-schaetze",
+      "title": {
+        "tileHeadline": "Haarkur 1-Minute Honig Schätze, 340 ml",
+        "tileHeadlineLong": "Haarkur 1-Minute Honig Schätze, 340 ml"
+      },
+      "trackingData": {
+        "brand": "Wahre Schätze",
+        "categories": [
+          "Haarkur & Haarmaske"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8191,
+        "ratingCount": 293
+      }
+    }
+  },
+  {
+    "gtin": 4250752202962,
+    "dan": 1592674,
+    "brandName": "Abtei",
+    "title": "Kinder Hustensaft Honig Eibisch, 120 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Abtei; Produktname: Kinder Hustensaft Honig Eibisch, 120 ml; Rechtliche Kategorie: Medizinprodukt; Preis: 5,75 €; Grundpreis: 0,12 l (47,92 € je 1 l)",
+      "brand": {
+        "name": "Abtei"
+      },
+      "dan": 1592674,
+      "gtin": 4250752202962,
+      "images": [
+        {
+          "alt": "Kinder Hustensaft Honig Eibisch Abtei",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490332/assets/pas/images/17e0f2e1-3f7d-4e23-8dd5-4822bb8a406e/abtei-kinder-hustensaft-honig-eibisch"
+        },
+        {
+          "alt": "Kinder Hustensaft Honig Eibisch Abtei",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747490110/assets/pas/images/92e8247d-d1ca-4517-be38-acd8a00b3198/abtei-kinder-hustensaft-honig-eibisch"
+        },
+        {
+          "alt": "Kinder Hustensaft Honig Eibisch Abtei",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747489987/assets/pas/images/30151475-0924-4413-b280-1bdc6727d6c9/abtei-kinder-hustensaft-honig-eibisch"
+        },
+        {
+          "alt": "Kinder Hustensaft Honig Eibisch Abtei",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747489987/assets/pas/images/ea65d51f-ec63-4410-849f-2b7efd4608d2/abtei-kinder-hustensaft-honig-eibisch"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,83 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 l (40,27 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,12 l (47,92 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 142,
+        "ratingValue": 4.7042
+      },
+      "self": "/p/d/1592674/abtei-kinder-hustensaft-honig-eibisch",
+      "title": {
+        "subheadline": "Medizinprodukt",
+        "tileHeadline": "Kinder Hustensaft Honig Eibisch, 120 ml",
+        "tileHeadlineLong": "Kinder Hustensaft Honig Eibisch, 120 ml"
+      },
+      "trackingData": {
+        "brand": "Abtei",
+        "categories": [
+          "Husten"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7042,
+        "ratingCount": 142
+      }
+    }
+  },
+  {
+    "gtin": 3574661643014,
+    "dan": 1640769,
+    "brandName": "Penaten",
+    "title": "Seifenstück mit Babyöl & Honig, 90 g",
+    "tileData": {
+      "a11yLabel": "Marke: Penaten; Produktname: Seifenstück mit Babyöl & Honig, 90 g; Preis: 1,15 €; Grundpreis: 0,09 kg (12,78 € je 1 kg)",
+      "brand": {
+        "name": "Penaten"
+      },
+      "dan": 1640769,
+      "gtin": 3574661643014,
+      "images": [
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412498/assets/pas/images/11bbe004-af9c-4bb5-8c0e-db2491c872a3/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412280/assets/pas/images/ff8abb35-b2e2-460a-ad66-8095e438f479/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412390/assets/pas/images/9b2aea4e-148b-46b3-a4e0-bd7850012592/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412223/assets/pas/images/349ab92c-789a-46f6-8cc3-11666886462b/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747606309/assets/pas/images/b8de202a-57fe-4c84-856c-39e0ebf05dcd/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747606296/assets/pas/images/b2edc2ae-8acc-492f-b3b8-d2d7858e49ce/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747606291/assets/pas/images/d3216666-2ae7-48a9-8e7d-7a9f02d8d51d/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747606300/assets/pas/images/3bac1237-ed94-4fc9-a06c-a88cbd7ba09a/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747606305/assets/pas/images/fe6837eb-65c0-46ff-a278-f3173fa6101d/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747606288/assets/pas/images/8cd0f555-2595-4dd6-a7cd-9a7fdfa83476/penaten-seifenstueck-mit-babyoel-und-honig"
+        },
+        {
+          "alt": "Seifenstück mit Babyöl & Honig Penaten",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747412225/assets/pas/images/f23e51d5-2250-4a14-8d66-5788ad73f5fc/penaten-seifenstueck-mit-babyoel-und-honig"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,97 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (10,74 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,09 kg (12,78 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 80,
+        "ratingValue": 4.5375
+      },
+      "self": "/p/d/1640769/penaten-seifenstueck-mit-babyoel-und-honig",
+      "title": {
+        "tileHeadline": "Seifenstück mit Babyöl & Honig, 90 g",
+        "tileHeadlineLong": "Seifenstück mit Babyöl & Honig, 90 g"
+      },
+      "trackingData": {
+        "brand": "Penaten",
+        "categories": [
+          "Babyshampoo, Badezusätze & Co."
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5375,
+        "ratingCount": 80
+      }
+    }
+  }
+]

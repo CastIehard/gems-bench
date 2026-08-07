@@ -1,0 +1,2707 @@
+[
+  {
+    "gtin": 4066447893519,
+    "dan": 3087852,
+    "brandName": "Sportness",
+    "title": "Proteinpulver, Matcha Latte Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinpulver, Matcha Latte Geschmack, 300 g; Preis: 11,95 €; Grundpreis: 0,3 kg (39,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3087852,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447893519,
+      "images": [
+        {
+          "alt": "Proteinpulver, Matcha Latte Geschmack Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766531542/assets/pas/images/7b6f9444-560c-4cb2-8d47-b40a00b32f73/sportness-proteinpulver-matcha-latte-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Matcha Latte Geschmack Sportness",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1768353821/assets/pas/images/595cd58c-dded-44ce-9bf7-448304b6dadd/sportness-proteinpulver-matcha-latte-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Matcha Latte Geschmack Sportness",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766531548/assets/pas/images/d4ffa223-cc3a-4124-9b70-5baa653869fb/sportness-proteinpulver-matcha-latte-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Matcha Latte Geschmack Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766531537/assets/pas/images/5ff0795b-8fef-4000-9c26-d59227b0aeca/sportness-proteinpulver-matcha-latte-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (37,22 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (39,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 298,
+        "ratingValue": 4.5671
+      },
+      "self": "/p/d/3087852/sportness-proteinpulver-matcha-latte-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Matcha Latte Geschmack, 300 g",
+        "tileHeadlineLong": "Proteinpulver, Matcha Latte Geschmack, 300 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 11.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5671,
+        "ratingCount": 298
+      }
+    }
+  },
+  {
+    "gtin": 4067796180220,
+    "dan": 1623174,
+    "brandName": "Sportness",
+    "title": "Proteinpulver, Protein Shake Vegan Schoko Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinpulver, Protein Shake Vegan Schoko Geschmack, 300 g; Preis: 5,95 €; Grundpreis: 0,3 kg (19,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1623174,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796180220,
+      "images": [
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan Schoko Geschmack Sportness",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762555334/assets/pas/images/0befd192-d802-4429-b10c-957d4ec86e41/sportness-proteinpulver-protein-shake-vegan-schoko-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan Schoko Geschmack Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762555346/assets/pas/images/b40e9a86-445d-4681-9858-f79f0168ff79/sportness-proteinpulver-protein-shake-vegan-schoko-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan Schoko Geschmack Sportness",
+          "backgroundColor": "#F1F9F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762555340/assets/pas/images/979aceda-d111-43a3-add8-f768919defee/sportness-proteinpulver-protein-shake-vegan-schoko-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan Schoko Geschmack Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762555327/assets/pas/images/3ee4b16b-595f-4803-a108-bd1da54c65fb/sportness-proteinpulver-protein-shake-vegan-schoko-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,56 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (18,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (19,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 325,
+        "ratingValue": 3.5692
+      },
+      "self": "/p/d/1623174/sportness-proteinpulver-protein-shake-vegan-schoko-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Protein Shake Vegan Schoko..., 300 g",
+        "tileHeadlineLong": "Proteinpulver, Protein Shake Vegan Schoko..., 300 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5736,
+        "ratingCount": 326
+      }
+    }
+  },
+  {
+    "gtin": 4066447530629,
+    "dan": 1488062,
+    "brandName": "Sportness",
+    "title": "Proteinpulver, Protein Shake Vegan, Vanille Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinpulver, Protein Shake Vegan, Vanille Geschmack, 300 g; Preis: 5,95 €; Grundpreis: 0,3 kg (19,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1488062,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447530629,
+      "images": [
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan, Vanille Geschmack Sportness",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781406850/assets/pas/images/1d22f502-b2f4-477b-b53a-2ac05007e644/sportness-proteinpulver-protein-shake-vegan-vanille-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan, Vanille Geschmack Sportness",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781406861/assets/pas/images/62e515c2-26e9-4b20-a386-109b6fd4e4ca/sportness-proteinpulver-protein-shake-vegan-vanille-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan, Vanille Geschmack Sportness",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781406844/assets/pas/images/aacc278c-0836-488f-a431-b6cdf4efeb84/sportness-proteinpulver-protein-shake-vegan-vanille-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan, Vanille Geschmack Sportness",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781406856/assets/pas/images/5e359845-333e-4e46-b1fd-d838d67bc716/sportness-proteinpulver-protein-shake-vegan-vanille-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,56 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (18,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "5,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (19,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 549,
+        "ratingValue": 3.1311
+      },
+      "self": "/p/d/1488062/sportness-proteinpulver-protein-shake-vegan-vanille-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Protein Shake Vegan, Vanille..., 300 g",
+        "tileHeadlineLong": "Proteinpulver, Protein Shake Vegan, Vanille..., 300 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 5.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.1311,
+        "ratingCount": 549
+      }
+    }
+  },
+  {
+    "gtin": 4260390241629,
+    "dan": 1562887,
+    "brandName": "Naduria",
+    "title": "Whey Proteinpulver, geschmacksneutral, ungesüßt, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: Naduria; Produktname: Whey Proteinpulver, geschmacksneutral, ungesüßt, 300 g; Preis: 10,95 €; Grundpreis: 0,3 kg (36,50 € je 1 kg)",
+      "brand": {
+        "name": "Naduria"
+      },
+      "dan": 1562887,
+      "gtin": 4260390241629,
+      "images": [
+        {
+          "alt": "Whey Proteinpulver, geschmacksneutral, ungesüßt  Naduria",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772749497/assets/pas/images/58185ca8-058b-4f81-a82e-69bc8ead8f7b/naduria-whey-proteinpulver-geschmacksneutral-ungesuesst"
+        },
+        {
+          "alt": "Whey Proteinpulver, geschmacksneutral, ungesüßt  Naduria",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772749513/assets/pas/images/eae5138c-555c-4e9c-9bf6-1366c47ab717/naduria-whey-proteinpulver-geschmacksneutral-ungesuesst"
+        },
+        {
+          "alt": "Whey Proteinpulver, geschmacksneutral, ungesüßt  Naduria",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772749505/assets/pas/images/235da935-6df0-4b82-8e11-daddcca61196/naduria-whey-proteinpulver-geschmacksneutral-ungesuesst"
+        },
+        {
+          "alt": "Whey Proteinpulver, geschmacksneutral, ungesüßt  Naduria",
+          "backgroundColor": "#F1F5F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764901386/assets/pas/images/75b7c007-f68d-4dda-9cac-3712c32595b8/naduria-whey-proteinpulver-geschmacksneutral-ungesuesst"
+        },
+        {
+          "alt": "Whey Proteinpulver, geschmacksneutral, ungesüßt  Naduria",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764901351/assets/pas/images/68c6ce04-cc2f-41c5-93a7-1e34eb47fb8f/naduria-whey-proteinpulver-geschmacksneutral-ungesuesst"
+        },
+        {
+          "alt": "Whey Proteinpulver, geschmacksneutral, ungesüßt  Naduria",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764901364/assets/pas/images/c737472b-495e-4cb7-8fd2-c9f8ad113664/naduria-whey-proteinpulver-geschmacksneutral-ungesuesst"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,23 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (34,11 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (36,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 214,
+        "ratingValue": 3.715
+      },
+      "self": "/p/d/1562887/naduria-whey-proteinpulver-geschmacksneutral-ungesuesst",
+      "title": {
+        "tileHeadline": "Whey Proteinpulver, geschmacksneutral, ungesüßt, 300 g",
+        "tileHeadlineLong": "Whey Proteinpulver, geschmacksneutral, ungesüßt, 300 g"
+      },
+      "trackingData": {
+        "brand": "Naduria",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 10.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.715,
+        "ratingCount": 214
+      }
+    }
+  },
+  {
+    "gtin": 4066447603330,
+    "dan": 1144841,
+    "brandName": "Sportness",
+    "title": "Proteinpulver, Protein Shake 90, neutraler Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinpulver, Protein Shake 90, neutraler Geschmack, 300 g; Preis: 7,95 €; Grundpreis: 0,3 kg (26,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1144841,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447603330,
+      "images": [
+        {
+          "alt": "Proteinpulver, Protein Shake 90, neutraler Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782520041/assets/pas/images/9f7c9e28-9f1f-4f79-b878-efffa87eed0f/sportness-proteinpulver-protein-shake-90-neutraler-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake 90, neutraler Geschmack Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782520036/assets/pas/images/7c723fe8-5d1f-430a-855b-b6d31acdd760/sportness-proteinpulver-protein-shake-90-neutraler-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake 90, neutraler Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782520030/assets/pas/images/21b95666-440b-4b87-989b-c693ccf84e0e/sportness-proteinpulver-protein-shake-90-neutraler-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,43 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (24,77 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (26,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 267,
+        "ratingValue": 4.0674
+      },
+      "self": "/p/d/1144841/sportness-proteinpulver-protein-shake-90-neutraler-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Protein Shake 90, neutraler..., 300 g",
+        "tileHeadlineLong": "Proteinpulver, Protein Shake 90, neutraler..., 300 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0674,
+        "ratingCount": 267
+      }
+    }
+  },
+  {
+    "gtin": 4255719310735,
+    "dan": 3085560,
+    "brandName": "More Nutrition",
+    "title": "Proteinpulver, Iced Matcha Latte Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Proteinpulver, Iced Matcha Latte Geschmack, 300 g; Preis: 17,95 €; Grundpreis: 0,3 kg (59,83 € je 1 kg)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 3085560,
+      "gtin": 4255719310735,
+      "images": [
+        {
+          "alt": "Proteinpulver, Iced Matcha Latte Geschmack More Nutrition",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755000206/assets/pas/images/e70c595d-4609-4c65-98a9-73111f909517/more-nutrition-proteinpulver-iced-matcha-latte-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Iced Matcha Latte Geschmack More Nutrition",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781992553/assets/pas/images/9d2f5407-e5ee-4af8-84b3-e256fb43755d/more-nutrition-proteinpulver-iced-matcha-latte-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "16,78 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (55,92 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "17,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (59,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 113,
+        "ratingValue": 3.6991
+      },
+      "self": "/p/d/3085560/more-nutrition-proteinpulver-iced-matcha-latte-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Iced Matcha Latte Geschmack, 300 g",
+        "tileHeadlineLong": "Proteinpulver, Iced Matcha Latte Geschmack, 300 g"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 17.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6991,
+        "ratingCount": 113
+      }
+    }
+  },
+  {
+    "gtin": 4255719310452,
+    "dan": 3117745,
+    "brandName": "More Nutrition",
+    "title": "Proteinpulver, Clear Protein Green Apple Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: More Nutrition; Produktname: Proteinpulver, Clear Protein Green Apple Geschmack, 300 g; Preis: 19,95 €; Grundpreis: 0,3 kg (66,50 € je 1 kg)",
+      "brand": {
+        "name": "More Nutrition"
+      },
+      "dan": 3117745,
+      "gtin": 4255719310452,
+      "images": [
+        {
+          "alt": "Proteinpulver, Clear Protein Green Apple Geschmack More Nutrition",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773281695/assets/pas/images/24da7153-f0f0-4d45-b718-dfe76b4a2816/more-nutrition-proteinpulver-clear-protein-green-apple-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "18,64 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (62,15 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "19,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (66,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 22,
+        "ratingValue": 4.6364
+      },
+      "self": "/p/d/3117745/more-nutrition-proteinpulver-clear-protein-green-apple-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Clear Protein Green Apple Geschmack, 300 g",
+        "tileHeadlineLong": "Proteinpulver, Clear Protein Green Apple Geschmack, 300 g"
+      },
+      "trackingData": {
+        "brand": "More Nutrition",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 19.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6364,
+        "ratingCount": 22
+      }
+    }
+  },
+  {
+    "gtin": 4260390244477,
+    "dan": 1621748,
+    "brandName": "Naduria",
+    "title": "Proteinpulver Bourbon Vanille, vegan, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: Naduria; Produktname: Proteinpulver Bourbon Vanille, vegan, 300 g; Preis: 9,95 €; Grundpreis: 0,3 kg (33,17 € je 1 kg)",
+      "brand": {
+        "name": "Naduria"
+      },
+      "dan": 1621748,
+      "gtin": 4260390244477,
+      "images": [
+        {
+          "alt": "Proteinpulver Bourbon Vanille, vegan Naduria",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772749539/assets/pas/images/11081573-eb71-47bf-9f5e-0f39f886fdc1/naduria-proteinpulver-bourbon-vanille-vegan"
+        },
+        {
+          "alt": "Proteinpulver Bourbon Vanille, vegan Naduria",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492435/assets/pas/images/05645e99-2970-46f6-ba24-a7392d946938/naduria-proteinpulver-bourbon-vanille-vegan"
+        },
+        {
+          "alt": "Proteinpulver Bourbon Vanille, vegan Naduria",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772749556/assets/pas/images/d1f89add-5f60-45d3-8512-18c3bf14268a/naduria-proteinpulver-bourbon-vanille-vegan"
+        },
+        {
+          "alt": "Proteinpulver Bourbon Vanille, vegan Naduria",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772749548/assets/pas/images/154ab664-d7d0-4d89-9546-a52b54906792/naduria-proteinpulver-bourbon-vanille-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,30 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (31,00 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (33,17 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 240,
+        "ratingValue": 3.3458
+      },
+      "self": "/p/d/1621748/naduria-proteinpulver-bourbon-vanille-vegan",
+      "title": {
+        "tileHeadline": "Proteinpulver Bourbon Vanille, vegan, 300 g",
+        "tileHeadlineLong": "Proteinpulver Bourbon Vanille, vegan, 300 g"
+      },
+      "trackingData": {
+        "brand": "Naduria",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.3458,
+        "ratingCount": 240
+      }
+    }
+  },
+  {
+    "gtin": 4250519689173,
+    "dan": 3117776,
+    "brandName": "ESN",
+    "title": "Whey Proteinpulver Designer, Cinnamon Cereal Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: ESN; Produktname: Whey Proteinpulver Designer, Cinnamon Cereal Geschmack, 300 g; Preis: 13,95 €; Grundpreis: 0,3 kg (46,50 € je 1 kg)",
+      "brand": {
+        "name": "ESN"
+      },
+      "dan": 3117776,
+      "gtin": 4250519689173,
+      "images": [
+        {
+          "alt": "Whey Proteinpulver Designer, Cinnamon Cereal Geschmack ESN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1781054887/assets/pas/images/72278b87-fcc6-40ba-96c5-e06d83f90419/esn-whey-proteinpulver-designer-cinnamon-cereal-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (43,46 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (46,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 33,
+        "ratingValue": 3.8788
+      },
+      "self": "/p/d/3117776/esn-whey-proteinpulver-designer-cinnamon-cereal-geschmack",
+      "title": {
+        "tileHeadline": "Whey Proteinpulver Designer, Cinnamon Cereal..., 300 g",
+        "tileHeadlineLong": "Whey Proteinpulver Designer, Cinnamon Cereal..., 300 g"
+      },
+      "trackingData": {
+        "brand": "ESN",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8788,
+        "ratingCount": 33
+      }
+    }
+  },
+  {
+    "gtin": 4250519679471,
+    "dan": 3085646,
+    "brandName": "ESN",
+    "title": "Whey Proteinpulver Designer, White Choco Pistaccio Geschmack, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: ESN; Produktname: Whey Proteinpulver Designer, White Choco Pistaccio Geschmack, 300 g; Preis: 13,95 €; Grundpreis: 0,3 kg (46,50 € je 1 kg)",
+      "brand": {
+        "name": "ESN"
+      },
+      "dan": 3085646,
+      "gtin": 4250519679471,
+      "images": [
+        {
+          "alt": "Whey Proteinpulver Designer, White Choco Pistaccio Geschmack ESN",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755736835/assets/pas/images/220da57c-e175-4880-ab09-6b132ef0ad14/esn-whey-proteinpulver-designer-white-choco-pistaccio-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,04 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (43,46 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (46,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 56,
+        "ratingValue": 3.5893
+      },
+      "self": "/p/d/3085646/esn-whey-proteinpulver-designer-white-choco-pistaccio-geschmack",
+      "title": {
+        "tileHeadline": "Whey Proteinpulver Designer, White Choco..., 300 g",
+        "tileHeadlineLong": "Whey Proteinpulver Designer, White Choco..., 300 g"
+      },
+      "trackingData": {
+        "brand": "ESN",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5893,
+        "ratingCount": 56
+      }
+    }
+  },
+  {
+    "gtin": 4066447603316,
+    "dan": 1323316,
+    "brandName": "Sportness",
+    "title": "Proteinpulver, Protein Shake 90, Schoko Geschmack, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinpulver, Protein Shake 90, Schoko Geschmack, 350 g; Preis: 8,45 €; Grundpreis: 0,35 kg (24,14 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1323316,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447603316,
+      "images": [
+        {
+          "alt": "Proteinpulver, Protein Shake 90, Schoko Geschmack Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782515192/assets/pas/images/de59720c-6749-4858-a19f-bb85d1b56f4b/sportness-proteinpulver-protein-shake-90-schoko-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake 90, Schoko Geschmack Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782515187/assets/pas/images/6aef6116-d75f-4c50-9e4a-5c88ddcdbf16/sportness-proteinpulver-protein-shake-90-schoko-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake 90, Schoko Geschmack Sportness",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782515198/assets/pas/images/af0d5461-a21b-4d1e-bec4-5fadf2d4d40e/sportness-proteinpulver-protein-shake-90-schoko-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (22,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (24,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 343,
+        "ratingValue": 3.8222
+      },
+      "self": "/p/d/1323316/sportness-proteinpulver-protein-shake-90-schoko-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Protein Shake 90, Schoko Geschmack, 350 g",
+        "tileHeadlineLong": "Proteinpulver, Protein Shake 90, Schoko Geschmack, 350 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8222,
+        "ratingCount": 343
+      }
+    }
+  },
+  {
+    "gtin": 4260390241636,
+    "dan": 1562608,
+    "brandName": "Naduria",
+    "title": "Proteinpulver Mandelprotein, ungesüßt, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: Naduria; Produktname: Proteinpulver Mandelprotein, ungesüßt, 300 g; Preis: 8,95 €; Grundpreis: 0,3 kg (29,83 € je 1 kg)",
+      "brand": {
+        "name": "Naduria"
+      },
+      "dan": 1562608,
+      "gtin": 4260390241636,
+      "images": [
+        {
+          "alt": "Proteinpulver Mandelprotein, ungesüßt Naduria",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772749497/assets/pas/images/2b160dbf-1ed8-4525-9f3d-20a4d8639726/naduria-proteinpulver-mandelprotein-ungesuesst"
+        },
+        {
+          "alt": "Proteinpulver Mandelprotein, ungesüßt Naduria",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772749514/assets/pas/images/64d7787f-fd7a-4088-ac89-fed9dbf902bf/naduria-proteinpulver-mandelprotein-ungesuesst"
+        },
+        {
+          "alt": "Proteinpulver Mandelprotein, ungesüßt Naduria",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772749505/assets/pas/images/e1b7a118-ec8c-4dc9-8f39-f7882773b690/naduria-proteinpulver-mandelprotein-ungesuesst"
+        },
+        {
+          "alt": "Proteinpulver Mandelprotein, ungesüßt Naduria",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492251/assets/pas/images/8d7b8ea3-6869-42b3-afa4-4d7c047fb57f/naduria-proteinpulver-mandelprotein-ungesuesst"
+        },
+        {
+          "alt": "Proteinpulver Mandelprotein, ungesüßt Naduria",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492251/assets/pas/images/2304455a-9974-4419-8df2-a7e2a9a4488e/naduria-proteinpulver-mandelprotein-ungesuesst"
+        },
+        {
+          "alt": "Proteinpulver Mandelprotein, ungesüßt Naduria",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747492619/assets/pas/images/04246a41-2e8e-4a43-a27b-5ead6af45a68/naduria-proteinpulver-mandelprotein-ungesuesst"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,36 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (27,88 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (29,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 169,
+        "ratingValue": 4.3136
+      },
+      "self": "/p/d/1562608/naduria-proteinpulver-mandelprotein-ungesuesst",
+      "title": {
+        "tileHeadline": "Proteinpulver Mandelprotein, ungesüßt, 300 g",
+        "tileHeadlineLong": "Proteinpulver Mandelprotein, ungesüßt, 300 g"
+      },
+      "trackingData": {
+        "brand": "Naduria",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3136,
+        "ratingCount": 169
+      }
+    }
+  },
+  {
+    "gtin": 4066447603293,
+    "dan": 1193643,
+    "brandName": "Sportness",
+    "title": "Proteinpulver, Protein Shake 90, Vanille Geschmack, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinpulver, Protein Shake 90, Vanille Geschmack, 350 g; Preis: 8,45 €; Grundpreis: 0,35 kg (24,14 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1193643,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447603293,
+      "images": [
+        {
+          "alt": "Proteinpulver, Protein Shake 90, Vanille Geschmack Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779323721/assets/pas/images/b4f829dc-37d6-4d2d-ac83-5f01c711c0ed/sportness-proteinpulver-protein-shake-90-vanille-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake 90, Vanille Geschmack Sportness",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747484014/assets/pas/images/d83c30de-c933-4322-aa4f-6b72e95d8de4/sportness-proteinpulver-protein-shake-90-vanille-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake 90, Vanille Geschmack Sportness",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779323707/assets/pas/images/c6c40d55-d017-4110-ad62-0544873500a4/sportness-proteinpulver-protein-shake-90-vanille-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake 90, Vanille Geschmack Sportness",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779323714/assets/pas/images/5e1d31fd-0509-46c8-9dc3-ff7a6151b286/sportness-proteinpulver-protein-shake-90-vanille-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,90 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (22,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (24,14 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 345,
+        "ratingValue": 3.5391
+      },
+      "self": "/p/d/1193643/sportness-proteinpulver-protein-shake-90-vanille-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Protein Shake 90, Vanille Geschmack, 350 g",
+        "tileHeadlineLong": "Proteinpulver, Protein Shake 90, Vanille Geschmack, 350 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.5318,
+        "ratingCount": 346
+      }
+    }
+  },
+  {
+    "gtin": 4070765032420,
+    "dan": 3087730,
+    "brandName": "Sportness",
+    "title": "Proteinshake, Lemon Cheesecake Geschmack, vegan, 280 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinshake, Lemon Cheesecake Geschmack, vegan, 280 g; Preis: 7,95 €; Grundpreis: 0,28 kg (28,39 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3087730,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765032420,
+      "images": [
+        {
+          "alt": "Proteinshake, Lemon Cheesecake Geschmack, vegan Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782514840/assets/pas/images/7f197319-fae5-4b36-8cfa-f6fe493f62b7/sportness-proteinshake-lemon-cheesecake-geschmack-vegan"
+        },
+        {
+          "alt": "Proteinshake, Lemon Cheesecake Geschmack, vegan Sportness",
+          "backgroundColor": "#F1F9F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782514849/assets/pas/images/769c351a-5165-4d40-8ee8-5b69f6693945/sportness-proteinshake-lemon-cheesecake-geschmack-vegan"
+        },
+        {
+          "alt": "Proteinshake, Lemon Cheesecake Geschmack, vegan Sportness",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782514844/assets/pas/images/d5ec86d9-384e-480d-affe-799ce5fc5530/sportness-proteinshake-lemon-cheesecake-geschmack-vegan"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,43 €"
+          }
+        },
+        "tileInfos": [
+          "0,28 kg (26,53 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,28 kg (28,39 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 154,
+        "ratingValue": 4.1364
+      },
+      "self": "/p/d/3087730/sportness-proteinshake-lemon-cheesecake-geschmack-vegan",
+      "title": {
+        "tileHeadline": "Proteinshake, Lemon Cheesecake Geschmack, vegan, 280 g",
+        "tileHeadlineLong": "Proteinshake, Lemon Cheesecake Geschmack, vegan, 280 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1364,
+        "ratingCount": 154
+      }
+    }
+  },
+  {
+    "gtin": 4250519647289,
+    "dan": 3115699,
+    "brandName": "ESN",
+    "title": "Whey Proteinpulver, Vanilla Milk Geschmack, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: ESN; Produktname: Whey Proteinpulver, Vanilla Milk Geschmack, 30 g; Preis: 2,75 €; Grundpreis: 0,03 kg (91,67 € je 1 kg)",
+      "brand": {
+        "name": "ESN"
+      },
+      "dan": 3115699,
+      "gtin": 4250519647289,
+      "images": [
+        {
+          "alt": "Whey Proteinpulver, Vanilla Milk Geschmack ESN",
+          "backgroundColor": "#F9F1F4",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774050509/assets/pas/images/5dc5f93a-1320-46de-bfa4-7fab17c226d0/esn-whey-proteinpulver-vanilla-milk-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (85,67 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (91,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 41,
+        "ratingValue": 4.561
+      },
+      "self": "/p/d/3115699/esn-whey-proteinpulver-vanilla-milk-geschmack",
+      "title": {
+        "tileHeadline": "Whey Proteinpulver, Vanilla Milk Geschmack, 30 g",
+        "tileHeadlineLong": "Whey Proteinpulver, Vanilla Milk Geschmack, 30 g"
+      },
+      "trackingData": {
+        "brand": "ESN",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5714,
+        "ratingCount": 42
+      }
+    }
+  },
+  {
+    "gtin": 4067796171273,
+    "dan": 3066244,
+    "brandName": "Sportness",
+    "title": "Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack, 28 g; Preis: 1,25 €; Grundpreis: 0,028 kg (44,64 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3066244,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796171273,
+      "images": [
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack Sportness",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488075/assets/pas/images/ae121b8f-11c3-4366-a571-c5469c394f01/sportness-proteinpulver-protein-shake-vegan-mango-passionfruit-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan, Mango Passionfruit Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747488153/assets/pas/images/260d5f69-0012-4d08-b2de-4d7c4376437c/sportness-proteinpulver-protein-shake-vegan-mango-passionfruit-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,028 kg (41,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,028 kg (44,64 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 93,
+        "ratingValue": 4.3548
+      },
+      "self": "/p/d/3066244/sportness-proteinpulver-protein-shake-vegan-mango-passionfruit-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Protein Shake Vegan, Mango..., 28 g",
+        "tileHeadlineLong": "Proteinpulver, Protein Shake Vegan, Mango..., 28 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3548,
+        "ratingCount": 93
+      }
+    }
+  },
+  {
+    "gtin": 4067796114980,
+    "dan": 2977169,
+    "brandName": "Sportness",
+    "title": "Proteinpulver, Protein Shake Vegan Salted-Caramel-Geschmack, 28 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinpulver, Protein Shake Vegan Salted-Caramel-Geschmack, 28 g; Preis: 1,25 €; Grundpreis: 0,028 kg (44,64 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 2977169,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796114980,
+      "images": [
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan Salted-Caramel-Geschmack Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755005375/assets/pas/images/fb1ba2c6-8e68-42ee-8943-32de18f44fa8/sportness-proteinpulver-protein-shake-vegan-salted-caramel-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Protein Shake Vegan Salted-Caramel-Geschmack Sportness",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755005374/assets/pas/images/474c2786-c278-4e3f-8e7a-0e319d0d18c4/sportness-proteinpulver-protein-shake-vegan-salted-caramel-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,028 kg (41,72 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,028 kg (44,64 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 220,
+        "ratingValue": 4.5364
+      },
+      "self": "/p/d/2977169/sportness-proteinpulver-protein-shake-vegan-salted-caramel-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Protein Shake Vegan..., 28 g",
+        "tileHeadlineLong": "Proteinpulver, Protein Shake Vegan..., 28 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5364,
+        "ratingCount": 220
+      }
+    }
+  },
+  {
+    "gtin": 4260390244996,
+    "dan": 3146976,
+    "brandName": "Naduria",
+    "title": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt, vegan, 240 g",
+    "tileData": {
+      "a11yLabel": "Marke: Naduria; Produktname: Proteinpulver Hanf, Mandel & Macadamia, ungesüßt, vegan, 240 g; Preis: 7,95 €; Neues Produkt Grafik",
+      "brand": {
+        "name": "Naduria"
+      },
+      "dan": 3146976,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        }
+      ],
+      "gtin": 4260390244996,
+      "images": [
+        {
+          "alt": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt, vegan Naduria",
+          "backgroundColor": "#F6F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779868169/assets/pas/images/4da2b24e-6241-449c-9920-60e95833750a/naduria-proteinpulver-hanf-mandel-und-macadamia-ungesuesst-vegan"
+        },
+        {
+          "alt": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt, vegan Naduria",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779868189/assets/pas/images/8fe0a655-b4e9-4039-9bc5-353dc832b530/naduria-proteinpulver-hanf-mandel-und-macadamia-ungesuesst-vegan"
+        },
+        {
+          "alt": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt, vegan Naduria",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779868165/assets/pas/images/5d33a6ca-8fc9-411f-9ec2-cb8a8b877181/naduria-proteinpulver-hanf-mandel-und-macadamia-ungesuesst-vegan"
+        },
+        {
+          "alt": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt, vegan Naduria",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779868179/assets/pas/images/1fc99064-f574-4944-8d64-c8558e177649/naduria-proteinpulver-hanf-mandel-und-macadamia-ungesuesst-vegan"
+        },
+        {
+          "alt": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt, vegan Naduria",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779868161/assets/pas/images/57ee22e2-0315-4e5f-9788-150b7530b6e1/naduria-proteinpulver-hanf-mandel-und-macadamia-ungesuesst-vegan"
+        },
+        {
+          "alt": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt, vegan Naduria",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779868157/assets/pas/images/5759380c-7153-4812-a555-db067d56fd66/naduria-proteinpulver-hanf-mandel-und-macadamia-ungesuesst-vegan"
+        },
+        {
+          "alt": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt, vegan Naduria",
+          "backgroundColor": "#F0F3F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779868153/assets/pas/images/b0c2e1b7-d292-4321-8aba-3bd3c80969e4/naduria-proteinpulver-hanf-mandel-und-macadamia-ungesuesst-vegan"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,43 €"
+          }
+        }
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,95 €"
+          }
+        }
+      },
+      "rating": {
+        "ratingCount": 7,
+        "ratingValue": 3.7143
+      },
+      "self": "/p/d/3146976/naduria-proteinpulver-hanf-mandel-und-macadamia-ungesuesst-vegan",
+      "title": {
+        "tileHeadline": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt,..., 240 g",
+        "tileHeadlineLong": "Proteinpulver Hanf, Mandel & Macadamia, ungesüßt,..., 240 g"
+      },
+      "trackingData": {
+        "brand": "Naduria",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 7.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7143,
+        "ratingCount": 7
+      }
+    }
+  },
+  {
+    "gtin": 4250519650715,
+    "dan": 3115661,
+    "brandName": "ESN",
+    "title": "Whey Proteinpulver, Cinnamon Cereal Geschmack, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: ESN; Produktname: Whey Proteinpulver, Cinnamon Cereal Geschmack, 30 g; Preis: 2,75 €; Grundpreis: 0,03 kg (91,67 € je 1 kg)",
+      "brand": {
+        "name": "ESN"
+      },
+      "dan": 3115661,
+      "gtin": 4250519650715,
+      "images": [
+        {
+          "alt": "Whey Proteinpulver, Cinnamon Cereal Geschmack ESN",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774049611/assets/pas/images/28bdd895-70d0-4bba-9155-528805456438/esn-whey-proteinpulver-cinnamon-cereal-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,57 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (85,67 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (91,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 17,
+        "ratingValue": 4.1176
+      },
+      "self": "/p/d/3115661/esn-whey-proteinpulver-cinnamon-cereal-geschmack",
+      "title": {
+        "tileHeadline": "Whey Proteinpulver, Cinnamon Cereal Geschmack, 30 g",
+        "tileHeadlineLong": "Whey Proteinpulver, Cinnamon Cereal Geschmack, 30 g"
+      },
+      "trackingData": {
+        "brand": "ESN",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1176,
+        "ratingCount": 17
+      }
+    }
+  },
+  {
+    "gtin": 4070765000818,
+    "dan": 3113236,
+    "brandName": "Sportness",
+    "title": "Whey Proteinpulver, Buttermilk-Lime-Geschmack, 30 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Whey Proteinpulver, Buttermilk-Lime-Geschmack, 30 g; Preis: 1,25 €; Grundpreis: 0,03 kg (41,67 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3113236,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765000818,
+      "images": [
+        {
+          "alt": "Whey Proteinpulver, Buttermilk-Lime-Geschmack Sportness",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776468422/assets/pas/images/f000d7d8-6e94-49aa-91d9-b66de163685a/sportness-whey-proteinpulver-buttermilk-lime-geschmack"
+        },
+        {
+          "alt": "Whey Proteinpulver, Buttermilk-Lime-Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776468429/assets/pas/images/0f14063e-184b-4378-9213-bb21704ee699/sportness-whey-proteinpulver-buttermilk-lime-geschmack"
+        },
+        {
+          "alt": "Whey Proteinpulver, Buttermilk-Lime-Geschmack Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776468418/assets/pas/images/968d3969-80e2-4bb5-8d26-0644a608929a/sportness-whey-proteinpulver-buttermilk-lime-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,17 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (38,94 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,03 kg (41,67 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 93,
+        "ratingValue": 4.8065
+      },
+      "self": "/p/d/3113236/sportness-whey-proteinpulver-buttermilk-lime-geschmack",
+      "title": {
+        "tileHeadline": "Whey Proteinpulver, Buttermilk-Lime-Geschmack, 30 g",
+        "tileHeadlineLong": "Whey Proteinpulver, Buttermilk-Lime-Geschmack, 30 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8065,
+        "ratingCount": 93
+      }
+    }
+  },
+  {
+    "gtin": 4066447423082,
+    "dan": 1691470,
+    "brandName": "Sportness",
+    "title": "Proteinpulver, Clear Whey Protein, Pfirsich Eistee Geschmack, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteinpulver, Clear Whey Protein, Pfirsich Eistee Geschmack, 400 g; Preis: 16,95 €; Grundpreis: 0,4 kg (42,38 € je 1 kg); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1691470,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4066447423082,
+      "images": [
+        {
+          "alt": "Proteinpulver, Clear Whey Protein, Pfirsich Eistee Geschmack Sportness",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481739/assets/pas/images/13a47177-2546-4765-bd10-86c224e3943c/sportness-proteinpulver-clear-whey-protein-pfirsich-eistee-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Clear Whey Protein, Pfirsich Eistee Geschmack Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481885/assets/pas/images/bc0126a3-fbd1-4c76-a4c5-61ca3ae79038/sportness-proteinpulver-clear-whey-protein-pfirsich-eistee-geschmack"
+        },
+        {
+          "alt": "Proteinpulver, Clear Whey Protein, Pfirsich Eistee Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481641/assets/pas/images/e018c554-35dd-4a13-ba95-1b33f547cbfa/sportness-proteinpulver-clear-whey-protein-pfirsich-eistee-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,84 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (39,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "16,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (42,38 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 335,
+        "ratingValue": 4.0209
+      },
+      "self": "/p/d/1691470/sportness-proteinpulver-clear-whey-protein-pfirsich-eistee-geschmack",
+      "title": {
+        "tileHeadline": "Proteinpulver, Clear Whey Protein, Pfirsich..., 400 g",
+        "tileHeadlineLong": "Proteinpulver, Clear Whey Protein, Pfirsich..., 400 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 16.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0209,
+        "ratingCount": 335
+      }
+    }
+  },
+  {
+    "gtin": 4066447484809,
+    "dan": 1534354,
+    "brandName": "Sportness",
+    "title": "Whey Proteinpulver Vanille Geschmack, 450 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Whey Proteinpulver Vanille Geschmack, 450 g; Preis: 13,75 €; Grundpreis: 0,45 kg (30,56 € je 1 kg); Marke von dm Grafik, Verpackung größer/gleich 70% Recyclinganteil Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1534354,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Verpackung größer/gleich 70% Recyclinganteil Grafik",
+          "src": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png",
+          "zoomSrc": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1773948200/products/pim/rezyclat_seal/4_logo-im-hg_stern.png"
+        }
+      ],
+      "gtin": 4066447484809,
+      "images": [
+        {
+          "alt": "Whey Proteinpulver Vanille Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021263/assets/pas/images/92341978-7f0c-4256-aa27-ec41c34eb74a/sportness-whey-proteinpulver-vanille-geschmack"
+        },
+        {
+          "alt": "Whey Proteinpulver Vanille Geschmack Sportness",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482431/assets/pas/images/87356b01-4551-437d-9c8a-ed00aef62bff/sportness-whey-proteinpulver-vanille-geschmack"
+        },
+        {
+          "alt": "Whey Proteinpulver Vanille Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021268/assets/pas/images/ff77b0ba-c49a-4021-8466-496ae9a6e3a1/sportness-whey-proteinpulver-vanille-geschmack"
+        },
+        {
+          "alt": "Whey Proteinpulver Vanille Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755021263/assets/pas/images/c7068e65-2e57-4a7a-ba14-cc0dccab5350/sportness-whey-proteinpulver-vanille-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 kg (28,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 kg (30,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 413,
+        "ratingValue": 4.5908
+      },
+      "self": "/p/d/1534354/sportness-whey-proteinpulver-vanille-geschmack",
+      "title": {
+        "tileHeadline": "Whey Proteinpulver Vanille Geschmack, 450 g",
+        "tileHeadlineLong": "Whey Proteinpulver Vanille Geschmack, 450 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5908,
+        "ratingCount": 413
+      }
+    }
+  },
+  {
+    "gtin": 4067796180206,
+    "dan": 1217314,
+    "brandName": "Sportness",
+    "title": "Whey Proteinpulver, Schoko Geschmack, 450 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Whey Proteinpulver, Schoko Geschmack, 450 g; Preis: 13,75 €; Grundpreis: 0,45 kg (30,56 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1217314,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796180206,
+      "images": [
+        {
+          "alt": "Whey Proteinpulver, Schoko Geschmack Sportness",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765473712/assets/pas/images/16e2ec5d-82ae-4c23-9658-654826fccdca/sportness-whey-proteinpulver-schoko-geschmack"
+        },
+        {
+          "alt": "Whey Proteinpulver, Schoko Geschmack Sportness",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762471419/assets/pas/images/5de2ab92-11f1-411a-b13f-20f1b794d6d6/sportness-whey-proteinpulver-schoko-geschmack"
+        },
+        {
+          "alt": "Whey Proteinpulver, Schoko Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762471426/assets/pas/images/e88f5d70-e3aa-42c2-9254-0857bead9cab/sportness-whey-proteinpulver-schoko-geschmack"
+        },
+        {
+          "alt": "Whey Proteinpulver, Schoko Geschmack Sportness",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1762471432/assets/pas/images/3da5dd13-8e50-4890-9193-a74d96778a8c/sportness-whey-proteinpulver-schoko-geschmack"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "12,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 kg (28,56 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "13,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,45 kg (30,56 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 230,
+        "ratingValue": 4.0739
+      },
+      "self": "/p/d/1217314/sportness-whey-proteinpulver-schoko-geschmack",
+      "title": {
+        "tileHeadline": "Whey Proteinpulver, Schoko Geschmack, 450 g",
+        "tileHeadlineLong": "Whey Proteinpulver, Schoko Geschmack, 450 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 13.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.0739,
+        "ratingCount": 230
+      }
+    }
+  },
+  {
+    "gtin": 4066447994933,
+    "dan": 3113280,
+    "brandName": "Sportness",
+    "title": "Proteindrink, Sparkling, Pfirsich-Eistee-Geschmack, trinkfertig, 330 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Proteindrink, Sparkling, Pfirsich-Eistee-Geschmack, trinkfertig, 330 ml EINWEG; Preis: 1,75 €; Grundpreis: 0,33 l (5,30 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3113280,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447994933,
+      "images": [
+        {
+          "alt": "Proteindrink, Sparkling, Pfirsich-Eistee-Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776469844/assets/pas/images/53a5f13e-0ba9-4179-8dc4-4660de42866b/sportness-proteindrink-sparkling-pfirsich-eistee-geschmack-trinkfertig"
+        },
+        {
+          "alt": "Proteindrink, Sparkling, Pfirsich-Eistee-Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776469848/assets/pas/images/08840ce6-7e49-4cc5-a389-c20983067cda/sportness-proteindrink-sparkling-pfirsich-eistee-geschmack-trinkfertig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (4,45 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,33 l (5,30 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 61,
+        "ratingValue": 3.8361
+      },
+      "self": "/p/d/3113280/sportness-proteindrink-sparkling-pfirsich-eistee-geschmack-trinkfertig",
+      "title": {
+        "tileHeadline": "Proteindrink, Sparkling,..., 330 ml EINWEG",
+        "tileHeadlineLong": "Proteindrink, Sparkling,..., 330 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8361,
+        "ratingCount": 61
+      }
+    }
+  },
+  {
+    "gtin": 4066447994919,
+    "dan": 3113302,
+    "brandName": "Sportness",
+    "title": "Pre-Workout Booster, Tropical-Geschmack, 290 g",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Pre-Workout Booster, Tropical-Geschmack, 290 g; Rechtliche Kategorie: Nahrungsergänzungsmittel; Preis: 9,95 €; Grundpreis: 0,28 kg (35,54 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 3113302,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447994919,
+      "images": [
+        {
+          "alt": "Pre-Workout Booster, Tropical-Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776468285/assets/pas/images/af967be7-e45e-4381-88d0-0744c1140b6b/sportness-pre-workout-booster-tropical-geschmack"
+        },
+        {
+          "alt": "Pre-Workout Booster, Tropical-Geschmack Sportness",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776468291/assets/pas/images/795bd4b7-5358-43f8-bb77-5cfa53a457b7/sportness-pre-workout-booster-tropical-geschmack"
+        },
+        {
+          "alt": "Pre-Workout Booster, Tropical-Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776468297/assets/pas/images/61ea127e-f2ae-43b5-87f1-c529453400e4/sportness-pre-workout-booster-tropical-geschmack"
+        },
+        {
+          "alt": "Pre-Workout Booster, Tropical-Geschmack Sportness",
+          "backgroundColor": "#F1F2F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776468278/assets/pas/images/2a114f14-7c1e-4a5c-8614-500084162ab9/sportness-pre-workout-booster-tropical-geschmack"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,30 €"
+          }
+        },
+        "tileInfos": [
+          "0,28 kg (33,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "9,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,28 kg (35,54 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 46,
+        "ratingValue": 3.6087
+      },
+      "self": "/p/d/3113302/sportness-pre-workout-booster-tropical-geschmack",
+      "title": {
+        "subheadline": "Nahrungsergänzungsmittel",
+        "tileHeadline": "Pre-Workout Booster, Tropical-Geschmack, 290 g",
+        "tileHeadlineLong": "Pre-Workout Booster, Tropical-Geschmack, 290 g"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver",
+          "Energie-Produkte"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 9.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.6087,
+        "ratingCount": 46
+      }
+    }
+  },
+  {
+    "gtin": 4066447484847,
+    "dan": 1568826,
+    "brandName": "Sportness",
+    "title": "Protein Drink, Vanille Geschmack, trinkfertig, 330 ml",
+    "tileData": {
+      "dan": 1568826,
+      "gtin": 4066447484847,
+      "self": "/p/d/1568826/sportness-protein-drink-vanille-geschmack-trinkfertig",
+      "brand": {
+        "name": "Sportness"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,33 l (5,61 € je 1 l)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Protein Drink, Vanille Geschmack, trinkfertig, 330 ml",
+        "tileHeadlineLong": "Protein Drink, Vanille Geschmack, trinkfertig, 330 ml"
+      },
+      "images": [
+        {
+          "alt": "Protein Drink, Vanille Geschmack, trinkfertig  Sportness",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779320664/assets/pas/images/9e91f3a4-dad6-4b70-9d1f-c2e95550c4c5/sportness-protein-drink-vanille-geschmack-trinkfertig",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F5F9"
+        },
+        {
+          "alt": "Protein Drink, Vanille Geschmack, trinkfertig  Sportness",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779320648/assets/pas/images/2b73cf43-af38-48a9-af9a-56d00078e71e/sportness-protein-drink-vanille-geschmack-trinkfertig",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F4F9"
+        },
+        {
+          "alt": "Protein Drink, Vanille Geschmack, trinkfertig  Sportness",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747482284/assets/pas/images/83951f57-9997-44ce-a115-0f5160879d46/sportness-protein-drink-vanille-geschmack-trinkfertig",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F3F9"
+        },
+        {
+          "alt": "Protein Drink, Vanille Geschmack, trinkfertig  Sportness",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779320659/assets/pas/images/0c690763-ca7e-4ea1-b16e-0dad5ca25929/sportness-protein-drink-vanille-geschmack-trinkfertig",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F4F9"
+        },
+        {
+          "alt": "Protein Drink, Vanille Geschmack, trinkfertig  Sportness",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1779320654/assets/pas/images/5b1d3246-3bcc-4197-95d3-a79d0cc86fec/sportness-protein-drink-vanille-geschmack-trinkfertig",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F3F9"
+        }
+      ],
+      "rating": {
+        "ratingCount": 99,
+        "ratingValue": 4.6667
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,33 l (5,24 € je 1 l)"
+        ]
+      },
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Drink, Vanille Geschmack, trinkfertig, 330 ml; Preis: 1,85 €; Grundpreis: 0,33 l (5,61 € je 1 l); Marke von dm Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "Sportness",
+        "price": 1.85,
+        "currency": "EUR",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 99
+      }
+    }
+  },
+  {
+    "gtin": 4066447414837,
+    "dan": 1691295,
+    "brandName": "Sportness",
+    "title": "Protein Drink Eiskaffee Geschmack, trinkfertig, 200 ml",
+    "tileData": {
+      "a11yLabel": "Marke: Sportness; Produktname: Protein Drink Eiskaffee Geschmack, trinkfertig, 200 ml; Preis: 1,75 €; Grundpreis: 0,2 l (8,75 € je 1 l); Marke von dm Grafik",
+      "brand": {
+        "name": "Sportness"
+      },
+      "dan": 1691295,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447414837,
+      "images": [
+        {
+          "alt": "Protein Drink Eiskaffee Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F1F4F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481771/assets/pas/images/bdf901c0-4f73-407d-80b4-a480607793f6/sportness-protein-drink-eiskaffee-geschmack-trinkfertig"
+        },
+        {
+          "alt": "Protein Drink Eiskaffee Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481510/assets/pas/images/5d6c7660-5c75-4558-8bb7-71282d7cef0e/sportness-protein-drink-eiskaffee-geschmack-trinkfertig"
+        },
+        {
+          "alt": "Protein Drink Eiskaffee Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481757/assets/pas/images/ff542841-9370-41d7-a23d-cd3f26bfc8be/sportness-protein-drink-eiskaffee-geschmack-trinkfertig"
+        },
+        {
+          "alt": "Protein Drink Eiskaffee Geschmack, trinkfertig Sportness",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747481632/assets/pas/images/cbd849fa-c7dc-42d3-a6f7-77c26934726b/sportness-protein-drink-eiskaffee-geschmack-trinkfertig"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,47 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (7,35 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,75 €"
+          }
+        },
+        "tileInfos": [
+          "0,2 l (8,75 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 121,
+        "ratingValue": 4.4215
+      },
+      "self": "/p/d/1691295/sportness-protein-drink-eiskaffee-geschmack-trinkfertig",
+      "title": {
+        "tileHeadline": "Protein Drink Eiskaffee Geschmack, trinkfertig, 200 ml",
+        "tileHeadlineLong": "Protein Drink Eiskaffee Geschmack, trinkfertig, 200 ml"
+      },
+      "trackingData": {
+        "brand": "Sportness",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4215,
+        "ratingCount": 121
+      }
+    }
+  },
+  {
+    "gtin": 4005394202463,
+    "dan": 3081030,
+    "brandName": "PURYA!",
+    "title": "Trinkmahlzeit, Real Meal Kakao, 500 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: PURYA!; Produktname: Trinkmahlzeit, Real Meal Kakao, 500 ml EINWEG; Preis: 3,75 €; Grundpreis: 0,5 l (7,50 € je 1 l)",
+      "brand": {
+        "name": "PURYA!"
+      },
+      "dan": 3081030,
+      "gtin": 4005394202463,
+      "images": [
+        {
+          "alt": "Trinkmahlzeit, Real Meal Kakao PURYA!",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1766526949/assets/pas/images/14fa6d50-f688-4626-bea7-7654cc4d3e5f/purya-trinkmahlzeit-real-meal-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Real Meal Kakao PURYA!",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769293517/assets/pas/images/1f47cd48-30af-44bc-8278-5ca31fcfc2a0/purya-trinkmahlzeit-real-meal-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Real Meal Kakao PURYA!",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769293520/assets/pas/images/08a84d27-14d4-442f-a085-0fc4aba42792/purya-trinkmahlzeit-real-meal-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Real Meal Kakao PURYA!",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769293523/assets/pas/images/1301f035-0d47-4995-8541-b514dcee0dab/purya-trinkmahlzeit-real-meal-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Real Meal Kakao PURYA!",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769293526/assets/pas/images/326fe564-4b3e-470e-9690-5f3c5ce41d07/purya-trinkmahlzeit-real-meal-kakao"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (6,30 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (7,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 97,
+        "ratingValue": 4.1753
+      },
+      "self": "/p/d/3081030/purya-trinkmahlzeit-real-meal-kakao",
+      "title": {
+        "tileHeadline": "Trinkmahlzeit, Real Meal Kakao, 500 ml EINWEG",
+        "tileHeadlineLong": "Trinkmahlzeit, Real Meal Kakao, 500 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "PURYA!",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.1753,
+        "ratingCount": 97
+      }
+    }
+  },
+  {
+    "gtin": 4005394202258,
+    "dan": 3112329,
+    "brandName": "PURYA!",
+    "title": "Trinkmahlzeit, Real Meal Berry, 500 ml EINWEG",
+    "tileData": {
+      "a11yLabel": "Marke: PURYA!; Produktname: Trinkmahlzeit, Real Meal Berry, 500 ml EINWEG; Preis: 3,75 €; Grundpreis: 0,5 l (7,50 € je 1 l)",
+      "brand": {
+        "name": "PURYA!"
+      },
+      "dan": 3112329,
+      "gtin": 4005394202258,
+      "images": [
+        {
+          "alt": "Trinkmahlzeit, Real Meal Berry PURYA!",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1767795183/assets/pas/images/e538f90d-cd0f-467d-a397-0b348e570350/purya-trinkmahlzeit-real-meal-berry"
+        },
+        {
+          "alt": "Trinkmahlzeit, Real Meal Berry PURYA!",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769305955/assets/pas/images/081b9f72-0a01-4664-854b-1b579087568b/purya-trinkmahlzeit-real-meal-berry"
+        },
+        {
+          "alt": "Trinkmahlzeit, Real Meal Berry PURYA!",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769305958/assets/pas/images/6338af3a-a5a1-4857-9793-7bdc3589f7f9/purya-trinkmahlzeit-real-meal-berry"
+        },
+        {
+          "alt": "Trinkmahlzeit, Real Meal Berry PURYA!",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769305961/assets/pas/images/3d0ea37f-f84d-4f53-831a-75d5ffa9b5e1/purya-trinkmahlzeit-real-meal-berry"
+        },
+        {
+          "alt": "Trinkmahlzeit, Real Meal Berry PURYA!",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769305964/assets/pas/images/0315e3a3-1cb7-4f00-a87d-9c8b18f424f0/purya-trinkmahlzeit-real-meal-berry"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,15 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (6,30 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,75 €"
+          }
+        },
+        "tileInfos": [
+          "zzgl. 0,25 € Pfand",
+          "0,5 l (7,50 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 78,
+        "ratingValue": 3.7179
+      },
+      "self": "/p/d/3112329/purya-trinkmahlzeit-real-meal-berry",
+      "title": {
+        "tileHeadline": "Trinkmahlzeit, Real Meal Berry, 500 ml EINWEG",
+        "tileHeadlineLong": "Trinkmahlzeit, Real Meal Berry, 500 ml EINWEG"
+      },
+      "trackingData": {
+        "brand": "PURYA!",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.75
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7179,
+        "ratingCount": 78
+      }
+    }
+  },
+  {
+    "gtin": 4062300457089,
+    "dan": 3108925,
+    "brandName": "HiPP",
+    "title": "Trinkmahlzeit, Kakao, 330 ml",
+    "tileData": {
+      "a11yLabel": "Marke: HiPP; Produktname: Trinkmahlzeit, Kakao, 330 ml; Preis: 3,35 €; Grundpreis: 0,33 l (10,15 € je 1 l); Nur Online Grafik",
+      "brand": {
+        "name": "HiPP"
+      },
+      "dan": 3108925,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 4062300457089,
+      "images": [
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F9F1F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764153992/assets/pas/images/1e67cf8e-4f23-42cb-8b52-4fb1306c3433/hipp-trinkmahlzeit-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765323807/assets/pas/images/ebd11bcb-1a1a-4340-aad4-2d3a56961319/hipp-trinkmahlzeit-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764898913/assets/pas/images/11da9fb9-b4db-4775-a6a5-34661cf5ec80/hipp-trinkmahlzeit-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764898921/assets/pas/images/11744c7b-66a9-4ebf-9f2b-bee52e47a0a9/hipp-trinkmahlzeit-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764154005/assets/pas/images/b7194bb4-37e5-407e-a410-9144e4b1eba8/hipp-trinkmahlzeit-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F7F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764898929/assets/pas/images/c451658d-0e8d-4bec-b9a5-6c97923ad98e/hipp-trinkmahlzeit-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765323798/assets/pas/images/0ac4e83b-fbb4-49c7-a599-32486336dcb0/hipp-trinkmahlzeit-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F9F1F7",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765323822/assets/pas/images/24648aad-71dd-4c38-b42e-d3406e0fb7b1/hipp-trinkmahlzeit-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1765323815/assets/pas/images/f2babeb9-8a26-4e42-b46e-2452f3c432b6/hipp-trinkmahlzeit-kakao"
+        },
+        {
+          "alt": "Trinkmahlzeit, Kakao HiPP",
+          "backgroundColor": "#F4F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1764154018/assets/pas/images/07b6378c-b7f8-4ed4-be99-d5c2b280619e/hipp-trinkmahlzeit-kakao"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,13 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (9,49 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,33 l (10,15 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 30,
+        "ratingValue": 3.8333
+      },
+      "self": "/p/d/3108925/hipp-trinkmahlzeit-kakao",
+      "title": {
+        "tileHeadline": "Trinkmahlzeit, Kakao, 330 ml",
+        "tileHeadlineLong": "Trinkmahlzeit, Kakao, 330 ml"
+      },
+      "trackingData": {
+        "brand": "HiPP",
+        "categories": [
+          "Protein Shakes & Pulver"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8333,
+        "ratingCount": 30
+      }
+    }
+  }
+]

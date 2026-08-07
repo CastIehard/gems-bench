@@ -1,0 +1,2553 @@
+[
+  {
+    "gtin": 4067796081404,
+    "dan": 1444411,
+    "brandName": "dmBio",
+    "title": "Cornflakes, ungesüßt, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Cornflakes, ungesüßt, 300 g; Preis: 1,15 €; Grundpreis: 0,3 kg (3,83 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1444411,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796081404,
+      "images": [
+        {
+          "alt": "Cornflakes, ungesüßt dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755022237/assets/pas/images/401c09d9-bb6a-486e-88ec-cd3c765e5b56/dmbio-cornflakes-ungesuesst"
+        },
+        {
+          "alt": "Cornflakes, ungesüßt dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755022241/assets/pas/images/fba6c39b-009c-493f-9437-f59bf84c2221/dmbio-cornflakes-ungesuesst"
+        },
+        {
+          "alt": "Cornflakes, ungesüßt dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761042608/assets/pas/images/823e68af-913a-44be-84d6-514259a054c6/dmbio-cornflakes-ungesuesst"
+        },
+        {
+          "alt": "Cornflakes, ungesüßt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755022241/assets/pas/images/e7301a6e-b413-4066-a7a5-61f950e3d9ef/dmbio-cornflakes-ungesuesst"
+        },
+        {
+          "alt": "Cornflakes, ungesüßt dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755022237/assets/pas/images/ccb5a15f-2c80-4fab-b554-901f7f859e6b/dmbio-cornflakes-ungesuesst"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (3,58 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (3,83 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 154,
+        "ratingValue": 4.5
+      },
+      "self": "/p/d/1444411/dmbio-cornflakes-ungesuesst",
+      "title": {
+        "tileHeadline": "Cornflakes, ungesüßt, 300 g",
+        "tileHeadlineLong": "Cornflakes, ungesüßt, 300 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.5,
+        "ratingCount": 154
+      }
+    }
+  },
+  {
+    "gtin": 5907052819541,
+    "dan": 3084095,
+    "brandName": "NÉONAIL",
+    "title": "UV Nagellack Top Glow Gold Flakes, 7,2 Millimeter",
+    "tileData": {
+      "a11yLabel": "Marke: NÉONAIL; Produktname: UV Nagellack Top Glow Gold Flakes, 7,2 Millimeter; Preis: 11,95 €",
+      "brand": {
+        "name": "NÉONAIL"
+      },
+      "dan": 3084095,
+      "gtin": 5907052819541,
+      "images": [
+        {
+          "alt": "UV Nagellack Top Glow Gold Flakes NÉONAIL",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1753087397/assets/pas/images/b28eb7f5-7f1b-4fd2-95e4-5e67158aa3a4/neonail-uv-nagellack-top-glow-gold-flakes"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "10,04 €"
+          }
+        }
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "11,95 €"
+          }
+        }
+      },
+      "rating": {
+        "ratingCount": 1,
+        "ratingValue": 5.0
+      },
+      "self": "/p/d/3084095/neonail-uv-nagellack-top-glow-gold-flakes",
+      "title": {
+        "tileHeadline": "UV Nagellack Top Glow Gold Flakes, 7,2 Millimeter",
+        "tileHeadlineLong": "UV Nagellack Top Glow Gold Flakes, 7,2 Millimeter"
+      },
+      "trackingData": {
+        "brand": "NÉONAIL",
+        "categories": [
+          "UV Nagellack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 11.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 5.0,
+        "ratingCount": 1
+      }
+    }
+  },
+  {
+    "gtin": 4067796147575,
+    "dan": 1625056,
+    "brandName": "dmBio",
+    "title": "Dinkelflakes, 400 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Dinkelflakes, 400 g; Preis: 2,45 €; Grundpreis: 0,4 kg (6,13 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1625056,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796147575,
+      "images": [
+        {
+          "alt": "Dinkelflakes dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093784/assets/pas/images/ecd9398c-4889-47ba-bf2e-d795a6a71c7c/dmbio-dinkelflakes"
+        },
+        {
+          "alt": "Dinkelflakes dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093782/assets/pas/images/03bce406-126b-4b33-a18f-568a18f892cb/dmbio-dinkelflakes"
+        },
+        {
+          "alt": "Dinkelflakes dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093785/assets/pas/images/dbfa3551-2da3-4754-afb4-a7cecc662b78/dmbio-dinkelflakes"
+        },
+        {
+          "alt": "Dinkelflakes dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755093781/assets/pas/images/0118474c-1951-446b-9085-0763725bc1cc/dmbio-dinkelflakes"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (5,73 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,4 kg (6,13 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.6667
+      },
+      "self": "/p/d/1625056/dmbio-dinkelflakes",
+      "title": {
+        "tileHeadline": "Dinkelflakes, 400 g",
+        "tileHeadlineLong": "Dinkelflakes, 400 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6667,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4067796181500,
+    "dan": 1517804,
+    "brandName": "dmBio",
+    "title": "Haferflocken, Feinblatt, glutenfrei, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferflocken, Feinblatt, glutenfrei, 500 g; Preis: 2,35 €; Grundpreis: 0,5 kg (4,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1517804,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796181500,
+      "images": [
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088923/assets/pas/images/7b14a170-c106-434d-801c-dbbbb3eb3904/dmbio-haferflocken-feinblatt-glutenfrei"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088924/assets/pas/images/c00edb22-c4f8-4dc3-b55f-618165d37784/dmbio-haferflocken-feinblatt-glutenfrei"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761744449/assets/pas/images/3b89549a-b8d2-400c-b051-347b120afc7a/dmbio-haferflocken-feinblatt-glutenfrei"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088920/assets/pas/images/4eee8a92-d8a6-44a2-922f-45650209ee3e/dmbio-haferflocken-feinblatt-glutenfrei"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt, glutenfrei dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088922/assets/pas/images/6fec9014-1df6-4e75-90d0-a4a677783edc/dmbio-haferflocken-feinblatt-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,20 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,39 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 144,
+        "ratingValue": 4.6597
+      },
+      "self": "/p/d/1517804/dmbio-haferflocken-feinblatt-glutenfrei",
+      "title": {
+        "tileHeadline": "Haferflocken, Feinblatt, glutenfrei, 500 g",
+        "tileHeadlineLong": "Haferflocken, Feinblatt, glutenfrei, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6597,
+        "ratingCount": 144
+      }
+    }
+  },
+  {
+    "gtin": 4067796081428,
+    "dan": 1490005,
+    "brandName": "dmBio",
+    "title": "Sojaflocken, 500 g",
+    "tileData": {
+      "dan": 1490005,
+      "gtin": 4067796081428,
+      "self": "/p/d/1490005/dmbio-sojaflocken",
+      "brand": {
+        "name": "dmBio"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "1,95 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,5 kg (3,90 € je 1 kg)"
+        ]
+      },
+      "title": {
+        "tileHeadline": "Sojaflocken, 500 g",
+        "tileHeadlineLong": "Sojaflocken, 500 g"
+      },
+      "images": [
+        {
+          "alt": "Sojaflocken dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487574/assets/pas/images/5bfcb9bf-8ada-47ff-8a34-586eba259c8b/dmbio-sojaflocken",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F4F1"
+        },
+        {
+          "alt": "Sojaflocken dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999268/assets/pas/images/328eb95e-d822-407f-9325-98fd019d1aec/dmbio-sojaflocken",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F4F9"
+        },
+        {
+          "alt": "Sojaflocken dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487328/assets/pas/images/6d8db1ec-28a9-4bec-aedf-5e7ad6c92ac3/dmbio-sojaflocken",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F7F1"
+        },
+        {
+          "alt": "Sojaflocken dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999267/assets/pas/images/321cb6af-a5bd-4211-9498-3653dec87b01/dmbio-sojaflocken",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F5F9"
+        },
+        {
+          "alt": "Sojaflocken dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487575/assets/pas/images/133d04d7-56d6-46d6-8c2a-8d261d99abe5/dmbio-sojaflocken",
+          "isAiGenerated": false,
+          "backgroundColor": "#F1F4F9"
+        },
+        {
+          "alt": "Sojaflocken dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999270/assets/pas/images/6c7f636f-1462-4a23-b660-e0bbfc55a72f/dmbio-sojaflocken",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F5F1"
+        },
+        {
+          "alt": "Sojaflocken dmBio",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754999272/assets/pas/images/9c9caabb-92e2-4b8b-8ef8-cb03a2f84336/dmbio-sojaflocken",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F5F1"
+        }
+      ],
+      "rating": {
+        "ratingCount": 151,
+        "ratingValue": 4.6159
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "1,82 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,5 kg (3,64 € je 1 kg)"
+        ]
+      },
+      "a11yLabel": "Marke: dmBio; Produktname: Sojaflocken, 500 g; Preis: 1,95 €; Grundpreis: 0,5 kg (3,90 € je 1 kg); Marke von dm Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "dmBio",
+        "price": 1.95,
+        "currency": "EUR",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6159,
+        "ratingCount": 151
+      }
+    }
+  },
+  {
+    "gtin": 4067796081466,
+    "dan": 1490002,
+    "brandName": "dmBio",
+    "title": "4-Korn Flocken, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: 4-Korn Flocken, 500 g; Preis: 1,65 €; Grundpreis: 0,5 kg (3,30 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1490002,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796081466,
+      "images": [
+        {
+          "alt": "4-Korn Flocken  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487411/assets/pas/images/185682df-12f4-47e9-8481-4637b70f389a/dmbio-4-korn-flocken"
+        },
+        {
+          "alt": "4-Korn Flocken  dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755007227/assets/pas/images/8ed800b3-106b-4de3-b69d-5b016072d95a/dmbio-4-korn-flocken"
+        },
+        {
+          "alt": "4-Korn Flocken  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487408/assets/pas/images/90989b3c-4d78-4082-9662-a1cf63508997/dmbio-4-korn-flocken"
+        },
+        {
+          "alt": "4-Korn Flocken  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755007232/assets/pas/images/f9fce76c-82eb-4538-94a4-f805b9034915/dmbio-4-korn-flocken"
+        },
+        {
+          "alt": "4-Korn Flocken  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487712/assets/pas/images/4f2728d0-d5b0-4387-9520-ec1d9d08f3c2/dmbio-4-korn-flocken"
+        },
+        {
+          "alt": "4-Korn Flocken  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755007229/assets/pas/images/a190cb99-a950-4cd2-b593-5fba6e1381dc/dmbio-4-korn-flocken"
+        },
+        {
+          "alt": "4-Korn Flocken  dmBio",
+          "backgroundColor": "#F2F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747487709/assets/pas/images/b42e9917-e9ef-47f9-aaa1-3b943baee5ad/dmbio-4-korn-flocken"
+        },
+        {
+          "alt": "4-Korn Flocken  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755007228/assets/pas/images/6c71b73a-135d-49f6-82c9-50f9502ecdf7/dmbio-4-korn-flocken"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,54 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,08 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,65 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (3,30 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 112,
+        "ratingValue": 4.7321
+      },
+      "self": "/p/d/1490002/dmbio-4-korn-flocken",
+      "title": {
+        "tileHeadline": "4-Korn Flocken, 500 g",
+        "tileHeadlineLong": "4-Korn Flocken, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.65
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7321,
+        "ratingCount": 112
+      }
+    }
+  },
+  {
+    "gtin": 4066447991673,
+    "dan": 1470153,
+    "brandName": "dmBio",
+    "title": "Hirseflocken, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Hirseflocken, 500 g; Preis: 2,25 €; Grundpreis: 0,5 kg (4,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1470153,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447991673,
+      "images": [
+        {
+          "alt": "Hirseflocken dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773450055/assets/pas/images/2cdfc6da-3560-432c-9df7-e706461816b1/dmbio-hirseflocken"
+        },
+        {
+          "alt": "Hirseflocken dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773450048/assets/pas/images/45c2daa8-ad54-4cc6-9891-d31f51d1a075/dmbio-hirseflocken"
+        },
+        {
+          "alt": "Hirseflocken dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773450051/assets/pas/images/989552ce-9787-4858-baf9-0fa28e290188/dmbio-hirseflocken"
+        },
+        {
+          "alt": "Hirseflocken dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1773450059/assets/pas/images/059c0aa7-01db-4983-8c08-c012e9bc6b41/dmbio-hirseflocken"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,21 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (4,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 175,
+        "ratingValue": 4.4114
+      },
+      "self": "/p/d/1470153/dmbio-hirseflocken",
+      "title": {
+        "tileHeadline": "Hirseflocken, 500 g",
+        "tileHeadlineLong": "Hirseflocken, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4114,
+        "ratingCount": 175
+      }
+    }
+  },
+  {
+    "gtin": 4066447663075,
+    "dan": 1702349,
+    "brandName": "dmBio",
+    "title": "Knuspermüsli, Fruchtringe, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Knuspermüsli, Fruchtringe, 300 g; Preis: 2,25 €; Grundpreis: 0,3 kg (7,50 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1702349,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447663075,
+      "images": [
+        {
+          "alt": "Knuspermüsli, Fruchtringe dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778020898/assets/pas/images/2cd90d1a-dd64-4e55-9312-ef1fa0196e2d/dmbio-knuspermuesli-fruchtringe"
+        },
+        {
+          "alt": "Knuspermüsli, Fruchtringe dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778020890/assets/pas/images/fe19d773-9bb0-4931-bcef-c35b105196ca/dmbio-knuspermuesli-fruchtringe"
+        },
+        {
+          "alt": "Knuspermüsli, Fruchtringe dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761836430/assets/pas/images/168c8f67-b65f-466c-af34-15a7ccb56ce3/dmbio-knuspermuesli-fruchtringe"
+        },
+        {
+          "alt": "Knuspermüsli, Fruchtringe dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778020895/assets/pas/images/009cb713-33da-4720-ad8d-b62091870f99/dmbio-knuspermuesli-fruchtringe"
+        },
+        {
+          "alt": "Knuspermüsli, Fruchtringe dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1778020904/assets/pas/images/9a2bc7e3-9f02-455f-9ea8-78ff6ad1f432/dmbio-knuspermuesli-fruchtringe"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (7,01 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,25 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (7,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 200,
+        "ratingValue": 3.7
+      },
+      "self": "/p/d/1702349/dmbio-knuspermuesli-fruchtringe",
+      "title": {
+        "tileHeadline": "Knuspermüsli, Fruchtringe, 300 g",
+        "tileHeadlineLong": "Knuspermüsli, Fruchtringe, 300 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.25
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.7,
+        "ratingCount": 200
+      }
+    }
+  },
+  {
+    "gtin": 4070765029246,
+    "dan": 3137203,
+    "brandName": "dmBio",
+    "title": "Buchweizenflocken, 350 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Buchweizenflocken, 350 g; Preis: 2,45 €; Grundpreis: 0,35 kg (7,00 € je 1 kg); Neues Produkt Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 3137203,
+      "eyecatchers": [
+        {
+          "alt": "Neues Produkt Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782806804/assets/mp/highlight-graphics/media_highlight_graphic_new_de_de/media_highlight_graphic_new_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765029246,
+      "images": [
+        {
+          "alt": "Buchweizenflocken dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782254448/assets/pas/images/af78a956-0213-483f-8e76-914427e2ceee/dmbio-buchweizenflocken"
+        },
+        {
+          "alt": "Buchweizenflocken dmBio",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782254439/assets/pas/images/5589262d-c884-452b-8cfc-f19582d12d69/dmbio-buchweizenflocken"
+        },
+        {
+          "alt": "Buchweizenflocken dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782254435/assets/pas/images/f914ff3b-e372-44f9-8522-b3152185fcce/dmbio-buchweizenflocken"
+        },
+        {
+          "alt": "Buchweizenflocken dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1782254445/assets/pas/images/92960182-1c9b-4070-841a-02fd12b03892/dmbio-buchweizenflocken"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,29 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (6,54 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,35 kg (7,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 13,
+        "ratingValue": 4.6154
+      },
+      "self": "/p/d/3137203/dmbio-buchweizenflocken",
+      "title": {
+        "tileHeadline": "Buchweizenflocken, 350 g",
+        "tileHeadlineLong": "Buchweizenflocken, 350 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6429,
+        "ratingCount": 14
+      }
+    }
+  },
+  {
+    "gtin": 4067796181487,
+    "dan": 1442821,
+    "brandName": "dmBio",
+    "title": "Haferflocken, Feinblatt, 1.000 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferflocken, Feinblatt, 1.000 g; Preis: 1,55 €; Grundpreis: 1 kg (1,55 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1442821,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796181487,
+      "images": [
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088975/assets/pas/images/3bddb1d8-7a7c-4bad-9268-f55453f4105b/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088970/assets/pas/images/a0f598dd-fe28-44ea-9874-4fc20234f5ba/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088973/assets/pas/images/7fa90c8c-179f-430c-a51a-60c58768bf72/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755088974/assets/pas/images/367f9329-34c4-47d5-9053-7169b6810b58/dmbio-haferflocken-feinblatt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,45 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (1,45 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,55 €"
+          }
+        },
+        "tileInfos": [
+          "1 kg (1,55 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 290,
+        "ratingValue": 4.3759
+      },
+      "self": "/p/d/1442821/dmbio-haferflocken-feinblatt",
+      "title": {
+        "tileHeadline": "Haferflocken, Feinblatt, 1.000 g",
+        "tileHeadlineLong": "Haferflocken, Feinblatt, 1.000 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.55
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3759,
+        "ratingCount": 290
+      }
+    }
+  },
+  {
+    "gtin": 4067796081442,
+    "dan": 1442851,
+    "brandName": "dmBio",
+    "title": "Dinkelflocken, Feinblatt, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Dinkelflocken, Feinblatt, 500 g; Preis: 1,15 €; Grundpreis: 0,5 kg (2,30 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1442851,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796081442,
+      "images": [
+        {
+          "alt": "Dinkelflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092606/assets/pas/images/1621b327-0ac4-4c5e-8c4a-7147a70d57ec/dmbio-dinkelflocken-feinblatt"
+        },
+        {
+          "alt": "Dinkelflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092610/assets/pas/images/e29cf9e8-8ffe-4b9c-8af2-f9df249c7ca1/dmbio-dinkelflocken-feinblatt"
+        },
+        {
+          "alt": "Dinkelflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1761042469/assets/pas/images/e329c90c-0a49-4759-97e9-728c9d0181ab/dmbio-dinkelflocken-feinblatt"
+        },
+        {
+          "alt": "Dinkelflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092609/assets/pas/images/cad3b376-a21f-45b9-8ba5-f1ec64429384/dmbio-dinkelflocken-feinblatt"
+        },
+        {
+          "alt": "Dinkelflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755092607/assets/pas/images/154132a6-df6f-42e4-a709-dc32da3c360f/dmbio-dinkelflocken-feinblatt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,07 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,15 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,15 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (2,30 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 112,
+        "ratingValue": 4.7857
+      },
+      "self": "/p/d/1442851/dmbio-dinkelflocken-feinblatt",
+      "title": {
+        "tileHeadline": "Dinkelflocken, Feinblatt, 500 g",
+        "tileHeadlineLong": "Dinkelflocken, Feinblatt, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.15
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.7857,
+        "ratingCount": 112
+      }
+    }
+  },
+  {
+    "gtin": 4067796181463,
+    "dan": 1442845,
+    "brandName": "dmBio",
+    "title": "Haferflocken, Großblatt, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferflocken, Großblatt, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1442845,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796181463,
+      "images": [
+        {
+          "alt": "Haferflocken, Großblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006698/assets/pas/images/4d013658-48b3-48a6-9992-551a370e7a4d/dmbio-haferflocken-grossblatt"
+        },
+        {
+          "alt": "Haferflocken, Großblatt dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006694/assets/pas/images/a9942d64-9aa9-4fe7-99cc-ac0407db6caa/dmbio-haferflocken-grossblatt"
+        },
+        {
+          "alt": "Haferflocken, Großblatt dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006694/assets/pas/images/a2f3c3f4-2129-4c5e-9809-5e442fe81144/dmbio-haferflocken-grossblatt"
+        },
+        {
+          "alt": "Haferflocken, Großblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755006698/assets/pas/images/2d3e0fc3-aa67-476e-b1db-925d204bf8cf/dmbio-haferflocken-grossblatt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 122,
+        "ratingValue": 4.2459
+      },
+      "self": "/p/d/1442845/dmbio-haferflocken-grossblatt",
+      "title": {
+        "tileHeadline": "Haferflocken, Großblatt, 500 g",
+        "tileHeadlineLong": "Haferflocken, Großblatt, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.2459,
+        "ratingCount": 122
+      }
+    }
+  },
+  {
+    "gtin": 4067796180091,
+    "dan": 1442819,
+    "brandName": "dmBio",
+    "title": "Haferflocken, Feinblatt, 500 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferflocken, Feinblatt, 500 g; Preis: 0,85 €; Grundpreis: 0,5 kg (1,70 € je 1 kg); Marke von dm Grafik, Grafik: Öko Test dmBio Haferflocken Feinblatt, 500g sehr gut Öko-TEST Magazin Ausgabe 10/2024 35 Produkte im Test, davon 21x sehr gut",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1442819,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        },
+        {
+          "alt": "Grafik: Öko Test dmBio Haferflocken Feinblatt, 500g sehr gut Öko-TEST Magazin Ausgabe 10/2024 35 Produkte im Test, davon 21x sehr gut",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1768551198/assets/pas/seals/04f3daf9-2089-4626-82ed-496c6153ef41/04f3daf9-2089-4626-82ed-496c6153ef41.webp",
+          "zoomSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_480/v1768551198/assets/pas/seals/04f3daf9-2089-4626-82ed-496c6153ef41/04f3daf9-2089-4626-82ed-496c6153ef41.webp"
+        }
+      ],
+      "gtin": 4067796180091,
+      "images": [
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009947/assets/pas/images/5afbfe47-5615-4f96-b97e-457fd58a7eb9/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009947/assets/pas/images/df700b4c-819c-4bb5-9f71-092ed0493592/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009951/assets/pas/images/71da8b55-0e47-4cfb-8b7e-d4bdd12d700a/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt dmBio",
+          "backgroundColor": "#F5F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755009948/assets/pas/images/a5a0f64a-30a6-482a-aae1-9e2676fb868d/dmbio-haferflocken-feinblatt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,79 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,59 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,5 kg (1,70 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 137,
+        "ratingValue": 4.3212
+      },
+      "self": "/p/d/1442819/dmbio-haferflocken-feinblatt",
+      "title": {
+        "tileHeadline": "Haferflocken, Feinblatt, 500 g",
+        "tileHeadlineLong": "Haferflocken, Feinblatt, 500 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.3212,
+        "ratingCount": 137
+      }
+    }
+  },
+  {
+    "gtin": 4070765012347,
+    "dan": 1488547,
+    "brandName": "dmBio",
+    "title": "Knuspermüsli, Kids, 375 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Knuspermüsli, Kids, 375 g; Preis: 1,85 €; Grundpreis: 0,375 kg (4,93 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1488547,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765012347,
+      "images": [
+        {
+          "alt": "Knuspermüsli, Kids dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776987236/assets/pas/images/d9fc4f31-c080-4ea9-886a-0a187b10513b/dmbio-knuspermuesli-kids"
+        },
+        {
+          "alt": "Knuspermüsli, Kids dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776987231/assets/pas/images/9376ffcd-0803-4d5c-bc5d-200762dfa9fc/dmbio-knuspermuesli-kids"
+        },
+        {
+          "alt": "Knuspermüsli, Kids dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776987244/assets/pas/images/f3b47961-be94-4f17-82ee-ca662838c164/dmbio-knuspermuesli-kids"
+        },
+        {
+          "alt": "Knuspermüsli, Kids dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776987241/assets/pas/images/4ac49c66-dbd6-4d23-bc11-8dfde9266c9c/dmbio-knuspermuesli-kids"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,73 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 kg (4,61 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,85 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 kg (4,93 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 154,
+        "ratingValue": 4.6104
+      },
+      "self": "/p/d/1488547/dmbio-knuspermuesli-kids",
+      "title": {
+        "tileHeadline": "Knuspermüsli, Kids, 375 g",
+        "tileHeadlineLong": "Knuspermüsli, Kids, 375 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6104,
+        "ratingCount": 154
+      }
+    }
+  },
+  {
+    "gtin": 4059729466488,
+    "dan": 1399731,
+    "brandName": "essence",
+    "title": "Lippenstift Meta Glow Colour Changing, 3,4 g",
+    "tileData": {
+      "a11yLabel": "Marke: essence; Produktname: Lippenstift Meta Glow Colour Changing, 3,4 g; Preis: 2,95 €",
+      "brand": {
+        "name": "essence"
+      },
+      "dan": 1399731,
+      "gtin": 4059729466488,
+      "images": [
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468354/assets/pas/images/474d3cb8-74f4-4cd3-a38e-38a9eaf3d43f/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F5F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468504/assets/pas/images/e754ed66-88d6-4644-b396-9d2e2f1433cc/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468223/assets/pas/images/8106c003-8598-4185-a2f8-3c4db7b084a0/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769038499/assets/pas/images/436a3c92-e8da-4207-96a0-1d2b8c40c477/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1769038509/assets/pas/images/70bc8c8c-8cab-4aa8-a7fc-089f34797162/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468222/assets/pas/images/5b3b04ee-5696-4aa5-9483-44b73d6c174d/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468513/assets/pas/images/e9e57662-7bd6-4c1e-ac98-b536fc31971b/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468227/assets/pas/images/b309a50e-6555-4c8b-b6a5-2dc6ec412cb3/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468513/assets/pas/images/645edb2f-c997-46e5-878d-c9853c479e22/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468507/assets/pas/images/6a7f5485-ddc4-4810-9b8e-ef0318ba394c/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F1F3F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468218/assets/pas/images/604d5576-9db3-47eb-b7b1-cefcea142a43/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F1F1F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468226/assets/pas/images/b84f1f0a-bbac-4f98-a931-29388e680792/essence-lippenstift-meta-glow-colour-changing"
+        },
+        {
+          "alt": "Lippenstift Meta Glow Colour Changing essence",
+          "backgroundColor": "#F1F6F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747468512/assets/pas/images/da1da885-c1bb-4bb7-98f4-77d76b110768/essence-lippenstift-meta-glow-colour-changing"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,48 €"
+          }
+        }
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        }
+      },
+      "rating": {
+        "ratingCount": 130,
+        "ratingValue": 3.9846
+      },
+      "self": "/p/d/1399731/essence-lippenstift-meta-glow-colour-changing",
+      "title": {
+        "tileHeadline": "Lippenstift Meta Glow Colour Changing, 3,4 g",
+        "tileHeadlineLong": "Lippenstift Meta Glow Colour Changing, 3,4 g"
+      },
+      "trackingData": {
+        "brand": "essence",
+        "categories": [
+          "Lippenstift"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.9846,
+        "ratingCount": 130
+      }
+    }
+  },
+  {
+    "gtin": 4067796172348,
+    "dan": 1675627,
+    "brandName": "babylove",
+    "title": "Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g",
+    "tileData": {
+      "a11yLabel": "Marke: babylove; Produktname: Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g; Rechtliche Kategorie: Beikost; Preis: 0,45 €; Grundpreis: 0,025 kg (18,00 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "babylove"
+      },
+      "dan": 1675627,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4067796172348,
+      "images": [
+        {
+          "alt": "Knusperriegel Apfel-Kirsch ab 1 Jahr babylove",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754990487/assets/pas/images/d33fb49b-0611-4a0d-a849-34d9c61b9bce/babylove-knusperriegel-apfel-kirsch-ab-1-jahr"
+        },
+        {
+          "alt": "Knusperriegel Apfel-Kirsch ab 1 Jahr babylove",
+          "backgroundColor": "#F9F1F2",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754990491/assets/pas/images/01a3aead-a3da-4ed0-88b1-fe3f9b0a0222/babylove-knusperriegel-apfel-kirsch-ab-1-jahr"
+        },
+        {
+          "alt": "Knusperriegel Apfel-Kirsch ab 1 Jahr babylove",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748560454/assets/pas/images/aaa4471e-f8f7-4b25-82e6-4daf878e1079/babylove-knusperriegel-apfel-kirsch-ab-1-jahr"
+        },
+        {
+          "alt": "Knusperriegel Apfel-Kirsch ab 1 Jahr babylove",
+          "backgroundColor": "#F9F1F5",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1754990490/assets/pas/images/46493cc9-a82a-4912-b88e-6a3bf4d5ce4f/babylove-knusperriegel-apfel-kirsch-ab-1-jahr"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,42 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (16,82 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "0,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,025 kg (18,00 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 102,
+        "ratingValue": 4.6275
+      },
+      "self": "/p/d/1675627/babylove-knusperriegel-apfel-kirsch-ab-1-jahr",
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g",
+        "tileHeadlineLong": "Knusperriegel Apfel-Kirsch ab 1 Jahr, 25 g"
+      },
+      "trackingData": {
+        "brand": "babylove",
+        "categories": [
+          "Riegel für Kinder"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 0.45
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6275,
+        "ratingCount": 102
+      }
+    }
+  },
+  {
+    "gtin": 1220000220638,
+    "dan": 3064247,
+    "brandName": "frida baby",
+    "title": "Milchschorf-Set Frida Baby 3in1, 1 St",
+    "tileData": {
+      "a11yLabel": "Marke: frida baby; Produktname: Milchschorf-Set Frida Baby 3in1, 1 St; Preis: 17,95 €; Grundpreis: 1 St (17,95 € je 1 St); Nur Online Grafik",
+      "brand": {
+        "name": "frida baby"
+      },
+      "dan": 3064247,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 1220000220638,
+      "images": [
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406967/assets/pas/images/6118267e-35af-4ca0-a555-6e81fc156e96/frida-baby-milchschorf-set-frida-baby-3in1"
+        },
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406991/assets/pas/images/2cdabdc3-7ba6-45e1-b492-35ba7cf895a4/frida-baby-milchschorf-set-frida-baby-3in1"
+        },
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406964/assets/pas/images/1dfb2753-9a67-4924-a2f8-ed0de1c00289/frida-baby-milchschorf-set-frida-baby-3in1"
+        },
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406992/assets/pas/images/e0407778-0459-4b67-93ba-8983de3d6ade/frida-baby-milchschorf-set-frida-baby-3in1"
+        },
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406965/assets/pas/images/deebfee8-dda9-462b-97c0-bb6bfdc4a429/frida-baby-milchschorf-set-frida-baby-3in1"
+        },
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406991/assets/pas/images/79c932c3-8f79-435f-b111-229cf09ae849/frida-baby-milchschorf-set-frida-baby-3in1"
+        },
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406965/assets/pas/images/2d5fc8fc-413e-47e9-ba4d-88b8d943933d/frida-baby-milchschorf-set-frida-baby-3in1"
+        },
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406995/assets/pas/images/1328c5a3-8413-4d80-9fa8-180bf981f27c/frida-baby-milchschorf-set-frida-baby-3in1"
+        },
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F7F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406968/assets/pas/images/c60ca1cd-128a-4c62-8cd0-d6b5fe6af9cd/frida-baby-milchschorf-set-frida-baby-3in1"
+        },
+        {
+          "alt": "Milchschorf-Set Frida Baby 3in1 frida baby",
+          "backgroundColor": "#F1F8F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747406969/assets/pas/images/711bf954-69cb-4275-9f82-1894876fe3fd/frida-baby-milchschorf-set-frida-baby-3in1"
+        }
+      ],
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "15,08 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (15,08 € je 1 St)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "17,95 €"
+          }
+        },
+        "tileInfos": [
+          "1 St (17,95 € je 1 St)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 32,
+        "ratingValue": 4.6875
+      },
+      "self": "/p/d/3064247/frida-baby-milchschorf-set-frida-baby-3in1",
+      "title": {
+        "tileHeadline": "Milchschorf-Set Frida Baby 3in1, 1 St",
+        "tileHeadlineLong": "Milchschorf-Set Frida Baby 3in1, 1 St"
+      },
+      "trackingData": {
+        "brand": "frida baby",
+        "categories": [
+          "Baby- & Kindergesundheit"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 17.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6875,
+        "ratingCount": 32
+      }
+    }
+  },
+  {
+    "gtin": 4066447951349,
+    "dan": 1568371,
+    "brandName": "dmBio",
+    "title": "Schoko-Müsli mit Knusperflakes glutenfrei, 375 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Schoko-Müsli mit Knusperflakes glutenfrei, 375 g; Preis: 2,95 €; Grundpreis: 0,375 kg (7,87 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1568371,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447951349,
+      "images": [
+        {
+          "alt": "Schoko-Müsli mit Knusperflakes glutenfrei dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849848/assets/pas/images/8879ec4c-31a9-4ed6-9857-d6b8e3d5914e/dmbio-schoko-muesli-mit-knusperflakes-glutenfrei"
+        },
+        {
+          "alt": "Schoko-Müsli mit Knusperflakes glutenfrei dmBio",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849843/assets/pas/images/d52ba513-bc69-46cd-bca7-664141998803/dmbio-schoko-muesli-mit-knusperflakes-glutenfrei"
+        },
+        {
+          "alt": "Schoko-Müsli mit Knusperflakes glutenfrei dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849840/assets/pas/images/856818aa-b400-49e8-bf1a-6cc3b4c4a80c/dmbio-schoko-muesli-mit-knusperflakes-glutenfrei"
+        },
+        {
+          "alt": "Schoko-Müsli mit Knusperflakes glutenfrei dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1763849837/assets/pas/images/b1b3bb2f-bddb-444e-9b9e-10211737ecc2/dmbio-schoko-muesli-mit-knusperflakes-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,76 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 kg (7,36 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 kg (7,87 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 178,
+        "ratingValue": 4.6067
+      },
+      "self": "/p/d/1568371/dmbio-schoko-muesli-mit-knusperflakes-glutenfrei",
+      "title": {
+        "tileHeadline": "Schoko-Müsli mit Knusperflakes glutenfrei, 375 g",
+        "tileHeadlineLong": "Schoko-Müsli mit Knusperflakes glutenfrei, 375 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.6067,
+        "ratingCount": 178
+      }
+    }
+  },
+  {
+    "gtin": 9004617065651,
+    "dan": 3070190,
+    "brandName": "VERIVAL",
+    "title": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g",
+    "tileData": {
+      "a11yLabel": "Marke: VERIVAL; Produktname: Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g; Preis: 4,95 €; Grundpreis: 0,3 kg (16,50 € je 1 kg); Nur Online Grafik",
+      "brand": {
+        "name": "VERIVAL"
+      },
+      "dan": 3070190,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "gtin": 9004617065651,
+      "images": [
+        {
+          "alt": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei VERIVAL",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1748338551/assets/pas/images/46135ecf-b64e-4d28-b7f6-044df85a9693/verival-protein-muesli-erdbeere-sauerkirsche-glutenfrei"
+        },
+        {
+          "alt": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei VERIVAL",
+          "backgroundColor": "#F9F1F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1747538208/assets/pas/images/b7264d9e-0396-41bc-82c2-7ff1d1f360b6/verival-protein-muesli-erdbeere-sauerkirsche-glutenfrei"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (15,42 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,3 kg (16,50 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 4,
+        "ratingValue": 4.75
+      },
+      "self": "/p/d/3070190/verival-protein-muesli-erdbeere-sauerkirsche-glutenfrei",
+      "title": {
+        "tileHeadline": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g",
+        "tileHeadlineLong": "Protein Müsli, Erdbeere-Sauerkirsche, glutenfrei, 300 g"
+      },
+      "trackingData": {
+        "brand": "VERIVAL",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.75,
+        "ratingCount": 4
+      }
+    }
+  },
+  {
+    "gtin": 9120111882355,
+    "dan": 3077264,
+    "brandName": "PURE & FUN",
+    "title": "Kindermüsli Knusper Vollkorn mit Apfel & Erdbeere, ab 3 Jahren, 375 g",
+    "tileData": {
+      "a11yLabel": "Marke: PURE & FUN; Produktname: Kindermüsli Knusper Vollkorn mit Apfel & Erdbeere, ab 3 Jahren, 375 g; Preis: 3,95 €; Grundpreis: 0,375 kg (10,53 € je 1 kg)",
+      "brand": {
+        "name": "PURE & FUN"
+      },
+      "dan": 3077264,
+      "gtin": 9120111882355,
+      "images": [
+        {
+          "alt": "Kindermüsli Knusper Vollkorn mit Apfel & Erdbeere, ab 3 Jahren PURE & FUN",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1755588279/assets/pas/images/098da36e-7248-427e-bc86-220bf310abd4/pure-und-fun-kindermuesli-knusper-vollkorn-mit-apfel-und-erdbeere-ab-3-jahren"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,69 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 kg (9,84 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "3,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,375 kg (10,53 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 12,
+        "ratingValue": 4.4167
+      },
+      "self": "/p/d/3077264/pure-und-fun-kindermuesli-knusper-vollkorn-mit-apfel-und-erdbeere-ab-3-jahren",
+      "title": {
+        "tileHeadline": "Kindermüsli Knusper Vollkorn mit Apfel &..., 375 g",
+        "tileHeadlineLong": "Kindermüsli Knusper Vollkorn mit Apfel &..., 375 g"
+      },
+      "trackingData": {
+        "brand": "PURE & FUN",
+        "categories": [
+          "Babybrei"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 3.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4167,
+        "ratingCount": 12
+      }
+    }
+  },
+  {
+    "gtin": 4260137741924,
+    "dan": 1534313,
+    "brandName": "Frusano",
+    "title": "Crispies, Quinoa, 125 g",
+    "tileData": {
+      "a11yLabel": "Marke: Frusano; Produktname: Crispies, Quinoa, 125 g; Preis: 4,95 €; Grundpreis: 0,125 kg (39,60 € je 1 kg)",
+      "brand": {
+        "name": "Frusano"
+      },
+      "dan": 1534313,
+      "gtin": 4260137741924,
+      "images": [
+        {
+          "alt": "Crispies, Quinoa Frusano",
+          "backgroundColor": "#F7F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1759915495/assets/pas/images/ceb48ad3-6c89-4c2f-9b23-bcb38785df49/frusano-crispies-quinoa"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,63 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (37,01 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "4,95 €"
+          }
+        },
+        "tileInfos": [
+          "0,125 kg (39,60 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 59,
+        "ratingValue": 4.4746
+      },
+      "self": "/p/d/1534313/frusano-crispies-quinoa",
+      "title": {
+        "tileHeadline": "Crispies, Quinoa, 125 g",
+        "tileHeadlineLong": "Crispies, Quinoa, 125 g"
+      },
+      "trackingData": {
+        "brand": "Frusano",
+        "categories": [
+          "Kekse, Waffeln & Cookies"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 4.95
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.4746,
+        "ratingCount": 59
+      }
+    }
+  },
+  {
+    "gtin": 4070765023077,
+    "dan": 1445214,
+    "brandName": "dmBio",
+    "title": "Müsli, Basis ohne Rosinen, 600 g",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Müsli, Basis ohne Rosinen, 600 g; Preis: 1,35 €; Grundpreis: 0,6 kg (2,25 € je 1 kg); Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1445214,
+      "eyecatchers": [
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4070765023077,
+      "images": [
+        {
+          "alt": "Müsli, Basis ohne Rosinen dmBio",
+          "backgroundColor": "#F9F6F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776984202/assets/pas/images/6fa326e4-5513-4b22-8014-3aa8f3e76a1f/dmbio-muesli-basis-ohne-rosinen"
+        },
+        {
+          "alt": "Müsli, Basis ohne Rosinen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776984206/assets/pas/images/1b36958f-0ada-4d8c-96b3-2930c8185cee/dmbio-muesli-basis-ohne-rosinen"
+        },
+        {
+          "alt": "Müsli, Basis ohne Rosinen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776984198/assets/pas/images/06df4522-4be9-4709-9276-a9793bae3f7a/dmbio-muesli-basis-ohne-rosinen"
+        },
+        {
+          "alt": "Müsli, Basis ohne Rosinen dmBio",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1776984195/assets/pas/images/1f7b9965-9164-445e-a093-d03f956fa487/dmbio-muesli-basis-ohne-rosinen"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,26 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (2,10 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "1,35 €"
+          }
+        },
+        "tileInfos": [
+          "0,6 kg (2,25 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 123,
+        "ratingValue": 4.8374
+      },
+      "self": "/p/d/1445214/dmbio-muesli-basis-ohne-rosinen",
+      "title": {
+        "tileHeadline": "Müsli, Basis ohne Rosinen, 600 g",
+        "tileHeadlineLong": "Müsli, Basis ohne Rosinen, 600 g"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Müsli & Granola"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 1.35
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8374,
+        "ratingCount": 123
+      }
+    }
+  },
+  {
+    "gtin": 7640161872219,
+    "dan": 1546386,
+    "brandName": "Holle",
+    "title": "Kindermüsli mit Cornflakes ab dem 10. Monat, 250 g",
+    "tileData": {
+      "dan": 1546386,
+      "gtin": 7640161872219,
+      "self": "/p/d/1546386/holle-kindermuesli-mit-cornflakes-ab-dem-10-monat",
+      "brand": {
+        "name": "Holle"
+      },
+      "price": {
+        "price": {
+          "current": {
+            "value": "3,45 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,25 kg (13,80 € je 1 kg)"
+        ]
+      },
+      "title": {
+        "subheadline": "Beikost",
+        "tileHeadline": "Kindermüsli mit Cornflakes ab dem 10. Monat, 250 g",
+        "tileHeadlineLong": "Kindermüsli mit Cornflakes ab dem 10. Monat, 250 g"
+      },
+      "images": [
+        {
+          "alt": "Kindermüsli mit Cornflakes ab dem 10. Monat Holle",
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1760479309/assets/pas/images/bcb804c3-efc0-45ee-ba96-88d23cd8bfba/holle-kindermuesli-mit-cornflakes-ab-dem-10-monat",
+          "isAiGenerated": false,
+          "backgroundColor": "#F9F6F1"
+        }
+      ],
+      "rating": {
+        "ratingCount": 44,
+        "ratingValue": 4.9091
+      },
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "netPrice": {
+        "price": {
+          "current": {
+            "value": "3,22 €"
+          }
+        },
+        "prefix": "Einzelpreis",
+        "tileInfos": [
+          "0,25 kg (12,90 € je 1 kg)"
+        ]
+      },
+      "a11yLabel": "Marke: Holle; Produktname: Kindermüsli mit Cornflakes ab dem 10. Monat, 250 g; Rechtliche Kategorie: Beikost; Preis: 3,45 €; Grundpreis: 0,25 kg (13,80 € je 1 kg); Nur Online Grafik",
+      "isPharmacy": false,
+      "eyecatchers": [
+        {
+          "alt": "Nur Online Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782814967/assets/mp/highlight-graphics/media_highlight_graphic_os_exclusive_de_de/media_highlight_graphic_os_exclusive_de_de"
+        }
+      ],
+      "trackingData": {
+        "brand": "Holle",
+        "price": 3.45,
+        "currency": "EUR",
+        "categories": [
+          "Babybrei"
+        ],
+        "isPharmacy": false
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.9091,
+        "ratingCount": 44
+      }
+    }
+  },
+  {
+    "gtin": 4066447861136,
+    "dan": 1625035,
+    "brandName": "dmBio",
+    "title": "Haferflocken, Feinblatt, 2 kg",
+    "tileData": {
+      "a11yLabel": "Marke: dmBio; Produktname: Haferflocken, Feinblatt, 2 kg; Preis: 2,85 €; Grundpreis: 2 kg (1,43 € je 1 kg); Limitierte Editition Grafik, Marke von dm Grafik",
+      "brand": {
+        "name": "dmBio"
+      },
+      "dan": 1625035,
+      "eyecatchers": [
+        {
+          "alt": "Limitierte Editition Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782815005/assets/mp/highlight-graphics/media_highlight_graphic_promotion_de_de/media_highlight_graphic_promotion_de_de"
+        },
+        {
+          "alt": "Marke von dm Grafik",
+          "src": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,w_150/v1782977607/assets/mp/highlight-graphics/media_highlight_graphic_dm_brand_de_de/media_highlight_graphic_dm_brand_de_de"
+        }
+      ],
+      "gtin": 4066447861136,
+      "images": [
+        {
+          "alt": "Haferflocken, Feinblatt  dmBio",
+          "backgroundColor": "#F9F5F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774740623/assets/pas/images/37c59b30-d06a-4423-b78f-eda3c6fdc9d4/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt  dmBio",
+          "backgroundColor": "#F9F8F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774740632/assets/pas/images/ec1162d8-4960-46cc-a57d-c310510b9420/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775777337/assets/pas/images/89056516-c821-4946-af79-40e7578c5b9f/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt  dmBio",
+          "backgroundColor": "#F9F7F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774740628/assets/pas/images/aaf0046e-f1bd-4e0c-a173-d19b606adc20/dmbio-haferflocken-feinblatt"
+        },
+        {
+          "alt": "Haferflocken, Feinblatt  dmBio",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1775169354/assets/pas/images/449f68a2-32e6-4ef7-ba89-1ff6728868e4/dmbio-haferflocken-feinblatt"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,66 €"
+          }
+        },
+        "tileInfos": [
+          "2 kg (1,34 € je 1 kg)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "2,85 €"
+          }
+        },
+        "tileInfos": [
+          "2 kg (1,43 € je 1 kg)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 67,
+        "ratingValue": 4.8209
+      },
+      "self": "/p/d/1625035/dmbio-haferflocken-feinblatt",
+      "title": {
+        "tileHeadline": "Haferflocken, Feinblatt, 2 kg",
+        "tileHeadlineLong": "Haferflocken, Feinblatt, 2 kg"
+      },
+      "trackingData": {
+        "brand": "dmBio",
+        "categories": [
+          "Flocken & Flakes"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 2.85
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 4.8209,
+        "ratingCount": 67
+      }
+    }
+  },
+  {
+    "gtin": 30189126,
+    "dan": 2978510,
+    "brandName": "essie",
+    "title": "Nagellack Effekt 7 Identity, 13,5 ml",
+    "tileData": {
+      "a11yLabel": "Marke: essie; Produktname: Nagellack Effekt 7 Identity, 13,5 ml; Preis: 8,45 €; Grundpreis: 0,0135 l (625,93 € je 1 l)",
+      "brand": {
+        "name": "essie"
+      },
+      "dan": 2978510,
+      "gtin": 30189126,
+      "images": [
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F1F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1772231319/assets/pas/images/b1ab214e-8a14-4d11-8a5c-9860cd845057/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F1F9F3",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774657390/assets/pas/images/8b37a630-4e09-4f32-abc8-76d8a358c9bc/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F3F9F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774657369/assets/pas/images/6feb9c25-f586-446a-9120-c28871ba50f4/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F9F2F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774657345/assets/pas/images/2c654561-7680-4c32-a36d-29618a7c96aa/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774657356/assets/pas/images/97d5614a-14b4-42ab-9185-56a58680e94c/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774657399/assets/pas/images/069387bb-7194-4a46-95dd-7cd13f454899/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F9F3F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1774657379/assets/pas/images/47c6285a-9cd2-433b-bfc1-1795555df989/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751675901/assets/pas/images/fc0726ea-3ac5-4888-8bbf-72e01590f9ed/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751675924/assets/pas/images/a2e86717-3fa4-49b9-81f5-4a44ee1e63d9/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F9F4F1",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751675934/assets/pas/images/05780b8a-f26d-43d0-8f4d-bb973b82a8b5/essie-nagellack-effekt-7-identity"
+        },
+        {
+          "alt": "Nagellack Effekt 7 Identity  essie",
+          "backgroundColor": "#F1F9F9",
+          "isAiGenerated": false,
+          "tileSrc": "https://products.dm-static.com/images/f_auto,q_auto,c_fit,h_320,w_320/v1751675914/assets/pas/images/4662bcbc-0b9f-4e4c-bad8-5d2ab838b613/essie-nagellack-effekt-7-identity"
+        }
+      ],
+      "infoHint": {
+        "text": "Hinweise"
+      },
+      "isPharmacy": false,
+      "netPrice": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "7,10 €"
+          }
+        },
+        "tileInfos": [
+          "0,0135 l (525,99 € je 1 l)"
+        ]
+      },
+      "price": {
+        "prefix": "Einzelpreis",
+        "price": {
+          "current": {
+            "value": "8,45 €"
+          }
+        },
+        "tileInfos": [
+          "0,0135 l (625,93 € je 1 l)"
+        ]
+      },
+      "rating": {
+        "ratingCount": 6,
+        "ratingValue": 3.8333
+      },
+      "self": "/p/d/2978510/essie-nagellack-effekt-7-identity",
+      "title": {
+        "tileHeadline": "Nagellack Effekt 7 Identity, 13,5 ml",
+        "tileHeadlineLong": "Nagellack Effekt 7 Identity, 13,5 ml"
+      },
+      "trackingData": {
+        "brand": "essie",
+        "categories": [
+          "Nagellack"
+        ],
+        "currency": "EUR",
+        "isPharmacy": false,
+        "price": 8.45
+      },
+      "variants": {
+        "showMore": {
+          "text": "+6 weitere Varianten",
+          "tooltip": "weitere Varianten auf der Produktdetailseite"
+        },
+        "tileColors": [
+          {
+            "dan": 2978510,
+            "gtin": 30189126,
+            "hex": "#ddfff4",
+            "href": "/p/d/2978510/essie-nagellack-effekt-7-identity",
+            "isSelected": true,
+            "tooltip": "Nagellack Effekt 7 Identity "
+          },
+          {
+            "dan": 1338301,
+            "gtin": 30095908,
+            "hex": "#060606",
+            "href": "/p/d/1338301/essie-nagellack-88-licorice-schwarz",
+            "isSelected": false,
+            "tooltip": "88 licorice"
+          },
+          {
+            "dan": 3115406,
+            "gtin": 30197374,
+            "hex": "#E2D9CC",
+            "href": "/p/d/3115406/essie-nagellack-1015-shiitake-happens",
+            "isSelected": false,
+            "tooltip": "Shiitake Happens"
+          },
+          {
+            "dan": 1338253,
+            "gtin": 30095069,
+            "hex": "#f8f8f8",
+            "href": "/p/d/1338253/essie-nagellack-04-pearly-white",
+            "isSelected": false,
+            "tooltip": "Pearly White"
+          },
+          {
+            "dan": 1338252,
+            "gtin": 30095052,
+            "hex": "#f9f8f1",
+            "href": "/p/d/1338252/essie-nagellack-03-marshmallow",
+            "isSelected": false,
+            "tooltip": "3 marshmallow"
+          },
+          {
+            "dan": 2978519,
+            "gtin": 30189034,
+            "hex": "#faf5f6",
+            "href": "/p/d/2978519/essie-nagellack-stay-fluid-990-weiss",
+            "isSelected": false,
+            "tooltip": "Nagellack Stay Fluid 990 Weiß"
+          },
+          {
+            "dan": 1338289,
+            "gtin": 30095038,
+            "hex": "#fcfaf8",
+            "href": "/p/d/1338289/essie-nagellack-01-blanc",
+            "isSelected": false,
+            "tooltip": "1 blanc"
+          }
+        ]
+      }
+    },
+    "context": {
+      "rating": {
+        "ratingValue": 3.8333,
+        "ratingCount": 6
+      }
+    }
+  }
+]
