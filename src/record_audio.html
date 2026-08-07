@@ -1,0 +1,603 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GEMS-Bench Recorder</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #f3f0e8;
+      --paper-deep: #e8e1d2;
+      --ink: #1e2824;
+      --muted: #667069;
+      --line: #c9c3b5;
+      --green: #185c44;
+      --green-hover: #104a36;
+      --red: #a13d32;
+      --red-hover: #853027;
+      --gold: #c58a24;
+      --disabled: #aaa79e;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      color: var(--ink);
+      background-color: var(--paper);
+      background-image:
+        linear-gradient(rgba(30, 40, 36, 0.035) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(30, 40, 36, 0.035) 1px, transparent 1px);
+      background-size: 28px 28px;
+      font-family: "Avenir Next", Avenir, "Trebuchet MS", sans-serif;
+    }
+
+    main {
+      width: min(1040px, calc(100% - 40px));
+      min-height: 100vh;
+      margin: 0 auto;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      gap: 36px;
+      padding: 32px 0 40px;
+    }
+
+    header {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 24px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+      font-size: clamp(1.55rem, 4vw, 2.2rem);
+      font-weight: 600;
+      letter-spacing: 0;
+    }
+
+    .microphone {
+      display: grid;
+      gap: 6px;
+      width: min(360px, 100%);
+    }
+
+    label {
+      color: var(--muted);
+      font-size: 0.76rem;
+      font-weight: 700;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+
+    select {
+      width: 100%;
+      min-height: 44px;
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      padding: 0 38px 0 12px;
+      color: var(--ink);
+      background: #fffdf8;
+      font: inherit;
+    }
+
+    .question-area {
+      display: grid;
+      align-content: center;
+      min-height: 320px;
+      padding: 40px 0;
+    }
+
+    #question {
+      max-width: 920px;
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+      font-size: clamp(1.85rem, 5vw, 3.75rem);
+      line-height: 1.18;
+      letter-spacing: 0;
+      text-wrap: balance;
+    }
+
+    #card { max-width: 920px; display: grid; gap: 18px; }
+
+    .card-head { display: flex; align-items: center; gap: 12px; }
+
+    .chip {
+      display: inline-block;
+      padding: 4px 10px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: #fffdf8;
+      color: var(--muted);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .chip.retake { border-color: var(--red); color: var(--red); }
+    .chip.speaker { border-color: var(--green); color: var(--green); }
+    .vinfo { margin-left: auto; color: var(--muted); font-size: 0.82rem; }
+
+    .who { display: grid; gap: 6px; justify-items: start; }
+    .who .chip { font-size: 0.8rem; }
+
+    #script {
+      margin: 0;
+      font-family: "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+      font-size: clamp(1.5rem, 3.6vw, 2.6rem);
+      line-height: 1.3;
+      text-wrap: balance;
+    }
+
+    .block label {
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    #entities, #quantities {
+      margin: 0;
+      padding-left: 22px;
+      display: grid;
+      gap: 4px;
+      font-size: 0.92rem;
+      color: var(--muted);
+    }
+
+    #entities li { font-weight: 600; }
+
+    .rules {
+      margin: 0;
+      padding: 14px 16px 14px 34px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: rgba(255, 253, 248, 0.6);
+      display: grid;
+      gap: 5px;
+      font-size: 0.9rem;
+      list-style: none;
+    }
+
+    .rules li { position: relative; }
+    .rules li::before { position: absolute; left: -22px; font-weight: 700; }
+    .rules li.ok::before { content: "\2713"; color: var(--green); }
+    .rules li.no::before { content: "\2717"; color: var(--red); }
+    .rules li.arrow::before { content: "\2192"; color: var(--gold); }
+
+    #status {
+      min-height: 24px;
+      margin: 20px 0 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    #status.error { color: var(--red); }
+    #status.recording { color: var(--green); }
+
+    .controls {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(110px, 1fr));
+      gap: 10px;
+      border-top: 1px solid var(--line);
+      padding-top: 18px;
+    }
+
+    button {
+      min-height: 54px;
+      border: 1px solid var(--ink);
+      border-radius: 4px;
+      padding: 0 18px;
+      color: var(--ink);
+      background: transparent;
+      font: 700 0.95rem/1 "Avenir Next", Avenir, "Trebuchet MS", sans-serif;
+      letter-spacing: 0;
+      cursor: pointer;
+    }
+
+    button:hover:not(:disabled) { background: var(--paper-deep); }
+    button:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+    button:disabled { border-color: var(--disabled); color: var(--disabled); cursor: default; }
+
+    #start { color: #fff; border-color: var(--green); background: var(--green); }
+    #start:hover:not(:disabled) { background: var(--green-hover); }
+    #retry { color: var(--red); border-color: var(--red); }
+    #retry:hover:not(:disabled) { color: #fff; background: var(--red-hover); }
+    #next { color: #fff; border-color: var(--ink); background: var(--ink); }
+    #next:hover:not(:disabled) { background: #34413b; }
+
+    @media (max-width: 700px) {
+      main { width: min(100% - 28px, 1040px); gap: 20px; padding-top: 20px; }
+      header { align-items: stretch; flex-direction: column; }
+      .microphone { width: 100%; }
+      .question-area { min-height: 280px; padding: 24px 0; }
+      #question { text-wrap: pretty; }
+      .controls { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div class="who">
+        <h1>GEMS-Bench Recorder</h1>
+        <span id="speaker" class="chip speaker" hidden></span>
+      </div>
+      <div class="microphone">
+        <label for="microphone">Microphone</label>
+        <select id="microphone"></select>
+      </div>
+    </header>
+
+    <section class="question-area" aria-live="polite">
+      <div id="card" hidden>
+        <div class="card-head">
+          <span id="retake" class="chip retake" hidden></span>
+          <span id="vinfo" class="vinfo"></span>
+        </div>
+        <p id="script"></p>
+        <div class="block" id="entitiesBlock" hidden>
+          <label>Begriffe im Text oben (Aussprache-Hilfe)</label>
+          <ul id="entities"></ul>
+        </div>
+        <div class="block" id="qtyBlock" hidden>
+          <label>Portionen im Text oben</label>
+          <ul id="quantities"></ul>
+        </div>
+        <ul class="rules">
+          <li class="ok">GENAU wie oben geschrieben laut vorlesen</li>
+          <li class="ok">Ruhiges, natürliches Sprechtempo</li>
+          <li class="no">KEINE eigenen Worte, nichts umformulieren</li>
+          <li class="no">Nichts weglassen oder hinzufügen</li>
+          <li class="arrow">Versprecher? Retry drücken und neu starten</li>
+        </ul>
+      </div>
+      <p id="question" hidden>Loading question...</p>
+      <p id="status" role="status"></p>
+    </section>
+
+    <div class="controls">
+      <button id="start" type="button">Start</button>
+      <button id="pause" type="button" disabled>Pause</button>
+      <button id="retry" type="button" disabled>Retry</button>
+      <button id="next" type="button" disabled>Next</button>
+    </div>
+  </main>
+
+  <script>
+    const questionElement = document.querySelector("#question");
+    const cardElement = document.querySelector("#card");
+    const retakeElement = document.querySelector("#retake");
+    const speakerElement = document.querySelector("#speaker");
+    const vinfoElement = document.querySelector("#vinfo");
+    const scriptElement = document.querySelector("#script");
+    const entitiesBlock = document.querySelector("#entitiesBlock");
+    const entitiesElement = document.querySelector("#entities");
+    const qtyBlock = document.querySelector("#qtyBlock");
+    const quantitiesElement = document.querySelector("#quantities");
+    const statusElement = document.querySelector("#status");
+    const microphoneSelect = document.querySelector("#microphone");
+    const startButton = document.querySelector("#start");
+    const pauseButton = document.querySelector("#pause");
+    const retryButton = document.querySelector("#retry");
+    const nextButton = document.querySelector("#next");
+
+    let appConfig;
+    let currentItem;
+    let recordingState = "idle";
+    let mediaStream;
+    let audioContext;
+    let sourceNode;
+    let processorNode;
+    let chunks = [];
+
+    function setStatus(message, kind = "") {
+      statusElement.textContent = message;
+      statusElement.className = kind;
+    }
+
+    function updateControls() {
+      const complete = recordingState === "complete";
+      const busy = recordingState === "saving";
+      const active = recordingState === "recording";
+      const paused = recordingState === "paused";
+      startButton.disabled = complete || busy || active;
+      pauseButton.disabled = !active;
+      retryButton.disabled = complete || busy || recordingState === "idle";
+      nextButton.disabled = complete || busy || recordingState === "idle";
+      microphoneSelect.disabled = complete || Boolean(mediaStream);
+    }
+
+    function renderSpeaker(state) {
+      // Who is at the microphone. The server serves only this speaker's half of
+      // the set, so the badge doubles as a check that the right person sat down.
+      speakerElement.hidden = !state.speaker;
+      if (!state.speaker) return;
+      const total = state.speaker_total ?? 0;
+      speakerElement.textContent = `${state.speaker} · ${total} Fragen`;
+    }
+
+    function renderVerification(state) {
+      const v = state.verification;
+      if (!v || !state.gate_enabled) { vinfoElement.textContent = ""; return; }
+      const pending = state.pending ?? 0;
+      vinfoElement.textContent =
+        `Verifiziert: ${v.passed} ok · ${v.failed} fail   |   noch ${pending}`;
+    }
+
+    function fillList(element, values) {
+      element.replaceChildren();
+      for (const value of values || []) {
+        const li = document.createElement("li");
+        li.textContent = value;
+        element.append(li);
+      }
+    }
+
+    function renderState(state) {
+      renderSpeaker(state);
+      renderVerification(state);
+      if (state.complete) {
+        currentItem = undefined;
+        recordingState = "complete";
+        cardElement.hidden = true;
+        questionElement.hidden = false;
+        questionElement.textContent =
+          `Alle Aufnahmen für ${state.speaker} erledigt.`;
+        setStatus(
+          "Warte auf offene Verifizierungen, dann Ctrl+C im Terminal. " +
+          "Für die andere Hälfte: recording.currently_recording in config.yaml " +
+          "umstellen und neu starten."
+        );
+        stopCapture();
+      } else {
+        currentItem = state.item;
+        questionElement.hidden = true;
+        cardElement.hidden = false;
+        scriptElement.textContent = currentItem.text;
+        const entities = currentItem.entities || [];
+        entitiesBlock.hidden = entities.length === 0;
+        fillList(entitiesElement, entities);
+        const qty = currentItem.quantities || [];
+        qtyBlock.hidden = qty.length === 0;
+        fillList(quantitiesElement, qty);
+        if (currentItem.retake) {
+          retakeElement.hidden = false;
+          const why = (currentItem.prior_failed_checks || []).join(", ");
+          retakeElement.textContent = why ? `Re-Take · ${why}` : "Re-Take";
+        } else {
+          retakeElement.hidden = true;
+        }
+      }
+      updateControls();
+    }
+
+    async function fetchJson(path, options) {
+      const response = await fetch(path, options);
+      const value = await response.json();
+      if (!response.ok) {
+        throw new Error(value.error || `Request failed (${response.status})`);
+      }
+      return value;
+    }
+
+    async function refreshMicrophones() {
+      const previous = microphoneSelect.value;
+      const devices = (await navigator.mediaDevices.enumerateDevices())
+        .filter((device) => device.kind === "audioinput");
+      microphoneSelect.replaceChildren();
+      for (const [index, device] of devices.entries()) {
+        const option = document.createElement("option");
+        option.value = device.deviceId;
+        option.textContent = device.label || `Microphone ${index + 1}`;
+        microphoneSelect.append(option);
+      }
+      if (devices.some((device) => device.deviceId === previous)) {
+        microphoneSelect.value = previous;
+      }
+    }
+
+    async function requestMicrophonePermission() {
+      try {
+        const permissionStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        permissionStream.getTracks().forEach((track) => track.stop());
+        await refreshMicrophones();
+        setStatus("Ready.");
+      } catch (error) {
+        await refreshMicrophones();
+        setStatus(`Microphone access needed: ${error.message}`, "error");
+      }
+    }
+
+    async function createCapture() {
+      const selectedDevice = microphoneSelect.value;
+      const audioConstraints = {
+        channelCount: { ideal: 1 },
+        echoCancellation: appConfig.echoCancellation,
+        noiseSuppression: appConfig.noiseSuppression,
+        autoGainControl: appConfig.autoGainControl,
+      };
+      if (selectedDevice) {
+        audioConstraints.deviceId = { exact: selectedDevice };
+      }
+      mediaStream = await navigator.mediaDevices.getUserMedia({ audio: audioConstraints });
+      audioContext = new AudioContext();
+      sourceNode = audioContext.createMediaStreamSource(mediaStream);
+      processorNode = audioContext.createScriptProcessor(4096, 1, 1);
+      processorNode.onaudioprocess = (event) => {
+        event.outputBuffer.getChannelData(0).fill(0);
+        if (recordingState === "recording") {
+          chunks.push(new Float32Array(event.inputBuffer.getChannelData(0)));
+        }
+      };
+      sourceNode.connect(processorNode);
+      processorNode.connect(audioContext.destination);
+    }
+
+    async function startRecording() {
+      if (!currentItem) return;
+      try {
+        if (!mediaStream) {
+          chunks = [];
+          await createCapture();
+        }
+        await audioContext.resume();
+        recordingState = "recording";
+        setStatus("Recording...", "recording");
+        updateControls();
+      } catch (error) {
+        recordingState = "idle";
+        setStatus(error.message, "error");
+        updateControls();
+      }
+    }
+
+    function pauseRecording() {
+      recordingState = "paused";
+      setStatus("Paused.");
+      updateControls();
+    }
+
+    function retryRecording() {
+      chunks = [];
+      recordingState = "recording";
+      setStatus("Recording new take...", "recording");
+      updateControls();
+    }
+
+    function mergeChunks() {
+      const length = chunks.reduce((total, chunk) => total + chunk.length, 0);
+      const merged = new Float32Array(length);
+      let offset = 0;
+      for (const chunk of chunks) {
+        merged.set(chunk, offset);
+        offset += chunk.length;
+      }
+      return merged;
+    }
+
+    function resample(input, inputRate, outputRate) {
+      if (inputRate === outputRate) return input;
+      const ratio = inputRate / outputRate;
+      const output = new Float32Array(Math.round(input.length / ratio));
+      for (let index = 0; index < output.length; index += 1) {
+        const position = index * ratio;
+        const left = Math.floor(position);
+        const right = Math.min(left + 1, input.length - 1);
+        const fraction = position - left;
+        output[index] = input[left] + (input[right] - input[left]) * fraction;
+      }
+      return output;
+    }
+
+    function writeAscii(view, offset, text) {
+      for (let index = 0; index < text.length; index += 1) {
+        view.setUint8(offset + index, text.charCodeAt(index));
+      }
+    }
+
+    function encodeWav(samples, sampleRate) {
+      const buffer = new ArrayBuffer(44 + samples.length * 2);
+      const view = new DataView(buffer);
+      writeAscii(view, 0, "RIFF");
+      view.setUint32(4, 36 + samples.length * 2, true);
+      writeAscii(view, 8, "WAVE");
+      writeAscii(view, 12, "fmt ");
+      view.setUint32(16, 16, true);
+      view.setUint16(20, 1, true);
+      view.setUint16(22, 1, true);
+      view.setUint32(24, sampleRate, true);
+      view.setUint32(28, sampleRate * 2, true);
+      view.setUint16(32, 2, true);
+      view.setUint16(34, 16, true);
+      writeAscii(view, 36, "data");
+      view.setUint32(40, samples.length * 2, true);
+      for (let index = 0; index < samples.length; index += 1) {
+        const sample = Math.max(-1, Math.min(1, samples[index]));
+        view.setInt16(44 + index * 2, sample < 0 ? sample * 32768 : sample * 32767, true);
+      }
+      return new Blob([buffer], { type: "audio/wav" });
+    }
+
+    async function saveAndNext() {
+      const samples = mergeChunks();
+      if (samples.length === 0) {
+        setStatus("No audio captured yet.", "error");
+        return;
+      }
+      recordingState = "saving";
+      setStatus("Saving...");
+      updateControls();
+      const itemId = currentItem.id;
+      const wav = encodeWav(
+        resample(samples, audioContext.sampleRate, appConfig.sampleRate),
+        appConfig.sampleRate,
+      );
+      try {
+        const nextState = await fetchJson("/api/recording", {
+          method: "POST",
+          headers: { "Content-Type": "audio/wav", "X-GEMS-Item-ID": itemId },
+          body: wav,
+        });
+        chunks = [];
+        renderState(nextState);
+        if (!nextState.complete) {
+          await startRecording();
+        }
+      } catch (error) {
+        recordingState = "paused";
+        setStatus(error.message, "error");
+        updateControls();
+      }
+    }
+
+    function stopCapture() {
+      if (processorNode) processorNode.disconnect();
+      if (sourceNode) sourceNode.disconnect();
+      if (mediaStream) mediaStream.getTracks().forEach((track) => track.stop());
+      if (audioContext && audioContext.state !== "closed") audioContext.close();
+      processorNode = undefined;
+      sourceNode = undefined;
+      mediaStream = undefined;
+      audioContext = undefined;
+    }
+
+    startButton.addEventListener("click", startRecording);
+    pauseButton.addEventListener("click", pauseRecording);
+    retryButton.addEventListener("click", retryRecording);
+    nextButton.addEventListener("click", saveAndNext);
+    navigator.mediaDevices.addEventListener("devicechange", refreshMicrophones);
+    window.addEventListener("beforeunload", stopCapture);
+
+    async function pollState() {
+      // Verification runs async on the server; refresh the badge live, and pick
+      // up items that failed the gate and were re-queued. Never disrupt an
+      // in-progress take: only re-render the card when idle/paused/complete.
+      try {
+        const state = await fetchJson("/api/state");
+        renderVerification(state);
+        const busy = recordingState === "recording" || recordingState === "saving";
+        if (busy) return;
+        const changedItem = state.item && (!currentItem || currentItem.id !== state.item.id);
+        const cameBack = recordingState === "complete" && !state.complete;
+        if (changedItem || cameBack || (state.complete && recordingState !== "complete")) {
+          renderState(state);
+        }
+      } catch (_) { /* transient; next tick retries */ }
+    }
+
+    Promise.all([fetchJson("/api/config"), fetchJson("/api/state")])
+      .then(async ([config, state]) => {
+        appConfig = config;
+        renderState(state);
+        if (!state.complete) await requestMicrophonePermission();
+        setInterval(pollState, 4000);
+      })
+      .catch((error) => setStatus(error.message, "error"));
+  </script>
+</body>
+</html>
