@@ -15,10 +15,9 @@ voice: marin
 endpoint_var: AZURE_OPENAI_ENDPOINT
 key_var: AZURE_OPENAI_API_KEY
 
-# Simulated latency per knowledge-tool call (ms). A real catalog/PIM API is not
-# instant. Whatever is compared against this run has to use the same number or
-# the latency figures are not comparable. 0 = answer at local speed.
-tool_api_delay_ms: 300
+# No tool-latency setting here on purpose. The simulated knowledge-API delay is
+# the benchmark's (config.yaml tools.api_delay_ms) and is charged inside the tool
+# handlers, so this driver cannot give its model an easier run than another one.
 
 connect_timeout_s: 20            # websocket connect + session.updated ack
 

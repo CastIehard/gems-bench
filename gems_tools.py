@@ -13,8 +13,14 @@ ProductCatalog docstring.
 
 Catalog entry shape (framework-agnostic):
     {name: {"description": str, "parameters": json_schema, "handler": callable,
-            "api_delay": bool}}
+            "api_delay_ms": int}}
 The handler takes an arguments dict and returns a JSON-serializable dict.
+
+`api_delay_ms` is the simulated knowledge-API latency (`config.yaml`
+`tools.api_delay_ms`) that the handler **already applied** — reported so a run
+can record what it was measured with. Do NOT add it again in your caller: the
+benchmark owns this number so that two systems are compared under the same tool
+latency. Handlers block while waiting, so call them off your event loop.
 """
 
 from __future__ import annotations
@@ -23,6 +29,8 @@ import json
 import math
 import re
 import sys
+import time
+from collections.abc import Callable
 from pathlib import Path
 from typing import Any
 
@@ -36,6 +44,30 @@ _TOKEN_PATTERN = re.compile(r"[a-zäöüß0-9]+")
 
 def _tokenize(text: str) -> list[str]:
     return _TOKEN_PATTERN.findall(text.lower())
+
+
+def _with_api_delay(
+    handler: Callable[[dict[str, Any]], dict[str, Any]], delay_s: float
+) -> Callable[[dict[str, Any]], dict[str, Any]]:
+    """Charge the simulated knowledge-API latency inside the handler itself.
+
+    Here, not in the caller, so the number cannot be chosen by the system under
+    test: whoever calls the tool pays it — the speech model, a background agent,
+    a driver of your own. That makes tool latency a property of the benchmark,
+    like the corpus and the questions, instead of a knob each contender sets.
+
+    The wait is a plain blocking `time.sleep`, because a handler in this module
+    is plain synchronous code. A host with an event loop must therefore run
+    handlers off that loop (e.g. `asyncio.to_thread`) — which it has to do
+    anyway, since retrieval itself is CPU-bound and would block just as well.
+    """
+
+    def _delayed(arguments: dict[str, Any]) -> dict[str, Any]:
+        if delay_s > 0:
+            time.sleep(delay_s)
+        return handler(arguments)
+
+    return _delayed
 
 
 class GemsCorpus:
@@ -234,6 +266,8 @@ def build_tool_catalog(**_ignored: Any) -> dict[str, dict[str, Any]]:
     prompts = yaml.safe_load(config["_paths"]["prompts"].read_text(encoding="utf-8"))
     tool_prompts = prompts["tools"]
     notes = prompts["responses"]
+    api_delay_ms = int(config["tools"]["api_delay_ms"])
+    api_delay_s = api_delay_ms / 1000.0
     retrieval_config = config["retrieval"]
     top_k = int(retrieval_config["top_k"])
     corpus_path = config["_paths"]["corpus"]
@@ -301,13 +335,13 @@ def build_tool_catalog(**_ignored: Any) -> dict[str, dict[str, Any]]:
         "product_lookup": {
             "description": product_lookup_description,
             "parameters": product_lookup_parameters,
-            "handler": product_lookup,
-            "api_delay": True,
+            "handler": _with_api_delay(product_lookup, api_delay_s),
+            "api_delay_ms": api_delay_ms,
         },
         "search_database": {
             "description": search_tool_description,
             "parameters": search_tool_parameters,
-            "handler": search_database,
-            "api_delay": True,
+            "handler": _with_api_delay(search_database, api_delay_s),
+            "api_delay_ms": api_delay_ms,
         },
     }

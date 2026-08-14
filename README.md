@@ -259,7 +259,7 @@ Two tools, identical for every system, from `gems_tools.py`:
 ```python
 from gems_tools import build_tool_catalog
 catalog = build_tool_catalog()
-# {name: {"description", "parameters", "handler", "api_delay"}}
+# {name: {"description", "parameters", "handler", "api_delay_ms"}}
 ```
 
 - **`search_database`** — BM25 keyword search over the German prose corpus, with
@@ -272,6 +272,17 @@ catalog = build_tool_catalog()
 
 The handler takes an arguments dict and returns a JSON-serializable dict, so it
 drops into any framework.
+
+**Tool latency belongs to the benchmark.** Every call costs
+`config.yaml tools.api_delay_ms` (default 300 ms), and the wait sits *inside the
+handler*: a real product catalog or PIM service is not instant, and how long a
+system waits for facts is part of what is being measured. Because the benchmark
+charges it, no contender can pick a friendlier number, and everything that calls
+a tool pays — the speech model, a background agent, your own driver. Entries
+report the figure as `api_delay_ms` so a run can record what it was measured
+with; do not add it a second time in your code. Handlers block while waiting, so
+call them off your event loop (`asyncio.to_thread` or a worker thread) —
+necessary anyway, since BM25 retrieval is CPU-bound.
 
 ### The prompt contract
 

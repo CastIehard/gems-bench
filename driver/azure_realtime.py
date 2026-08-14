@@ -57,7 +57,6 @@ TIMEOUT_S = float(_RT["timeout_s"])
 AUDIO_QUIET_DONE_S = float(_RT["audio_quiet_done_s"])
 RECOVERABLE = frozenset(_RT["recoverable_error_codes"])
 CONNECT_TIMEOUT_S = float(_AR["connect_timeout_s"])
-TOOL_DELAY_S = float(_AR["tool_api_delay_ms"]) / 1000.0
 
 
 def websocket_url(endpoint: str, deployment: str) -> str:
@@ -492,9 +491,11 @@ class AzureRealtimeSystem(VoiceSystem):
             arguments = orjson.loads(call.get("arguments") or "{}")
         except ValueError:
             return {"status": "error", "message": "arguments were not valid JSON"}
-        if TOOL_DELAY_S and tool.get("api_delay"):
-            await asyncio.sleep(TOOL_DELAY_S)
         try:
+            # The simulated knowledge-API latency is charged inside the handler
+            # by the benchmark (config.yaml tools.api_delay_ms) — not added here,
+            # so no system under test can choose its own. to_thread keeps that
+            # blocking wait, and BM25 retrieval, off this event loop.
             return await asyncio.to_thread(tool["handler"], arguments)
         except Exception as exc:  # noqa: BLE001
             return {"status": "error", "message": f"{type(exc).__name__}: {exc}"}
@@ -534,7 +535,7 @@ def main() -> None:
     print(f"endpoint   : {system.endpoint}")
     print(f"audio      : {ed.AUDIO_SOURCE}")
     print(f"tools      : {', '.join(t['name'] for t in system.tools)}")
-    print(f"tool delay : {_AR['tool_api_delay_ms']} ms")
+    print(f"tool delay : {system.catalog['search_database']['api_delay_ms']} ms (benchmark-owned)")
 
     try:
         if args.check:

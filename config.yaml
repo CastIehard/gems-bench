@@ -43,6 +43,13 @@ audio:
 retrieval:
   top_k: 3
 
+# - The world tools -
+# Simulated latency of the knowledge API, per call, in milliseconds. A real
+# product catalog / PIM service is not instant, and how long a system waits for
+# facts is part of what this benchmark measures.
+tools:
+  api_delay_ms: 300
+
 # - Audio feeding -
 # How the question audio is played into the system under test. The first three
 # keys are used by example_driver.py and are generic. The rest are for a driver

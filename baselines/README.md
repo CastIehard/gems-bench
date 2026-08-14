@@ -50,26 +50,3 @@ asked on in `audio_source`.
 | `early` | 5 % | 5 % |
 | `select` | 65 % | 50 % |
 | `combined` | 35 % | 45 % |
-
-**The channel gap is not significant.** Paired over the same 100 questions: 29
-correct on both, 51 wrong on both, 12 only on synthesized, 8 only on human-read.
-Exact McNemar p = 0.50. TTFA matches to 0.04 s (paired median).
-
-**`serial` and `early` collapse to 5 %.** Not a scoring artifact. Both need a
-depth-3/4 chain, and the model typically stops after two tool calls: it reads the
-product's own supplier out of `product_lookup` and answers from there. For half
-the products that supplier differs from the brand's supplier
-(`schema.marke_override_rate`), which is exactly the shortcut the graph is built
-to punish, so the chain has to be walked rather than guessed.
-
-**A stalled turn is a real result, not a missing measurement.** On the fan-out
-categories the model sometimes looks up two of the products, says it will
-continue, and ends the turn. Nothing in a plain session triggers a further
-response, so the answer stays incomplete and scores incorrect. That is the
-configuration behaving as configured.
-
-**Two items were re-run** after an interrupted turn: one hit an Azure
-`first_output_timeout` (a server-side failure, not a model failure), one was
-answered before the question finished and is described above. Both were re-run
-with the same configuration under the same label; both then scored incorrect on
-their merits, so the headline number is unchanged either way.
