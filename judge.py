@@ -114,6 +114,7 @@ def extract_timing_metrics(timing_events: list[dict]) -> dict:
                     {
                         "timestamp_monotonic": ts,
                         "tool_name": payload.get("tool_name"),
+                        "call_id": payload.get("call_id"),
                         "source": "interaction_layer",
                         "user_speech_active": payload.get("user_speech_active"),
                     }
@@ -124,10 +125,30 @@ def extract_timing_metrics(timing_events: list[dict]) -> dict:
                     {
                         "timestamp_monotonic": ts,
                         "tool_name": payload.get("tool_name"),
+                        "call_id": payload.get("call_id"),
                         "source": payload.get("source") or "background",
                         "user_speech_active": None,
                     }
                 )
+
+    # Chunked calls are logged twice: once as the canonical timing event and
+    # once as a UI background event. Keep one record per call_id, preferring the
+    # timing event because it carries the explicit speech-active flag. Legacy
+    # events without a call_id remain distinct.
+    deduplicated: dict[str, dict] = {}
+    unkeyed: list[dict] = []
+    for tool in tool_events:
+        call_id = tool.get("call_id")
+        if not call_id:
+            unkeyed.append(tool)
+            continue
+        existing = deduplicated.get(str(call_id))
+        if existing is None or (
+            existing["user_speech_active"] is None
+            and tool["user_speech_active"] is not None
+        ):
+            deduplicated[str(call_id)] = tool
+    tool_events = [*deduplicated.values(), *unkeyed]
 
     def during_listening(tool: dict) -> bool:
         if tool["user_speech_active"] is not None:
