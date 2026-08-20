@@ -337,6 +337,22 @@ Pacing knobs live under `realtime:` in `config.yaml`.
 - `transcript.jsonl`, `timing.jsonl` — optional; feed the latency and
   tool-split metrics if present.
 
+Two metric families read those records, and they count different things:
+
+- The **tool-call split** (`tools_during_listening` / `tools_after_listening`)
+  counts what the model under test itself called: `timing_event`s named
+  `speech_tool_call`, or `background_event`s with `kind: "tool_call"`.
+- The **document metrics** (`docs_retrieved`, `doc_precision`, `doc_recall`,
+  `gold_doc_recall_eos`) count every document the whole system retrieved. If
+  your system delegates retrieval to background workers whose calls never pass
+  through the model's own tool channel, log each of those calls in
+  `timing.jsonl` as `{"event_type": "background_event", "timestamp_monotonic":
+  <float>, "payload": {"kind": "subagent_tool_result", "result": <the tool's
+  return value>}}`. Without it, a delegating system is scored on the fraction of
+  its retrieval that happened to run inside the model. The distinct `kind` keeps
+  those calls out of the tool-call split, which is deliberate: delegating once
+  and retrieving ten times is not the same cost as ten calls from the model.
+
 ### Score it
 
 ```bash

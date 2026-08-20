@@ -191,16 +191,46 @@ def extract_timing_metrics(timing_events: list[dict]) -> dict:
     }
 
 
-def extract_retrieved_docs(raw_events: list[dict]) -> dict[str, float | None]:
+def extract_retrieved_docs(
+    raw_events: list[dict], timing_events: list[dict]
+) -> dict[str, float | None]:
     """Distinct doc_ids the search tool RETURNED this session → earliest
     retrieval timestamp (monotonic).
 
-    Reads the tool RESULT, logged as a `function_call_output` item inside a
-    `conversation.item.create` event in raw_realtime_events.jsonl. Only
-    `search_database` returns doc_ids (the structured `product_lookup` has none),
-    so this measures prose-retrieval precision/recall. The timestamp lets us bin
-    a gold doc as retrieved before/after end-of-speech (deadline)."""
+    Two sources, because a system may retrieve from more than one place:
+
+    * the model's own calls, logged as a `function_call_output` item inside a
+      `conversation.item.create` event in raw_realtime_events.jsonl;
+    * calls made by background workers the system runs beside the model, logged
+      as a `background_event` with `kind == "subagent_tool_result"` in
+      timing.jsonl. Those never travel over the realtime protocol, so reading
+      only the first source scored a delegating system on the fraction of its
+      retrieval that happened to run in the model itself.
+
+    Document metrics are about the SYSTEM's retrieval and count both. The
+    tool-CALL split in `extract_timing_metrics` is about what the model itself
+    did and counts only `kind == "tool_call"` — the two answer different
+    questions and must not be merged.
+
+    Only `search_database` returns doc_ids (the structured `product_lookup` has
+    none), so this measures prose-retrieval precision/recall. The timestamp lets
+    us bin a gold doc as retrieved before/after end-of-speech (deadline).
+    """
     first_ts: dict[str, float | None] = {}
+
+    def note(result: object, ts: float | None) -> None:
+        if not isinstance(result, dict):
+            return
+        for r in result.get("results", []) or []:
+            if not isinstance(r, dict):
+                continue
+            did = r.get("doc_id")
+            if not did:
+                continue
+            prev = first_ts.get(did)
+            if did not in first_ts or (ts is not None and (prev is None or ts < prev)):
+                first_ts[did] = ts
+
     for e in raw_events:
         inner = e.get("payload", e)
         ev = inner.get("event") or {}
@@ -216,14 +246,16 @@ def extract_retrieved_docs(raw_events: list[dict]) -> dict[str, float | None]:
             parsed = out if isinstance(out, dict) else orjson.loads(out)
         except (TypeError, ValueError):
             continue
-        ts = e.get("timestamp_monotonic")
-        for r in parsed.get("results", []) or []:
-            did = r.get("doc_id")
-            if not did:
-                continue
-            prev = first_ts.get(did)
-            if did not in first_ts or (ts is not None and (prev is None or ts < prev)):
-                first_ts[did] = ts
+        note(parsed, e.get("timestamp_monotonic"))
+
+    for e in timing_events:
+        if e.get("event_type") != "background_event":
+            continue
+        payload = e.get("payload") or {}
+        if payload.get("kind") != "subagent_tool_result":
+            continue
+        note(payload.get("result"), e.get("timestamp_monotonic"))
+
     return first_ts
 
 
@@ -396,9 +428,11 @@ def run(modes: list[str] | None = None) -> dict:
             stt_answer = whisper_answer(record_dir, run_entry, stt_cache)
             answer = stt_answer if stt_answer is not None else realtime_answer
             answer_source = "whisper" if stt_answer is not None else "realtime_fallback"
-            metrics = extract_timing_metrics(read_jsonl(record_dir / "timing.jsonl"))
+            timing_events = read_jsonl(record_dir / "timing.jsonl")
+            metrics = extract_timing_metrics(timing_events)
             retrieved_ts = extract_retrieved_docs(
-                read_jsonl(record_dir / "raw_realtime_events.jsonl")
+                read_jsonl(record_dir / "raw_realtime_events.jsonl"),
+                timing_events,
             )
             doc_metrics = doc_retrieval_metrics(
                 retrieved_ts, entry.get("gold_documents", []), metrics.get("eos_ts")
