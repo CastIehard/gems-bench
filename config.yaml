@@ -70,6 +70,14 @@ realtime:
   # Only list a code your system provably recovers from — anything else should
   # still abort, or a broken turn is scored as a wrong answer.
   recoverable_error_codes: [input_audio_buffer_commit_empty]
+  # A dead link to the system under test looks EXACTLY like a failed question in
+  # the run index. On 2026-08-18 the SSH tunnel to the self-hosted arm dropped
+  # mid-run and the driver marched through 33 more questions at ~7 s each,
+  # recording every one as a failure while the Slurm job burned walltime. Two in
+  # a row is already proof the link is gone, not the answer: abort so `--resume`
+  # can pick them up once the tunnel is back.
+  connection_error_markers: [APIConnectionError, APITimeoutError, ConnectError]
+  abort_after_consecutive_connection_errors: 2
 
 # - Data source: public DM Search API (name/category skeleton only) -
 data_source:
